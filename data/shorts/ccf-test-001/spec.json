@@ -1,0 +1,72 @@
+{
+  "short_id": "ccf-test-001",
+  "revision": 1,
+  "candidate_id": "dvids-video-1025010",
+  "lane": "rescue",
+  "story_type": "vessel sinking, helicopter hoist",
+  "hook": "His boat sank. Then his life raft started filling up.",
+  "narration": [
+    "His fishing boat sank off Admiralty Island, Alaska, and the life raft he escaped into started taking on water.",
+    "A Coast Guard Jayhawk crew from Air Station Sitka flew to him, about two miles east of Murder Cove.",
+    "In a hoist like this, the pilots cannot see straight down. The flight mechanic in the open door talks them into position, foot by foot.",
+    "The same crew member runs the cable, lowering help and lifting people back up into the cabin."
+  ],
+  "outcome": "The Sitka aircrew hoisted the boater up and aboard the Jayhawk.",
+  "location_card": {
+    "place": "Admiralty Island, Alaska",
+    "date": "Sept. 28, 2026"
+  },
+  "segments": [
+    {
+      "start": 145,
+      "end": 153,
+      "layout": "crop",
+      "crop_x": 0.45
+    },
+    {
+      "start": 102.4,
+      "end": 110,
+      "layout": "crop",
+      "crop_x": 0.55
+    },
+    {
+      "start": 160,
+      "end": 172,
+      "layout": "crop",
+      "crop_x": 0.45
+    },
+    {
+      "start": 199,
+      "end": 214,
+      "layout": "crop",
+      "crop_x": 0.45
+    }
+  ],
+  "keep_source_audio": true,
+  "title": "His Boat Sank, Then His Life Raft Started Flooding",
+  "description": "A fishing vessel sank near Murder Cove on Admiralty Island, Alaska, and the boater's life raft began taking on water. A Coast Guard Air Station Sitka MH-60 Jayhawk aircrew hoisted him to safety on Sept. 28, 2026.\n\nFootage: U.S. Coast Guard video courtesy of Coast Guard Air Station Sitka, via DVIDS: https://www.dvidshub.net/video/1025010\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #alaska",
+  "tags": [
+    "coast guard rescue",
+    "helicopter hoist",
+    "alaska",
+    "life raft",
+    "jayhawk",
+    "search and rescue",
+    "real footage"
+  ],
+  "question_comment": "Would you have stayed with the raft or tried to swim for shore?",
+  "facts": [
+    {
+      "claim": "Fishing vessel sank and the life raft took on water",
+      "source_quote": "after his fishing vessel sank and his life raft began taking on water"
+    },
+    {
+      "claim": "Air Station Sitka Jayhawk crew, east of Murder Cove",
+      "source_quote": "Coast Guard Air Station Sitka MH-60 Jayhawk helicopter aircrew rescues a stranded boater approximately 2 miles east of Murder Cove"
+    },
+    {
+      "claim": "The aircrew hoisted the boater",
+      "source_quote": "The aircrew hoisted the boater"
+    }
+  ]
+}

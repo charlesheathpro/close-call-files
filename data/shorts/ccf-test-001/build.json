@@ -1,0 +1,82 @@
+{
+  "short_id": "ccf-test-001",
+  "revision": 1,
+  "status": "ok",
+  "built_at": "2026-10-27T03:18:18Z",
+  "duration": 32.72,
+  "source_resolution": "1468x1080",
+  "timeline": [
+    {
+      "text": "His fishing boat sank off Admiralty Island, Alaska, and the life raft he escaped into started taking on water.",
+      "start": 0.05,
+      "end": 7.063
+    },
+    {
+      "text": "A Coast Guard Jayhawk crew from Air Station Sitka flew to him, about two miles east of Murder Cove.",
+      "start": 7.283,
+      "end": 13.5
+    },
+    {
+      "text": "In a hoist like this, the pilots cannot see straight down. The flight mechanic in the open door talks them into position, foot by foot.",
+      "start": 13.72,
+      "end": 22.225
+    },
+    {
+      "text": "The same crew member runs the cable, lowering help and lifting people back up into the cabin.",
+      "start": 22.445,
+      "end": 27.821
+    },
+    {
+      "text": "The Sitka aircrew hoisted the boater up and aboard the Jayhawk.",
+      "start": 28.041,
+      "end": 31.62
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 32.73
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.013
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 1.11
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.5
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -1.5
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-test-001/render_sheet.jpg",
+  "asset_url": null,
+  "local_path": "/tmp/claude-0/ccf/ccf-test-001/ccf-test-001.mp4"
+}
