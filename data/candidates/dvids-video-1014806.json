@@ -1,0 +1,102 @@
+{
+  "id": "dvids-video-1014806",
+  "asset_id": "video:1014806",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:48:30Z",
+  "title": "Coast Guard rescues 2 from water off Haleiwa",
+  "description": "The Coast Guard rescued two men after a 10-foot catamaran capsized approximately 11.5 miles off Haleiwa, Hawaii, July 14, 2026. A Coast Guard HC-130 Hercules airplane crew and MH-65 Dolphin helicopter crew from Air Station Barbers Point located the men in the water with the capsized vessel, safely hoisted them, and brought them ashore to the air station in Kapolei. (U.S. Coast Guard video)",
+  "keywords": "HC-130 Hercules, Haleiwa, Coast Guard",
+  "date": "2026-07-14T06:00:00-04:00",
+  "date_published": "2026-07-15T15:52:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 2nd Class Mikaela McGee",
+  "category": "B-Roll",
+  "virin": "260715-G-DV874-1001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1014806/coast-guard-rescues-2-water-off-haleiwa",
+  "duration": 71.97,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111842351/DOD_111842351-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 78254783
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.93,
+      "e": 4.93,
+      "text": "Thank you"
+    },
+    {
+      "s": 9.33,
+      "e": 11.33,
+      "text": "That was in the coast"
+    },
+    {
+      "s": 12.37,
+      "e": 15.13,
+      "text": "And I love the coast guard so much. Thank you guys"
+    },
+    {
+      "s": 16.13,
+      "e": 18.13,
+      "text": "Because I wouldn't be here right now"
+    },
+    {
+      "s": 23.41,
+      "e": 29.22,
+      "text": "Here we have"
+    }
+  ],
+  "scene_cuts": [
+    33.73
+  ],
+  "audio": {
+    "silence_starts": [
+      35.1,
+      41.6,
+      43.6,
+      47.4,
+      50.5
+    ],
+    "silence_ends": [
+      36.2,
+      42.3,
+      45.3,
+      48.5,
+      51.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1014806.jpg",
+  "sheet_times": [
+    2.23,
+    6.7,
+    11.17,
+    15.63,
+    20.1,
+    24.57,
+    29.03,
+    33.5,
+    37.97,
+    42.43,
+    46.9,
+    51.37,
+    55.83,
+    60.3,
+    64.77,
+    69.23
+  ]
+}

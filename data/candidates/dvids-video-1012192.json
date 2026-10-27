@@ -1,0 +1,65 @@
+{
+  "id": "dvids-video-1012192",
+  "asset_id": "video:1012192",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:49:02Z",
+  "title": "Coast Guard rescues injured hiker from Mount Larrabee in Washington",
+  "description": "A U.S. Coast Guard Air Station Port Angeles helicopter crew rescues a hiker from a steep gully at Mount Larrabee in Washington, June 20, 2026. The rescue was accomplished under extreme conditions at an altitude of 6,710 feet. (Video courtesy of U.S. Coast Guard)",
+  "keywords": "U.S. Coast Guard Air Station Port Angeles, Mount Larrabee",
+  "date": "2026-06-20T03:00:00-04:00",
+  "date_published": "2026-06-24T18:45:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class William Kirk",
+  "category": "B-Roll",
+  "virin": "260620-G-PV420-1001",
+  "location": {
+    "city": "",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1012192/coast-guard-rescues-injured-hiker-mount-larrabee-washington",
+  "duration": 43.11,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111797439/DOD_111797439-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21973869
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.97,
+    14.23
+  ],
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1012192.jpg",
+  "sheet_times": [
+    1.33,
+    3.99,
+    6.66,
+    9.32,
+    11.98,
+    14.65,
+    17.31,
+    19.97,
+    22.64,
+    25.3,
+    27.96,
+    30.63,
+    33.29,
+    35.95,
+    38.62,
+    41.28
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "dvids-video-1017405",
+  "asset_id": "video:1017405",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:47:56Z",
+  "title": "U.S. Coast Guard rescues 2 people stranded on rocks in the Coquille River",
+  "description": "A MH-65 Dolphin helicopter crew from U.S. Coast Guard Air Station North Bend conducts a hoist in the Coquille River Area, Oregon, Aug. 3, 2026. The U.S. Coast Guard rescued two people stranded on the rocks at South Jetty after their boat began taking on water. (Video courtesy U.S. Coast Guard Air Station North Bend)",
+  "keywords": "Search and Rescue (SAR)",
+  "date": "2026-08-03T03:00:00-04:00",
+  "date_published": "2026-08-03T21:07:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Briana Carter",
+  "category": "B-Roll",
+  "virin": "260803-D-G0213-4752",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1017405/us-coast-guard-rescues-2-people-stranded-rocks-coquille-river",
+  "duration": 60.69,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111880813/DOD_111880813-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 69187841
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    38.67,
+    51.32
+  ],
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      60.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1017405.jpg",
+  "sheet_times": [
+    1.88,
+    5.64,
+    9.41,
+    13.17,
+    16.93,
+    20.69,
+    24.45,
+    28.22,
+    31.98,
+    35.74,
+    39.5,
+    43.26,
+    47.03,
+    50.79,
+    54.55,
+    58.31
+  ]
+}

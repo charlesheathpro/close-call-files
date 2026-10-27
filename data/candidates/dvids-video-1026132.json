@@ -1,0 +1,70 @@
+{
+  "id": "dvids-video-1026132",
+  "asset_id": "video:1026132",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:46:46Z",
+  "title": "Coast Guard rescues man from grounded sailboat near Coronado",
+  "description": "A U.S. Coast Guard Air Station Ventura helicopter aircrew rescues a man trapped aboard a grounded sailboat near Coronado, California, Oct 11, 2026. The rescue swimmer tore open part of the cabin's roof to gain access to the trapped man. (U.S. Coast Guard courtesy video)",
+  "keywords": "Southwest, Air Station Ventura, SAR, USCG",
+  "date": "2026-10-11T03:00:00-04:00",
+  "date_published": "2026-10-12T00:53:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Christopher Sappey",
+  "category": "B-Roll",
+  "virin": "261011-G-FF318-1002",
+  "location": {
+    "city": "Coronado",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1026132/coast-guard-rescues-man-grounded-sailboat-near-coronado",
+  "duration": 59.75,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112052289/DOD_112052289.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 75277109
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.62,
+    16.25,
+    41.21
+  ],
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1026132.jpg",
+  "sheet_times": [
+    1.85,
+    5.55,
+    9.26,
+    12.96,
+    16.66,
+    20.37,
+    24.07,
+    27.77,
+    31.48,
+    35.18,
+    38.88,
+    42.59,
+    46.29,
+    49.99,
+    53.7,
+    57.4
+  ]
+}

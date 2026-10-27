@@ -1,0 +1,66 @@
+{
+  "id": "dvids-video-1016922",
+  "asset_id": "video:1016922",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:48:03Z",
+  "title": "Coast Guard Seneca returns to Portsmouth after 62-day patrol",
+  "description": "U.S. Coast Guard Seneca's (WMEC 906) crew returns to Portsmouth, Virginia July 28, 2026. The crew supported multiple missions including maritime law enforcement, counter drug operations and search and rescue missions. (U.S. Coast Guard video package by Petty Officer 3rd Class Mason Svitenko)",
+  "keywords": "USCGC Seneca (WMEC-906), Atlantic Area (LANTAREA), Counter drug operations, search and rescue, law enforcement, USCG",
+  "date": "2026-07-28T00:00:00-04:00",
+  "date_published": "2026-07-30T14:03:01-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 3rd Class Mason Svitenko",
+  "category": "B-Roll",
+  "virin": "260728-G-XB473-1001",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1016922/coast-guard-seneca-returns-portsmouth-after-62-day-patrol",
+  "duration": 42.64,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111872905/DOD_111872905-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 32221525
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      42.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1016922.jpg",
+  "sheet_times": [
+    1.32,
+    3.95,
+    6.58,
+    9.22,
+    11.85,
+    14.49,
+    17.12,
+    19.75,
+    22.39,
+    25.02,
+    27.66,
+    30.29,
+    32.92,
+    35.56,
+    38.19,
+    40.83
+  ]
+}

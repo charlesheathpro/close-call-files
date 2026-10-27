@@ -1,0 +1,73 @@
+{
+  "id": "dvids-video-1026608",
+  "asset_id": "video:1026608",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:46:17Z",
+  "title": "Shrimp boat fire and MEDEVAC",
+  "description": "A U.S. Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter aircrew rescued four people aboard a 90-foot fishing vessel that caught fire, 50 miles offshore Dauphin Island, Alabama, Oct. 13, 2026. A Coast Guard HC-144 Ocean Sentry aircrew, from Aviation Training Center Mobile, located the vessel and vectored the Jayhawk to its location. This b-roll package is comprised of footage collected from the aircrews and survivors. (U.S Coast Guard courtesy video)",
+  "keywords": "MH-60 Jayhawk, Coast Guard Air Station New Orleans",
+  "date": "2026-10-13T01:00:00-04:00",
+  "date_published": "2026-10-16T11:57:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Tasha Smith",
+  "category": "B-Roll",
+  "virin": "261013-G-WF367-6991",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1026608/shrimp-boat-fire-and-medevac",
+  "duration": 549.18,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112073755/DOD_112073755-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 390168660
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.23,
+    52.39,
+    72.57,
+    109.54
+  ],
+  "audio": {
+    "silence_starts": [
+      0.0,
+      407.6
+    ],
+    "silence_ends": [
+      407.6,
+      549.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1026608.jpg",
+  "sheet_times": [
+    17.15,
+    51.44,
+    85.73,
+    120.02,
+    154.32,
+    188.61,
+    222.9,
+    257.19,
+    291.49,
+    325.78,
+    360.07,
+    394.37,
+    428.66,
+    462.95,
+    497.24,
+    531.54
+  ]
+}

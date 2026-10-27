@@ -1,0 +1,81 @@
+{
+  "id": "dvids-video-1016205",
+  "asset_id": "video:1016205",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:48:08Z",
+  "title": "Coast Guard, partner agencies respond to seaplane emergency landing on Sucia Island, Washington",
+  "description": "A MH-65 Dolphin helicopter crew from U.S. Coast Guard Air Station Port Angeles conducts a hoist near Sucia Island, Washington, July 23, 2026. The U.S. Coast Guard, along with the U.S. Navy, Canadian Coast Guard, and local partner agencies responded to a seaplane emergency landing in Shallow Bay on Sucia Island. (Video courtesy U.S. Coast Guard Air Station Port Angeles)",
+  "keywords": "Search and Rescue (SAR)",
+  "date": "2026-07-23T03:00:00-04:00",
+  "date_published": "2026-07-24T16:30:37-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Briana Carter",
+  "category": "B-Roll",
+  "virin": "260723-G-HT254-9687",
+  "location": {
+    "city": "",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1016205/coast-guard-partner-agencies-respond-seaplane-emergency-landing-sucia-island-washington",
+  "duration": 106.37,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111862466/DOD_111862466-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 119732186
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.82,
+      "e": 15.99,
+      "text": "I'm sure they're good."
+    },
+    {
+      "s": 15.99,
+      "e": 16.99,
+      "text": "I'm pretty sure they're good on it."
+    }
+  ],
+  "scene_cuts": [],
+  "audio": {
+    "silence_starts": [
+      74.3,
+      82.6,
+      91.1
+    ],
+    "silence_ends": [
+      80.2,
+      84.6,
+      94.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1016205.jpg",
+  "sheet_times": [
+    3.31,
+    9.93,
+    16.54,
+    23.16,
+    29.78,
+    36.39,
+    43.01,
+    49.63,
+    56.24,
+    62.86,
+    69.48,
+    76.1,
+    82.71,
+    89.33,
+    95.95,
+    102.56
+  ]
+}

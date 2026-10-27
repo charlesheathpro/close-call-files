@@ -1,0 +1,86 @@
+{
+  "id": "dvids-video-1011140",
+  "asset_id": "video:1011140",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:49:17Z",
+  "title": "Coast Guard Air Station Barbers Point conducts training",
+  "description": "A Coast Guard Air Station Barbers Point HC-130 Hercules airplane crew conducts preflight procedures before a training flight at the air station in Kapolei, Hawaii, Jan. 15, 2026. Coast Guard HC-130 crews conduct a variety of missions such as search and rescue, maritime law enforcement, cargo transport and more. (U.S. Coast Guard video by Petty Officer 1st Class Tyler Robertson)",
+  "keywords": "HC-130 Hercules, Coast Guard Air Station Barbers Point",
+  "date": "2026-01-15T00:00:00-05:00",
+  "date_published": "2026-06-16T01:15:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 1st Class Tyler Robertson",
+  "category": "B-Roll",
+  "virin": "260115-G-OX937-2001",
+  "location": {
+    "city": "Kapolei",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1011140/coast-guard-air-station-barbers-point-conducts-training",
+  "duration": 208.44,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111777289/DOD_111777289-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 177818277
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    38.19,
+    68.22,
+    129.78,
+    146.8,
+    177.83,
+    195.34
+  ],
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.0,
+      38.2,
+      68.2,
+      129.8,
+      146.8,
+      177.8
+    ],
+    "silence_ends": [
+      0.9,
+      10.9,
+      39.1,
+      69.1,
+      130.7,
+      147.7,
+      178.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1011140.jpg",
+  "sheet_times": [
+    6.5,
+    19.49,
+    32.49,
+    45.49,
+    58.48,
+    71.48,
+    84.48,
+    97.47,
+    110.47,
+    123.47,
+    136.46,
+    149.46,
+    162.45,
+    175.45,
+    188.45,
+    201.44
+  ]
+}

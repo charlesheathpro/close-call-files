@@ -1,0 +1,89 @@
+{
+  "id": "dvids-video-1010810",
+  "asset_id": "video:1010810",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "harvested_at": "2026-10-27T03:49:24Z",
+  "title": "Coast Guard Air Station Barbers Point conducts vertical surface training",
+  "description": "Coast Guard Air Station Barbers Point MH-65 Dolphin helicopter crews conduct vertical surface training at Marine Corps Base Hawaii in Kaneohe, Hawaii, Dec. 8, 2025. Coast Guard helicopter crews routinely conduct vertical surface training to rescue people in distress on vertical surfaces such as cliffs, mountains, towers, structures and more. (U.S. Coast Guard video by Petty Officer 1st Class Tyler Robertson)",
+  "keywords": null,
+  "date": "2025-12-08T05:00:00-05:00",
+  "date_published": "2026-06-13T05:14:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 1st Class Tyler Robertson",
+  "category": "B-Roll",
+  "virin": "251208-G-OX937-2001",
+  "location": {
+    "city": "Kaneohe",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1010810/coast-guard-air-station-barbers-point-conducts-vertical-surface-training",
+  "duration": 454.6,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111772515/DOD_111772515-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 357456148
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.79,
+    72.11,
+    76.58,
+    97.45,
+    131.2,
+    137.34,
+    153.94,
+    165.95,
+    253.54,
+    290.12,
+    337.17,
+    348.18,
+    355.62,
+    360.18
+  ],
+  "audio": {
+    "silence_starts": [
+      137.4,
+      154.0,
+      166.0,
+      290.1,
+      337.2
+    ],
+    "silence_ends": [
+      138.2,
+      154.9,
+      166.9,
+      291.1,
+      338.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1010810.jpg",
+  "sheet_times": [
+    14.19,
+    42.57,
+    70.95,
+    99.34,
+    127.72,
+    156.1,
+    184.48,
+    212.86,
+    241.24,
+    269.62,
+    298.01,
+    326.39,
+    354.77,
+    383.15,
+    411.53,
+    439.91
+  ]
+}
