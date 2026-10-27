@@ -2,7 +2,7 @@ name: build
 on:
   push:
     branches: [main]
-    paths: ["data/shorts/**/spec.json"]
+    paths: ["data/shorts/**/spec.json", "triggers/build"]
   schedule:
     - cron: "23 */2 * * *"
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
           curl -sSL -o voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
       - run: pip install requests pillow numpy soundfile kokoro-onnx
       - name: Build
-        run: python pipeline/build.py ${{ inputs.ids }}
+        run: python pipeline/build.py ${{ inputs.ids }} $(cat triggers/build-ids 2>/dev/null || true)
         env:
           CCF_WORK: ${{ runner.temp }}/ccf
           GH_TOKEN: ${{ github.token }}

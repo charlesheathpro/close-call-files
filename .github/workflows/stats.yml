@@ -1,5 +1,8 @@
 name: stats
 on:
+  push:
+    branches: [main]
+    paths: ["triggers/stats"]
   schedule:
     - cron: "5 3 * * *"   # about 9 PM Mountain
   workflow_dispatch:

@@ -1,5 +1,8 @@
 name: harvest
 on:
+  push:
+    branches: [main]
+    paths: ["triggers/harvest"]
   schedule:
     - cron: "7 10 * * *"   # about 4 AM Mountain
   workflow_dispatch:

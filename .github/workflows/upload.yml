@@ -1,5 +1,8 @@
 name: upload
 on:
+  push:
+    branches: [main]
+    paths: ["triggers/upload"]
   schedule:
     - cron: "41 */3 * * *"
   workflow_dispatch:
