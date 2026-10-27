@@ -97,6 +97,11 @@ class Voice:
         full = " ".join(spoken)
         settings = self.cfg.get("voice_settings") or {"stability": 0.45, "similarity_boost": 0.8}
         body = {"text": full, "model_id": self.cfg.get("model_id", "eleven_v4"), "voice_settings": settings}
+        key = hashlib.md5(json.dumps([self.cfg["voice_id"], body], sort_keys=True).encode()).hexdigest()
+        cache = WORK / "tts_cache" / f"{key}.json"
+        if cache.exists():
+            j = json.loads(cache.read_text())
+            return self._from_take(j, full, spoken, work)
         r = None
         for attempt in range(4):
             r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{self.cfg['voice_id']}/with-timestamps",
@@ -112,6 +117,12 @@ class Voice:
         if r.status_code != 200:
             raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
         j = r.json()
+        cache.parent.mkdir(parents=True, exist_ok=True)
+        cache.write_text(json.dumps(j))
+        return self._from_take(j, full, spoken, work)
+
+    def _from_take(self, j, full, spoken, work):
+        import base64
         mp3 = work / "voice_full.mp3"
         mp3.write_bytes(base64.b64decode(j["audio_base64"]))
         wav = work / "voice_full.wav"
@@ -401,7 +412,12 @@ def build_ass(spec, timeline, total, credit_line=None):
                    f"{al},{ml},{mr},{mv},1")
     out += ["", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
 
+    caps = []
+
     def ev(layer, a, b, style, text):
+        if style == "Cap":
+            caps.append([a, b, text])
+            return
         out.append(f"Dialogue: {layer},{ass_time(a)},{ass_time(b)},{style},,0,0,0,,{text}")
 
     outcome_start = timeline[-1]["start"]
@@ -434,6 +450,12 @@ def build_ass(spec, timeline, total, credit_line=None):
                     parts.append(r"{\1c" + orange + "&}" + t + r"{\1c" + white + "&}" if wj == wi else t)
                 pop = r"{\fscx92\fscy92\t(0,70,\fscx100\fscy100)}" if wi == 0 else ""
                 ev(1, a, b, "Cap", pop + " ".join(parts))
+    caps.sort(key=lambda c: c[0])
+    for i, (a, b, text) in enumerate(caps):
+        if i + 1 < len(caps):
+            b = min(b, caps[i + 1][0])
+        if b - a > 0.02:
+            out.append(f"Dialogue: 1,{ass_time(a)},{ass_time(b)},Cap,,0,0,0,,{text}")
     # Outcome: a compact panel in the lower middle, footage stays visible above it
     lines = wrap(esc(strip_tags(spec["outcome"])), 30)
     n = lines.count(r"\N") + 1
@@ -488,8 +510,10 @@ def narration_track(spec, voice, work):
                     d = (b - a) * wt / sum(wts)
                     words.append({"w": w, "s": t, "e": t + d})
                     t += d
-            if words:
-                last_end = words[-1]["e"] - LEAD
+            for wd in words:  # keep times moving forward so captions never overlap
+                wd["s"] = max(wd["s"], LEAD + last_end)
+                wd["e"] = max(wd["e"], wd["s"] + 0.08)
+                last_end = wd["e"] - LEAD
             timeline.append({"text": strip_tags(text), "start": round(words[0]["s"], 3) if words else last_end,
                              "end": round(words[-1]["e"], 3) if words else last_end,
                              "words": [{k: (round(v, 3) if k != "w" else v) for k, v in wd.items()} for wd in words]})
