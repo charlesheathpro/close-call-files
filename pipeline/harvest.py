@@ -45,8 +45,19 @@ def api_get(path, params):
     r.raise_for_status()
 
 
-def search(query, since, cfg):
+def search(query, since, cfg, max_pages=1):
+    out = []
+    for page in range(1, max_pages + 1):
+        res = search_page(query, since, cfg, page)
+        out.extend(res)
+        if len(res) < 50:
+            break
+    return out
+
+
+def search_page(query, since, cfg, page):
     params = {
+        "page": page,
         "type[]": "video",
         "q": query["q"],
         "from_publishdate": since,
@@ -117,7 +128,17 @@ def transcribe(video):
     if _whisper is None:
         from faster_whisper import WhisperModel
         _whisper = WhisperModel(os.environ.get("WHISPER_MODEL", "base.en"), device="cpu", compute_type="int8")
-    segments, _ = _whisper.transcribe(str(video), vad_filter=True, beam_size=1)
+    probe = run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index", "-of", "csv=p=0",
+                 str(video)], check=False)
+    if not (probe.stdout or "").strip():
+        return []
+    import numpy as np
+    raw = run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-i", str(video), "-vn", "-ac", "1", "-ar", "16000",
+               "-f", "s16le", "-"], capture=True, check=False, binary=True).stdout
+    audio = np.frombuffer(raw, dtype=np.int16).astype(np.float32) / 32768.0
+    if audio.size < 16000:
+        return []
+    segments, _ = _whisper.transcribe(audio, vad_filter=True, beam_size=1)
     out = []
     for s in segments:
         t = s.text.strip()
@@ -282,7 +303,7 @@ def main():
     found = {}
     for q in cfg["queries"]:
         try:
-            results = search(q, since, cfg)
+            results = search(q, since, cfg, max_pages=cfg["backfill_pages"] if first else cfg["daily_pages"])
         except Exception as e:  # keep going on one bad query
             print(f"query {q['q']!r} failed: {e}")
             continue

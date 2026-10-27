@@ -78,8 +78,13 @@ def validate(spec_path):
         errors.append("outcome must state how it ended, in past tense, with no cliffhanger")
 
     # Grounding: every fact quote must appear in the agency release or transcript
+    extras = spec.get("extra_sources") or []
+    for i, x in enumerate(extras):
+        if not str(x.get("url", "")).startswith("https://") or len(x.get("excerpt", "")) < 20:
+            errors.append(f"extra_sources[{i + 1}] needs an https url and the copied excerpt")
     source_text = norm(" ".join([cand.get("title") or "", cand.get("description") or "",
-                                 " ".join(s["text"] for s in cand.get("transcript", []))]))
+                                 " ".join(s["text"] for s in cand.get("transcript", [])),
+                                 " ".join(x.get("excerpt", "") for x in extras)]))
     if len(spec["facts"]) < 2:
         errors.append("list at least 2 facts with source quotes")
     for i, f in enumerate(spec["facts"]):

@@ -18,6 +18,8 @@
     "first_run_backfill_days": 180,
     "lookback_days": 10,
     "max_new_per_run": 40,
+    "backfill_pages": 6,
+    "daily_pages": 2,
     "min_duration": 15,
     "max_duration": 1200,
     "exclude_categories": ["Briefings", "Interviews", "Greetings", "Newscasts", "PSA", "Commercials", "Series"],

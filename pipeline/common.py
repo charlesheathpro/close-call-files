@@ -49,11 +49,12 @@ def config():
     return load_json(CONFIG)
 
 
-def run(cmd, check=True, capture=True):
+def run(cmd, check=True, capture=True, binary=False):
     """Run a command list; return CompletedProcess."""
-    res = subprocess.run(cmd, text=True, capture_output=capture)
+    res = subprocess.run([str(c) for c in cmd], text=not binary, capture_output=capture)
     if check and res.returncode != 0:
-        raise RuntimeError(f"command failed ({res.returncode}): {' '.join(map(str, cmd))[:400]}\n{(res.stderr or '')[-2000:]}")
+        err = res.stderr.decode(errors="replace") if binary and res.stderr else (res.stderr or "")
+        raise RuntimeError(f"command failed ({res.returncode}): {' '.join(map(str, cmd))[:400]}\n{err[-2000:]}")
     return res
 
 
@@ -74,12 +75,19 @@ def safe_id(asset_id):
 # Phrases that signal footage is NOT a plain U.S. government work.
 COPYRIGHT_FLAGS = [
     r"copyright", r"©", r"all rights reserved", r"used with permission",
-    r"courtesy (?:of )?(?!(?:the )?u\.?s\.?\b|(?:the )?(?:united states|department|dod|army|navy|air force|marine|coast guard|national guard|space force))[a-z]",
     r"not for (?:commercial|resale)", r"licensed (?:from|by)", r"getty", r"associated press", r"\breuters\b",
     r"news station", r"\bwfaa\b", r"\bkhou\b", r"\bfox ?\d", r"\bnbc\b", r"\bcbs\b", r"\babc news\b", r"\bcnn\b",
     r"cell ?phone footage", r"civilian footage", r"provided by (?!(?:the )?u\.?s\.?)",
 ]
 _COPYRIGHT_RE = re.compile("|".join(COPYRIGHT_FLAGS), re.IGNORECASE)
+
+
+FEDERAL_WORDS = re.compile(
+    r"u\.?\s?s\.?\b|united states|coast guard|uscg|navy|naval|army|air force|marine|space force|national guard|"
+    r"air station|sector|district|cutter|uss\b|uscgc|squadron|wing\b|battalion|regiment|brigade|command|fleet|"
+    r"base\b|public affairs|department of|dod\b|dvids|nasa|noaa|usgs|fema|joint task force|station\b|division|"
+    r"corps|group\b|detachment|airlift|carrier|strike group|task force", re.IGNORECASE)
+_COURTESY_RE = re.compile(r"courtesy(?: of)?\s+([^)\n;]{0,80})", re.IGNORECASE)
 
 
 def copyright_flags(*texts):
@@ -89,6 +97,11 @@ def copyright_flags(*texts):
             continue
         for m in _COPYRIGHT_RE.finditer(t):
             hits.add(m.group(0).lower())
+        # "courtesy of X" is fine when X is a federal unit, a red flag otherwise
+        for m in _COURTESY_RE.finditer(t):
+            who = m.group(1).strip()
+            if who and not FEDERAL_WORDS.search(who):
+                hits.add("courtesy of " + who.lower()[:40])
     return sorted(hits)
 
 
