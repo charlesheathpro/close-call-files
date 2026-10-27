@@ -1,7 +1,477 @@
 {
   "short_id": "ccf-20261027-06",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-10-27T12:23:45Z",
-  "error": "command failed (234): ffmpeg -hide_banner -loglevel error -y -ss 25.0 -to 27.8 -i /home/runner/work/_temp/ccf/src/dvids-video-1012192.mp4 -t 3.065 -filter_complex [0:v]crop=606:1080:656:0,setpts=(PTS-STARTPTS)/0.914,fps=30,scale=w=-2:h='trunc(1920*1/2)*2':eval=frame,crop=1080:1920:x='(iw-1080)*0.45':y='(ih-1920)/2',setsar=1,format=yuv420p[v];[0:a]asetpts=PTS-STARTPTS,atempo=0.9140,aresample=48000,aformat=channel_layout\n[Parsed_crop_4 @ 0x55b6d81dd200] Invalid too big or non positive size for width '1080' or height '1920'\n[Parsed_crop_4 @ 0x55b6d81dd200] Failed to configure input pad on Parsed_crop_4\n[fc#0 @ 0x55b6d8081540] Error reinitializing filters!\nFailed to inject frame into filter network: Invalid argument\nError while filtering: Invalid argument\n[out#0/mp4 @ 0x55b6d8187880] Nothing was written into output file, because at least one of its streams received no packets.\n"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-10-27T20:30:55Z",
+  "duration": 25.37,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "This helicopter was hovering beside a cliff, six thousand seven hundred feet up a mountain.",
+      "start": 0.05,
+      "end": 5.41,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "helicopter",
+          "s": 0.37,
+          "e": 0.93
+        },
+        {
+          "w": "was",
+          "s": 1.05,
+          "e": 1.17
+        },
+        {
+          "w": "hovering",
+          "s": 1.29,
+          "e": 1.57
+        },
+        {
+          "w": "beside",
+          "s": 1.65,
+          "e": 1.89
+        },
+        {
+          "w": "a",
+          "s": 1.93,
+          "e": 2.01
+        },
+        {
+          "w": "cliff,",
+          "s": 2.05,
+          "e": 2.85
+        },
+        {
+          "w": "six",
+          "s": 2.93,
+          "e": 3.17
+        },
+        {
+          "w": "thousand",
+          "s": 3.25,
+          "e": 3.65
+        },
+        {
+          "w": "seven",
+          "s": 3.89,
+          "e": 4.05
+        },
+        {
+          "w": "hundred",
+          "s": 4.13,
+          "e": 4.37
+        },
+        {
+          "w": "feet",
+          "s": 4.53,
+          "e": 4.69
+        },
+        {
+          "w": "up",
+          "s": 4.77,
+          "e": 4.85
+        },
+        {
+          "w": "a",
+          "s": 4.89,
+          "e": 4.97
+        },
+        {
+          "w": "mountain.",
+          "s": 5.01,
+          "e": 5.41
+        }
+      ]
+    },
+    {
+      "text": "A hiker was stuck in a steep gully on Mount Larrabee, in Washington.",
+      "start": 5.97,
+      "end": 9.93,
+      "words": [
+        {
+          "w": "A",
+          "s": 5.97,
+          "e": 6.05
+        },
+        {
+          "w": "hiker",
+          "s": 6.13,
+          "e": 6.37
+        },
+        {
+          "w": "was",
+          "s": 6.49,
+          "e": 6.61
+        },
+        {
+          "w": "stuck",
+          "s": 6.69,
+          "e": 6.85
+        },
+        {
+          "w": "in",
+          "s": 6.93,
+          "e": 7.01
+        },
+        {
+          "w": "a",
+          "s": 7.09,
+          "e": 7.17
+        },
+        {
+          "w": "steep",
+          "s": 7.25,
+          "e": 7.41
+        },
+        {
+          "w": "gully",
+          "s": 7.57,
+          "e": 7.89
+        },
+        {
+          "w": "on",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "Mount",
+          "s": 8.17,
+          "e": 8.29
+        },
+        {
+          "w": "Larrabee,",
+          "s": 8.37,
+          "e": 8.93
+        },
+        {
+          "w": "in",
+          "s": 8.97,
+          "e": 9.05
+        },
+        {
+          "w": "Washington.",
+          "s": 9.09,
+          "e": 9.93
+        }
+      ]
+    },
+    {
+      "text": "A Coast Guard crew from Port Angeles came in low, blasting the rocks with rotor wash.",
+      "start": 10.21,
+      "end": 15.33,
+      "words": [
+        {
+          "w": "A",
+          "s": 10.21,
+          "e": 10.37
+        },
+        {
+          "w": "Coast",
+          "s": 10.41,
+          "e": 10.61
+        },
+        {
+          "w": "Guard",
+          "s": 10.69,
+          "e": 10.85
+        },
+        {
+          "w": "crew",
+          "s": 10.93,
+          "e": 11.17
+        },
+        {
+          "w": "from",
+          "s": 11.25,
+          "e": 11.33
+        },
+        {
+          "w": "Port",
+          "s": 11.41,
+          "e": 11.57
+        },
+        {
+          "w": "Angeles",
+          "s": 11.65,
+          "e": 12.05
+        },
+        {
+          "w": "came",
+          "s": 12.13,
+          "e": 12.29
+        },
+        {
+          "w": "in",
+          "s": 12.37,
+          "e": 12.45
+        },
+        {
+          "w": "low,",
+          "s": 12.53,
+          "e": 13.17
+        },
+        {
+          "w": "blasting",
+          "s": 13.25,
+          "e": 13.73
+        },
+        {
+          "w": "the",
+          "s": 13.77,
+          "e": 13.85
+        },
+        {
+          "w": "rocks",
+          "s": 13.89,
+          "e": 14.13
+        },
+        {
+          "w": "with",
+          "s": 14.21,
+          "e": 14.29
+        },
+        {
+          "w": "rotor",
+          "s": 14.37,
+          "e": 14.61
+        },
+        {
+          "w": "wash.",
+          "s": 14.69,
+          "e": 15.33
+        }
+      ]
+    },
+    {
+      "text": "Thin mountain air gives the rotors less lift, so a hover this high is much harder to hold.",
+      "start": 15.65,
+      "end": 21.33,
+      "words": [
+        {
+          "w": "Thin",
+          "s": 15.65,
+          "e": 15.89
+        },
+        {
+          "w": "mountain",
+          "s": 15.97,
+          "e": 16.29
+        },
+        {
+          "w": "air",
+          "s": 16.37,
+          "e": 16.61
+        },
+        {
+          "w": "gives",
+          "s": 16.69,
+          "e": 16.85
+        },
+        {
+          "w": "the",
+          "s": 16.93,
+          "e": 17.01
+        },
+        {
+          "w": "rotors",
+          "s": 17.01,
+          "e": 17.33
+        },
+        {
+          "w": "less",
+          "s": 17.41,
+          "e": 17.57
+        },
+        {
+          "w": "lift,",
+          "s": 17.73,
+          "e": 18.37
+        },
+        {
+          "w": "so",
+          "s": 18.45,
+          "e": 18.53
+        },
+        {
+          "w": "a",
+          "s": 18.61,
+          "e": 18.69
+        },
+        {
+          "w": "hover",
+          "s": 18.85,
+          "e": 19.01
+        },
+        {
+          "w": "this",
+          "s": 19.13,
+          "e": 19.25
+        },
+        {
+          "w": "high",
+          "s": 19.33,
+          "e": 19.49
+        },
+        {
+          "w": "is",
+          "s": 19.57,
+          "e": 19.65
+        },
+        {
+          "w": "much",
+          "s": 19.89,
+          "e": 20.05
+        },
+        {
+          "w": "harder",
+          "s": 20.13,
+          "e": 20.29
+        },
+        {
+          "w": "to",
+          "s": 20.37,
+          "e": 20.45
+        },
+        {
+          "w": "hold.",
+          "s": 20.61,
+          "e": 21.33
+        }
+      ]
+    },
+    {
+      "text": "The crew hoisted the hiker up out of the gully and flew off the mountain.",
+      "start": 21.41,
+      "end": 25.17,
+      "words": [
+        {
+          "w": "The",
+          "s": 21.41,
+          "e": 21.49
+        },
+        {
+          "w": "crew",
+          "s": 21.57,
+          "e": 21.81
+        },
+        {
+          "w": "hoisted",
+          "s": 21.89,
+          "e": 22.21
+        },
+        {
+          "w": "the",
+          "s": 22.25,
+          "e": 22.33
+        },
+        {
+          "w": "hiker",
+          "s": 22.37,
+          "e": 22.69
+        },
+        {
+          "w": "up",
+          "s": 22.77,
+          "e": 22.93
+        },
+        {
+          "w": "out",
+          "s": 22.97,
+          "e": 23.05
+        },
+        {
+          "w": "of",
+          "s": 23.09,
+          "e": 23.17
+        },
+        {
+          "w": "the",
+          "s": 23.17,
+          "e": 23.25
+        },
+        {
+          "w": "gully",
+          "s": 23.25,
+          "e": 23.73
+        },
+        {
+          "w": "and",
+          "s": 23.85,
+          "e": 23.97
+        },
+        {
+          "w": "flew",
+          "s": 24.01,
+          "e": 24.21
+        },
+        {
+          "w": "off",
+          "s": 24.29,
+          "e": 24.37
+        },
+        {
+          "w": "the",
+          "s": 24.41,
+          "e": 24.49
+        },
+        {
+          "w": "mountain.",
+          "s": 24.53,
+          "e": 25.17
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 25.4
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.03
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.23
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.1
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261027-06/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261027-06-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261027-06/ccf-20261027-06.mp4"
 }
