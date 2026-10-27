@@ -1,0 +1,30 @@
+{
+  "short_id": "ccf-test-001",
+  "results": [
+    {
+      "name": "brian-v2",
+      "status": "error",
+      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"cdbb73ba04db5d91207b7c94b9d42f8a\"}}"
+    },
+    {
+      "name": "adam-v2",
+      "status": "error",
+      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"3d92cf0f172cfd9da648701ed20cb4c7\"}}"
+    },
+    {
+      "name": "bill-v2",
+      "status": "error",
+      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"a8d395e07569bf85dcd6617b8e543f66\"}}"
+    },
+    {
+      "name": "eric-v2",
+      "status": "error",
+      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"3687b5c65659b2ea8a6ce205186d8799\"}}"
+    },
+    {
+      "name": "brian-flash",
+      "status": "error",
+      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"058a16ae1ae2b178775c081cf90e4da3\"}}"
+    }
+  ]
+}
