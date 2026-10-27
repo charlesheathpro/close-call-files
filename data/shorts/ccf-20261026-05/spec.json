@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261026-05",
-  "revision": 3,
+  "revision": 4,
   "candidate_id": "dvids-video-1025010",
   "lane": "rescue",
   "story_type": "vessel sinking, helicopter hoist",
@@ -116,5 +116,7 @@
       "source_quote": "The aircrew hoisted the boater"
     }
   ],
-  "hold": true
+  "hold": true,
+  "music": "night-search",
+  "music_mood": "sea"
 }
