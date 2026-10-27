@@ -26,7 +26,7 @@ List `data/candidates/*.json` with `"status": "new"`, highest `drama_score` firs
 Use a clip only if all are true:
 - It shows a real event: a rescue, a medevac, an emergency, a hazardous operation, a dramatic weather or natural event. Skip ceremonies, interviews, speeches, static b-roll, training drills presented as training (unless the drill itself is spectacular and the story is honest that it is training), and anything with injuries or a person in visible medical distress.
 - You can state how it ended from the release, transcript, a cited press release, or what the footage plainly shows.
-- The footage has at least 15 usable seconds of action.
+- The footage has at least 15 usable seconds of action and is sharp on a phone: source short side 480p or more, no heavy scan lines or smeared old FLIR.
 - The same event is not already in `data/shorts/*/spec.json` (DVIDS often posts the same rescue twice under different IDs).
 - Copyright: the description credits a federal unit or agency. Anything "courtesy of" a news outlet, a state or local agency, or a private person is out.
 

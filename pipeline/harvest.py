@@ -224,7 +224,7 @@ def credit_text(credit):
 
 ROUTINE = re.compile(r"\b(training|exercise|drill|ceremony|change of command|award|memorial|interview|press conference|"
                      r"briefing|graduation|retirement|visit|tour|promotion|reenlistment|recruit|band|concert|"
-                     r"psa|highlights|b-roll package|safety tips|demonstration|demo)\b", re.I)
+                     r"psa|highlights|b-roll package|safety tips|demonstration|demo|lava dogs?|live fire|range \d+|muster)\b", re.I)
 HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog|dogs|cat|puppy|pet|horse)\b", 5),
          (r"\b(family|mother|father|elderly|grandmother)\b", 4), (r"rooftop|roof\b", 4),
          (r"\b(surf|waves|heavy seas|storm)\b", 3), (r"\b(fire|burning|explosion)\b", 3),
