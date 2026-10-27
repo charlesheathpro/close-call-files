@@ -184,7 +184,7 @@
     const res = dash.data('shorts'), tb = document.querySelector('#shorts tbody');
     if (res.status !== 'ok') { if (res.status === 'error') tb.textContent = ''; return; }
     tb.textContent = '';
-    const rows = [...res.data].reverse();
+    const rows = [...res.data].filter(r => r.short_id !== 'none').reverse();
     document.getElementById('shorts-empty').hidden = rows.length > 0;
     rows.forEach(r => {
       const tr = document.createElement('tr'); tr.dataset.key = r.short_id;

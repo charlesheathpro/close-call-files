@@ -37,6 +37,9 @@ def main():
             "publish_at": up.get("publish_at"), "views": s.get("views"),
             "avg_view_pct": s.get("avg_view_pct"), "url": up.get("url"),
         })
+    if not shorts:  # the dashboard cannot read an empty file; the page hides this row
+        shorts.append({"short_id": "none", "title": "No Shorts yet", "lane": "", "story_type": "", "status": "",
+                       "publish_at": None, "views": None, "avg_view_pct": None, "url": None})
     pipeline = [{"stage": STATE_LABEL[k], "count": counts.get(k, 0)} for k in STATE_ORDER]
 
     supply = collections.Counter()
