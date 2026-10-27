@@ -165,11 +165,13 @@ def video_size(path):
     return w, h
 
 
-def detect_crop(src, duration):
-    """Find black bars baked into the footage; returns 'w:h:x:y' or None."""
+def detect_crop(src, a, b):
+    """Find black bars baked into this stretch of footage; returns 'w:h:x:y' or None."""
     found = []
-    for frac in (0.15, 0.4, 0.65, 0.85):
-        res = run(["ffmpeg", "-hide_banner", "-ss", f"{duration * frac:.1f}", "-i", src, "-t", 2,
+    span = max(b - a, 0.5)
+    for frac in (0.2, 0.5, 0.8):
+        t = a + span * frac
+        res = run(["ffmpeg", "-hide_banner", "-ss", f"{max(t - 0.5, 0):.2f}", "-i", src, "-t", 1,
                    "-vf", "cropdetect=limit=24:round=2:reset=0", "-an", "-f", "null", "-"], check=False)
         m = re.findall(r"crop=(\d+:\d+:\d+:\d+)", res.stderr or "")
         if m:
@@ -220,18 +222,19 @@ def atempo(speed):
 
 
 def cut_segments(src, segments, work):
-    sw, sh = video_size(src)
-    crop = detect_crop(src, media_duration(src))
-    if crop:
-        cw, ch, _, _ = map(int, crop.split(":"))
-        if cw >= sw - 8 and ch >= sh - 8:
-            crop = None
-        else:
-            sw, sh = cw, ch
+    fw, fh = video_size(src)
     audio = has_audio(src)
     parts = []
     for i, seg in enumerate(segments):
         out = work / f"seg{i:02d}.mp4"
+        crop = detect_crop(src, float(seg["start"]), float(seg["end"]))
+        sw, sh = fw, fh
+        if crop:
+            cw, ch, _, _ = map(int, crop.split(":"))
+            if cw >= fw - 8 and ch >= fh - 8:
+                crop = None
+            else:
+                sw, sh = cw, ch
         vf, af = segment_filter(seg, sw, sh, crop)
         a, b = float(seg["start"]), float(seg["end"])
         cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", a, "-to", b, "-i", src]
@@ -247,7 +250,7 @@ def cut_segments(src, segments, work):
     joined = work / "footage.mkv"
     run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "concat", "-safe", 0, "-i", lst, "-c", "copy",
          joined])
-    return joined, (sw, sh), audio
+    return joined, (fw, fh), audio
 
 
 # ---------------------------------------------------------------- text layout (ASS)

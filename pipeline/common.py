@@ -149,6 +149,8 @@ def short_state(d):
         return "empty"
     if spec.get("status") == "dropped":
         return "dropped"
+    if spec.get("hold"):
+        return "held"
     if up and up.get("video_id"):
         return "uploaded"
     rev = spec.get("revision", 1)
