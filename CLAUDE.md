@@ -25,7 +25,7 @@ To start a workflow from a push, change the matching file in `triggers/` (e.g. `
 - Facts about the incident come only from the agency release, the transcript, a cited press release (`extra_sources`), or what is plainly visible. Each claim needs a verbatim `source_quote`. General explanations (how a hoist works) must be accurate and well known.
 - No names of rescued people unless the release names them, and even then prefer roles. No injuries or medical scenes on screen.
 - Skip any asset with non-federal credit or copyright text (the harvester filters most). Every description credits the unit and links the DVIDS page, and states the channel is not affiliated with or endorsed by the U.S. government.
-- Uploads stay off (`uploads_enabled: false`) until Charles approves samples.
+- Uploads are on (Charles approved the samples on Oct 27, 2026). Turn `uploads_enabled` off only if he asks.
 
 ## Commit etiquette
 
