@@ -1,0 +1,72 @@
+{
+  "id": "dvids-video-1027388",
+  "asset_id": "video:1027388",
+  "status": "new",
+  "lane": "aviation_naval",
+  "matched_query": "flight operations",
+  "harvested_at": "2026-10-27T15:51:46Z",
+  "title": "USS Boxer Conducts Flight Operations",
+  "description": "Wasp-class amphibious assault ship USS Boxer (LHD 4) conducts flight operations, Oct. 22, 2026. Boxer is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+  "keywords": "USS Boxer",
+  "date": "2026-10-22T00:00:00-04:00",
+  "date_published": "2026-10-26T20:46:07-04:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Naval Forces Central Command / U.S. 5th Fleet",
+  "credit": "NAVCENT Public Affairs",
+  "category": "B-Roll",
+  "virin": "261022-N-NO146-5001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "U.S. 5th Fleet area of responsibility",
+    "state_abbreviation": null,
+    "country_abbreviation": "5F"
+  },
+  "page_url": "https://www.dvidshub.net/video/1027388/uss-boxer-conducts-flight-operations",
+  "duration": 61.57,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095084/DOD_112095084.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 60057617
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.6,
+    21.17,
+    26.43,
+    31.97,
+    37.57,
+    48.53,
+    56.33,
+    61.53
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1027388.jpg",
+  "sheet_times": [
+    1.91,
+    5.73,
+    9.54,
+    13.36,
+    17.18,
+    20.99,
+    24.81,
+    28.63,
+    32.44,
+    36.26,
+    40.08,
+    43.89,
+    47.71,
+    51.53,
+    55.34,
+    59.16
+  ]
+}

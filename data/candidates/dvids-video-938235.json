@@ -1,0 +1,78 @@
+{
+  "id": "dvids-video-938235",
+  "asset_id": "video:938235",
+  "status": "new",
+  "lane": "rescue",
+  "matched_query": "Hurricane Helene rescue",
+  "harvested_at": "2026-10-27T15:50:28Z",
+  "title": "Coast Guard rescues man and dog during Hurricane Helene (no music)",
+  "description": "A Coast Guard Air Station Clearwater helicopter crew rescued a man and dog from a disabled and taking-on-water 36-foot sailing vessel 25 miles off Sanibel Island, Florida, on Sept. 26, 2024. Petty Officer 2nd Class Hudson, an aviation survival technician from Air Station Clearwater, hoisted the man and his dog, who were reportedly in good health and taken to Southwest Florida International Airport to meet with EMS. (U.S. Coast Guard video by Petty Officer 2nd Class Hudson, edited by Lt. Cmdr. Kellerman)",
+  "keywords": "Clearwater, Helene, HurricaneHelene24, SAR, rescue, Hurricane, dog",
+  "date": "2024-09-26T00:00:00-04:00",
+  "date_published": "2024-09-27T16:38:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240927-G-G0107-1044",
+  "location": {
+    "city": "Sanibel Island",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/938235/coast-guard-rescues-man-and-dog-during-hurricane-helene-no-music",
+  "duration": 44.17,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110589356/DOD_110589356-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 41135827
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.42,
+    6.88,
+    10.58,
+    20.08,
+    26.71,
+    33.67,
+    40.04,
+    40.17,
+    41.12,
+    42.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      40.0
+    ],
+    "silence_ends": [
+      44.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-938235.jpg",
+  "sheet_times": [
+    1.36,
+    4.09,
+    6.82,
+    9.55,
+    12.28,
+    15.01,
+    17.74,
+    20.47,
+    23.2,
+    25.93,
+    28.66,
+    31.39,
+    34.11,
+    36.84,
+    39.57,
+    42.3
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "dvids-video-1027558",
+  "asset_id": "video:1027558",
+  "status": "new",
+  "lane": "aviation_naval",
+  "matched_query": "emergency landing",
+  "harvested_at": "2026-10-27T15:50:31Z",
+  "title": "Aerial footage shows permanent repairs to Village Creek Levee",
+  "description": "Drone footage captures ongoing construction of permanent repairs to the Village Creek Levee near Newport, Arkansas, Oct. 22, 2026. The U.S. Army Corps of Engineers Little Rock District is overseeing the $18.7 million project to realign a 950-foot section of the levee following significant erosion and bank degradation caused by high flows on the White River during the April 2025 spring flood.\n\nThe Tennessee Valley Authority is performing the work under the direction of the Little Rock District as part of the U.S. Army Corps of Engineers Public Law 84-99 program. The repairs will help maintain the authorized level of flood risk reduction, reducing potential damage to homes, infrastructure and agricultural lands. Construction is scheduled for completion in spring 2027.",
+  "keywords": "Emergency Managment, USACE",
+  "date": "2026-10-22T01:00:00-04:00",
+  "date_published": "2026-10-26T15:12:04-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Little Rock District",
+  "credit": "Jay Townsend",
+  "category": "B-Roll",
+  "virin": "261022-A-OD080-1001",
+  "location": {
+    "city": "Newport",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1027558/aerial-footage-shows-permanent-repairs-village-creek-levee",
+  "duration": 104.52,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112099791/DOD_112099791-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 108235205
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.05,
+    43.21,
+    51.34,
+    63.48,
+    81.58
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      104.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1027558.jpg",
+  "sheet_times": [
+    3.25,
+    9.75,
+    16.25,
+    22.75,
+    29.26,
+    35.76,
+    42.26,
+    48.76,
+    55.26,
+    61.76,
+    68.26,
+    74.77,
+    81.27,
+    87.77,
+    94.27,
+    100.77
+  ]
+}
