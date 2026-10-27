@@ -28,6 +28,6 @@ From week 3, if 10 a day has held for 5 days without a limit alert, try `max_dai
 
 ## 5. Control Room and record
 
-Run `python3 pipeline/dashboard.py` and publish the result to the Control Room artifact listed in `config/controlroom.json` (Artifact tool, publish to that url with the generated file). Write `data/review/<YYYY-MM-DD>.md` with the numbers and decisions. On Sundays also write `data/review/week-<YYYY-MM-DD>.md`: the week's totals, best Short, progress toward 1,000 subscribers and 10M Shorts views in 90 days (20M for applications after Feb 1, 2027), and the plan for next week.
+Refresh the Control Room by following the `refresh` steps in `config/controlroom.json` (six data files, each uploaded and pointed to). Load the ArtifactData tool with ToolSearch if it is not loaded. Write `data/review/<YYYY-MM-DD>.md` with the numbers and decisions. On Sundays also write `data/review/week-<YYYY-MM-DD>.md`: the week's totals, best Short, progress toward 1,000 subscribers and 10M Shorts views in 90 days (20M for applications after Feb 1, 2027), and the plan for next week.
 
 Commit `data/review`, `config/channel.json`, pull with rebase, push. If something needs Charles (sign-in failure, a rejection, supply drying up), say so in the first line of your summary.

@@ -1,0 +1,14 @@
+{
+  "url": "https://claude.ai/artifact/TsZHhQgpbkiKB56djoQTnr",
+  "type": "Dashboard",
+  "datasets": {
+    "summary": "data/dashboard/summary.json",
+    "pipeline": "data/dashboard/pipeline.json",
+    "health": "data/dashboard/health.json",
+    "supply": "data/dashboard/supply.json",
+    "daily": "data/dashboard/daily.json",
+    "shorts": "data/dashboard/shorts.json"
+  },
+  "page_source": "dashboard/index.html",
+  "refresh": "Run python3 pipeline/dashboard.py. For each dataset: upload its file to the Control Room url with the Artifact tool (publish, url, asset: true, file_path), then ArtifactData update collection 'datasets' doc_id <name> with source.url = the returned /_blob/... url, source.name = the file name, updated = {at: now ISO, by: 'Close Call Files review'}, pinned with if_version from a get. Do not touch files/index.html unless the page itself must change."
+}

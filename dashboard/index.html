@@ -1,0 +1,216 @@
+<style>
+  .cr { display: grid; gap: var(--cds-gap-lg); font-family: var(--font-anthropic-sans); }
+  .cr-head h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .cr-take { color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 0; font-size: var(--cds-font-size-body); }
+  .cr-take b { color: var(--color-fg); font-weight: 600; }
+  .cr-tiles { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); }
+  .cr-tile, .cr-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); min-width: 0; }
+  .cr-tile .lbl { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+  .cr-tile .num { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; margin-top: var(--cds-gap-xs); min-height: 1.3em; }
+  .cr-grid { display: grid; gap: var(--cds-gap-md); grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+  .cr-card h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; }
+  .cr-card .note { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); margin: var(--cds-gap-xs) 0 var(--cds-gap-md); }
+  .cr-bars { display: grid; gap: var(--cds-gap-sm); min-height: 7rem; }
+  .cr-bar { display: grid; grid-template-columns: minmax(7rem, 9rem) 1fr 2.5rem; align-items: center; gap: var(--cds-gap-sm); font-size: var(--cds-font-size-caption); }
+  .cr-bar .track { height: 12px; border-radius: 6px; background: var(--cds-chart-grid); overflow: hidden; }
+  .cr-bar .fill { height: 100%; border-radius: 6px; }
+  .cr-bar .v { text-align: right; font-variant-numeric: tabular-nums; }
+  .cr-table-wrap { overflow-x: auto; max-height: 28rem; overflow-y: auto; }
+  .cr-card table { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+  .cr-card th { text-align: left; color: var(--color-fg-muted); font-weight: 500; padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); position: sticky; top: 0; background: var(--color-panel); }
+  .cr-card td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+  .cr-card td.num { text-align: right; }
+  .pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: var(--cds-font-size-caption); border: 1px solid currentColor; text-transform: uppercase; letter-spacing: .04em; }
+  .pill.ok { color: var(--color-ok); } .pill.warn { color: var(--color-warn); } .pill.bad { color: var(--color-bad); }
+  .cr-empty { color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); margin: 0; }
+  .cr-chart { min-height: 180px; position: relative; }
+  .cr-tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); }
+  .cr-tip .d { color: var(--cds-text-secondary); }
+  .cr-fail { display: flex; align-items: center; justify-content: center; gap: 6px; color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); min-height: inherit; }
+  .cr-fail::before { content: ""; width: .375rem; height: .375rem; border-radius: 50%; background: var(--color-bad); }
+  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  [data-dash-source-state=empty] { color: transparent; }
+  .cr a { color: inherit; }
+</style>
+
+<div class="cr">
+  <header class="cr-head" id="top">
+    <h1>Close Call Files Control Room</h1>
+    <p class="cr-take dash-skeleton" id="take" data-source="health">—</p>
+  </header>
+
+  <section class="cr-tiles" aria-label="Headline numbers">
+    <div class="cr-tile"><div class="lbl">Subscribers</div><div class="num dash-skeleton" data-source="summary" data-field="value" data-where="metric=subscribers">—</div></div>
+    <div class="cr-tile"><div class="lbl">Shorts uploaded</div><div class="num dash-skeleton" data-source="summary" data-field="value" data-where="metric=shorts_uploaded">—</div></div>
+    <div class="cr-tile"><div class="lbl">Ready to upload</div><div class="num dash-skeleton" data-source="pipeline" data-field="count" data-where="stage=Ready to upload">—</div></div>
+    <div class="cr-tile"><div class="lbl">Daily upload target</div><div class="num dash-skeleton" data-source="summary" data-field="value" data-where="metric=daily_target">—</div></div>
+  </section>
+
+  <section class="cr-card" id="health-card">
+    <h2>System health</h2>
+    <p class="note">Each automated stage and what it last did. Anything not OK needs a look.</p>
+    <div class="cr-table-wrap">
+      <table id="health" data-source="health" data-row-key="item">
+        <thead><tr><th data-field="item">Part</th><th data-field="status">Status</th><th data-field="detail">Detail</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="cr-grid">
+    <section class="cr-card" id="pipeline-card">
+      <h2>Shorts in the pipeline</h2>
+      <p class="note">Every Short by stage, from written script to uploaded.</p>
+      <div class="cr-bars dash-skeleton" id="pipeline" data-source="pipeline"></div>
+    </section>
+    <section class="cr-card" id="supply-card">
+      <h2>Unused clips by lane</h2>
+      <p class="note">Harvested public-domain footage the editor has not used yet.</p>
+      <div class="cr-bars dash-skeleton" id="supply" data-source="supply"></div>
+    </section>
+  </div>
+
+  <section class="cr-card" id="views-card">
+    <h2>Shorts views over time</h2>
+    <p class="note">Total views across all uploaded Shorts, one point per nightly stats run.</p>
+    <div class="cr-chart dash-skeleton" id="views" data-source="daily"></div>
+  </section>
+
+  <section class="cr-card" id="shorts-card">
+    <h2>Every Short</h2>
+    <p class="note">Newest first. Views and average percent watched update nightly; retention lags about two days.</p>
+    <p class="cr-empty" id="shorts-empty" hidden>No Shorts yet. They appear here as soon as the editor writes them.</p>
+    <div class="cr-table-wrap">
+      <table id="shorts" data-source="shorts" data-row-key="short_id">
+        <thead><tr><th data-field="title">Title</th><th data-field="lane">Lane</th><th data-field="status">Status</th><th data-field="publish_at">Publishes</th><th data-field="views" style="text-align:right">Views</th><th data-field="avg_view_pct" style="text-align:right">Avg % watched</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<script>
+(function () {
+  const fmt = d3.format(',');
+  const LANES = { rescue: 'Rescues', aviation_naval: 'Aviation and naval', hazards: 'Weather and hazards' };
+  const fail = (el) => { el.textContent = ''; const d = document.createElement('div'); d.className = 'cr-fail'; d.textContent = 'Failed to load'; el.appendChild(d); };
+
+  function fillValue(el) {
+    const id = el.dataset.source, res = dash.data(id);
+    if (res.status !== 'ok') { if (res.status === 'error') el.textContent = '—'; return; }
+    el.classList.remove('dash-skeleton');
+    const parts = new URLSearchParams(el.dataset.where.replace(/&amp;/g, '&'));
+    const row = res.data.find(r => [...parts].every(([k, v]) => String(r[k]) === v));
+    const v = row ? row[el.dataset.field] : null;
+    el.textContent = v == null ? '—' : fmt(v);
+  }
+
+  function bars(el, rows, labelKey, valueKey, labelFmt, colorFor) {
+    el.textContent = '';
+    el.classList.remove('dash-skeleton');
+    const max = d3.max(rows, r => +r[valueKey]) || 1;
+    rows.forEach((r, i) => {
+      const row = document.createElement('div'); row.className = 'cr-bar';
+      const l = document.createElement('div'); l.textContent = labelFmt(r[labelKey]);
+      const t = document.createElement('div'); t.className = 'track';
+      const f = document.createElement('div'); f.className = 'fill';
+      f.style.width = `${(100 * (+r[valueKey] || 0) / max)}%`; f.style.background = colorFor(r, i);
+      t.appendChild(f);
+      const v = document.createElement('div'); v.className = 'v'; v.textContent = fmt(+r[valueKey] || 0);
+      row.append(l, t, v); el.appendChild(row);
+    });
+  }
+
+  function healthTable() {
+    const res = dash.data('health'), tb = document.querySelector('#health tbody'), take = document.getElementById('take');
+    if (res.status !== 'ok') { if (res.status === 'error') { tb.textContent = ''; fail(take); } return; }
+    take.classList.remove('dash-skeleton');
+    tb.textContent = '';
+    res.data.forEach(r => {
+      const tr = document.createElement('tr');
+      const a = document.createElement('td'); a.textContent = r.item;
+      const b = document.createElement('td'); const p = document.createElement('span'); p.className = `pill ${r.status}`; p.textContent = r.status; b.appendChild(p);
+      const c = document.createElement('td'); c.textContent = r.detail;
+      tr.append(a, b, c); tb.appendChild(tr);
+    });
+    const bad = res.data.filter(r => r.status === 'bad'), warn = res.data.filter(r => r.status === 'warn');
+    take.textContent = '';
+    if (bad.length) { const s = document.createElement('b'); s.textContent = `${bad[0].item}: `; take.append(s, bad[0].detail); }
+    else if (warn.length) { const s = document.createElement('b'); s.textContent = `${warn.length} item${warn.length > 1 ? 's' : ''} to watch. `; take.append(s, warn.map(w => `${w.item}: ${w.detail}`).join(' · ')); }
+    else { take.textContent = 'Everything is running normally.'; }
+  }
+
+  function viewsChart() {
+    const el = document.getElementById('views'), res = dash.data('daily');
+    if (res.status !== 'ok') { if (res.status === 'error') fail(el); return; }
+    el.classList.remove('dash-skeleton');
+    el.textContent = '';
+    const rows = res.data.map(r => ({ d: new Date(r.date), v: +r.shorts_views || 0 }));
+    if (rows.length < 2) {
+      const p = document.createElement('p'); p.className = 'cr-empty';
+      p.textContent = 'The trend line starts after the second nightly stats run.';
+      el.appendChild(p); return;
+    }
+    const w = el.clientWidth || 600, h = 180, m = { t: 10, r: 16, b: 24, l: 8 };
+    const svg = d3.select(el).append('svg').attr('width', '100%').attr('viewBox', `0 0 ${w} ${h}`);
+    const y = d3.scaleLinear([0, d3.max(rows, r => r.v) || 1], [h - m.b, m.t]).nice();
+    const yAxis = svg.append('g').call(d3.axisLeft(y).ticks(4).tickFormat(fmt).tickSize(0)).attr('font-size', null).attr('font-family', null);
+    yAxis.select('.domain').remove();
+    let lw = 0; yAxis.selectAll('text').each(function () { lw = Math.max(lw, this.getComputedTextLength()); });
+    m.l = lw + 12; yAxis.attr('transform', `translate(${m.l - 6},0)`).selectAll('text').attr('fill', 'var(--color-fg-muted)');
+    const x = d3.scaleUtc(d3.extent(rows, r => r.d), [m.l, w - m.r]);
+    svg.append('g').selectAll('line').data(y.ticks(4)).join('line').attr('x1', m.l).attr('x2', w - m.r).attr('y1', y).attr('y2', y).attr('stroke', 'var(--cds-chart-grid)');
+    const xa = svg.append('g').attr('transform', `translate(0,${h - m.b})`).call(d3.axisBottom(x).ticks(Math.min(6, rows.length)).tickFormat(d3.utcFormat('%b %-d')).tickSize(0)).attr('font-size', null).attr('font-family', null);
+    xa.select('.domain').attr('stroke', 'var(--cds-chart-axis)'); xa.selectAll('text').attr('fill', 'var(--color-fg-muted)').attr('dy', '1.2em');
+    svg.append('path').datum(rows).attr('fill', 'none').attr('stroke', dash.colors[0]).attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round').attr('d', d3.line(r => x(r.d), r => y(r.v)));
+    const last = rows[rows.length - 1];
+    svg.append('circle').attr('cx', x(last.d)).attr('cy', y(last.v)).attr('r', 4).attr('fill', dash.colors[0]);
+    const tip = document.createElement('div'); tip.className = 'cr-tip'; tip.hidden = true; el.appendChild(tip);
+    const dot = svg.append('circle').attr('r', 4).attr('fill', dash.colors[0]).attr('opacity', 0);
+    svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', w - m.l - m.r).attr('height', h - m.t - m.b).attr('fill', 'transparent')
+      .on('mousemove', (ev) => {
+        const [px] = d3.pointer(ev); const i = d3.bisectCenter(rows.map(r => +r.d), +x.invert(px)); const r = rows[i];
+        dot.attr('cx', x(r.d)).attr('cy', y(r.v)).attr('opacity', 1);
+        tip.hidden = false; tip.textContent = '';
+        const d = document.createElement('div'); d.className = 'd'; d.textContent = d3.utcFormat('%b %-d')(r.d);
+        const v = document.createElement('div'); v.textContent = `${fmt(r.v)} views`;
+        tip.append(d, v);
+        const sx = x(r.d) / w * el.clientWidth; tip.style.left = `${Math.min(sx + 8, el.clientWidth - 120)}px`; tip.style.top = '4px';
+      })
+      .on('mouseleave', () => { tip.hidden = true; dot.attr('opacity', 0); });
+  }
+
+  function shortsTable() {
+    const res = dash.data('shorts'), tb = document.querySelector('#shorts tbody');
+    if (res.status !== 'ok') { if (res.status === 'error') tb.textContent = ''; return; }
+    tb.textContent = '';
+    const rows = [...res.data].reverse();
+    document.getElementById('shorts-empty').hidden = rows.length > 0;
+    rows.forEach(r => {
+      const tr = document.createElement('tr'); tr.dataset.key = r.short_id;
+      const t = document.createElement('td');
+      if (r.url) { const a = document.createElement('a'); a.href = r.url; a.target = '_blank'; a.rel = 'noopener'; a.textContent = r.title || r.short_id; t.appendChild(a); }
+      else t.textContent = r.title || r.short_id;
+      const l = document.createElement('td'); l.textContent = LANES[r.lane] || r.lane || '';
+      const s = document.createElement('td'); s.textContent = r.status || '';
+      const p = document.createElement('td'); p.textContent = r.publish_at ? d3.utcFormat('%b %-d, %H:%M UTC')(new Date(r.publish_at)) : '';
+      const v = document.createElement('td'); v.className = 'num'; v.textContent = r.views == null ? '' : fmt(r.views);
+      const a = document.createElement('td'); a.className = 'num'; a.textContent = r.avg_view_pct == null ? '' : `${(+r.avg_view_pct).toFixed(1)}%`;
+      tr.append(t, l, s, p, v, a); tb.appendChild(tr);
+    });
+  }
+
+  dash.onData(() => {
+    document.querySelectorAll('.cr-tile .num').forEach(fillValue);
+    healthTable();
+    const pl = dash.data('pipeline'), pe = document.getElementById('pipeline');
+    if (pl.status === 'ok') bars(pe, pl.data, 'stage', 'count', s => s, (r) => r.stage === 'Build failed' || r.stage === 'Sent back by QA' ? 'var(--cds-chart-status-critical)' : (r.stage === 'Uploaded' ? dash.colors[0] : 'var(--cds-chart-muted)'));
+    else if (pl.status === 'error') fail(pe);
+    const sp = dash.data('supply'), se = document.getElementById('supply');
+    if (sp.status === 'ok') bars(se, sp.data, 'lane', 'new_clips', l => LANES[l] || l, (r, i) => dash.colors[i]);
+    else if (sp.status === 'error') fail(se);
+    viewsChart();
+    shortsTable();
+  });
+})();
+</script>
