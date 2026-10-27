@@ -211,7 +211,7 @@ def process(asset_id, lane, query):
     a = asset(asset_id)
     if not a:
         return None, "asset lookup empty"
-    flags = copyright_flags(a.get("title"), a.get("description"), a.get("keywords"), credit_text(a.get("credit")))
+    flags = copyright_flags(a.get("title"), a.get("description"), a.get("keywords"))
     if flags:
         return None, "copyright flags: " + ", ".join(flags)
     best, small = pick_files(a.get("files"))
@@ -312,6 +312,16 @@ def main():
             if aid and aid not in seen and aid not in found:
                 found[aid] = (q["lane"], q["q"], r.get("title"))
         print(f"{q['q']!r}: {len(results)} results, {len(found)} new so far")
+    # interleave lanes so every lane gets a share of the run
+    by_lane = {}
+    for aid, v in found.items():
+        by_lane.setdefault(v[0], []).append((aid, v))
+    mixed = []
+    while any(by_lane.values()):
+        for lane in list(by_lane):
+            if by_lane[lane]:
+                mixed.append(by_lane[lane].pop(0))
+    found = dict(mixed)
     print(f"{len(found)} unseen assets; processing up to {limit}")
     if args.dry_run:
         for aid, (lane, q, title) in list(found.items())[:limit]:
