@@ -45,21 +45,21 @@
       "source_quote": "A U.S. Coast Guard helicopter crew from Astoria, Oregon"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "priority": 2,
   "line_shots": [
     [
       {
-        "start": 48.0,
-        "end": 51.0,
+        "start": 0.5,
+        "end": 3.5,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.45
       },
       {
-        "start": 51.0,
-        "end": 54.0,
+        "start": 3.6,
+        "end": 6.8,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.55
       }
     ],
     [
@@ -70,10 +70,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 40.0,
-        "end": 43.0,
+        "start": 41.0,
+        "end": 44.5,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       }
     ],
     [
@@ -81,17 +81,11 @@
         "start": 8.0,
         "end": 11.0,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.4
       },
       {
         "start": 12.0,
         "end": 15.0,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 15.0,
-        "end": 17.6,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -104,12 +98,6 @@
         "crop_x": 0.4
       },
       {
-        "start": 23.0,
-        "end": 26.0,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
         "start": 27.5,
         "end": 30.5,
         "layout": "crop",
@@ -118,36 +106,36 @@
     ],
     [
       {
-        "start": 54.0,
-        "end": 57.0,
+        "start": 45.6,
+        "end": 48.9,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 49.0,
+        "end": 52.0,
         "layout": "crop",
         "crop_x": 0.35
       },
       {
-        "start": 56.5,
-        "end": 59.0,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
         "start": 59.9,
-        "end": 62.6,
+        "end": 62.9,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 62.6,
-        "end": 65.6,
+        "start": 52.0,
+        "end": 55.0,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.4
       },
       {
-        "start": 45.6,
-        "end": 48.0,
+        "start": 63.0,
+        "end": 66.0,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.5
       }
     ]
   ]

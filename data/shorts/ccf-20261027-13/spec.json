@@ -124,5 +124,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "Source is 960x720 fisheye with heavy compression; most of the runtime is a small fit frame over blur, and it would be another flood basket rescue. Weak on a phone."
 }
