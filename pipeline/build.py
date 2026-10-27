@@ -33,7 +33,7 @@ W, H, FPS = 1080, 1920, 30
 SR = 48000
 GAP = 0.22          # pause between narration lines
 LEAD = 0.05         # narration starts this soon
-TAIL = 0.7          # outcome card holds this long after the last word (short, so the loop restarts fast)
+TAIL = 0.2          # end right after the last word so the Short rolls straight into its replay
 FG_SHIFT = -110     # fit layout: footage sits a little above center
 RELEASE_TAG = "renders"
 
@@ -290,18 +290,21 @@ def segment_filter(seg, sw, sh, crop=None):
     if layout == "auto":
         layout = "crop" if portrait else "fit"
     pts = (f"crop={crop}," if crop else "") + f"setpts=(PTS-STARTPTS)/{speed}"
+    dur = float(seg.get("_dur") or 0)
+    push = float(seg.get("push", 0.06)) if dur else 0.0  # slow push-in across the shot
+    grow = f"(1+{push}*min(t/{dur:.3f},1))" if push else "1"
     if layout == "crop":
         cx = float(seg.get("crop_x", 0.5))
         sh2 = int(H * zoom)
-        vf = (f"{pts},scale=-2:{sh2},crop={W}:{H}:x='(iw-{W})*{cx}':y='(ih-{H})/2',"
-              f"setsar=1,fps={FPS},format=yuv420p")
+        vf = (f"{pts},fps={FPS},scale=w=-2:h='trunc({sh2}*{grow}/2)*2':eval=frame,"
+              f"crop={W}:{H}:x='(iw-{W})*{cx}':y='(ih-{H})/2',setsar=1,format=yuv420p")
     else:
         fw = int(W * zoom) // 2 * 2
-        vf = (f"{pts},split[a][b];"
+        vf = (f"{pts},fps={FPS},split[a][b];"
               f"[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=28:3,"
               f"eq=brightness=-0.16:saturation=0.8[bg];"
-              f"[b]scale={fw}:-2[fg];"
-              f"[bg][fg]overlay=x=(W-w)/2:y=(H-h)/2+({FG_SHIFT}),setsar=1,fps={FPS},format=yuv420p")
+              f"[b]scale=w='trunc({fw}*{grow}/2)*2':h=-2:eval=frame[fg];"
+              f"[bg][fg]overlay=x=(W-w)/2:y=(H-h)/2+({FG_SHIFT}):eval=frame,setsar=1,format=yuv420p")
     af = f"asetpts=PTS-STARTPTS,{atempo(speed)}aresample={SR},aformat=channel_layouts=stereo"
     return vf, af
 
@@ -336,10 +339,14 @@ def cut_segments(src, segments, work):
                 sw, sh = cw, ch
         vf, af = segment_filter(seg, sw, sh, crop)
         a, b = float(seg["start"]), float(seg["end"])
+        if seg.get("_dur"):
+            b = min(b, a + float(seg["_dur"]) * float(seg.get("speed", 1.0)) + 0.05)
         cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", a, "-to", b, "-i", src]
         if not audio:
             cmd += ["-f", "lavfi", "-i", f"anullsrc=r={SR}:cl=stereo"]
         fc = f"[0:v]{vf}[v];" + (f"[0:a]{af}[a]" if audio else f"[1:a]{af}[a]")
+        if seg.get("_dur"):
+            cmd += ["-t", f"{float(seg['_dur']):.3f}"]
         cmd += ["-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-shortest",
                 "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-c:a", "pcm_s16le", out]
         run(cmd)
@@ -400,7 +407,7 @@ def build_ass(spec, timeline, total, credit_line=None):
     ink = ass_color("#0B0E12", 0x55)
     styles = [
         # name, font, size, primary, outline colour, back, bold, borderstyle, outline, shadow, align, mL, mR, mV
-        ("Cap", "Anton", 86, white, black, ass_color("#000000", 0x90), 0, 1, 5, 2, 2, 90, 90, 560),
+        ("Cap", "Anton", 116, white, black, ass_color("#000000", 0x90), 0, 1, 5, 2, 2, 90, 90, 560),
         ("Loc", "Inter", 34, white, ink, black, 1, 3, 10, 0, 8, 120, 120, 210),
         ("OutLabel", "Anton", 50, orange, black, black, 0, 1, 0, 0, 7, 0, 0, 0),
         ("OutText", "Inter", 54, white, black, black, 1, 1, 0, 0, 7, 0, 0, 0),
@@ -427,12 +434,12 @@ def build_ass(spec, timeline, total, credit_line=None):
     outcome_start = timeline[-1]["start"]
     lc = spec["location_card"]
     ev(3, 0.2, min(2.8, outcome_start - 0.3), "Loc", r"{\fad(150,250)}" + esc(f"{lc['place']}  |  {lc['date']}".upper()))
-    for item in timeline[:-1]:
+    for item in (timeline if not spec.get("outcome_card") else timeline[:-1]):
         words = item["words"]
         groups, cur = [], []
         for wd in words:
             trial = " ".join(x["w"] for x in cur + [wd])
-            if cur and (len(cur) >= 3 or len(trial) > 18):
+            if cur and (len(cur) >= 3 or len(trial) > 15):
                 groups.append(cur)
                 cur = []
             cur.append(wd)
@@ -460,18 +467,19 @@ def build_ass(spec, timeline, total, credit_line=None):
             b = min(b, caps[i + 1][0])
         if b - a > 0.02:
             out.append(f"Dialogue: 1,{ass_time(a)},{ass_time(b)},Cap,,0,0,0,,{text}")
-    # Outcome: a compact panel in the lower middle, footage stays visible above it
-    lines = wrap(esc(strip_tags(spec["outcome"])), 30)
-    n = lines.count(r"\N") + 1
-    top = 1000
-    height = 70 + 66 * n + 40
-    a, b = outcome_start - 0.05, total
-    ev(4, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c&H0B0E12&\1a&H38&\fad(200,0)\p1}"
-       + f"m 0 0 l 960 0 960 {height} 0 {height}" + r"{\p0}")
-    ev(5, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c" + orange + r"&\1a&H00&\fad(200,0)\p1}"
-       + f"m 0 0 l 10 0 10 {height} 0 {height}" + r"{\p0}")
-    ev(5, a, b, "OutLabel", r"{\an7\pos(100," + str(top + 22) + r")\fad(200,0)}HOW IT ENDED")
-    ev(5, a, b, "OutText", r"{\an7\pos(100," + str(top + 92) + r")\q2\fad(250,0)}" + lines)
+    if spec.get("outcome_card"):
+        # Outcome: a compact panel in the lower middle, footage stays visible above it
+        lines = wrap(esc(strip_tags(spec["outcome"])), 30)
+        n = lines.count(r"\N") + 1
+        top = 1000
+        height = 70 + 66 * n + 40
+        a, b = outcome_start - 0.05, total
+        ev(4, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c&H0B0E12&\1a&H38&\fad(200,0)\p1}"
+           + f"m 0 0 l 960 0 960 {height} 0 {height}" + r"{\p0}")
+        ev(5, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c" + orange + r"&\1a&H00&\fad(200,0)\p1}"
+           + f"m 0 0 l 10 0 10 {height} 0 {height}" + r"{\p0}")
+        ev(5, a, b, "OutLabel", r"{\an7\pos(100," + str(top + 22) + r")\fad(200,0)}HOW IT ENDED")
+        ev(5, a, b, "OutText", r"{\an7\pos(100," + str(top + 92) + r")\q2\fad(250,0)}" + lines)
     return "\n".join(out) + "\n"
 
 
@@ -611,7 +619,7 @@ def run_checks(out, total, timeline):
         "resolution": {"ok": (int(v["width"]), int(v["height"])) == (W, H), "value": f"{v['width']}x{v['height']}"},
         "duration": {"ok": 12 <= vd <= 59.5, "value": round(vd, 2)},
         "av_sync": {"ok": a is not None and abs(vd - ad) < 0.15, "value": round(vd - ad, 3)},
-        "fits_narration": {"ok": vd >= timeline[-1]["end"] + 0.3, "value": round(vd - timeline[-1]["end"], 2)},
+        "fits_narration": {"ok": vd >= timeline[-1]["end"] + 0.1, "value": round(vd - timeline[-1]["end"], 2)},
         "loudness": {"ok": lufs is not None and -15.5 <= lufs <= -12.5, "value": lufs},
         "true_peak": {"ok": peak is not None and peak <= -0.8, "value": peak},
         "dead_air": {"ok": not sil, "value": [[round(s, 2), round(e, 2) if e else None] for s, e in sil]},
@@ -730,6 +738,31 @@ def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
     return final
 
 
+def plan_shots(spec, timeline, total):
+    """Give every narration line its own shots, cut to that line's exact time window.
+
+    Window i runs from line i's first word to line i+1's first word (line 0 from 0,
+    the last line to the end). Each shot in the window gets an equal share; a shot
+    shorter than its share is slowed down a little (never below 0.7x)."""
+    starts = [0.0] + [t["start"] for t in timeline[1:]]
+    ends = starts[1:] + [total]
+    out = []
+    for i, shots in enumerate(spec["line_shots"]):
+        win = max(ends[i] - starts[i], 0.3)
+        share = win / len(shots)
+        for sh in shots:
+            sh = dict(sh)
+            avail = float(sh["end"]) - float(sh["start"])
+            speed = min(1.0, avail / (share + 0.08))
+            if speed < 0.7:
+                raise RuntimeError(f"line {i + 1}: shot {sh['start']}-{sh['end']} is {avail:.1f}s but needs {share:.1f}s; "
+                                   "give that line a longer shot or another shot")
+            sh["speed"] = round(speed, 3)
+            sh["_dur"] = round(share + 0.08, 3)  # a little extra; the final render trims to the exact length
+            out.append(sh)
+    return out
+
+
 def build_one(d, voice_cfg, cfg, upload=True):
     spec = load_json(d / "spec.json")
     sid = spec["short_id"]
@@ -739,8 +772,9 @@ def build_one(d, voice_cfg, cfg, upload=True):
     voice = Voice(voice_cfg)
 
     src = fetch_source(cand)
-    footage, (sw, sh), src_audio = cut_segments(src, spec["segments"], work)
     voice_wav, timeline, total = narration_track(spec, voice, work)
+    shots = plan_shots(spec, timeline, total) if spec.get("line_shots") else spec["segments"]
+    footage, (sw, sh), src_audio = cut_segments(src, shots, work)
     fdur = media_duration(footage)
     if fdur < total - 0.05:
         raise RuntimeError(f"footage is {fdur:.1f}s but the narration needs {total:.1f}s; add or lengthen segments")

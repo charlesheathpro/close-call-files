@@ -1,408 +1,395 @@
 {
   "short_id": "ccf-20261027-02",
-  "revision": 1,
+  "revision": 4,
   "status": "ok",
-  "built_at": "2026-10-27T06:35:31Z",
-  "duration": 24.51,
+  "built_at": "2026-10-27T07:08:56Z",
+  "duration": 21.85,
   "source_resolution": "1280x720",
   "timeline": [
     {
-      "text": "After Hurricane Florence, a Guard helicopter crew spotted a dog alone on a rooftop, with no one anywhere near it.",
+      "text": "This dog was alone on a roof, in the middle of a flood.",
       "start": 0.05,
-      "end": 8.13,
+      "end": 3.57,
       "words": [
         {
-          "w": "After",
+          "w": "This",
           "s": 0.05,
-          "e": 0.37
-        },
-        {
-          "w": "Hurricane",
-          "s": 0.45,
-          "e": 0.85
-        },
-        {
-          "w": "Florence,",
-          "s": 1.01,
-          "e": 1.73
-        },
-        {
-          "w": "a",
-          "s": 1.81,
-          "e": 1.89
-        },
-        {
-          "w": "Guard",
-          "s": 2.05,
-          "e": 2.21
-        },
-        {
-          "w": "helicopter",
-          "s": 2.29,
-          "e": 2.85
-        },
-        {
-          "w": "crew",
-          "s": 2.93,
-          "e": 3.17
-        },
-        {
-          "w": "spotted",
-          "s": 3.25,
-          "e": 3.57
-        },
-        {
-          "w": "a",
-          "s": 3.65,
-          "e": 3.73
+          "e": 0.29
         },
         {
           "w": "dog",
-          "s": 3.73,
-          "e": 3.97
+          "s": 0.37,
+          "e": 0.61
+        },
+        {
+          "w": "was",
+          "s": 0.69,
+          "e": 0.77
         },
         {
           "w": "alone",
-          "s": 4.21,
-          "e": 4.45
+          "s": 1.01,
+          "e": 1.25
         },
         {
           "w": "on",
-          "s": 4.49,
-          "e": 4.57
+          "s": 1.29,
+          "e": 1.37
         },
         {
           "w": "a",
-          "s": 4.61,
-          "e": 4.69
+          "s": 1.41,
+          "e": 1.49
         },
         {
-          "w": "rooftop,",
-          "s": 4.77,
-          "e": 5.81
+          "w": "roof,",
+          "s": 1.57,
+          "e": 2.13
         },
         {
-          "w": "with",
-          "s": 6.02,
-          "e": 6.1
+          "w": "in",
+          "s": 2.17,
+          "e": 2.25
         },
         {
-          "w": "no",
-          "s": 6.21,
-          "e": 6.37
+          "w": "the",
+          "s": 2.25,
+          "e": 2.33
         },
         {
-          "w": "one",
-          "s": 6.45,
-          "e": 6.69
+          "w": "middle",
+          "s": 2.45,
+          "e": 2.61
         },
         {
-          "w": "anywhere",
-          "s": 6.77,
-          "e": 7.09
+          "w": "of",
+          "s": 2.69,
+          "e": 2.77
         },
         {
-          "w": "near",
-          "s": 7.25,
-          "e": 7.41
+          "w": "a",
+          "s": 2.823,
+          "e": 2.903
         },
         {
-          "w": "it.",
-          "s": 7.49,
-          "e": 8.13
+          "w": "flood.",
+          "s": 2.93,
+          "e": 3.57
         }
       ]
     },
     {
-      "text": "They lowered a swiftwater rescue swimmer to check.",
-      "start": 8.25,
+      "text": "Hurricane Florence had put the whole area underwater.",
+      "start": 3.81,
+      "end": 6.89,
+      "words": [
+        {
+          "w": "Hurricane",
+          "s": 3.81,
+          "e": 4.29
+        },
+        {
+          "w": "Florence",
+          "s": 4.37,
+          "e": 4.77
+        },
+        {
+          "w": "had",
+          "s": 4.85,
+          "e": 4.93
+        },
+        {
+          "w": "put",
+          "s": 5.01,
+          "e": 5.09
+        },
+        {
+          "w": "the",
+          "s": 5.21,
+          "e": 5.33
+        },
+        {
+          "w": "whole",
+          "s": 5.45,
+          "e": 5.57
+        },
+        {
+          "w": "area",
+          "s": 5.65,
+          "e": 5.97
+        },
+        {
+          "w": "underwater.",
+          "s": 6.13,
+          "e": 6.89
+        }
+      ]
+    },
+    {
+      "text": "A National Guard crew spotted it, with no one anywhere near.",
+      "start": 7.17,
       "end": 11.17,
       "words": [
         {
-          "w": "They",
+          "w": "A",
+          "s": 7.17,
+          "e": 7.33
+        },
+        {
+          "w": "National",
+          "s": 7.53,
+          "e": 7.73
+        },
+        {
+          "w": "Guard",
+          "s": 7.89,
+          "e": 8.13
+        },
+        {
+          "w": "crew",
           "s": 8.25,
           "e": 8.37
         },
         {
-          "w": "lowered",
+          "w": "spotted",
           "s": 8.45,
-          "e": 8.61
-        },
-        {
-          "w": "a",
-          "s": 8.69,
           "e": 8.77
         },
         {
-          "w": "swiftwater",
-          "s": 8.93,
+          "w": "it,",
+          "s": 8.85,
+          "e": 9.17
+        },
+        {
+          "w": "with",
+          "s": 9.25,
           "e": 9.33
         },
         {
-          "w": "rescue",
-          "s": 9.41,
-          "e": 9.73
+          "w": "no",
+          "s": 9.49,
+          "e": 9.65
         },
         {
-          "w": "swimmer",
-          "s": 9.81,
-          "e": 10.13
+          "w": "one",
+          "s": 9.77,
+          "e": 9.89
         },
         {
-          "w": "to",
-          "s": 10.21,
+          "w": "anywhere",
+          "s": 10.01,
           "e": 10.29
         },
         {
-          "w": "check.",
-          "s": 10.45,
+          "w": "near.",
+          "s": 10.37,
           "e": 11.17
         }
       ]
     },
     {
-      "text": "No owner. So he put the dog in a special harness and rode the hoist back up with it.",
+      "text": "So they lowered a swiftwater rescue swimmer on the cable.",
       "start": 11.25,
-      "end": 16.61,
+      "end": 14.45,
       "words": [
         {
-          "w": "No",
+          "w": "So",
           "s": 11.25,
           "e": 11.33
         },
         {
-          "w": "owner.",
+          "w": "they",
           "s": 11.41,
-          "e": 12.29
+          "e": 11.49
         },
         {
-          "w": "So",
-          "s": 12.37,
-          "e": 12.45
-        },
-        {
-          "w": "he",
-          "s": 12.53,
-          "e": 12.61
-        },
-        {
-          "w": "put",
-          "s": 12.69,
-          "e": 12.77
-        },
-        {
-          "w": "the",
-          "s": 12.85,
-          "e": 12.93
-        },
-        {
-          "w": "dog",
-          "s": 13.05,
-          "e": 13.17
-        },
-        {
-          "w": "in",
-          "s": 13.21,
-          "e": 13.29
+          "w": "lowered",
+          "s": 11.61,
+          "e": 11.77
         },
         {
           "w": "a",
-          "s": 13.33,
-          "e": 13.41
+          "s": 11.81,
+          "e": 11.97
         },
         {
-          "w": "special",
-          "s": 13.61,
-          "e": 13.81
+          "w": "swiftwater",
+          "s": 12.13,
+          "e": 12.53
         },
         {
-          "w": "harness",
-          "s": 13.85,
+          "w": "rescue",
+          "s": 12.61,
+          "e": 12.93
+        },
+        {
+          "w": "swimmer",
+          "s": 13.01,
+          "e": 13.33
+        },
+        {
+          "w": "on",
+          "s": 13.37,
+          "e": 13.45
+        },
+        {
+          "w": "the",
+          "s": 13.49,
+          "e": 13.57
+        },
+        {
+          "w": "cable.",
+          "s": 13.677,
           "e": 14.45
-        },
+        }
+      ]
+    },
+    {
+      "text": "No owner. He put the dog in a special harness and rode the hoist back up with it.",
+      "start": 14.53,
+      "end": 19.57,
+      "words": [
         {
-          "w": "and",
+          "w": "No",
           "s": 14.53,
           "e": 14.61
         },
         {
-          "w": "rode",
+          "w": "owner.",
           "s": 14.69,
-          "e": 14.85
-        },
-        {
-          "w": "the",
-          "s": 14.89,
-          "e": 14.97
-        },
-        {
-          "w": "hoist",
-          "s": 15.01,
-          "e": 15.33
-        },
-        {
-          "w": "back",
-          "s": 15.45,
           "e": 15.57
         },
         {
-          "w": "up",
+          "w": "He",
           "s": 15.65,
           "e": 15.73
         },
         {
-          "w": "with",
+          "w": "put",
           "s": 15.81,
           "e": 15.89
         },
         {
-          "w": "it.",
-          "s": 15.97,
-          "e": 16.61
-        }
-      ]
-    },
-    {
-      "text": "The crew wasn't sure the dog would have made it otherwise.",
-      "start": 16.69,
-      "end": 19.65,
-      "words": [
-        {
-          "w": "The",
-          "s": 16.69,
-          "e": 16.77
-        },
-        {
-          "w": "crew",
-          "s": 16.89,
-          "e": 17.01
-        },
-        {
-          "w": "wasn't",
-          "s": 17.09,
-          "e": 17.41
-        },
-        {
-          "w": "sure",
-          "s": 17.49,
-          "e": 17.57
-        },
-        {
           "w": "the",
-          "s": 17.65,
+          "s": 15.97,
+          "e": 16.05
+        },
+        {
+          "w": "dog",
+          "s": 16.17,
+          "e": 16.29
+        },
+        {
+          "w": "in",
+          "s": 16.33,
+          "e": 16.41
+        },
+        {
+          "w": "a",
+          "s": 16.45,
+          "e": 16.53
+        },
+        {
+          "w": "special",
+          "s": 16.73,
+          "e": 16.93
+        },
+        {
+          "w": "harness",
+          "s": 16.97,
+          "e": 17.49
+        },
+        {
+          "w": "and",
+          "s": 17.61,
           "e": 17.73
         },
         {
-          "w": "dog",
-          "s": 17.85,
+          "w": "rode",
+          "s": 17.77,
           "e": 17.97
         },
         {
-          "w": "would",
-          "s": 18.05,
-          "e": 18.13
+          "w": "the",
+          "s": 18.01,
+          "e": 18.09
         },
         {
-          "w": "have",
-          "s": 18.21,
-          "e": 18.29
-        },
-        {
-          "w": "made",
-          "s": 18.37,
+          "w": "hoist",
+          "s": 18.13,
           "e": 18.45
         },
         {
-          "w": "it",
-          "s": 18.49,
-          "e": 18.57
+          "w": "back",
+          "s": 18.53,
+          "e": 18.61
         },
         {
-          "w": "otherwise.",
-          "s": 18.61,
-          "e": 19.65
+          "w": "up",
+          "s": 18.69,
+          "e": 18.77
+        },
+        {
+          "w": "with",
+          "s": 18.85,
+          "e": 18.93
+        },
+        {
+          "w": "it.",
+          "s": 19.01,
+          "e": 19.57
         }
       ]
     },
     {
-      "text": "The dog rode the hoist up into the helicopter and was flown to dry land.",
-      "start": 19.73,
-      "end": 23.81,
+      "text": "And the dog made it out of the flood.",
+      "start": 19.65,
+      "end": 21.65,
       "words": [
         {
-          "w": "The",
-          "s": 19.73,
-          "e": 19.81
-        },
-        {
-          "w": "dog",
-          "s": 19.97,
-          "e": 20.13
-        },
-        {
-          "w": "rode",
-          "s": 20.17,
-          "e": 20.29
+          "w": "And",
+          "s": 19.65,
+          "e": 19.73
         },
         {
           "w": "the",
+          "s": 19.81,
+          "e": 19.89
+        },
+        {
+          "w": "dog",
+          "s": 20.09,
+          "e": 20.29
+        },
+        {
+          "w": "made",
           "s": 20.37,
           "e": 20.45
         },
         {
-          "w": "hoist",
+          "w": "it",
           "s": 20.53,
-          "e": 20.85
+          "e": 20.61
         },
         {
-          "w": "up",
-          "s": 20.93,
-          "e": 21.01
+          "w": "out",
+          "s": 20.69,
+          "e": 20.77
         },
         {
-          "w": "into",
-          "s": 21.09,
-          "e": 21.25
+          "w": "of",
+          "s": 20.81,
+          "e": 20.89
         },
         {
           "w": "the",
-          "s": 21.29,
-          "e": 21.37
+          "s": 20.89,
+          "e": 20.97
         },
         {
-          "w": "helicopter",
-          "s": 21.41,
-          "e": 22.13
-        },
-        {
-          "w": "and",
-          "s": 22.21,
-          "e": 22.29
-        },
-        {
-          "w": "was",
-          "s": 22.37,
-          "e": 22.45
-        },
-        {
-          "w": "flown",
-          "s": 22.53,
-          "e": 22.77
-        },
-        {
-          "w": "to",
-          "s": 22.81,
-          "e": 22.89
-        },
-        {
-          "w": "dry",
-          "s": 22.93,
-          "e": 23.09
-        },
-        {
-          "w": "land.",
-          "s": 23.17,
-          "e": 23.81
+          "w": "flood.",
+          "s": 21.01,
+          "e": 21.65
         }
       ]
     }
@@ -414,15 +401,15 @@
     },
     "duration": {
       "ok": true,
-      "value": 24.53
+      "value": 21.87
     },
     "av_sync": {
       "ok": true,
-      "value": 0.023
+      "value": 0.017
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.72
+      "value": 0.22
     },
     "loudness": {
       "ok": true,
@@ -430,7 +417,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -1.8
+      "value": -2.1
     },
     "dead_air": {
       "ok": true,
@@ -452,6 +439,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261027-02/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261027-02-r1.mp4",
-  "local_path": "/home/runner/work/_temp/ccf/ccf-20261027-02/ccf-20261027-02.mp4"
+  "asset_url": null,
+  "local_path": "/tmp/claude-0/ccf/ccf-20261027-02/ccf-20261027-02.mp4"
 }

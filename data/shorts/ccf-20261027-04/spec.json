@@ -5,86 +5,17 @@
   "story_type": "dog rescue flood",
   "music": "taiko-low",
   "music_mood": "rescue",
-  "hook": "Him and his dog Lucky, on a roof, in a flood.",
+  "hook": "He and his dog Lucky escaped the flood onto a roof.",
   "narration": [
-    "When the floodwater rose, this man and his dog Lucky were inside their van.",
-    "They climbed onto the roof of the van, [short pause] then onto the roof of a building, and waited.",
-    "A Coast Guard crew from Air Station Elizabeth City came in overhead with the hoist camera rolling.",
-    "The basket went down to the roof, and nobody was leaving Lucky behind."
+    "He and his dog Lucky climbed onto this roof to escape the flood.",
+    "When the water rose, they were inside their van. Then on top of the van. Then up here.",
+    "A Coast Guard crew from Elizabeth City came in overhead and sent the basket down."
   ],
-  "outcome": "The Elizabeth City crew rescued the man and Lucky off the rooftop.",
+  "outcome": "The crew brought the man and Lucky up off that roof.",
   "location_card": {
     "place": "Cape Fear River, North Carolina",
     "date": "Sept. 17, 2018"
   },
-  "segments": [
-    {
-      "start": 169,
-      "end": 173,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 62,
-      "end": 66,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 70,
-      "end": 74,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 75,
-      "end": 79,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 85,
-      "end": 89,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 124,
-      "end": 128,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 130,
-      "end": 134,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 150,
-      "end": 154,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 158,
-      "end": 162,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 163,
-      "end": 168,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 173,
-      "end": 177,
-      "layout": "fit",
-      "crop_x": 0.5
-    }
-  ],
   "keep_source_audio": true,
   "title": "His dog Lucky waited on the roof too",
   "description": "After Hurricane Florence, a man and his dog Lucky escaped rising floodwater by climbing from their van onto a building's roof north of the Cape Fear River, North Carolina. A Coast Guard aircrew from Air Station Elizabeth City rescued them both on Sept. 17, 2018.\n\nFootage: U.S. Coast Guard video by Air Station Elizabeth City, via DVIDS: https://www.dvidshub.net/video/626635\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #dogrescue #hurricane",
@@ -112,5 +43,95 @@
       "source_quote": "Hoist camera footage of Coast Guard aircrews from Air Station Elizabeth City"
     }
   ],
-  "revision": 1
+  "revision": 2,
+  "line_shots": [
+    [
+      {
+        "start": 170,
+        "end": 172.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 62,
+        "end": 64.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 66,
+        "end": 68.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 85,
+        "end": 87.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 100,
+        "end": 102.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 112,
+        "end": 114.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 69.5,
+        "end": 71.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 75,
+        "end": 77.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 124,
+        "end": 126.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 150,
+        "end": 152.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 155,
+        "end": 157.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 160,
+        "end": 162.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 166,
+        "end": 169.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "status": "dropped",
+  "drop_reason": "top-down hoist camera never shows the van or the climb the script describes; footage and words do not match"
 }

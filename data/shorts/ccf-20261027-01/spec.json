@@ -5,92 +5,18 @@
   "story_type": "flood rooftop family",
   "music": "piano-heartbeat",
   "music_mood": "rescue",
-  "hook": "A mother and her baby, trapped by the flood.",
+  "hook": "This baby was 15 months old when the flood came.",
   "narration": [
-    "Floodwater swallowed this whole neighborhood in South Carolina, [short pause] and a mother was trapped in her house with her fifteen-month-old baby.",
-    "A Coast Guard helicopter crew flew in low over the rooftops.",
-    "When water is this high, a boat can't always get through. A helicopter can come straight down to one house.",
-    "Minutes later, mother and baby were up in the cabin."
+    "This baby was just fifteen months old when the flood came.",
+    "Floodwater had swallowed the whole neighborhood in South Carolina.",
+    "The baby and mom were trapped inside a house like this one.",
+    "A Coast Guard helicopter came in low over the rooftops, and the crew got the hoist ready."
   ],
-  "outcome": "The Coast Guard rescued the mother and her baby from the flooded house.",
+  "outcome": "Then they pulled both of them up into the helicopter.",
   "location_card": {
     "place": "Huger, South Carolina",
     "date": "Oct. 4, 2015"
   },
-  "segments": [
-    {
-      "start": 57.5,
-      "end": 61.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 5.5,
-      "end": 9,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 9.5,
-      "end": 13,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 17.5,
-      "end": 21,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 21.5,
-      "end": 25,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 29.5,
-      "end": 33,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 33,
-      "end": 36.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 42,
-      "end": 45.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 49.5,
-      "end": 53.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 53.5,
-      "end": 57.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 61.5,
-      "end": 65.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    },
-    {
-      "start": 65.5,
-      "end": 68.5,
-      "layout": "fit",
-      "crop_x": 0.5
-    }
-  ],
   "keep_source_audio": true,
   "title": "Trapped by floodwater with her baby",
   "description": "Severe flooding inundated a neighborhood in Huger, South Carolina, on Oct. 4, 2015. A Coast Guard helicopter crew rescued a mother and her 15-month-old infant from their flooded house.\n\nFootage: U.S. Coast Guard video, via DVIDS: https://www.dvidshub.net/video/426559\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #flood",
@@ -114,5 +40,101 @@
       "source_quote": "The family's neighborhood was inundated by severe flooding affecting the area"
     }
   ],
-  "revision": 1
+  "revision": 4,
+  "line_shots": [
+    [
+      {
+        "start": 58,
+        "end": 60.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 64.5,
+        "end": 67,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 5.5,
+        "end": 7.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 9.5,
+        "end": 11.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 21.5,
+        "end": 23.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 17.8,
+        "end": 20.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 22.3,
+        "end": 24.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 14,
+        "end": 16.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 30,
+        "end": 32.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33,
+        "end": 35.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 42,
+        "end": 44.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 50.5,
+        "end": 52.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 54,
+        "end": 56.3,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ]
+  ]
 }

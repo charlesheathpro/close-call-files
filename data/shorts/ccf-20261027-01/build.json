@@ -1,413 +1,338 @@
 {
   "short_id": "ccf-20261027-01",
-  "revision": 1,
+  "revision": 4,
   "status": "ok",
-  "built_at": "2026-10-27T06:34:50Z",
-  "duration": 26.51,
+  "built_at": "2026-10-27T07:07:39Z",
+  "duration": 19.29,
   "source_resolution": "720x480",
   "timeline": [
     {
-      "text": "Floodwater swallowed this whole neighborhood in South Carolina, and a mother was trapped in her house with her fifteen-month-old baby.",
+      "text": "This baby was just fifteen months old when the flood came.",
       "start": 0.05,
-      "end": 7.97,
+      "end": 3.81,
       "words": [
         {
-          "w": "Floodwater",
+          "w": "This",
           "s": 0.05,
-          "e": 0.69
+          "e": 0.29
         },
         {
-          "w": "swallowed",
-          "s": 0.77,
-          "e": 1.17
-        },
-        {
-          "w": "this",
-          "s": 1.29,
-          "e": 1.41
-        },
-        {
-          "w": "whole",
-          "s": 1.57,
-          "e": 1.81
-        },
-        {
-          "w": "neighborhood",
-          "s": 1.89,
-          "e": 2.37
-        },
-        {
-          "w": "in",
-          "s": 2.41,
-          "e": 2.49
-        },
-        {
-          "w": "South",
-          "s": 2.53,
-          "e": 2.69
-        },
-        {
-          "w": "Carolina,",
-          "s": 2.77,
-          "e": 3.89
-        },
-        {
-          "w": "and",
-          "s": 4.039,
-          "e": 4.119
-        },
-        {
-          "w": "a",
-          "s": 4.13,
-          "e": 4.21
-        },
-        {
-          "w": "mother",
-          "s": 4.29,
-          "e": 4.45
+          "w": "baby",
+          "s": 0.37,
+          "e": 0.61
         },
         {
           "w": "was",
-          "s": 4.53,
-          "e": 4.77
+          "s": 0.69,
+          "e": 0.85
         },
         {
-          "w": "trapped",
-          "s": 4.85,
-          "e": 5.09
+          "w": "just",
+          "s": 0.93,
+          "e": 1.09
         },
         {
-          "w": "in",
-          "s": 5.17,
-          "e": 5.25
+          "w": "fifteen",
+          "s": 1.25,
+          "e": 1.65
         },
         {
-          "w": "her",
-          "s": 5.25,
-          "e": 5.41
+          "w": "months",
+          "s": 1.81,
+          "e": 2.05
         },
         {
-          "w": "house",
-          "s": 5.57,
-          "e": 5.73
+          "w": "old",
+          "s": 2.13,
+          "e": 2.37
         },
         {
-          "w": "with",
-          "s": 5.81,
-          "e": 5.89
-        },
-        {
-          "w": "her",
-          "s": 6.01,
-          "e": 6.13
-        },
-        {
-          "w": "fifteen-month-old",
-          "s": 6.17,
-          "e": 6.93
-        },
-        {
-          "w": "baby.",
-          "s": 7.01,
-          "e": 7.97
-        }
-      ]
-    },
-    {
-      "text": "A Coast Guard helicopter crew flew in low over the rooftops.",
-      "start": 8.05,
-      "end": 11.81,
-      "words": [
-        {
-          "w": "A",
-          "s": 8.05,
-          "e": 8.13
-        },
-        {
-          "w": "Coast",
-          "s": 8.21,
-          "e": 8.37
-        },
-        {
-          "w": "Guard",
-          "s": 8.45,
-          "e": 8.61
-        },
-        {
-          "w": "helicopter",
-          "s": 8.69,
-          "e": 9.25
-        },
-        {
-          "w": "crew",
-          "s": 9.33,
-          "e": 9.57
-        },
-        {
-          "w": "flew",
-          "s": 9.73,
-          "e": 9.89
-        },
-        {
-          "w": "in",
-          "s": 9.97,
-          "e": 10.13
-        },
-        {
-          "w": "low",
-          "s": 10.21,
-          "e": 10.45
-        },
-        {
-          "w": "over",
-          "s": 10.53,
-          "e": 10.61
+          "w": "when",
+          "s": 2.45,
+          "e": 2.53
         },
         {
           "w": "the",
-          "s": 10.69,
-          "e": 10.77
+          "s": 2.57,
+          "e": 2.65
         },
         {
-          "w": "rooftops.",
-          "s": 10.81,
-          "e": 11.81
+          "w": "flood",
+          "s": 2.69,
+          "e": 2.93
+        },
+        {
+          "w": "came.",
+          "s": 3.09,
+          "e": 3.81
         }
       ]
     },
     {
-      "text": "When water is this high, a boat can't always get through. A helicopter can come straight down to one house.",
-      "start": 11.93,
-      "end": 18.77,
+      "text": "Floodwater had swallowed the whole neighborhood in South Carolina.",
+      "start": 3.89,
+      "end": 7.65,
       "words": [
         {
-          "w": "When",
-          "s": 11.93,
-          "e": 12.05
+          "w": "Floodwater",
+          "s": 3.89,
+          "e": 4.45
         },
         {
-          "w": "water",
-          "s": 12.17,
-          "e": 12.29
+          "w": "had",
+          "s": 4.57,
+          "e": 4.69
         },
         {
-          "w": "is",
-          "s": 12.37,
-          "e": 12.53
+          "w": "swallowed",
+          "s": 4.77,
+          "e": 5.17
         },
         {
-          "w": "this",
-          "s": 12.61,
-          "e": 12.77
+          "w": "the",
+          "s": 5.29,
+          "e": 5.41
         },
         {
-          "w": "high,",
-          "s": 12.85,
-          "e": 13.41
+          "w": "whole",
+          "s": 5.53,
+          "e": 5.65
+        },
+        {
+          "w": "neighborhood",
+          "s": 5.73,
+          "e": 6.13
+        },
+        {
+          "w": "in",
+          "s": 6.21,
+          "e": 6.29
+        },
+        {
+          "w": "South",
+          "s": 6.37,
+          "e": 6.53
+        },
+        {
+          "w": "Carolina.",
+          "s": 6.61,
+          "e": 7.65
+        }
+      ]
+    },
+    {
+      "text": "The baby and mom were trapped inside a house like this one.",
+      "start": 7.73,
+      "end": 11.01,
+      "words": [
+        {
+          "w": "The",
+          "s": 7.73,
+          "e": 7.81
+        },
+        {
+          "w": "baby",
+          "s": 7.97,
+          "e": 8.13
+        },
+        {
+          "w": "and",
+          "s": 8.17,
+          "e": 8.25
+        },
+        {
+          "w": "mom",
+          "s": 8.29,
+          "e": 8.53
+        },
+        {
+          "w": "were",
+          "s": 8.65,
+          "e": 8.77
+        },
+        {
+          "w": "trapped",
+          "s": 8.85,
+          "e": 9.09
+        },
+        {
+          "w": "inside",
+          "s": 9.25,
+          "e": 9.41
         },
         {
           "w": "a",
-          "s": 13.49,
-          "e": 13.57
+          "s": 9.45,
+          "e": 9.53
         },
         {
-          "w": "boat",
-          "s": 13.65,
-          "e": 13.89
+          "w": "house",
+          "s": 9.57,
+          "e": 9.81
         },
         {
-          "w": "can't",
-          "s": 13.97,
-          "e": 14.13
+          "w": "like",
+          "s": 9.89,
+          "e": 9.97
         },
         {
-          "w": "always",
-          "s": 14.21,
+          "w": "this",
+          "s": 10.05,
+          "e": 10.21
+        },
+        {
+          "w": "one.",
+          "s": 10.29,
+          "e": 11.01
+        }
+      ]
+    },
+    {
+      "text": "A Coast Guard helicopter came in low over the rooftops, and the crew got the hoist ready.",
+      "start": 11.09,
+      "end": 16.343,
+      "words": [
+        {
+          "w": "A",
+          "s": 11.09,
+          "e": 11.17
+        },
+        {
+          "w": "Coast",
+          "s": 11.25,
+          "e": 11.49
+        },
+        {
+          "w": "Guard",
+          "s": 11.61,
+          "e": 11.73
+        },
+        {
+          "w": "helicopter",
+          "s": 11.81,
+          "e": 12.37
+        },
+        {
+          "w": "came",
+          "s": 12.45,
+          "e": 12.61
+        },
+        {
+          "w": "in",
+          "s": 12.73,
+          "e": 12.85
+        },
+        {
+          "w": "low",
+          "s": 12.97,
+          "e": 13.09
+        },
+        {
+          "w": "over",
+          "s": 13.17,
+          "e": 13.25
+        },
+        {
+          "w": "the",
+          "s": 13.33,
+          "e": 13.41
+        },
+        {
+          "w": "rooftops,",
+          "s": 13.45,
+          "e": 14.33
+        },
+        {
+          "w": "and",
+          "s": 14.37,
           "e": 14.45
         },
         {
-          "w": "get",
+          "w": "the",
           "s": 14.53,
           "e": 14.61
         },
         {
-          "w": "through.",
-          "s": 14.77,
+          "w": "crew",
+          "s": 14.73,
+          "e": 14.85
+        },
+        {
+          "w": "got",
+          "s": 14.93,
+          "e": 15.01
+        },
+        {
+          "w": "the",
+          "s": 15.09,
+          "e": 15.17
+        },
+        {
+          "w": "hoist",
+          "s": 15.21,
           "e": 15.41
         },
         {
-          "w": "A",
+          "w": "ready.",
           "s": 15.49,
-          "e": 15.65
-        },
-        {
-          "w": "helicopter",
-          "s": 15.73,
-          "e": 16.29
-        },
-        {
-          "w": "can",
-          "s": 16.37,
-          "e": 16.53
-        },
-        {
-          "w": "come",
-          "s": 16.65,
-          "e": 16.77
-        },
-        {
-          "w": "straight",
-          "s": 16.85,
-          "e": 17.17
-        },
-        {
-          "w": "down",
-          "s": 17.29,
-          "e": 17.41
-        },
-        {
-          "w": "to",
-          "s": 17.49,
-          "e": 17.57
-        },
-        {
-          "w": "one",
-          "s": 17.65,
-          "e": 17.73
-        },
-        {
-          "w": "house.",
-          "s": 17.81,
-          "e": 18.77
+          "e": 16.343
         }
       ]
     },
     {
-      "text": "Minutes later, mother and baby were up in the cabin.",
-      "start": 18.85,
-      "end": 22.05,
+      "text": "Then they pulled both of them up into the helicopter.",
+      "start": 16.397,
+      "end": 19.09,
       "words": [
         {
-          "w": "Minutes",
-          "s": 18.85,
-          "e": 19.17
+          "w": "Then",
+          "s": 16.397,
+          "e": 16.477
         },
         {
-          "w": "later,",
-          "s": 19.25,
-          "e": 19.81
+          "w": "they",
+          "s": 16.53,
+          "e": 16.69
         },
         {
-          "w": "mother",
-          "s": 19.97,
-          "e": 20.21
+          "w": "pulled",
+          "s": 16.797,
+          "e": 17.01
         },
         {
-          "w": "and",
-          "s": 20.25,
-          "e": 20.33
+          "w": "both",
+          "s": 17.13,
+          "e": 17.25
         },
         {
-          "w": "baby",
-          "s": 20.37,
-          "e": 20.69
+          "w": "of",
+          "s": 17.29,
+          "e": 17.37
         },
         {
-          "w": "were",
-          "s": 20.77,
-          "e": 20.85
+          "w": "them",
+          "s": 17.41,
+          "e": 17.65
         },
         {
           "w": "up",
-          "s": 20.89,
-          "e": 20.97
+          "s": 17.73,
+          "e": 17.81
         },
         {
-          "w": "in",
-          "s": 21.01,
-          "e": 21.09
-        },
-        {
-          "w": "the",
-          "s": 21.09,
-          "e": 21.17
-        },
-        {
-          "w": "cabin.",
-          "s": 21.303,
-          "e": 22.05
-        }
-      ]
-    },
-    {
-      "text": "The Coast Guard rescued the mother and her baby from the flooded house.",
-      "start": 22.13,
-      "end": 25.81,
-      "words": [
-        {
-          "w": "The",
-          "s": 22.13,
-          "e": 22.21
-        },
-        {
-          "w": "Coast",
-          "s": 22.25,
-          "e": 22.45
-        },
-        {
-          "w": "Guard",
-          "s": 22.53,
-          "e": 22.77
-        },
-        {
-          "w": "rescued",
-          "s": 22.89,
-          "e": 23.17
+          "w": "into",
+          "s": 17.89,
+          "e": 18.05
         },
         {
           "w": "the",
-          "s": 23.25,
-          "e": 23.33
+          "s": 18.13,
+          "e": 18.21
         },
         {
-          "w": "mother",
-          "s": 23.49,
-          "e": 23.65
-        },
-        {
-          "w": "and",
-          "s": 23.73,
-          "e": 23.89
-        },
-        {
-          "w": "her",
-          "s": 24.01,
-          "e": 24.13
-        },
-        {
-          "w": "baby",
-          "s": 24.29,
-          "e": 24.45
-        },
-        {
-          "w": "from",
-          "s": 24.53,
-          "e": 24.61
-        },
-        {
-          "w": "the",
-          "s": 24.69,
-          "e": 24.77
-        },
-        {
-          "w": "flooded",
-          "s": 24.81,
-          "e": 25.09
-        },
-        {
-          "w": "house.",
-          "s": 25.29,
-          "e": 25.81
+          "w": "helicopter.",
+          "s": 18.29,
+          "e": 19.09
         }
       ]
     }
@@ -419,23 +344,23 @@
     },
     "duration": {
       "ok": true,
-      "value": 26.53
+      "value": 19.3
     },
     "av_sync": {
       "ok": true,
-      "value": 0.023
+      "value": 0.01
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.72
+      "value": 0.21
     },
     "loudness": {
       "ok": true,
-      "value": -14.0
+      "value": -14.1
     },
     "true_peak": {
       "ok": true,
-      "value": -1.9
+      "value": -2.0
     },
     "dead_air": {
       "ok": true,
@@ -457,6 +382,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261027-01/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261027-01-r1.mp4",
-  "local_path": "/home/runner/work/_temp/ccf/ccf-20261027-01/ccf-20261027-01.mp4"
+  "asset_url": null,
+  "local_path": "/tmp/claude-0/ccf/ccf-20261027-01/ccf-20261027-01.mp4"
 }

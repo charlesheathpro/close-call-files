@@ -21,7 +21,7 @@ To start a workflow from a push, change the matching file in `triggers/` (e.g. `
 ## Non-negotiable rules for anything published
 
 - No em-dashes, en-dashes or double hyphens. No "not X but Y", "isn't X, it's Y", or "more than just" phrasing. `pipeline/validate_spec.py` enforces this.
-- Every Short resolves. The `outcome` field is a past-tense statement of how it ended, spoken last and shown on the outcome card. If the source does not say or show how it ended, the clip is not used.
+- Every Short resolves. The `outcome` field is a past-tense statement of how it ended, spoken as the last line (no on-screen outcome graphic). If the source does not say or show how it ended, the clip is not used.
 - Facts about the incident come only from the agency release, the transcript, a cited press release (`extra_sources`), or what is plainly visible. Each claim needs a verbatim `source_quote`. General explanations (how a hoist works) must be accurate and well known.
 - No names of rescued people unless the release names them, and even then prefer roles. No injuries or medical scenes on screen.
 - Skip any asset with non-federal credit or copyright text (the harvester filters most). Every description credits the unit and links the DVIDS page, and states the channel is not affiliated with or endorsed by the U.S. government.

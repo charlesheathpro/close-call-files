@@ -5,83 +5,19 @@
   "story_type": "dog rescue flood",
   "music": "pulse-strings",
   "music_mood": "rescue",
-  "hook": "A dog, alone on a roof, in a sea of floodwater.",
+  "hook": "This dog was alone on a roof in a flood.",
   "narration": [
-    "After Hurricane Florence, a Guard helicopter crew spotted a dog alone on a rooftop, [short pause] with no one anywhere near it.",
-    "They lowered a swiftwater rescue swimmer to check.",
-    "No owner. So he put the dog in a special harness and rode the hoist back up with it.",
-    "The crew wasn't sure the dog would have made it otherwise."
+    "This dog was alone on a roof, in the middle of a flood.",
+    "Hurricane Florence had put the whole area underwater.",
+    "A National Guard crew spotted it, with no one anywhere near.",
+    "So they lowered a swiftwater rescue swimmer on the cable.",
+    "No owner. He put the dog in a special harness and rode the hoist back up with it."
   ],
-  "outcome": "The dog rode the hoist up into the helicopter and was flown to dry land.",
+  "outcome": "And the dog made it out of the flood.",
   "location_card": {
     "place": "North Carolina",
     "date": "Sept. 2018"
   },
-  "segments": [
-    {
-      "start": 28.5,
-      "end": 32,
-      "layout": "crop",
-      "crop_x": 0.45,
-      "speed": 0.85
-    },
-    {
-      "start": 3.5,
-      "end": 7,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 7,
-      "end": 10.5,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 10.5,
-      "end": 13.6,
-      "layout": "crop",
-      "crop_x": 0.45
-    },
-    {
-      "start": 22,
-      "end": 25.5,
-      "layout": "crop",
-      "crop_x": 0.55
-    },
-    {
-      "start": 25.5,
-      "end": 28.5,
-      "layout": "crop",
-      "crop_x": 0.45
-    },
-    {
-      "start": 32,
-      "end": 35,
-      "layout": "crop",
-      "crop_x": 0.45,
-      "speed": 0.85
-    },
-    {
-      "start": 35,
-      "end": 36.8,
-      "layout": "crop",
-      "crop_x": 0.45,
-      "speed": 0.85
-    },
-    {
-      "start": 4,
-      "end": 7.5,
-      "layout": "crop",
-      "crop_x": 0.65
-    },
-    {
-      "start": 9,
-      "end": 12.5,
-      "layout": "crop",
-      "crop_x": 0.35
-    }
-  ],
   "keep_source_audio": false,
   "title": "Dog stranded alone on a flooded roof",
   "description": "After Hurricane Florence in September 2018, a Connecticut National Guard helicopter crew supporting North Carolina spotted a dog stranded alone on a roof. A swiftwater rescue swimmer put the dog in a harness and rode the hoist up with it.\n\nFootage: U.S. Army video, Connecticut National Guard, via DVIDS: https://www.dvidshub.net/video/652963\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #dogrescue #hurricane #nationalguard",
@@ -117,5 +53,103 @@
       "source_quote": "I don't know if that dog would have made it otherwise"
     }
   ],
-  "revision": 1
+  "revision": 4,
+  "line_shots": [
+    [
+      {
+        "start": 28.7,
+        "end": 31,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 13.2,
+        "end": 14.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 4,
+        "end": 6.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 7,
+        "end": 9.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 10,
+        "end": 12.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 11.2,
+        "end": 13.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 4,
+        "end": 6.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 22.4,
+        "end": 24.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 24.5,
+        "end": 26.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 28.9,
+        "end": 31,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 31,
+        "end": 33,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 35,
+        "end": 36.9,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 26.4,
+        "end": 28.7,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ]
 }

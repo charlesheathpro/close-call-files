@@ -18,7 +18,7 @@ def plain(t):
 
 
 LANES = {"rescue", "aviation_naval", "hazards"}
-WORDS_PER_SEC = 2.6  # Kokoro at speed 1.08, measured roughly
+WORDS_PER_SEC = 2.85  # Brian on v4 reads about 170 words a minute
 
 
 def norm(s):
@@ -31,7 +31,9 @@ def validate(spec_path):
     if spec is None:
         return [f"cannot read {spec_path}"], []
     req = ["short_id", "revision", "candidate_id", "lane", "story_type", "hook", "narration", "outcome",
-           "location_card", "segments", "title", "description", "tags", "question_comment", "facts"]
+           "location_card", "title", "description", "tags", "question_comment", "facts"]
+    if not spec.get("line_shots") and not spec.get("segments"):
+        errors.append("missing line_shots (one list of shots per narration line, plus one for the outcome)")
     for k in req:
         if k not in spec or spec[k] in (None, "", []):
             errors.append(f"missing {k}")
@@ -111,7 +113,26 @@ def validate(spec_path):
     # Footage
     dur = cand.get("duration", 0)
     total = 0.0
-    for i, s in enumerate(spec["segments"]):
+    lines_all = spec["narration"] + [spec["outcome"]]
+    if spec.get("line_shots"):
+        ls = spec["line_shots"]
+        if len(ls) != len(lines_all):
+            errors.append(f"line_shots needs {len(lines_all)} lists (one per narration line plus the outcome), has {len(ls)}")
+        for i, (line, shots) in enumerate(zip(lines_all, ls)):
+            if not shots:
+                errors.append(f"line {i + 1}: give it at least one shot")
+                continue
+            need = len(plain(line).split()) / WORDS_PER_SEC + 0.25
+            have = sum(max(float(x["end"]) - float(x["start"]), 0) for x in shots) / 0.7
+            if have < need:
+                errors.append(f"line {i + 1}: shots cover about {have * 0.7:.1f}s but the line takes about {need:.1f}s")
+            share = need / len(shots)
+            if share > 3.2:
+                warnings.append(f"line {i + 1}: each shot holds about {share:.1f}s; add a shot so cuts land every 1.5 to 2.5s")
+        flat = [x for shots in ls for x in shots]
+    else:
+        flat = spec["segments"]
+    for i, s in enumerate(flat):
         a, b = float(s.get("start", -1)), float(s.get("end", -1))
         if not 0 <= a < b <= dur + 0.05:
             errors.append(f"segment {i + 1}: start/end outside the clip (0 to {dur})")
@@ -125,7 +146,7 @@ def validate(spec_path):
             errors.append(f"segment {i + 1}: crop_x must be 0 to 1")
         total += max(b - a, 0) / speed
     words = sum(len(plain(l).split()) for l in spec["narration"]) + len(plain(spec["outcome"]).split())
-    long_segs = [i + 1 for i, sg in enumerate(spec["segments"]) if (float(sg["end"]) - float(sg["start"])) / float(sg.get("speed", 1.0)) > 5.5]
+    long_segs = [] if spec.get("line_shots") else [i + 1 for i, sg in enumerate(flat) if (float(sg["end"]) - float(sg["start"])) / float(sg.get("speed", 1.0)) > 5.5]
     if long_segs:
         warnings.append(f"segments {long_segs} run over 5.5s; cut every 2 to 4 seconds to hold attention")
     est = words / WORDS_PER_SEC + 0.2 * (len(spec["narration"]) + 1) + 1.0
@@ -135,7 +156,7 @@ def validate(spec_path):
         warnings.append(f"about {est:.0f}s spoken; 25 to 35 seconds holds viewers best")
     if est < 14:
         warnings.append(f"narration is short ({est:.0f}s); Shorts under 15s rarely hold attention")
-    if total < est + 1:
+    if not spec.get("line_shots") and total < est + 1:
         errors.append(f"footage {total:.1f}s is shorter than estimated narration {est:.1f}s; add segments")
     return errors, warnings
 

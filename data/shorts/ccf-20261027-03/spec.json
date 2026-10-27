@@ -7,84 +7,16 @@
   "music_mood": "mountain",
   "hook": "She spent the night at the bottom of a cliff.",
   "narration": [
-    "She spent the whole night stranded at the bottom of a cliff on Lake Michigan, [short pause] with her dog.",
-    "Coast Guard crews from Air Facility Muskegon and Station Ludington came for them.",
-    "To hoist her safely, rescuers first helped her out into the water, where the helicopter could pick her up.",
-    "Another Coast Guard helicopter filmed the whole thing from above."
+    "She spent the whole night at the bottom of a cliff, with her dog.",
+    "This is the cliff, on the shore of Lake Michigan.",
+    "Coast Guard crews from Muskegon and Ludington came for them.",
+    "To hoist her safely, rescuers first helped her out into the water."
   ],
-  "outcome": "The crews rescued the woman and her dog from the bottom of the cliff.",
+  "outcome": "Then the helicopter lifted her out, and her dog was rescued too.",
   "location_card": {
     "place": "Ludington, Michigan",
     "date": "July 19, 2019"
   },
-  "segments": [
-    {
-      "start": 277,
-      "end": 281,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 131,
-      "end": 135,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 176,
-      "end": 180,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 190,
-      "end": 194,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 281,
-      "end": 285,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 322,
-      "end": 326,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 326,
-      "end": 330,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 330,
-      "end": 334,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 336,
-      "end": 340,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 345,
-      "end": 349,
-      "layout": "crop",
-      "crop_x": 0.5
-    },
-    {
-      "start": 351,
-      "end": 355,
-      "layout": "crop",
-      "crop_x": 0.5
-    }
-  ],
   "keep_source_audio": true,
   "title": "Stranded overnight under a cliff",
   "description": "A woman and her dog were stranded overnight at the bottom of a cliff near Ludington, Michigan. On July 19, 2019, Coast Guard crews from Air Facility Muskegon and Station Ludington rescued them, helping her into the water so she could be hoisted safely.\n\nFootage: U.S. Coast Guard video, recorded by Air Station Traverse City, via DVIDS: https://www.dvidshub.net/video/698025\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #lakemichigan",
@@ -116,5 +48,95 @@
       "source_quote": "an MH-60 Jayhawk helicopter crew from Coast Guard Air Station Traverse City records the rescue"
     }
   ],
-  "revision": 2
+  "revision": 4,
+  "line_shots": [
+    [
+      {
+        "start": 131,
+        "end": 133.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 232,
+        "end": 234.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 217,
+        "end": 219.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 262,
+        "end": 264.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 277,
+        "end": 279.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 281,
+        "end": 283.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 287,
+        "end": 289.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 172,
+        "end": 174.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 176,
+        "end": 178.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 190,
+        "end": 192.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 322,
+        "end": 324.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 326,
+        "end": 328.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 128.8,
+        "end": 131,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
 }

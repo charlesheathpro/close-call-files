@@ -12,7 +12,7 @@ You are the editor for Close Call Files. Each run you turn harvested DVIDS clips
 ## 2. Repair first
 
 - `rejected`: read `qa.json` fixes. Edit the spec, bump `revision` by 1. If it cannot be fixed (wrong footage, unresolvable story), set `"status": "dropped"` and a `drop_reason`.
-- `build_failed`: read `build.json` (`error` or `failed_checks`). Typical fixes: move a segment off a fade to black (`black_frames` gives times in the output, map them back to segment source times), add or lengthen segments when footage is too short, trim narration when too long. Bump `revision`.
+- `build_failed`: read `build.json` (`error` or `failed_checks`). Typical fixes: move a shot off a fade to black (`black_frames` gives times in the output; `timeline` in build.json shows which line was playing), give a line a longer or extra shot when the build says its shots are too short, trim narration when too long. Bump `revision`.
 
 ## 3. Pick candidates
 
@@ -47,11 +47,13 @@ Skip a routine hoist over calm water, a training run, or a clip where nothing in
 YouTube pushes a Short further only when most of its test audience stays and watches to the end, and replays count as new views. Every spec is built for that:
 
 - **Length 25 to 35 seconds.** 55 to 80 spoken words in total including the outcome. The validator warns past about 38 seconds.
-- **Open on the peak.** Segment 1 is the most dramatic 3 to 4 seconds in the clip (the survivor rising in the basket, the swimmer at the wreck, the jet catching the wire), even though it happens late in the story. Then go back and tell it in order.
+- **Open on the peak.** Line 1 says the stakes and its first shot is the most dramatic moment in the clip (the baby in the cabin, the dog rising in the harness), even though it happens late in the story. Then go back and tell it in order.
+- **What you say is what they see.** Every line gets its own shots in `line_shots`, chosen from the frame sheet to show exactly what that line describes. Never put a line about a flooded neighborhood over a cabin shot. Owner feedback (Oct 27): footage that does not match the words breaks the Short.
 - **Line 1 lands the stakes in under 3 seconds.** Concrete and physical: "Their catamaran flipped eleven and a half miles off Hawaii." No setup, no "this is the story of".
-- **Cut every 2 to 4 seconds.** 8 to 14 segments. Split a long shot into 3 to 4 second pieces and vary crop_x between them so the frame keeps moving. The validator warns on segments over 5.5 seconds.
+- **Cut every 1.5 to 2.5 seconds.** Give each line 2 to 4 shots; the build splits the line's time evenly across them and adds a slow push-in to every shot. Vary crop_x between shots of the same scene so the frame keeps moving.
 - **One teach line.** One sentence that explains how this kind of rescue works (why a basket, why the pilots can't see down, what a beacon does). It is the educational layer and gives people a reason to rewatch.
-- **Tension then release** through the words, not the voice. Build toward the hoist, then the outcome lands as the last line, followed by a fast end (the build holds only 0.7 seconds after the last word) so the Short loops straight back into the peak shot.
+- **Tension then release** through the words, not the voice. The outcome is the last spoken line. There is no outcome graphic.
+- **Build the loop.** The Short ends 0.2 seconds after the last word. The outcome line's last shot is the few seconds of footage right before the opening shot, so the replay continues the same motion. Write the outcome so it flows straight into line 1 when it repeats ("...and the dog made it out of the flood." / "This dog was alone on a roof...").
 - **Title under 40 characters, keyword first, sentence case:** "Catamaran flipped 11 miles off Hawaii". No hashtags, no clickbait the footage doesn't deliver.
 - **Question comment** that invites a personal answer ("Would you have stayed with the raft?").
 
@@ -66,13 +68,13 @@ The read is a calm storyteller: even, restrained, confident, about 160 words a m
 
 ## 4. Write the spec
 
-Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in Mountain Time, NN = 01, 02, ...). Copy the shape of `data/shorts/ccf-20261026-01/spec.json` (the approved style). Fields:
+Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in Mountain Time, NN = 01, 02, ...). Copy the shape of `data/shorts/ccf-20261027-02/spec.json` (the approved style). Fields:
 
 - `hook` (max 70 chars): on screen for the first 2 to 3 seconds. Concrete stakes in plain words. "His boat sank. Then his life raft started filling up." No questions, no "you won't believe", no ALL CAPS words.
 - `narration` (3 to 4 lines, 45 to 70 words before the outcome): line 1 is the spoken hook. Only `[short pause]` tags. Then who, where, what went wrong, what the crew did. Include one line that teaches something real about how this kind of rescue or operation works; this is what makes the channel educational and original. Short sentences, active voice, past tense for the event. Numbers as words the voice can read ("two miles", "MH-60" is fine). Do not put the outcome in the narration; the build speaks it last.
 - `outcome` (max 150 chars): past tense, how it ended. "The Sitka aircrew hoisted the boater up and aboard the Jayhawk." Never a cliffhanger, never "will".
 - `location_card`: `{"place": "Admiralty Island, Alaska", "date": "Sept. 28, 2026"}` from the release.
-- `segments`: source times in seconds from the frame sheet. Open on the most dramatic shot. Total footage (divided by speed) must exceed the spoken length by 2 to 4 seconds; the validator estimates it. Avoid the two `scene_cuts` times around a transition, which are often fades to black. `layout`: `crop` fills the vertical frame from the middle of the shot (use when the action is central; set `crop_x` 0 to 1 to follow the subject); `fit` shows the whole wide frame over a blurred copy (use when the action spans the width, or the source is under 1080 tall). Black bars in the source are removed automatically. `speed` 1.0 normally; 0.8 for a key moment is fine.
+- `line_shots`: one list of shots per narration line plus one for the outcome (so `len(narration) + 1` lists). Each shot is `{"start", "end", "layout", "crop_x"}` in source seconds, about 2 to 2.5 seconds long, showing what that line says. The validator checks each line has enough footage; a shot can be slowed to 0.7x at most. Avoid the two `scene_cuts` times around a transition, which are often fades to black. Copy the shape of `data/shorts/ccf-20261027-02/spec.json`. `layout`: `crop` fills the vertical frame from the middle of the shot (use when the action is central; set `crop_x` 0 to 1 to follow the subject); `fit` shows the whole wide frame over a blurred copy (use when the action spans the width, or the source is under 1080 tall). Black bars in the source are removed automatically. `speed` 1.0 normally; 0.8 for a key moment is fine.
 - `keep_source_audio`: true unless the clip audio is wind noise or music.
 - `music_mood` (optional): one of rescue, sea, mountain, night, aviation, naval, storm, hazards. The build picks an original track from `assets/music/library.json` with that mood and lines its lift up with the outcome line. Vary moods across the day.
 - `title` (under 40 characters, keyword first): specific and honest, sentence case. No hashtags.

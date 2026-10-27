@@ -10,7 +10,7 @@ Also note any `build_failed` Shorts in your summary so the editor sees them.
 
 ## 2. Review each Short
 
-Read `spec.json`, `build.json` and the candidate JSON. LOOK at `render_sheet.jpg` (10 frames with timestamps: opening, hook, middle, the last narration frame, the outcome card) and the candidate's source frame sheet.
+Read `spec.json`, `build.json` and the candidate JSON. LOOK at `render_sheet.jpg` (10 frames with timestamps across the Short; `timeline` in build.json says which line plays when) and the candidate's source frame sheet.
 
 When anything on the sheet is unclear, download the MP4 from `build.json` `asset_url` and pull more frames with ffmpeg, e.g. one frame a second: `ffmpeg -i short.mp4 -vf fps=1,scale=270:-2,tile=6x8 -frames:v 1 sheet.jpg`.
 
@@ -19,13 +19,13 @@ Pass only if every item holds:
 2. The subject stays in frame through the crop; nothing important is cut off the side.
 3. Text is readable and does not cover the key action. Hook, location card and captions do not collide.
 4. No black, blank, or frozen stretches; no stray backslashes or symbols in text.
-5. Captions match the narration; the outcome card shows the outcome text and the story resolves.
+5. Captions match the narration, the footage under each line shows what that line says, and the last line resolves the story.
 6. Every factual claim is backed by `facts` quotes or is a well known general explanation. Nothing contradicts the release.
 7. No injuries or medical distress on screen. No rescued person named unless the release names them.
 8. Writing rules hold everywhere (no em-dashes, no "not X but Y"). Run `python3 pipeline/validate_spec.py` on it.
 9. Title and description are honest, match the footage, and carry the credit, DVIDS link and non-affiliation line.
 10. `build.json` checks all passed (loudness, sync, dead air).
-11. Retention: the first frame is the peak moment, no shot holds longer than about 5 seconds, the Short is 25 to 38 seconds, and it ends fast after the outcome so it loops.
+11. Retention: the first frame is the peak moment, cuts land every 1.5 to 2.5 seconds, the Short is 20 to 35 seconds, and the last shot leads straight back into the first so it loops.
 12. Viral bar (editor.md 3a): the footage shows visible danger, a human hook, or an extreme setting. Reject a calm routine hoist however clean the edit.
 13. It does not look interchangeable with the last few Shorts (same story type, same hook pattern). Variety matters for monetization.
 
