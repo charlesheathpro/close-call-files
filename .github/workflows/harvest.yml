@@ -25,7 +25,7 @@ jobs:
       - run: pip install requests pillow numpy faster-whisper
       - run: |
           extra=""
-          grep -qi archive triggers/harvest 2>/dev/null && [ "${{ github.event_name }}" = "push" ] && extra="--archive"
+          grep -qi archive triggers/harvest 2>/dev/null && [ "${{ github.event_name }}" = "push" ] && extra="--archive --limit 250"
           python pipeline/harvest.py $extra ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
         env:
           DVIDS_API_KEY: ${{ secrets.DVIDS_API_KEY }}

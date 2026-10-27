@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "rooftop rescue",
   "title": "Coast Guard, partners rescue 7 people, 1 dog during flash floods on Oahu",
-  "description": "An MH-60 Seahawk helicopter crew assigned to Navy Helicopter Maritime Strike Squadron 37 rescues five people and one dog stranded on a rooftop during a flash flood in Waialua on Oahu March 20, 2026. The crew brought the survivors safely to Coast Guard Air Station Barbers Point in Kapolei, Hawaii. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "description": "An MH-60\u00a0Seahawk\u00a0helicopter crew\u00a0assigned to Navy Helicopter Maritime Strike Squadron 37 rescues five people and one dog stranded on a rooftop during a flash flood in Waialua on Oahu March 20, 2026. The crew brought the survivors safely to Coast Guard Air Station Barbers Point in Kapolei, Hawaii. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
   "keywords": "overflight, flash flood, HSM-37, helicopter, Hawaii, rescue",
   "date": "2026-03-20T06:00:00-04:00",
   "date_published": "2026-03-21T02:55:17-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1000445",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:43:22Z",
   "duration": 119.17,
   "source_file": {
@@ -122,5 +122,6 @@
     100.13,
     107.54,
     114.96
-  ]
+  ],
+  "pass_reason": "Hazy rain telephoto inside a gray picture-in-picture border that cannot be cropped to vertical; helicopter small and washed out."
 }

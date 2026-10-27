@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "rescues dog",
   "title": "Coast Guard rescues 3 people and 2 dogs from stranded boat near Concord",
-  "description": "A Coast Guard Air Station San Francisco air crew rescues three people and two dogs from a stranded sailing vessel near Concord, California, Nov. 25, 2020. The rescue occurred after the vessel ran aground near Seal Islands. ( U.S. Coast Guard video by Air Station San Francisco)",
+  "description": "A Coast Guard Air Station San Francisco air crew rescues three people and two dogs from a stranded sailing vessel near Concord, California, Nov. 25, 2020.\u00a0The rescue occurred after the vessel ran aground near Seal Islands. ( U.S. Coast Guard video by Air Station San Francisco)",
   "keywords": "Coast Guard, search and rescue, California",
   "date": "2020-11-25T00:00:00-05:00",
   "date_published": "2020-11-26T00:41:28-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-774267",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:37:46Z",
   "duration": 148.39,
   "source_file": {
@@ -72,5 +72,6 @@
     124.79,
     134.03,
     143.27
-  ]
+  ],
+  "pass_reason": "Routine hoist over calm shallow water from a grounded sailboat; 720x480 fisheye with heavy color noise, and the dogs are never clearly visible. Fails the viral bar."
 }
