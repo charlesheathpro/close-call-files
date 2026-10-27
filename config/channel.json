@@ -25,9 +25,11 @@
   "default_language": "en",
   "contains_synthetic_media": false,
   "voice": {
-    "engine": "kokoro",
-    "voice": "am_michael",
-    "speed": 1.08
+    "engine": "elevenlabs",
+    "voice_id": "nPczCjzI2devNBz1zQrb",
+    "model_id": "eleven_multilingual_v2",
+    "speed": 1.0,
+    "note": "Final voice chosen from samples. Kokoro fallback: engine kokoro, voice am_michael."
   },
   "music_db_below_voice": 14,
   "source_audio_db_under_voice": -16,

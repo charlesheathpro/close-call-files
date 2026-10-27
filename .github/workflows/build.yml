@@ -36,4 +36,5 @@ jobs:
         env:
           CCF_WORK: ${{ runner.temp }}/ccf
           GH_TOKEN: ${{ github.token }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
       - run: bash scripts/commit.sh "Build $(date -u +%Y-%m-%dT%H:%M)"

@@ -53,9 +53,46 @@ class Voice:
             self.k = Kokoro(str(mdir / "kokoro-v1.0.onnx"), str(mdir / "voices-v1.0.bin"))
         return self.k
 
-    def say(self, text, dest):
+    def _eleven(self, text, dest, prev_text=None, next_text=None):
+        vid = self.cfg["voice_id"]
+        body = {
+            "text": text,
+            "model_id": self.cfg.get("model_id", "eleven_multilingual_v2"),
+            "voice_settings": self.cfg.get("voice_settings") or {
+                "stability": 0.45, "similarity_boost": 0.8, "style": 0.15, "use_speaker_boost": True,
+                "speed": float(self.cfg.get("speed", 1.0))},
+        }
+        if prev_text:
+            body["previous_text"] = prev_text
+        if next_text:
+            body["next_text"] = next_text
+        for attempt in range(4):
+            r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{vid}",
+                              params={"output_format": "mp3_44100_128"},
+                              headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "application/json"},
+                              json=body, timeout=120)
+            if r.status_code == 429 or r.status_code >= 500:
+                import time
+                time.sleep(5 * (attempt + 1))
+                continue
+            if r.status_code != 200:
+                raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
+            break
+        mp3 = Path(str(dest) + ".mp3")
+        mp3.write_bytes(r.content)
+        raw = Path(str(dest) + ".raw.wav")
+        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", mp3, "-ar", SR, "-ac", 1, raw])
+        x, sr = sf.read(raw, dtype="float32")
+        sf.write(dest, trim_silence(x, sr, thresh=0.006), sr)
+        mp3.unlink()
+        raw.unlink()
+        return media_duration(dest)
+
+    def say(self, text, dest, prev_text=None, next_text=None):
         """Write a 48 kHz mono wav for one line and return its duration."""
         text = speakable(text)
+        if self.engine == "elevenlabs":
+            return self._eleven(text, dest, prev_text and speakable(prev_text), next_text and speakable(next_text))
         if self.engine == "test":
             dur = max(0.8, len(text.split()) / 2.6)
             t = np.linspace(0, dur, int(SR * dur), endpoint=False)
@@ -253,20 +290,18 @@ def chunk_words(line, max_words=3, max_chars=18):
     return chunks
 
 
-def build_ass(spec, timeline, total, credit_line):
+def build_ass(spec, timeline, total, credit_line=None):
+    """Minimal text: captions, a brief location tag, and a compact outcome panel."""
     orange = ass_color("#FF5A1F")
     white = ass_color("#FFFFFF")
     black = ass_color("#000000")
-    ink = ass_color("#111418", 0x30)
+    ink = ass_color("#0B0E12", 0x55)
     styles = [
         # name, font, size, primary, outline colour, back, bold, borderstyle, outline, shadow, align, mL, mR, mV
-        ("Cap", "Anton", 112, white, black, ass_color("#000000", 0x80), 0, 1, 7, 3, 2, 70, 70, 610),
-        ("Hook", "Anton", 96, white, orange, black, 0, 3, 16, 0, 8, 90, 90, 330),
-        ("Loc", "Inter", 42, white, ink, black, 1, 3, 12, 0, 8, 120, 120, 215),
-        ("Credit", "Inter", 30, ass_color("#FFFFFF", 0x40), black, black, 0, 1, 2, 0, 2, 80, 80, 455),
-        ("OutLabel", "Anton", 84, orange, black, black, 0, 1, 0, 0, 5, 80, 80, 0),
-        ("OutText", "Inter", 76, white, black, black, 1, 1, 3, 0, 5, 100, 100, 0),
-        ("Brand", "Anton", 46, ass_color("#FFFFFF", 0x50), black, black, 0, 1, 0, 0, 5, 80, 80, 0),
+        ("Cap", "Anton", 86, white, black, ass_color("#000000", 0x90), 0, 1, 5, 2, 2, 90, 90, 560),
+        ("Loc", "Inter", 34, white, ink, black, 1, 3, 10, 0, 8, 120, 120, 210),
+        ("OutLabel", "Anton", 50, orange, black, black, 0, 1, 0, 0, 7, 0, 0, 0),
+        ("OutText", "Inter", 54, white, black, black, 1, 1, 0, 0, 7, 0, 0, 0),
         ("Box", "Inter", 20, black, black, black, 0, 1, 0, 0, 7, 0, 0, 0),
     ]
     out = ["[Script Info]", "ScriptType: v4.00+", f"PlayResX: {W}", f"PlayResY: {H}", "WrapStyle: 0",
@@ -274,8 +309,8 @@ def build_ass(spec, timeline, total, credit_line):
            "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, "
            "Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, "
            "MarginL, MarginR, MarginV, Encoding"]
-    for (n, f, s, pc, oc, bc, bold, bs, o, sh, al, ml, mr, mv) in styles:
-        out.append(f"Style: {n},{f},{s},{pc},{pc},{oc},{bc},{-1 if bold else 0},0,0,0,100,100,0,0,{bs},{o},{sh},"
+    for (n, f, sz, pc, oc, bc, bold, bs, o, sh, al, ml, mr, mv) in styles:
+        out.append(f"Style: {n},{f},{sz},{pc},{pc},{oc},{bc},{-1 if bold else 0},0,0,0,100,100,0,0,{bs},{o},{sh},"
                    f"{al},{ml},{mr},{mv},1")
     out += ["", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"]
 
@@ -283,16 +318,8 @@ def build_ass(spec, timeline, total, credit_line):
         out.append(f"Dialogue: {layer},{ass_time(a)},{ass_time(b)},{style},,0,0,0,,{text}")
 
     outcome_start = timeline[-1]["start"]
-    first_end = timeline[0]["end"]
-    # Hook: on screen while the first line is spoken
-    hook_end = max(min(first_end + 0.4, 3.6), 2.2)
-    ev(3, 0, hook_end, "Hook", r"{\fad(80,160)}" + esc(spec["hook"].upper()))
-    # Location card
     lc = spec["location_card"]
-    ev(3, 0.15, min(4.6, outcome_start - 0.2), "Loc", r"{\fad(150,200)}" + esc(f"{lc['place']}  |  {lc['date']}".upper()))
-    # Footage credit, all the way up to the outcome card
-    ev(2, 0, outcome_start, "Credit", esc(credit_line))
-    # Captions for every narration line except the outcome (the card shows it)
+    ev(3, 0.2, min(3.2, outcome_start - 0.3), "Loc", r"{\fad(150,250)}" + esc(f"{lc['place']}  |  {lc['date']}".upper()))
     for item in timeline[:-1]:
         chunks = chunk_words(item["text"])
         weights = [max(len(c), 3) for c in chunks]
@@ -300,18 +327,20 @@ def build_ass(spec, timeline, total, credit_line):
         t = item["start"]
         for c, wgt in zip(chunks, weights):
             d = span * wgt / sum(weights)
-            # skip captions that would collide with the hook in the first seconds
-            text = esc(c.upper())
-            ev(1, t, t + d, "Cap", r"{\fscx92\fscy92\t(0,90,\fscx100\fscy100)}" + text)
+            ev(1, t, t + d, "Cap", r"{\fscx94\fscy94\t(0,80,\fscx100\fscy100)}" + esc(c.upper()))
             t += d
-    # Outcome card
+    # Outcome: a compact panel in the lower middle, footage stays visible above it
+    lines = wrap(esc(spec["outcome"]), 30)
+    n = lines.count(r"\N") + 1
+    top = 1000
+    height = 70 + 66 * n + 40
     a, b = outcome_start - 0.05, total
-    full = f"m 0 0 l {W} 0 {W} {H} 0 {H}"
-    ev(4, a, b, "Box", r"{\an7\pos(0,0)\1c&H000000&\1a&H48&\fad(200,0)\p1}" + full + r"{\p0}")
-    ev(5, a, b, "Box", r"{\an7\pos(90,700)\1c" + orange + r"&\1a&H00&\fad(200,0)\p1}m 0 0 l 120 0 120 10 0 10{\p0}")
-    ev(5, a, b, "OutLabel", r"{\an4\pos(90,765)\fad(200,0)}OUTCOME")
-    ev(5, a, b, "OutText", r"{\an7\pos(90,835)\q2\fad(250,0)}" + wrap(esc(spec["outcome"]), 24))
-    ev(5, a, b, "Brand", r"{\an4\pos(90,1240)\fad(300,0)}CLOSE CALL FILES")
+    ev(4, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c&H0B0E12&\1a&H38&\fad(200,0)\p1}"
+       + f"m 0 0 l 960 0 960 {height} 0 {height}" + r"{\p0}")
+    ev(5, a, b, "Box", r"{\an7\pos(60," + str(top) + r")\1c" + orange + r"&\1a&H00&\fad(200,0)\p1}"
+       + f"m 0 0 l 10 0 10 {height} 0 {height}" + r"{\p0}")
+    ev(5, a, b, "OutLabel", r"{\an7\pos(100," + str(top + 22) + r")\fad(200,0)}HOW IT ENDED")
+    ev(5, a, b, "OutText", r"{\an7\pos(100," + str(top + 92) + r")\q2\fad(250,0)}" + lines)
     return "\n".join(out) + "\n"
 
 
@@ -337,7 +366,8 @@ def narration_track(spec, voice, work):
     t = LEAD
     for i, text in enumerate(lines):
         wav = work / f"line{i:02d}.wav"
-        d = voice.say(text, wav)
+        d = voice.say(text, wav, prev_text=" ".join(lines[:i])[-400:] or None,
+                      next_text=lines[i + 1] if i + 1 < len(lines) else None)
         timeline.append({"text": text, "start": round(t, 3), "end": round(t + d, 3), "wav": wav})
         t += d + GAP
     total = timeline[-1]["end"] + TAIL

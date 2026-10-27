@@ -1,0 +1,33 @@
+{
+  "rows": [
+    {
+      "stage": "Waiting to build",
+      "count": 0
+    },
+    {
+      "stage": "Build failed",
+      "count": 0
+    },
+    {
+      "stage": "Waiting for QA",
+      "count": 0
+    },
+    {
+      "stage": "Sent back by QA",
+      "count": 0
+    },
+    {
+      "stage": "Ready to upload",
+      "count": 0
+    },
+    {
+      "stage": "Uploaded",
+      "count": 0
+    },
+    {
+      "stage": "Dropped",
+      "count": 0
+    }
+  ],
+  "generated_at": "2026-10-27T03:22:51Z"
+}

@@ -2,8 +2,8 @@
   "short_id": "ccf-test-001",
   "revision": 1,
   "status": "ok",
-  "built_at": "2026-10-27T03:23:07Z",
-  "duration": 32.719,
+  "built_at": "2026-10-27T03:26:10Z",
+  "duration": 32.72,
   "source_resolution": "1468x1080",
   "timeline": [
     {
@@ -14,22 +14,22 @@
     {
       "text": "A Coast Guard Jayhawk crew from Air Station Sitka flew to him, about two miles east of Murder Cove.",
       "start": 7.283,
-      "end": 13.499
+      "end": 13.5
     },
     {
       "text": "In a hoist like this, the pilots cannot see straight down. The flight mechanic in the open door talks them into position, foot by foot.",
-      "start": 13.719,
-      "end": 22.224
+      "start": 13.72,
+      "end": 22.225
     },
     {
       "text": "The same crew member runs the cable, lowering help and lifting people back up into the cabin.",
-      "start": 22.444,
-      "end": 27.82
+      "start": 22.445,
+      "end": 27.821
     },
     {
       "text": "The Sitka aircrew hoisted the boater up and aboard the Jayhawk.",
-      "start": 28.04,
-      "end": 31.619
+      "start": 28.041,
+      "end": 31.62
     }
   ],
   "checks": {
@@ -43,7 +43,7 @@
     },
     "av_sync": {
       "ok": true,
-      "value": 0.014
+      "value": 0.013
     },
     "fits_narration": {
       "ok": true,
@@ -55,7 +55,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -1.4
+      "value": -1.5
     },
     "dead_air": {
       "ok": true,
@@ -77,6 +77,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-test-001/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-test-001-r1.mp4",
-  "local_path": "/home/runner/work/_temp/ccf/ccf-test-001/ccf-test-001.mp4"
+  "asset_url": null,
+  "local_path": "/tmp/claude-0/ccf/ccf-test-001/ccf-test-001.mp4"
 }
