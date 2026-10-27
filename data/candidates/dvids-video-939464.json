@@ -1,0 +1,74 @@
+{
+  "id": "dvids-video-939464",
+  "asset_id": "video:939464",
+  "status": "new",
+  "lane": "hazards",
+  "matched_query": "wildfire aerial",
+  "harvested_at": "2026-10-27T06:29:16Z",
+  "title": "Aerial video of Bear Den fire in North Dakota",
+  "description": "Aerial video from a North Dakota Army National Guard Blackhawk crew who were dropping water on the Bear Den fire, Mandaree, North Dakota, Oct. 7, 2024. The North Dakota National Guard has dropped more than 120,000 gallons of water on wildfires in Western North Dakota. (U.S. Army National Guard video by Staff Sgt. Leif Anderson)",
+  "keywords": "NDFire2024",
+  "date": "2024-10-07T00:00:00-04:00",
+  "date_published": "2024-10-08T12:11:25-04:00",
+  "branch": "Joint",
+  "unit_name": "North Dakota National Guard Public Affairs",
+  "credit": "Staff Sgt. Samuel Kroll",
+  "category": "B-Roll",
+  "virin": "241007-Z-FB647-8305",
+  "location": {
+    "city": "",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/939464/aerial-video-bear-den-fire-north-dakota",
+  "duration": 324.66,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110609959/DOD_110609959-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 325198681
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.14,
+    107.01,
+    145.51,
+    192.26,
+    217.28,
+    279.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      2.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-939464.jpg",
+  "sheet_times": [
+    10.13,
+    30.39,
+    50.65,
+    70.91,
+    91.17,
+    111.43,
+    131.69,
+    151.95,
+    172.21,
+    192.47,
+    212.73,
+    232.99,
+    253.25,
+    273.51,
+    293.77,
+    314.03
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "dvids-video-614280",
+  "asset_id": "video:614280",
+  "status": "new",
+  "lane": "aviation_naval",
+  "matched_query": "crash landing",
+  "harvested_at": "2026-10-27T06:27:40Z",
+  "title": "Coast Guard assists National Park Service with plane crash rescue in Crillon Lake, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter aircrew hoists a plane crash survivor from a Crillon Lake shore, in Glacier Bay National Park, Alaska, July 18, 2018. The survivor reported the aircraft had engine failure, and he was forced to land in Crillon Lake, which he then swam to shore. U.S. Coast Guard courtesy photo.",
+  "keywords": "MH-60, Air Station Sitka, Crillon Lake, plane crash survivor, helicopter, Alaska",
+  "date": "2018-07-18T00:00:00-04:00",
+  "date_published": "2018-07-19T13:58:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180718-G-G0217-1001",
+  "location": {
+    "city": "Glacier Bay National Park",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/614280/coast-guard-assists-national-park-service-with-plane-crash-rescue-crillon-lake-alaska",
+  "duration": 57.6,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1807/DOD_105841236/DOD_105841236.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9184,
+    "size": 67115557
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 48.64,
+      "e": 51.64,
+      "text": "First driver outside the door."
+    },
+    {
+      "s": 51.64,
+      "e": 57.8,
+      "text": "That's the cabin."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 32,
+  "audio": {
+    "silence_starts": [
+      2.7,
+      6.9,
+      12.5,
+      17.3,
+      23.4,
+      36.4,
+      39.9,
+      41.4,
+      52.3
+    ],
+    "silence_ends": [
+      4.2,
+      8.8,
+      13.7,
+      21.4,
+      24.3,
+      37.1,
+      41.1,
+      42.2,
+      54.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-614280.jpg",
+  "sheet_times": [
+    1.78,
+    5.35,
+    8.92,
+    12.49,
+    16.06,
+    19.63,
+    23.2,
+    26.77,
+    30.33,
+    33.9,
+    37.47,
+    41.04,
+    44.61,
+    48.18,
+    51.75,
+    55.32
+  ]
+}

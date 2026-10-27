@@ -1,0 +1,73 @@
+{
+  "id": "dvids-video-426559",
+  "asset_id": "video:426559",
+  "status": "used",
+  "lane": "rescue",
+  "matched_query": "rescue infant",
+  "harvested_at": "2026-10-27T06:25:00Z",
+  "title": "Coast Guard Rescues Stranded Mother, Infant from Flooded House",
+  "description": "The Coast Guard rescued a mother and her 15-month-old infant, Oct. 4, 2015, from a flooded house in Huger, South Carolina. The family's neighborhood was inundated by severe flooding affecting the area. U.S. Coast Guard video",
+  "keywords": "flooding, air crew, Coast Guard rescue, Air Station Savannah, SC Flood 2015, South Carolina, rescue, Charleston",
+  "date": "2015-10-04T00:00:00-04:00",
+  "date_published": "2015-10-04T18:27:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151004-G-AB001-001",
+  "location": {
+    "city": "Huger",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/426559/coast-guard-rescues-stranded-mother-infant-flooded-house",
+  "duration": 69.48,
+  "time_start": 4.02533,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102776890/DOD_102776890.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8739,
+    "size": 76860165
+  },
+  "aspect_ratio": "4:3",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    13.91,
+    26.79,
+    35.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-426559.jpg",
+  "sheet_times": [
+    6.06,
+    10.12,
+    14.17,
+    18.23,
+    22.29,
+    26.35,
+    30.41,
+    34.47,
+    38.53,
+    42.59,
+    46.65,
+    50.71,
+    54.77,
+    58.83,
+    62.89,
+    66.95
+  ],
+  "used_by": "ccf-20261027-01"
+}

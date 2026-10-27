@@ -16,7 +16,7 @@ You are the editor for Close Call Files. Each run you turn harvested DVIDS clips
 
 ## 3. Pick candidates
 
-List `data/candidates/*.json` with `"status": "new"`. For each promising one, read the JSON (title, description, transcript, scene_cuts, audio silences, source_file size) and LOOK at its frame sheet image (`data/candidates/<id>.jpg`, labels are source timestamps).
+List `data/candidates/*.json` with `"status": "new"`, highest `drama_score` first. For each promising one, read the JSON (title, description, transcript, scene_cuts, audio silences, source_file size) and LOOK at its frame sheet image (`data/candidates/<id>.jpg`, labels are source timestamps).
 
 Use a clip only if all are true:
 - It shows a real event: a rescue, a medevac, an emergency, a hazardous operation, a dramatic weather or natural event. Skip ceremonies, interviews, speeches, static b-roll, training drills presented as training (unless the drill itself is spectacular and the story is honest that it is training), and anything with injuries or a person in visible medical distress.
@@ -30,6 +30,17 @@ Balance lanes toward `lane_mix` and the review notes. For thin rescue days, use 
 For a promising rescue with a short release, you may search the web for the agency's press release (news.uscg.mil, navy.mil, af.mil, dvidshub.net news) and add it as `extra_sources: [{"url": ..., "excerpt": "<verbatim paragraph>"}]`. Copy excerpts exactly.
 
 Mark every candidate you looked at: `"status": "used"` (with `"used_by": short_id`) or `"status": "passed_over"` with a short `"pass_reason"`.
+
+## 3a. The viral bar (owner, Oct 27: "the editing is alright, but these are boring")
+
+Good editing cannot save calm footage. A clip is only worth a Short if at least one of these is true, and the best ones have two:
+
+1. **Danger you can see in the first second:** huge surf, a boat rolling or sinking, fire, floodwater up to a roof, a person clinging to something, an aircraft or ship in trouble.
+2. **A human hook:** a child or baby, a family, a dog or other pet, an elderly person, a person alone in the open ocean.
+3. **An extreme setting:** a hurricane, night and storm, a cliff face, ice, a flight deck in heavy seas.
+4. **A twist or a number that stops the scroll:** hours in the water, miles offshore, the last minute before sinking.
+
+Skip a routine hoist over calm water, a training run, or a clip where nothing in the picture looks dangerous, even if the release is fine. Use `drama_score` in the candidate (0 to 100, motion and contrast; under about 35 is usually calm footage) and your own look at the frame sheet. When in doubt, write fewer Shorts: three strong ones beat ten ordinary ones. Note in your summary which bar each Short clears.
 
 ## 4a. Built for retention and rewatches (read before writing any spec)
 

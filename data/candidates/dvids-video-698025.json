@@ -1,0 +1,74 @@
+{
+  "id": "dvids-video-698025",
+  "asset_id": "video:698025",
+  "status": "used",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "harvested_at": "2026-10-27T06:28:24Z",
+  "title": "Coast Guard rescues woman, dog from bottom of cliff near Ludington, Mich.",
+  "description": "Coast Guard crews from Air Facility Muskegon and Station Ludington work with local agencies to rescue a woman and and her dog who had been stranded overnight at the bottom of a cliff near Ludington, Michigan, July 19, 2019, while an MH-60 Jayhawk helicopter crew from Coast Guard Air Station Traverse City records the rescue. In order to effect the rescue, the woman was assisted into the water so that she could be hoisted into the helicopter safely. (U.S. Coast Guard video)",
+  "keywords": "rescue swimmer, MH-65 Dolphin, MH-60 Jayhawk, hoist, Coast Guard rescue, aviation survival technician, Ludington, AST, Lake Michigan, helicopter, Coast Guard, SAR, search and rescue, rescue, dog",
+  "date": "2019-07-19T00:00:00-04:00",
+  "date_published": "2019-07-20T14:55:27-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190719-G-G0109-1005",
+  "location": {
+    "city": "",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/698025/coast-guard-rescues-woman-dog-bottom-cliff-near-ludington-mich",
+  "duration": 491.33,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1907/DOD_107035347/DOD_107035347.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6511,
+    "size": 408053573
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    58.22,
+    92.88,
+    93.43,
+    93.47,
+    93.59
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      491.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-698025.jpg",
+  "sheet_times": [
+    15.34,
+    46.02,
+    76.69,
+    107.37,
+    138.05,
+    168.72,
+    199.4,
+    230.08,
+    260.76,
+    291.43,
+    322.11,
+    352.79,
+    383.46,
+    414.14,
+    444.82,
+    475.5
+  ],
+  "used_by": "ccf-20261027-03"
+}

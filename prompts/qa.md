@@ -26,7 +26,8 @@ Pass only if every item holds:
 9. Title and description are honest, match the footage, and carry the credit, DVIDS link and non-affiliation line.
 10. `build.json` checks all passed (loudness, sync, dead air).
 11. Retention: the first frame is the peak moment, no shot holds longer than about 5 seconds, the Short is 25 to 38 seconds, and it ends fast after the outcome so it loops.
-12. It does not look interchangeable with the last few Shorts (same story type, same hook pattern). Variety matters for monetization.
+12. Viral bar (editor.md 3a): the footage shows visible danger, a human hook, or an extreme setting. Reject a calm routine hoist however clean the edit.
+13. It does not look interchangeable with the last few Shorts (same story type, same hook pattern). Variety matters for monetization.
 
 ## 3. Verdict
 

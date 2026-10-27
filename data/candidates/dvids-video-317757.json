@@ -1,0 +1,86 @@
+{
+  "id": "dvids-video-317757",
+  "asset_id": "video:317757",
+  "status": "new",
+  "lane": "aviation_naval",
+  "matched_query": "crash landing",
+  "harvested_at": "2026-10-27T06:26:45Z",
+  "title": "Coast Guard rescues 2 from plane crash",
+  "description": "NEW ORLEANS - Two men were rescued by the Coast Guard after their plane crashed in the Gulf of Mexico, Sept. 20, 2012. The men executed a controlled landing after their instrument panel caught on fire. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-09-20T00:00:00-04:00",
+  "date_published": "2013-12-22T17:49:12-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Ryan Tippets",
+  "category": "B-Roll",
+  "virin": "120920-G-BA041-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317757/coast-guard-rescues-2-plane-crash",
+  "duration": 38.41,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062724/DOD_101062724.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 3660,
+    "size": 18917426
+  },
+  "aspect_ratio": "16:9",
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.58,
+      "e": 11.58,
+      "text": "Right, right, easy, right, easy, right, take it close."
+    },
+    {
+      "s": 11.58,
+      "e": 13.58,
+      "text": "Take it to work."
+    },
+    {
+      "s": 13.58,
+      "e": 28.06,
+      "text": "Show your hand from survivors at the rail."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    34.37
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317757.jpg",
+  "sheet_times": [
+    1.18,
+    3.55,
+    5.92,
+    8.29,
+    10.66,
+    13.03,
+    15.4,
+    17.77,
+    20.14,
+    22.51,
+    24.88,
+    27.24,
+    29.61,
+    31.98,
+    34.35,
+    36.72
+  ]
+}

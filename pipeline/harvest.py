@@ -60,11 +60,10 @@ def search_page(query, since, cfg, page):
         "page": page,
         "type[]": "video",
         "q": query["q"],
-        "from_publishdate": since,
+        **({"from_publishdate": since} if since else {"sort": "score"}),
         "from_duration": cfg["min_duration"],
         "to_duration": cfg["max_duration"],
-        "sort": "publishdate",
-        "sortdir": "desc",
+        **({"sort": "publishdate", "sortdir": "desc"} if since else {}),
         "max_results": 50,
         "categories_exclude[]": cfg["exclude_categories"],
     }
@@ -163,6 +162,21 @@ def loud_spans(video):
     return {"silence_starts": [round(x, 1) for x in starts[:100]], "silence_ends": [round(x, 1) for x in ends[:100]]}
 
 
+def drama_score(video, duration):
+    """0-100: how much the picture moves and changes. Static, calm footage scores low."""
+    import numpy as np
+    raw = run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-i", str(video), "-vf",
+               "fps=2,scale=64:36,format=gray", "-f", "rawvideo", "-"], check=False, binary=True).stdout
+    frames = np.frombuffer(raw, dtype=np.uint8)
+    if frames.size < 64 * 36 * 4:
+        return 0
+    frames = frames[: frames.size // (64 * 36) * 64 * 36].reshape(-1, 36, 64).astype(np.float32)
+    diffs = np.abs(np.diff(frames, axis=0)).mean(axis=(1, 2))
+    motion = float(np.percentile(diffs, 75))
+    contrast = float(frames.std(axis=(1, 2)).mean())
+    return int(min(100, motion * 6 + contrast * 0.6))
+
+
 def frame_sheet(video, dest, duration, start=0.0, n=16, cols=4, width=360):
     """Grid of n labeled frames spread across the clip."""
     tmp = WORK / "frames"
@@ -205,6 +219,24 @@ def credit_text(credit):
                 parts.append(name)
         return ", ".join(parts) or "Courtesy"
     return credit or "Courtesy"
+
+
+ROUTINE = re.compile(r"\b(training|exercise|drill|ceremony|change of command|award|memorial|interview|press conference|"
+                     r"briefing|graduation|retirement|visit|tour|promotion|reenlistment|recruit|band|concert|"
+                     r"psa|highlights|b-roll package|safety tips|demonstration|demo)\b", re.I)
+HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog|dogs|cat|puppy|pet|horse)\b", 5),
+         (r"\b(family|mother|father|elderly|grandmother)\b", 4), (r"rooftop|roof\b", 4),
+         (r"\b(surf|waves|heavy seas|storm)\b", 3), (r"\b(fire|burning|explosion)\b", 3),
+         (r"\b(sinking|sank|capsiz|overturn|rollover)", 3), (r"\b(cliff|ice|stranded|trapped|clinging)\b", 3),
+         (r"\b(hurricane|flood)", 2), (r"\b(rescue|rescues|hoist|saves|saved)\b", 2),
+         (r"\b(ejection|ejects|crash|arrest|barricade)", 3)]
+
+
+def title_score(title):
+    t = title or ""
+    if ROUTINE.search(t):
+        return -1
+    return sum(w for rx, w in HOOKS if re.search(rx, t, re.I))
 
 
 def process(asset_id, lane, query):
@@ -265,6 +297,7 @@ def process(asset_id, lane, query):
         "transcript_source": source,
         "transcript": transcript,
         "scene_cuts": scene_cuts(vid),
+        "drama_score": drama_score(vid, duration),
         "audio": loud_spans(vid),
         "sheet": f"data/candidates/{sid}.jpg",
         "sheet_times": times,
@@ -292,6 +325,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--archive", action="store_true", help="run the high-drama searches across all years")
     args = ap.parse_args()
     cfg = config()["harvest"]
     seen = load_json(SEEN, {})
@@ -301,9 +335,16 @@ def main():
     limit = args.limit or cfg["max_new_per_run"]
 
     found = {}
-    for q in cfg["queries"]:
+    queries = [(q, since, cfg["backfill_pages"] if first else cfg["daily_pages"]) for q in cfg["queries"]]
+    if args.archive or first:
+        queries = [(q, None, cfg.get("drama_pages", 2)) for q in cfg.get("drama_queries", [])] + queries
+    else:  # every daily run also takes one page from two rotating drama searches
+        dq = cfg.get("drama_queries", [])
+        day = int(now_utc().strftime("%j"))
+        queries = [(dq[(day * 2 + k) % len(dq)], None, 1) for k in range(2) if dq] + queries
+    for q, q_since, pages in queries:
         try:
-            results = search(q, since, cfg, max_pages=cfg["backfill_pages"] if first else cfg["daily_pages"])
+            results = search(q, q_since, cfg, max_pages=pages)
         except Exception as e:  # keep going on one bad query
             print(f"query {q['q']!r} failed: {e}")
             continue
@@ -312,6 +353,11 @@ def main():
             if aid and aid not in seen and aid not in found:
                 found[aid] = (q["lane"], q["q"], r.get("title"))
         print(f"{q['q']!r}: {len(results)} results, {len(found)} new so far")
+    # drop routine footage by title, then strongest stories first
+    for aid in [a for a, v in found.items() if title_score(v[2]) < 0]:
+        seen[aid] = {"at": iso(), "result": "routine title"}
+        found.pop(aid)
+    found = dict(sorted(found.items(), key=lambda kv: -title_score(kv[1][2])))
     # interleave lanes so every lane gets a share of the run
     by_lane = {}
     for aid, v in found.items():
