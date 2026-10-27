@@ -3,28 +3,40 @@
   "results": [
     {
       "name": "brian-v2",
-      "status": "error",
-      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"cdbb73ba04db5d91207b7c94b9d42f8a\"}}"
+      "status": "ok",
+      "duration": 30.62,
+      "failed": [],
+      "file": "ccf-test-001-brian-v2.mp4"
     },
     {
       "name": "adam-v2",
-      "status": "error",
-      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"3d92cf0f172cfd9da648701ed20cb4c7\"}}"
+      "status": "ok",
+      "duration": 33.327,
+      "failed": [],
+      "file": "ccf-test-001-adam-v2.mp4"
     },
     {
       "name": "bill-v2",
-      "status": "error",
-      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"a8d395e07569bf85dcd6617b8e543f66\"}}"
+      "status": "ok",
+      "duration": 34.453,
+      "failed": [],
+      "file": "ccf-test-001-bill-v2.mp4"
     },
     {
       "name": "eric-v2",
-      "status": "error",
-      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"3687b5c65659b2ea8a6ce205186d8799\"}}"
+      "status": "ok",
+      "duration": 28.534,
+      "failed": [],
+      "file": "ccf-test-001-eric-v2.mp4"
     },
     {
       "name": "brian-flash",
-      "status": "error",
-      "error": "ElevenLabs 401: {\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission text_to_speech to execute this operation.\",\"status\":\"missing_permissions\",\"request_id\":\"058a16ae1ae2b178775c081cf90e4da3\"}}"
+      "status": "checks_failed",
+      "duration": 30.399,
+      "failed": [
+        "dead_air"
+      ],
+      "file": "ccf-test-001-brian-flash.mp4"
     }
   ]
 }

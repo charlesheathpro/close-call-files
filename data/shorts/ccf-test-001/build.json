@@ -1,35 +1,35 @@
 {
   "short_id": "ccf-test-001",
   "revision": 1,
-  "status": "ok",
-  "built_at": "2026-10-27T03:26:10Z",
-  "duration": 32.72,
+  "status": "checks_failed",
+  "built_at": "2026-10-27T03:58:08Z",
+  "duration": 30.399,
   "source_resolution": "1468x1080",
   "timeline": [
     {
       "text": "His fishing boat sank off Admiralty Island, Alaska, and the life raft he escaped into started taking on water.",
       "start": 0.05,
-      "end": 7.063
+      "end": 7.016
     },
     {
       "text": "A Coast Guard Jayhawk crew from Air Station Sitka flew to him, about two miles east of Murder Cove.",
-      "start": 7.283,
-      "end": 13.5
+      "start": 7.236,
+      "end": 12.795
     },
     {
       "text": "In a hoist like this, the pilots cannot see straight down. The flight mechanic in the open door talks them into position, foot by foot.",
-      "start": 13.72,
-      "end": 22.225
+      "start": 13.015,
+      "end": 20.562
     },
     {
       "text": "The same crew member runs the cable, lowering help and lifting people back up into the cabin.",
-      "start": 22.445,
-      "end": 27.821
+      "start": 20.782,
+      "end": 25.885
     },
     {
       "text": "The Sitka aircrew hoisted the boater up and aboard the Jayhawk.",
-      "start": 28.041,
-      "end": 31.62
+      "start": 26.105,
+      "end": 29.299
     }
   ],
   "checks": {
@@ -39,27 +39,32 @@
     },
     "duration": {
       "ok": true,
-      "value": 32.73
+      "value": 30.4
     },
     "av_sync": {
       "ok": true,
-      "value": 0.013
+      "value": 0.001
     },
     "fits_narration": {
       "ok": true,
-      "value": 1.11
+      "value": 1.1
     },
     "loudness": {
       "ok": true,
-      "value": -14.5
+      "value": -14.4
     },
     "true_peak": {
       "ok": true,
-      "value": -1.5
+      "value": -1.4
     },
     "dead_air": {
-      "ok": true,
-      "value": []
+      "ok": false,
+      "value": [
+        [
+          29.28,
+          30.32
+        ]
+      ]
     },
     "starts_talking": {
       "ok": true,
@@ -75,8 +80,10 @@
       "value": []
     }
   },
-  "failed_checks": [],
+  "failed_checks": [
+    "dead_air"
+  ],
   "render_sheet": "data/shorts/ccf-test-001/render_sheet.jpg",
   "asset_url": null,
-  "local_path": "/tmp/claude-0/ccf/ccf-test-001/ccf-test-001.mp4"
+  "local_path": "/home/runner/work/_temp/ccf/ccf-test-001/ccf-test-001.mp4"
 }
