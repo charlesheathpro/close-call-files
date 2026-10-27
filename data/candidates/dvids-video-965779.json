@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-965779",
   "asset_id": "video:965779",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire aerial",
   "harvested_at": "2026-10-27T06:28:39Z",
@@ -359,5 +359,6 @@
     123.9,
     133.08,
     142.26
-  ]
+  ],
+  "pass_reason": "preparation story"
 }

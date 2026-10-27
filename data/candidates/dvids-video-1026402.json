@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026402",
   "asset_id": "video:1026402",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:46:35Z",
@@ -696,5 +696,6 @@
     249.69,
     268.19,
     286.68
-  ]
+  ],
+  "pass_reason": "interview piece about a man with life-threatening injuries"
 }

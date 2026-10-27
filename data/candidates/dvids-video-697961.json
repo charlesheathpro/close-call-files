@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-697961",
   "asset_id": "video:697961",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescues dog",
   "harvested_at": "2026-10-27T06:29:01Z",
@@ -175,5 +175,6 @@
     82.8,
     88.93,
     95.07
-  ]
+  ],
+  "pass_reason": "same Ludington cliff rescue as ccf-20261027-03"
 }

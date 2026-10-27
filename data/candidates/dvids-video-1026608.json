@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026608",
   "asset_id": "video:1026608",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:46:17Z",
@@ -69,5 +69,6 @@
     462.95,
     497.24,
     531.54
-  ]
+  ],
+  "pass_reason": "package mixes survivor-shot footage (non-federal); usable Coast Guard IR is short and mostly black"
 }

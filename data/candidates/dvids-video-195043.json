@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-195043",
   "asset_id": "video:195043",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "storm surge",
   "harvested_at": "2026-10-27T06:24:37Z",
@@ -226,5 +226,6 @@
     117.75,
     126.47,
     135.19
-  ]
+  ],
+  "pass_reason": "interview"
 }

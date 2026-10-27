@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-545326",
   "asset_id": "video:545326",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "ejection",
   "harvested_at": "2026-10-27T06:29:10Z",
@@ -69,5 +69,6 @@
     22.2,
     23.69,
     25.17
-  ]
+  ],
+  "pass_reason": "no ejection or recovery on screen, only a helicopter on deck"
 }

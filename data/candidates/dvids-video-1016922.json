@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1016922",
   "asset_id": "video:1016922",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:48:03Z",
@@ -62,5 +62,6 @@
     35.56,
     38.19,
     40.83
-  ]
+  ],
+  "pass_reason": "patrol homecoming"
 }

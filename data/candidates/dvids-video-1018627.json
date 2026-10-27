@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1018627",
   "asset_id": "video:1018627",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:47:47Z",
@@ -177,5 +177,6 @@
     41.35,
     44.41,
     47.48
-  ]
+  ],
+  "pass_reason": "training"
 }

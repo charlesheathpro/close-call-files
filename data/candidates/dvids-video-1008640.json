@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1008640",
   "asset_id": "video:1008640",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:50:42Z",
@@ -233,5 +233,6 @@
     84.71,
     90.99,
     97.26
-  ]
+  ],
+  "pass_reason": "night hoist camera too dark to read at phone size"
 }

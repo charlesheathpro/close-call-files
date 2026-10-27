@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-992955",
   "asset_id": "video:992955",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "ejection",
   "harvested_at": "2026-10-27T06:29:55Z",
@@ -226,5 +226,6 @@
     112.02,
     120.32,
     128.62
-  ]
+  ],
+  "pass_reason": "shop feature"
 }

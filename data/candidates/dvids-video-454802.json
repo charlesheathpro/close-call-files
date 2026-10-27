@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-454802",
   "asset_id": "video:454802",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "crash landing",
   "harvested_at": "2026-10-27T06:28:02Z",
@@ -153,5 +153,6 @@
     60.88,
     65.08,
     69.29
-  ]
+  ],
+  "pass_reason": "simulated drill"
 }

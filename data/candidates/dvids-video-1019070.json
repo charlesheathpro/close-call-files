@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1019070",
   "asset_id": "video:1019070",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:47:39Z",
@@ -189,5 +189,6 @@
     50.21,
     53.93,
     57.65
-  ]
+  ],
+  "pass_reason": "safety tips interview"
 }

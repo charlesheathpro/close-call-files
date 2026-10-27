@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-998744",
   "asset_id": "video:998744",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire aerial",
   "harvested_at": "2026-10-27T06:28:07Z",
@@ -63,5 +63,6 @@
     63.49,
     68.19,
     72.89
-  ]
+  ],
+  "pass_reason": "burn scar aftermath, no action"
 }

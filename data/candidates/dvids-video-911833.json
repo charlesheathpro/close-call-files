@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-911833",
   "asset_id": "video:911833",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "ejection",
   "harvested_at": "2026-10-27T06:30:13Z",
@@ -397,5 +397,6 @@
     100.42,
     107.86,
     115.3
-  ]
+  ],
+  "pass_reason": "news roundup"
 }
