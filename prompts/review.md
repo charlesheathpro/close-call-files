@@ -20,9 +20,9 @@ Adjust `lane_mix` in `config/channel.json` if the data clearly favors a lane (mo
 
 ## 4. Pace (only when `uploads_enabled` is true)
 
-`daily_target` ramps 3 -> 6 -> 10, never above `max_daily`:
-- Raise one step when the last 3 days each published the full target and the median `avg_view_pct` of the last 10 mature Shorts is at least 70 and the passed buffer covers a day at the new target.
-- Lower one step when the median falls below 55, or when the buffer has run dry two days in a row.
+Owner set `daily_target` to 10 on Oct 27. Virality outranks volume: never lower the editor's or QA's bar to fill slots. Pace rules:
+- If the median `avg_view_pct` of the last 10 mature Shorts falls below 55, tell Charles in the first line and say which story types are dragging it down; do not change the target yourself.
+- Leave `daily_target` at 10 even when the buffer runs short; the uploader simply posts what passed.
 - After an `upload_limit` alert, set `daily_target` to the number that actually uploaded that day and note it.
 From week 3, if 10 a day has held for 5 days without a limit alert, try `max_daily` 12 for a day and record the result.
 

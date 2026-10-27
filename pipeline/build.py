@@ -296,7 +296,10 @@ def segment_filter(seg, sw, sh, crop=None):
     if layout == "crop":
         cx = float(seg.get("crop_x", 0.5))
         sh2 = int(H * zoom)
-        vf = (f"{pts},fps={FPS},scale=w=-2:h='trunc({sh2}*{grow}/2)*2':eval=frame,"
+        cw2 = int(W * zoom) // 2 * 2
+        cover = (f"scale=w={cw2}:h={sh2}:force_original_aspect_ratio=increase" if not push else
+                 f"scale=w='max(trunc({cw2}*{grow}/2)*2\\,trunc(iw*{sh2}*{grow}/ih/2)*2)':h=-2:eval=frame")
+        vf = (f"{pts},fps={FPS},{cover},"
               f"crop={W}:{H}:x='(iw-{W})*{cx}':y='(ih-{H})/2',setsar=1,format=yuv420p")
     else:
         fw = int(W * zoom) // 2 * 2
@@ -744,7 +747,24 @@ MIN_SHOT = 2.2      # seconds; shorter cuts read as jumpy (owner, Oct 27)
 MIN_SPEED = 0.9     # slower than this stutters
 
 
-def plan_shots(spec, timeline, total):
+def extend_shots(shots, cand, extra):
+    """Lengthen each shot by up to `extra` seconds without crossing a scene cut or the clip end."""
+    cuts = sorted((cand or {}).get("scene_cuts") or [])
+    dur = float((cand or {}).get("duration") or 1e9)
+    out = []
+    for sh in shots:
+        sh = dict(sh)
+        a, b = float(sh["start"]), float(sh["end"])
+        cap = min(b + extra, dur - 0.1)
+        nxt = [x for x in cuts if a + 0.3 < x]
+        if nxt:
+            cap = min(cap, max(b, nxt[0] - 0.15))
+        sh["end"] = round(max(b, cap), 2)
+        out.append(sh)
+    return out
+
+
+def plan_shots(spec, timeline, total, cand=None):
     """Give every narration line its own shots, cut to that line's time window.
 
     Window i runs from line i's first word to line i+1's first word (line 0 from 0,
@@ -754,23 +774,27 @@ def plan_shots(spec, timeline, total):
     starts = [0.0] + [t["start"] for t in timeline[1:]]
     ends = starts[1:] + [total]
     out = []
-    for i, shots in enumerate(spec["line_shots"]):
+    for i, shots0 in enumerate(spec["line_shots"]):
         win = max(ends[i] - starts[i], 0.3)
-        lens = [float(x["end"]) - float(x["start"]) for x in shots]
         best = None
-        for n in range(1, len(shots) + 1):
-            share = win / n + 0.08
-            if n > 1 and share < 1.5:
+        for extra in (0.0, 1.0, 2.0, 3.5):
+            shots = extend_shots(shots0, cand, extra) if extra else shots0
+            lens = [float(x["end"]) - float(x["start"]) for x in shots]
+            for n in range(1, len(shots) + 1):
+                share = win / n + 0.08
+                if n > 1 and share < 1.5:
+                    break
+                rest = sorted(range(1, len(shots)), key=lambda k: -lens[k])
+                pool = sorted([0] + rest[:n - 1])
+                if all(lens[k] / share >= MIN_SPEED for k in pool):
+                    score = abs(share - 3.0) + 0.3 * n
+                    if best is None or score < best[0]:
+                        best = (score, pool, share)
+            if best is not None:
                 break
-            rest = sorted(range(1, len(shots)), key=lambda k: -lens[k])
-            pool = sorted([0] + rest[:n - 1])
-            if all(lens[k] / share >= MIN_SPEED for k in pool):
-                score = abs(share - 3.0) + 0.3 * n
-                if best is None or score < best[0]:
-                    best = (score, pool, share)
         if best is None:
-            raise RuntimeError(f"line {i + 1}: shots are {', '.join(f'{x:.1f}' for x in lens)}s but the line needs "
-                               f"{win:.1f}s; give that line longer shots")
+            raise RuntimeError(f"line {i + 1}: shots are {', '.join(f'{x:.1f}' for x in lens)}s even after extending, "
+                               f"but the line needs {win:.1f}s; give that line longer or more shots")
         _, chosen, share = best
         for k in chosen:
             sh = dict(shots[k])
@@ -791,7 +815,7 @@ def build_one(d, voice_cfg, cfg, upload=True):
 
     src = fetch_source(cand)
     voice_wav, timeline, total = narration_track(spec, voice, work)
-    shots = plan_shots(spec, timeline, total) if spec.get("line_shots") else spec["segments"]
+    shots = plan_shots(spec, timeline, total, cand) if spec.get("line_shots") else spec["segments"]
     footage, (sw, sh), src_audio = cut_segments(src, shots, work)
     fdur = media_duration(footage)
     if fdur < total - 0.05:
