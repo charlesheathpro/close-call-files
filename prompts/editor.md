@@ -63,6 +63,7 @@ Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in 
 - `location_card`: `{"place": "Admiralty Island, Alaska", "date": "Sept. 28, 2026"}` from the release.
 - `segments`: source times in seconds from the frame sheet. Open on the most dramatic shot. Total footage (divided by speed) must exceed the spoken length by 2 to 4 seconds; the validator estimates it. Avoid the two `scene_cuts` times around a transition, which are often fades to black. `layout`: `crop` fills the vertical frame from the middle of the shot (use when the action is central; set `crop_x` 0 to 1 to follow the subject); `fit` shows the whole wide frame over a blurred copy (use when the action spans the width, or the source is under 1080 tall). Black bars in the source are removed automatically. `speed` 1.0 normally; 0.8 for a key moment is fine.
 - `keep_source_audio`: true unless the clip audio is wind noise or music.
+- `music_mood` (optional): one of rescue, sea, mountain, night, aviation, naval, storm, hazards. The build picks an original track from `assets/music/library.json` with that mood and lines its lift up with the outcome line. Vary moods across the day.
 - `title` (under 40 characters, keyword first): specific and honest, sentence case. No hashtags.
 - `description`: 1 to 2 sentence summary with place and date, a blank line, then exactly:
   `Footage: <credit from the release, e.g. U.S. Coast Guard video courtesy of Air Station Sitka>, via DVIDS: <page_url>`

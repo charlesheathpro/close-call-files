@@ -657,6 +657,79 @@ def credit_line_for(cand):
     return f"FOOTAGE: {who.upper()} VIA DVIDS"
 
 
+MUSIC_DIR = ROOT / "assets" / "music"
+
+
+def music_library():
+    lib = load_json(MUSIC_DIR / "library.json", {"tracks": []})
+    return [t for t in lib.get("tracks", []) if (MUSIC_DIR / t["file"]).exists()]
+
+
+def pick_track(spec, tracks):
+    if not tracks:
+        return None
+    want = spec.get("music")
+    for t in tracks:
+        if t["id"] == want:
+            return t
+    mood = spec.get("music_mood")
+    pool = [t for t in tracks if mood and mood in t.get("moods", [])] or tracks
+    return pool[int(hashlib.md5(spec["short_id"].encode()).hexdigest(), 16) % len(pool)]
+
+
+def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
+    """Broadcast-style mix: voice on top, music and location sound ducked under it.
+
+    Voice: high-pass, a little presence, gentle compression.
+    Music: carved out of the voice band, ducked by the voice, its lift lined up with the outcome line.
+    Location sound (rotor, wind, water): low and ducked, so the footage still feels real.
+    Two-pass loudness to -14 LUFS with a true-peak limiter."""
+    mixcfg = cfg.get("mix", {})
+    music_lufs = float(mixcfg.get("music_lufs", -25))
+    src_lufs = float(mixcfg.get("location_lufs", -30))
+    keep_src = spec.get("keep_source_audio", True) and src_audio
+    track = pick_track(spec, music_library())
+    outcome_start = timeline[-1]["start"]
+
+    inputs = ["-i", voice_wav, "-i", footage]
+    fc = [f"[0:a]atrim=0:{total},asetpts=PTS-STARTPTS,highpass=f=85,"
+          "equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.0:g=2.5,"
+          "acompressor=threshold=-20dB:ratio=3:attack=6:release=90:makeup=2,"
+          "loudnorm=I=-16:TP=-2:LRA=6,aformat=channel_layouts=stereo,asplit=3[vo][k1][k2]"]
+    beds = []
+    if keep_src:
+        fc.append(f"[1:a]atrim=0:{total},asetpts=PTS-STARTPTS,highpass=f=40,lowpass=f=9000,"
+                  f"loudnorm=I={src_lufs}:TP=-8:LRA=11[loc0]")
+        fc.append("[loc0][k1]sidechaincompress=threshold=0.025:ratio=5:attack=20:release=400[loc]")
+        beds.append("[loc]")
+    else:
+        fc.append("[k1]anullsink")
+    if track:
+        offset = float(track.get("resolve_at", 0)) - outcome_start + float(mixcfg.get("resolve_lead", 0.15))
+        inputs += ["-stream_loop", "-1", "-i", MUSIC_DIR / track["file"]]
+        head = f"atrim=start={offset:.3f}," if offset > 0 else f"adelay={int(-offset * 1000)}:all=1,"
+        fc.append(f"[2:a]{head}asetpts=PTS-STARTPTS,atrim=0:{total},aformat=channel_layouts=stereo,"
+                  "highpass=f=45,equalizer=f=2800:t=q:w=1.3:g=-5,"
+                  f"loudnorm=I={music_lufs}:TP=-6:LRA=9,"
+                  f"afade=t=in:st=0:d=0.25,afade=t=out:st={max(total - 0.3, 0):.2f}:d=0.3[mus0]")
+        fc.append("[mus0][k2]sidechaincompress=threshold=0.03:ratio=4:attack=35:release=500:makeup=1[mus]")
+        beds.append("[mus]")
+    else:
+        fc.append("[k2]anullsink")
+    fc.append(f"[vo]{''.join(beds)}amix=inputs={1 + len(beds)}:normalize=0:duration=first[mix]")
+    raw = work / "mix_raw.wav"
+    run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *inputs, "-filter_complex", ";".join(fc),
+         "-map", "[mix]", "-ar", SR, raw])
+    lufs, _ = measure(raw)
+    gain = -14.0 - (lufs if lufs is not None else -14.0)
+    final = work / "mix.wav"
+    run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", raw, "-af",
+         f"volume={gain:.2f}dB,alimiter=limit=0.84:attack=3:release=60:level=disabled", "-ar", SR, final])
+    with open(work / "mix.json", "w") as f:
+        json.dump({"track": track and track["id"], "pre_lufs": lufs, "gain_db": round(gain, 2)}, f)
+    return final
+
+
 def build_one(d, voice_cfg, cfg, upload=True):
     spec = load_json(d / "spec.json")
     sid = spec["short_id"]
@@ -675,38 +748,12 @@ def build_one(d, voice_cfg, cfg, upload=True):
     ass = work / "overlay.ass"
     ass.write_text(build_ass(spec, timeline, total, spec.get("credit_overlay") or credit_line_for(cand)))
 
-    keep_src = spec.get("keep_source_audio", True) and src_audio
-    src_db = float(cfg.get("source_audio_db_under_voice", -16))
-    music = pick_music()
-    inputs = ["-i", footage, "-i", voice_wav]
-    if music:
-        pick = music[int(hashlib.md5(sid.encode()).hexdigest(), 16) % len(music)]
-        inputs += ["-stream_loop", "-1", "-i", pick]
+    audio = mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work)
     fontsdir = str(FONTS).replace(":", r"\:")
-    fc = [f"[0:v]trim=0:{total},setpts=PTS-STARTPTS,subtitles='{ass}':fontsdir='{fontsdir}'[v]",
-          f"[1:a]atrim=0:{total},asetpts=PTS-STARTPTS,aformat=channel_layouts=stereo,"
-          f"loudnorm=I=-16:TP=-2:LRA=7,asplit=3[vo][sc1][sc2]"]
-    beds = []
-    if keep_src:
-        fc.append(f"[0:a]atrim=0:{total},asetpts=PTS-STARTPTS,loudnorm=I={-16 + src_db}:TP=-6:LRA=11[srcn]")
-        fc.append("[srcn][sc1]sidechaincompress=threshold=0.02:ratio=6:attack=15:release=350[src]")
-        beds.append("[src]")
-    if music:
-        mdb = float(cfg.get("music_db_below_voice", 14))
-        fc.append(f"[2:a]atrim=0:{total},asetpts=PTS-STARTPTS,aformat=channel_layouts=stereo,"
-                  f"loudnorm=I={-16 - mdb}:TP=-8:LRA=7,afade=t=out:st={max(total - 1.2, 0)}:d=1.2[mus0]")
-        fc.append("[mus0][sc2]sidechaincompress=threshold=0.02:ratio=4:attack=20:release=400[mus]")
-        beds.append("[mus]")
-    else:
-        fc.append("[sc2]anullsink")
-    if not keep_src:
-        fc.append("[sc1]anullsink")
-    mix_in = "[vo]" + "".join(beds)
-    fc.append(f"{mix_in}amix=inputs={1 + len(beds)}:normalize=0:duration=first,"
-              f"loudnorm=I=-14:TP=-1.5:LRA=11,aresample={SR}[a]")
     out = work / f"{sid}.mp4"
-    run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *inputs, "-filter_complex", ";".join(fc),
-         "-map", "[v]", "-map", "[a]", "-t", total, "-r", FPS,
+    run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", footage, "-i", audio, "-filter_complex",
+         f"[0:v]trim=0:{total},setpts=PTS-STARTPTS,subtitles='{ass}':fontsdir='{fontsdir}'[v]",
+         "-map", "[v]", "-map", "1:a", "-t", total, "-r", FPS,
          "-c:v", "libx264", "-preset", "veryfast", "-crf", "19", "-profile:v", "high", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "192k", "-ar", SR, "-movflags", "+faststart", out])
 

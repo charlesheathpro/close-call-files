@@ -39,8 +39,6 @@
       "short pause"
     ]
   },
-  "music_db_below_voice": 14,
-  "source_audio_db_under_voice": -16,
   "lane_mix": {
     "rescue": 0.6,
     "aviation_naval": 0.3,
@@ -164,5 +162,11 @@
         "q": "ice breaking"
       }
     ]
+  },
+  "mix": {
+    "music_lufs": -25,
+    "location_lufs": -30,
+    "resolve_lead": 0.15,
+    "note": "Voice is normalized to -16 LUFS before the mix; music and location sound sit under it and duck while he talks. Final master -14 LUFS, true peak about -1.5 dB."
   }
 }
