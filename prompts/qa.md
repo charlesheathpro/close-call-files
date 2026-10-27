@@ -25,7 +25,7 @@ Pass only if every item holds:
 8. Writing rules hold everywhere (no em-dashes, no "not X but Y"). Run `python3 pipeline/validate_spec.py` on it.
 9. Title and description are honest, match the footage, and carry the credit, DVIDS link and non-affiliation line.
 10. `build.json` checks all passed (loudness, sync, dead air).
-11. Retention: the first frame is the peak moment, cuts land every 1.5 to 2.5 seconds, the Short is 20 to 35 seconds, and the last shot leads straight back into the first so it loops.
+11. Retention: the first frame is the peak moment, cuts land every 2 to 4 seconds with no shaky or slowed footage, the Short is 20 to 35 seconds, and the last shot leads straight back into the first so it loops.
 12. Viral bar (editor.md 3a): the footage shows visible danger, a human hook, or an extreme setting. Reject a calm routine hoist however clean the edit.
 13. It does not look interchangeable with the last few Shorts (same story type, same hook pattern). Variety matters for monetization.
 
