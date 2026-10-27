@@ -1,0 +1,7 @@
+{
+  "short_id": "ccf-20261027-06",
+  "revision": 1,
+  "status": "error",
+  "built_at": "2026-10-27T12:23:45Z",
+  "error": "command failed (234): ffmpeg -hide_banner -loglevel error -y -ss 25.0 -to 27.8 -i /home/runner/work/_temp/ccf/src/dvids-video-1012192.mp4 -t 3.065 -filter_complex [0:v]crop=606:1080:656:0,setpts=(PTS-STARTPTS)/0.914,fps=30,scale=w=-2:h='trunc(1920*1/2)*2':eval=frame,crop=1080:1920:x='(iw-1080)*0.45':y='(ih-1920)/2',setsar=1,format=yuv420p[v];[0:a]asetpts=PTS-STARTPTS,atempo=0.9140,aresample=48000,aformat=channel_layout\n[Parsed_crop_4 @ 0x55b6d81dd200] Invalid too big or non positive size for width '1080' or height '1920'\n[Parsed_crop_4 @ 0x55b6d81dd200] Failed to configure input pad on Parsed_crop_4\n[fc#0 @ 0x55b6d8081540] Error reinitializing filters!\nFailed to inject frame into filter network: Invalid argument\nError while filtering: Invalid argument\n[out#0/mp4 @ 0x55b6d8187880] Nothing was written into output file, because at least one of its streams received no packets.\n"
+}
