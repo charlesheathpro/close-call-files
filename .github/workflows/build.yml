@@ -1,0 +1,39 @@
+name: build
+on:
+  push:
+    branches: [main]
+    paths: ["data/shorts/**/spec.json"]
+  schedule:
+    - cron: "23 */2 * * *"
+  workflow_dispatch:
+    inputs:
+      ids: { description: "short ids, space separated (blank = all that need building)", required: false, default: "" }
+permissions:
+  contents: write
+concurrency: { group: build, cancel-in-progress: false }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg libsndfile1 >/dev/null
+      - uses: actions/cache@v4
+        id: kokoro
+        with: { path: ~/.cache/kokoro, key: kokoro-v1.0 }
+      - name: Download Kokoro voice
+        if: steps.kokoro.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p ~/.cache/kokoro && cd ~/.cache/kokoro
+          curl -sSL -o kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          curl -sSL -o voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+      - run: pip install requests pillow numpy soundfile kokoro-onnx
+      - name: Build
+        run: python pipeline/build.py ${{ inputs.ids }}
+        env:
+          CCF_WORK: ${{ runner.temp }}/ccf
+          GH_TOKEN: ${{ github.token }}
+      - run: bash scripts/commit.sh "Build $(date -u +%Y-%m-%dT%H:%M)"

@@ -1,19 +1,41 @@
 {
   "channel_name": "Close Call Files",
+  "channel_id": "UC2ZH_e09FFXqxDP7N4poqNg",
+  "handle": "@officialclosecall",
+  "uploads_enabled": false,
   "timezone": "America/New_York",
   "daily_target": 3,
   "ramp_note": "Review task raises this: 3 -> 6 -> 10 while average view percentage holds. Never above max_daily.",
   "max_daily": 10,
   "upload_lead_hours": 30,
   "max_uploads_per_run": 6,
-  "publish_slots_local": ["07:00", "09:00", "11:00", "12:30", "14:00", "15:30", "17:00", "18:30", "20:00", "21:30"],
+  "publish_slots_local": [
+    "07:00",
+    "09:00",
+    "11:00",
+    "12:30",
+    "14:00",
+    "15:30",
+    "17:00",
+    "18:30",
+    "20:00",
+    "21:30"
+  ],
   "category_id": "27",
   "default_language": "en",
   "contains_synthetic_media": false,
-  "voice": {"engine": "kokoro", "voice": "am_michael", "speed": 1.08},
+  "voice": {
+    "engine": "kokoro",
+    "voice": "am_michael",
+    "speed": 1.08
+  },
   "music_db_below_voice": 14,
   "source_audio_db_under_voice": -16,
-  "lane_mix": {"rescue": 0.6, "aviation_naval": 0.3, "hazards": 0.1},
+  "lane_mix": {
+    "rescue": 0.6,
+    "aviation_naval": 0.3,
+    "hazards": 0.1
+  },
   "harvest": {
     "first_run_backfill_days": 180,
     "lookback_days": 10,
@@ -22,32 +44,115 @@
     "daily_pages": 2,
     "min_duration": 15,
     "max_duration": 1200,
-    "exclude_categories": ["Briefings", "Interviews", "Greetings", "Newscasts", "PSA", "Commercials", "Series"],
+    "exclude_categories": [
+      "Briefings",
+      "Interviews",
+      "Greetings",
+      "Newscasts",
+      "PSA",
+      "Commercials",
+      "Series"
+    ],
     "queries": [
-      {"lane": "rescue", "q": "rescue", "branch": "Coast Guard"},
-      {"lane": "rescue", "q": "hoist", "branch": "Coast Guard"},
-      {"lane": "rescue", "q": "medevac", "branch": "Coast Guard"},
-      {"lane": "rescue", "q": "capsized"},
-      {"lane": "rescue", "q": "search and rescue"},
-      {"lane": "rescue", "q": "rescue swimmer"},
-      {"lane": "rescue", "q": "hoist rescue"},
-      {"lane": "rescue", "q": "stranded rescue"},
-      {"lane": "rescue", "q": "flood rescue"},
-      {"lane": "rescue", "q": "boat fire"},
-      {"lane": "rescue", "q": "man overboard"},
-      {"lane": "rescue", "q": "pararescue"},
-      {"lane": "aviation_naval", "q": "arrested landing"},
-      {"lane": "aviation_naval", "q": "flight deck"},
-      {"lane": "aviation_naval", "q": "emergency landing"},
-      {"lane": "aviation_naval", "q": "aerial refueling"},
-      {"lane": "aviation_naval", "q": "carrier landing"},
-      {"lane": "aviation_naval", "q": "flight operations"},
-      {"lane": "aviation_naval", "q": "underway replenishment"},
-      {"lane": "aviation_naval", "q": "crash and salvage"},
-      {"lane": "hazards", "q": "hurricane"},
-      {"lane": "hazards", "q": "wildfire"},
-      {"lane": "hazards", "q": "volcano"},
-      {"lane": "hazards", "q": "ice breaking"}
+      {
+        "lane": "rescue",
+        "q": "rescue",
+        "branch": "Coast Guard"
+      },
+      {
+        "lane": "rescue",
+        "q": "hoist",
+        "branch": "Coast Guard"
+      },
+      {
+        "lane": "rescue",
+        "q": "medevac",
+        "branch": "Coast Guard"
+      },
+      {
+        "lane": "rescue",
+        "q": "capsized"
+      },
+      {
+        "lane": "rescue",
+        "q": "search and rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "rescue swimmer"
+      },
+      {
+        "lane": "rescue",
+        "q": "hoist rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "stranded rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "flood rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "boat fire"
+      },
+      {
+        "lane": "rescue",
+        "q": "man overboard"
+      },
+      {
+        "lane": "rescue",
+        "q": "pararescue"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "arrested landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "flight deck"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "emergency landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "aerial refueling"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "carrier landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "flight operations"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "underway replenishment"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "crash and salvage"
+      },
+      {
+        "lane": "hazards",
+        "q": "hurricane"
+      },
+      {
+        "lane": "hazards",
+        "q": "wildfire"
+      },
+      {
+        "lane": "hazards",
+        "q": "volcano"
+      },
+      {
+        "lane": "hazards",
+        "q": "ice breaking"
+      }
     ]
   }
 }
