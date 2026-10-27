@@ -26,7 +26,7 @@
   "time_start": 8.54187,
   "aspect_ratio": "4:3",
   "id": "dvids-video-297844",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:39:25Z",
   "duration": 117.93,
   "source_file": {
@@ -72,5 +72,6 @@
     100.42,
     107.22,
     114.03
-  ]
+  ],
+  "pass_reason": "Great story but 720x480 night thermal and dark hoist cam; QA rejects low-res FLIR like 05 and 07."
 }

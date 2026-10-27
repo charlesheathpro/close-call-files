@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-614280",
   "asset_id": "video:614280",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "crash landing",
   "harvested_at": "2026-10-27T06:27:40Z",
@@ -90,5 +90,6 @@
     48.18,
     51.75,
     55.32
-  ]
+  ],
+  "pass_reason": "640x480 washed-out hoist cam, mostly the mechanic's back over trees; survivor only visible briefly."
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-conducts-rooftop-rescue-near-Beaumont-Texas",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:41:38Z",
   "duration": 32.59,
   "source_file": {
@@ -52,5 +52,6 @@
     27.07,
     29.08,
     31.08
-  ]
+  ],
+  "pass_reason": "Distant static shot of rescuers on a roof for 32s; no hoist or survivor visible, and another flood rooftop."
 }
