@@ -31,10 +31,13 @@
     "model_id": "eleven_v4",
     "single_take": true,
     "voice_settings": {
-      "stability": 0.45,
+      "stability": 0.7,
       "similarity_boost": 0.8
     },
-    "note": "Chosen Oct 26 2026 for broad appeal. Audio tags in brackets shape delivery and are not spoken. Fallback: engine kokoro, voice am_michael."
+    "note": "Calm storyteller read: even, restrained, no acted emotion, about 160 words a minute. Only [short pause] tags are sent; all other tags are stripped by the build.",
+    "allowed_tags": [
+      "short pause"
+    ]
   },
   "music_db_below_voice": 14,
   "source_audio_db_under_voice": -16,

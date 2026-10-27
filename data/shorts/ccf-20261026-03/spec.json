@@ -5,11 +5,11 @@
   "story_type": "stranded on rocks",
   "hook": "Their boat was sinking. The jetty was all they had.",
   "narration": [
-    "[tense, urgent] Their boat was taking on water, [short pause] and two people ended up stranded on the jetty rocks.",
-    "[calm documentary narrator] This is the South Jetty on Oregon's Coquille River. Waves surge between the rocks, so a boat can't get close.",
-    "[building energy] So a Dolphin crew from Air Station North Bend came from above and sent the swimmer and the basket straight down."
+    "Their boat was taking on water, [short pause] and two people ended up stranded on the jetty rocks.",
+    "This is the South Jetty on Oregon's Coquille River. Waves surge between the rocks, so a boat can't get close.",
+    "So a Dolphin crew from Air Station North Bend came from above and sent the swimmer and the basket straight down."
   ],
-  "outcome": "[relieved] The North Bend crew hoisted both people off the jetty rocks.",
+  "outcome": "The North Bend crew hoisted both people off the jetty rocks.",
   "location_card": {
     "place": "Coquille River, Oregon",
     "date": "Aug. 3, 2026"
@@ -117,6 +117,6 @@
       "source_quote": "A MH-65 Dolphin helicopter crew from U.S. Coast Guard Air Station North Bend conducts a hoist in the Coquille River Area"
     }
   ],
-  "revision": 2,
+  "revision": 3,
   "hold": true
 }

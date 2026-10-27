@@ -93,7 +93,11 @@ class Voice:
 
         Returns (wav_path, per-line list of word timings in seconds)."""
         import base64
-        spoken = [speakable(l) for l in lines]
+        allowed = {t.lower() for t in self.cfg.get("allowed_tags", [])}
+        def keep_tags(t):
+            t = TAG_RE.sub(lambda m: m.group(0) if m.group(0)[1:-1].strip().lower() in allowed else " ", t)
+            return re.sub(r"\s+", " ", t).strip()
+        spoken = [keep_tags(speakable(l)) for l in lines]
         full = " ".join(spoken)
         settings = self.cfg.get("voice_settings") or {"stability": 0.45, "similarity_boost": 0.8}
         body = {"text": full, "model_id": self.cfg.get("model_id", "eleven_v4"), "voice_settings": settings}

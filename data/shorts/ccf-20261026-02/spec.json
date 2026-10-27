@@ -5,11 +5,11 @@
   "story_type": "trapped in vessel",
   "hook": "He was trapped inside a grounded sailboat.",
   "narration": [
-    "[tense] A man was trapped inside a sailboat that ran aground near Coronado, California.",
-    "[calm documentary narrator] This is the helicopter's infrared camera. It sees heat, so warm bodies glow against the cold water.",
-    "[building energy] The rescue swimmer from Air Station Ventura got down to the wreck. [short pause] To reach the man, he tore open part of the cabin roof."
+    "A man was trapped inside a sailboat that ran aground near Coronado, California.",
+    "This is the helicopter's infrared camera. It sees heat, so warm bodies glow against the cold water.",
+    "The rescue swimmer from Air Station Ventura got down to the wreck. [short pause] To reach the man, he tore open part of the cabin roof."
   ],
-  "outcome": "[relieved] The Ventura aircrew got the trapped man out of the wrecked sailboat.",
+  "outcome": "The Ventura aircrew got the trapped man out of the wrecked sailboat.",
   "location_card": {
     "place": "Coronado, California",
     "date": "Oct. 11, 2026"
@@ -115,6 +115,6 @@
       "source_quote": "The rescue swimmer tore open part of the cabin's roof to gain access to the trapped man"
     }
   ],
-  "revision": 2,
+  "revision": 3,
   "hold": true
 }

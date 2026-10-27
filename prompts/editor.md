@@ -40,29 +40,26 @@ YouTube pushes a Short further only when most of its test audience stays and wat
 - **Line 1 lands the stakes in under 3 seconds.** Concrete and physical: "Their catamaran flipped eleven and a half miles off Hawaii." No setup, no "this is the story of".
 - **Cut every 2 to 4 seconds.** 8 to 14 segments. Split a long shot into 3 to 4 second pieces and vary crop_x between them so the frame keeps moving. The validator warns on segments over 5.5 seconds.
 - **One teach line.** One sentence that explains how this kind of rescue works (why a basket, why the pilots can't see down, what a beacon does). It is the educational layer and gives people a reason to rewatch.
-- **Tension then release.** Build toward the hoist, then the outcome lands as the last line, followed by a fast end (the build holds only 0.7 seconds after the last word) so the Short loops straight back into the peak shot.
+- **Tension then release** through the words, not the voice. Build toward the hoist, then the outcome lands as the last line, followed by a fast end (the build holds only 0.7 seconds after the last word) so the Short loops straight back into the peak shot.
 - **Title under 40 characters, keyword first, sentence case:** "Catamaran flipped 11 miles off Hawaii". No hashtags, no clickbait the footage doesn't deliver.
 - **Question comment** that invites a personal answer ("Would you have stayed with the raft?").
 
-### Audio tags (ElevenLabs v4, narrator Brian)
+### Voice (ElevenLabs v4, narrator Brian)
 
-Put a short delivery cue in square brackets right before the clause it should change. Tags are not spoken and never appear on screen. Use at most 3 per line, one per clause. Ones that work on this voice:
+The read is a calm storyteller: even, restrained, confident, about 160 words a minute, with no acted emotion. Owner feedback (Oct 26): emotion tags made the delivery far too exaggerated. So:
 
-- Opening line: `[tense, urgent]` or `[tense]`
-- Explanation: `[calm documentary narrator]`, `[low, restrained voice]`
-- Building to the hoist: `[building energy]`
-- Outcome: `[relieved]` or `[warm, relieved]`
-- Pauses: `[short pause]` before a reveal; commas also make pauses.
-
-Avoid reaction tags like `[laughs]` or `[gasps]`, shouting, and anything theatrical; the voice should sound like a confident documentary narrator. Write numbers as words when they should be read naturally ("eleven and a half miles").
+- No emotion or style tags. The build strips every tag except `[short pause]`.
+- Use `[short pause]` at most once or twice per Short, before a reveal.
+- Let the words carry the tension: short sentences, concrete facts, commas and periods for rhythm.
+- Write numbers as words when they should be read naturally ("eleven and a half miles").
 
 ## 4. Write the spec
 
 Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in Mountain Time, NN = 01, 02, ...). Copy the shape of `data/shorts/ccf-20261026-01/spec.json` (the approved style). Fields:
 
 - `hook` (max 70 chars): on screen for the first 2 to 3 seconds. Concrete stakes in plain words. "His boat sank. Then his life raft started filling up." No questions, no "you won't believe", no ALL CAPS words.
-- `narration` (3 to 4 lines, 45 to 70 words before the outcome): line 1 is the spoken hook. Audio tags as in 4a. Then who, where, what went wrong, what the crew did. Include one line that teaches something real about how this kind of rescue or operation works; this is what makes the channel educational and original. Short sentences, active voice, past tense for the event. Numbers as words the voice can read ("two miles", "MH-60" is fine). Do not put the outcome in the narration; the build speaks it last.
-- `outcome` (max 150 chars, starts with an audio tag such as `[relieved]`): past tense, how it ended. "The Sitka aircrew hoisted the boater up and aboard the Jayhawk." Never a cliffhanger, never "will".
+- `narration` (3 to 4 lines, 45 to 70 words before the outcome): line 1 is the spoken hook. Only `[short pause]` tags. Then who, where, what went wrong, what the crew did. Include one line that teaches something real about how this kind of rescue or operation works; this is what makes the channel educational and original. Short sentences, active voice, past tense for the event. Numbers as words the voice can read ("two miles", "MH-60" is fine). Do not put the outcome in the narration; the build speaks it last.
+- `outcome` (max 150 chars): past tense, how it ended. "The Sitka aircrew hoisted the boater up and aboard the Jayhawk." Never a cliffhanger, never "will".
 - `location_card`: `{"place": "Admiralty Island, Alaska", "date": "Sept. 28, 2026"}` from the release.
 - `segments`: source times in seconds from the frame sheet. Open on the most dramatic shot. Total footage (divided by speed) must exceed the spoken length by 2 to 4 seconds; the validator estimates it. Avoid the two `scene_cuts` times around a transition, which are often fades to black. `layout`: `crop` fills the vertical frame from the middle of the shot (use when the action is central; set `crop_x` 0 to 1 to follow the subject); `fit` shows the whole wide frame over a blurred copy (use when the action spans the width, or the source is under 1080 tall). Black bars in the source are removed automatically. `speed` 1.0 normally; 0.8 for a key moment is fine.
 - `keep_source_audio`: true unless the clip audio is wind noise or music.
