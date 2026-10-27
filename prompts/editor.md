@@ -31,17 +31,42 @@ For a promising rescue with a short release, you may search the web for the agen
 
 Mark every candidate you looked at: `"status": "used"` (with `"used_by": short_id`) or `"status": "passed_over"` with a short `"pass_reason"`.
 
+## 4a. Built for retention and rewatches (read before writing any spec)
+
+YouTube pushes a Short further only when most of its test audience stays and watches to the end, and replays count as new views. Every spec is built for that:
+
+- **Length 25 to 35 seconds.** 55 to 80 spoken words in total including the outcome. The validator warns past about 38 seconds.
+- **Open on the peak.** Segment 1 is the most dramatic 3 to 4 seconds in the clip (the survivor rising in the basket, the swimmer at the wreck, the jet catching the wire), even though it happens late in the story. Then go back and tell it in order.
+- **Line 1 lands the stakes in under 3 seconds.** Concrete and physical: "Their catamaran flipped eleven and a half miles off Hawaii." No setup, no "this is the story of".
+- **Cut every 2 to 4 seconds.** 8 to 14 segments. Split a long shot into 3 to 4 second pieces and vary crop_x between them so the frame keeps moving. The validator warns on segments over 5.5 seconds.
+- **One teach line.** One sentence that explains how this kind of rescue works (why a basket, why the pilots can't see down, what a beacon does). It is the educational layer and gives people a reason to rewatch.
+- **Tension then release.** Build toward the hoist, then the outcome lands as the last line, followed by a fast end (the build holds only 0.7 seconds after the last word) so the Short loops straight back into the peak shot.
+- **Title under 40 characters, keyword first, sentence case:** "Catamaran flipped 11 miles off Hawaii". No hashtags, no clickbait the footage doesn't deliver.
+- **Question comment** that invites a personal answer ("Would you have stayed with the raft?").
+
+### Audio tags (ElevenLabs v4, narrator Brian)
+
+Put a short delivery cue in square brackets right before the clause it should change. Tags are not spoken and never appear on screen. Use at most 3 per line, one per clause. Ones that work on this voice:
+
+- Opening line: `[tense, urgent]` or `[tense]`
+- Explanation: `[calm documentary narrator]`, `[low, restrained voice]`
+- Building to the hoist: `[building energy]`
+- Outcome: `[relieved]` or `[warm, relieved]`
+- Pauses: `[short pause]` before a reveal; commas also make pauses.
+
+Avoid reaction tags like `[laughs]` or `[gasps]`, shouting, and anything theatrical; the voice should sound like a confident documentary narrator. Write numbers as words when they should be read naturally ("eleven and a half miles").
+
 ## 4. Write the spec
 
-Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in Mountain Time, NN = 01, 02, ...). Copy the shape of `data/shorts/ccf-test-001/spec.json`. Fields:
+Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in Mountain Time, NN = 01, 02, ...). Copy the shape of `data/shorts/ccf-20261026-01/spec.json` (the approved style). Fields:
 
 - `hook` (max 70 chars): on screen for the first 2 to 3 seconds. Concrete stakes in plain words. "His boat sank. Then his life raft started filling up." No questions, no "you won't believe", no ALL CAPS words.
-- `narration` (3 to 6 lines, 60 to 110 words total): line 1 is the spoken hook, said differently from the on-screen text. Then who, where, what went wrong, what the crew did. Include one line that teaches something real about how this kind of rescue or operation works; this is what makes the channel educational and original. Short sentences, active voice, past tense for the event. Numbers as words the voice can read ("two miles", "MH-60" is fine). Do not put the outcome in the narration; the build speaks it last.
-- `outcome` (max 150 chars): past tense, how it ended. "The Sitka aircrew hoisted the boater up and aboard the Jayhawk." Never a cliffhanger, never "will".
+- `narration` (3 to 4 lines, 45 to 70 words before the outcome): line 1 is the spoken hook. Audio tags as in 4a. Then who, where, what went wrong, what the crew did. Include one line that teaches something real about how this kind of rescue or operation works; this is what makes the channel educational and original. Short sentences, active voice, past tense for the event. Numbers as words the voice can read ("two miles", "MH-60" is fine). Do not put the outcome in the narration; the build speaks it last.
+- `outcome` (max 150 chars, starts with an audio tag such as `[relieved]`): past tense, how it ended. "The Sitka aircrew hoisted the boater up and aboard the Jayhawk." Never a cliffhanger, never "will".
 - `location_card`: `{"place": "Admiralty Island, Alaska", "date": "Sept. 28, 2026"}` from the release.
 - `segments`: source times in seconds from the frame sheet. Open on the most dramatic shot. Total footage (divided by speed) must exceed the spoken length by 2 to 4 seconds; the validator estimates it. Avoid the two `scene_cuts` times around a transition, which are often fades to black. `layout`: `crop` fills the vertical frame from the middle of the shot (use when the action is central; set `crop_x` 0 to 1 to follow the subject); `fit` shows the whole wide frame over a blurred copy (use when the action spans the width, or the source is under 1080 tall). Black bars in the source are removed automatically. `speed` 1.0 normally; 0.8 for a key moment is fine.
 - `keep_source_audio`: true unless the clip audio is wind noise or music.
-- `title` (max 95, aim for 40 to 70): specific and honest, sentence case. No hashtags.
+- `title` (under 40 characters, keyword first): specific and honest, sentence case. No hashtags.
 - `description`: 1 to 2 sentence summary with place and date, a blank line, then exactly:
   `Footage: <credit from the release, e.g. U.S. Coast Guard video courtesy of Air Station Sitka>, via DVIDS: <page_url>`
   `Public domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.`

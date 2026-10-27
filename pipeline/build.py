@@ -33,7 +33,7 @@ W, H, FPS = 1080, 1920, 30
 SR = 48000
 GAP = 0.22          # pause between narration lines
 LEAD = 0.05         # narration starts this soon
-TAIL = 1.1          # outcome card holds this long after the last word
+TAIL = 0.7          # outcome card holds this long after the last word (short, so the loop restarts fast)
 FG_SHIFT = -110     # fit layout: footage sits a little above center
 RELEASE_TAG = "renders"
 
@@ -88,6 +88,73 @@ class Voice:
         raw.unlink()
         return media_duration(dest)
 
+    def full_take(self, lines, work):
+        """Whole script in one ElevenLabs request with character timing.
+
+        Returns (wav_path, per-line list of word timings in seconds)."""
+        import base64
+        spoken = [speakable(l) for l in lines]
+        full = " ".join(spoken)
+        settings = self.cfg.get("voice_settings") or {"stability": 0.45, "similarity_boost": 0.8}
+        body = {"text": full, "model_id": self.cfg.get("model_id", "eleven_v4"), "voice_settings": settings}
+        r = None
+        for attempt in range(4):
+            r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{self.cfg['voice_id']}/with-timestamps",
+                              params={"output_format": "mp3_44100_128"},
+                              headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"],
+                                       "Content-Type": "application/json"},
+                              json=body, timeout=180)
+            if r.status_code == 429 or r.status_code >= 500:
+                import time
+                time.sleep(5 * (attempt + 1))
+                continue
+            break
+        if r.status_code != 200:
+            raise RuntimeError(f"ElevenLabs {r.status_code}: {r.text[:300]}")
+        j = r.json()
+        mp3 = work / "voice_full.mp3"
+        mp3.write_bytes(base64.b64decode(j["audio_base64"]))
+        wav = work / "voice_full.wav"
+        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", mp3, "-ar", SR, "-ac", 1, wav])
+        al = j.get("alignment") or j.get("normalized_alignment") or {}
+        chars = al.get("characters") or []
+        st = al.get("character_start_times_seconds") or []
+        en = al.get("character_end_times_seconds") or []
+        # map each character of our text to an alignment index by walking both strings
+        amap, k = [None] * len(full), 0
+        for i, ch in enumerate(full):
+            look = k
+            while look < len(chars) and look < k + 40 and chars[look] != ch:
+                look += 1
+            if look < len(chars) and chars[look] == ch:
+                amap[i] = look
+                k = look + 1
+        dur = media_duration(wav)
+
+        def t_at(i, end=False):
+            for d in range(0, 60):
+                for idx in ((i - d, i + d) if not end else (i + d, i - d)):
+                    if 0 <= idx < len(full) and amap[idx] is not None:
+                        return (en if end else st)[amap[idx]]
+            return None
+
+        out, offset = [], 0
+        for line in spoken:
+            words = []
+            for a, b in word_spans(line):
+                ws, we = t_at(offset + a), t_at(offset + b - 1, end=True)
+                words.append([ws, we])
+            offset += len(line) + 1
+            out.append(words)
+        # fill any gaps by interpolation
+        flat = [w for line in out for w in line]
+        for idx, w in enumerate(flat):
+            if w[0] is None:
+                w[0] = flat[idx - 1][1] if idx else 0.0
+            if w[1] is None or w[1] < w[0]:
+                w[1] = min(w[0] + 0.3, dur)
+        return wav, out
+
     def say(self, text, dest, prev_text=None, next_text=None):
         """Write a 48 kHz mono wav for one line and return its duration."""
         text = speakable(text)
@@ -133,6 +200,23 @@ def speakable(text):
 
 
 # ---------------------------------------------------------------- source and footage
+
+
+TAG_RE = re.compile(r"\[[^\]\n]{1,60}\]")
+
+
+def strip_tags(text):
+    """Remove ElevenLabs audio tags like [tense] for captions and on-screen text."""
+    return re.sub(r"\s+", " ", TAG_RE.sub(" ", text or "")).strip()
+
+
+def word_spans(text):
+    """(start, end) character spans of words in text, skipping audio tags."""
+    spans, i = [], 0
+    for m in re.finditer(r"\[[^\]\n]{1,60}\]|\S+", text):
+        if not m.group(0).startswith("["):
+            spans.append((m.start(), m.end()))
+    return spans
 
 
 def fetch_source(cand):
@@ -322,18 +406,36 @@ def build_ass(spec, timeline, total, credit_line=None):
 
     outcome_start = timeline[-1]["start"]
     lc = spec["location_card"]
-    ev(3, 0.2, min(3.2, outcome_start - 0.3), "Loc", r"{\fad(150,250)}" + esc(f"{lc['place']}  |  {lc['date']}".upper()))
+    ev(3, 0.2, min(2.8, outcome_start - 0.3), "Loc", r"{\fad(150,250)}" + esc(f"{lc['place']}  |  {lc['date']}".upper()))
     for item in timeline[:-1]:
-        chunks = chunk_words(item["text"])
-        weights = [max(len(c), 3) for c in chunks]
-        span = item["end"] - item["start"]
-        t = item["start"]
-        for c, wgt in zip(chunks, weights):
-            d = span * wgt / sum(weights)
-            ev(1, t, t + d, "Cap", r"{\fscx94\fscy94\t(0,80,\fscx100\fscy100)}" + esc(c.upper()))
-            t += d
+        words = item["words"]
+        groups, cur = [], []
+        for wd in words:
+            trial = " ".join(x["w"] for x in cur + [wd])
+            if cur and (len(cur) >= 3 or len(trial) > 18):
+                groups.append(cur)
+                cur = []
+            cur.append(wd)
+            if re.search(r"[.,;:!?]$", wd["w"]):
+                groups.append(cur)
+                cur = []
+        if cur:
+            groups.append(cur)
+        for gi, g in enumerate(groups):
+            g_end = g[-1]["e"]
+            nxt = groups[gi + 1][0]["s"] if gi + 1 < len(groups) else item["end"] + 0.25
+            g_end = max(g_end, min(nxt, g_end + 0.35))
+            for wi, wd in enumerate(g):
+                a = wd["s"] if wi else g[0]["s"]
+                b = g[wi + 1]["s"] if wi + 1 < len(g) else g_end
+                parts = []
+                for wj, other in enumerate(g):
+                    t = esc(other["w"].upper())
+                    parts.append(r"{\1c" + orange + "&}" + t + r"{\1c" + white + "&}" if wj == wi else t)
+                pop = r"{\fscx92\fscy92\t(0,70,\fscx100\fscy100)}" if wi == 0 else ""
+                ev(1, a, b, "Cap", pop + " ".join(parts))
     # Outcome: a compact panel in the lower middle, footage stays visible above it
-    lines = wrap(esc(spec["outcome"]), 30)
+    lines = wrap(esc(strip_tags(spec["outcome"])), 30)
     n = lines.count(r"\N") + 1
     top = 1000
     height = 70 + 66 * n + 40
@@ -365,21 +467,64 @@ def wrap(text, width):
 
 def narration_track(spec, voice, work):
     lines = list(spec["narration"]) + [spec["outcome"]]
-    timeline, clips = [], []
+    timeline = []
+    if voice.engine == "elevenlabs" and voice.cfg.get("single_take", True):
+        wav, word_times = voice.full_take(lines, work)
+        x, sr = sf.read(wav, dtype="float32")
+        if x.ndim > 1:
+            x = x.mean(axis=1)
+        last_end = 0.0
+        for text, times in zip(lines, word_times):
+            cap_words = strip_tags(text).split()
+            spoken_n = len(times)
+            if spoken_n and len(cap_words) == spoken_n:
+                words = [{"w": w, "s": LEAD + a, "e": LEAD + b} for w, (a, b) in zip(cap_words, times)]
+            else:  # spoken form differs (e.g. MH-60 read as M H sixty): spread caption words over the line
+                a = LEAD + (times[0][0] if times else last_end)
+                b = LEAD + (times[-1][1] if times else last_end + 1)
+                wts = [max(len(w), 2) for w in cap_words] or [1]
+                t, words = a, []
+                for w, wt in zip(cap_words, wts):
+                    d = (b - a) * wt / sum(wts)
+                    words.append({"w": w, "s": t, "e": t + d})
+                    t += d
+            if words:
+                last_end = words[-1]["e"] - LEAD
+            timeline.append({"text": strip_tags(text), "start": round(words[0]["s"], 3) if words else last_end,
+                             "end": round(words[-1]["e"], 3) if words else last_end,
+                             "words": [{k: (round(v, 3) if k != "w" else v) for k, v in wd.items()} for wd in words]})
+        total = max(timeline[-1]["end"] + TAIL, LEAD + len(x) / sr + 0.2)
+        buf = np.zeros(int(SR * (total + 0.5)), dtype=np.float32)
+        a = int(LEAD * SR)
+        buf[a:a + len(x)] += x[: len(buf) - a]
+        voice_wav = work / "voice.wav"
+        sf.write(voice_wav, buf, SR)
+        return voice_wav, timeline, round(total, 3)
+
     t = LEAD
+    clips = []
     for i, text in enumerate(lines):
         wav = work / f"line{i:02d}.wav"
-        d = voice.say(text, wav, prev_text=" ".join(lines[:i])[-400:] or None,
+        d = voice.say(strip_tags(text) if voice.engine != "elevenlabs" else text, wav,
+                      prev_text=" ".join(lines[:i])[-400:] or None,
                       next_text=lines[i + 1] if i + 1 < len(lines) else None)
-        timeline.append({"text": text, "start": round(t, 3), "end": round(t + d, 3), "wav": wav})
+        cap = strip_tags(text).split()
+        wts = [max(len(w), 2) for w in cap] or [1]
+        tt, words = t, []
+        for w, wt in zip(cap, wts):
+            dd = d * wt / sum(wts)
+            words.append({"w": w, "s": round(tt, 3), "e": round(tt + dd, 3)})
+            tt += dd
+        timeline.append({"text": strip_tags(text), "start": round(t, 3), "end": round(t + d, 3), "words": words})
+        clips.append((t, wav))
         t += d + GAP
     total = timeline[-1]["end"] + TAIL
     buf = np.zeros(int(SR * (total + 0.5)), dtype=np.float32)
-    for item in timeline:
-        x, sr = sf.read(item["wav"], dtype="float32")
+    for start, wav in clips:
+        x, sr = sf.read(wav, dtype="float32")
         if x.ndim > 1:
             x = x.mean(axis=1)
-        a = int(item["start"] * SR)
+        a = int(start * SR)
         buf[a:a + len(x)] += x[: len(buf) - a]
     voice_wav = work / "voice.wav"
     sf.write(voice_wav, buf, SR)

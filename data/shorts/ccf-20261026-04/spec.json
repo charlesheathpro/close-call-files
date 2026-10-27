@@ -5,44 +5,85 @@
   "story_type": "hoist from water",
   "hook": "Their boat flipped. A beacon called for help.",
   "narration": [
-    "A twelve-foot fishing boat capsized off Oahu, and two men went into the water.",
-    "Coast Guard watchstanders in Honolulu got an alert from a personal locator beacon.",
-    "A beacon like that sends a distress signal and its position by satellite, so rescuers know where to fly.",
-    "A Dolphin helicopter crew from Air Station Barbers Point hovered overhead and sent the basket down, one man at a time."
+    "[tense] A twelve-foot fishing boat flipped off Oahu, [short pause] and two men went into the ocean.",
+    "[calm documentary narrator] The Coast Guard got an alert from a personal locator beacon. It sends a distress signal and a position by satellite, so rescuers know exactly where to fly.",
+    "[building energy] A Dolphin crew from Air Station Barbers Point lowered the basket, [short pause] one man at a time."
   ],
-  "outcome": "The Barbers Point crew rescued both men from the water.",
+  "outcome": "[warm, relieved] The Barbers Point crew hoisted both men out of the water.",
   "location_card": {
     "place": "Off Oahu, Hawaii",
     "date": "July 3, 2026"
   },
   "segments": [
     {
-      "start": 0.5,
-      "end": 8.0,
-      "layout": "crop",
-      "crop_x": 0.45
-    },
-    {
-      "start": 8.0,
-      "end": 21.5,
+      "start": 18.5,
+      "end": 22,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
-      "start": 22.0,
-      "end": 32.0,
+      "start": 0.5,
+      "end": 4,
       "layout": "crop",
-      "crop_x": 0.45
+      "crop_x": 0.5
     },
     {
-      "start": 32.0,
+      "start": 4,
+      "end": 8,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 12,
+      "end": 16,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 22,
+      "end": 26,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 26,
+      "end": 29.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 29.5,
+      "end": 33,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 33,
+      "end": 36.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 36.5,
+      "end": 40,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 40,
       "end": 43.4,
       "layout": "crop",
       "crop_x": 0.5
     }
   ],
   "keep_source_audio": true,
-  "title": "Their boat flipped off Oahu and a beacon saved them",
+  "title": "Flipped off Oahu, saved by a beacon",
   "description": "A 12-foot fishing vessel capsized offshore Oahu on July 3, 2026, putting two men in the water. After a personal locator beacon alert, an MH-65 Dolphin crew from Coast Guard Air Station Barbers Point rescued both men.\n\nFootage: U.S. Coast Guard video, courtesy Air Station Barbers Point, via DVIDS: https://www.dvidshub.net/video/1013516\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #hawaii",
   "tags": [
     "coast guard rescue",
@@ -68,6 +109,6 @@
       "source_quote": "A Coast Guard Air Station Barbers Point MH-65 Dolphin helicopter crew"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "hold": true
 }

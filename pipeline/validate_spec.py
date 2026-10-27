@@ -10,6 +10,13 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import CANDIDATES, load_json, writing_problems  # noqa: E402
 
+TAG_RE = re.compile(r"\[[^\]\n]{1,60}\]")
+
+
+def plain(t):
+    return re.sub(r"\s+", " ", TAG_RE.sub(" ", t or "")).strip()
+
+
 LANES = {"rescue", "aviation_naval", "hazards"}
 WORDS_PER_SEC = 2.6  # Kokoro at speed 1.08, measured roughly
 
@@ -44,13 +51,20 @@ def validate(spec_path):
         errors.append("hook over 70 characters")
     if not isinstance(spec["narration"], list) or not 2 <= len(spec["narration"]) <= 9:
         errors.append("narration must be a list of 2 to 9 lines")
+    for i, line in enumerate(spec["narration"] + [spec["outcome"]]):
+        if len(TAG_RE.findall(line)) > 3:
+            errors.append(f"line {i + 1}: at most 3 audio tags per line")
+        if re.search(r"\[[^\]]*$|^[^\[]*\]", line):
+            errors.append(f"line {i + 1}: unbalanced [ ] in audio tags")
     for i, line in enumerate(spec["narration"]):
-        if len(line) > 170:
+        if len(plain(line)) > 170:
             errors.append(f"narration line {i + 1} over 170 characters")
-    if len(spec["outcome"]) > 150:
+    if len(plain(spec["outcome"])) > 150:
         errors.append("outcome over 150 characters")
     if len(spec["title"]) > 95:
         errors.append("title over 95 characters")
+    elif len(spec["title"]) > 45:
+        warnings.append("titles under about 40 characters perform best on Shorts")
     if "#" in spec["title"]:
         warnings.append("hashtags belong in the description, not the title")
     if len(spec["description"]) > 4500:
@@ -62,19 +76,19 @@ def validate(spec_path):
         errors.append("location_card needs place and date")
 
     # Writing rules on everything the audience sees or hears
-    texts = {"hook": spec["hook"], "outcome": spec["outcome"], "title": spec["title"],
+    texts = {"hook": spec["hook"], "outcome": plain(spec["outcome"]), "title": spec["title"],
              "description": spec["description"], "question_comment": spec["question_comment"],
              "location": lc.get("place", "")}
     for i, l in enumerate(spec["narration"]):
-        texts[f"narration[{i + 1}]"] = l
+        texts[f"narration[{i + 1}]"] = plain(l)
     for name, t in texts.items():
         for p in writing_problems(t):
             errors.append(f"{name}: {p}")
 
     # The outcome must be spoken last and must actually resolve
-    if norm(spec["narration"][-1]) == norm(spec["outcome"]):
+    if norm(plain(spec["narration"][-1])) == norm(plain(spec["outcome"])):
         errors.append("do not repeat the outcome as the last narration line; the build speaks the outcome itself")
-    if re.search(r"\b(?:will|unclear|unknown|remains to be seen|stay tuned|part 2|to be continued)\b", spec["outcome"], re.I):
+    if re.search(r"\b(?:will|unclear|unknown|remains to be seen|stay tuned|part 2|to be continued)\b", plain(spec["outcome"]), re.I):
         errors.append("outcome must state how it ended, in past tense, with no cliffhanger")
 
     # Grounding: every fact quote must appear in the agency release or transcript
@@ -110,10 +124,15 @@ def validate(spec_path):
         if not 0 <= cx <= 1:
             errors.append(f"segment {i + 1}: crop_x must be 0 to 1")
         total += max(b - a, 0) / speed
-    words = sum(len(l.split()) for l in spec["narration"]) + len(spec["outcome"].split())
+    words = sum(len(plain(l).split()) for l in spec["narration"]) + len(plain(spec["outcome"]).split())
+    long_segs = [i + 1 for i, sg in enumerate(spec["segments"]) if (float(sg["end"]) - float(sg["start"])) / float(sg.get("speed", 1.0)) > 5.5]
+    if long_segs:
+        warnings.append(f"segments {long_segs} run over 5.5s; cut every 2 to 4 seconds to hold attention")
     est = words / WORDS_PER_SEC + 0.2 * (len(spec["narration"]) + 1) + 1.0
-    if est > 57:
-        errors.append(f"narration too long: about {est:.0f}s spoken, keep it under 55s")
+    if est > 50:
+        errors.append(f"narration too long: about {est:.0f}s spoken; aim for 25 to 35 seconds")
+    elif est > 38:
+        warnings.append(f"about {est:.0f}s spoken; 25 to 35 seconds holds viewers best")
     if est < 14:
         warnings.append(f"narration is short ({est:.0f}s); Shorts under 15s rarely hold attention")
     if total < est + 1:

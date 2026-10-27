@@ -5,50 +5,91 @@
   "story_type": "trapped in vessel",
   "hook": "He was trapped inside a grounded sailboat.",
   "narration": [
-    "A man was trapped inside a sailboat that had run aground near Coronado, California.",
-    "This first view is the helicopter's infrared camera, which shows heat, so a person stands out against cold water.",
-    "A Coast Guard aircrew from Air Station Ventura put their rescue swimmer down at the wreck.",
-    "To reach the man, the swimmer tore open part of the cabin roof."
+    "[tense] A man was trapped inside a sailboat that ran aground near Coronado, California.",
+    "[calm documentary narrator] This is the helicopter's infrared camera. It sees heat, so warm bodies glow against the cold water.",
+    "[building energy] The rescue swimmer from Air Station Ventura got down to the wreck. [short pause] To reach the man, he tore open part of the cabin roof."
   ],
-  "outcome": "The Ventura aircrew got the trapped man out of the grounded sailboat.",
+  "outcome": "[relieved] The Ventura aircrew got the trapped man out of the wrecked sailboat.",
   "location_card": {
     "place": "Coronado, California",
     "date": "Oct. 11, 2026"
   },
   "segments": [
     {
-      "start": 2.0,
-      "end": 14.0,
+      "start": 43,
+      "end": 46.5,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
-      "start": 16.5,
-      "end": 30.0,
+      "start": 2,
+      "end": 5.5,
       "layout": "crop",
-      "crop_x": 0.45
+      "crop_x": 0.5
     },
     {
-      "start": 30.0,
+      "start": 6,
+      "end": 9.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 9.5,
+      "end": 13.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 17,
+      "end": 20.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 20.5,
+      "end": 24,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 24,
+      "end": 27.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 29,
+      "end": 32.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 33,
+      "end": 36.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 36.5,
       "end": 40.5,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
-      "start": 42.0,
-      "end": 49.0,
+      "start": 50,
+      "end": 54,
       "layout": "crop",
-      "crop_x": 0.5
+      "crop_x": 0.55
     },
     {
-      "start": 50.0,
-      "end": 59.0,
+      "start": 54,
+      "end": 58.5,
       "layout": "crop",
       "crop_x": 0.55
     }
   ],
   "keep_source_audio": true,
-  "title": "He was trapped inside a grounded sailboat",
+  "title": "Trapped inside a wrecked sailboat",
   "description": "A man was trapped aboard a sailboat that ran aground near Coronado, California, on Oct. 11, 2026. A Coast Guard Air Station Ventura aircrew rescued him after the rescue swimmer tore open part of the cabin roof to reach him.\n\nFootage: U.S. Coast Guard courtesy video, Air Station Ventura, via DVIDS: https://www.dvidshub.net/video/1026132\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #sandiego",
   "tags": [
     "coast guard rescue",
@@ -74,6 +115,6 @@
       "source_quote": "The rescue swimmer tore open part of the cabin's roof to gain access to the trapped man"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "hold": true
 }

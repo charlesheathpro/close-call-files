@@ -5,44 +5,97 @@
   "story_type": "stranded on rocks",
   "hook": "Their boat was sinking. The jetty was all they had.",
   "narration": [
-    "Their boat began taking on water in the Coquille River in Oregon, and two people ended up stranded on the rocks of the South Jetty.",
-    "A Dolphin helicopter crew from Coast Guard Air Station North Bend came in over the jetty.",
-    "Jetties are hard places to reach. Waves surge between the rocks, so a boat cannot safely pull alongside.",
-    "From the air, the crew can lower a basket straight down to the people on the rocks."
+    "[tense, urgent] Their boat was taking on water, [short pause] and two people ended up stranded on the jetty rocks.",
+    "[calm documentary narrator] This is the South Jetty on Oregon's Coquille River. Waves surge between the rocks, so a boat can't get close.",
+    "[building energy] So a Dolphin crew from Air Station North Bend came from above and sent the swimmer and the basket straight down."
   ],
-  "outcome": "The North Bend crew hoisted both people off the jetty rocks.",
+  "outcome": "[relieved] The North Bend crew hoisted both people off the jetty rocks.",
   "location_card": {
     "place": "Coquille River, Oregon",
     "date": "Aug. 3, 2026"
   },
   "segments": [
     {
+      "start": 15.5,
+      "end": 19.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
       "start": 0.3,
-      "end": 9.0,
+      "end": 4,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
-      "start": 9.0,
-      "end": 22.0,
+      "start": 4,
+      "end": 8,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
-      "start": 22.0,
-      "end": 37.8,
+      "start": 9,
+      "end": 12.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 22,
+      "end": 25.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 25.5,
+      "end": 29,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 29,
+      "end": 32.5,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 32.5,
+      "end": 37.5,
       "layout": "crop",
       "crop_x": 0.5
     },
     {
       "start": 39.5,
-      "end": 50.5,
+      "end": 43,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 43,
+      "end": 47,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 47,
+      "end": 50.8,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "layout": "crop",
+      "crop_x": 0.5
+    },
+    {
+      "start": 56,
+      "end": 60,
       "layout": "crop",
       "crop_x": 0.5
     }
   ],
   "keep_source_audio": true,
-  "title": "Their boat sank and the jetty rocks were all they had",
+  "title": "Stranded on jetty rocks as boat sank",
   "description": "Two people were stranded on the rocks of the South Jetty in Oregon's Coquille River after their boat began taking on water on Aug. 3, 2026. An MH-65 Dolphin crew from Coast Guard Air Station North Bend hoisted them off the rocks.\n\nFootage: U.S. Coast Guard video courtesy of Air Station North Bend, via DVIDS: https://www.dvidshub.net/video/1017405\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #oregon",
   "tags": [
     "coast guard rescue",
@@ -64,6 +117,6 @@
       "source_quote": "A MH-65 Dolphin helicopter crew from U.S. Coast Guard Air Station North Bend conducts a hoist in the Coquille River Area"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "hold": true
 }

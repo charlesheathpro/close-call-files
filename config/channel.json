@@ -27,9 +27,14 @@
   "voice": {
     "engine": "elevenlabs",
     "voice_id": "nPczCjzI2devNBz1zQrb",
-    "model_id": "eleven_multilingual_v2",
-    "speed": 1.0,
-    "note": "Final voice chosen from samples. Kokoro fallback: engine kokoro, voice am_michael."
+    "voice_name": "Brian",
+    "model_id": "eleven_v4",
+    "single_take": true,
+    "voice_settings": {
+      "stability": 0.45,
+      "similarity_boost": 0.8
+    },
+    "note": "Chosen Oct 26 2026 for broad appeal. Audio tags in brackets shape delivery and are not spoken. Fallback: engine kokoro, voice am_michael."
   },
   "music_db_below_voice": 14,
   "source_audio_db_under_voice": -16,
