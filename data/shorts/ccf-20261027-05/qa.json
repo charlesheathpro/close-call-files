@@ -1,0 +1,13 @@
+{
+  "short_id": "ccf-20261027-05",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-27T15:30:00Z",
+  "score": 5,
+  "notes": "The surf under the stilt house is real danger, but the 366x274 FLIR source sits as a small, washed-out strip in the middle of a blurred frame for all 28 seconds, and line 3 plays over six seconds of a static wall. It would also be the fourth flooded-house rescue in a row after 01, 02 and 08.",
+  "fixes": [
+    "Find a higher-resolution copy of this rescue (DVIDS original file or a cited Coast Guard release with HD video); at 366x274 neither fit nor crop layout will look good on a phone, so drop the candidate if none exists.",
+    "If rebuilt, cut line 3 (12.0 to 18.3s) to two shots max on the static wall, or move the rescuer at the door (source 85.5 to 94.2) earlier so action shows by 12s.",
+    "Schedule it only after at least two non-flood Shorts have gone out (01, 02 and 08 are all flood or rooftop rescues)."
+  ]
+}
