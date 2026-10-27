@@ -16,8 +16,9 @@ import requests
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import (CANDIDATES, DATA, FONTS, WORK, config, copyright_flags, iso, load_json,  # noqa: E402
+from common import (CANDIDATES, DATA, FONTS, WORK, config, copyright_flags, ffprobe, iso, load_json,  # noqa: E402
                     media_duration, now_utc, run, safe_id, save_json)
+import sources  # noqa: E402
 
 API = "https://api.dvidshub.net"
 SEEN = DATA / "seen.json"
@@ -94,7 +95,7 @@ def pick_files(files):
 
 def download(url, dest):
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(url, stream=True, timeout=120) as r:
+    with requests.get(url, stream=True, timeout=120, headers=sources.UA) as r:
         r.raise_for_status()
         with open(dest, "wb") as f:
             for chunk in r.iter_content(1 << 20):
@@ -229,7 +230,9 @@ HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog
          (r"\b(surf|waves|heavy seas|storm)\b", 3), (r"\b(fire|burning|explosion)\b", 3),
          (r"\b(sinking|sank|capsiz|overturn|rollover)", 3), (r"\b(cliff|ice|stranded|trapped|clinging)\b", 3),
          (r"\b(hurricane|flood)", 2), (r"\b(rescue|rescues|hoist|saves|saved)\b", 2),
-         (r"\b(ejection|ejects|crash|arrest|barricade)", 3)]
+         (r"\b(ejection|ejects|crash|arrest|barricade)", 3),
+         (r"\b(lava|eruption|erupt|volcan|tornado|wildfire|avalanche|landslide|mudslide|tsunami|waterspout|lightning)", 3),
+         (r"\b(abort|anomaly|failure|explod|impact|splashdown|eye of|hurricane hunter|whiteout|blizzard)", 3)]
 
 
 def title_score(title):
@@ -239,7 +242,40 @@ def title_score(title):
     return sum(w for rx, w in HOOKS if re.search(rx, t, re.I))
 
 
+def analyze(sid, meta, best_src, small_src, best_info=None, srt_text=None):
+    """Download the small file once, transcribe, cut scenes, score drama and save the candidate."""
+    work = WORK / sid
+    work.mkdir(parents=True, exist_ok=True)
+    vid = download(small_src, work / "analysis.mp4")
+    duration = media_duration(vid)
+    transcript, source = [], "none"
+    if srt_text and "-->" in srt_text:
+        transcript, source = srt_to_segments(srt_text), "captions"
+    if not transcript:
+        transcript, source = transcribe(vid), "whisper"
+    start = float(meta.get("time_start") or 0)
+    times = frame_sheet(vid, CANDIDATES / f"{sid}.jpg", duration, start=start)
+    if not best_info:
+        v = next((st for st in ffprobe(vid)["streams"] if st["codec_type"] == "video"), {})
+        best_info = {"src": best_src, "width": v.get("width"), "height": v.get("height")}
+    cand = dict(meta)
+    cand.update({
+        "id": sid, "status": "new", "harvested_at": iso(), "duration": round(duration, 2), "time_start": start,
+        "source_file": best_info, "transcript_source": source, "transcript": transcript,
+        "scene_cuts": scene_cuts(vid), "drama_score": drama_score(vid, duration), "audio": loud_spans(vid),
+        "sheet": f"data/candidates/{sid}.jpg", "sheet_times": times,
+    })
+    save_json(CANDIDATES / f"{sid}.json", cand)
+    for f in work.glob("*"):
+        f.unlink()
+    return cand, None
+
+
 def process(asset_id, lane, query):
+    if asset_id.startswith("nasa:"):
+        return sources.process_nasa(asset_id, lane, query, analyze)
+    if asset_id.startswith("commons:"):
+        return sources.process_commons(asset_id, lane, query, analyze)
     a = asset(asset_id)
     if not a:
         return None, "asset lookup empty"
@@ -249,63 +285,27 @@ def process(asset_id, lane, query):
     best, small = pick_files(a.get("files"))
     if not best:
         return None, "no mp4 files"
-    work = WORK / safe_id(asset_id)
-    work.mkdir(parents=True, exist_ok=True)
-    vid = download(small["src"], work / "analysis.mp4")
-    duration = media_duration(vid)
-    transcript = []
-    source = "none"
+    srt_text = None
     srt = (a.get("closed_caption_urls") or {}).get("srt")
     if srt:
         try:
             r = requests.get(srt + ("" if "api_key=" in srt else f"&api_key={os.environ['DVIDS_API_KEY']}"), timeout=60)
-            if r.ok and "-->" in r.text:
-                transcript = srt_to_segments(r.text)
-                source = "dvids_captions"
+            srt_text = r.text if r.ok else None
         except requests.RequestException:
             pass
-    if not transcript:
-        transcript = transcribe(vid)
-        source = "whisper"
-    sid = safe_id(asset_id)
-    start = float(a.get("time_start") or 0)
-    times = frame_sheet(vid, CANDIDATES / f"{sid}.jpg", duration, start=start)
     loc = a.get("location") or {}
-    cand = {
-        "id": sid,
-        "asset_id": asset_id,
-        "status": "new",
-        "lane": lane,
-        "matched_query": query,
-        "harvested_at": iso(),
-        "title": a.get("title"),
-        "description": a.get("description"),
-        "keywords": a.get("keywords"),
-        "date": a.get("date"),
-        "date_published": a.get("date_published"),
-        "branch": a.get("branch"),
-        "unit_name": a.get("unit_name"),
-        "credit": credit_text(a.get("credit")),
-        "category": a.get("category"),
+    meta = {
+        "asset_id": asset_id, "source": "dvids", "lane": lane, "matched_query": query,
+        "title": a.get("title"), "description": a.get("description"), "keywords": a.get("keywords"),
+        "date": a.get("date"), "date_published": a.get("date_published"), "branch": a.get("branch"),
+        "unit_name": a.get("unit_name"), "credit": credit_text(a.get("credit")), "category": a.get("category"),
         "virin": a.get("virin"),
         "location": {k: loc.get(k) for k in ["city", "state", "country", "state_abbreviation", "country_abbreviation"]},
-        "page_url": a.get("url"),
-        "duration": round(duration, 2),
-        "time_start": start,
-        "source_file": {k: best.get(k) for k in ["src", "width", "height", "bitrate", "size"]},
-        "aspect_ratio": a.get("aspect_ratio"),
-        "transcript_source": source,
-        "transcript": transcript,
-        "scene_cuts": scene_cuts(vid),
-        "drama_score": drama_score(vid, duration),
-        "audio": loud_spans(vid),
-        "sheet": f"data/candidates/{sid}.jpg",
-        "sheet_times": times,
+        "page_url": a.get("url"), "via": "DVIDS", "license": "Public domain (U.S. government work)",
+        "time_start": float(a.get("time_start") or 0), "aspect_ratio": a.get("aspect_ratio"),
     }
-    save_json(CANDIDATES / f"{sid}.json", cand)
-    for f in work.glob("*"):
-        f.unlink()
-    return cand, None
+    return analyze(safe_id(asset_id), meta, best["src"], small["src"],
+                   {k: best.get(k) for k in ["src", "width", "height", "bitrate", "size"]}, srt_text)
 
 
 def prune(days=45):
@@ -341,7 +341,8 @@ def main():
     else:  # every daily run also takes one page from two rotating drama searches
         dq = cfg.get("drama_queries", [])
         day = int(now_utc().strftime("%j"))
-        queries = [(dq[(day * 2 + k) % len(dq)], None, 1) for k in range(2) if dq] + queries
+        n = min(cfg.get("daily_drama_queries", 12), len(dq))
+        queries = [(dq[(day * n + k) % len(dq)], None, 2) for k in range(n)] + queries
     for q, q_since, pages in queries:
         try:
             results = search(q, q_since, cfg, max_pages=pages)
@@ -353,15 +354,32 @@ def main():
             if aid and aid not in seen and aid not in found:
                 found[aid] = (q["lane"], q["q"], r.get("title"))
         print(f"{q['q']!r}: {len(results)} results, {len(found)} new so far")
+    # NASA and U.S. federal works on Wikimedia Commons
+    day = int(now_utc().strftime("%j"))
+    n_o = cfg.get("daily_other_queries", 4)
+    for src_name, fn in (("nasa", sources.search_nasa), ("commons", sources.search_commons)):
+        qs = cfg.get(f"{src_name}_queries", [])
+        if not qs:
+            continue
+        pick = qs if (args.archive or first) else [qs[(day * n_o + k) % len(qs)] for k in range(min(n_o, len(qs)))]
+        for q in pick:
+            try:
+                for aid, title in fn(q["q"]):
+                    if aid not in seen and aid not in found:
+                        found[aid] = (q["lane"], q["q"], title)
+            except Exception as e:
+                print(f"{src_name} query {q['q']!r} failed: {e}")
+        print(f"after {src_name}: {len(found)} new so far")
     # drop routine footage by title, then strongest stories first
     for aid in [a for a, v in found.items() if title_score(v[2]) < 0]:
         seen[aid] = {"at": iso(), "result": "routine title"}
         found.pop(aid)
     found = dict(sorted(found.items(), key=lambda kv: -title_score(kv[1][2])))
-    # interleave lanes so every lane gets a share of the run
+    # interleave lanes and sources so each gets a share of the run
     by_lane = {}
     for aid, v in found.items():
-        by_lane.setdefault(v[0], []).append((aid, v))
+        src = aid.split(":", 1)[0] if aid.startswith(("nasa:", "commons:")) else "dvids"
+        by_lane.setdefault((v[0], src), []).append((aid, v))
     mixed = []
     while any(by_lane.values()):
         for lane in list(by_lane):
@@ -375,8 +393,12 @@ def main():
         return
 
     done = errors = streak = 0
+    t0, budget = time.time(), float(os.environ.get("HARVEST_MINUTES", 0)) * 60
     for aid, (lane, q, title) in found.items():
         if done >= limit:
+            break
+        if budget and time.time() - t0 > budget:
+            print("time budget used up; the rest waits for the next run")
             break
         try:
             cand, why = process(aid, lane, q)

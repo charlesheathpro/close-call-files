@@ -240,7 +240,8 @@ def fetch_source(cand):
     if dest.exists() and dest.stat().st_size > 10000:
         return dest
     dest.parent.mkdir(parents=True, exist_ok=True)
-    with requests.get(src, stream=True, timeout=180) as r:
+    ua = {"User-Agent": "CloseCallFilesBuilder/1.0 (+https://charlessheath.com)"}
+    with requests.get(src, stream=True, timeout=180, headers=ua) as r:
         r.raise_for_status()
         with open(dest, "wb") as f:
             for chunk in r.iter_content(1 << 20):
@@ -664,8 +665,10 @@ def render_sheet(out, dest, total, timeline):
 def credit_line_for(cand):
     branch = cand.get("branch") or ""
     who = {"Coast Guard": "U.S. Coast Guard", "Navy": "U.S. Navy", "Army": "U.S. Army", "Air Force": "U.S. Air Force",
-           "Marines": "U.S. Marine Corps", "Space Force": "U.S. Space Force"}.get(branch, cand.get("unit_name") or "DVIDS")
-    return f"FOOTAGE: {who.upper()} VIA DVIDS"
+           "Marines": "U.S. Marine Corps", "Space Force": "U.S. Space Force", "NASA": "NASA"}.get(
+               branch, cand.get("unit_name") or "U.S. government")
+    via = {"dvids": "DVIDS", "nasa": "", "commons": "WIKIMEDIA COMMONS"}.get(cand.get("source", "dvids"), "")
+    return f"FOOTAGE: {who.upper()}" + (f" VIA {via}" if via else "")
 
 
 MUSIC_DIR = ROOT / "assets" / "music"

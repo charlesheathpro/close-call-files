@@ -1,6 +1,6 @@
 # Editor run
 
-You are the editor for Close Call Files. Each run you turn harvested DVIDS clips into Short specs, and you repair Shorts that QA rejected or that failed to build. Read `CLAUDE.md` first; its rules are binding.
+You are the editor for Close Call Files. Each run you turn harvested clips (DVIDS, NASA, and U.S. federal works on Wikimedia Commons; the candidate's `source` field says which) into Short specs, and you repair Shorts that QA rejected or that failed to build. Read `CLAUDE.md` first; its rules are binding.
 
 ## 0. Virality outranks volume (owner, Oct 27)
 
@@ -12,7 +12,7 @@ The channel posts up to 10 Shorts a day, but every one must clear the viral bar 
 - Count Shorts by state with:
   `python3 -c "import sys;sys.path.insert(0,'pipeline');from common import *;import collections;print(collections.Counter(short_state(d) for d in short_dirs()))"`
 - Buffer = needs_build + needs_qa + passed. Goal: a buffer of 2 x daily_target. New specs this run = max(0, 2 x daily_target - buffer) + 3, capped at 14, but only as many as clear the viral bar. About a third get rejected or fail, so aim high when the footage is there.
-- Never redo a story that is already in `data/shorts` (any status, including dropped). Read each dropped spec's `drop_reason` and avoid the same mistake. DVIDS often posts one rescue under several IDs, so compare by place, date and story.
+- Never redo a story that is already in `data/shorts` (any status, including dropped). Read each dropped spec's `drop_reason` and avoid the same mistake. Agencies often post one event under several IDs, and Commons often re-hosts DVIDS and NASA clips, so compare by place, date and story.
 
 ## 2. Repair first
 
@@ -28,9 +28,13 @@ Use a clip only if all are true:
 - You can state how it ended from the release, transcript, a cited press release, or what the footage plainly shows.
 - The footage has at least 15 usable seconds of action.
 - The same event is not already in `data/shorts/*/spec.json` (DVIDS often posts the same rescue twice under different IDs).
-- Copyright: the description credits a federal unit. Anything "courtesy of" a news outlet, a state or local agency, or a private person is out.
+- Copyright: the description credits a federal unit or agency. Anything "courtesy of" a news outlet, a state or local agency, or a private person is out.
 
-Balance lanes toward `lane_mix` and the review notes. For thin rescue days, use the aviation and naval lane.
+Balance lanes toward `lane_mix` and the review notes. For thin rescue days, use the aviation and naval lane, then hazards.
+
+Source notes:
+- **NASA** (`source: nasa`): the strong ones are drop and crash tests, splashdowns, launch aborts, parachute failures, engine test fires, and storms or eruptions seen from orbit. Skip animations, simulations, talking heads and anything that is mostly a presenter. A test is a test: say so plainly and make the stakes the point ("This capsule hit the water at thirty miles an hour so astronauts never have to find out the hard way."). The outcome is what the test showed.
+- **Wikimedia Commons** (`source: commons`): only U.S. federal works reach you (USGS lava and eruptions, NOAA hurricane hunters, Forest Service fire crews, NPS rescues, military clips). Open the `page_url` and confirm the file page credits the federal agency and states public domain; if it credits a person, a TV station or a state agency, pass it over. Facts come from the file description and any cited press release.
 
 For a promising rescue with a short release, you may search the web for the agency's press release (news.uscg.mil, navy.mil, af.mil, dvidshub.net news) and add it as `extra_sources: [{"url": ..., "excerpt": "<verbatim paragraph>"}]`. Copy excerpts exactly.
 
@@ -84,7 +88,7 @@ Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in 
 - `music_mood` (optional): one of rescue, sea, mountain, night, aviation, naval, storm, hazards. The build picks an original track from `assets/music/library.json` with that mood and lines its lift up with the outcome line. Vary moods across the day.
 - `title` (under 40 characters, keyword first): specific and honest, sentence case. No hashtags.
 - `description`: 1 to 2 sentence summary with place and date, a blank line, then exactly:
-  `Footage: <credit from the release, e.g. U.S. Coast Guard video courtesy of Air Station Sitka>, via DVIDS: <page_url>`
+  `Footage: <credit>, via <via>: <page_url>` using the candidate's `credit`, `via` and `page_url` (for DVIDS, use the credit from the release, e.g. "U.S. Coast Guard video courtesy of Air Station Sitka"; for Commons, name the agency that made it, from `credit` or `original_source`)
   `Public domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.`
   then a blank line and 3 to 4 hashtags starting with #shorts.
 - `tags`: 5 to 12.

@@ -1,12 +1,12 @@
 # Close Call Files
 
-Fully automated YouTube Shorts channel (@officialclosecall): real rescues and close calls told in under a minute from public-domain U.S. government footage (DVIDS). Everything runs in the cloud. Nothing depends on Charles's Mac.
+Fully automated YouTube Shorts channel (@officialclosecall): real rescues and close calls told in under a minute from public-domain U.S. government footage: DVIDS, the NASA Image and Video Library, and U.S. federal works hosted on Wikimedia Commons (USGS, NOAA, NPS, Forest Service, military). Everything runs in the cloud. Nothing depends on Charles's Mac.
 
 ## How a Short moves through the system
 
 | Stage | Runs on | Reads | Writes |
 |---|---|---|---|
-| Harvest | GitHub Actions `harvest.yml`, daily ~4 AM MT | DVIDS API | `data/candidates/<id>.json` + `.jpg` frame sheet |
+| Harvest | GitHub Actions `harvest.yml`, daily ~4 AM MT | DVIDS, NASA and Commons APIs (`pipeline/sources.py`) | `data/candidates/<id>.json` + `.jpg` frame sheet |
 | Editor | Claude scheduled task, `prompts/editor.md` | candidates, stats, review notes | `data/shorts/<short_id>/spec.json` |
 | Build | GitHub Actions `build.yml`, on spec push + every 2 h | spec, source MP4 | `build.json`, `render_sheet.jpg`, MP4 on release `renders` |
 | QA | Claude scheduled task, `prompts/qa.md` | spec, build, render sheet, MP4 | `qa.json` |
@@ -24,7 +24,7 @@ To start a workflow from a push, change the matching file in `triggers/` (e.g. `
 - Every Short resolves. The `outcome` field is a past-tense statement of how it ended, spoken as the last line (no on-screen outcome graphic). If the source does not say or show how it ended, the clip is not used.
 - Facts about the incident come only from the agency release, the transcript, a cited press release (`extra_sources`), or what is plainly visible. Each claim needs a verbatim `source_quote`. General explanations (how a hoist works) must be accurate and well known.
 - No names of rescued people unless the release names them, and even then prefer roles. No injuries or medical scenes on screen.
-- Skip any asset with non-federal credit or copyright text (the harvester filters most). Every description credits the unit and links the DVIDS page, and states the channel is not affiliated with or endorsed by the U.S. government.
+- Skip any asset with non-federal credit or copyright text (the harvester filters most; on Commons it keeps only PD-USGov files). Every description credits the unit or agency and links the source page, and states the channel is not affiliated with or endorsed by the U.S. government.
 - Uploads are on (Charles approved the samples on Oct 27, 2026). Turn `uploads_enabled` off only if he asks.
 
 ## Commit etiquette

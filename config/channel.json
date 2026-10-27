@@ -47,7 +47,7 @@
   "harvest": {
     "first_run_backfill_days": 180,
     "lookback_days": 10,
-    "max_new_per_run": 40,
+    "max_new_per_run": 60,
     "backfill_pages": 6,
     "daily_pages": 2,
     "min_duration": 15,
@@ -302,18 +302,672 @@
       {
         "lane": "hazards",
         "q": "waterspout"
+      },
+      {
+        "lane": "rescue",
+        "q": "helmet camera"
+      },
+      {
+        "lane": "rescue",
+        "q": "helmet cam rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "hoist camera"
+      },
+      {
+        "lane": "rescue",
+        "q": "hoist cam"
+      },
+      {
+        "lane": "rescue",
+        "q": "rescue swimmer camera"
+      },
+      {
+        "lane": "rescue",
+        "q": "aviation survival technician"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Ian"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Harvey"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Maria"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Katrina"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Sandy"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Michael"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Dorian"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Idalia"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Laura"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Ida"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Irma"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Matthew"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Beryl"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hurricane Debby"
+      },
+      {
+        "lane": "rescue",
+        "q": "flash flood rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "swift water rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "Texas flood rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "Kentucky flood"
+      },
+      {
+        "lane": "rescue",
+        "q": "Vermont flood"
+      },
+      {
+        "lane": "rescue",
+        "q": "Hawaii flood"
+      },
+      {
+        "lane": "rescue",
+        "q": "avalanche rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "mountain rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "glacier rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "Alaska rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "Arctic rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "ice floe"
+      },
+      {
+        "lane": "rescue",
+        "q": "overdue hunters"
+      },
+      {
+        "lane": "rescue",
+        "q": "medevac at sea"
+      },
+      {
+        "lane": "rescue",
+        "q": "fishing vessel sinking"
+      },
+      {
+        "lane": "rescue",
+        "q": "vessel capsized"
+      },
+      {
+        "lane": "rescue",
+        "q": "boat overturned"
+      },
+      {
+        "lane": "rescue",
+        "q": "life raft"
+      },
+      {
+        "lane": "rescue",
+        "q": "man overboard"
+      },
+      {
+        "lane": "rescue",
+        "q": "clinging"
+      },
+      {
+        "lane": "rescue",
+        "q": "surfer rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "kayaker rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "paddleboarder"
+      },
+      {
+        "lane": "rescue",
+        "q": "jet ski rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "rip current"
+      },
+      {
+        "lane": "rescue",
+        "q": "beach rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "cliff fall"
+      },
+      {
+        "lane": "rescue",
+        "q": "stranded hikers"
+      },
+      {
+        "lane": "rescue",
+        "q": "trapped vehicle flood"
+      },
+      {
+        "lane": "rescue",
+        "q": "car in water"
+      },
+      {
+        "lane": "rescue",
+        "q": "rooftop"
+      },
+      {
+        "lane": "rescue",
+        "q": "attic"
+      },
+      {
+        "lane": "rescue",
+        "q": "nursing home evacuation"
+      },
+      {
+        "lane": "rescue",
+        "q": "hospital evacuation"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "emergency landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "bird strike"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "engine fire"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "close call"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "near miss"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "tailhook"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "night carrier landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "heavy weather"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "green water"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "rogue wave"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "crash recovery"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "pilot rescue"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "ditching"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "parachute rescue"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "HALO jump"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "pararescue jump"
+      },
+      {
+        "lane": "hazards",
+        "q": "volcano eruption"
+      },
+      {
+        "lane": "hazards",
+        "q": "Kilauea"
+      },
+      {
+        "lane": "hazards",
+        "q": "lava"
+      },
+      {
+        "lane": "hazards",
+        "q": "wildfire"
+      },
+      {
+        "lane": "hazards",
+        "q": "Lahaina"
+      },
+      {
+        "lane": "hazards",
+        "q": "Maui fire"
+      },
+      {
+        "lane": "hazards",
+        "q": "Palisades fire"
+      },
+      {
+        "lane": "hazards",
+        "q": "Camp Fire"
+      },
+      {
+        "lane": "hazards",
+        "q": "tornado"
+      },
+      {
+        "lane": "hazards",
+        "q": "derecho"
+      },
+      {
+        "lane": "hazards",
+        "q": "landslide"
+      },
+      {
+        "lane": "hazards",
+        "q": "mudslide"
+      },
+      {
+        "lane": "hazards",
+        "q": "earthquake"
+      },
+      {
+        "lane": "hazards",
+        "q": "tsunami"
+      },
+      {
+        "lane": "hazards",
+        "q": "blizzard rescue"
+      },
+      {
+        "lane": "hazards",
+        "q": "ice storm"
       }
     ],
-    "drama_pages": 2
+    "drama_pages": 4,
+    "nasa_queries": [
+      {
+        "lane": "aviation_naval",
+        "q": "drop test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "crash test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "launch abort"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "pad abort"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "parachute test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "splashdown"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "water impact test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "engine test fire"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "hot fire test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "ejection seat"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "X-59"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "flight test"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "sonic boom"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "rocket landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "booster recovery"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "SpaceX recovery"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "Orion recovery"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "astronaut rescue training water"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "Artemis splashdown"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "spacewalk"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "ISS docking"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "Dragon docking"
+      },
+      {
+        "lane": "hazards",
+        "q": "hurricane from space"
+      },
+      {
+        "lane": "hazards",
+        "q": "tornado"
+      },
+      {
+        "lane": "hazards",
+        "q": "wildfire"
+      },
+      {
+        "lane": "hazards",
+        "q": "volcano eruption"
+      },
+      {
+        "lane": "hazards",
+        "q": "lightning"
+      },
+      {
+        "lane": "hazards",
+        "q": "flood from space"
+      },
+      {
+        "lane": "hazards",
+        "q": "dust storm"
+      },
+      {
+        "lane": "hazards",
+        "q": "blizzard"
+      },
+      {
+        "lane": "hazards",
+        "q": "tsunami"
+      },
+      {
+        "lane": "hazards",
+        "q": "landslide"
+      },
+      {
+        "lane": "hazards",
+        "q": "iceberg"
+      },
+      {
+        "lane": "hazards",
+        "q": "hurricane hunter"
+      },
+      {
+        "lane": "hazards",
+        "q": "storm chasing"
+      },
+      {
+        "lane": "hazards",
+        "q": "severe weather"
+      }
+    ],
+    "commons_queries": [
+      {
+        "lane": "hazards",
+        "q": "lava USGS"
+      },
+      {
+        "lane": "hazards",
+        "q": "Kilauea eruption"
+      },
+      {
+        "lane": "hazards",
+        "q": "volcano eruption USGS"
+      },
+      {
+        "lane": "hazards",
+        "q": "lahar"
+      },
+      {
+        "lane": "hazards",
+        "q": "pyroclastic"
+      },
+      {
+        "lane": "hazards",
+        "q": "NOAA hurricane hunter"
+      },
+      {
+        "lane": "hazards",
+        "q": "hurricane eye flight"
+      },
+      {
+        "lane": "hazards",
+        "q": "tornado NOAA"
+      },
+      {
+        "lane": "hazards",
+        "q": "waterspout"
+      },
+      {
+        "lane": "hazards",
+        "q": "wildfire Forest Service"
+      },
+      {
+        "lane": "hazards",
+        "q": "smokejumper"
+      },
+      {
+        "lane": "hazards",
+        "q": "hotshot crew fire"
+      },
+      {
+        "lane": "hazards",
+        "q": "fire tornado"
+      },
+      {
+        "lane": "hazards",
+        "q": "avalanche control"
+      },
+      {
+        "lane": "hazards",
+        "q": "flood National Guard"
+      },
+      {
+        "lane": "hazards",
+        "q": "glacier calving"
+      },
+      {
+        "lane": "hazards",
+        "q": "iceberg rollover"
+      },
+      {
+        "lane": "hazards",
+        "q": "tsunami"
+      },
+      {
+        "lane": "hazards",
+        "q": "mudslide"
+      },
+      {
+        "lane": "hazards",
+        "q": "lightning strike"
+      },
+      {
+        "lane": "rescue",
+        "q": "Coast Guard rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "helicopter hoist rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "swiftwater rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "flood rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "National Park Service rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "cliff rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "Border Patrol rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "ice rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "cave rescue"
+      },
+      {
+        "lane": "rescue",
+        "q": "FEMA urban search and rescue"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "carrier landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "arrested landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "ship heavy seas"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "icebreaker"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "bird strike"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "emergency landing"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "aircraft fire"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "ejection"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "refueling"
+      },
+      {
+        "lane": "aviation_naval",
+        "q": "plane crash test FAA"
+      }
+    ],
+    "daily_drama_queries": 12,
+    "daily_other_queries": 4
   },
   "mix": {
-    "music_lufs": -25,
-    "location_lufs": -30,
+    "music_lufs": -27,
+    "location_lufs": -32,
     "resolve_lead": 0.15,
-    "note": "Voice is normalized to -16 LUFS before the mix; music and location sound sit under it and duck while he talks. Final master -14 LUFS, true peak about -1.5 dB.",
+    "note": "Voice sits about 2 dB more forward than the first mix (owner, Oct 27): music -27 LUFS and location sound -32 LUFS under a -16 LUFS voice before the -14 LUFS master.",
     "voice_room": true,
     "room_delays": "28|47|71|103|149",
-    "room_decays": "0.16|0.12|0.09|0.06|0.04",
+    "room_decays": "0.13|0.095|0.07|0.045|0.03",
     "room_note": "Subtle big-room echo on the narrator (owner, Oct 27). Raise the decays a little for more room, lower for drier."
   },
   "uploads_enabled_at": "2026-10-27T07:41:56Z"

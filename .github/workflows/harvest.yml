@@ -14,7 +14,7 @@ concurrency: { group: harvest, cancel-in-progress: false }
 jobs:
   harvest:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 200
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,8 +23,12 @@ jobs:
       - uses: actions/cache@v4
         with: { path: ~/.cache/huggingface, key: whisper-base-en-v1 }
       - run: pip install requests pillow numpy faster-whisper
-      - run: python pipeline/harvest.py ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
+      - run: |
+          extra=""
+          grep -qi archive triggers/harvest 2>/dev/null && [ "${{ github.event_name }}" = "push" ] && extra="--archive"
+          python pipeline/harvest.py $extra ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
         env:
           DVIDS_API_KEY: ${{ secrets.DVIDS_API_KEY }}
           CCF_WORK: ${{ runner.temp }}/ccf
+          HARVEST_MINUTES: "170"
       - run: bash scripts/commit.sh "Harvest $(date -u +%Y-%m-%d)"
