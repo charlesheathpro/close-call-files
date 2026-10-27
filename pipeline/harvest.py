@@ -318,21 +318,28 @@ def main():
             print(lane, aid, title)
         return
 
-    done = 0
+    done = errors = streak = 0
     for aid, (lane, q, title) in found.items():
         if done >= limit:
             break
         try:
             cand, why = process(aid, lane, q)
+            streak = 0
         except Exception as e:
-            cand, why = None, f"error: {e}"[:300]
+            errors += 1
+            streak += 1
+            print(f"ERROR {aid} {title!r}: {e}"[:400])
+            if streak >= 5:
+                print("5 errors in a row; stopping so nothing gets wrongly marked as seen")
+                break
+            continue  # errors are retried next run, never marked seen
         seen[aid] = {"at": iso(), "result": "candidate" if cand else why}
         print(("OK   " if cand else "SKIP ") + f"{aid} {title!r} {why or ''}")
         if cand:
             done += 1
         save_json(SEEN, seen)
     prune()
-    save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "unseen_found": len(found)})
+    save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors, "unseen_found": len(found)})
 
 
 if __name__ == "__main__":

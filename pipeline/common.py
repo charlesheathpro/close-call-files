@@ -87,7 +87,10 @@ FEDERAL_WORDS = re.compile(
     r"air station|sector|district|cutter|uss\b|uscgc|squadron|wing\b|battalion|regiment|brigade|command|fleet|"
     r"base\b|public affairs|department of|dod\b|dvids|nasa|noaa|usgs|fema|joint task force|station\b|division|"
     r"corps|group\b|detachment|airlift|carrier|strike group|task force", re.IGNORECASE)
-_COURTESY_RE = re.compile(r"courtesy(?: of)?\s+([^)\n;]{0,80})", re.IGNORECASE)
+_COURTESY_RE = re.compile(r"courtesy", re.IGNORECASE)
+RANKS = re.compile(r"\b(?:pfc|pvt|spc|sgt|ssgt|cpl|lt|capt|maj|col|cmdr|cdr|lcdr|ens|ensign|seaman|airman|"
+                   r"petty officer|chief|mc[1-3]|mcs[an]|senior airman|staff sgt|tech\. sgt|aircrew|crew|unit)\b",
+                   re.IGNORECASE)
 
 
 def copyright_flags(*texts):
@@ -99,9 +102,13 @@ def copyright_flags(*texts):
             hits.add(m.group(0).lower())
         # "courtesy of X" is fine when X is a federal unit, a red flag otherwise
         for m in _COURTESY_RE.finditer(t):
-            who = m.group(1).strip()
-            if who and not FEDERAL_WORDS.search(who):
-                hits.add("courtesy of " + who.lower()[:40])
+            # the parenthetical or sentence around the word decides
+            a = max(t.rfind("(", 0, m.start()), t.rfind(". ", 0, m.start()), t.rfind("\n", 0, m.start()))
+            ends = [i for i in (t.find(")", m.end()), t.find(". ", m.end()), t.find("\n", m.end())) if i != -1]
+            b = min(ends) if ends else len(t)
+            ctx = t[a + 1:b]
+            if not (FEDERAL_WORDS.search(ctx) or RANKS.search(ctx)):
+                hits.add("courtesy: " + ctx.strip().lower()[:60])
     return sorted(hits)
 
 
