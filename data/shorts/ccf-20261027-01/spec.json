@@ -40,18 +40,12 @@
       "source_quote": "The family's neighborhood was inundated by severe flooding affecting the area"
     }
   ],
-  "revision": 4,
+  "revision": 7,
   "line_shots": [
     [
       {
-        "start": 58,
-        "end": 60.5,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
-        "start": 64.5,
-        "end": 67,
+        "start": 57.3,
+        "end": 61.6,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -59,19 +53,19 @@
     [
       {
         "start": 5.5,
-        "end": 7.8,
+        "end": 9.1,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 9.5,
-        "end": 11.8,
+        "end": 13.1,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 21.5,
-        "end": 23.8,
+        "end": 25.1,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -79,13 +73,13 @@
     [
       {
         "start": 17.8,
-        "end": 20.3,
+        "end": 21.4,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 22.3,
-        "end": 24.8,
+        "end": 25.9,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -93,13 +87,13 @@
     [
       {
         "start": 14,
-        "end": 16.3,
+        "end": 17.6,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 30,
-        "end": 32.3,
+        "end": 33.6,
         "layout": "fit",
         "crop_x": 0.5
       },
@@ -111,7 +105,7 @@
       },
       {
         "start": 42,
-        "end": 44.3,
+        "end": 45.6,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -119,22 +113,23 @@
     [
       {
         "start": 50.5,
-        "end": 52.8,
+        "end": 54.1,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 54,
-        "end": 56.3,
+        "end": 57.6,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
         "start": 56,
-        "end": 58,
+        "end": 59.6,
         "layout": "fit",
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "hold": true
 }

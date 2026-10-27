@@ -18,7 +18,7 @@ def plain(t):
 
 
 LANES = {"rescue", "aviation_naval", "hazards"}
-WORDS_PER_SEC = 2.85  # Brian on v4 reads about 170 words a minute
+WORDS_PER_SEC = 2.9  # Brian on v4 measured at 166 to 176 words a minute
 
 
 def norm(s):
@@ -123,12 +123,13 @@ def validate(spec_path):
                 errors.append(f"line {i + 1}: give it at least one shot")
                 continue
             need = len(plain(line).split()) / WORDS_PER_SEC + 0.25
-            have = sum(max(float(x["end"]) - float(x["start"]), 0) for x in shots) / 0.7
+            have = sum(max(float(x["end"]) - float(x["start"]), 0) for x in shots) / 0.9
             if have < need:
                 errors.append(f"line {i + 1}: shots cover about {have * 0.7:.1f}s but the line takes about {need:.1f}s")
             share = need / len(shots)
-            if share > 3.2:
-                warnings.append(f"line {i + 1}: each shot holds about {share:.1f}s; add a shot so cuts land every 1.5 to 2.5s")
+            short = [x for x in shots if float(x["end"]) - float(x["start"]) < 2.0]
+            if short:
+                warnings.append(f"line {i + 1}: shots under 2 seconds feel jumpy; use 2.2 to 3 second shots")
         flat = [x for shots in ls for x in shots]
     else:
         flat = spec["segments"]

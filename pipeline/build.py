@@ -291,7 +291,7 @@ def segment_filter(seg, sw, sh, crop=None):
         layout = "crop" if portrait else "fit"
     pts = (f"crop={crop}," if crop else "") + f"setpts=(PTS-STARTPTS)/{speed}"
     dur = float(seg.get("_dur") or 0)
-    push = float(seg.get("push", 0.06)) if dur else 0.0  # slow push-in across the shot
+    push = float(seg.get("push", 0.0)) if dur else 0.0  # off by default: per-frame rescaling looked shaky (owner, Oct 27)
     grow = f"(1+{push}*min(t/{dur:.3f},1))" if push else "1"
     if layout == "crop":
         cx = float(seg.get("crop_x", 0.5))
@@ -703,6 +703,8 @@ def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
     fc = [f"[0:a]atrim=0:{total},asetpts=PTS-STARTPTS,highpass=f=85,"
           "equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.0:g=2.5,"
           "acompressor=threshold=-20dB:ratio=3:attack=6:release=90:makeup=2,"
+          + (f"aecho=1.0:1.0:{mixcfg.get('room_delays', '28|47|71|103|149')}:{mixcfg.get('room_decays', '0.16|0.12|0.09|0.06|0.04')},"
+             if mixcfg.get("voice_room", True) else "") +
           "loudnorm=I=-16:TP=-2:LRA=6,aformat=channel_layouts=stereo,asplit=3[vo][k1][k2]"]
     beds = []
     if keep_src:
@@ -738,27 +740,43 @@ def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
     return final
 
 
+MIN_SHOT = 2.2      # seconds; shorter cuts read as jumpy (owner, Oct 27)
+MIN_SPEED = 0.9     # slower than this stutters
+
+
 def plan_shots(spec, timeline, total):
-    """Give every narration line its own shots, cut to that line's exact time window.
+    """Give every narration line its own shots, cut to that line's time window.
 
     Window i runs from line i's first word to line i+1's first word (line 0 from 0,
-    the last line to the end). Each shot in the window gets an equal share; a shot
-    shorter than its share is slowed down a little (never below 0.7x)."""
+    the last line to the end). A line uses as many of its listed shots as fit at
+    MIN_SHOT seconds each, in order, with equal shares. Shots are never slowed
+    below MIN_SPEED; if a shot is too short the line uses fewer, longer shots."""
     starts = [0.0] + [t["start"] for t in timeline[1:]]
     ends = starts[1:] + [total]
     out = []
     for i, shots in enumerate(spec["line_shots"]):
         win = max(ends[i] - starts[i], 0.3)
-        share = win / len(shots)
-        for sh in shots:
-            sh = dict(sh)
+        lens = [float(x["end"]) - float(x["start"]) for x in shots]
+        best = None
+        for n in range(1, len(shots) + 1):
+            share = win / n + 0.08
+            if n > 1 and share < 1.5:
+                break
+            rest = sorted(range(1, len(shots)), key=lambda k: -lens[k])
+            pool = sorted([0] + rest[:n - 1])
+            if all(lens[k] / share >= MIN_SPEED for k in pool):
+                score = abs(share - 3.0) + 0.3 * n
+                if best is None or score < best[0]:
+                    best = (score, pool, share)
+        if best is None:
+            raise RuntimeError(f"line {i + 1}: shots are {', '.join(f'{x:.1f}' for x in lens)}s but the line needs "
+                               f"{win:.1f}s; give that line longer shots")
+        _, chosen, share = best
+        for k in chosen:
+            sh = dict(shots[k])
             avail = float(sh["end"]) - float(sh["start"])
-            speed = min(1.0, avail / (share + 0.08))
-            if speed < 0.7:
-                raise RuntimeError(f"line {i + 1}: shot {sh['start']}-{sh['end']} is {avail:.1f}s but needs {share:.1f}s; "
-                                   "give that line a longer shot or another shot")
-            sh["speed"] = round(speed, 3)
-            sh["_dur"] = round(share + 0.08, 3)  # a little extra; the final render trims to the exact length
+            sh["speed"] = round(min(1.0, avail / share), 3)
+            sh["_dur"] = round(share, 3)
             out.append(sh)
     return out
 

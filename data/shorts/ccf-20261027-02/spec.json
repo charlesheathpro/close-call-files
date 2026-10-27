@@ -53,18 +53,18 @@
       "source_quote": "I don't know if that dog would have made it otherwise"
     }
   ],
-  "revision": 4,
+  "revision": 6,
   "line_shots": [
     [
       {
         "start": 28.7,
-        "end": 31,
+        "end": 31.6,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
-        "start": 13.2,
-        "end": 14.9,
+        "start": 12.9,
+        "end": 16.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -72,7 +72,7 @@
     [
       {
         "start": 4,
-        "end": 6.3,
+        "end": 7.6,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -98,7 +98,7 @@
       },
       {
         "start": 4,
-        "end": 6.3,
+        "end": 7.6,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -106,13 +106,13 @@
     [
       {
         "start": 22.4,
-        "end": 24.5,
+        "end": 26.0,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
         "start": 24.5,
-        "end": 26.4,
+        "end": 28.1,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -120,36 +120,37 @@
     [
       {
         "start": 28.9,
-        "end": 31,
+        "end": 32.5,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
         "start": 31,
-        "end": 33,
+        "end": 34.6,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
         "start": 33,
-        "end": 35,
+        "end": 36.6,
         "layout": "crop",
         "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 35,
-        "end": 36.9,
+        "start": 34.6,
+        "end": 36.92,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
         "start": 26.4,
-        "end": 28.7,
+        "end": 28.91,
         "layout": "crop",
         "crop_x": 0.45
       }
     ]
-  ]
+  ],
+  "hold": true
 }

@@ -310,7 +310,11 @@
     "music_lufs": -25,
     "location_lufs": -30,
     "resolve_lead": 0.15,
-    "note": "Voice is normalized to -16 LUFS before the mix; music and location sound sit under it and duck while he talks. Final master -14 LUFS, true peak about -1.5 dB."
+    "note": "Voice is normalized to -16 LUFS before the mix; music and location sound sit under it and duck while he talks. Final master -14 LUFS, true peak about -1.5 dB.",
+    "voice_room": true,
+    "room_delays": "28|47|71|103|149",
+    "room_decays": "0.16|0.12|0.09|0.06|0.04",
+    "room_note": "Subtle big-room echo on the narrator (owner, Oct 27). Raise the decays a little for more room, lower for drier."
   },
   "uploads_enabled_at": "2026-10-27T07:41:56Z"
 }
