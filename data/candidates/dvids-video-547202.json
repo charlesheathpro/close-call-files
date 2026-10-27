@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:547202",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey rescue",
+  "title": "CBP BORSTAR Team Rescue Stranded Family",
+  "description": "CBP BORSTAR (Border Patrol Search, Trauma and Rescue Team) from Laredo Sector rescue stranded family in areas flooded by Hurricane Harvey",
+  "keywords": "Customs and Border Protection, Hurricane Harvey, cbpharvey",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-08-31T13:19:40-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Carmen Castro",
+  "category": "B-Roll",
+  "virin": "170831-A-CC123-003-CC",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547202/cbp-borstar-team-rescue-stranded-family",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 1.001,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547202",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:44:46Z",
+  "duration": 18.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104788097/DOD_104788097.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8366,
+    "size": 19441675
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.0,
+    1.03,
+    17.32,
+    17.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      17.4
+    ],
+    "silence_ends": [
+      1.1,
+      18.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547202.jpg",
+  "sheet_times": [
+    1.53,
+    2.58,
+    3.63,
+    4.68,
+    5.73,
+    6.78,
+    7.84,
+    8.89,
+    9.94,
+    10.99,
+    12.04,
+    13.09,
+    14.14,
+    15.2,
+    16.25,
+    17.3
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:623641",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard rescues 3 adults, 2 teenagers from capsized vessel near Crystal Beach, Texas",
+  "description": "A Station Galveston 45-foot Response Boat — Medium boat crew arrives on scene to transfer three adults and two teenagers from Coast Guard Cutter Sea Horse after their vessel capsized approximately 2 miles offshore of Crystal Beach, Texas, Sept. 8, 2018. Galveston County Sheriff's Office contacted Coast Guard Sector Houston-Galveston watchstanders to report a capsized vessel with five people clinging to the hull. U.S. Coast Guard photo by Coast Guard Cutter Sea Horse.",
+  "keywords": "rescue swimmer, capsize, CGC Sea Horse Station Galveston, search and rescue, Air Station Houston",
+  "date": "2018-09-08T00:00:00-04:00",
+  "date_published": "2018-09-08T13:13:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180908-G-G0108-1001",
+  "location": {
+    "city": "Crystal Beach",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/623641/coast-guard-rescues-3-adults-2-teenagers-capsized-vessel-near-crystal-beach-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-623641",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:39:42Z",
+  "duration": 43.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_105993958/DOD_105993958.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7470,
+    "size": 40949046
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    38.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      38.2
+    ],
+    "silence_ends": [
+      43.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-623641.jpg",
+  "sheet_times": [
+    1.33,
+    4.0,
+    6.66,
+    9.33,
+    11.99,
+    14.66,
+    17.32,
+    19.99,
+    22.65,
+    25.32,
+    27.98,
+    30.65,
+    33.31,
+    35.98,
+    38.65,
+    41.31
+  ]
+}

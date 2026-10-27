@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Supercomputer Simulation of Orion Spacecraft Launch Abort System",
+  "description": "This visualization, made from a simulation of the Pad Abort 1 flight test of Orion's Launch Abort System, helps researchers better understand the unsteady fluid dynamics in the plume of the system’s abort motors.  The simulation was performed on the NASA Advanced Supercomputing Division’s Electra supercomputer. Learn more: https://www.nasa.gov/image-feature/ames/predicting-extreme-acoustic-vibrations-to-keep-astronauts-safe-during-launch   Video credit: NASA/Ames Research Center/Timothy Sandstrom, Cetin Kiris, Francois Cadieux, Michael Barad",
+  "keywords": "nasa ames research center, nasa in silicon valley, nisv, science, space, rocket, sls, space launch system, orion, rocketship, capsule, launch abort, supercomputer, visualization, computer simulation, electra",
+  "date": "2020-01-09T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA ARC",
+  "credit": "NASA ARC video",
+  "page_url": "https://images.nasa.gov/details/ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:39:05Z",
+  "duration": 37.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb/ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 37.0,
+      "text": "[Silent. No sound on animation]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 35,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      37.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb.jpg",
+  "sheet_times": [
+    1.15,
+    3.45,
+    5.75,
+    8.05,
+    10.35,
+    12.65,
+    14.95,
+    17.25,
+    19.55,
+    21.85,
+    24.15,
+    26.45,
+    28.75,
+    31.05,
+    33.35,
+    35.65
+  ]
+}

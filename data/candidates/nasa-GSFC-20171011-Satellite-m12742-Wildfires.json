@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:GSFC_20171011_Satellite_m12742_Wildfires",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "NASA Satellites See Wildfires from Space",
+  "description": "As wildfires burn across California, NASA satellites help gather data about where the fires are and how smoke travels across the state.  The smoke from the fires is even visible a million miles away from Earth, captured by NASA's Earth Polychromatic Imaging Camera (EPIC) onboard NOAA's Deep Space Climate Observatory (DSCOVR).   The Terra spacecraft can see fires in both daylight and at night, helping aid firefighters in tracking and stopping the blazes.   NASA's unique vantage point in space helps better understand our home planet.",
+  "keywords": "Satellite, Terra, Earth, Wildfires, DSCOVR, EPIC",
+  "date": "2017-10-11T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20171011_Satellite_m12742_Wildfires",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20171011-Satellite-m12742-Wildfires",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:39:40Z",
+  "duration": 32.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20171011_Satellite_m12742_Wildfires/GSFC_20171011_Satellite_m12742_Wildfires~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.7,
+    17.17,
+    28.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      28.3
+    ],
+    "silence_ends": [
+      32.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20171011-Satellite-m12742-Wildfires.jpg",
+  "sheet_times": [
+    0.99,
+    2.96,
+    4.93,
+    6.91,
+    8.88,
+    10.85,
+    12.82,
+    14.8,
+    16.77,
+    18.74,
+    20.72,
+    22.69,
+    24.66,
+    26.63,
+    28.61,
+    30.58
+  ]
+}

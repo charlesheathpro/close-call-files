@@ -1,0 +1,61 @@
+{
+  "asset_id": "nasa:Launch Abort System Jettison - Two Views",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Artemis II Launch Abort System Jettison",
+  "description": "Two views of the jettison of the launch abort system from the Orion spacecraft during the Artemis II launch. The launch abort system jettisoned 3 minutes and 18 seconds after the mission lifted off from NASA's Kennedy Space Center in Florida. In the event of early ascent emergencies, the launch abort system would quickly pull Orion and the crew safely from the Space Launch System rocket. If needed for an abort, the launch abort system can accelerate from 0 to 500 mph in 2 seconds.",
+  "keywords": "",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "page_url": "https://images.nasa.gov/details/Launch%20Abort%20System%20Jettison%20-%20Two%20Views",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Launch-Abort-System-Jettison-Two-Views",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:38:47Z",
+  "duration": 12.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Launch%20Abort%20System%20Jettison%20-%20Two%20Views/Launch%20Abort%20System%20Jettison%20-%20Two%20Views~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.07,
+    6.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      12.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-Launch-Abort-System-Jettison-Two-Views.jpg",
+  "sheet_times": [
+    0.36,
+    1.08,
+    1.8,
+    2.52,
+    3.24,
+    3.96,
+    4.69,
+    5.41,
+    6.13,
+    6.85,
+    7.57,
+    8.29,
+    9.01,
+    9.73,
+    10.45,
+    11.17
+  ]
+}

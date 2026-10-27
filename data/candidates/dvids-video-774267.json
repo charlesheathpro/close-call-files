@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:774267",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues 3 people and 2 dogs from stranded boat near Concord",
+  "description": "A Coast Guard Air Station San Francisco air crew rescues three people and two dogs from a stranded sailing vessel near Concord, California, Nov. 25, 2020. The rescue occurred after the vessel ran aground near Seal Islands. ( U.S. Coast Guard video by Air Station San Francisco)",
+  "keywords": "Coast Guard, search and rescue, California",
+  "date": "2020-11-25T00:00:00-05:00",
+  "date_published": "2020-11-26T00:41:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "201125-G-G0211-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/774267/coast-guard-rescues-3-people-and-2-dogs-stranded-boat-near-concord",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-774267",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:37:46Z",
+  "duration": 148.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108078582/DOD_108078582.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10028,
+    "size": 186199406
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.44,
+    54.79,
+    91.36,
+    128.29,
+    130.43
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      148.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-774267.jpg",
+  "sheet_times": [
+    4.62,
+    13.87,
+    23.11,
+    32.35,
+    41.6,
+    50.84,
+    60.08,
+    69.33,
+    78.57,
+    87.81,
+    97.06,
+    106.3,
+    115.54,
+    124.79,
+    134.03,
+    143.27
+  ]
+}

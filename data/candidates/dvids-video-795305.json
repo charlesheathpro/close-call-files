@@ -1,0 +1,102 @@
+{
+  "asset_id": "video:795305",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava",
+  "title": "(B-Roll) Lava Dogs train at IPBC",
+  "description": "U.S. Marines with 1st Battalion, 3d Marine Regiment, conduct various training events during exercise Bougainville II at Pohakuloa Training Area, Hawaii, April 21-29, 2021. Bougainville II is the second phase of pre-deployment training conducted by the battalion designed to increase combat readiness through complex and realistic live-fire training. (U.S. Marine Corps video by Cpl. Jacob Wilson)",
+  "keywords": "Range 10 B-Roll PKG.mp4, IPBC B-Roll PKG.mp4",
+  "date": "2021-05-14T00:00:00-04:00",
+  "date_published": "2021-05-27T20:03:25-04:00",
+  "branch": "Marines",
+  "unit_name": "3d Marine Division",
+  "credit": "Cpl. Jacob Wilson",
+  "category": "B-Roll",
+  "virin": "210514-M-LK264-0002",
+  "location": {
+    "city": "Pohakuloa Training Area",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/795305/b-roll-lava-dogs-train-ipbc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-795305",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:39:21Z",
+  "duration": 150.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2105/DOD_108346866/DOD_108346866.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9996,
+    "size": 191053571
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 16.59,
+      "e": 18.59,
+      "text": "Not you, not you."
+    }
+  ],
+  "scene_cuts": [
+    14.4,
+    20.79,
+    28.85,
+    33.05,
+    38.1,
+    43.03,
+    50.3,
+    63.38,
+    68.03,
+    75.43,
+    80.23,
+    89.04,
+    96.6,
+    101.37,
+    110.01,
+    121.31,
+    129.4,
+    134.03,
+    138.81,
+    140.81,
+    145.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      31.9,
+      36.9,
+      126.6
+    ],
+    "silence_ends": [
+      33.1,
+      39.3,
+      129.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-795305.jpg",
+  "sheet_times": [
+    4.7,
+    14.09,
+    23.49,
+    32.89,
+    42.28,
+    51.68,
+    61.07,
+    70.47,
+    79.87,
+    89.26,
+    98.66,
+    108.05,
+    117.45,
+    126.85,
+    136.24,
+    145.64
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:939573",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard, partner agency rescue 4 people, dog from plane crash near Albert Whitted Airport",
+  "description": "A Coast Guard Air Station Miami aircrew assists four people and reportedly a dog after their aircraft crashed into the water off Albert Whitted Airport, Florida, Oct. 8, 2024. A good Samaritan and St. Peterburg Fire Rescue pulled the people from the water. (U.S. Coast Guard video by Petty Officer 2nd Class Connor Rudolph)",
+  "keywords": "Martin, HurricaneMilton24, SAR, USCG, Hurricane",
+  "date": "2024-10-08T00:00:00-04:00",
+  "date_published": "2024-10-08T21:45:19-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Santiago Gomez",
+  "category": "B-Roll",
+  "virin": "241008-G-CX249-1003",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/939573/coast-guard-partner-agency-rescue-4-people-dog-plane-crash-near-albert-whitted-airport",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-939573",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:38:55Z",
+  "duration": 22.87,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110611454/DOD_110611454.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 18693594
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    22.83
+  ],
+  "drama_score": 40,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-939573.jpg",
+  "sheet_times": [
+    0.7,
+    2.1,
+    3.49,
+    4.89,
+    6.29,
+    7.69,
+    9.09,
+    10.48,
+    11.88,
+    13.28,
+    14.68,
+    16.08,
+    17.47,
+    18.87,
+    20.27,
+    21.67
+  ]
+}

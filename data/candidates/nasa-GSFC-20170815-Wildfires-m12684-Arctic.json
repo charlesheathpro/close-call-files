@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:GSFC_20170815_Wildfires_m12684_Arctic",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Earth Expedition: Studying Wildfires in a Warming Arctic",
+  "description": "In the Arctic, different effects of the warming climate can combine to create big changes to the landscape. Although wildfires are a normal part of life in the forest regions of the far north, they’re becoming more common, burning larger swaths of land more frequently. This is partly due to different weather patterns. Many wildfires are the result of lightning strikes, and as lightning in the area becomes more common, so do fires.  Scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) are investigating how native vegetation responds to this more frequent burning, looking at places where spruce trees have burned and been replaced by deciduous plants like willow and birch. The effects of the changing plant life aren’t clear yet, and researchers are trying to understand how these plants will fare in the warming Arctic.",
+  "keywords": "Agricultural Science, Forestry, Natural Hazards, Forest Fire Science, Arctic, Earth, Wildfires",
+  "date": "2017-08-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170815_Wildfires_m12684_Arctic",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170815-Wildfires-m12684-Arctic",
+  "status": "new",
+  "harvested_at": "2026-10-27T22:40:47Z",
+  "duration": 28.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170815_Wildfires_m12684_Arctic/GSFC_20170815_Wildfires_m12684_Arctic~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    23.67
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      23.6
+    ],
+    "silence_ends": [
+      28.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170815-Wildfires-m12684-Arctic.jpg",
+  "sheet_times": [
+    0.87,
+    2.61,
+    4.35,
+    6.1,
+    7.84,
+    9.58,
+    11.32,
+    13.06,
+    14.8,
+    16.55,
+    18.29,
+    20.03,
+    21.77,
+    23.51,
+    25.25,
+    27.0
+  ]
+}
