@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "Air Station Barbers Point rescue",
   "title": "Coast Guard rescues father, sons after boat capsizes south of Lanai",
-  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point rescues a father and his two sons from the water after their boat capsized approximately 7 miles south of the island of Lanai Oct. 26, 2024. Coast Guard Sector Honolulu command center watchstanders heard a mayday call on VHF-FM channel 16 at 12:10 p.m. and dispatched aircrews to search west of Maui, south of Lanai, and west of Kaho’olawe. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point rescues a father and his two sons from the water after their boat capsized approximately 7 miles south of the island of Lanai Oct. 26, 2024. Coast Guard Sector Honolulu command center watchstanders heard a mayday call on VHF-FM channel 16 at 12:10 p.m. and dispatched aircrews to search west of Maui, south of Lanai, and west of Kaho\u2019olawe. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
   "keywords": "capsized, Maui",
   "date": "2024-10-26T00:00:00-04:00",
   "date_published": "2024-10-27T16:17:07-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-941517",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:36:48Z",
   "duration": 114.91,
   "source_file": {
@@ -83,5 +83,6 @@
     96.54,
     103.69,
     110.84
-  ]
+  ],
+  "pass_reason": "Hoist-cam is a washed-out 4:3 window where the father and sons are specks, and the telephoto shots show the capsized hull too small to read on a phone."
 }
