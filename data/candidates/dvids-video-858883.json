@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-858883",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:01:37Z",
   "duration": 15.53,
   "source_file": {
@@ -62,5 +62,6 @@
     12.68,
     13.62,
     14.56
-  ]
+  ],
+  "pass_reason": "Night footage, mostly dark, and only 15 seconds long; a calm grounding with no visible danger."
 }

@@ -290,7 +290,8 @@ def segment_filter(seg, sw, sh, crop=None):
     portrait = sh > sw
     if layout == "auto":
         layout = "crop" if portrait else "fit"
-    pts = (f"crop={crop}," if crop else "") + f"setpts=(PTS-STARTPTS)/{speed}"
+    # square the pixels first so anamorphic SD footage (720x480 at 8:9 or 32:27) keeps its true shape
+    pts = (f"crop={crop}," if crop else "") + "scale='trunc(iw*sar/2)*2':ih,setsar=1," + f"setpts=(PTS-STARTPTS)/{speed}"
     dur = float(seg.get("_dur") or 0)
     push = float(seg.get("push", 0.0)) if dur else 0.0  # off by default: per-frame rescaling looked shaky (owner, Oct 27)
     grow = f"(1+{push}*min(t/{dur:.3f},1))" if push else "1"
