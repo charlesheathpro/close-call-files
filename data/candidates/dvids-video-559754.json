@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:559754",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Maria rescue",
+  "title": "Hurricane Maria: Operation Blue Roof",
+  "description": "The U.S. Army Corps of Engineers installs temporary roofs for damaged homes in San Juan, Puerto Rico as a part of Operation Blue Roof in partnership with FEMA, Oct. 20, 2017. The Federal Emergency Management Agency and its federal partners continue 24-hour operations to conduct life-saving rescue and medical missions. (US Air Force video by Airman 1st Class Franklin Harris and Airman 1st Class Nicholas Dutton)",
+  "keywords": "FEMA, Maria, 1CTCS, 1st Combat Camera Squadron, Hurricane Maria, VIPR, Virgin Islands Puerto Rico, Operation Bluer Roof, COMCAM",
+  "date": "2017-10-20T00:00:00-04:00",
+  "date_published": "2017-10-20T20:32:40-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Airman 1st Class Nicholas Dutton",
+  "category": "Package",
+  "virin": "171020-F-FF859-5001",
+  "location": {
+    "city": "San Juan",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/559754/hurricane-maria-operation-blue-roof",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-559754",
+  "status": "new",
+  "harvested_at": "2026-10-28T16:34:46Z",
+  "duration": 50.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104987774/DOD_104987774.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8351,
+    "size": 52999512
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.79,
+      "e": 3.45,
+      "text": "(serious music)"
+    }
+  ],
+  "scene_cuts": [
+    4.34,
+    11.58,
+    17.12,
+    24.29,
+    33.07,
+    35.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      49.3
+    ],
+    "silence_ends": [
+      50.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-559754.jpg",
+  "sheet_times": [
+    1.55,
+    4.65,
+    7.76,
+    10.86,
+    13.96,
+    17.06,
+    20.16,
+    23.27,
+    26.37,
+    29.47,
+    32.57,
+    35.67,
+    38.78,
+    41.88,
+    44.98,
+    48.08
+  ]
+}

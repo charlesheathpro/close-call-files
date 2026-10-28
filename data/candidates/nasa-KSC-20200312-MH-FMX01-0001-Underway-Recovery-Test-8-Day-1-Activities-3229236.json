@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:KSC-20200312-MH-FMX01-0001-Underway_Recovery_Test_8_Day_1_Activities-3229236",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Orion recovery",
+  "title": "Underway Recovery Test 8 (URT-8): Day 1 Activities",
+  "description": "Underway Recovery Test 8 (URT-8): Day 1 Activities",
+  "keywords": "Underway Recovery Test, URT-8, Orion",
+  "date": "2020-03-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200312-MH-FMX01-0001-Underway_Recovery_Test_8_Day_1_Activities-3229236",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200312-MH-FMX01-0001-Underway-Recovery-Test-8-Day-1-Activities-3229236",
+  "status": "new",
+  "harvested_at": "2026-10-28T17:18:12Z",
+  "duration": 62.2,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200312-MH-FMX01-0001-Underway_Recovery_Test_8_Day_1_Activities-3229236/KSC-20200312-MH-FMX01-0001-Underway_Recovery_Test_8_Day_1_Activities-3229236~large.mp4",
+    "width": 1920,
+    "height": 1012
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    27.7,
+    33.37,
+    40.17,
+    49.23,
+    55.97,
+    62.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200312-MH-FMX01-0001-Underway-Recovery-Test-8-Day-1-Activities-3229236.jpg",
+  "sheet_times": [
+    1.93,
+    5.78,
+    9.64,
+    13.5,
+    17.35,
+    21.21,
+    25.07,
+    28.92,
+    32.78,
+    36.63,
+    40.49,
+    44.35,
+    48.2,
+    52.06,
+    55.92,
+    59.77
+  ]
+}

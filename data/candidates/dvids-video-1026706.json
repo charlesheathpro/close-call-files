@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:1026706",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight operations",
+  "title": "George Washington Conducts Flight Operations",
+  "description": "Nimitz-class aircraft carrier USS George Washington (CVN 73) conducts flight operations, Oct. 15, 2026. George Washington is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+  "keywords": "USS George Washington",
+  "date": "2026-10-14T00:00:00-04:00",
+  "date_published": "2026-10-20T14:43:34-04:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Naval Forces Central Command / U.S. 5th Fleet",
+  "credit": "NAVCENT Public Affairs",
+  "category": "B-Roll",
+  "virin": "261015-N-NO146-4001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "U.S. 5th Fleet area of responsibility",
+    "state_abbreviation": null,
+    "country_abbreviation": "5F"
+  },
+  "page_url": "https://www.dvidshub.net/video/1026706/george-washington-conducts-flight-operations",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1026706",
+  "status": "new",
+  "harvested_at": "2026-10-28T17:15:44Z",
+  "duration": 61.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112078411/DOD_112078411.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 73311926
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.92,
+    24.62,
+    32.63,
+    39.54,
+    50.85,
+    53.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1026706.jpg",
+  "sheet_times": [
+    1.91,
+    5.73,
+    9.55,
+    13.36,
+    17.18,
+    21.0,
+    24.82,
+    28.64,
+    32.46,
+    36.28,
+    40.09,
+    43.91,
+    47.73,
+    51.55,
+    55.37,
+    59.19
+  ]
+}
