@@ -1115,5 +1115,6 @@
     "room_decays": "0.13|0.095|0.07|0.045|0.03",
     "room_note": "Subtle big-room echo on the narrator (owner, Oct 27). Raise the decays a little for more room, lower for drier."
   },
-  "uploads_enabled_at": "2026-10-27T07:41:56Z"
+  "uploads_enabled_at": "2026-10-27T07:41:56Z",
+  "limit_note": "Oct 27 (review Oct 28 UTC): YouTube returned uploadLimitExceeded at 00:43 UTC after 10 API uploads that local day (3 first uploads that were later deleted, 3 re-uploads, 3 hurricane Shorts, 1 scheduled). Upload pause lasts until 2026-10-28 12:43 UTC. Per the pace rule daily_target is set to the 10 that actually uploaded, so it stays 10. Deleted and re-uploaded videos count against the cap, so avoid re-uploads."
 }
