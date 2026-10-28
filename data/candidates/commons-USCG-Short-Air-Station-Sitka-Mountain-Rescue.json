@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-Short-Air-Station-Sitka-Mountain-Rescue",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:30:43Z",
   "duration": 50.14,
   "source_file": {
@@ -56,5 +56,6 @@
     41.88,
     44.98,
     48.09
-  ]
+  ],
+  "pass_reason": "calm top-down hoist over forest; no danger on screen"
 }

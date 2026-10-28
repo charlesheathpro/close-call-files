@@ -142,5 +142,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "Only copies of this rescue on DVIDS (317650, 317651) are 366x274 FLIR; no higher resolution source exists, so it cannot look good on a phone. Skip sources with a short side under 480."
 }

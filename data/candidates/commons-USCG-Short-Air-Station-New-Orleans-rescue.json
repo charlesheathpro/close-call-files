@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-Short-Air-Station-New-Orleans-rescue",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:05:47Z",
   "duration": 37.72,
   "source_file": {
@@ -52,5 +52,6 @@
     31.4,
     33.73,
     36.05
-  ]
+  ],
+  "pass_reason": "routine medevac of a patient; medical, no danger on screen"
 }

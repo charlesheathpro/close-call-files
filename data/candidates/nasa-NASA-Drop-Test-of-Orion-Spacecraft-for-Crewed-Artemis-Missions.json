@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Drop-Test-of-Orion-Spacecraft-for-Crewed-Artemis-Missions",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:18:22Z",
   "duration": 29.57,
   "source_file": {
@@ -83,5 +83,6 @@
     24.53,
     26.34,
     28.16
-  ]
+  ],
+  "pass_reason": "one calm splash in a test pool; too thin for the viral bar"
 }

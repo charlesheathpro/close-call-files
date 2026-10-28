@@ -26,7 +26,7 @@
   "time_start": 3.99197,
   "aspect_ratio": "16:9",
   "id": "dvids-video-481744",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:55:10Z",
   "duration": 94.27,
   "source_file": {
@@ -68,5 +68,6 @@
     79.74,
     85.36,
     90.97
-  ]
+  ],
+  "pass_reason": "fisheye cabin camera only; the storm and the boat are never shown"
 }

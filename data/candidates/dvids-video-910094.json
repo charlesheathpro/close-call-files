@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-910094",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:05:36Z",
   "duration": 195.9,
   "source_file": {
@@ -474,5 +474,6 @@
     164.87,
     177.08,
     189.3
-  ]
+  ],
+  "pass_reason": "talking-head statement only; no crash footage"
 }

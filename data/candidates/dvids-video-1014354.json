@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1014354",
   "asset_id": "video:1014354",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:48:40Z",
@@ -230,5 +230,6 @@
     105.86,
     113.7,
     121.54
-  ]
+  ],
+  "pass_reason": "medevac of an injured teen; medical scene"
 }

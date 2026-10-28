@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LRC-2025-V-06242025-RVLT-Gantry-Drop-Test-With-Slate-V0002050",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:18:46Z",
   "duration": 146.09,
   "source_file": {
@@ -107,5 +107,6 @@
     122.84,
     131.94,
     141.04
-  ]
+  ],
+  "pass_reason": "drop is tiny in frame; mostly setup shots"
 }

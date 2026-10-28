@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SI009M-clip-h264",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:21:39Z",
   "duration": 119.3,
   "source_file": {
@@ -60,5 +60,6 @@
     100.24,
     107.66,
     115.09
-  ]
+  ],
+  "pass_reason": "abstract gray smoke trails; nothing readable on a phone"
 }
