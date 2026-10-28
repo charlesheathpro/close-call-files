@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-655404",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:09:34Z",
   "duration": 165.28,
   "source_file": {
@@ -66,5 +66,6 @@
     139.03,
     149.33,
     159.63
-  ]
+  ],
+  "pass_reason": "Grainy pillarboxed 4:3 top-down footage over a marsh; the capsized boat and heavy wind never show, so it reads as a calm pickup."
 }

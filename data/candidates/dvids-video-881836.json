@@ -3,7 +3,7 @@
   "source": "dvids",
   "lane": "rescue",
   "matched_query": "rescues dog",
-  "title": "Coast Guard rescues 2 people, 1 dog near St. Catherine’s Sound, Ga.",
+  "title": "Coast Guard rescues 2 people, 1 dog near St. Catherine\u2019s Sound, Ga.",
   "description": "A Coast Guard Air Station Savannah MH-65 Dolphin helicopter crew rescues two people and a dog after their 28-foot catamaran began taking on water near St. Catherine's Sound, Georgia, May 1, 2023. The two people and dog people were reportedly in good health. (U.S. Coast Guard courtesy video)",
   "keywords": "hoist, Georgia, rescue, USCG",
   "date": "2023-05-01T00:00:00-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-881836",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:30:03Z",
   "duration": 27.47,
   "source_file": {
@@ -62,5 +62,6 @@
     22.75,
     24.44,
     26.12
-  ]
+  ],
+  "pass_reason": "Washed-out pink color cast and calm water; a routine basket pickup with no visible danger."
 }
