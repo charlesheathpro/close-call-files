@@ -199,8 +199,10 @@ def main():
             res = upload_video(path, spec, stamp, cfg)
         except UploadError as e:
             if e.reason in ("uploadLimitExceeded", "quotaExceeded", "rateLimitExceeded"):
+                # the channel limit is a rolling 24 hours, so retry on the next run (every 3 h) rather than idling 12 h
+                wait = 24 if e.reason == "quotaExceeded" else 2.5
                 save_json(DATA / "upload_limit.json", {"at": iso(), "reason": e.reason, "uploaded_this_run": n,
-                                                       "until": iso(now_utc() + timedelta(hours=12))})
+                                                       "until": iso(now_utc() + timedelta(hours=wait))})
                 alert("upload_limit", f"YouTube said {e.reason} after {n} uploads this run")
                 break
             if e.status in (401, 403):
