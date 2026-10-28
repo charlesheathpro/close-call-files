@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-902990",
   "asset_id": "video:902990",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire aerial",
   "harvested_at": "2026-10-27T06:27:47Z",
@@ -82,5 +82,6 @@
     108.06,
     116.06,
     124.06
-  ]
+  ],
+  "pass_reason": "Only the first 18s show the fire; the rest is tarmac bucket hookups and distant lifts. Release gives a drop count, not how the fire ended."
 }

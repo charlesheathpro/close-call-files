@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "Hurricane Florence rescue",
   "title": "Coast Guard rescues people, dogs from Florence floodwaters",
-  "description": "ELIZABETH CITY, N.C. – Chief Petty Officer Brad Fitzpatrick, a rescue swimmer stationed at Coast Guard Air Station Atlantic City, rescues people and pets affected by rising floodwaters caused by Hurricane Florence, Sept. 19, 2018.\r\n\r\nFitzpatrick worked with other aircrews through the day in extreme conditions, encountering submerged barbed wire fences, floating fire-ant beds and chest-deep water to save lives.\r\n\r\nU.S. Coast Guard video by Petty Officer 2nd Class Benjamin Weissman.",
+  "description": "ELIZABETH CITY, N.C. \u2013 Chief Petty Officer Brad Fitzpatrick, a rescue swimmer stationed at Coast Guard Air Station Atlantic City, rescues people and pets affected by rising floodwaters caused by Hurricane Florence, Sept. 19, 2018.\r\n\r\nFitzpatrick worked with other aircrews through the day in extreme conditions, encountering submerged barbed wire fences, floating fire-ant beds and chest-deep water to save lives.\r\n\r\nU.S. Coast Guard video by Petty Officer 2nd Class Benjamin Weissman.",
   "keywords": "florence, AST, Fitzpatrick, 2018, Hurricane Florence, Pet rescue, help, rescue",
   "date": "2018-09-19T00:00:00-04:00",
   "date_published": "2019-04-12T13:50:28-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-671816",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:12:30Z",
   "duration": 18.13,
   "source_file": {
@@ -68,5 +68,6 @@
     14.88,
     15.98,
     17.08
-  ]
+  ],
+  "pass_reason": "18s of cabin-only footage loading people and dogs; the rescue itself and the flood are never shown."
 }

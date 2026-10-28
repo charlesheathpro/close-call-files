@@ -261,6 +261,10 @@ def analyze(sid, meta, best_src, small_src, best_info=None, srt_text=None):
     """Download the small file once, transcribe, cut scenes, score drama and save the candidate."""
     work = WORK / sid
     work.mkdir(parents=True, exist_ok=True)
+    if best_info is not None and not (best_info.get("width") and best_info.get("height")):
+        probed = sources.probe_url(best_src)
+        if probed:
+            best_info.update(width=probed["width"], height=probed["height"])
     if best_info and best_info.get("width") and best_info.get("height"):
         short = min(int(best_info["width"]), int(best_info["height"]))
         if short < config()["harvest"].get("min_short_side", 700):

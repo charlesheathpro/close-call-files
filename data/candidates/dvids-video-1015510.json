@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1015510",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:33:36Z",
   "duration": 62.33,
   "source_file": {
@@ -232,5 +232,6 @@
     52.17,
     56.04,
     59.9
-  ]
+  ],
+  "pass_reason": "Sharp vertical footage, but the only hoist shot is covered by social-media comment overlays naming private people; the rest is an interview and aerials. Would also be another flood rescue."
 }
