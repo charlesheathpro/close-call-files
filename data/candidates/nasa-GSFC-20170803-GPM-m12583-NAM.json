@@ -1,0 +1,124 @@
+{
+  "asset_id": "nasa:GSFC_20170803_GPM_m12583_NAM",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "North American Monsoon",
+  "description": "North America experiences a yearly monsoon weather system in late summer as moisture comes up from the west coast of Mexico and enters the southwestern U.S. The seasonal weather pattern brings both much of the region's precipitation but can also pose a threat in the form of flash flooding. The Global Precipitation Measurement (GPM) mission gathers data from these storms in order to better understand the precipitation processes happening within, which can help better forecast the breaks and surges in the monsoon.",
+  "keywords": "Hydrology, Natural Hazards, Monsoons, Earth, Wildfires",
+  "date": "2017-08-03T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170803_GPM_m12583_NAM",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170803-GPM-m12583-NAM",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:33:46Z",
+  "duration": 86.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170803_GPM_m12583_NAM/GSFC_20170803_GPM_m12583_NAM~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.13,
+      "e": 7.13,
+      "text": "Late in the summer, moisture starts coming up the west coast of Mexico and entering the southwestern US,"
+    },
+    {
+      "s": 7.13,
+      "e": 15.13,
+      "text": "and you transition from a relatively dry early season to something that's more prone to thunderstorms in the attendant flash floods."
+    },
+    {
+      "s": 15.13,
+      "e": 22.13,
+      "text": "Relatively small amounts of rain in a desert condition can lead to a flash flood, even if it's a long way away."
+    },
+    {
+      "s": 22.13,
+      "e": 30.13,
+      "text": "The ground is not very good at absorbing water, so instead it very quickly runs off and can run down channels for miles, perhaps catching people unaware."
+    },
+    {
+      "s": 31.13,
+      "e": 49.15,
+      "text": "In a general-started way, we know that it rains in the summer and doesn't rain the rest of the year."
+    },
+    {
+      "s": 49.15,
+      "e": 52.15,
+      "text": "But the question is, is it strong or is it weak?"
+    },
+    {
+      "s": 52.15,
+      "e": 55.15,
+      "text": "These kind of long-range forecasts are still quite challenging."
+    },
+    {
+      "s": 55.15,
+      "e": 63.15,
+      "text": "Even at the shorter scale, the monsoon consists of what are called breaks and then surges, and being able to forecast those breaks and surges"
+    },
+    {
+      "s": 63.15,
+      "e": 67.15,
+      "text": "a few days or weeks in advance would be a really great thing."
+    },
+    {
+      "s": 67.15,
+      "e": 81.15,
+      "text": "There's a certain capability to do that now, but if we understand the precipitation process is better, that will give us a better handle on how the heat is released in the dynamical systems that are contributing to the breaks and surges."
+    }
+  ],
+  "scene_cuts": [
+    0.7,
+    3.13,
+    5.73,
+    17.03,
+    21.5,
+    26.03,
+    30.4,
+    36.83,
+    57.23,
+    67.9,
+    72.43,
+    81.8
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      84.7
+    ],
+    "silence_ends": [
+      0.9,
+      86.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170803-GPM-m12583-NAM.jpg",
+  "sheet_times": [
+    2.68,
+    8.04,
+    13.41,
+    18.77,
+    24.13,
+    29.49,
+    34.86,
+    40.22,
+    45.58,
+    50.94,
+    56.31,
+    61.67,
+    67.03,
+    72.39,
+    77.76,
+    83.12
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:941517",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Barbers Point rescue",
+  "title": "Coast Guard rescues father, sons after boat capsizes south of Lanai",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point rescues a father and his two sons from the water after their boat capsized approximately 7 miles south of the island of Lanai Oct. 26, 2024. Coast Guard Sector Honolulu command center watchstanders heard a mayday call on VHF-FM channel 16 at 12:10 p.m. and dispatched aircrews to search west of Maui, south of Lanai, and west of Kaho’olawe. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "keywords": "capsized, Maui",
+  "date": "2024-10-26T00:00:00-04:00",
+  "date_published": "2024-10-27T16:17:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "241026-G-G0214-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/941517/coast-guard-rescues-father-sons-after-boat-capsizes-south-lanai",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-941517",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:36:48Z",
+  "duration": 114.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110648447/DOD_110648447-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 90224778
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.63,
+    74.17,
+    74.47,
+    74.54
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      13.0,
+      33.4,
+      40.5,
+      49.0,
+      62.3,
+      89.8
+    ],
+    "silence_ends": [
+      1.0,
+      14.2,
+      34.9,
+      41.2,
+      49.6,
+      84.4,
+      114.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-941517.jpg",
+  "sheet_times": [
+    3.58,
+    10.73,
+    17.88,
+    25.03,
+    32.18,
+    39.33,
+    46.48,
+    53.63,
+    60.78,
+    67.93,
+    75.08,
+    82.24,
+    89.39,
+    96.54,
+    103.69,
+    110.84
+  ]
+}

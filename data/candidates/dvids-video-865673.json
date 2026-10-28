@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:865673",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Mauna Loa volcano erupts for first time in 38 years",
+  "description": "The world’s largest active volcano, Mauna Loa on Hawaii’s Big Island, is erupting for the first time since 1984. The eruption began in Moku’āweoweo, the summit caldera of Mauna Loa, on Sunday at approximately 11:30 p.m. HST, according to the Hawaii Volcano Observatory; though lava is flowing down one side of the volcano, there is no indication of a threat to nearby communities at this time.",
+  "keywords": "Big Island, Mauna Loa Volcano, Hawaii Volcano Observatory, Hawaii, C-130, USCG",
+  "date": "2022-11-28T00:00:00-05:00",
+  "date_published": "2022-11-28T20:14:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class David Graham",
+  "category": "B-Roll",
+  "virin": "281123-G-UE432-002",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/865673/mauna-loa-volcano-erupts-first-time-38-years",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-865673",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:18:37Z",
+  "duration": 105.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2211/DOD_109343812/DOD_109343812-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 98242545
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    51.93,
+    52.28,
+    52.31,
+    91.32,
+    91.66,
+    91.78
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      105.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-865673.jpg",
+  "sheet_times": [
+    3.29,
+    9.87,
+    16.45,
+    23.03,
+    29.61,
+    36.19,
+    42.77,
+    49.35,
+    55.93,
+    62.51,
+    69.09,
+    75.67,
+    82.25,
+    88.83,
+    95.41,
+    101.99
+  ]
+}

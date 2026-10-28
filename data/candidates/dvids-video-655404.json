@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:655404",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues three hunters, dog near Freeport, Texas",
+  "description": "The Coast Guard rescues three hunters and their dog near Freeport, Texas Jan. 19, 2019. The men became stranded after their boat capsized in heavy winds, and were unable to start the engine after righting their vessel. U.S. Coast Guard video",
+  "keywords": "MH-65, hunters, rescue, Air Station Houston, dog, Freeport",
+  "date": "2019-01-19T00:00:00-05:00",
+  "date_published": "2019-01-19T22:32:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191901-G-G0108-1001",
+  "location": {
+    "city": "Freeport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/655404/coast-guard-rescues-three-hunters-dog-near-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-655404",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:09:34Z",
+  "duration": 165.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1901/DOD_106384368/DOD_106384368.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 3401,
+    "size": 70480395
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      165.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-655404.jpg",
+  "sheet_times": [
+    5.15,
+    15.45,
+    25.75,
+    36.05,
+    46.34,
+    56.64,
+    66.94,
+    77.24,
+    87.54,
+    97.84,
+    108.14,
+    118.44,
+    128.73,
+    139.03,
+    149.33,
+    159.63
+  ]
+}

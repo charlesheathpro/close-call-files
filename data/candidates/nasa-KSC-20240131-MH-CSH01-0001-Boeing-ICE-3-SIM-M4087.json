@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20240131-MH-CSH01-0001-Boeing_ICE_3_SIM-M4087",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "Boeing ICE #3 SIM",
+  "description": "NASA Astronauts Suni Williams and Barry \"Butch\" Wilmore participate in an integrated crew exercise simulation in preparation for NASA's Boeing Crew Flight Test to the International Space Station",
+  "keywords": "Boeing, NASA, KSC, Kennedy Space Center, CFT, Crew Flight Test, ICE, Integrated Crew Exercise, CCP, Commercial Crew Program, Starliner, International Space Station, Suni Williams, Butch Wilmore",
+  "date": "2024-01-31T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20240131-MH-CSH01-0001-Boeing_ICE_3_SIM-M4087",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20240131-MH-CSH01-0001-Boeing-ICE-3-SIM-M4087",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:13:15Z",
+  "duration": 103.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20240131-MH-CSH01-0001-Boeing_ICE_3_SIM-M4087/KSC-20240131-MH-CSH01-0001-Boeing_ICE_3_SIM-M4087~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.1,
+    30.67,
+    34.77,
+    46.17,
+    52.57,
+    63.77,
+    83.37,
+    91.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      8.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20240131-MH-CSH01-0001-Boeing-ICE-3-SIM-M4087.jpg",
+  "sheet_times": [
+    3.22,
+    9.67,
+    16.11,
+    22.55,
+    29.0,
+    35.44,
+    41.88,
+    48.33,
+    54.77,
+    61.22,
+    67.66,
+    74.1,
+    80.55,
+    86.99,
+    93.43,
+    99.88
+  ]
+}

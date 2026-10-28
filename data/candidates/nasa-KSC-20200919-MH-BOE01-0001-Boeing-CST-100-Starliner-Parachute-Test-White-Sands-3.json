@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:KSC-20200919-MH-BOE01-0001-Boeing_CST_100_Starliner_Parachute_Test_White_Sands-3264866",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "drop test",
+  "title": "Boeing CST-100 Starliner Parachute Test",
+  "description": "A Boeing CST-100 Starliner test article completes it's final parachute reliability drop test at White Sands, New Mexico, on Sept. 19, 2020. The test is part of a reliability campaign that will help strengthen the spacecraft’s landing system ahead of crewed flights to and from the International Space Station as part of NASA’s Commercial Crew Program.",
+  "keywords": "Boeing, CST-100, Starliner, Test Article, Parachute Test, White Sands, CCP, Commercial Crew Program",
+  "date": "2020-09-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200919-MH-BOE01-0001-Boeing_CST_100_Starliner_Parachute_Test_White_Sands-3264866",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200919-MH-BOE01-0001-Boeing-CST-100-Starliner-Parachute-Test-White-Sands-3",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:22:43Z",
+  "duration": 37.31,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200919-MH-BOE01-0001-Boeing_CST_100_Starliner_Parachute_Test_White_Sands-3264866/KSC-20200919-MH-BOE01-0001-Boeing_CST_100_Starliner_Parachute_Test_White_Sands-3264866~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 10.8,
+      "e": 17.8,
+      "text": "9, 8, 7, 6, 5, 4, 3, 2, 1."
+    },
+    {
+      "s": 17.8,
+      "e": 21.8,
+      "text": "We lead, we lead, we lead."
+    }
+  ],
+  "scene_cuts": [
+    6.93
+  ],
+  "drama_score": 19,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200919-MH-BOE01-0001-Boeing-CST-100-Starliner-Parachute-Test-White-Sands-3.jpg",
+  "sheet_times": [
+    1.15,
+    3.45,
+    5.75,
+    8.05,
+    10.35,
+    12.65,
+    14.95,
+    17.26,
+    19.56,
+    21.86,
+    24.16,
+    26.46,
+    28.76,
+    31.06,
+    33.36,
+    35.66
+  ]
+}

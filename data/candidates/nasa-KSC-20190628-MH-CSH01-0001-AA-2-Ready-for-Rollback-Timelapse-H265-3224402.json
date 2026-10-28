@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:KSC-20190628-MH-CSH01_0001-AA-2_Ready_for_Rollback_Timelapse-H265-3224402",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "AA-2 Ready for Rollback Timelapse ",
+  "description": "Orion's Ascent Abort-2 Test is ready for rollback at Space Launch Complex 46.",
+  "keywords": "AA-2, Orion, Pad 46, Artemis, Ascent Abort-2, Ascent Abort 2, Moon, Launch Abort System, LAS",
+  "date": "2019-06-28T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190628-MH-CSH01_0001-AA-2_Ready_for_Rollback_Timelapse-H265-3224402",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190628-MH-CSH01-0001-AA-2-Ready-for-Rollback-Timelapse-H265-3224402",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:44:47Z",
+  "duration": 48.73,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190628-MH-CSH01_0001-AA-2_Ready_for_Rollback_Timelapse-H265-3224402/KSC-20190628-MH-CSH01_0001-AA-2_Ready_for_Rollback_Timelapse-H265-3224402~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.13
+  ],
+  "drama_score": 58,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      48.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190628-MH-CSH01-0001-AA-2-Ready-for-Rollback-Timelapse-H265-3224402.jpg",
+  "sheet_times": [
+    1.51,
+    4.52,
+    7.54,
+    10.55,
+    13.57,
+    16.58,
+    19.59,
+    22.61,
+    25.62,
+    28.64,
+    31.65,
+    34.67,
+    37.68,
+    40.7,
+    43.71,
+    46.73
+  ]
+}

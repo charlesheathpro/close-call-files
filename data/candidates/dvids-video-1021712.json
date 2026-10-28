@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:1021712",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "B-Roll: 11th MEU Marines Conduct Live-Fire Range aboard USS Portland",
+  "description": "U.S. Marines with Lima Company, Battalion Landing Team 3/5, 11th Marine Expeditionary Unit, conduct a live-fire range on the flight deck of San Antonio-class amphibious transport dock USS Portland (LPD 27) in the U.S. Central Command area of responsibility, August 31, 2026. (U.S. Marine Corps video by Cpl. Avery Wayland)",
+  "keywords": "MARCENT, USMC, Readiness, Prepared, 51/5, CENTCOM, Training",
+  "date": "2026-08-30T00:00:00-04:00",
+  "date_published": "2026-09-04T03:30:23-04:00",
+  "branch": "Marines",
+  "unit_name": "11th Marine Expeditionary Unit",
+  "credit": "Cpl. Avery Wayland",
+  "category": "B-Roll",
+  "virin": "260831-M-TI498-2001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/1021712/b-roll-11th-meu-marines-conduct-live-fire-range-aboard-uss-portland",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1021712",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:37:01Z",
+  "duration": 97.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111947945/DOD_111947945.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 107949299
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.0,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    6.01,
+    11.71,
+    18.02,
+    24.02,
+    30.03,
+    42.04,
+    48.05,
+    54.05,
+    60.06,
+    66.07,
+    97.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      21.3,
+      66.1
+    ],
+    "silence_ends": [
+      22.1,
+      97.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1021712.jpg",
+  "sheet_times": [
+    3.03,
+    9.1,
+    15.17,
+    21.23,
+    27.3,
+    33.37,
+    39.43,
+    45.5,
+    51.57,
+    57.63,
+    63.7,
+    69.76,
+    75.83,
+    81.9,
+    87.96,
+    94.03
+  ]
+}

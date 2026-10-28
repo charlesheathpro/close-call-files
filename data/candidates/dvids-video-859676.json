@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:859676",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues 4 people, 2 dogs near Point San Pablo",
+  "description": "U.S. Coast Guard Air Station San Francisco helicopter crew rescues four people and two dogs near Point San Pablo, California, Sept. 30, 2022. The aircrew transferred all passengers to awaiting emergency medical services personnel at the San Rafael Airport, with no medical concerns. (U.S. Coast guard Video)",
+  "keywords": "Bay Area, CoastGuardNewsWire, search and rescue, California, rescue, USCG",
+  "date": "2022-09-30T00:00:00-04:00",
+  "date_published": "2022-10-04T17:44:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220930-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859676/coast-guard-rescues-4-people-2-dogs-near-point-san-pablo",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-859676",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:20:30Z",
+  "duration": 71.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109253496/DOD_109253496-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 68871315
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.74,
+      "e": 4.74,
+      "text": "So this is the room."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-859676.jpg",
+  "sheet_times": [
+    2.23,
+    6.68,
+    11.13,
+    15.58,
+    20.04,
+    24.49,
+    28.94,
+    33.39,
+    37.85,
+    42.3,
+    46.75,
+    51.2,
+    55.65,
+    60.11,
+    64.56,
+    69.01
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:629967",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "crash landing",
+  "title": "UCT 2 Renders Assistance Following Plane Crash in Chuuk",
+  "description": "180828-N-WR252-003 CHUUK, Federated States of Micronesia (Sept. 28, 2018) Raw footage of U.S. Navy Sailors assigned to Underwater Construction Team (UCT) 2 approaching Air Niugini flight PX56 immediately following its crash landing in Chuuk Lagoon. Sailors are shown making initial approach and evacuating passengers. (U.S. Navy video /released)",
+  "keywords": "UCT-2, Chuuk, FSM, PX56, Seabee, U.S. Navy",
+  "date": "2018-09-28T00:00:00-04:00",
+  "date_published": "2018-09-29T06:51:19-04:00",
+  "branch": "Navy",
+  "unit_name": "30th Naval Construction Regiment",
+  "credit": "Chief Petty Officer Matthew White",
+  "category": "B-Roll",
+  "virin": "180828-N-WR252-003",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Micronesia, Federated States Of",
+    "state_abbreviation": null,
+    "country_abbreviation": "FM"
+  },
+  "page_url": "https://www.dvidshub.net/video/629967/uct-2-renders-assistance-following-plane-crash-chuuk",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-629967",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:57:03Z",
+  "duration": 137.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106081101/DOD_106081101.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8547,
+    "size": 148781724
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    79.26,
+    79.46,
+    79.48,
+    79.76,
+    80.63,
+    80.66,
+    82.87,
+    82.9,
+    88.51,
+    88.52,
+    88.54,
+    89.04,
+    95.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-629967.jpg",
+  "sheet_times": [
+    8.18,
+    16.46,
+    24.74,
+    33.02,
+    41.3,
+    49.58,
+    57.87,
+    66.15,
+    74.43,
+    82.71,
+    90.99,
+    99.27,
+    107.55,
+    115.83,
+    124.12,
+    132.4
+  ]
+}

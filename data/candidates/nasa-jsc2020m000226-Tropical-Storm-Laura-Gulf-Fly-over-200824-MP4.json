@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:jsc2020m000226_Tropical_Storm_ Laura_Gulf_Fly-over_200824-MP4",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "jsc2020m000226_Tropical_Storm_ Laura_Gulf_Fly-over_200824-MP4",
+  "description": "External cameras on the International Space Station captured views of Tropical Storm Laura from approximately 250 miles above. The station passed directly over the tropical system on Sunday, August 23 prior to the storm making landfall on Cuba. The National Hurricane Center is projecting Laura to strengthen into a hurricane once in the Gulf of Mexico with landfall expected on the Gulf coast later this week.",
+  "keywords": "Expedition 63, Tropical Storm Laura",
+  "date": "2020-08-24T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/jsc2020m000226_Tropical_Storm_%20Laura_Gulf_Fly-over_200824-MP4",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-jsc2020m000226-Tropical-Storm-Laura-Gulf-Fly-over-200824-MP4",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:48:42Z",
+  "duration": 525.13,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/jsc2020m000226_Tropical_Storm_%20Laura_Gulf_Fly-over_200824-MP4/jsc2020m000226_Tropical_Storm_%20Laura_Gulf_Fly-over_200824-MP4~orig.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      517.9
+    ],
+    "silence_ends": [
+      515.0,
+      525.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-jsc2020m000226-Tropical-Storm-Laura-Gulf-Fly-over-200824-MP4.jpg",
+  "sheet_times": [
+    16.39,
+    49.18,
+    81.97,
+    114.76,
+    147.55,
+    180.34,
+    213.13,
+    245.92,
+    278.71,
+    311.5,
+    344.29,
+    377.08,
+    409.87,
+    442.66,
+    475.45,
+    508.24
+  ]
+}

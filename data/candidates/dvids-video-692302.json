@@ -1,0 +1,100 @@
+{
+  "asset_id": "video:692302",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "USS Harpers Ferry Conducts Live-Fire Small Arms Gun Shoot",
+  "description": "INDIAN OCEAN (June 22, 2019) Video showing U.S. Marines, assigned to 11th Marine Expeditionary Unit (MEU), participating in a live-fire small arms gun shoot on the flight deck of the Harpers Ferry-class amphibious dock landing ship USS Harpers Ferry (LSD 49). Harpers Ferry is part of the Boxer Amphibious Ready Group (ARG) and 11th MEU team and is deployed to the U.S. 7th Fleet area of operations to support regional stability, reassure partners and allies, and maintain a presence postured to respond to any crisis ranging from humanitarian assistance to contingency operations. (U.S. Navy video by Mass Communication Specialist 3rd Class Danielle A. Baker)",
+  "keywords": "USS Harpers Ferry, 11th MEU, LSD 49, Boxer ARG, USS Boxer Amphibious Ready Group, live-fire small arms gun shoot, U.S. Marines, U.S. Navy",
+  "date": "2019-06-22T00:00:00-04:00",
+  "date_published": "2019-06-24T14:50:06-04:00",
+  "branch": "Navy",
+  "unit_name": "Amphibious Squadron 5",
+  "credit": "Petty Officer 3rd Class Danielle Serocki",
+  "category": "B-Roll",
+  "virin": "190622-N-HD110-0604",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Indian Ocean",
+    "state_abbreviation": null,
+    "country_abbreviation": "I0"
+  },
+  "page_url": "https://www.dvidshub.net/video/692302/uss-harpers-ferry-conducts-live-fire-small-arms-gun-shoot",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 2.002,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-692302",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:42:11Z",
+  "duration": 37.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106944490/DOD_106944490.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5689,
+    "size": 27529715
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 24.75,
+      "e": 25.59,
+      "text": "Good job."
+    }
+  ],
+  "scene_cuts": [
+    2.0,
+    19.97,
+    28.13
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.0,
+      12.1,
+      14.0,
+      16.6,
+      18.8,
+      29.5,
+      30.5,
+      34.0,
+      36.1,
+      36.9
+    ],
+    "silence_ends": [
+      7.6,
+      11.1,
+      12.9,
+      15.2,
+      17.7,
+      19.6,
+      30.4,
+      31.3,
+      34.9,
+      36.8,
+      37.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-692302.jpg",
+  "sheet_times": [
+    3.11,
+    5.31,
+    7.52,
+    9.73,
+    11.94,
+    14.14,
+    16.35,
+    18.56,
+    20.77,
+    22.97,
+    25.18,
+    27.39,
+    29.6,
+    31.8,
+    34.01,
+    36.22
+  ]
+}

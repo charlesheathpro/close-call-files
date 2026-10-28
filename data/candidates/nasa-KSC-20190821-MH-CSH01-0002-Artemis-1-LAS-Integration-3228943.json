@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:KSC-20190821-MH-CSH01_0002-Artemis_1_LAS_Integration-3228943",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Artemis 1 LAS Integration",
+  "description": "The Launch Abort System for the Artemis 1 mission is undergoing processing and integration in the Launch Abort System Facility.",
+  "keywords": "Artemis 1, Moon to Mars, Orion, Launch Abort System",
+  "date": "2019-08-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190821-MH-CSH01_0002-Artemis_1_LAS_Integration-3228943",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190821-MH-CSH01-0002-Artemis-1-LAS-Integration-3228943",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:44:13Z",
+  "duration": 51.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190821-MH-CSH01_0002-Artemis_1_LAS_Integration-3228943/KSC-20190821-MH-CSH01_0002-Artemis_1_LAS_Integration-3228943~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.2,
+    20.67,
+    27.1,
+    33.9,
+    42.63,
+    51.0
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      13.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190821-MH-CSH01-0002-Artemis-1-LAS-Integration-3228943.jpg",
+  "sheet_times": [
+    1.58,
+    4.74,
+    7.9,
+    11.05,
+    14.21,
+    17.37,
+    20.53,
+    23.69,
+    26.85,
+    30.0,
+    33.16,
+    36.32,
+    39.48,
+    42.64,
+    45.8,
+    48.95
+  ]
+}

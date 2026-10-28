@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:294890",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues 4 fishermen, dog from Ocean Viking southwest of Kodiak, Alaska",
+  "description": "A Coast Guard Mh-60 Jayhawk helicopter crew from Air Station Kodiak rescues four fishermen and a dog from a life raft 190 miles southwest of Kodiak, Alaska, June 26, 2013. The crew of the 76-foot fishing vessel Ocean Viking, homeported in Shoreline, Wash., abandoned ship when their vessel began taking on water and they could not keep up with it. U.S. Coast Guard video by Air Station Kodiak. Available in high definition.",
+  "keywords": "Kodiak, MH-60, CGAS Kodiak, Ocean Viking, CFV, SAR, Alaska",
+  "date": "2013-06-26T00:00:00-04:00",
+  "date_published": "2013-06-27T16:08:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130626-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/294890/coast-guard-rescues-4-fishermen-dog-ocean-viking-southwest-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-294890",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:30:56Z",
+  "duration": 58.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1306/DOD_100849076/DOD_100849076.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9073,
+    "size": 66913831
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    43.51,
+    54.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      55.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-294890.jpg",
+  "sheet_times": [
+    1.83,
+    5.48,
+    9.13,
+    12.79,
+    16.44,
+    20.1,
+    23.75,
+    27.4,
+    31.06,
+    34.71,
+    38.36,
+    42.02,
+    45.67,
+    49.32,
+    52.98,
+    56.63
+  ]
+}

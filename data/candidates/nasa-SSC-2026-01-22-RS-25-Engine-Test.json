@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:SSC_2026-01-22_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Conducts Hot Fire of RS-25 Engine",
+  "description": "NASA successfully conducted a hot fire of RS-25 engine No. 2063 on Jan. 22 at the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, clearing the way for the engine to be installed for the agency’s Artemis IV mission.    The RS-25 engines help power NASA’s SLS (Space Launch System) rocket that will carry astronauts to the Moon under the Artemis campaign.  Engine No. 2063 originally was installed on the SLS core stage for the Artemis II mission but was removed in 2025 after engineers discovered a hydraulic leak on the engine’s main oxidizer valve actuator, which controls propellant flow into the engine combustion chamber.  Following standard NASA procedures, teams removed the engine from the core stage and replaced the actuator.  Because NASA requires any significantly modified or repaired engine to undergo hot fire testing before flight, teams at NASA Stennis fired the engine for five minutes (300 seconds), at up to 109% of its rated power level in a test known as a confidence test that demonstrates the engine is ready for flight.  The test was conducted by a team of operators from NASA, L3Harris Technologies, and Sierra Lobo, Inc., the NASA Stennis test operations contractor. NASA Stennis provides critical data to L3Harris, the prime engines contractor for the SLS rocket.  With the successful test complete, engine No. 2063 is scheduled to be installed on the SLS core stage for Artemis IV. All RS-25 engines for NASA’s Artemis missions are tested and proven flightworthy at NASA Stennis before flight.",
+  "keywords": "",
+  "date": "2026-01-22T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2026-01-22_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2026-01-22-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:53:17Z",
+  "duration": 328.2,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2026-01-22_RS-25_Engine_Test/SSC_2026-01-22_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.01,
+      "e": 318.12,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      316.7
+    ],
+    "silence_ends": [
+      12.3,
+      328.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2026-01-22-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    10.24,
+    30.72,
+    51.2,
+    71.68,
+    92.17,
+    112.65,
+    133.13,
+    153.61,
+    174.09,
+    194.57,
+    215.05,
+    235.53,
+    256.02,
+    276.5,
+    296.98,
+    317.46
+  ]
+}

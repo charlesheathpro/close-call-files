@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:608037",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "River of Lava Flows Down Valley in Hawaii",
+  "description": "River of lava flowing down what was once highway 132 on Hawaii Island. (U.S. Air National Guard Video by Tech. Sgt. Andrew Jackson)",
+  "keywords": "Hawaii National Guard, Hilo, state mission, Hawai'i Island., Pahoa, lava flow, Hawaii County Civil Defense, Leilani estates, Task Force Hawaii, Volcanic activity, kilauea2018eruption, Air National Guard, Army National Guard",
+  "date": "2018-06-15T00:00:00-04:00",
+  "date_published": "2018-06-16T23:55:43-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Tech. Sgt. Ret. Andrew Jackson",
+  "category": "B-Roll",
+  "virin": "180615-Z-IX631-001",
+  "location": {
+    "city": "Pahoa",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/608037/river-lava-flows-down-valley-hawaii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-608037",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:30:52Z",
+  "duration": 103.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105750204/DOD_105750204.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10038,
+    "size": 132074430
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.83,
+    72.74
+  ],
+  "drama_score": 20,
+  "audio": {
+    "silence_starts": [
+      93.6,
+      94.3
+    ],
+    "silence_ends": [
+      94.3,
+      95.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-608037.jpg",
+  "sheet_times": [
+    3.23,
+    9.69,
+    16.15,
+    22.61,
+    29.06,
+    35.52,
+    41.98,
+    48.44,
+    54.9,
+    61.36,
+    67.82,
+    74.28,
+    80.73,
+    87.19,
+    93.65,
+    100.11
+  ]
+}

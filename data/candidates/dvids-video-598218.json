@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:598218",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Kilauea Lava Flow aerial footage",
+  "description": "Kilauea Lava Flow aerial footage taken from a Hawaii Army National Guard, UH 60.",
+  "keywords": "kilauea, HANG0514, kilauea2018eruption",
+  "date": "2018-05-04T00:00:00-04:00",
+  "date_published": "2018-05-04T23:43:35-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Tech. Sgt. Ret. Andrew Jackson",
+  "category": "B-Roll",
+  "virin": "180504-Z-IX631-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/598218/kilauea-lava-flow-aerial-footage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-598218",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:27:35Z",
+  "duration": 157.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105595752/DOD_105595752.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9417,
+    "size": 188329732
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    115.88
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-598218.jpg",
+  "sheet_times": [
+    4.91,
+    14.74,
+    24.56,
+    34.39,
+    44.21,
+    54.04,
+    63.86,
+    73.69,
+    83.51,
+    93.34,
+    103.16,
+    112.98,
+    122.81,
+    132.63,
+    142.46,
+    152.28
+  ]
+}

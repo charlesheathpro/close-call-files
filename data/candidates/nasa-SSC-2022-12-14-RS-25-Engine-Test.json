@@ -1,0 +1,78 @@
+{
+  "asset_id": "nasa:SSC_2022-12-14_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Conducts RS-25 Hot Fire Test at Stennis Space Center",
+  "description": "NASA conducted the first test of the new RS-25 restart engine campaign for future flights of the Space Launch System (SLS) rocket Dec. 14, completing 209.5 seconds of a scheduled full-duration hot fire at Stennis Space Center near Bay St. Louis, Mississippi. The single-engine hot fire, known as a confidence test, was designed to confirm all is ready to proceed with a series of certification tests early next year on a full RS-25 certification engine. NASA and the company modified 16 of the engines remaining after the Space Shuttle Program for use on Artemis mission I through IV. The upcoming series of testing is for the RS-25 engines that will be used beginning with Artemis V.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2022-12-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2022-12-14_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2022-12-14-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:52:28Z",
+  "duration": 239.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2022-12-14_RS-25_Engine_Test/SSC_2022-12-14_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.74,
+      "e": 221.02,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    81.5,
+    108.0,
+    155.7,
+    198.13,
+    234.8
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      13.4,
+      16.1,
+      16.7,
+      226.7
+    ],
+    "silence_ends": [
+      13.2,
+      15.1,
+      16.7,
+      18.0,
+      239.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2022-12-14-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    7.46,
+    22.37,
+    37.28,
+    52.19,
+    67.11,
+    82.02,
+    96.93,
+    111.84,
+    126.76,
+    141.67,
+    156.58,
+    171.49,
+    186.41,
+    201.32,
+    216.23,
+    231.14
+  ]
+}

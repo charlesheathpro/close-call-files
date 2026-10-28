@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:KSC-20200110-VP-MWC01-INSIDEKSC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Inside KSC! Jan. 10, 2020",
+  "description": "Description Goes HereNASA and the European Space Agency are preparing to launch Solar Orbiter, a mission that will study the Sun, its outer atmosphere and solar wind. Liftoff of the United Launch Alliance Atlas V rocket is scheduled for Feb. 5 from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida. Also, SpaceX is gearing up for their In-Flight Abort Test, scheduled for Jan. 18, to demonstrate Crew Dragon's ability to safely separate from a Falcon 9 rocket.",
+  "keywords": "Solar Orbiter, NASA, Kennedy Space Center, Launch Services Program, Sun, In-Flight Abort Test, SpaceX, Crew Dragon, Falcon 9, Cape Canaveral Air Force Station, Commercial Crew Program",
+  "date": "2020-01-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200110-VP-MWC01-INSIDEKSC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200110-VP-MWC01-INSIDEKSC",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:53:34Z",
+  "duration": 112.28,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200110-VP-MWC01-INSIDEKSC/KSC-20200110-VP-MWC01-INSIDEKSC~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 6.76,
+      "text": "Natural"
+    }
+  ],
+  "scene_cuts": [
+    11.33,
+    13.73,
+    17.7,
+    21.13,
+    25.9,
+    28.6,
+    33.13,
+    36.13,
+    49.1,
+    55.77,
+    60.23,
+    82.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      89.3,
+      90.7
+    ],
+    "silence_ends": [
+      90.4,
+      112.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200110-VP-MWC01-INSIDEKSC.jpg",
+  "sheet_times": [
+    3.49,
+    10.48,
+    17.47,
+    24.45,
+    31.44,
+    38.42,
+    45.41,
+    52.4,
+    59.38,
+    66.37,
+    73.35,
+    80.34,
+    87.33,
+    94.31,
+    101.3,
+    108.28
+  ]
+}

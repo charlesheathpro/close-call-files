@@ -1,0 +1,120 @@
+{
+  "asset_id": "video:909793",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues dog from Ecola State Park, Oregon",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Astoria rescue a dog that fell fell from a cliff in Ecola State Park in Oregon Jan. 1, 2024. The aircrew transferred the dog to its owners at the park. (U.S. Coast Guard courtesy video)",
+  "keywords": "Coast Guard",
+  "date": "2024-01-01T00:00:00-05:00",
+  "date_published": "2024-01-03T18:41:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "240103-G-AS553-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/909793/coast-guard-rescues-dog-ecola-state-park-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-909793",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:11:56Z",
+  "duration": 136.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2401/DOD_110070118/DOD_110070118.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 163890107
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 17.97,
+      "e": 112.06,
+      "text": "So I could not hear about that."
+    },
+    {
+      "s": 112.06,
+      "e": 113.66,
+      "text": "You bet Trevor wasn't in the basket."
+    },
+    {
+      "s": 113.66,
+      "e": 114.16,
+      "text": "That was like."
+    }
+  ],
+  "scene_cuts": [
+    7.77,
+    18.69,
+    28.9,
+    43.38,
+    51.75,
+    65.73,
+    74.71,
+    80.35,
+    84.75,
+    92.16,
+    100.0,
+    108.14,
+    136.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      8.6,
+      21.3,
+      23.6,
+      26.9,
+      66.1,
+      70.7,
+      92.2,
+      119.1,
+      125.2,
+      129.0,
+      131.7
+    ],
+    "silence_ends": [
+      9.8,
+      22.5,
+      26.5,
+      28.9,
+      66.8,
+      71.4,
+      100.0,
+      121.8,
+      125.9,
+      130.1,
+      132.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-909793.jpg",
+  "sheet_times": [
+    4.26,
+    12.77,
+    21.29,
+    29.8,
+    38.32,
+    46.83,
+    55.35,
+    63.86,
+    72.38,
+    80.89,
+    89.41,
+    97.92,
+    106.43,
+    114.95,
+    123.46,
+    131.98
+  ]
+}

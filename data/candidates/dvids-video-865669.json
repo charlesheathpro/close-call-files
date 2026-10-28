@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:865669",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Mauna Loa volcano erupts for first time in 38 years",
+  "description": "The world’s largest active volcano, Mauna Loa on Hawaii’s Big Island, is erupting for the first time since 1984. The eruption began in Moku’āweoweo, the summit caldera of Mauna Loa, on Sunday at approximately 11:30 p.m. HST, according to the Hawaii Volcano Observatory; though lava is flowing down one side of the volcano, there is no indication of a threat to nearby communities at this time.",
+  "keywords": "Mauna Loa Volcano, USCG",
+  "date": "2022-11-28T00:00:00-05:00",
+  "date_published": "2022-11-28T20:15:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class David Graham",
+  "category": "B-Roll",
+  "virin": "221128-G-UE432-977",
+  "location": {
+    "city": "Honlulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/865669/mauna-loa-volcano-erupts-first-time-38-years",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-865669",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:19:03Z",
+  "duration": 59.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2211/DOD_109343765/DOD_109343765-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 42749571
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.83,
+    9.14,
+    27.55,
+    37.86,
+    40.51,
+    50.58,
+    52.92,
+    53.13,
+    53.17,
+    53.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-865669.jpg",
+  "sheet_times": [
+    1.83,
+    5.49,
+    9.16,
+    12.82,
+    16.48,
+    20.14,
+    23.8,
+    27.47,
+    31.13,
+    34.79,
+    38.45,
+    42.12,
+    45.78,
+    49.44,
+    53.1,
+    56.76
+  ]
+}

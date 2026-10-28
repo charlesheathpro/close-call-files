@@ -1,0 +1,115 @@
+{
+  "asset_id": "nasa:KSC-20250612-RV-FMX01-Artemis_II_VALENT-WON_M14256",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "drop test",
+  "title": "Artemis II VALENT",
+  "description": "Artemis II VALENT",
+  "keywords": "VALENT, Training, Water, Ocean, Test, Lift, Drop, Launch, NASA, KSC, Kennedy Space Center, Repair, Crew, Artemis, Astro, astronauts, Abort, Safety, Department of Defense, DOD, Orion",
+  "date": "2025-06-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20250612-RV-FMX01-Artemis_II_VALENT-WON_M14256",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20250612-RV-FMX01-Artemis-II-VALENT-WON-M14256",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:23:52Z",
+  "duration": 489.93,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20250612-RV-FMX01-Artemis_II_VALENT-WON_M14256/KSC-20250612-RV-FMX01-Artemis_II_VALENT-WON_M14256~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.85,
+      "e": 6.85,
+      "text": "We've had the last report."
+    },
+    {
+      "s": 6.85,
+      "e": 10.85,
+      "text": "Copy, DODK, DODK, this is our CD. We've had our last report."
+    },
+    {
+      "s": 10.85,
+      "e": 16.85,
+      "text": "14 or 120 zero request, POD rescue assistance."
+    },
+    {
+      "s": 16.85,
+      "e": 19.85,
+      "text": "DODK is then last of the boards."
+    }
+  ],
+  "scene_cuts": [
+    15.67,
+    19.83,
+    32.37,
+    38.5,
+    65.17,
+    70.4,
+    99.57,
+    110.07,
+    120.67,
+    130.9,
+    136.9,
+    145.47,
+    150.4,
+    168.57,
+    181.4,
+    231.87,
+    259.83,
+    286.5,
+    297.9,
+    375.53,
+    384.67,
+    396.97,
+    415.47,
+    422.5,
+    432.23,
+    472.27,
+    476.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      226.4,
+      227.5,
+      228.3,
+      231.0
+    ],
+    "silence_ends": [
+      4.9,
+      227.5,
+      228.3,
+      231.0,
+      231.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20250612-RV-FMX01-Artemis-II-VALENT-WON-M14256.jpg",
+  "sheet_times": [
+    15.29,
+    45.88,
+    76.47,
+    107.06,
+    137.65,
+    168.24,
+    198.83,
+    229.42,
+    260.01,
+    290.6,
+    321.19,
+    351.78,
+    382.37,
+    412.96,
+    443.55,
+    474.14
+  ]
+}

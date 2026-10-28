@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:483505",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "Marines Fire M16 and M4 aboard Green Bay",
+  "description": "Marines, assigned to 31st Marine Expeditionary Unit (MEU), fire M4 and M16 rifles on the flight deck of the amphibious transport dock USS Green Bay (LPD 20) during a live fire exercise. Green Bay, part of the Bonhomme Richard Expeditionary Strike Group, is operating in the Philippine Sea in support of security and stability in the Indo-Asia-Pacific region.",
+  "keywords": "M-16, Green Bay, M14, Marine Expiditionary Unit, 31st MEU",
+  "date": "2016-09-13T00:00:00-04:00",
+  "date_published": "2016-09-17T11:06:09-04:00",
+  "branch": "Navy",
+  "unit_name": "Commander, Expeditionary Strike Group 7",
+  "credit": "Petty Officer 3rd Class Patrick Dionne",
+  "category": "B-Roll",
+  "virin": "160913-N-XM324-922",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Philippine Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "M0"
+  },
+  "page_url": "https://www.dvidshub.net/video/483505/marines-fire-m16-and-m4-aboard-green-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-483505",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:27:32Z",
+  "duration": 34.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103668166/DOD_103668166.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7057,
+    "size": 30961533
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    12.25,
+    13.91,
+    15.25,
+    16.78,
+    28.56,
+    32.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      32.7
+    ],
+    "silence_ends": [
+      4.0,
+      34.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-483505.jpg",
+  "sheet_times": [
+    4.97,
+    6.85,
+    8.73,
+    10.61,
+    12.5,
+    14.38,
+    16.26,
+    18.14,
+    20.03,
+    21.91,
+    23.79,
+    25.67,
+    27.56,
+    29.44,
+    31.32,
+    33.2
+  ]
+}

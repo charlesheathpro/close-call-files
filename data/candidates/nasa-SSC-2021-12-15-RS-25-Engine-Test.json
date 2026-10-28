@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:SSC_2021-12-15_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA 'Fires Up' First Hot Fire in New RS-25 Engine Test Series",
+  "description": "NASA conducted the first hot fire in a new series of tests for production of RS-25 engines that will help power the agency’s Space Launch System (SLS) rocket on future deep-space missions. The test of RS-25 developmental engine No. 0525 on the Fred Haise Test Stand at Stennis Space Center, marks the beginning of a test series designed to provide valuable data to Aerojet Rocketdyne, the lead contractor for SLS engines, as the company begins production of new RS-25 engines. For the Dec. 15 test, the RS-25 developmental engine fired for a full duration of about eight-and-a-half minutes (500 seconds) and the engine operated at 111% of its original power level for a set duration of time, the same level that RS-25 engines are required to perform during launch.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2021-12-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2021-12-15_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2021-12-15-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:42:28Z",
+  "duration": 523.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2021-12-15_RS-25_Engine_Test/SSC_2021-12-15_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.71,
+      "e": 517.22,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      516.9
+    ],
+    "silence_ends": [
+      523.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2021-12-15-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.33,
+    48.99,
+    81.65,
+    114.3,
+    146.96,
+    179.62,
+    212.28,
+    244.94,
+    277.6,
+    310.25,
+    342.91,
+    375.57,
+    408.23,
+    440.89,
+    473.55,
+    506.2
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:601539",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Fissure 17 eruption",
+  "description": "B-roll of fissure 17 eruption, May 18, 2018. \r\n2018 Puna Lava flow/eruptions, Hawaii County, Island of Hawaii",
+  "keywords": "Hawaii National Guard, Pahoa, pele, Joint Task Force 50, Puna lava flow, Task Force 50, Leilani estates, Task Force Hawaii, fissure 17, island of hawaii, hawaii county, kilauea2018eruption",
+  "date": "2018-05-18T00:00:00-04:00",
+  "date_published": "2018-05-18T23:30:26-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Senior Airman Orlando Corpuz",
+  "category": "B-Roll",
+  "virin": "180518-Z-PW099-001",
+  "location": {
+    "city": "Hilo",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/601539/fissure-17-eruption",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.2042,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-601539",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:14:34Z",
+  "duration": 32.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105645309/DOD_105645309.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8318,
+    "size": 34620262
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    8.48,
+    14.61,
+    22.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-601539.jpg",
+  "sheet_times": [
+    5.09,
+    6.85,
+    8.62,
+    10.38,
+    12.15,
+    13.91,
+    15.67,
+    17.44,
+    19.2,
+    20.97,
+    22.73,
+    24.5,
+    26.26,
+    28.03,
+    29.79,
+    31.56
+  ]
+}

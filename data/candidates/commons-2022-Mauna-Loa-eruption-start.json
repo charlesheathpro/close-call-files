@@ -1,0 +1,64 @@
+{
+  "asset_id": "commons:File:2022 Mauna Loa eruption start.webm",
+  "source": "commons",
+  "lane": "hazards",
+  "matched_query": "volcano eruption USGS",
+  "title": "2022 Mauna Loa eruption start",
+  "description": "Video showing thermal imagery from the 2022 Mauna Loa eruption which began around 11:30pm HST.",
+  "keywords": "2022 Mauna Loa eruption series, PD USGS, Uploaded with video2commons, Volcanology of Hawaii, Monitoring of Mauna Loa, Thermal images of volcanoes, Start of mixed eruptions",
+  "date": "2022-11-28",
+  "branch": "",
+  "unit_name": "United States Geological Survey website",
+  "credit": "United States Geological Survey website video",
+  "original_source": "United States Geological Survey website",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2022_Mauna_Loa_eruption_start.webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "commons-2022-Mauna-Loa-eruption-start",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:45:40Z",
+  "duration": 25.61,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/2022_Mauna_Loa_eruption_start.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1920,
+    "height": 1080,
+    "size": 6602509
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.68,
+    9.78,
+    9.88
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.6
+    ]
+  },
+  "sheet": "data/candidates/commons-2022-Mauna-Loa-eruption-start.jpg",
+  "sheet_times": [
+    0.78,
+    2.35,
+    3.92,
+    5.49,
+    7.06,
+    8.63,
+    10.2,
+    11.77,
+    13.34,
+    14.91,
+    16.48,
+    18.05,
+    19.62,
+    21.19,
+    22.75,
+    24.32
+  ]
+}

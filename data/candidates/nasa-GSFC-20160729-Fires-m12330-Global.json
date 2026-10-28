@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:GSFC_20160729_Fires_m12330_Global",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "NASA Sees Intense Fires Around The World",
+  "description": "This year’s wildfire season is off to a blazing start. The United States had an early start to the season, with more than 29,000 wildfires burning more than 2.6 million acres of land. The driest season in 14 years has left the southern Amazon primed for heavy wildfire activity as well. The expected wildfire surge in the Amazon this summer is the result of El Niño, a warming of waters in the Pacific Ocean that had major impacts on weather across the United States the first half of 2016. While El Niño has officially ended, we’re still feeling effects through increased wildfire activity.  In some parts of the U.S., the fire season is now on average 78 days longer than it was in 1970, according to the U.S. Department of Agriculture. NASA scientists are able to monitor these wildfires better than ever before, providing valuable information that fire managers can use to prepare the public. Using data collected by satellites, planes and on the ground, NASA is tracking wildfires around the world and keeping an eye on the hot, dry conditions that contribute to larger fires.",
+  "keywords": "Smoke, Atmospheric Science, Aerosols, Fires, GRACE, Earth, Wildfires, IMERG",
+  "date": "2016-07-29T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160729_Fires_m12330_Global",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160729-Fires-m12330-Global",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:24:32Z",
+  "duration": 56.23,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160729_Fires_m12330_Global/GSFC_20160729_Fires_m12330_Global~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.93,
+    17.57,
+    23.43,
+    27.63,
+    45.27,
+    52.33
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      55.1
+    ],
+    "silence_ends": [
+      56.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160729-Fires-m12330-Global.jpg",
+  "sheet_times": [
+    1.74,
+    5.23,
+    8.71,
+    12.19,
+    15.68,
+    19.16,
+    22.64,
+    26.13,
+    29.61,
+    33.09,
+    36.58,
+    40.06,
+    43.54,
+    47.03,
+    50.51,
+    53.99
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "asset_id": "nasa:GOES-S",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "GOES-S",
+  "description": "NOAA’s Geostationary Operational Environmental Satellite-S (GOES-S) launched March 1, 2018 at 5:02 p.m. EST on a United Launch Alliance Atlas V rocket from Cape Canaveral Air Force Station (CCAFS) in Florida. GOES-S is the second in the GOES-R Series of weather satellites that includes GOES-R (now GOES-16), -S, -T and -U. GOES-S will be renamed GOES-17 when it reaches geostationary orbit. Once the satellite is declared operational late 2018, it will occupy NOAA’s GOES-West position and provide faster, more accurate data for tracking wildfires, tropical cyclones, fog and other storm systems and hazards that threaten the western United States, Hawaii, Alaska, Mexico, Central America and part of South America.",
+  "keywords": "",
+  "date": "2022-12-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/GOES-S",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GOES-S",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:43:47Z",
+  "duration": 87.24,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GOES-S/GOES-S~orig.mp4",
+    "width": 960,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.65,
+      "e": 4.65,
+      "text": "3, 2, 1."
+    },
+    {
+      "s": 7.65,
+      "e": 13.29,
+      "text": "And liftoff of the Atlas V and NOAA's GOES-S, a highly sophisticated weather watching eye"
+    },
+    {
+      "s": 13.29,
+      "e": 20.36,
+      "text": "in the sky to join its twin in providing better forecasts and saving lives."
+    },
+    {
+      "s": 20.36,
+      "e": 26.96,
+      "text": "NOAA's geostationary operational environmental satellite S or GOES-S launched at 5.02 PM"
+    },
+    {
+      "s": 26.96,
+      "e": 30.08,
+      "text": "Eastern on March 1, 2018."
+    },
+    {
+      "s": 30.08,
+      "e": 35.8,
+      "text": "It was delivered to orbit aboard a United Launch Alliance Atlas V rocket from Space Launch Complex 41"
+    },
+    {
+      "s": 35.8,
+      "e": 38.72,
+      "text": "at Cape Canaveral Air Force Station in Florida."
+    },
+    {
+      "s": 38.72,
+      "e": 46.28,
+      "text": "GOES-S was renamed GOES-17 after reaching geostationary orbit 22,000 miles above the Earth."
+    },
+    {
+      "s": 46.28,
+      "e": 52.12,
+      "text": "It is the second in the GOES-R series of next-generation weather satellites that began with GOES-R,"
+    },
+    {
+      "s": 52.12,
+      "e": 58.12,
+      "text": "now renamed GOES-16, and includes GOES-S, GOES-T, and GOES-U."
+    },
+    {
+      "s": 58.12,
+      "e": 64.04,
+      "text": "Once GOES-17 has declared operational, expected in late 2018, it will reside in a geostationary"
+    },
+    {
+      "s": 64.04,
+      "e": 69.84,
+      "text": "position over the Pacific Ocean to provide faster, more accurate data for tracking wildfires,"
+    },
+    {
+      "s": 69.84,
+      "e": 75.04,
+      "text": "tropical cyclones, fog, and other storm systems and hazards that threaten the western United"
+    },
+    {
+      "s": 75.04,
+      "e": 76.28,
+      "text": "States."
+    },
+    {
+      "s": 76.28,
+      "e": 82.16,
+      "text": "It will also improve weather forecasts for Hawaii, Alaska, Mexico, Central America, and"
+    },
+    {
+      "s": 82.16,
+      "e": 84.76,
+      "text": "the Pacific Ocean all the way to New Zealand."
+    }
+  ],
+  "scene_cuts": [
+    4.7,
+    7.7,
+    23.2,
+    29.37,
+    38.37,
+    68.8,
+    71.63,
+    73.73,
+    75.87
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      85.9
+    ],
+    "silence_ends": [
+      87.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-GOES-S.jpg",
+  "sheet_times": [
+    2.71,
+    8.13,
+    13.55,
+    18.97,
+    24.39,
+    29.82,
+    35.24,
+    40.66,
+    46.08,
+    51.5,
+    56.92,
+    62.34,
+    67.76,
+    73.18,
+    78.61,
+    84.03
+  ]
+}

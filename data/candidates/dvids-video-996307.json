@@ -1,0 +1,111 @@
+{
+  "asset_id": "video:996307",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues 1 person, 1 dog near Winyah Bay, S.C.",
+  "description": "A Coast Guard Air Facility Charleston MH-65 Dolphin helicopter crew rescues a mariner and his dog after their 37-foot sailing vessel, Chusan, ran aground near Winyah Bay, Feb. 13, 2026. The man and his dog were transported to Georgetown Airport with no reported medical concerns. (U.S. Coast Guard video)",
+  "keywords": null,
+  "date": "2026-02-13T00:00:00-05:00",
+  "date_published": "2026-02-14T14:24:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Kace White",
+  "category": "B-Roll",
+  "virin": "260213-G-WP415-2876",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/996307/coast-guard-rescues-1-person-1-dog-near-winyah-bay-sc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-996307",
+  "status": "new",
+  "harvested_at": "2026-10-28T01:24:40Z",
+  "duration": 44.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2602/DOD_111527978/DOD_111527978-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 46185554
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.0,
+      "e": 3.0,
+      "text": "So we're going down."
+    },
+    {
+      "s": 3.0,
+      "e": 26.5,
+      "text": "Press the bell."
+    },
+    {
+      "s": 26.5,
+      "e": 32.01,
+      "text": "Inside your."
+    },
+    {
+      "s": 32.01,
+      "e": 35.63,
+      "text": "And through the valve kit."
+    },
+    {
+      "s": 35.63,
+      "e": 40.38,
+      "text": "It's up here."
+    },
+    {
+      "s": 40.38,
+      "e": 41.38,
+      "text": "It's up here."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 65,
+  "audio": {
+    "silence_starts": [
+      7.0,
+      13.4,
+      18.2,
+      29.2,
+      32.7,
+      42.4
+    ],
+    "silence_ends": [
+      7.6,
+      14.4,
+      18.9,
+      30.0,
+      34.3,
+      44.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-996307.jpg",
+  "sheet_times": [
+    1.37,
+    4.12,
+    6.87,
+    9.62,
+    12.37,
+    15.12,
+    17.87,
+    20.61,
+    23.36,
+    26.11,
+    28.86,
+    31.61,
+    34.36,
+    37.11,
+    39.85,
+    42.6
+  ]
+}
