@@ -1,0 +1,69 @@
+{
+  "asset_id": "nasa:GSFC_20161017_GPM_m12391_Matthew_Wrap",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "GPM Sees Hurricane Matthew's Life Cycle",
+  "description": "Hurricane Matthew dropped a lot of rain, caused flooding and deaths in the state of North Carolina. Flooding is still widespread in North Carolina. Some rivers in North Carolina such as the Tar and the Neuse Rivers were still rising on Oct. 12.  At NASA's Goddard Space Flight Center in Greenbelt, Maryland a rainfall analysis was accomplished using data from NASA's Integrated Multi-satellitE Retrievals for GPM (IMERG). The GPM or Global Precipitation Measurement mission is a joint mission between NASA and the Japanese space agency JAXA.  This rainfall analysis was created using IMERG real time data covering the period from Sept. 28 through Oct. 10, 2016. The totals included some rain from a low pressure area that moved through the area near the end of September.  Hurricane Matthew’s interaction with a frontal boundary caused extreme rainfall in North Carolina resulting in over 20 inches (508 mm) of rain being reported in North Carolina. The area was already saturated before Hurricane Matthew arrived. Heavy rainfall from a slow moving low and frontal system moved through during the last week of September. Maximum rainfall total estimates for the real-time IMERG product have been adjusted to reflect observed values.",
+  "keywords": "Natural Hazards, Hurricanes, Earth, Hurricane Matthew",
+  "date": "2016-10-17T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20161017_GPM_m12391_Matthew_Wrap",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20161017-GPM-m12391-Matthew-Wrap",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:54:13Z",
+  "duration": 88.17,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20161017_GPM_m12391_Matthew_Wrap/GSFC_20161017_GPM_m12391_Matthew_Wrap~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.37,
+    11.13,
+    17.1,
+    23.27,
+    37.0,
+    56.07,
+    62.63,
+    74.1,
+    79.2,
+    85.23
+  ],
+  "drama_score": 83,
+  "audio": {
+    "silence_starts": [
+      87.4
+    ],
+    "silence_ends": [
+      88.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20161017-GPM-m12391-Matthew-Wrap.jpg",
+  "sheet_times": [
+    2.74,
+    8.22,
+    13.7,
+    19.18,
+    24.66,
+    30.14,
+    35.62,
+    41.1,
+    46.57,
+    52.05,
+    57.53,
+    63.01,
+    68.49,
+    73.97,
+    79.45,
+    84.93
+  ]
+}

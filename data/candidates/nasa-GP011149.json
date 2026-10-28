@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:GP011149",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "Orion Camera View of Artemis II Parachute Deployment and Splashdown",
+  "description": "GP011149 (April 10, 2026) - A view from a camera inside NASA’s Artemis II Orion spacecraft during re-entry. In this video, taken from the pilot’s forward window, Orion re-enters the Earth's atmosphere and parachutes deploy for splashdown. Credit: NASA",
+  "keywords": "Artemis, Artemis II, Artemis 2, Orion, Orion Spacecraft, Splashdown, Parachute Deployment",
+  "date": "2026-04-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/GP011149",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GP011149",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:37:17Z",
+  "duration": 709.73,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GP011149/GP011149~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GP011149.jpg",
+  "sheet_times": [
+    22.16,
+    66.49,
+    110.82,
+    155.14,
+    199.47,
+    243.8,
+    288.13,
+    332.45,
+    376.78,
+    421.11,
+    465.43,
+    509.76,
+    554.09,
+    598.42,
+    642.74,
+    687.07
+  ]
+}

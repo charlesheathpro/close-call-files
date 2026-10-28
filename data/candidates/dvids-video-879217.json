@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:879217",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Arkansas Tornadoes: Jacksonville Storm Damage and N. Little Rock DRC",
+  "description": "Little Rock, AR – The community of Jacksonville recovers from storm damage caused by the recent tornadoes, while FEMA personnel helps survivors at a newly opened DRC in N. Little Rock.\n\n\n\n",
+  "keywords": null,
+  "date": "2023-04-10T07:12:00-04:00",
+  "date_published": "2023-04-11T12:25:47-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "230410-D-DR336-579",
+  "location": {
+    "city": "",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/879217/arkansas-tornadoes-jacksonville-storm-damage-and-n-little-rock-drc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-879217",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:16:03Z",
+  "duration": 40.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109567465/DOD_109567465.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 38708461
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.99,
+    10.96,
+    18.6,
+    25.41,
+    34.02
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-879217.jpg",
+  "sheet_times": [
+    1.25,
+    3.76,
+    6.26,
+    8.77,
+    11.28,
+    13.78,
+    16.29,
+    18.79,
+    21.3,
+    23.8,
+    26.31,
+    28.82,
+    31.32,
+    33.83,
+    36.33,
+    38.84
+  ]
+}

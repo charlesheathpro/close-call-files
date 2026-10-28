@@ -1,0 +1,77 @@
+{
+  "asset_id": "nasa:GSFC_20170725_m12195_EPOCH_Hurricanes2",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "landslide",
+  "title": "Flying Over Hurricanes For New NASA Mission",
+  "description": "NASA scientists are investigating key questions about hurricanes in a new mission from the skies. This August, the East Pacific Origins and Characteristics of Hurricanes, or EPOCH, mission will fly over East Pacific storms to better understand how they form and intensify. EPOCH will conduct up to six 24-hour science flights using the Global Hawk unmanned aircraft. Three of the flights are being supported through a partnership with the NOAA UAS Program. Data will be collected using three instruments (EXRAD, HAMSR, and AVAPS) aboard the aircraft that will map out the 3-D patterns of temperature, pressure, humidity, precipitation, and wind speed - key factors that influence hurricane behavior. NASA scientists use a combination of ground, modeled, and satellite data to re-create multi-dimensional pictures of hurricanes and other major storms in order to study complex atmospheric interactions.",
+  "keywords": "Atmosphere Science, GPM, Natural Hazards, Precipitation, Hurricanes, Hurricane Earl, Global Hawk, Earth, Floods, Landslides, Field Campaign",
+  "date": "2017-07-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170725_m12195_EPOCH_Hurricanes2",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170725-m12195-EPOCH-Hurricanes2",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:12:03Z",
+  "duration": 109.55,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170725_m12195_EPOCH_Hurricanes2/GSFC_20170725_m12195_EPOCH_Hurricanes2~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.03,
+    10.07,
+    16.13,
+    20.23,
+    24.3,
+    29.77,
+    35.23,
+    39.7,
+    45.23,
+    50.8,
+    54.87,
+    66.87,
+    72.6,
+    77.63,
+    82.67,
+    93.93,
+    99.73,
+    105.53
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      106.7
+    ],
+    "silence_ends": [
+      109.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170725-m12195-EPOCH-Hurricanes2.jpg",
+  "sheet_times": [
+    3.41,
+    10.22,
+    17.04,
+    23.85,
+    30.67,
+    37.48,
+    44.3,
+    51.12,
+    57.93,
+    64.75,
+    71.56,
+    78.38,
+    85.19,
+    92.01,
+    98.82,
+    105.64
+  ]
+}

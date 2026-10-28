@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:KSC-20220820-MH-MTD01-0001-SpaceX_CRS_25_Splashdown-3312296",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "NASA's SpaceX CRS-25 Splashdown",
+  "description": "NASA's SpaceX CRS-25 Splashdown",
+  "keywords": "NASA, SpaceX, CRS, CRS-25, Commercial Resupply Services",
+  "date": "2022-08-20T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20220820-MH-MTD01-0001-SpaceX_CRS_25_Splashdown-3312296",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20220820-MH-MTD01-0001-SpaceX-CRS-25-Splashdown-3312296",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:45:44Z",
+  "duration": 47.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20220820-MH-MTD01-0001-SpaceX_CRS_25_Splashdown-3312296/KSC-20220820-MH-MTD01-0001-SpaceX_CRS_25_Splashdown-3312296~large.mp4",
+    "width": 1920,
+    "height": 1012
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.07
+  ],
+  "drama_score": 31,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      47.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20220820-MH-MTD01-0001-SpaceX-CRS-25-Splashdown-3312296.jpg",
+  "sheet_times": [
+    1.46,
+    4.39,
+    7.32,
+    10.25,
+    13.18,
+    16.11,
+    19.04,
+    21.97,
+    24.9,
+    27.83,
+    30.76,
+    33.69,
+    36.61,
+    39.54,
+    42.47,
+    45.4
+  ]
+}

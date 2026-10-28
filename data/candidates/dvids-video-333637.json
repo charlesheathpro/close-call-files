@@ -1,0 +1,101 @@
+{
+  "asset_id": "video:333637",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "B-Roll of Mississippi Army National Guard soldiers conducting search and rescue mission after the tornado in Louisville, Miss.",
+  "description": "Soldiers from the 2nd Battalion, 114th Field Artillery Regiment conduct search and rescue missions in Louisville, Mississippi after a tornado ripped through part of the city.  The teams were tasked to locate missing civilians who live in the area. Available in high definition.",
+  "keywords": "MS, Mississippi Army National Guard, 102nd Mobile Public Affairs Detachment, 1/114th, 102 mpad, 102nd MPAD, Michael Needham, MS Army National Guard, 2-114th Field Artillery Regiment, Louisville MS Tornado, Louisville",
+  "date": "2014-04-29T00:00:00-04:00",
+  "date_published": "2014-04-29T19:25:32-04:00",
+  "branch": "Army",
+  "unit_name": "102d Public Affairs Detachment",
+  "credit": "Sgt. Michael Needham",
+  "category": "B-Roll",
+  "virin": "140429-A-XA218-019",
+  "location": {
+    "city": "Louisville",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/333637/b-roll-mississippi-army-national-guard-soldiers-conducting-search-and-rescue-mission-after-tornado-louisville-miss",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 13.0464,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-333637",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:54:32Z",
+  "duration": 75.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1404/DOD_101483920/DOD_101483920.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6001,
+    "size": 58559675
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 59.25,
+      "e": 60.25,
+      "text": "It's not fun here."
+    }
+  ],
+  "scene_cuts": [
+    13.01,
+    16.18,
+    19.49,
+    22.52,
+    26.86,
+    30.13,
+    30.16,
+    30.26,
+    30.43,
+    30.6,
+    30.76,
+    33.13,
+    35.17,
+    37.67,
+    39.44,
+    40.04,
+    45.38,
+    48.82,
+    52.05,
+    55.96,
+    60.66,
+    65.5,
+    68.84,
+    72.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      13.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-333637.jpg",
+  "sheet_times": [
+    14.98,
+    18.85,
+    22.73,
+    26.6,
+    30.47,
+    34.34,
+    38.21,
+    42.09,
+    45.96,
+    49.83,
+    53.7,
+    57.57,
+    61.45,
+    65.32,
+    69.19,
+    73.06
+  ]
+}

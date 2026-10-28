@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:579384",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "San Diego Coast Guard crew evacuates 8 people, 5 dogs during mudslide response in Santa Barbara County",
+  "description": "A Coast Guard MH-60T Jayhawk helicopter crew from Coast Guard Sector San Diego evacuates eight people and five dogs from the Montecito Golf Course, in Montecito, California, after mudslides made roads impassable Jan. 9, 2018. They were transported to a staging area with Santa Barbara County emergency crews. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "mudslide, Santa Barbara, Montecito, helicopter, Coast Guard, California, rescue, dogs, San Diego",
+  "date": "2018-01-09T00:00:00-05:00",
+  "date_published": "2018-01-10T16:53:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180109-G-G0211-1002",
+  "location": {
+    "city": "Montecito",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/579384/san-diego-coast-guard-crew-evacuates-8-people-5-dogs-during-mudslide-response-santa-barbara-county",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-579384",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:32:26Z",
+  "duration": 195.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105233067/DOD_105233067.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10018,
+    "size": 245043525
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    51.79,
+    122.62,
+    164.53
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      195.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-579384.jpg",
+  "sheet_times": [
+    6.09,
+    18.28,
+    30.47,
+    42.65,
+    54.84,
+    67.02,
+    79.21,
+    91.4,
+    103.58,
+    115.77,
+    127.95,
+    140.14,
+    152.33,
+    164.51,
+    176.7,
+    188.88
+  ]
+}

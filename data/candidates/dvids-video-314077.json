@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314077",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "flood rescue dog",
+  "title": "Coast Guard Rescues Three People and a cat and dog",
+  "description": "FARGO, N.D. - The Coast Guard rescued three people and their cat and dog March 26, 2009, during the Red River Valley floods. An HH-65 Dolphin helicopter crew, from Air Station Traverse City, Mich., made the rescue following a report of a woman who suffered a head injury. (Coast Guard video by Air Station Traverse City)",
+  "keywords": "CGVI",
+  "date": "2009-03-27T00:00:00-04:00",
+  "date_published": "2013-12-17T05:48:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090326-G-5394S-001",
+  "location": {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314077/coast-guard-rescues-three-people-and-cat-and-dog",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.33867,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314077",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:02:48Z",
+  "duration": 196.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054750/DOD_101054750-640x480-2746k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2746,
+    "size": 70559033
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.02,
+    96.26,
+    124.92,
+    155.56,
+    176.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      196.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314077.jpg",
+  "sheet_times": [
+    11.3,
+    23.23,
+    35.15,
+    47.07,
+    59.0,
+    70.92,
+    82.85,
+    94.77,
+    106.69,
+    118.62,
+    130.54,
+    142.47,
+    154.39,
+    166.32,
+    178.24,
+    190.16
+  ]
+}

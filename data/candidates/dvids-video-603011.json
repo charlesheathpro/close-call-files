@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:603011",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Aerial Video of Hawaii Lava Flow",
+  "description": "B-Roll of the lava flow in Hawaii County. Hawaii Army National Guard Soldiers teamed up with Active Duty soldiers as they conducted air reconnaissance over areas impacted by the lava on May 27th, 2018. \r\n\r\nAt the 2:29 mark, you can see where the magma is flowing into the Pacific ocean.",
+  "keywords": "Hawaii National Guard, Hawaii Army National Guard, soldiers, HIARNG, lava flow, Hawaii lava flow, kilauea2018eruption, military",
+  "date": "2018-05-27T00:00:00-04:00",
+  "date_published": "2018-05-27T22:54:03-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Spc. Aven Santiago",
+  "category": "B-Roll",
+  "virin": "180527-A-SM034-954",
+  "location": {
+    "city": "Pahoa",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/603011/aerial-video-hawaii-lava-flow",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-603011",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:12:13Z",
+  "duration": 187.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105673400/DOD_105673400.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9259,
+    "size": 219735756
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    25.33,
+    86.99,
+    120.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-603011.jpg",
+  "sheet_times": [
+    5.83,
+    17.49,
+    29.16,
+    40.82,
+    52.48,
+    64.14,
+    75.8,
+    87.47,
+    99.13,
+    110.79,
+    122.45,
+    134.11,
+    145.78,
+    157.44,
+    169.1,
+    180.76
+  ]
+}

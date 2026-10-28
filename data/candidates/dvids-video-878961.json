@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:878961",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Arkansas Tornadoes: Storm Damage Recovery and DSA Registrations B-Roll",
+  "description": "Little Rock, AR – Restoration began in the neighborhood of Breckenridge, as FEMA personnel walk door-to-door to perform DSA registrations. Also contains b-roll video of Wynne HS demolition following the storms.",
+  "keywords": "FEMA, severe storms, Tornadoes Recovery, Arkansas",
+  "date": "2023-04-06T00:00:00-04:00",
+  "date_published": "2023-04-07T16:09:43-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "230406-D-DR336-870",
+  "location": {
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/878961/arkansas-tornadoes-storm-damage-recovery-and-dsa-registrations-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-878961",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:17:17Z",
+  "duration": 147.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109561721/DOD_109561721.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 183127420
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.99,
+    32.55,
+    59.14,
+    78.93,
+    92.24,
+    112.86,
+    120.77,
+    136.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      147.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-878961.jpg",
+  "sheet_times": [
+    4.59,
+    13.78,
+    22.96,
+    32.14,
+    41.33,
+    50.51,
+    59.7,
+    68.88,
+    78.07,
+    87.25,
+    96.43,
+    105.62,
+    114.8,
+    123.99,
+    133.17,
+    142.36
+  ]
+}

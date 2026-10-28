@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:391352",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "blizzard rescue",
+  "title": "Coast Guard Rescues Sailors in Winter Storm",
+  "description": "BOSTON - A Coast Guard Air Station Cape Cod helicopter crew rescues a father and son after their sailboat becomes disabled in a winter storm about 150 miles south of Nantucket, Mass. After navigating through low visibility and near hurricane force winds, the aircrew arrived on-scene and hoisted the men to safety. (U.S. Coast Guard video by Coast Guard Air Station Cape Cod.)",
+  "keywords": "Coast Guard rescue, Blizzard, capsize, Sedona, sailors, rescue, cape cod",
+  "date": "2015-02-15T00:00:00-05:00",
+  "date_published": "2015-02-15T18:33:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class MyeongHi Clegg",
+  "category": "B-Roll",
+  "virin": "150215-G-VV362-005",
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/391352/coast-guard-rescues-sailors-winter-storm",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-391352",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:05:32Z",
+  "duration": 98.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1502/DOD_102239186/DOD_102239186.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9013,
+    "size": 110517084
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    9.41,
+    24.69,
+    46.41
+  ],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-391352.jpg",
+  "sheet_times": [
+    6.95,
+    12.79,
+    18.63,
+    24.47,
+    30.31,
+    36.16,
+    42.0,
+    47.84,
+    53.68,
+    59.52,
+    65.37,
+    71.21,
+    77.05,
+    82.89,
+    88.73,
+    94.58
+  ]
+}

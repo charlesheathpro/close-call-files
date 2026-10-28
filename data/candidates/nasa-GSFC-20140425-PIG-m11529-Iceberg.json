@@ -1,0 +1,58 @@
+{
+  "asset_id": "nasa:GSFC_20140425_PIG_m11529_Iceberg",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "iceberg",
+  "title": "Pine Island Glacier Ice Island 2013",
+  "description": "In early November 2013, a large iceberg separated from the front of Antarctica’s Pine Island Glacier. It thus began a journey across Pine Island Bay, a basin of the Amundsen Sea. The ice island, named B31, will likely be swept up soon in the swift currents of the Southern Ocean, though it will be hard to track visually for the next six months as Antarctica heads into winter darkness.  Over the course of five months in Antarctic spring and summer, the Moderate Resolution Imaging Spectroradiometer (MODIS)—an instrument on NASA’s Terra and Aqua satellites—captured a series of images of ice island B31. The time-lapse video below shows the motion of the massive chunk of ice.  The significance of the event is still being sorted out. “Iceberg calving is a very normal process,” noted Kelly Brunt, a glaciologist at NASA’s Goddard Space Flight Center. “However, the detachment rift, or crack, that created this iceberg was well upstream of the 30-year average calving front of Pine Island Glacier, so this a region that warrants monitoring.”  Pine Island Glacier has been the subject of intense study in the past two decades because it has been thinning and draining rapidly and may be one of the largest contributors to sea level rise.",
+  "keywords": "Pine Island Glacier, Ice Sheets, Icebergs, Earth",
+  "date": "2014-04-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140425_PIG_m11529_Iceberg",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140425-PIG-m11529-Iceberg",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:32:21Z",
+  "duration": 86.34,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140425_PIG_m11529_Iceberg/GSFC_20140425_PIG_m11529_Iceberg~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      84.2
+    ],
+    "silence_ends": [
+      86.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140425-PIG-m11529-Iceberg.jpg",
+  "sheet_times": [
+    2.68,
+    8.05,
+    13.41,
+    18.78,
+    24.14,
+    29.51,
+    34.87,
+    40.24,
+    45.6,
+    50.97,
+    56.33,
+    61.69,
+    67.06,
+    72.42,
+    77.79,
+    83.15
+  ]
+}

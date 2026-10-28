@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:317169",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pilot rescue",
+  "title": "Air Station Corpus Christi rescues two Navy pilots after jet crashes",
+  "description": "Air Station Corpus Christi MH-65C Dolphin crew hoists two Navy pilots from crashed T-34C. Coast Guard video via HU-25 Falcon.",
+  "keywords": "CGVI",
+  "date": "2011-08-25T12:48:10-04:00",
+  "date_published": "2013-12-21T14:22:53-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317169/air-station-corpus-christi-rescues-two-navy-pilots-after-jet-crashes",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317169",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:46:18Z",
+  "duration": 155.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062071/DOD_101062071-640x480-1710k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1710,
+    "size": 35075388
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 22.61,
+      "e": 76.81,
+      "text": "hospital on Dune yesterday which is backing up the pilots and working the voice."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    10.84,
+    12.35,
+    23.52,
+    32.43,
+    42.91,
+    49.55,
+    55.12,
+    85.02,
+    95.53
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      43.1,
+      55.3,
+      77.9,
+      82.4,
+      85.0,
+      88.0,
+      93.6,
+      97.2,
+      103.5
+    ],
+    "silence_ends": [
+      4.1,
+      49.7,
+      72.4,
+      79.3,
+      84.6,
+      85.9,
+      90.0,
+      95.7,
+      98.1,
+      140.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317169.jpg",
+  "sheet_times": [
+    4.84,
+    14.51,
+    24.18,
+    33.85,
+    43.52,
+    53.19,
+    62.86,
+    72.53,
+    82.2,
+    91.87,
+    101.54,
+    111.21,
+    120.88,
+    130.55,
+    140.22,
+    149.89
+  ]
+}

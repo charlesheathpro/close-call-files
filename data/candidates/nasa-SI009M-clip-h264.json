@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:SI009M-clip_h264",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Camera Captures Orion Abort Test Mid-Air",
+  "description": "During the successful test of Orion’s launch abort system, known as Ascent Abort-2, a camera mounted on a ring connecting the crew module and launch abort system to its booster captured a view of Orion escaping the booster. After the booster separated, its motor continued to burn for several seconds and maintained stability, which allowed for a clear, mid-air view of the Orion elements continuing to execute the abort test. About 27 seconds after the abort is initiated and the Orion elements separate from the booster, the launch abort system’s jettison motor is seen firing, releasing the capsule. The July 2 test demonstrated the Orion’s launch abort system works during high-stress aerodynamic conditions and can pull the capsule to safety if an emergency ever arises during launch. The test was a critical milestone needed to help pave the way for Artemis missions with astronauts.",
+  "keywords": "",
+  "date": "2019-07-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/SI009M-clip_h264",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SI009M-clip-h264",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:21:39Z",
+  "duration": 119.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SI009M-clip_h264/SI009M-clip_h264~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      119.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-SI009M-clip-h264.jpg",
+  "sheet_times": [
+    3.71,
+    11.14,
+    18.56,
+    25.99,
+    33.41,
+    40.84,
+    48.26,
+    55.69,
+    63.11,
+    70.54,
+    77.96,
+    85.39,
+    92.81,
+    100.24,
+    107.66,
+    115.09
+  ]
+}

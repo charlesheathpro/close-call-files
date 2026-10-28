@@ -1,0 +1,130 @@
+{
+  "asset_id": "video:291194",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "146th Air Lift Support Squadron Performs Tornado Search and Rescue",
+  "description": "Oklahoma National Guard Airmen from the 146th Air Support Operations Squadron perform search and rescue missions at night using thermal imaging technology.\r\nBROLL includes search and rescuers going house to house looking for survivors. Also available in high definition.",
+  "keywords": "Oklahoma National Guard, Moore, Tornado Search and recovery, oklahoma tornado, disaster",
+  "date": "2013-05-20T00:00:00-04:00",
+  "date_published": "2013-05-21T04:50:41-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Sgt. Christopher Bruce",
+  "category": "B-Roll",
+  "virin": "130520-A-KJ752-003",
+  "location": {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/291194/146th-air-lift-support-squadron-performs-tornado-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-291194",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:53:02Z",
+  "duration": 91.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100819920/DOD_100819920.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 9188,
+    "size": 108368349
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.4,
+      "e": 10.71,
+      "text": "I set the white hot right now. If you need to switch, just let me know."
+    },
+    {
+      "s": 10.71,
+      "e": 20.71,
+      "text": "I'm just checking the car."
+    },
+    {
+      "s": 20.71,
+      "e": 74.3,
+      "text": "It's the other side of the car."
+    },
+    {
+      "s": 74.3,
+      "e": 77.96,
+      "text": "You can't."
+    },
+    {
+      "s": 77.96,
+      "e": 92.5,
+      "text": "What is this?"
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    10.54,
+    14.78,
+    20.42,
+    43.21,
+    47.95,
+    71.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      29.3,
+      66.3,
+      68.0,
+      70.6,
+      74.5,
+      76.6,
+      80.1,
+      81.0,
+      82.3,
+      85.9,
+      86.9,
+      88.3,
+      89.6
+    ],
+    "silence_ends": [
+      4.1,
+      32.4,
+      67.0,
+      70.6,
+      71.5,
+      75.1,
+      77.6,
+      81.0,
+      81.8,
+      84.6,
+      86.5,
+      87.9,
+      89.6,
+      91.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-291194.jpg",
+  "sheet_times": [
+    6.72,
+    12.14,
+    17.57,
+    23.0,
+    28.42,
+    33.85,
+    39.28,
+    44.7,
+    50.13,
+    55.56,
+    60.98,
+    66.41,
+    71.84,
+    77.26,
+    82.69,
+    88.11
+  ]
+}

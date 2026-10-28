@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:314962",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "CGC Tornado crew rescues Nick Schuyler",
+  "description": "MIAMI -- The crew of the Coast Guard Cutter Tornado rescues Nick Schuyler March 2, 2009, off the coast of Clearwater, Fla. Schuyler was the sole survivor of a boat capsizing that resulted in the death of three of his friends, two of whom were in the NFL. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2010-03-02T16:43:19-05:00",
+  "date_published": "2013-12-17T18:06:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314962/cgc-tornado-crew-rescues-nick-schuyler",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314962",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:45:23Z",
+  "duration": 336.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056194/DOD_101056194-640x480-1191k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1191,
+    "size": 52144920
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.04,
+    39.84,
+    55.72,
+    210.34,
+    230.86,
+    251.05,
+    251.35,
+    251.62,
+    280.18,
+    333.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      333.4
+    ],
+    "silence_ends": [
+      3.2,
+      336.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314962.jpg",
+  "sheet_times": [
+    10.5,
+    31.49,
+    52.49,
+    73.48,
+    94.47,
+    115.47,
+    136.46,
+    157.46,
+    178.45,
+    199.45,
+    220.44,
+    241.44,
+    262.43,
+    283.42,
+    304.42,
+    325.41
+  ]
+}

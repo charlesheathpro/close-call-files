@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:957227",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "near miss",
+  "title": "B:Roll; Search and rescue dogs assist in recovery efforts of missing U.S. soldier",
+  "description": "Military Police of the Estonian Defense Force use a search and rescue dog, Maik, to assist in the recovery efforts for a missing U.S. soldier at a military training site near Pabradė, Lithuania, April 1, 2025.",
+  "keywords": "#militaryworkingdogs, ArmyLithuaniaEffort, RecoveryDog",
+  "date": "2025-04-01T00:00:00-04:00",
+  "date_published": "2025-04-01T06:08:50-04:00",
+  "branch": "Army",
+  "unit_name": "70th Mobile Public Affairs Detachment",
+  "credit": "Staff Sgt. Christopher Saunders",
+  "category": "B-Roll",
+  "virin": "250401-Z-CL644-1070",
+  "location": {
+    "city": "Pabradė",
+    "state": "",
+    "country": "Lithuania",
+    "state_abbreviation": null,
+    "country_abbreviation": "LT"
+  },
+  "page_url": "https://www.dvidshub.net/video/957227/broll-search-and-rescue-dogs-assist-recovery-efforts-missing-us-soldier",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-957227",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:12:36Z",
+  "duration": 69.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2504/DOD_110896318/DOD_110896318.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 86430579
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.48,
+    20.25,
+    26.59,
+    39.17,
+    46.55,
+    56.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      47.1,
+      62.5,
+      64.3
+    ],
+    "silence_ends": [
+      57.1,
+      64.3,
+      69.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-957227.jpg",
+  "sheet_times": [
+    2.16,
+    6.48,
+    10.79,
+    15.11,
+    19.43,
+    23.74,
+    28.06,
+    32.38,
+    36.69,
+    41.01,
+    45.33,
+    49.64,
+    53.96,
+    58.28,
+    62.59,
+    66.91
+  ]
+}

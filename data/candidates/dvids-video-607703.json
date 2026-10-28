@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:607703",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "Lava flow on Hawaii Island",
+  "description": "The lava flow in Pahoa viewed from cinder road near the southern coast of Hawaii Island. (U.S. Air National Guard Video by Tech. Sgt. Andrew Jackson)",
+  "keywords": "Hawaii National Guard, Hilo, state mission, Hawai'i Island., Pahoa, lava flow, Hawaii County Civil Defense, Leilani estates, Task Force Hawaii, Volcanic activity, Air National Guard, Army National Guard",
+  "date": "2018-06-14T00:00:00-04:00",
+  "date_published": "2018-06-15T05:23:39-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Tech. Sgt. Ret. Andrew Jackson",
+  "category": "B-Roll",
+  "virin": "180614-Z-IX631-001",
+  "location": {
+    "city": "Pahoa",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/607703/lava-flow-hawaii-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-607703",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:08:40Z",
+  "duration": 132.95,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105745949/DOD_105745949.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9072,
+    "size": 153049718
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 16,
+  "audio": {
+    "silence_starts": [
+      105.5
+    ],
+    "silence_ends": [
+      106.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-607703.jpg",
+  "sheet_times": [
+    4.14,
+    12.42,
+    20.7,
+    28.97,
+    37.25,
+    45.53,
+    53.81,
+    62.09,
+    70.36,
+    78.64,
+    86.92,
+    95.2,
+    103.48,
+    111.75,
+    120.03,
+    128.31
+  ]
+}

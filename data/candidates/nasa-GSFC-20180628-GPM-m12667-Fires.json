@@ -1,0 +1,364 @@
+{
+  "asset_id": "nasa:GSFC_20180628_GPM_m12667_Fires",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "NASA Rainfall Data and Global Fire Weather",
+  "description": "The Global Fire WEather Database (GFWED) integrates different weather factors influencing the likelihood of a vegetation fire starting and spreading. It is based on the Fire Weather Index (FWI) System, which tracks the dryness of three general fuel classes, and the potential behavior of a fire if it were to start. Each day, FWI values are calculated from global weather data, including satellite rainfall data from the Global Precipitation Measurement (GPM) mission. The FWI System is the most widely used fire danger rating system in the world, and has been adopted for different boreal, temperate and tropical fire environments. GFWED provides a globally consistent fire weather dataset for fire researchers and managers to apply locally. The Fire Weather Index component is suitable as a general index of fire danger. Globally, shifts in continental-scale fire activity follow seasonal changes in the FWI. Over South America and Africa, regions of high FWI and active agricultural burning shift with the tropical rain belts, seen in the GPM precipitation overlay. Over North America and Eurasia, the FWI will ‘activate’ in the spring, and shows how week-to-week surges in fire activity can be driven by high FWI values. More information on GFWED and instructions on accessing the data are available from https://data.giss.nasa.gov/impacts/gfwed/",
+  "keywords": "Human Geography, Natural Hazards, Fire Weather Indices, Fires, Canada, Indonesia, Earth, Wildfires",
+  "date": "2018-06-28T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20180628_GPM_m12667_Fires",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20180628-GPM-m12667-Fires",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:15:45Z",
+  "duration": 221.0,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20180628_GPM_m12667_Fires/GSFC_20180628_GPM_m12667_Fires~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 6.32,
+      "text": "So when we look at a global picture of fire, you can see fire everywhere on all continents."
+    },
+    {
+      "s": 6.32,
+      "e": 10.24,
+      "text": "And at some level, they're similar and that it's vegetation that is burning,"
+    },
+    {
+      "s": 10.24,
+      "e": 12.88,
+      "text": "but the drivers of those can be very different."
+    },
+    {
+      "s": 12.88,
+      "e": 19.48,
+      "text": "In North America, for example, those fires can be started by lightning, by natural factors,"
+    },
+    {
+      "s": 19.48,
+      "e": 22.56,
+      "text": "by people, often accidentally."
+    },
+    {
+      "s": 22.56,
+      "e": 28.8,
+      "text": "And the explosive fires there that we see on TV are driven by the variability in the weather,"
+    },
+    {
+      "s": 28.8,
+      "e": 31.92,
+      "text": "so high winds at the surface, for example."
+    },
+    {
+      "s": 31.92,
+      "e": 37.32,
+      "text": "In other areas, in South America, for example, wind-driven fires are less of an issue."
+    },
+    {
+      "s": 37.32,
+      "e": 44.48,
+      "text": "It's primarily related to the land use, so using fire for land clearing and land preparation."
+    },
+    {
+      "s": 44.48,
+      "e": 50.16,
+      "text": "In those cases, it's getting an accurate picture of the overall dryness of that area."
+    },
+    {
+      "s": 50.16,
+      "e": 54.48,
+      "text": "NASA has a long history of monitoring fire and smoke using different satellites in the"
+    },
+    {
+      "s": 54.48,
+      "e": 56.0,
+      "text": "Earth Observing System."
+    },
+    {
+      "s": 56.0,
+      "e": 61.04,
+      "text": "Data from the Global Precipitation Measurement Mission, or GPM, and other satellites and models,"
+    },
+    {
+      "s": 61.04,
+      "e": 65.72,
+      "text": "gives us information on rainfall, temperature, and land cover, which in turn create a more"
+    },
+    {
+      "s": 65.72,
+      "e": 69.28,
+      "text": "complete picture of a vegetation fire starting and spreading."
+    },
+    {
+      "s": 69.28,
+      "e": 73.84,
+      "text": "That's the thinking behind the Global Fire Weather Database, the first globally consistent"
+    },
+    {
+      "s": 73.84,
+      "e": 77.44,
+      "text": "fire weather dataset for fire researchers and managers."
+    },
+    {
+      "s": 77.44,
+      "e": 83.48,
+      "text": "So the Global Fire Weather Database is designed to get at the underlying conditions that drive"
+    },
+    {
+      "s": 83.52,
+      "e": 89.2,
+      "text": "those fires really focused on the meteorological aspect and to be used alongside some of the"
+    },
+    {
+      "s": 89.2,
+      "e": 90.96,
+      "text": "other risk factors."
+    },
+    {
+      "s": 90.96,
+      "e": 95.68,
+      "text": "As we learn how to make use of the satellite data in driving these calculations from GPM"
+    },
+    {
+      "s": 95.68,
+      "e": 102.52,
+      "text": "in particular, that can translate into actual operational products used, for example, by the"
+    },
+    {
+      "s": 102.52,
+      "e": 109.0,
+      "text": "meteorological services in different countries for their localized fire weather products."
+    },
+    {
+      "s": 109.08,
+      "e": 113.76,
+      "text": "A good example is in Indonesia, which has a very serious fire problem."
+    },
+    {
+      "s": 113.76,
+      "e": 116.12,
+      "text": "It's all related to land clearing."
+    },
+    {
+      "s": 116.12,
+      "e": 120.16,
+      "text": "And one issue there is that it's happening in very remote regions."
+    },
+    {
+      "s": 120.16,
+      "e": 122.04,
+      "text": "And in those places, there's very little data."
+    },
+    {
+      "s": 122.04,
+      "e": 124.24,
+      "text": "It's not a data-rich environment."
+    },
+    {
+      "s": 124.24,
+      "e": 129.08,
+      "text": "And so you're limited by the accuracy of the picture that you can get."
+    },
+    {
+      "s": 129.08,
+      "e": 135.4,
+      "text": "So in that case, when we use calculations based on GPM data, it fills in all of those gaps."
+    },
+    {
+      "s": 135.4,
+      "e": 141.32,
+      "text": "And we've seen that for over the past couple of years for some of its severe fire episodes"
+    },
+    {
+      "s": 141.32,
+      "e": 146.84,
+      "text": "that we get a much better picture of where the dry regions are compared to where it's"
+    },
+    {
+      "s": 146.84,
+      "e": 147.84,
+      "text": "very rainy."
+    },
+    {
+      "s": 147.84,
+      "e": 154.44,
+      "text": "And those can be very close together because of how localized rainfall can be in the tropics."
+    },
+    {
+      "s": 154.44,
+      "e": 158.76,
+      "text": "Far away from the tropics, the Global Fire Weather Database is used to assess risk in"
+    },
+    {
+      "s": 158.76,
+      "e": 159.76,
+      "text": "Canada."
+    },
+    {
+      "s": 160.12,
+      "e": 165.96,
+      "text": "In 2017, abnormally hot and dry weather, combined with stressed forests, led to severe fires"
+    },
+    {
+      "s": 165.96,
+      "e": 167.84,
+      "text": "throughout British Columbia."
+    },
+    {
+      "s": 167.84,
+      "e": 172.84,
+      "text": "Through July and August, stretches of high fire risk in the interior led to periods of extreme"
+    },
+    {
+      "s": 172.84,
+      "e": 178.48,
+      "text": "fire behavior and the highest annual recorded burned area for the province."
+    },
+    {
+      "s": 178.48,
+      "e": 181.84,
+      "text": "The impact from these fires isn't just on the ground."
+    },
+    {
+      "s": 181.84,
+      "e": 185.04,
+      "text": "Plumes of smoke can travel and pollute the air far beyond the source."
+    },
+    {
+      "s": 185.04,
+      "e": 190.56,
+      "text": "In some cases, we can see smoke plumes from northern Canada transported over the Atlantic"
+    },
+    {
+      "s": 190.56,
+      "e": 192.52,
+      "text": "and arriving in Europe."
+    },
+    {
+      "s": 192.52,
+      "e": 197.88,
+      "text": "In the most extreme cases, when those fires are really hot, the smoke from those fires can"
+    },
+    {
+      "s": 197.88,
+      "e": 201.56,
+      "text": "be injected directly into the lower stratosphere."
+    },
+    {
+      "s": 201.56,
+      "e": 208.0,
+      "text": "It's like a small volcano and can persist in the lower stratosphere for months."
+    },
+    {
+      "s": 208.0,
+      "e": 212.48,
+      "text": "Fire weather data based on satellites like GPM continue to help researchers understand the"
+    },
+    {
+      "s": 212.48,
+      "e": 217.32,
+      "text": "conditions under which those extreme fire events occur and how things may change over"
+    },
+    {
+      "s": 217.32,
+      "e": 218.32,
+      "text": "time."
+    }
+  ],
+  "scene_cuts": [
+    6.17,
+    8.53,
+    12.53,
+    17.3,
+    18.57,
+    18.77,
+    20.73,
+    22.7,
+    26.63,
+    28.6,
+    30.57,
+    32.53,
+    42.63,
+    46.37,
+    49.8,
+    51.77,
+    55.73,
+    62.0,
+    69.13,
+    70.77,
+    72.3,
+    84.33,
+    90.2,
+    102.17,
+    105.43,
+    108.47,
+    115.77,
+    118.17,
+    127.43,
+    129.03,
+    140.97,
+    141.13,
+    141.8,
+    141.97,
+    142.47,
+    142.63,
+    142.8,
+    143.97,
+    144.13,
+    159.77,
+    173.9,
+    178.3,
+    179.83,
+    181.33,
+    185.23,
+    186.53,
+    187.87,
+    189.17,
+    201.83,
+    207.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      12.6,
+      31.1,
+      219.8
+    ],
+    "silence_ends": [
+      13.3,
+      31.9,
+      221.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20180628-GPM-m12667-Fires.jpg",
+  "sheet_times": [
+    6.89,
+    20.67,
+    34.45,
+    48.23,
+    62.02,
+    75.8,
+    89.58,
+    103.36,
+    117.14,
+    130.92,
+    144.7,
+    158.48,
+    172.27,
+    186.05,
+    199.83,
+    213.61
+  ]
+}

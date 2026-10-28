@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:713063",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pilot rescue",
+  "title": "Coast Guard rescues two pilots from helicopter crash video",
+  "description": "The Coast Guard rescued two pilots from two separate helicopter crashes near Ft. Meade, Florida, October 3, 2019. A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter aircrew launched to hoist the two pilots out of the field where they crashed and transported to Tampa General Hospital. ( U.S. Coast Guard video).",
+  "keywords": "Tampa Florida, PILOT RESCUE, Coast Guard, helo",
+  "date": "2019-10-03T00:00:00-04:00",
+  "date_published": "2019-10-03T21:32:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Ayla Hudson",
+  "category": "B-Roll",
+  "virin": "191003-G-MQ432-329",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/713063/coast-guard-rescues-two-pilots-helicopter-crash-video",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-713063",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:44:33Z",
+  "duration": 28.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107304788/DOD_107304788.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5265,
+    "size": 19057487
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-713063.jpg",
+  "sheet_times": [
+    0.89,
+    2.67,
+    4.44,
+    6.22,
+    8.0,
+    9.78,
+    11.56,
+    13.33,
+    15.11,
+    16.89,
+    18.67,
+    20.44,
+    22.22,
+    24.0,
+    25.78,
+    27.56
+  ]
+}

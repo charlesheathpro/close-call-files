@@ -1,0 +1,183 @@
+{
+  "asset_id": "nasa:GSFC_20171113_Hurricanes_m12772_Aerosols",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "2017 Hurricanes and Aerosols Simulation",
+  "description": "Tracking the aerosols carried on the winds let scientists see the currents in our atmosphere. This visualization follows sea salt, dust, and smoke from July 31 to November 1, 2017, to reveal how these particles are transported across the map. The first thing that is noticeable is how far the particles can travel. Smoke from fires in the Pacific Northwest gets caught in a weather pattern and pulled all the way across the US and over to Europe. Hurricanes form off the coast of Africa and travel across the Atlantic to make landfall in the United States. Dust from the Sahara is blown into the Gulf of Mexico. To understand the impacts of aerosols, scientists need to study the process as a global system. The Global Modeling and Assimilation Office (GMAO) at NASA's Goddard Space Flight Center has developed the Goddard Earth Observing System (GEOS), a family of mathematical models. Combined with data from NASA's Earth observing satellites, the supercomputer simulations enhance our scientific understanding of specific chemical, physical, and biological processes. During the 2017 hurricane season, the storms are visible because of the sea salt that is captured by the storms. Strong winds at the surface lift the sea salt into the atmosphere and the particles are incorporated into the storm. Hurricane Irma is the first big storm that spawns off the coast of Africa. As the storm spins up, the Saharan dust is absorbed in cloud droplets and washed out of the storm as rain. This process happens with most of the storms, except for Hurricane Ophelia. Forming more northward than most storms, Ophelia traveled to the east picking up dust from the Sahara and smoke from large fires in Portugal. Retaining its tropical storm state farther northward than any system in the Atlantic, Ophelia carried the smoke and dust into Ireland and the UK. Computer simulations using the GEOS models allow scientists to see how different processes fit together and evolve as a system. By using mathematical models to represent nature we can separate the system into component parts and better understand the underlying physics of each.  GEOS runs on the Discover supercomputer at the NASA Center for Climate Simulation (NCCS)",
+  "keywords": "Atmospheric Science, Natural Hazards, Aerosols, Hurricanes, Supercomputer, GEOS, Earth, Hurricane Harvey",
+  "date": "2017-11-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20171113_Hurricanes_m12772_Aerosols",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20171113-Hurricanes-m12772-Aerosols",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:07:23Z",
+  "duration": 132.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20171113_Hurricanes_m12772_Aerosols/GSFC_20171113_Hurricanes_m12772_Aerosols~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.85,
+      "e": 3.55,
+      "text": "How can you see the atmosphere?"
+    },
+    {
+      "s": 3.55,
+      "e": 6.05,
+      "text": "The answer is blowing in the wind."
+    },
+    {
+      "s": 6.05,
+      "e": 11.25,
+      "text": "Tiny particles known as aerosols are carried by the air around the globe."
+    },
+    {
+      "s": 11.25,
+      "e": 15.53,
+      "text": "This visualization uses data from NASA satellites combined with our knowledge of physics and"
+    },
+    {
+      "s": 15.53,
+      "e": 21.89,
+      "text": "meteorology to track three aerosols, dust, smoke, and sea salt."
+    },
+    {
+      "s": 21.89,
+      "e": 26.77,
+      "text": "Sea salt, shown here in blue, is picked up by winds passing over the ocean."
+    },
+    {
+      "s": 26.77,
+      "e": 31.93,
+      "text": "As tropical storms and hurricanes form, the salt particles are concentrated into the spiraling"
+    },
+    {
+      "s": 31.93,
+      "e": 35.65,
+      "text": "shape we all recognize."
+    },
+    {
+      "s": 35.65,
+      "e": 40.45,
+      "text": "With their movements, we can follow the formation of Hurricane Irma and see the dust from the"
+    },
+    {
+      "s": 40.45,
+      "e": 47.14,
+      "text": "Sahara, shown in tan, get washed out of the storm center by the rain."
+    },
+    {
+      "s": 47.14,
+      "e": 51.26,
+      "text": "Advances in computing speed allow scientists to include more details of these physical"
+    },
+    {
+      "s": 51.26,
+      "e": 57.94,
+      "text": "processes in their simulations of how the aerosols interact with the storm systems."
+    },
+    {
+      "s": 57.94,
+      "e": 63.34,
+      "text": "The increased resolution of the computer simulation is apparent in fine details like the hurricane"
+    },
+    {
+      "s": 63.34,
+      "e": 69.37,
+      "text": "bands spiraling counterclockwise."
+    },
+    {
+      "s": 69.37,
+      "e": 75.29,
+      "text": "Computer simulations let us see how different processes fit together and evolve as a system."
+    },
+    {
+      "s": 75.29,
+      "e": 80.89,
+      "text": "By using mathematical models to represent nature, we can separate the system into component parts"
+    },
+    {
+      "s": 80.89,
+      "e": 84.69,
+      "text": "and better understand the underlying physics of each."
+    },
+    {
+      "s": 84.69,
+      "e": 92.96,
+      "text": "Today's research improves next year's weather forecasting ability."
+    },
+    {
+      "s": 93.04,
+      "e": 95.64,
+      "text": "Hurricane Ophelia was very unusual."
+    },
+    {
+      "s": 95.64,
+      "e": 101.08,
+      "text": "It headed northeast, pulling in Saharan dust and smoke from wildfires in Portugal, carrying"
+    },
+    {
+      "s": 101.08,
+      "e": 103.84,
+      "text": "both to Ireland and the UK."
+    },
+    {
+      "s": 103.84,
+      "e": 110.46,
+      "text": "This aerosol interaction was very different from other storms of the season."
+    },
+    {
+      "s": 110.46,
+      "e": 114.86,
+      "text": "As computing speed continues to increase, scientists will be able to bring more scientific"
+    },
+    {
+      "s": 114.86,
+      "e": 119.66,
+      "text": "details into the simulations, giving us a deeper understanding of our home planet."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      126.1,
+      127.1,
+      128.0
+    ],
+    "silence_ends": [
+      126.8,
+      127.8,
+      132.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20171113-Hurricanes-m12772-Aerosols.jpg",
+  "sheet_times": [
+    4.11,
+    12.33,
+    20.55,
+    28.77,
+    36.99,
+    45.21,
+    53.44,
+    61.66,
+    69.88,
+    78.1,
+    86.32,
+    94.54,
+    102.76,
+    110.98,
+    119.2,
+    127.42
+  ]
+}

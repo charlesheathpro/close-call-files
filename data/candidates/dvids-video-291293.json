@@ -1,0 +1,134 @@
+{
+  "asset_id": "video:291293",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "63rd CST performs search and rescue in wake of devastating Moore tornado",
+  "description": "Oklahoma National Guardsmen perform search and rescue operations in the Moore tornado relief efforts. BROLL includes 63rd Civil Support Team (CST) searching for survivors in rubble. Available in high definition.",
+  "keywords": "tornado, Oklahoma National Guard, Moore, 63rd Civil Support Team, oklahoma tornado, oklahomatornado",
+  "date": "2013-05-21T00:00:00-04:00",
+  "date_published": "2013-05-21T20:27:41-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Sgt. Christopher Bruce",
+  "category": "B-Roll",
+  "virin": "130521-A-KJ752-229",
+  "location": {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/291293/63rd-cst-performs-search-and-rescue-wake-devastating-moore-tornado",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.7037,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-291293",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:52:10Z",
+  "duration": 61.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100820646/DOD_100820646.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 9053,
+    "size": 72506404
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.41,
+      "e": 5.41,
+      "text": "Thank you."
+    },
+    {
+      "s": 5.41,
+      "e": 7.41,
+      "text": "So getting everybody on the gator."
+    },
+    {
+      "s": 7.41,
+      "e": 22.34,
+      "text": "We're going to have a kind of walk up."
+    },
+    {
+      "s": 22.34,
+      "e": 23.34,
+      "text": "We're in the house."
+    },
+    {
+      "s": 23.34,
+      "e": 43.64,
+      "text": "Yeah, we'll probably mark it."
+    },
+    {
+      "s": 43.64,
+      "e": 44.64,
+      "text": "Clear."
+    },
+    {
+      "s": 44.64,
+      "e": 45.64,
+      "text": "I got it."
+    }
+  ],
+  "scene_cuts": [
+    3.7,
+    8.44,
+    10.64,
+    17.18,
+    20.59,
+    23.49,
+    29.16,
+    30.8,
+    37.1,
+    40.71,
+    45.61,
+    51.89,
+    55.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      12.0,
+      13.1,
+      15.8,
+      16.6,
+      17.6,
+      52.7,
+      54.6
+    ],
+    "silence_ends": [
+      3.7,
+      13.1,
+      15.6,
+      16.6,
+      17.6,
+      18.3,
+      54.2,
+      55.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-291293.jpg",
+  "sheet_times": [
+    5.51,
+    9.12,
+    12.73,
+    16.34,
+    19.95,
+    23.56,
+    27.17,
+    30.78,
+    34.39,
+    38.0,
+    41.62,
+    45.23,
+    48.84,
+    52.45,
+    56.06,
+    59.67
+  ]
+}

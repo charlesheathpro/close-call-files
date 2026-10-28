@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:579233",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "San Diego Coast Guard crew rescues family during mudslide response in Santa Barbara County",
+  "description": "A Coast Guard MH-60T Jayhawk helicopter crew from Coast Guard Sector San Diego rescues a family of five, including the mother, father, their newborn, seven-year-old son, three-year-old daughter and two dogs, in Santa Barbara County, California after their house was overtaken by a mudslide, Jan. 9, 2018. The family was transported to a staging area with Santa Barbara County emergency crews. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "mudslide, Santa Barbara, Montecito, helicopter, Coast Guard, California, rescue, San Diego",
+  "date": "2018-01-09T00:00:00-05:00",
+  "date_published": "2018-01-09T23:59:37-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180109-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/579233/san-diego-coast-guard-crew-rescues-family-during-mudslide-response-santa-barbara-county",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-579233",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:17:07Z",
+  "duration": 316.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105231227/DOD_105231227.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9989,
+    "size": 395778706
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    25.36,
+    43.08,
+    104.47,
+    123.29,
+    198.06,
+    221.79,
+    254.32,
+    271.0,
+    293.86
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      316.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-579233.jpg",
+  "sheet_times": [
+    9.88,
+    29.64,
+    49.4,
+    69.16,
+    88.92,
+    108.68,
+    128.44,
+    148.2,
+    167.95,
+    187.71,
+    207.47,
+    227.23,
+    246.99,
+    266.75,
+    286.51,
+    306.27
+  ]
+}

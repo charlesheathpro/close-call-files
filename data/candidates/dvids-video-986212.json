@@ -1,0 +1,104 @@
+{
+  "asset_id": "video:986212",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Coast Guard rescues father and son from overturned vessel in Columbia River",
+  "description": "A U.S. Coast Guard MH-60 Jayhawk helicopter crew from Air Station Astoria, Ore., rescued a father and son after clinging on the top of their overturned vessel for 2 hours near Chinook, Wash., Wednesday Nov. 5, 2025. Air Station Astoria located the survivors and transported them to Emergency Medical Services after a family member notified the Coast Guard that they did not return home when expected. (U.S. Coast Guard video by Lieutenant Chris Butters)",
+  "keywords": "Search and Rescue (SAR)",
+  "date": "2025-11-05T03:00:00-05:00",
+  "date_published": "2025-11-12T17:40:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Lt. Christopher Butters",
+  "category": "B-Roll",
+  "virin": "251105-G-FO271-7539",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/986212/coast-guard-rescues-father-and-son-overturned-vessel-columbia-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-986212",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:19:50Z",
+  "duration": 68.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2511/DOD_111374928/DOD_111374928-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 71682290
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 21.07,
+      "e": 27.27,
+      "text": "survivors in the cabin or recovering slumber and heading to Astoria will be on deck in approximately 10 minutes"
+    },
+    {
+      "s": 27.79,
+      "e": 35.92,
+      "text": "Request ambulance to the nearby hypothermia. They're both in their seats"
+    },
+    {
+      "s": 37.08,
+      "e": 41.02,
+      "text": "They're pretty cold. He can crank the heat. There's a excuse after he's out here"
+    },
+    {
+      "s": 41.6,
+      "e": 50.88,
+      "text": "The EMS has been breached and they will be there when you arrive over here. Okay"
+    },
+    {
+      "s": 52.88,
+      "e": 57.08,
+      "text": "Right now are we far enough way where we keep our lights on right here? Yeah, they're fine"
+    },
+    {
+      "s": 57.08,
+      "e": 64.48,
+      "text": "Yeah, you guys are doing great. We just have free cover of the slumber and then we're gonna be out of your hand at the aircraft"
+    }
+  ],
+  "scene_cuts": [
+    4.07,
+    16.85
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      4.1
+    ],
+    "silence_ends": [
+      16.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-986212.jpg",
+  "sheet_times": [
+    2.11,
+    6.33,
+    10.56,
+    14.78,
+    19.0,
+    23.23,
+    27.45,
+    31.67,
+    35.9,
+    40.12,
+    44.34,
+    48.56,
+    52.79,
+    57.01,
+    61.23,
+    65.46
+  ]
+}

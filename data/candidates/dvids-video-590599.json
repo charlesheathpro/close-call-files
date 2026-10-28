@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:590599",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pilot rescue",
+  "title": "Coast Guard aircrew rescues airplane crash pilot",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter, from Sector Columbia River, rescues the pilot of a downed aircraft located on a sandbar in the middle of the Columbia River near Westport, Ore., March 20, 2018.\r\n\r\nThe pilot had no reported injuries, but was transported to Pearson Airfield in Vancouver, Wash., were he was transferred to emergency medical services.\r\n\r\nU.S. Coast Guard video by Sector Columbia River 6035.",
+  "keywords": "plane crash, Columbia River, Sector Columbia River, Coast Guard",
+  "date": "2018-03-20T00:00:00-04:00",
+  "date_published": "2018-03-20T20:21:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180320-G-G0213-1001",
+  "location": {
+    "city": "Westport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/590599/coast-guard-aircrew-rescues-airplane-crash-pilot",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-590599",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:36:25Z",
+  "duration": 72.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1803/DOD_105430699/DOD_105430699.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9993,
+    "size": 90325774
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.14,
+    34.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.1
+    ],
+    "silence_ends": [
+      72.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-590599.jpg",
+  "sheet_times": [
+    2.24,
+    6.72,
+    11.21,
+    15.69,
+    20.17,
+    24.65,
+    29.13,
+    33.62,
+    38.1,
+    42.58,
+    47.06,
+    51.54,
+    56.03,
+    60.51,
+    64.99,
+    69.47
+  ]
+}

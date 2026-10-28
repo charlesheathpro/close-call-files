@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:KSC-20190530-MH-JBP01_0001_Lightning_Tower_Painting_Pad39B_Drone",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "lightning",
+  "title": "NASA Kennedy Space Launch Complex 39B Lightning Tower Painting",
+  "description": "NASA Kennedy Space Center Launch Complex 39B. Workers prep the lightning suppression system candlestick for new paint. The old paint was removed by the most recent hurricane.",
+  "keywords": "NASA, UAS, EGS, Pad 39B, SLS, Launch Pad",
+  "date": "2019-05-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190530-MH-JBP01_0001_Lightning_Tower_Painting_Pad39B_Drone",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190530-MH-JBP01-0001-Lightning-Tower-Painting-Pad39B-Drone",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:21:47Z",
+  "duration": 459.95,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190530-MH-JBP01_0001_Lightning_Tower_Painting_Pad39B_Drone/KSC-20190530-MH-JBP01_0001_Lightning_Tower_Painting_Pad39B_Drone~large.mp4",
+    "width": 1920,
+    "height": 1012
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    134.07,
+    180.7,
+    269.33,
+    305.33,
+    459.9
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      460.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190530-MH-JBP01-0001-Lightning-Tower-Painting-Pad39B-Drone.jpg",
+  "sheet_times": [
+    14.36,
+    43.07,
+    71.79,
+    100.5,
+    129.22,
+    157.93,
+    186.65,
+    215.37,
+    244.08,
+    272.8,
+    301.51,
+    330.23,
+    358.94,
+    387.66,
+    416.37,
+    445.09
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:607849",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava flow",
+  "title": "river of lava during Big Island lava flow",
+  "description": "BROLL of a river of lava on the Big Island. Hawaii National Guard soldiers escorted media to a safe location to view the flow. Video by Army Cpl. Aven Santiago.",
+  "keywords": "117th MPAD, Hawaii National Guard, HAWAII AIR NATIONAL GUARD, Hawaii Army National Guard, HIARNG, lava flow, Hawaii lava flow, kilauea2018eruption, Big Island lava flow, lava river, military",
+  "date": "2018-06-14T00:00:00-04:00",
+  "date_published": "2018-06-15T18:25:54-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Spc. Aven Santiago",
+  "category": "B-Roll",
+  "virin": "180614-A-SM034-670",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/607849/river-lava-during-big-island-lava-flow",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-607849",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:11:34Z",
+  "duration": 148.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105747991/DOD_105747991.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9071,
+    "size": 170753899
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.61,
+    20.45,
+    30.9,
+    122.32
+  ],
+  "drama_score": 30,
+  "audio": {
+    "silence_starts": [
+      20.5,
+      23.9,
+      25.2,
+      29.1
+    ],
+    "silence_ends": [
+      23.3,
+      25.1,
+      28.3,
+      30.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-607849.jpg",
+  "sheet_times": [
+    4.62,
+    13.86,
+    23.1,
+    32.34,
+    41.58,
+    50.82,
+    60.06,
+    69.31,
+    78.55,
+    87.79,
+    97.03,
+    106.27,
+    115.51,
+    124.75,
+    133.99,
+    143.23
+  ]
+}

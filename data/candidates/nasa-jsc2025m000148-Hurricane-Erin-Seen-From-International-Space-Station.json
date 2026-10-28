@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:jsc2025m000148-Hurricane_Erin_Seen_From_International_Space_Station",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "Hurricane Erin Seen From International Space Station - 8-19-2025",
+  "description": "The International Space Station flew 260 miles over Hurricane Erin at 11:41 a.m. EDT Tuesday, Aug. 19, 2025. External cameras on the orbiting laboratory captured views of the hurricane as it traveled northwest through the Caribbean with maximum sustained wind speeds of 105 mph. Hurricane Erin is not expected to make landfall and is projected to move between the U.S. East coast and Bermuda before heading out into the Atlantic Ocean.",
+  "keywords": "Expedition 73, Erin, hurricane",
+  "date": "2025-08-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/jsc2025m000148-Hurricane_Erin_Seen_From_International_Space_Station",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-jsc2025m000148-Hurricane-Erin-Seen-From-International-Space-Station",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:53:29Z",
+  "duration": 190.7,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/jsc2025m000148-Hurricane_Erin_Seen_From_International_Space_Station/jsc2025m000148-Hurricane_Erin_Seen_From_International_Space_Station~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[ambient]"
+    }
+  ],
+  "scene_cuts": [
+    174.07
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      190.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-jsc2025m000148-Hurricane-Erin-Seen-From-International-Space-Station.jpg",
+  "sheet_times": [
+    5.94,
+    17.83,
+    29.72,
+    41.61,
+    53.49,
+    65.38,
+    77.27,
+    89.16,
+    101.04,
+    112.93,
+    124.82,
+    136.71,
+    148.59,
+    160.48,
+    172.37,
+    184.26
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:764600",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Laura",
+  "title": "Hurricane Hunters fly Tropical Storm Laura",
+  "description": "A crew from the 53rd Weather Reconnaissance Squadron Hurricane Hunters flew a reconnaissance mission into Tropical Storm Laura from Charleston International Airport, South Carolina Aug. 24. The squadron relocated its operations in order to avoid detrimental impacts possible from both Tropical Storms Laura and Marco. (U.S. Air Force Video by Senior Airman Kristen Pittman).",
+  "keywords": "AIr Force Reserve, 53rd WRS, laura, 403rd Wing, ReserveReady, reserveresilient, Weather Ready, Tropical Storm Laura, TS Laura, Hurricane Hunters",
+  "date": "2020-08-24T00:00:00-04:00",
+  "date_published": "2020-08-24T18:58:14-04:00",
+  "branch": "Air Force",
+  "unit_name": "403rd Wing",
+  "credit": "Senior Airman Kristen Pittman",
+  "category": "B-Roll",
+  "virin": "200824-F-KV687-1003",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/764600/hurricane-hunters-fly-tropical-storm-laura",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-764600",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:40:34Z",
+  "duration": 368.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107958409/DOD_107958409-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6180,
+    "size": 287307907
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    32.73,
+    44.48,
+    72.21,
+    86.22,
+    103.5,
+    342.11
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      103.5
+    ],
+    "silence_ends": [
+      368.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-764600.jpg",
+  "sheet_times": [
+    11.5,
+    34.51,
+    57.52,
+    80.53,
+    103.54,
+    126.55,
+    149.56,
+    172.57,
+    195.57,
+    218.58,
+    241.59,
+    264.6,
+    287.61,
+    310.62,
+    333.63,
+    356.64
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "asset_id": "nasa:Expedition_69_ Space_Station_Flies_Over_Hurricane_Idalia_230830_1874509",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "HURRICANE IDALIA IS SEEN FROM THE INTERNATIONAL SPACE STATION AFTER LANDFALL",
+  "description": "External cameras on the International Space Station captured views of Hurricane Idalia at 10:35 a.m. EDT on Wednesday, Aug. 30, 2023, as the station flew 260 miles overhead. Idalia made landfall just before 8 a.m. near Keaton Beach, Florida, along the state’s Big Bend region as a Category 3 storm packing winds of 125 miles an hour. Idalia had peaked to a Category 4 storm with 130 mile per hour winds prior to landfall. The system is moving to the north-northeast at 18 miles an hour, heading for the southeast United States and then out over the Atlantic Ocean, according to the National Hurricane Center.",
+  "keywords": "hurricane idalia, expedition 69",
+  "date": "2023-08-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/Expedition_69_%20Space_Station_Flies_Over_Hurricane_Idalia_230830_1874509",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-230830-1874509",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:51:33Z",
+  "duration": 804.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Expedition_69_%20Space_Station_Flies_Over_Hurricane_Idalia_230830_1874509/Expedition_69_%20Space_Station_Flies_Over_Hurricane_Idalia_230830_1874509~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[ambient]"
+    }
+  ],
+  "scene_cuts": [
+    132.6,
+    138.43,
+    201.0,
+    227.8,
+    321.13,
+    446.3,
+    458.87,
+    547.0,
+    670.5
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      799.3,
+      803.5
+    ],
+    "silence_ends": [
+      786.2,
+      800.8,
+      804.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-230830-1874509.jpg",
+  "sheet_times": [
+    25.11,
+    75.34,
+    125.56,
+    175.79,
+    226.01,
+    276.24,
+    326.46,
+    376.69,
+    426.91,
+    477.14,
+    527.36,
+    577.59,
+    627.81,
+    678.04,
+    728.26,
+    778.49
+  ]
+}

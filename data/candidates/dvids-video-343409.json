@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:343409",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "near miss",
+  "title": "Coast Guard Locates, Rescues Two After Boat Capsizes Near Kiptopeke State Park",
+  "description": "The Coast Guard located and rescued two people Sunday, June 15, 2014, that were reported missing after a 21-foot fishing boat sank near Kiptopeke State Park. A Coast Guard Jayhawk helicopter crew from Coast Guard Air Station Elizabeth City, N.C., was able to locate one person who had swam ashore and found a second person in the water approximately 2 miles west of Kiptopeke. The Jayhawk crew hoisted both people into the helicopter and took them to Sentara Norfolk General Hospital in Norfolk, Virginia.",
+  "keywords": "rescue swimmer, capsized boat, hoist, MH-60, Jayhawk, sank, Fishing Boat, AST, amt, locate, Kiptopeke State Park, helicopter, Coast Guard, US Coast Guard, Va., rescue, aviation, search, pilot, USCG, Virginia",
+  "date": "2014-06-15T00:00:00-04:00",
+  "date_published": "2014-06-15T09:39:43-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Brandyn Hill",
+  "category": "B-Roll",
+  "virin": "140615-G-RU729-001",
+  "location": {
+    "city": "Cape Charles",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/343409/coast-guard-locates-rescues-two-after-boat-capsizes-near-kiptopeke-state-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.17083,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-343409",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:20:27Z",
+  "duration": 179.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101741462/DOD_101741462.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9247,
+    "size": 212126501
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 51.47,
+      "e": 140.17,
+      "text": "On the 25th on the 45th on the 30th on the 30th."
+    }
+  ],
+  "scene_cuts": [
+    4.17,
+    126.79
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      34.5,
+      42.5,
+      77.0,
+      85.8,
+      89.5,
+      93.3,
+      104.4,
+      111.3,
+      130.3,
+      135.2,
+      141.4,
+      149.6
+    ],
+    "silence_ends": [
+      30.3,
+      40.3,
+      46.1,
+      77.7,
+      86.8,
+      92.1,
+      95.3,
+      105.6,
+      114.8,
+      131.4,
+      138.0,
+      145.0,
+      179.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-343409.jpg",
+  "sheet_times": [
+    9.65,
+    20.6,
+    31.55,
+    42.51,
+    53.46,
+    64.41,
+    75.37,
+    86.32,
+    97.27,
+    108.23,
+    119.18,
+    130.14,
+    141.09,
+    152.04,
+    163.0,
+    173.95
+  ]
+}

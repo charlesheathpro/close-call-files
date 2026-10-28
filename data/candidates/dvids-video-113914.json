@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:113914",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Texas Wildfires - Oasis Pipeline Fire",
+  "description": "B-roll of an C-130J Hercules from the 146th Airlift Wing, California Air National Guard, flying over the Oasis Pipeline fire in West Texas, April 26, 2011. Produced by Senior Airman Giovanna Squadrito.",
+  "keywords": "Wyoming, 1 CTCS, Dyess Air Force Base, Wildfire, Abilene, MAFFS, Modular Airborne Firefighting System, Senior Airman Giovanna Squadrito, Combat Camera, California, Texas, Air National Guard, North Carolina",
+  "date": "2011-04-26T00:00:00-04:00",
+  "date_published": "2011-04-28T10:12:58-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Staff Sgt. Eric Harris",
+  "category": "B-Roll",
+  "virin": "110426-F-SA872-001",
+  "location": {
+    "city": "Dyess Air Force Base",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/113914/texas-wildfires-oasis-pipeline-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.33767,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-113914",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:21:18Z",
+  "duration": 171.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1104/DOD_100165384/DOD_100165384.mpg",
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.34,
+    22.16,
+    33.93,
+    75.01,
+    114.18,
+    128.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-113914.jpg",
+  "sheet_times": [
+    9.55,
+    19.99,
+    30.42,
+    40.86,
+    51.29,
+    61.73,
+    72.16,
+    82.6,
+    93.03,
+    103.47,
+    113.9,
+    124.34,
+    134.77,
+    145.21,
+    155.64,
+    166.07
+  ]
+}

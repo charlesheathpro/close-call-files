@@ -1,0 +1,90 @@
+{
+  "asset_id": "nasa:Expedition_69_Space_Station_Flies_Over_Hurricane_Idalia_Live",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "HURRICANE IDALIA IS SEEN FROM THE INTERNATIONAL SPACE STATION",
+  "description": "External cameras on the International Space Station captured views of a strengthening Hurricane Idalia at 11:35 a.m. EDT on Tuesday, Aug. 29, 2023 as the station flew 260 miles overhead. Idalia was located over the eastern Gulf of Mexico southwest of Florida at the time of the flyover as a Category 1 storm with winds of 85 miles an hour, moving north toward an expected landfall around the Big Bend area of Florida on August 30 as a Category 3 hurricane, or stronger, that could produce a life-threatening storm surge, according to the National Hurricane Center.",
+  "keywords": "hurricane idalia, expedition 69, flyover",
+  "date": "2023-08-29T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/Expedition_69_Space_Station_Flies_Over_Hurricane_Idalia_Live",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-Live",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:44:01Z",
+  "duration": 824.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Expedition_69_Space_Station_Flies_Over_Hurricane_Idalia_Live/Expedition_69_Space_Station_Flies_Over_Hurricane_Idalia_Live~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[ambient]"
+    }
+  ],
+  "scene_cuts": [
+    225.43,
+    265.83,
+    304.57,
+    318.57,
+    336.83,
+    374.17,
+    403.43,
+    421.6,
+    443.43,
+    456.33,
+    470.73,
+    561.83,
+    581.17,
+    588.73,
+    615.33,
+    661.57,
+    683.0,
+    720.6,
+    736.3,
+    785.63,
+    803.0
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      818.3,
+      822.3
+    ],
+    "silence_ends": [
+      803.8,
+      819.8,
+      824.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-Live.jpg",
+  "sheet_times": [
+    25.75,
+    77.24,
+    128.73,
+    180.22,
+    231.71,
+    283.2,
+    334.7,
+    386.19,
+    437.68,
+    489.17,
+    540.66,
+    592.15,
+    643.65,
+    695.14,
+    746.63,
+    798.12
+  ]
+}

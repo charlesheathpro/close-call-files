@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:53883",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "ice storm",
+  "title": "Kentucky Ice Storm",
+  "description": "B-Roll of the Kentucky National Guard working to clear fallen trees from downed power lines.",
+  "keywords": null,
+  "date": "2009-02-02T00:00:00-05:00",
+  "date_published": "2009-02-02T12:08:17-05:00",
+  "branch": "Joint",
+  "unit_name": "National Guard Bureau",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "Kentucky",
+    "country": "United States",
+    "state_abbreviation": "KY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/53883/kentucky-ice-storm",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-53883",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:32:36Z",
+  "duration": 153.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0902/DOD_100035183/DOD_100035183.mpg",
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    97.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-53883.jpg",
+  "sheet_times": [
+    4.78,
+    14.33,
+    23.88,
+    33.43,
+    42.99,
+    52.54,
+    62.09,
+    71.64,
+    81.19,
+    90.75,
+    100.3,
+    109.85,
+    119.4,
+    128.96,
+    138.51,
+    148.06
+  ]
+}

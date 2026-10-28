@@ -1,0 +1,61 @@
+{
+  "asset_id": "nasa:KSC-20210502-MH-JBP01_0001-SpaceX_Crew_1_Splashdown_Drone_Imagery-3275583",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "SpaceX Crew-1 Splashdown - DRONE",
+  "description": "NASA's SpaceX Crew-1 astronauts Michael Hopkins, Victor Glover, and Shannon Walker, along with Japan Aerospace Exploration Agency (JAXA) astronaut Soichi Noguchi, returned to Earth at 2:56 a.m. EDT on May 2 under the parachutes of their Crew Dragon Resilience spacecraft. The launch of Crew-1 in November 2020 was the second crewed flight for SpaceX as part of NASA's Commercial Crew Program",
+  "keywords": "NASA, SpaceX, Crew-1, Drone, UAS, Splashdown, Recovery, Landing, Water, CCP, Commercial Crew Program, Crew Dragon, Drone, Gulf of Mexico, Astronaut, Resilience",
+  "date": "2021-05-02T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20210502-MH-JBP01_0001-SpaceX_Crew_1_Splashdown_Drone_Imagery-3275583",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210502-MH-JBP01-0001-SpaceX-Crew-1-Splashdown-Drone-Imagery-3275583",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:07:06Z",
+  "duration": 434.94,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20210502-MH-JBP01_0001-SpaceX_Crew_1_Splashdown_Drone_Imagery-3275583/KSC-20210502-MH-JBP01_0001-SpaceX_Crew_1_Splashdown_Drone_Imagery-3275583~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.0,
+    173.77
+  ],
+  "drama_score": 45,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      435.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210502-MH-JBP01-0001-SpaceX-Crew-1-Splashdown-Drone-Imagery-3275583.jpg",
+  "sheet_times": [
+    13.58,
+    40.73,
+    67.88,
+    95.03,
+    122.19,
+    149.34,
+    176.49,
+    203.65,
+    230.8,
+    257.95,
+    285.1,
+    312.26,
+    339.41,
+    366.56,
+    393.71,
+    420.87
+  ]
+}

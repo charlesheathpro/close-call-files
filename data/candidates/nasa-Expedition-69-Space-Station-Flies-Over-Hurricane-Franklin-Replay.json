@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:Expedition_69_Space_Station_Flies_Over_Hurricane_Franklin_Replay",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "hurricane from space",
+  "title": "HURRICANE FRANKLIN IS SEEN FROM THE INTERNATIONAL SPACE STATION",
+  "description": "External cameras on the International Space Station captured views of major Hurricane Franklin at 9:56 a.m. EDT on Tuesday, Aug. 29, 2023 as the station flew 260 miles overhead. Franklin was located over the Atlantic well out to sea at the time of the flyover, packing winds of 130 miles an hour. Franklin is moving north-northeast over the Atlantic, according to the National Hurricane Center.",
+  "keywords": "Hurricane Franklin, Expedition 69",
+  "date": "2023-08-29T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/Expedition_69_Space_Station_Flies_Over_Hurricane_Franklin_Replay",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Franklin-Replay",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:45:49Z",
+  "duration": 566.5,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Expedition_69_Space_Station_Flies_Over_Hurricane_Franklin_Replay/Expedition_69_Space_Station_Flies_Over_Hurricane_Franklin_Replay~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[ambient]"
+    }
+  ],
+  "scene_cuts": [
+    0.6,
+    247.93
+  ],
+  "drama_score": 53,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      560.4,
+      564.4
+    ],
+    "silence_ends": [
+      546.0,
+      562.0,
+      566.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Franklin-Replay.jpg",
+  "sheet_times": [
+    17.69,
+    53.06,
+    88.44,
+    123.81,
+    159.19,
+    194.56,
+    229.94,
+    265.31,
+    300.69,
+    336.06,
+    371.44,
+    406.81,
+    442.19,
+    477.56,
+    512.94,
+    548.31
+  ]
+}

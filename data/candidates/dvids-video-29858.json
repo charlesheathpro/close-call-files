@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:29858",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "ice storm",
+  "title": "Operation Ice Storm II",
+  "description": "B-roll of U.S. Soldiers destroying two buildings after raiding them, apprehending high value insurgents and identifying possible house-borne improvised explosive devices within the buildings. Scenes include gun tape footage of the buildings being destroyed by Hellfire missiles and Excalibur 155mm rounds. Produced by Headquarters, 3rd Infantry Division Public Affairs.",
+  "keywords": null,
+  "date": "2007-10-09T00:00:00-04:00",
+  "date_published": "2007-10-11T12:56:40-04:00",
+  "branch": "Army",
+  "unit_name": "3rd Infantry Division",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Hawr Rajab",
+    "state": "",
+    "country": "Iraq",
+    "state_abbreviation": null,
+    "country_abbreviation": "IQ"
+  },
+  "page_url": "https://www.dvidshub.net/video/29858/operation-ice-storm-ii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-29858",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:33:43Z",
+  "duration": 189.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0710/DOD_100009462/DOD_100009462.mpg",
+    "width": null,
+    "height": null,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    74.81
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.7,
+      13.5,
+      29.2,
+      31.5,
+      47.8,
+      54.6,
+      60.5,
+      64.5,
+      71.6
+    ],
+    "silence_ends": [
+      6.1,
+      11.6,
+      28.0,
+      29.9,
+      32.2,
+      51.2,
+      58.3,
+      63.3,
+      69.9,
+      189.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-29858.jpg",
+  "sheet_times": [
+    9.79,
+    21.36,
+    32.94,
+    44.51,
+    56.08,
+    67.66,
+    79.23,
+    90.8,
+    102.37,
+    113.95,
+    125.52,
+    137.09,
+    148.67,
+    160.24,
+    171.81,
+    183.39
+  ]
+}

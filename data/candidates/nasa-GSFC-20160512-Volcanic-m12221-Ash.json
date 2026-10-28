@@ -1,0 +1,107 @@
+{
+  "asset_id": "nasa:GSFC_20160512_Volcanic_m12221_Ash",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "volcano eruption",
+  "title": "Tracking Volcanic Ash With Satellites",
+  "description": "Volcano eruptions can wreak havoc on airplanes that fly through the clouds of ash and sulfur dioxide. The ash, in particular, can destroy a jet engine and even cause it to fail mid-flight. However, it can be difficult to detect the ash clouds, because they often look like ordinary rain clouds on radar and to the pilot's eye. To be cautious, volcanic eruptions are given a wide berth, leading to costly delays and cancellations.  NASA scientist Nickolay Krotkov is developing a new way to map the full three-dimensional structure of the volcanic cloud. The NASA/NOAA/DoD Suomi NPP satellite maps the concentration of sulfur dioxide and volcanic aerosols using the Ozone Mapping Profiler Suite (OMPS). After it passes the volcanic plume, the OMPS Limb Profiler looks backwards and measures the vertical profile of the cloud in three separate slices.  The location and height of the particles, as well as the amount of sulfur dioxide, is being integrated into models of weather patterns to forecast the spread of the volcanic cloud. The high resolution of the vertical profiles allows a more accurate forecast in the days, weeks, and months after an eruption, which could reduce airline cancellations and re-routing costs.",
+  "keywords": "Atmospheric Science, Sulfur Dioxide, Aerosols, Aerosol Extinction, NPP, Earth, OMPS",
+  "date": "2016-05-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160512_Volcanic_m12221_Ash",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160512-Volcanic-m12221-Ash",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:17:36Z",
+  "duration": 96.68,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160512_Volcanic_m12221_Ash/GSFC_20160512_Volcanic_m12221_Ash~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.91,
+      "e": 13.91,
+      "text": "The Calbucco volcano erupted in April 2015, spewing a plume of ash and sulfur dioxide over 10 miles into the air."
+    },
+    {
+      "s": 13.91,
+      "e": 20.91,
+      "text": "Volcanic ash like this can cause airplane engines to fail, and it can persist in the atmosphere for a long time."
+    },
+    {
+      "s": 20.91,
+      "e": 31.91,
+      "text": "It can be difficult to distinguish the volcanic plume from ordinary clouds, but NASA scientists are developing a new way to map the full three-dimensional structure of a volcanic cloud,"
+    },
+    {
+      "s": 31.91,
+      "e": 38.34,
+      "text": "providing improved information for air traffic management."
+    },
+    {
+      "s": 38.34,
+      "e": 51.34,
+      "text": "The concentration of sulfur dioxide is mapped by the SUNY MPP satellite as it passes overhead, and then looks back and also measures the vertical profile of the cloud in three separate slices."
+    },
+    {
+      "s": 51.34,
+      "e": 62.34,
+      "text": "The location and height of the particles, as well as the amount of sulfur dioxide, is being integrated into models of weather patterns to forecast the spread of the volcanic cloud."
+    },
+    {
+      "s": 62.34,
+      "e": 77.07,
+      "text": "The high resolution of the data from the vertical profiles allows a more accurate forecast in the days, weeks, and months after an eruption, which could reduce airline cancellations and rerouting costs."
+    },
+    {
+      "s": 77.07,
+      "e": 85.07,
+      "text": "The final product will be available in near real time, for use by operational agencies making decisions about flight safety."
+    }
+  ],
+  "scene_cuts": [
+    89.57
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      90.5,
+      91.4,
+      92.4,
+      93.3
+    ],
+    "silence_ends": [
+      91.1,
+      92.1,
+      93.1,
+      96.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160512-Volcanic-m12221-Ash.jpg",
+  "sheet_times": [
+    3.01,
+    9.02,
+    15.03,
+    21.04,
+    27.05,
+    33.06,
+    39.07,
+    45.09,
+    51.1,
+    57.11,
+    63.12,
+    69.13,
+    75.14,
+    81.15,
+    87.16,
+    93.18
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20210710-MH-CSH01-0001-Orion_Move_to_LASF_TIMELAPSE-3279376",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Artemis I - Orion Moves to the Launch Abort System Facility (LASF) - TIMELAPSE",
+  "description": "Orion Move to LASF Timelapses",
+  "keywords": "Artemis, Artemis I, Orion, LASF, launch abort system, EGS, KSC, MPPF",
+  "date": "2021-07-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20210710-MH-CSH01-0001-Orion_Move_to_LASF_TIMELAPSE-3279376",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210710-MH-CSH01-0001-Orion-Move-to-LASF-TIMELAPSE-3279376",
+  "status": "new",
+  "harvested_at": "2026-10-27T23:19:36Z",
+  "duration": 160.5,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20210710-MH-CSH01-0001-Orion_Move_to_LASF_TIMELAPSE-3279376/KSC-20210710-MH-CSH01-0001-Orion_Move_to_LASF_TIMELAPSE-3279376~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.07,
+    21.43,
+    47.97,
+    64.53,
+    68.1,
+    113.83,
+    116.87,
+    129.17
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      160.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210710-MH-CSH01-0001-Orion-Move-to-LASF-TIMELAPSE-3279376.jpg",
+  "sheet_times": [
+    5.0,
+    15.0,
+    25.0,
+    35.0,
+    45.0,
+    55.0,
+    65.0,
+    75.0,
+    85.0,
+    95.0,
+    105.0,
+    115.0,
+    125.0,
+    135.0,
+    145.0,
+    155.0
+  ]
+}

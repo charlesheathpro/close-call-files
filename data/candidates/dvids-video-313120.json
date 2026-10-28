@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:313120",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard rescues 3 and dog",
+  "description": "Coast Guard  Air Station Houston launched an HH-65C Dolphin helicopter crew to assist. The helicopter  crew arrived on scene at about 3 p.m. and hoisted the three people and the dog through the 30-35 knot winds. The helicopter crew brought the three people and the dog to Ellington Field, in Houston, where a family friend was waiting to bring them home.",
+  "keywords": "CGVI",
+  "date": "2008-01-01T23:10:36-05:00",
+  "date_published": "2013-12-16T18:06:27-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/313120/coast-guard-rescues-3-and-dog",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313120",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:06:45Z",
+  "duration": 195.51,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053412/DOD_101053412.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7475,
+    "size": 182656755
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    16.25,
+    113.71,
+    162.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      16.4
+    ],
+    "silence_ends": [
+      4.2,
+      162.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313120.jpg",
+  "sheet_times": [
+    6.09,
+    18.28,
+    30.47,
+    42.66,
+    54.85,
+    67.04,
+    79.22,
+    91.41,
+    103.6,
+    115.79,
+    127.98,
+    140.16,
+    152.35,
+    164.54,
+    176.73,
+    188.92
+  ]
+}

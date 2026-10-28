@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:313838",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard Rescues Two Men and Their Dog",
+  "description": "A crew from Air Station San Francisco rescued two men and their dog today after their pleasure craft ran aground on one of the numerous small islands dotting the waterway near Rio Vista. \r\nThe two men and their dog were transported to Concord Airport, and were reported in good condition. (Coast Guard video by Air Station San Francisco)",
+  "keywords": "CGVI",
+  "date": "2009-01-14T00:00:00-05:00",
+  "date_published": "2013-12-17T02:23:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Alameda",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313838/coast-guard-rescues-two-men-and-their-dog",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313838",
+  "status": "new",
+  "harvested_at": "2026-10-28T00:08:32Z",
+  "duration": 124.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054489/DOD_101054489-640x480-2595k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2595,
+    "size": 42877362
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.69,
+      "e": 4.69,
+      "text": "So one of them is going to come up and then the second was going to come up with the dog."
+    },
+    {
+      "s": 4.69,
+      "e": 10.69,
+      "text": "And then we'll pick you up and then they just have to pick who's going and what."
+    },
+    {
+      "s": 10.69,
+      "e": 11.69,
+      "text": "Under that."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      4.7
+    ],
+    "silence_ends": [
+      5.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313838.jpg",
+  "sheet_times": [
+    3.87,
+    11.6,
+    19.33,
+    27.06,
+    34.79,
+    42.52,
+    50.25,
+    57.98,
+    65.71,
+    73.44,
+    81.17,
+    88.9,
+    96.63,
+    104.36,
+    112.09,
+    119.82
+  ]
+}
