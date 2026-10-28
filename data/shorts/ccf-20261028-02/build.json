@@ -1,7 +1,525 @@
 {
   "short_id": "ccf-20261028-02",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-10-28T11:57:24Z",
-  "error": "line 7: shots are 3.9, 1.9, 1.3s even after extending, but the line needs 5.4s; give that line longer or more shots"
+  "revision": 2,
+  "status": "checks_failed",
+  "built_at": "2026-10-28T19:42:25Z",
+  "duration": 29.85,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "A breaking wave flipped this boat just as the rescue swimmer moved in.",
+      "start": 0.05,
+      "end": 3.97,
+      "words": [
+        {
+          "w": "A",
+          "s": 0.05,
+          "e": 0.21
+        },
+        {
+          "w": "breaking",
+          "s": 0.41,
+          "e": 0.61
+        },
+        {
+          "w": "wave",
+          "s": 0.69,
+          "e": 1.09
+        },
+        {
+          "w": "flipped",
+          "s": 1.17,
+          "e": 1.41
+        },
+        {
+          "w": "this",
+          "s": 1.49,
+          "e": 1.57
+        },
+        {
+          "w": "boat",
+          "s": 1.73,
+          "e": 2.05
+        },
+        {
+          "w": "just",
+          "s": 2.13,
+          "e": 2.37
+        },
+        {
+          "w": "as",
+          "s": 2.45,
+          "e": 2.53
+        },
+        {
+          "w": "the",
+          "s": 2.57,
+          "e": 2.65
+        },
+        {
+          "w": "rescue",
+          "s": 2.69,
+          "e": 3.01
+        },
+        {
+          "w": "swimmer",
+          "s": 3.09,
+          "e": 3.41
+        },
+        {
+          "w": "moved",
+          "s": 3.53,
+          "e": 3.65
+        },
+        {
+          "w": "in.",
+          "s": 3.73,
+          "e": 3.97
+        }
+      ]
+    },
+    {
+      "text": "Twenty foot seas, at the mouth of the Columbia River, in Oregon.",
+      "start": 4.61,
+      "end": 8.53,
+      "words": [
+        {
+          "w": "Twenty",
+          "s": 4.61,
+          "e": 4.93
+        },
+        {
+          "w": "foot",
+          "s": 5.01,
+          "e": 5.25
+        },
+        {
+          "w": "seas,",
+          "s": 5.33,
+          "e": 6.05
+        },
+        {
+          "w": "at",
+          "s": 6.13,
+          "e": 6.21
+        },
+        {
+          "w": "the",
+          "s": 6.29,
+          "e": 6.37
+        },
+        {
+          "w": "mouth",
+          "s": 6.45,
+          "e": 6.61
+        },
+        {
+          "w": "of",
+          "s": 6.69,
+          "e": 6.77
+        },
+        {
+          "w": "the",
+          "s": 6.81,
+          "e": 6.89
+        },
+        {
+          "w": "Columbia",
+          "s": 6.93,
+          "e": 7.33
+        },
+        {
+          "w": "River,",
+          "s": 7.41,
+          "e": 7.89
+        },
+        {
+          "w": "in",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "Oregon.",
+          "s": 8.25,
+          "e": 8.53
+        }
+      ]
+    },
+    {
+      "text": "The Jayhawk crew had come from across the country for advanced rescue school.",
+      "start": 9.09,
+      "end": 13.13,
+      "words": [
+        {
+          "w": "The",
+          "s": 9.09,
+          "e": 9.17
+        },
+        {
+          "w": "Jayhawk",
+          "s": 9.25,
+          "e": 9.65
+        },
+        {
+          "w": "crew",
+          "s": 9.73,
+          "e": 9.97
+        },
+        {
+          "w": "had",
+          "s": 10.05,
+          "e": 10.13
+        },
+        {
+          "w": "come",
+          "s": 10.21,
+          "e": 10.37
+        },
+        {
+          "w": "from",
+          "s": 10.45,
+          "e": 10.53
+        },
+        {
+          "w": "across",
+          "s": 10.61,
+          "e": 10.93
+        },
+        {
+          "w": "the",
+          "s": 11.01,
+          "e": 11.09
+        },
+        {
+          "w": "country",
+          "s": 11.17,
+          "e": 11.49
+        },
+        {
+          "w": "for",
+          "s": 11.57,
+          "e": 11.65
+        },
+        {
+          "w": "advanced",
+          "s": 11.73,
+          "e": 12.13
+        },
+        {
+          "w": "rescue",
+          "s": 12.21,
+          "e": 12.53
+        },
+        {
+          "w": "school.",
+          "s": 12.69,
+          "e": 13.13
+        }
+      ]
+    },
+    {
+      "text": "The wind was extreme, and the seas kept breaking.",
+      "start": 13.41,
+      "end": 16.65,
+      "words": [
+        {
+          "w": "The",
+          "s": 13.41,
+          "e": 13.49
+        },
+        {
+          "w": "wind",
+          "s": 13.65,
+          "e": 13.81
+        },
+        {
+          "w": "was",
+          "s": 13.89,
+          "e": 13.97
+        },
+        {
+          "w": "extreme,",
+          "s": 14.17,
+          "e": 15.01
+        },
+        {
+          "w": "and",
+          "s": 15.09,
+          "e": 15.17
+        },
+        {
+          "w": "the",
+          "s": 15.21,
+          "e": 15.29
+        },
+        {
+          "w": "seas",
+          "s": 15.41,
+          "e": 15.65
+        },
+        {
+          "w": "kept",
+          "s": 15.73,
+          "e": 15.89
+        },
+        {
+          "w": "breaking.",
+          "s": 15.97,
+          "e": 16.65
+        }
+      ]
+    },
+    {
+      "text": "The swimmer reached the mariner in the water.",
+      "start": 16.93,
+      "end": 19.17,
+      "words": [
+        {
+          "w": "The",
+          "s": 16.93,
+          "e": 17.01
+        },
+        {
+          "w": "swimmer",
+          "s": 17.09,
+          "e": 17.49
+        },
+        {
+          "w": "reached",
+          "s": 17.53,
+          "e": 17.73
+        },
+        {
+          "w": "the",
+          "s": 17.81,
+          "e": 17.89
+        },
+        {
+          "w": "mariner",
+          "s": 17.97,
+          "e": 18.29
+        },
+        {
+          "w": "in",
+          "s": 18.33,
+          "e": 18.41
+        },
+        {
+          "w": "the",
+          "s": 18.41,
+          "e": 18.49
+        },
+        {
+          "w": "water.",
+          "s": 18.53,
+          "e": 19.17
+        }
+      ]
+    },
+    {
+      "text": "A swimmer and a survivor ride the same winch cable up, clipped together.",
+      "start": 19.49,
+      "end": 24.05,
+      "words": [
+        {
+          "w": "A",
+          "s": 19.49,
+          "e": 19.65
+        },
+        {
+          "w": "swimmer",
+          "s": 19.73,
+          "e": 20.05
+        },
+        {
+          "w": "and",
+          "s": 20.09,
+          "e": 20.17
+        },
+        {
+          "w": "a",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "survivor",
+          "s": 20.29,
+          "e": 20.85
+        },
+        {
+          "w": "ride",
+          "s": 20.93,
+          "e": 21.17
+        },
+        {
+          "w": "the",
+          "s": 21.25,
+          "e": 21.33
+        },
+        {
+          "w": "same",
+          "s": 21.41,
+          "e": 21.65
+        },
+        {
+          "w": "winch",
+          "s": 21.73,
+          "e": 21.89
+        },
+        {
+          "w": "cable",
+          "s": 21.97,
+          "e": 22.29
+        },
+        {
+          "w": "up,",
+          "s": 22.37,
+          "e": 22.77
+        },
+        {
+          "w": "clipped",
+          "s": 22.85,
+          "e": 23.09
+        },
+        {
+          "w": "together.",
+          "s": 23.17,
+          "e": 24.05
+        }
+      ]
+    },
+    {
+      "text": "It was the swimmer's first life saved.",
+      "start": 24.13,
+      "end": 26.77,
+      "words": [
+        {
+          "w": "It",
+          "s": 24.13,
+          "e": 24.21
+        },
+        {
+          "w": "was",
+          "s": 24.29,
+          "e": 24.37
+        },
+        {
+          "w": "the",
+          "s": 24.45,
+          "e": 24.53
+        },
+        {
+          "w": "swimmer's",
+          "s": 24.61,
+          "e": 25.17
+        },
+        {
+          "w": "first",
+          "s": 25.33,
+          "e": 25.49
+        },
+        {
+          "w": "life",
+          "s": 25.57,
+          "e": 25.73
+        },
+        {
+          "w": "saved.",
+          "s": 25.81,
+          "e": 26.77
+        }
+      ]
+    },
+    {
+      "text": "The mariner reached Astoria in stable condition.",
+      "start": 26.85,
+      "end": 29.65,
+      "words": [
+        {
+          "w": "The",
+          "s": 26.85,
+          "e": 26.93
+        },
+        {
+          "w": "mariner",
+          "s": 27.01,
+          "e": 27.41
+        },
+        {
+          "w": "reached",
+          "s": 27.45,
+          "e": 27.65
+        },
+        {
+          "w": "Astoria",
+          "s": 27.73,
+          "e": 28.29
+        },
+        {
+          "w": "in",
+          "s": 28.37,
+          "e": 28.45
+        },
+        {
+          "w": "stable",
+          "s": 28.53,
+          "e": 28.85
+        },
+        {
+          "w": "condition.",
+          "s": 28.93,
+          "e": 29.65
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 29.87
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.017
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": false,
+      "value": 0.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [
+    "true_peak"
+  ],
+  "render_sheet": "data/shorts/ccf-20261028-02/render_sheet.jpg",
+  "asset_url": null,
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261028-02/ccf-20261028-02.mp4"
 }
