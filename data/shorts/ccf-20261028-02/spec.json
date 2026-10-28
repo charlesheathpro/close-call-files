@@ -12,9 +12,9 @@
     "The wind was extreme, and the seas kept breaking.",
     "The swimmer reached the mariner in the water.",
     "A swimmer and a survivor ride the same winch cable up, clipped together.",
-    "It was the swimmer's first life saved. [short pause] Hours later, he graduated."
+    "It was the swimmer's first life saved."
   ],
-  "outcome": "The mariner reached Air Station Astoria in stable condition.",
+  "outcome": "The mariner reached Astoria in stable condition.",
   "location_card": {
     "place": "Columbia River bar, Oregon",
     "date": "Feb. 3, 2023"
@@ -79,7 +79,7 @@
       "source_quote": "this was Aviation Survival Technician 3rd Class John 'Branch' Walton's first life saved. Hours later, he and his classmates graduated"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "priority": 3,
   "line_shots": [
     [
@@ -125,7 +125,7 @@
       },
       {
         "start": 13.4,
-        "end": 15.7,
+        "end": 15.8,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -133,14 +133,14 @@
     [
       {
         "start": 15.8,
-        "end": 17.9,
+        "end": 17.4,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 17.9,
-        "end": 19.8,
-        "layout": "crop",
+        "start": 5.4,
+        "end": 7.0,
+        "layout": "fit",
         "crop_x": 0.5
       }
     ],
@@ -181,33 +181,21 @@
     [
       {
         "start": 35.5,
-        "end": 37.4,
+        "end": 38.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 37.5,
+        "start": 38.1,
         "end": 39.3,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 41.4,
-        "end": 42.7,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 24.9,
-        "end": 26.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 17.9,
-        "end": 19.8,
+        "start": 17.4,
+        "end": 19.85,
         "layout": "crop",
         "crop_x": 0.5
       }
