@@ -51,7 +51,7 @@ def validate(spec_path):
     # Text limits
     if len(spec["hook"]) > 70:
         errors.append("hook over 70 characters")
-    if not isinstance(spec["narration"], list) or not 2 <= len(spec["narration"]) <= 9:
+    if not isinstance(spec["narration"], list) or not 2 <= len(spec["narration"]) <= 16:
         errors.append("narration must be a list of 2 to 9 lines")
     for i, line in enumerate(spec["narration"] + [spec["outcome"]]):
         if len(TAG_RE.findall(line)) > 3:
@@ -151,10 +151,10 @@ def validate(spec_path):
     if long_segs:
         warnings.append(f"segments {long_segs} run over 5.5s; cut every 2 to 4 seconds to hold attention")
     est = words / WORDS_PER_SEC + 0.2 * (len(spec["narration"]) + 1) + 1.0
-    if est > 50:
-        errors.append(f"narration too long: about {est:.0f}s spoken; aim for 25 to 35 seconds")
-    elif est > 38:
-        warnings.append(f"about {est:.0f}s spoken; 25 to 35 seconds holds viewers best")
+    if est > 170:
+        errors.append(f"narration too long: about {est:.0f}s spoken; Shorts must stay under 3 minutes")
+    elif est > 120:
+        warnings.append(f"about {est:.0f}s spoken; past 2 minutes only if every line adds story and the footage carries it")
     if est < 14:
         warnings.append(f"narration is short ({est:.0f}s); Shorts under 15s rarely hold attention")
     if not spec.get("line_shots") and total < est + 1:

@@ -13,6 +13,7 @@ Usage:
 import argparse
 import hashlib
 import json
+import math
 import os
 import re
 import subprocess
@@ -622,7 +623,7 @@ def run_checks(out, total, timeline):
     frz = freezes(out)
     checks = {
         "resolution": {"ok": (int(v["width"]), int(v["height"])) == (W, H), "value": f"{v['width']}x{v['height']}"},
-        "duration": {"ok": 12 <= vd <= 59.5, "value": round(vd, 2)},
+        "duration": {"ok": 12 <= vd <= 178, "value": round(vd, 2)},  # Shorts allow up to 3 minutes
         "av_sync": {"ok": a is not None and abs(vd - ad) < 0.15, "value": round(vd - ad, 3)},
         "fits_narration": {"ok": vd >= timeline[-1]["end"] + 0.1, "value": round(vd - timeline[-1]["end"], 2)},
         "loudness": {"ok": lufs is not None and -15.5 <= lufs <= -12.5, "value": lufs},
@@ -692,6 +693,33 @@ def pick_track(spec, tracks):
     return pool[int(hashlib.md5(spec["short_id"].encode()).hexdigest(), 16) % len(pool)]
 
 
+def music_bed(track, resolve_time, work, xfade=1.5):
+    """Music file whose lift lands at `resolve_time` or later.
+
+    Library tracks build tension for `resolve_at` seconds (34 s) and then lift. A longer Short repeats
+    the tension section, crossfaded, before the full track, so the music never starts late or in silence."""
+    src = MUSIC_DIR / track["file"]
+    R = float(track.get("resolve_at", 0))
+    if R <= xfade * 2 or resolve_time <= R:
+        return src, R
+    k = math.ceil((resolve_time - R) / (R - xfade))
+    dest = work / f"music_bed_{track['id']}_{k}.wav"
+    if not dest.exists():
+        ins, fc, last = [], [], None
+        for i in range(k + 1):
+            ins += ["-i", src]
+            trim = f"atrim=0:{R}," if i < k else ""
+            fc.append(f"[{i}:a]{trim}asetpts=PTS-STARTPTS,aresample={SR},aformat=channel_layouts=stereo[p{i}]")
+        last = "[p0]"
+        for i in range(1, k + 1):
+            out = f"[x{i}]"
+            fc.append(f"{last}[p{i}]acrossfade=d={xfade}:c1=tri:c2=tri{out}")
+            last = out
+        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", *ins, "-filter_complex", ";".join(fc),
+             "-map", last, dest])
+    return dest, k * (R - xfade) + R
+
+
 def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
     """Broadcast-style mix: voice on top, music and location sound ducked under it.
 
@@ -722,8 +750,10 @@ def mix_audio(spec, cfg, footage, src_audio, voice_wav, timeline, total, work):
     else:
         fc.append("[k1]anullsink")
     if track:
-        offset = float(track.get("resolve_at", 0)) - outcome_start + float(mixcfg.get("resolve_lead", 0.15))
-        inputs += ["-stream_loop", "-1", "-i", MUSIC_DIR / track["file"]]
+        lead = float(mixcfg.get("resolve_lead", 0.15))
+        bed, resolve_at = music_bed(track, outcome_start + lead, work)
+        offset = resolve_at - outcome_start + lead
+        inputs += ["-stream_loop", "-1", "-i", bed]
         head = f"atrim=start={offset:.3f}," if offset > 0 else f"adelay={int(-offset * 1000)}:all=1,"
         fc.append(f"[2:a]{head}asetpts=PTS-STARTPTS,atrim=0:{total},aformat=channel_layouts=stereo,"
                   "highpass=f=45,equalizer=f=2800:t=q:w=1.3:g=-5,"
