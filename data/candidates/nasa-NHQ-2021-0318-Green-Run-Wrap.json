@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "engine test fire",
   "title": "Smoke and Fire! NASA Tests the World's Most Powerful Rocket",
-  "description": "NASA's Space Launch System (SLS) rocket's core stage fired all four of its RS-25 engines on March 18th at Stennis Space Center near Bay St. Louis, Mississippi.   The core stage includes the liquid hydrogen tank and liquid oxygen tank, four RS-25 engines, and the computers, electronics, and avionics that serve as the “brains” of the rocket.   The hot fire was the final test of the Green Run series. The term “green” refers to the new hardware that will work together to power the stage, and “run” refers to operating all the components together simultaneously for the first time. For the test, the 212-foot core stage generated 1.6 million pounds of thrust, while anchored in the B-2 Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. The hot fire test included loading 733,000 gallons of liquid oxygen and liquid hydrogen – mirroring the launch countdown procedure – and igniting the engines.  Artemis I will be the first in series of increasingly complex missions, testing the SLS rocket and Orion spacecraft as an integrated system ahead of crewed flights to the Moon. Under the Artemis program, NASA is working to land the first woman and the next man on the Moon. SLS is the only rocket that can send Orion, astronauts, and supplies to the Moon on a single mission.",
+  "description": "NASA's Space Launch System (SLS) rocket's core stage fired all four of its RS-25 engines on March 18th at Stennis Space Center near Bay St. Louis, Mississippi.   The core stage includes the liquid hydrogen tank and liquid oxygen tank, four RS-25 engines, and the computers, electronics, and avionics that serve as the \u201cbrains\u201d of the rocket.   The hot fire was the final test of the Green Run series. The term \u201cgreen\u201d refers to the new hardware that will work together to power the stage, and \u201crun\u201d refers to operating all the components together simultaneously for the first time. For the test, the 212-foot core stage generated 1.6 million pounds of thrust, while anchored in the B-2 Test Stand at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi. The hot fire test included loading 733,000 gallons of liquid oxygen and liquid hydrogen \u2013 mirroring the launch countdown procedure \u2013 and igniting the engines.  Artemis I will be the first in series of increasingly complex missions, testing the SLS rocket and Orion spacecraft as an integrated system ahead of crewed flights to the Moon. Under the Artemis program, NASA is working to land the first woman and the next man on the Moon. SLS is the only rocket that can send Orion, astronauts, and supplies to the Moon on a single mission.",
   "keywords": "SLS, Artemis, Green Run Test, Orion, NASA Space Launch System, Stennis Space Center",
   "date": "2021-03-18T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2021-0318-Green-Run-Wrap",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:55:24Z",
   "duration": 86.4,
   "source_file": {
@@ -190,5 +190,6 @@
     72.48,
     77.85,
     83.22
-  ]
+  ],
+  "used_by": "ccf-20261027-77"
 }

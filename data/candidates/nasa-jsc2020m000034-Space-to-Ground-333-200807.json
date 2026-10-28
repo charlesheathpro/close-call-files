@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2020m000034-Space-to-Ground-333-200807",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:31:00Z",
   "duration": 161.87,
   "source_file": {
@@ -34,7 +34,7 @@
     {
       "s": 5.0,
       "e": 7.46,
-      "text": "WELCOME TO SPACE TO GROUND, IâM ISIDRO REYNA."
+      "text": "WELCOME TO SPACE TO GROUND, I\u00e2\u0080\u0099M ISIDRO REYNA."
     },
     {
       "s": 7.46,
@@ -44,7 +44,7 @@
     {
       "s": 11.5,
       "e": 13.18,
-      "text": "SPACEXâS CREW DRAGON,"
+      "text": "SPACEX\u00e2\u0080\u0099S CREW DRAGON,"
     },
     {
       "s": 13.19,
@@ -164,7 +164,7 @@
     {
       "s": 64.82,
       "e": 67.64,
-      "text": "THE ORBITING LABORATORYâS INVESTIGATIONS."
+      "text": "THE ORBITING LABORATORY\u00e2\u0080\u0099S INVESTIGATIONS."
     },
     {
       "s": 67.64,
@@ -239,12 +239,12 @@
     {
       "s": 96.81,
       "e": 98.56,
-      "text": "THIS WEEKâS QUESTION COMES FROM PRATIK."
+      "text": "THIS WEEK\u00e2\u0080\u0099S QUESTION COMES FROM PRATIK."
     },
     {
       "s": 98.56,
       "e": 100.43,
-      "text": "HE WANTS TO KNOW WHAT BOB AND DOUGâS ROLE"
+      "text": "HE WANTS TO KNOW WHAT BOB AND DOUG\u00e2\u0080\u0099S ROLE"
     },
     {
       "s": 100.43,
@@ -259,7 +259,7 @@
     {
       "s": 104.56,
       "e": 106.25,
-      "text": "THE COMPANYâS FIRST OPERATIONAL FLIGHT"
+      "text": "THE COMPANY\u00e2\u0080\u0099S FIRST OPERATIONAL FLIGHT"
     },
     {
       "s": 106.25,
@@ -304,7 +304,7 @@
     {
       "s": 122.67,
       "e": 125.0,
-      "text": "SPACEXâS CREW DRAGON WILL FERRY ASTRONAUTS"
+      "text": "SPACEX\u00e2\u0080\u0099S CREW DRAGON WILL FERRY ASTRONAUTS"
     },
     {
       "s": 125.0,
@@ -329,17 +329,17 @@
     {
       "s": 131.95,
       "e": 133.84,
-      "text": "USING THE HASHTAG âASK NASA.â"
+      "text": "USING THE HASHTAG \u00e2\u0080\u009cASK NASA.\u00e2\u0080\u009d"
     },
     {
       "s": 133.84,
       "e": 135.18,
-      "text": "WEâLL SEE YOU NEXT WEEK."
+      "text": "WE\u00e2\u0080\u0099LL SEE YOU NEXT WEEK."
     },
     {
       "s": 140.62,
       "e": 141.6,
-      "text": "âWEâRE COUNTING DOWN TO"
+      "text": "\u00e2\u0080\u009cWE\u00e2\u0080\u0099RE COUNTING DOWN TO"
     },
     {
       "s": 141.6,
@@ -354,7 +354,7 @@
     {
       "s": 146.36,
       "e": 148.76,
-      "text": "FOLLOW ALONG AT NASA.GOV.â"
+      "text": "FOLLOW ALONG AT NASA.GOV.\u00e2\u0080\u009d"
     }
   ],
   "scene_cuts": [
@@ -403,5 +403,6 @@
     136.15,
     146.24,
     156.32
-  ]
+  ],
+  "pass_reason": "Weekly host-led news show; the splashdown is one distant 5-second shot, the rest is presenter, graphics and ISS interiors."
 }

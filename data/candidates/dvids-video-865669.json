@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "lava flow",
   "title": "Mauna Loa volcano erupts for first time in 38 years",
-  "description": "The world’s largest active volcano, Mauna Loa on Hawaii’s Big Island, is erupting for the first time since 1984. The eruption began in Moku’āweoweo, the summit caldera of Mauna Loa, on Sunday at approximately 11:30 p.m. HST, according to the Hawaii Volcano Observatory; though lava is flowing down one side of the volcano, there is no indication of a threat to nearby communities at this time.",
+  "description": "The world\u2019s largest active volcano, Mauna Loa on Hawaii\u2019s Big Island, is erupting for the first time since 1984. The eruption began in Moku\u2019\u0101weoweo, the summit caldera of Mauna Loa, on Sunday at approximately 11:30 p.m. HST, according to the Hawaii Volcano Observatory; though lava is flowing down one side of the volcano, there is no indication of a threat to nearby communities at this time.",
   "keywords": "Mauna Loa Volcano, USCG",
   "date": "2022-11-28T00:00:00-05:00",
   "date_published": "2022-11-28T20:15:02-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-865669",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:19:03Z",
   "duration": 59.1,
   "source_file": {
@@ -77,5 +77,6 @@
     49.44,
     53.1,
     56.76
-  ]
+  ],
+  "pass_reason": "Sensor-ball footage inside picture-in-picture overlays; the lava is a thin red line far away, and the release gives no outcome beyond 'no threat at this time'."
 }

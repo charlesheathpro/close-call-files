@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-930776",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:39:35Z",
   "duration": 46.7,
   "source_file": {
@@ -64,5 +64,6 @@
     38.98,
     41.87,
     44.76
-  ]
+  ],
+  "pass_reason": "Almost all static cockpit interior shots of the crew; the fire and the drop never show clearly. One C-130J Short already written from 930973."
 }
