@@ -178,6 +178,21 @@ def drama_score(video, duration):
     return int(min(100, motion * 6 + contrast * 0.6))
 
 
+def dark_share(video):
+    """Share of sampled frames that are mostly black: night hoists and thermal windows."""
+    import numpy as np
+    raw = run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-i", str(video), "-vf",
+               "fps=1,scale=64:36,format=gray", "-f", "rawvideo", "-"], check=False, binary=True).stdout
+    frames = np.frombuffer(raw, dtype=np.uint8)
+    if frames.size < 64 * 36:
+        return 0.0
+    frames = frames[: frames.size // (64 * 36) * 64 * 36].reshape(-1, 36 * 64)
+    live = frames.max(axis=0) >= 40  # ignore letterbox and pillarbox bars that are black in every frame
+    if live.sum() < 50:
+        return 1.0
+    return float(((frames[:, live] < 40).mean(axis=1) > 0.6).mean())
+
+
 def frame_sheet(video, dest, duration, start=0.0, n=16, cols=4, width=360):
     """Grid of n labeled frames spread across the clip."""
     tmp = WORK / "frames"
@@ -246,8 +261,17 @@ def analyze(sid, meta, best_src, small_src, best_info=None, srt_text=None):
     """Download the small file once, transcribe, cut scenes, score drama and save the candidate."""
     work = WORK / sid
     work.mkdir(parents=True, exist_ok=True)
+    if best_info and best_info.get("width") and best_info.get("height"):
+        short = min(int(best_info["width"]), int(best_info["height"]))
+        if short < config()["harvest"].get("min_short_side", 700):
+            return None, f"low resolution ({best_info['width']}x{best_info['height']})"
     vid = download(small_src, work / "analysis.mp4")
     duration = media_duration(vid)
+    dark = dark_share(vid)
+    if dark > 0.6:
+        for f in work.glob("*"):
+            f.unlink()
+        return None, f"mostly dark ({dark:.0%} of frames)"
     transcript, source = [], "none"
     if srt_text and "-->" in srt_text:
         transcript, source = srt_to_segments(srt_text), "captions"

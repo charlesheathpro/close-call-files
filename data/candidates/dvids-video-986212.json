@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-986212",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:19:50Z",
   "duration": 68.07,
   "source_file": {
@@ -100,5 +100,6 @@
     57.01,
     61.23,
     65.46
-  ]
+  ],
+  "pass_reason": "Night rescue: thermal shots of the hull are small, and the cabin footage is black with scan-line artifacts for most of the clip. Unwatchable on a phone."
 }
