@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Video-showing-a-flight-through-the-eye-of-HurricaneIrma-from",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:27:48Z",
   "duration": 140.16,
   "source_file": {
@@ -54,5 +54,6 @@
     117.84,
     126.57,
     135.29
-  ]
+  ],
+  "pass_reason": "low resolution (640x360); looks blurry on a phone"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-155849",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:03:07Z",
   "duration": 62.87,
   "source_file": {
@@ -167,5 +167,6 @@
     52.62,
     56.52,
     60.42
-  ]
+  ],
+  "pass_reason": "low resolution (720x406); looks blurry on a phone"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Comparing-a-moderate-coronal-mass-ejection-CME-from-2006-to-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:45:08Z",
   "duration": 134.6,
   "source_file": {
@@ -197,5 +197,6 @@
     113.15,
     121.53,
     129.91
-  ]
+  ],
+  "pass_reason": "low resolution (720x480); looks blurry on a phone"
 }

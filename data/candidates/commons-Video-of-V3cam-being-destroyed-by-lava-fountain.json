@@ -4,8 +4,8 @@
   "lane": "hazards",
   "matched_query": "lava USGS",
   "title": "Video of V3cam being destroyed by lava fountain",
-  "description": "The V3 camera was located on the south rim of Halema‘uma‘u crater at the summit of Kīlauea volcano on the Island of Hawai‘i. The camera, located in a hazardous closed area of Hawai‘i Volcanoes National Park, was buried by tephra from an inclined lava fountain between 9:55 and 9:57 am HST on December 6, during episode 38 that began this morning at 8:45 am. USGS webcam image. USGS webcam video.",
-  "keywords": "PD USGS, Videos without audio, PD-USGov missing SDC copyright status, Videos of volcanic eruptions, Videos without human authors, Kīlauea 2025 eruptions, Fountaining at Halemaʻumaʻu in 2025, Halemaʻumaʻu in 2025",
+  "description": "The V3 camera was located on the south rim of Halema\u2018uma\u2018u crater at the summit of K\u012blauea volcano on the Island of Hawai\u2018i. The camera, located in a hazardous closed area of Hawai\u2018i Volcanoes National Park, was buried by tephra from an inclined lava fountain between 9:55 and 9:57 am HST on December 6, during episode 38 that began this morning at 8:45 am. USGS webcam image. USGS webcam video.",
+  "keywords": "PD USGS, Videos without audio, PD-USGov missing SDC copyright status, Videos of volcanic eruptions, Videos without human authors, K\u012blauea 2025 eruptions, Fountaining at Halema\u02bbuma\u02bbu in 2025, Halema\u02bbuma\u02bbu in 2025",
   "date": "2025-12-06",
   "branch": "",
   "unit_name": "https://www.usgs.gov/media/videos/december-6-2025-video-v3cam-being-destroyed-lava-fountain",
@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Video-of-V3cam-being-destroyed-by-lava-fountain",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:02:25Z",
   "duration": 120.47,
   "source_file": {
@@ -66,5 +66,6 @@
     101.23,
     108.72,
     116.22
-  ]
+  ],
+  "pass_reason": "low resolution (1052x552); looks blurry on a phone"
 }

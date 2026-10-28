@@ -1,11 +1,11 @@
 {
-  "asset_id": "commons:File:Halemaʻumaʻu lava lake USGS multimediaFile-1585.webm",
+  "asset_id": "commons:File:Halema\u02bbuma\u02bbu lava lake USGS multimediaFile-1585.webm",
   "source": "commons",
   "lane": "hazards",
   "matched_query": "lava USGS",
-  "title": "Halemaʻumaʻu lava lake USGS multimediaFile-1585",
-  "description": "Halemaʻumaʻu, Kīlauea, Hawaii, photographed in December 2016. This time-lapse sequence of a typical lava lake activity within Halemaʻumaʻu Crater, at 50× speed, illustrates the motion of the lava lake surface. Lava upwells in the northern portion of the lake (left side of image), with most of the lake surface flowing towards the south (right side). Spattering is active within a small grotto at the southeast margin of the lake.",
-  "keywords": "Halemaʻumaʻu, PD USGS, Media of the day, Videos from Hawaii, Uploaded with video2commons, Videos by the United States Geological Survey, USGS volcanology in Hawaii, Convection in long-lived lava lakes, Ring faults at volcanoes in the United States, Convecting lava lakes, Different heights of Halemaʻumaʻu lava lake, Activated caldera ring faults during eruptions, Fumaroles at Kilauea, Ring faults, Halemaʻumaʻu in 2016",
+  "title": "Halema\u02bbuma\u02bbu lava lake USGS multimediaFile-1585",
+  "description": "Halema\u02bbuma\u02bbu, K\u012blauea, Hawaii, photographed in December 2016. This time-lapse sequence of a typical lava lake activity within Halema\u02bbuma\u02bbu Crater, at 50\u00d7 speed, illustrates the motion of the lava lake surface. Lava upwells in the northern portion of the lake (left side of image), with most of the lake surface flowing towards the south (right side). Spattering is active within a small grotto at the southeast margin of the lake.",
+  "keywords": "Halema\u02bbuma\u02bbu, PD USGS, Media of the day, Videos from Hawaii, Uploaded with video2commons, Videos by the United States Geological Survey, USGS volcanology in Hawaii, Convection in long-lived lava lakes, Ring faults at volcanoes in the United States, Convecting lava lakes, Different heights of Halema\u02bbuma\u02bbu lava lake, Activated caldera ring faults during eruptions, Fumaroles at Kilauea, Ring faults, Halema\u02bbuma\u02bbu in 2016",
   "date": "2016-12-04",
   "branch": "",
   "unit_name": "United States Geological Survey",
@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Halema-uma-u-lava-lake-USGS-multimediaFile-1585",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:44:36Z",
   "duration": 41.14,
   "source_file": {
@@ -54,5 +54,6 @@
     34.29,
     36.83,
     39.37
-  ]
+  ],
+  "pass_reason": "low resolution (1000x562); looks blurry on a phone"
 }

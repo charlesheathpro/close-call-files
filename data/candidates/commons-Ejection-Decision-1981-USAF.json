@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Ejection-Decision-1981-USAF",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:00:12Z",
   "duration": 1050.0,
   "source_file": {
@@ -1641,5 +1641,6 @@
     885.52,
     951.11,
     1016.7
-  ]
+  ],
+  "pass_reason": "low resolution (678x442); looks blurry on a phone"
 }

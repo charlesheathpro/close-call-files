@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-A-Coronal-Mass-Ejection-strikes-the-Earth",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:46:05Z",
   "duration": 43.33,
   "source_file": {
@@ -52,5 +52,6 @@
     36.14,
     38.82,
     41.49
-  ]
+  ],
+  "pass_reason": "low resolution (640x360); looks blurry on a phone"
 }

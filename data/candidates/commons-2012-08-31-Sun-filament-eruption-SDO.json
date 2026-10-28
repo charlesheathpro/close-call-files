@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-2012-08-31-Sun-filament-eruption-SDO",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:07:28Z",
   "duration": 18.59,
   "source_file": {
@@ -52,5 +52,6 @@
     15.27,
     16.4,
     17.53
-  ]
+  ],
+  "pass_reason": "low resolution (512x288); looks blurry on a phone"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Friendly-Fire-Iraq",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:17:46Z",
   "duration": 921.0,
   "source_file": {
@@ -170,5 +170,6 @@
     776.67,
     834.2,
     891.73
-  ]
+  ],
+  "pass_reason": "low resolution (320x240); looks blurry on a phone"
 }

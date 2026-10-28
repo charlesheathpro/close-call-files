@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "surf rescue",
   "title": "Coast Guard Hoists Distressed Teen from Surf off Sunset Beach, Ore.",
-  "description": "ASTORIA, Ore. – The Coast Guard hoisted a person from the water off Sunset Beach near Warrenton, Ore., Friday.\r\n\r\nCoast Guard Sector Columbia River received a call reporting a distressed teenaged female off Sunset Beach at approximately 12:50 p.m.\r\n\r\nSector Columbia River sent an already airborne MH-60 Jayhawk helicopter crew from Air Station Astoria to the scene. The helicopter crew arrived at approximately 1 p.m. to find a male struggling to rescue the imperiled female in the surf approximately 100 yards off Sunset Beach.\r\n\r\nThe helicopter crew lowered a rescue basket and the man was able to load the girl into the basket for a hoist. The crew then hoisted the girl to the helicopter and transported her to Air Station Astoria in Warrenton, Ore., where she was placed in the care of awaiting local EMS.",
+  "description": "ASTORIA, Ore. \u2013 The Coast Guard hoisted a person from the water off Sunset Beach near Warrenton, Ore., Friday.\r\n\r\nCoast Guard Sector Columbia River received a call reporting a distressed teenaged female off Sunset Beach at approximately 12:50 p.m.\r\n\r\nSector Columbia River sent an already airborne MH-60 Jayhawk helicopter crew from Air Station Astoria to the scene. The helicopter crew arrived at approximately 1 p.m. to find a male struggling to rescue the imperiled female in the surf approximately 100 yards off Sunset Beach.\r\n\r\nThe helicopter crew lowered a rescue basket and the man was able to load the girl into the basket for a hoist. The crew then hoisted the girl to the helicopter and transported her to Air Station Astoria in Warrenton, Ore., where she was placed in the care of awaiting local EMS.",
   "keywords": "Pacific Northwest, Sector Columbia River, Sunset Beach, Coast Guard, D13",
   "date": "2013-05-17T00:00:00-04:00",
   "date_published": "2013-05-17T20:29:45-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-290970",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:36:16Z",
   "duration": 105.74,
   "source_file": {
@@ -69,5 +69,6 @@
     88.8,
     95.37,
     101.95
-  ]
+  ],
+  "pass_reason": "low resolution (720x480); looks blurry on a phone"
 }

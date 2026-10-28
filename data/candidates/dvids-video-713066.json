@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "pilot rescue",
   "title": "Coast Guard rescues two pilots from helicopter crash video",
-  "description": "The Coast Guard rescued two pilots from two separate helicopter crashes near Ft. Meade, Florida, Thursday afternoon. An MH-60 Jayhawk aircrew was launched from Coast Guard Air Station Clearwater to hoist the two pilots out of the field they had crashed in and transported to Tampa General Hospital. ( U.S. Coast Guard video).",
+  "description": "The Coast Guard rescued two pilots\u00a0from\u00a0two separate\u00a0helicopter crashes\u00a0near Ft. Meade, Florida, Thursday afternoon. An MH-60 Jayhawk aircrew was launched from Coast Guard Air Station Clearwater to hoist the two pilots out of the field they had crashed in and transported to Tampa General Hospital. ( U.S. Coast Guard video).",
   "keywords": "TAMPA, helicopter pilots, Coast Guard, rescue",
   "date": "2019-10-03T00:00:00-04:00",
   "date_published": "2019-10-03T21:38:05-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-713066",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:43:17Z",
   "duration": 28.95,
   "source_file": {
@@ -66,5 +66,6 @@
     24.0,
     25.78,
     27.56
-  ]
+  ],
+  "pass_reason": "low resolution (720x480); looks blurry on a phone"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-crews-interdicts-two-lanchas-rescue-nine-Mexican-fisher",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:12:40Z",
   "duration": 71.84,
   "source_file": {
@@ -83,5 +83,6 @@
     60.19,
     64.65,
     69.11
-  ]
+  ],
+  "pass_reason": "low resolution (640x400); looks blurry on a phone"
 }
