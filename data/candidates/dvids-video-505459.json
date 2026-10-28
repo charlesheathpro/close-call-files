@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-505459",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:26:18Z",
   "duration": 174.8,
   "source_file": {
@@ -204,5 +204,6 @@
     147.69,
     158.34,
     168.98
-  ]
+  ],
+  "pass_reason": "Night hoist with a spotlit circle on snow; most frames black silhouettes. Fails the dark-footage rule."
 }
