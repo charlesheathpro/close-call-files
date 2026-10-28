@@ -1,0 +1,13 @@
+{
+  "short_id": "ccf-20261028-08",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-28T23:23:57Z",
+  "score": 6,
+  "notes": "Great open (capsule pulling away at 0s) and a clean launch, but the climax line 'the abort fired and yanked the capsule clear' (render 21.7 to 26.6s) sits on blocky black and gray tracking footage (source 996 to 1005.6) that reads as nothing, and 31 to 33s is blown-out white smoke.",
+  "fixes": [
+    "Replace line 5 shots (source 996.0 to 1005.6) with the clearest wide shot of the abort motor firing and the capsule separating, e.g. the tracking-camera angle around source 1455 to 1466 that the open uses, or another clean ISO angle.",
+    "Replace line 6 shots at source 1008.0 to 1011.0 and 1473.0 to 1476.0 (white smoke filling the frame) with shots where the capsule is visible tumbling against blue sky (like source ~1478 to 1481).",
+    "Keep the open and the loop back to it."
+  ]
+}

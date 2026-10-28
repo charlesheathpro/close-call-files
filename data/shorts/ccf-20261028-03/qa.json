@@ -1,0 +1,12 @@
+{
+  "short_id": "ccf-20261028-03",
+  "revision": 2,
+  "verdict": "reject",
+  "at": "2026-10-28T23:23:57Z",
+  "score": 4,
+  "notes": "The source is a USCG vertical Short with the real picture in a thin middle band and blur filling the rest, so the Short looks small and soft. The opening is a grainy gray FLIR frame, the basket line (7 to 9s) sits on dark blur, and the cabin shots (12 to 15s) are washed out. No visible danger survives the quality.",
+  "fixes": [
+    "Drop this candidate; the 1080x1920 source is itself letterboxed and low resolution, so no crop fixes it.",
+    "If a better copy of the same rescue exists (DVIDS original horizontal file), rebuild from that with the open on the survivors clinging to debris."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "short_id": "ccf-20261028-07",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-28T23:23:57Z",
+  "score": 4,
+  "notes": "Strong story (half-sunk sailboat, 8-year-old aboard) but the source is murky night footage: only the FLIR opening (source 0.3 to 7.9s) is readable, and render 7 to 21s is a gray searchlight blob with nothing legible under lines 2 to 5.",
+  "fixes": [
+    "Drop unless a clearer night camera or FLIR copy exists.",
+    "If kept, cut to about 20s: FLIR 0.3 to 7.9 for lines 1 to 2, basket silhouettes from source 25.9 to 43.0 for the hoist lines, and remove source 9.5 to 24.6 entirely."
+  ]
+}
