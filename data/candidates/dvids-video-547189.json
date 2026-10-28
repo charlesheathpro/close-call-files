@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-547189",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T16:33:57Z",
   "duration": 32.58,
   "source_file": {
@@ -62,5 +62,6 @@
     27.06,
     29.07,
     31.07
-  ]
+  ],
+  "pass_reason": "single static long-lens angle and the release never says how it ended"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-831777",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:15:48Z",
   "duration": 113.5,
   "source_file": {
@@ -328,5 +328,6 @@
     95.34,
     102.41,
     109.47
-  ]
+  ],
+  "pass_reason": "talking-head interview, no footage of the rescue"
 }

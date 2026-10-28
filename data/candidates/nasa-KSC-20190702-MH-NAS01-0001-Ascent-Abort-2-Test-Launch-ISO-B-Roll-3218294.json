@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190702-MH-NAS01-0001-Ascent-Abort-2-Test-Launch-ISO-B-Roll-3218294",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-27T22:44:07Z",
   "duration": 1520.93,
   "source_file": {
@@ -1586,5 +1586,6 @@
     1282.87,
     1377.89,
     1472.92
-  ]
+  ],
+  "used_by": "ccf-20261028-08"
 }

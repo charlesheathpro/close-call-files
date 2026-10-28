@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Hurricane-Harvey-SAR-GoPro-Footage-547068",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:54:45Z",
   "duration": 318.29,
   "source_file": {
@@ -52,5 +52,6 @@
     268.14,
     288.0,
     307.86
-  ]
+  ],
+  "pass_reason": "five minutes of cabin view over flooding; no rescue on screen"
 }

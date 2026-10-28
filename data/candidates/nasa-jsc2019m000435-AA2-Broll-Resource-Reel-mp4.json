@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2019m000435-AA2-Broll-Resource-Reel-mp4",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:24:52Z",
   "duration": 697.4,
   "source_file": {
@@ -176,5 +176,6 @@
     588.01,
     631.57,
     675.12
-  ]
+  ],
+  "pass_reason": "pre-test hardware b-roll; the flight itself is in the ISO launch reel used for ccf-20261028-08"
 }

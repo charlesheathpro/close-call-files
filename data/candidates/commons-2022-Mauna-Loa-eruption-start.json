@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-2022-Mauna-Loa-eruption-start",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:45:40Z",
   "duration": 25.61,
   "source_file": {
@@ -60,5 +60,6 @@
     21.19,
     22.75,
     24.32
-  ]
+  ],
+  "pass_reason": "Mauna Loa 2022 eruption already covered by ccf-20261028-05"
 }
