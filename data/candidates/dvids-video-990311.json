@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:990311",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard rescues boater from vessel fire off Clearwater",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew rescued a boater after their commercial fishing vessel caught fire approximately 100 miles west of Clearwater, Sunday. The boater was in stable condition and did not require medical attention. (U.S. Coast Guard video by Petty Officer 2nd Class Hunter Kendall)",
+  "keywords": "Clearwater, Coast Guard, SAR, rescue, USCG",
+  "date": "2025-12-14T00:00:00-05:00",
+  "date_published": "2025-12-15T14:13:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "251214-O-G0107-8165",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/990311/coast-guard-rescues-boater-vessel-fire-off-clearwater",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-990311",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:00:20Z",
+  "duration": 134.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111439738/DOD_111439738.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 162289348
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    23.19,
+    29.4,
+    35.1,
+    72.31,
+    81.31,
+    104.77,
+    113.05,
+    121.12
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      35.1
+    ],
+    "silence_ends": [
+      72.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-990311.jpg",
+  "sheet_times": [
+    4.2,
+    12.6,
+    21.01,
+    29.41,
+    37.81,
+    46.21,
+    54.61,
+    63.02,
+    71.42,
+    79.82,
+    88.22,
+    96.63,
+    105.03,
+    113.43,
+    121.83,
+    130.23
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317669",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "ejection",
+  "title": "Hoist",
+  "description": "SEATTLE - A MH-60 Jayhawk helicopter crew hoists a 40-year-old female off a bank on the Tilton River, July 15, 2012, approximately 30 miles northwest of Longview, Wash. The woman was injured after being ejected from her raft while travelling down river. U.S. Coast Guard video by Air Station Astoria, Ore.",
+  "keywords": "CGVI",
+  "date": "2012-07-15T00:00:00-04:00",
+  "date_published": "2013-12-22T16:23:21-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Nathan Bradshaw",
+  "category": "B-Roll",
+  "virin": "120715-G-AX010-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317669/hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317669",
+  "status": "new",
+  "harvested_at": "2026-10-29T16:55:31Z",
+  "duration": 37.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062634/DOD_101062634.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 80557970
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    32.0
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      37.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317669.jpg",
+  "sheet_times": [
+    1.15,
+    3.44,
+    5.73,
+    8.02,
+    10.31,
+    12.6,
+    14.89,
+    17.18,
+    19.47,
+    21.76,
+    24.05,
+    26.34,
+    28.63,
+    30.93,
+    33.22,
+    35.51
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:358432",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard saves 3 from sinking vessel",
+  "description": "A crew from Coast Guard Station Cortez, Florida, dewaters a 37-foot boat after it began taking on water eight miles west of Bean Point on Anna Maria Island, Fla., Aug. 31, 2014. Crew members from the station saved three people after they plugged a six-inch hole in the boat's hull and dewatered the boat. U.S. Coast Guard video.",
+  "keywords": "Coast Guard rescue, Cortez, Dewater, Taking on Water, Anna Maria Island, Bean Point, eight miles west, 37-foot boat, West Manatee Fire and rescue, Coast Guard, Florida, USCG",
+  "date": "2014-08-31T00:00:00-04:00",
+  "date_published": "2014-09-02T17:21:42-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140831-G-ZZ999-002",
+  "location": {
+    "city": "Cortez",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/358432/coast-guard-saves-3-sinking-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.92523,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-358432",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:13:27Z",
+  "duration": 23.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101923402/DOD_101923402.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7797,
+    "size": 23353516
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.82,
+      "e": 6.82,
+      "text": "There you go. You got the pump going."
+    },
+    {
+      "s": 6.82,
+      "e": 21.34,
+      "text": "It's all you need. There we go. There you go."
+    },
+    {
+      "s": 21.34,
+      "e": 23.34,
+      "text": "Oh yeah."
+    }
+  ],
+  "scene_cuts": [
+    3.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-358432.jpg",
+  "sheet_times": [
+    4.53,
+    5.74,
+    6.94,
+    8.15,
+    9.36,
+    10.57,
+    11.77,
+    12.98,
+    14.19,
+    15.4,
+    16.6,
+    17.81,
+    19.02,
+    20.23,
+    21.43,
+    22.64
+  ]
+}

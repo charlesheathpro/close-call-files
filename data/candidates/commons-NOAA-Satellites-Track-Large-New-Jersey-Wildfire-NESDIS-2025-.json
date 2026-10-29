@@ -1,0 +1,63 @@
+{
+  "asset_id": "commons:File:NOAA Satellites Track Large New Jersey Wildfire (NESDIS 2025-05-02 2025 05 02 NJWildfire UHD NO TEXT).webm",
+  "source": "commons",
+  "lane": "hazards",
+  "matched_query": "wildfire Forest Service",
+  "title": "NOAA Satellites Track Large New Jersey Wildfire (NESDIS 2025-05-02 2025 05 02 NJWildfire UHD NO TEXT)",
+  "description": "NOAA satellites have been closely monitoring the Jones Road Fire, which erupted on Tuesday, April 22, 2025, in a region of eastern New Jersey known as the Pine Barrens. Fueled by strong, gusty winds, low humidity, and dry undergrowth, the blaze has since grown to become one of the worst fires in the state’s history. The fire seems to have been caused by an improperly extinguished bonfire. So far, the fire has burned approximately 15,300 acres (24 square miles), and forced an estimated 5,000 residents to evacuate the area. It even threatened nuclear waste stored at the former Oyster Creek nuclear power plant. As of April 28, the flames were 75% contained. This blaze follows an unusually active wildfire season in the Northeast last fall, where numerous fires burned across New York state, particularly the Hudson Valley and Catskill mountains. According to the U.S. Drought Monitor, large swaths of New Jersey have been experiencing drought for close to a year, with March and April bringing less than half their typical rainfall. The Role of NOAA Satellites NOAA satellites are essential for wildfire monitoring and management, delivering critical information to support firefighting efforts and safeguard public safety. They detect heat signatures, map fire perimeters and burned areas, and track smoke and pollutants to assess air quality and health impacts. These advanced capabilities enable firefighting agencies to make informed decisions, allocate resources effectively, and predict fire behavior using advanced models. NOAA operates two key satellite systems: geostationary and polar-orbiting. The Geostationary Operational Environmental Satellites (GOES)–R Series, equipped with the Advanced Baseline Imager (ABI), delivers near real-time, high-resolution images that help forecasters locate hotspots, determine a fire’s size and temperature, detect changes in a fire’s behavior, and monitor smoke and air quality. The ability to monitor smoke plumes in near real-time is particularly useful for directing firefighting efforts. NOAA is also using GOES satellite imagery in its new wildfire tool, the Next Generation Fire System (NGFS), which uses artificial intelligence to scan satellite imagery and quickly detect fires down to the neighborhood level. NGFS also tracks wildfire growth and monitors fire intensity in near real-time, helping first responders prioritize which fires need immediate attention and keep firefighters safe. The NGFS displays this information on a dashboard that provides access to satellite imagery and other critical information such as fire weather outlooks and red flag warnings, wildfire incident perimeters, governmental boundaries, agency jurisdictions, and fuels data, which are essential for decision-making during a fire. Polar-orbiting satellites, such as those in the Joint Polar Satellite System (JPSS), feature the Visible Infrared Imaging Radiometer Suite (VIIRS), which offers detailed, continuous global fire monitoring. VIIRS excels in detecting smaller, lower-temperature fires with its 375-meter spatial resolution and Day-Night Band, which captures low-intensity visible light for enhanced nighttime fire detection. These capabilities also make information from VIIRS especially valuable for models such as HRRR-Smoke, which forecasts wildfire smoke movement up to 24 hours in advance. The model relies on VIIRS hot spot detections for initialization while also incorporating data from GOES. Additionally, the Hazard Mapping System (HMS) integrates satellite data into a publicly accessible platform that provides daily updates on fire locations and conditions. NOAA collaborates with partners like NASA and the U.S. Forest Service to enhance fire monitoring and share critical information. In an era of increasingly severe wildfires, NOAA satellites provide indispensable tools for protecting communities and managing natural disasters. Their data offers insights into fire dynamics, including location, duration, size, temperature, and power, as well as smoke dispersion, improving air quality forecasts and aiding firefighting efforts. Timely satellite imagery is critical, life-saving information in a dynamic fire environment.",
+  "keywords": "Photos by VIIRS, PD US NOAA, GOES pictures, Uploaded with video2commons, Video display resolution 3840 x 2160, Animations of satellite pictures, Satellite pictures of 2025 wildfires in the United States, NESDIS files uploaded by OptimusPrimeBot",
+  "date": "2 May 2025 (upload date)",
+  "branch": "",
+  "unit_name": "NOAA",
+  "credit": "NOAA video",
+  "original_source": "NOAA Satellites Track Large New Jersey Wildfire",
+  "page_url": "https://commons.wikimedia.org/wiki/File:NOAA_Satellites_Track_Large_New_Jersey_Wildfire_(NESDIS_2025-05-02_2025_05_02_NJWildfire_UHD_NO_TEXT).webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "commons-NOAA-Satellites-Track-Large-New-Jersey-Wildfire-NESDIS-2025-",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:02:45Z",
+  "duration": 94.24,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/NOAA_Satellites_Track_Large_New_Jersey_Wildfire_%28NESDIS_2025-05-02_2025_05_02_NJWildfire_UHD_NO_TEXT%29.webm/NOAA_Satellites_Track_Large_New_Jersey_Wildfire_%28NESDIS_2025-05-02_2025_05_02_NJWildfire_UHD_NO_TEXT%29.webm.1080p.vp9.webm",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.52,
+    22.03,
+    94.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      94.2
+    ]
+  },
+  "sheet": "data/candidates/commons-NOAA-Satellites-Track-Large-New-Jersey-Wildfire-NESDIS-2025-.jpg",
+  "sheet_times": [
+    2.93,
+    8.79,
+    14.65,
+    20.51,
+    26.36,
+    32.22,
+    38.08,
+    43.94,
+    49.8,
+    55.66,
+    61.52,
+    67.38,
+    73.24,
+    79.09,
+    84.95,
+    90.81
+  ]
+}

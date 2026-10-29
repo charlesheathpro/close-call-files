@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:844271",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard rescues 7 boaters from vessel fire near Gulfport, Mississippi",
+  "description": "Coast Guard Aviation Training Center Mobile HC-144 Ocean Sentry aircrew and Coast Guard Station Gulfport Response Boat - Medium boatcrew conduct a rescue of 7 boaters and a dog from a vessel fire near Gulfport, Mississippi, May 21, 2022. The aircrew deployed a rescue life raft, while the boatcrew rescued the boaters and dog from the raft shortly afterwards. (U.S. Coast Guard video courtesy of Aviation Training Center Mobile)",
+  "keywords": "Gulfport, ATC, Aviation Training Center Mobile, vessel fire, Station Gulfport, district eight",
+  "date": "2022-05-21T00:00:00-04:00",
+  "date_published": "2022-05-21T19:56:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220521-G-G0108-1001",
+  "location": {
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/844271/coast-guard-rescues-7-boaters-vessel-fire-near-gulfport-mississippi",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-844271",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:02:41Z",
+  "duration": 159.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2205/DOD_109007352/DOD_109007352-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 150599919
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    60.49,
+    74.61,
+    74.67,
+    74.74
+  ],
+  "drama_score": 58,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      159.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-844271.jpg",
+  "sheet_times": [
+    4.96,
+    14.89,
+    24.82,
+    34.74,
+    44.67,
+    54.6,
+    64.52,
+    74.45,
+    84.38,
+    94.3,
+    104.23,
+    114.16,
+    124.08,
+    134.01,
+    143.94,
+    153.86
+  ]
+}

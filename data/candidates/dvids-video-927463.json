@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:927463",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "USCG Station Monterey rescue 5 from boat fire",
+  "description": "A Station Monterey 47-foot Motor Lifeboat crew rescue five people off a 48-foot cabin cruiser named II Knotty after the vessel caught fire two miles offshore of Moss Landing near Monterey, Calif., June 10, 2024. After the five people were evacuated from the boat, the Station Monterey crew started towing the vessel to shore as the Monterey Fire Department extinguished the fire. (U.S. Coast Guard video by Station Monterey/released)",
+  "keywords": "Station Monterey, Moss Landing, Monterey Fire Department, SAR, search and rescue, USCG",
+  "date": "2024-06-10T00:00:00-04:00",
+  "date_published": "2024-06-13T17:34:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240610-G-ZZ999-1001",
+  "location": {
+    "city": "Monterey",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/927463/uscg-station-monterey-rescue-5-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-927463",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:08:54Z",
+  "duration": 246.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110381917/DOD_110381917.mp4",
+    "width": 1080,
+    "height": 1920,
+    "bitrate": 0,
+    "size": 302592204
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.17,
+      "e": 2.01,
+      "text": "Bye guys."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-927463.jpg",
+  "sheet_times": [
+    7.68,
+    23.03,
+    38.39,
+    53.74,
+    69.09,
+    84.45,
+    99.8,
+    115.16,
+    130.51,
+    145.86,
+    161.22,
+    176.57,
+    191.93,
+    207.28,
+    222.64,
+    237.99
+  ]
+}

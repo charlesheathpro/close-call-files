@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:857525",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "fishing vessel fire",
+  "title": "Air Station North Bend MH-65 aircrew rescues 2 from boat fire",
+  "description": "A Coast Guard Air Station North Bend MH-65 Dolphin rescue helicopter crew rescues two individuals from the 49-foot fishing vessel Preamble that caught fire approximately 57 miles west of Gold Beach, Oregon, Sept. 14, 2022. Both individuals rescued reported no medical concerns. U.S. Coast Guard video by Air Station North Bend.",
+  "keywords": "Air Station North Bend, MH-65, Preamble, D13",
+  "date": "2022-09-14T00:00:00-04:00",
+  "date_published": "2022-09-15T19:54:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Chief Petty Officer William Colclough",
+  "category": "B-Roll",
+  "virin": "220914-G-G0213-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/857525/air-station-north-bend-mh-65-aircrew-rescues-2-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-857525",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:21:59Z",
+  "duration": 64.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109220032/DOD_109220032-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 55677292
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.6
+    ],
+    "silence_ends": [
+      0.9,
+      64.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-857525.jpg",
+  "sheet_times": [
+    1.99,
+    5.96,
+    9.94,
+    13.92,
+    17.89,
+    21.87,
+    25.85,
+    29.82,
+    33.8,
+    37.77,
+    41.75,
+    45.73,
+    49.7,
+    53.68,
+    57.66,
+    61.63
+  ]
+}

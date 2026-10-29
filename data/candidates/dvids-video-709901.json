@@ -1,0 +1,101 @@
+{
+  "asset_id": "video:709901",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard rescues 7 from fire aboard Miss Emma off Oahu",
+  "description": "Coast Guard Air Station Barbers Point aircrews and Coast Guard surface assets respond to a vessel fire aboard the Miss Emma about 8 miles off Ko'Olina, Oahu, Sept. 17, 2019. After arriving on the scene, the HC-130 Hercules aircrew was able to vector in a 45-foot Response Boat-Medium (RB-M) from Small Boat Station Honolulu, and the boat crew successfully pulled all seven survivors from a liferaft and ferried them to shore. The USCGC Joseph Gerczak (WPC 1126) recovered the liferaft and remained on scene to ensure that the burning vessel did not become a hazard to local maritime traffic. (U.S. Coast Guard video by Petty Officer 1st Class Garth Booye and Petty Officer 2nd Class Ryan Perez/Released)",
+  "keywords": "D14, Coast Guard, SAR, rescue",
+  "date": "2019-09-17T00:00:00-04:00",
+  "date_published": "2019-09-18T17:18:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Tori Barrett",
+  "category": "B-Roll",
+  "virin": "190917-G-GO214-145",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/709901/coast-guard-rescues-7-fire-aboard-miss-emma-off-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-709901",
+  "status": "new",
+  "harvested_at": "2026-10-29T17:19:13Z",
+  "duration": 48.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107242001/DOD_107242001.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9094,
+    "size": 55384275
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.02,
+      "e": 11.02,
+      "text": "This is Emma. Fish and vessel, and this is Emma. This is Coast Guard. What is your GPS position? Nature distress. Over."
+    },
+    {
+      "s": 12.02,
+      "e": 19.02,
+      "text": "The boat is, uh, it's had a fire and the engine won't stop. All the crew and everybody's out on the deck right now."
+    },
+    {
+      "s": 20.02,
+      "e": 24.02,
+      "text": "It's a 45 foot blue and white fishing vessel, long line fishing vessel."
+    },
+    {
+      "s": 25.02,
+      "e": 27.02,
+      "text": "Seven people total."
+    },
+    {
+      "s": 28.02,
+      "e": 33.02,
+      "text": "Yeah, affirmative. We have the life raft down on the deck. Everybody has a life preserver."
+    },
+    {
+      "s": 33.02,
+      "e": 43.02,
+      "text": "The smoke is unbearable. We're throwing the life raft in the water. We're preparing to leave the boat."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      44.0
+    ],
+    "silence_ends": [
+      47.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-709901.jpg",
+  "sheet_times": [
+    1.49,
+    4.46,
+    7.43,
+    10.4,
+    13.37,
+    16.34,
+    19.32,
+    22.29,
+    25.26,
+    28.23,
+    31.2,
+    34.18,
+    37.15,
+    40.12,
+    43.09,
+    46.06
+  ]
+}
