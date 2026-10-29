@@ -1,13 +1,11 @@
 {
   "short_id": "ccf-20261028-09",
-  "revision": 1,
+  "revision": 2,
   "verdict": "reject",
-  "at": "2026-10-28T23:23:57Z",
+  "at": "2026-10-29T15:47:17Z",
   "score": 5,
-  "notes": "The riders sit on the right edge and are cut off in the open (0 to 9s), and render 9.5 to 15.4s is six seconds of empty palm canopy with the subjects off frame. Line 1 calls one rider 'a woman', which neither the release nor the footage establishes (the clearest view shows a young person in blue holding a small child and an older adult).",
+  "notes": "Crop and wording fixes landed and the riders and child are now well framed, but the Short is 18.5s, under the 20s minimum, and it rests on a single release caption.",
   "fixes": [
-    "Re-crop source 4.0 to 9.2 with crop_x about 0.85 so the riders and child are centered, or use fit layout.",
-    "Remove source 9.3 to 17.3 (empty canopy); if that leaves under 20s, drop the candidate.",
-    "Change line 1 to 'Two survivors and a small child rode this cable up out of Hurricane Eta's floodwater.' or describe only what is visible; do not say 'woman'."
+    "Add one sourced line (with an extra_sources excerpt, e.g. a JTF-Bravo or SOUTHCOM release on Eta flooding at San Pedro Sula) over unused hoist footage to reach at least 22s, or drop the candidate."
   ]
 }

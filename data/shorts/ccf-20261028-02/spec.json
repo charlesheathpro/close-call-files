@@ -83,7 +83,7 @@
       "source_quote": "was in stable condition when transferred from the Coast Guard's care."
     }
   ],
-  "revision": 4,
+  "revision": 5,
   "priority": 3,
   "line_shots": [
     [
@@ -104,20 +104,20 @@
       {
         "start": 0.4,
         "end": 2.8,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.4
       },
       {
         "start": 3.0,
         "end": 5.4,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.4
       },
       {
         "start": 5.4,
         "end": 7.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -144,8 +144,8 @@
       {
         "start": 5.4,
         "end": 7.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
