@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190523-BNG01-0001-MH-Boeing-CST100-Starliner-Hot-Fire-Test-3223534",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:20:39Z",
   "duration": 182.85,
   "source_file": {
@@ -120,5 +120,6 @@
     153.86,
     165.25,
     176.65
-  ]
+  ],
+  "pass_reason": "low-res test cameras, contact slates and control room b-roll"
 }

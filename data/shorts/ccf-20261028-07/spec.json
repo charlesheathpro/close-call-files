@@ -8,9 +8,9 @@
   "narration": [
     "Their sailboat was half underwater, with an eight year old aboard.",
     "The family was in a life raft beside it.",
-    "A Jayhawk crew from Air Station Clearwater flew out and lowered the rescue basket.",
-    "The hoist operator guides the basket in by hand from the open door.",
-    "[short pause] The child and both adults rode it up into the helicopter."
+    "A Clearwater Jayhawk crew lowered the basket.",
+    "The hoist operator guides it in by hand from the door.",
+    "[short pause] The child and both adults rode it up."
   ],
   "outcome": "All three reached Bahamian authorities in Great Inagua, and no injuries were reported.",
   "location_card": {
@@ -79,10 +79,10 @@
         "crop_x": 0.35
       },
       {
-        "start": 2.7,
+        "start": 2.4,
         "end": 4.4,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       }
     ],
     [
@@ -95,50 +95,32 @@
     ],
     [
       {
-        "start": 23.6,
-        "end": 25.9,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
         "start": 25.9,
         "end": 28.4,
         "layout": "crop",
         "crop_x": 0.55
-      },
+      }
+    ],
+    [
       {
-        "start": 28.5,
-        "end": 31.0,
+        "start": 35.4,
+        "end": 39.5,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
-      {
-        "start": 37.0,
-        "end": 39.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
       {
         "start": 39.6,
         "end": 42.0,
         "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
+        "crop_x": 0.55
+      },
       {
         "start": 42.0,
         "end": 44.5,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 44.5,
-        "end": 46.4,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ],
     [
@@ -149,12 +131,12 @@
         "crop_x": 0.5
       },
       {
-        "start": 33.9,
-        "end": 36.4,
+        "start": 4.5,
+        "end": 7.0,
         "layout": "crop",
         "crop_x": 0.5
       }
     ]
   ],
-  "revision": 2
+  "revision": 3
 }

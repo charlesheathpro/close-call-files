@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-927540",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:10:37Z",
   "duration": 246.15,
   "source_file": {
@@ -62,5 +62,6 @@
     207.26,
     222.62,
     237.97
-  ]
+  ],
+  "pass_reason": "same Monterey rescue as dvids-video-927463 (used the native vertical version)"
 }

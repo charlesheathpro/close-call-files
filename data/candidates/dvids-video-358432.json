@@ -26,7 +26,7 @@
   "time_start": 3.92523,
   "aspect_ratio": "16:9",
   "id": "dvids-video-358432",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:13:27Z",
   "duration": 23.74,
   "source_file": {
@@ -84,5 +84,6 @@
     20.23,
     21.43,
     22.64
-  ]
+  ],
+  "pass_reason": "24s of dewatering a boat in calm water; nothing on screen looks dangerous"
 }

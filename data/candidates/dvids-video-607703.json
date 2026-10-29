@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-607703",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:08:40Z",
   "duration": 132.95,
   "source_file": {
@@ -66,5 +66,6 @@
     111.75,
     120.03,
     128.31
-  ]
+  ],
+  "pass_reason": "lava b-roll with no stated outcome in the release"
 }

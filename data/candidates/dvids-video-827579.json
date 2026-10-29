@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-827579",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:07:25Z",
   "duration": 43.61,
   "source_file": {
@@ -66,5 +66,6 @@
     36.37,
     39.07,
     41.76
-  ]
+  ],
+  "pass_reason": "blown-out white-hot FLIR then near-black hoist footage; not sharp on a phone"
 }

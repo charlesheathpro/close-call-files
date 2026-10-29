@@ -8,7 +8,9 @@
   "narration": [
     "Two survivors and a small child rode this cable up out of Hurricane Eta's floodwater.",
     "This was Honduras, November 2020.",
-    "A U.S. Army Black Hawk crew hoisted them above the flood.",
+    "Army Black Hawks flew in to San Pedro Sula.",
+    "Within days, the task force had rescued fifty six people.",
+    "One of those crews hoisted this family above the flood.",
     "The crew chief guides riders in by hand."
   ],
   "outcome": "The Black Hawk crew pulled them safely inside the helicopter.",
@@ -38,6 +40,14 @@
     {
       "claim": "Title: JTF-Bravo rescues Honduran family",
       "source_quote": "JTF-Bravo rescues Honduran Family"
+    },
+    {
+      "claim": "Black Hawks and Chinooks deployed from Soto Cano to San Pedro Sula",
+      "source_quote": "two UH-60 Black Hawks and two CH-47 Chinooks rapidly deployed from Soto Cano Air Base to San Pedro Sula, Honduras,"
+    },
+    {
+      "claim": "JTF-Bravo rescued 56 across Honduras and Panama",
+      "source_quote": "As of this morning, JTF-Bravo has rescued 56 citizens throughout Honduras and Panama"
     }
   ],
   "priority": 5,
@@ -62,6 +72,28 @@
         "end": 2.1,
         "layout": "crop",
         "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 9.3,
+        "end": 12.6,
+        "layout": "crop",
+        "crop_x": 0.75
+      }
+    ],
+    [
+      {
+        "start": 12.7,
+        "end": 15.3,
+        "layout": "crop",
+        "crop_x": 0.7
+      },
+      {
+        "start": 15.4,
+        "end": 18.0,
+        "layout": "crop",
+        "crop_x": 0.8
       }
     ],
     [
@@ -101,5 +133,15 @@
       }
     ]
   ],
-  "revision": 2
+  "revision": 3,
+  "extra_sources": [
+    {
+      "url": "https://www.jtfb.southcom.mil/Media/News/Display/Article/2407680/jtf-bravo-rescues-victims-of-hurricane-eta/",
+      "excerpt": "two UH-60 Black Hawks and two CH-47 Chinooks rapidly deployed from Soto Cano Air Base to San Pedro Sula, Honduras,"
+    },
+    {
+      "url": "https://www.jtfb.southcom.mil/Media/News/Display/Article/2410340/jtf-bravo-continues-to-rescue-victims-of-hurricane-eta/",
+      "excerpt": "As of this morning, JTF-Bravo has rescued 56 citizens throughout Honduras and Panama"
+    }
+  ]
 }

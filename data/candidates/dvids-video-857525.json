@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-857525",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:21:59Z",
   "duration": 64.12,
   "source_file": {
@@ -70,5 +70,6 @@
     53.68,
     57.66,
     61.63
-  ]
+  ],
+  "pass_reason": "calm-water hoist; the fire is never on screen, fails viral bar"
 }

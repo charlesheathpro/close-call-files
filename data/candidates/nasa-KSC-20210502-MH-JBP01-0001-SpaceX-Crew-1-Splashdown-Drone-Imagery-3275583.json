@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210502-MH-JBP01-0001-SpaceX-Crew-1-Splashdown-Drone-Imagery-3275583",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:07:06Z",
   "duration": 434.94,
   "source_file": {
@@ -57,5 +57,6 @@
     366.56,
     393.71,
     420.87
-  ]
+  ],
+  "pass_reason": "tiny parachute specks in gray sky, then a slow dark night recovery; nothing reads on a phone"
 }
