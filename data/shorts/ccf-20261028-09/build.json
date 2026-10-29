@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261028-09",
-  "revision": 2,
+  "revision": 3,
   "status": "ok",
-  "built_at": "2026-10-29T12:03:42Z",
-  "duration": 18.49,
+  "built_at": "2026-10-29T19:56:14Z",
+  "duration": 25.37,
   "source_resolution": "1920x1080",
   "timeline": [
     {
       "text": "Two survivors and a small child rode this cable up out of Hurricane Eta's floodwater.",
       "start": 0.05,
-      "end": 5.65,
+      "end": 5.33,
       "words": [
         {
           "w": "Two",
@@ -28,13 +28,13 @@
         },
         {
           "w": "a",
-          "s": 1.223,
-          "e": 1.303
+          "s": 1.21,
+          "e": 1.29
         },
         {
           "w": "small",
           "s": 1.33,
-          "e": 1.57
+          "e": 1.65
         },
         {
           "w": "child",
@@ -59,230 +59,334 @@
         {
           "w": "up",
           "s": 3.17,
-          "e": 3.33
+          "e": 3.41
         },
         {
           "w": "out",
-          "s": 3.41,
-          "e": 3.49
+          "s": 3.49,
+          "e": 3.57
         },
         {
           "w": "of",
-          "s": 3.57,
-          "e": 3.65
+          "s": 3.65,
+          "e": 3.73
         },
         {
           "w": "Hurricane",
-          "s": 3.73,
-          "e": 4.13
+          "s": 3.81,
+          "e": 4.21
         },
         {
           "w": "Eta's",
-          "s": 4.21,
-          "e": 4.53
+          "s": 4.37,
+          "e": 4.61
         },
         {
           "w": "floodwater.",
-          "s": 4.61,
-          "e": 5.65
+          "s": 4.69,
+          "e": 5.33
         }
       ]
     },
     {
       "text": "This was Honduras, November 2020.",
-      "start": 5.73,
-      "end": 8.69,
+      "start": 5.89,
+      "end": 8.77,
       "words": [
         {
           "w": "This",
-          "s": 5.73,
-          "e": 5.81
-        },
-        {
-          "w": "was",
           "s": 5.89,
           "e": 5.97
         },
         {
-          "w": "Honduras,",
+          "w": "was",
           "s": 6.05,
-          "e": 6.93
+          "e": 6.13
+        },
+        {
+          "w": "Honduras,",
+          "s": 6.21,
+          "e": 7.09
         },
         {
           "w": "November",
-          "s": 7.01,
-          "e": 7.41
+          "s": 7.17,
+          "e": 7.49
         },
         {
           "w": "2020.",
-          "s": 7.49,
-          "e": 8.69
+          "s": 7.57,
+          "e": 8.77
         }
       ]
     },
     {
-      "text": "A U.S. Army Black Hawk crew hoisted them above the flood.",
-      "start": 8.77,
-      "end": 12.29,
+      "text": "Army Black Hawks flew in to San Pedro Sula.",
+      "start": 8.89,
+      "end": 11.57,
       "words": [
         {
-          "w": "A",
-          "s": 8.77,
-          "e": 8.85
-        },
-        {
-          "w": "U.S.",
-          "s": 8.93,
-          "e": 9.17
-        },
-        {
           "w": "Army",
-          "s": 9.25,
-          "e": 9.49
+          "s": 8.89,
+          "e": 9.01
         },
         {
           "w": "Black",
-          "s": 9.57,
-          "e": 9.81
+          "s": 9.09,
+          "e": 9.41
         },
         {
-          "w": "Hawk",
-          "s": 9.89,
-          "e": 10.13
+          "w": "Hawks",
+          "s": 9.45,
+          "e": 9.73
         },
         {
-          "w": "crew",
+          "w": "flew",
+          "s": 9.81,
+          "e": 10.05
+        },
+        {
+          "w": "in",
+          "s": 10.09,
+          "e": 10.17
+        },
+        {
+          "w": "to",
+          "s": 10.17,
+          "e": 10.25
+        },
+        {
+          "w": "San",
           "s": 10.29,
-          "e": 10.45
+          "e": 10.53
         },
         {
-          "w": "hoisted",
-          "s": 10.53,
+          "w": "Pedro",
+          "s": 10.61,
           "e": 10.85
         },
         {
-          "w": "them",
+          "w": "Sula.",
           "s": 10.93,
-          "e": 11.01
+          "e": 11.57
+        }
+      ]
+    },
+    {
+      "text": "Within days, the task force had rescued fifty six people.",
+      "start": 11.81,
+      "end": 15.33,
+      "words": [
+        {
+          "w": "Within",
+          "s": 11.81,
+          "e": 12.13
         },
         {
-          "w": "above",
-          "s": 11.09,
-          "e": 11.33
+          "w": "days,",
+          "s": 12.21,
+          "e": 12.85
         },
         {
           "w": "the",
-          "s": 11.41,
-          "e": 11.49
+          "s": 12.93,
+          "e": 13.01
+        },
+        {
+          "w": "task",
+          "s": 13.17,
+          "e": 13.33
+        },
+        {
+          "w": "force",
+          "s": 13.41,
+          "e": 13.65
+        },
+        {
+          "w": "had",
+          "s": 13.73,
+          "e": 13.81
+        },
+        {
+          "w": "rescued",
+          "s": 13.89,
+          "e": 14.29
+        },
+        {
+          "w": "fifty",
+          "s": 14.37,
+          "e": 14.61
+        },
+        {
+          "w": "six",
+          "s": 14.69,
+          "e": 14.85
+        },
+        {
+          "w": "people.",
+          "s": 14.93,
+          "e": 15.33
+        }
+      ]
+    },
+    {
+      "text": "One of those crews hoisted this family above the flood.",
+      "start": 15.89,
+      "end": 18.69,
+      "words": [
+        {
+          "w": "One",
+          "s": 15.89,
+          "e": 16.05
+        },
+        {
+          "w": "of",
+          "s": 16.09,
+          "e": 16.17
+        },
+        {
+          "w": "those",
+          "s": 16.21,
+          "e": 16.37
+        },
+        {
+          "w": "crews",
+          "s": 16.45,
+          "e": 16.77
+        },
+        {
+          "w": "hoisted",
+          "s": 16.85,
+          "e": 17.25
+        },
+        {
+          "w": "this",
+          "s": 17.37,
+          "e": 17.49
+        },
+        {
+          "w": "family",
+          "s": 17.57,
+          "e": 17.89
+        },
+        {
+          "w": "above",
+          "s": 18.01,
+          "e": 18.13
+        },
+        {
+          "w": "the",
+          "s": 18.17,
+          "e": 18.25
         },
         {
           "w": "flood.",
-          "s": 11.597,
-          "e": 12.29
+          "s": 18.29,
+          "e": 18.69
         }
       ]
     },
     {
       "text": "The crew chief guides riders in by hand.",
-      "start": 12.37,
-      "end": 15.01,
+      "start": 19.17,
+      "end": 21.65,
       "words": [
         {
           "w": "The",
-          "s": 12.37,
-          "e": 12.45
+          "s": 19.17,
+          "e": 19.25
         },
         {
           "w": "crew",
-          "s": 12.53,
-          "e": 12.69
+          "s": 19.33,
+          "e": 19.49
         },
         {
           "w": "chief",
-          "s": 12.77,
-          "e": 13.01
+          "s": 19.65,
+          "e": 19.89
         },
         {
           "w": "guides",
-          "s": 13.09,
-          "e": 13.33
+          "s": 19.97,
+          "e": 20.21
         },
         {
           "w": "riders",
-          "s": 13.41,
-          "e": 13.81
+          "s": 20.29,
+          "e": 20.69
         },
         {
           "w": "in",
-          "s": 13.89,
-          "e": 13.97
+          "s": 20.73,
+          "e": 20.81
         },
         {
           "w": "by",
-          "s": 14.09,
-          "e": 14.21
+          "s": 20.85,
+          "e": 21.01
         },
         {
           "w": "hand.",
-          "s": 14.37,
-          "e": 15.01
+          "s": 21.09,
+          "e": 21.65
         }
       ]
     },
     {
       "text": "The Black Hawk crew pulled them safely inside the helicopter.",
-      "start": 15.09,
-      "end": 18.29,
+      "start": 21.89,
+      "end": 25.17,
       "words": [
         {
           "w": "The",
-          "s": 15.09,
-          "e": 15.17
+          "s": 21.89,
+          "e": 21.97
         },
         {
           "w": "Black",
-          "s": 15.29,
-          "e": 15.41
+          "s": 22.05,
+          "e": 22.29
         },
         {
           "w": "Hawk",
-          "s": 15.49,
-          "e": 15.65
+          "s": 22.37,
+          "e": 22.53
         },
         {
           "w": "crew",
-          "s": 15.73,
-          "e": 16.05
+          "s": 22.61,
+          "e": 22.93
         },
         {
           "w": "pulled",
-          "s": 16.103,
-          "e": 16.21
+          "s": 22.983,
+          "e": 23.09
         },
         {
           "w": "them",
-          "s": 16.29,
-          "e": 16.53
+          "s": 23.17,
+          "e": 23.33
         },
         {
           "w": "safely",
-          "s": 16.57,
-          "e": 16.93
+          "s": 23.41,
+          "e": 23.81
         },
         {
           "w": "inside",
-          "s": 17.13,
-          "e": 17.33
+          "s": 23.97,
+          "e": 24.13
         },
         {
           "w": "the",
-          "s": 17.37,
-          "e": 17.45
+          "s": 24.21,
+          "e": 24.29
         },
         {
           "w": "helicopter.",
-          "s": 17.49,
-          "e": 18.29
+          "s": 24.29,
+          "e": 25.17
         }
       ]
     }
@@ -294,15 +398,15 @@
     },
     "duration": {
       "ok": true,
-      "value": 18.5
+      "value": 25.4
     },
     "av_sync": {
       "ok": true,
-      "value": 0.01
+      "value": 0.03
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.21
+      "value": 0.23
     },
     "loudness": {
       "ok": true,
@@ -310,7 +414,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -2.1
+      "value": -2.2
     },
     "dead_air": {
       "ok": true,
@@ -332,6 +436,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261028-09/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-09-r2.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-09-r3.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261028-09/ccf-20261028-09.mp4"
 }

@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261028-07",
-  "revision": 2,
+  "revision": 3,
   "status": "ok",
-  "built_at": "2026-10-29T12:01:06Z",
-  "duration": 24.81,
+  "built_at": "2026-10-29T19:54:56Z",
+  "duration": 21.13,
   "source_resolution": "1920x1080",
   "timeline": [
     {
       "text": "Their sailboat was half underwater, with an eight year old aboard.",
       "start": 0.05,
-      "end": 4.05,
+      "end": 4.13,
       "words": [
         {
           "w": "Their",
@@ -28,89 +28,89 @@
         },
         {
           "w": "half",
-          "s": 1.21,
-          "e": 1.33
+          "s": 1.25,
+          "e": 1.41
         },
         {
           "w": "underwater,",
-          "s": 1.41,
-          "e": 2.21
+          "s": 1.57,
+          "e": 2.29
         },
         {
           "w": "with",
-          "s": 2.29,
-          "e": 2.37
+          "s": 2.37,
+          "e": 2.45
         },
         {
           "w": "an",
-          "s": 2.49,
-          "e": 2.61
+          "s": 2.53,
+          "e": 2.69
         },
         {
           "w": "eight",
-          "s": 2.69,
-          "e": 2.77
+          "s": 2.77,
+          "e": 2.93
         },
         {
           "w": "year",
-          "s": 2.85,
-          "e": 3.01
+          "s": 3.01,
+          "e": 3.09
         },
         {
           "w": "old",
-          "s": 3.09,
-          "e": 3.17
+          "s": 3.17,
+          "e": 3.25
         },
         {
           "w": "aboard.",
-          "s": 3.25,
-          "e": 4.05
+          "s": 3.33,
+          "e": 4.13
         }
       ]
     },
     {
       "text": "The family was in a life raft beside it.",
-      "start": 4.13,
+      "start": 4.21,
       "end": 6.69,
       "words": [
         {
           "w": "The",
-          "s": 4.13,
-          "e": 4.21
+          "s": 4.21,
+          "e": 4.29
         },
         {
           "w": "family",
-          "s": 4.29,
-          "e": 4.61
+          "s": 4.37,
+          "e": 4.69
         },
         {
           "w": "was",
-          "s": 4.69,
-          "e": 4.77
+          "s": 4.77,
+          "e": 4.85
         },
         {
           "w": "in",
-          "s": 4.85,
-          "e": 4.93
+          "s": 4.93,
+          "e": 5.01
         },
         {
           "w": "a",
-          "s": 4.97,
-          "e": 5.05
+          "s": 5.01,
+          "e": 5.09
         },
         {
           "w": "life",
-          "s": 5.09,
+          "s": 5.17,
           "e": 5.33
         },
         {
           "w": "raft",
-          "s": 5.45,
-          "e": 5.57
+          "s": 5.41,
+          "e": 5.65
         },
         {
           "w": "beside",
-          "s": 5.65,
+          "s": 5.77,
           "e": 6.05
         },
         {
@@ -121,9 +121,9 @@
       ]
     },
     {
-      "text": "A Jayhawk crew from Air Station Clearwater flew out and lowered the rescue basket.",
+      "text": "A Clearwater Jayhawk crew lowered the basket.",
       "start": 6.77,
-      "end": 11.57,
+      "end": 9.65,
       "words": [
         {
           "w": "A",
@@ -131,275 +131,215 @@
           "e": 6.85
         },
         {
+          "w": "Clearwater",
+          "s": 6.93,
+          "e": 7.41
+        },
+        {
           "w": "Jayhawk",
-          "s": 6.97,
-          "e": 7.33
-        },
-        {
-          "w": "crew",
-          "s": 7.45,
-          "e": 7.57
-        },
-        {
-          "w": "from",
-          "s": 7.65,
-          "e": 7.81
-        },
-        {
-          "w": "Air",
-          "s": 7.89,
+          "s": 7.49,
           "e": 7.97
         },
         {
-          "w": "Station",
-          "s": 8.05,
-          "e": 8.37
-        },
-        {
-          "w": "Clearwater",
-          "s": 8.45,
-          "e": 9.09
-        },
-        {
-          "w": "flew",
-          "s": 9.17,
-          "e": 9.41
-        },
-        {
-          "w": "out",
-          "s": 9.57,
-          "e": 9.73
-        },
-        {
-          "w": "and",
-          "s": 9.85,
-          "e": 9.97
+          "w": "crew",
+          "s": 8.13,
+          "e": 8.29
         },
         {
           "w": "lowered",
-          "s": 10.05,
-          "e": 10.21
+          "s": 8.37,
+          "e": 8.61
         },
         {
           "w": "the",
-          "s": 10.25,
-          "e": 10.33
-        },
-        {
-          "w": "rescue",
-          "s": 10.41,
-          "e": 10.61
+          "s": 8.65,
+          "e": 8.73
         },
         {
           "w": "basket.",
-          "s": 10.69,
-          "e": 11.57
+          "s": 8.93,
+          "e": 9.65
         }
       ]
     },
     {
-      "text": "The hoist operator guides the basket in by hand from the open door.",
-      "start": 11.65,
-      "end": 15.25,
+      "text": "The hoist operator guides it in by hand from the door.",
+      "start": 9.73,
+      "end": 12.397,
       "words": [
         {
           "w": "The",
-          "s": 11.65,
-          "e": 11.73
+          "s": 9.73,
+          "e": 9.81
         },
         {
           "w": "hoist",
-          "s": 11.81,
-          "e": 12.05
+          "s": 9.89,
+          "e": 10.13
         },
         {
           "w": "operator",
-          "s": 12.13,
-          "e": 12.69
+          "s": 10.21,
+          "e": 10.69
         },
         {
           "w": "guides",
-          "s": 12.81,
-          "e": 13.01
+          "s": 10.77,
+          "e": 11.01
         },
         {
-          "w": "the",
-          "s": 13.09,
-          "e": 13.17
-        },
-        {
-          "w": "basket",
-          "s": 13.37,
-          "e": 13.57
+          "w": "it",
+          "s": 11.05,
+          "e": 11.13
         },
         {
           "w": "in",
-          "s": 13.65,
-          "e": 13.73
+          "s": 11.17,
+          "e": 11.25
         },
         {
           "w": "by",
-          "s": 13.81,
-          "e": 13.97
+          "s": 11.33,
+          "e": 11.49
         },
         {
           "w": "hand",
-          "s": 14.05,
-          "e": 14.37
+          "s": 11.57,
+          "e": 11.81
         },
         {
           "w": "from",
-          "s": 14.45,
-          "e": 14.53
+          "s": 11.89,
+          "e": 11.97
         },
         {
           "w": "the",
-          "s": 14.57,
-          "e": 14.65
-        },
-        {
-          "w": "open",
-          "s": 14.69,
-          "e": 14.85
+          "s": 12.01,
+          "e": 12.09
         },
         {
           "w": "door.",
-          "s": 14.93,
-          "e": 15.25
+          "s": 12.13,
+          "e": 12.397
         }
       ]
     },
     {
-      "text": "The child and both adults rode it up into the helicopter.",
-      "start": 16.29,
-      "end": 19.65,
+      "text": "The child and both adults rode it up.",
+      "start": 13.45,
+      "end": 15.97,
       "words": [
         {
           "w": "The",
-          "s": 16.29,
-          "e": 16.37
+          "s": 13.45,
+          "e": 13.53
         },
         {
           "w": "child",
-          "s": 16.45,
-          "e": 16.77
+          "s": 13.65,
+          "e": 13.97
         },
         {
           "w": "and",
-          "s": 16.89,
-          "e": 17.01
+          "s": 14.05,
+          "e": 14.13
         },
         {
           "w": "both",
-          "s": 17.13,
-          "e": 17.25
+          "s": 14.21,
+          "e": 14.37
         },
         {
           "w": "adults",
-          "s": 17.41,
-          "e": 17.73
+          "s": 14.45,
+          "e": 14.85
         },
         {
           "w": "rode",
-          "s": 17.81,
-          "e": 17.97
+          "s": 14.93,
+          "e": 15.09
         },
         {
           "w": "it",
-          "s": 18.05,
-          "e": 18.13
+          "s": 15.13,
+          "e": 15.21
         },
         {
-          "w": "up",
-          "s": 18.21,
-          "e": 18.29
-        },
-        {
-          "w": "into",
-          "s": 18.41,
-          "e": 18.53
-        },
-        {
-          "w": "the",
-          "s": 18.57,
-          "e": 18.65
-        },
-        {
-          "w": "helicopter.",
-          "s": 18.69,
-          "e": 19.65
+          "w": "up.",
+          "s": 15.25,
+          "e": 15.97
         }
       ]
     },
     {
       "text": "All three reached Bahamian authorities in Great Inagua, and no injuries were reported.",
-      "start": 19.81,
-      "end": 24.61,
+      "start": 16.09,
+      "end": 20.93,
       "words": [
         {
           "w": "All",
-          "s": 19.81,
-          "e": 19.97
+          "s": 16.09,
+          "e": 16.21
         },
         {
           "w": "three",
-          "s": 20.13,
-          "e": 20.29
+          "s": 16.29,
+          "e": 16.53
         },
         {
           "w": "reached",
-          "s": 20.37,
-          "e": 20.53
+          "s": 16.69,
+          "e": 16.93
         },
         {
           "w": "Bahamian",
-          "s": 20.61,
-          "e": 21.01
+          "s": 17.01,
+          "e": 17.41
         },
         {
           "w": "authorities",
-          "s": 21.09,
-          "e": 21.65
+          "s": 17.57,
+          "e": 17.97
         },
         {
           "w": "in",
-          "s": 21.73,
-          "e": 21.81
+          "s": 18.01,
+          "e": 18.09
         },
         {
           "w": "Great",
-          "s": 21.89,
-          "e": 21.97
+          "s": 18.13,
+          "e": 18.29
         },
         {
           "w": "Inagua,",
-          "s": 22.05,
-          "e": 22.77
+          "s": 18.37,
+          "e": 19.09
         },
         {
           "w": "and",
-          "s": 22.85,
-          "e": 23.09
+          "s": 19.21,
+          "e": 19.33
         },
         {
           "w": "no",
-          "s": 23.17,
-          "e": 23.25
+          "s": 19.41,
+          "e": 19.49
         },
         {
           "w": "injuries",
-          "s": 23.33,
-          "e": 23.65
+          "s": 19.57,
+          "e": 19.97
         },
         {
           "w": "were",
-          "s": 23.73,
-          "e": 23.89
+          "s": 20.05,
+          "e": 20.13
         },
         {
           "w": "reported.",
-          "s": 24.13,
-          "e": 24.61
+          "s": 20.41,
+          "e": 20.93
         }
       ]
     }
@@ -411,19 +351,19 @@
     },
     "duration": {
       "ok": true,
-      "value": 24.8
+      "value": 21.13
     },
     "av_sync": {
       "ok": true,
-      "value": -0.01
+      "value": 0.003
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.19
+      "value": 0.2
     },
     "loudness": {
       "ok": true,
-      "value": -14.1
+      "value": -14.0
     },
     "true_peak": {
       "ok": true,
@@ -449,6 +389,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261028-07/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-07-r2.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-07-r3.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261028-07/ccf-20261028-07.mp4"
 }
