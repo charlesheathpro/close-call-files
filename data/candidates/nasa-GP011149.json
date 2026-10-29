@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GP011149",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-27T23:37:17Z",
   "duration": 709.73,
   "source_file": {
@@ -56,5 +56,6 @@
     598.42,
     642.74,
     687.07
-  ]
+  ],
+  "used_by": "ccf-20261029-01"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200119-VP-CDC01-0001-SpaceX-In-Flight-Abort-Test-Live-Launch-Coverage-3241",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:12:56Z",
   "duration": 1843.24,
   "source_file": {
@@ -3450,5 +3450,6 @@
     1554.81,
     1669.98,
     1785.16
-  ]
+  ],
+  "pass_reason": "webcast HUD burned into every shot and the breakup is a small dot in a 720p frame"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Sean-Waugh-NOAA-NSSL-Saint-Libory-Nebraska-EF3-Tornado-17-05",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:16:29Z",
   "duration": 16.31,
   "source_file": {
@@ -52,5 +52,6 @@
     13.34,
     14.33,
     15.31
-  ]
+  ],
+  "pass_reason": "only 16 seconds and the source gives no outcome"
 }
