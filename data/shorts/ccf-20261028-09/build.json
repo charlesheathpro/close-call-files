@@ -1,348 +1,288 @@
 {
   "short_id": "ccf-20261028-09",
-  "revision": 1,
+  "revision": 2,
   "status": "ok",
-  "built_at": "2026-10-28T20:18:31Z",
-  "duration": 22.09,
+  "built_at": "2026-10-29T12:03:42Z",
+  "duration": 18.49,
   "source_resolution": "1920x1080",
   "timeline": [
     {
-      "text": "A woman and a small child rode this cable up out of Hurricane Eta's floodwater.",
+      "text": "Two survivors and a small child rode this cable up out of Hurricane Eta's floodwater.",
       "start": 0.05,
-      "end": 4.93,
+      "end": 5.65,
       "words": [
         {
-          "w": "A",
+          "w": "Two",
           "s": 0.05,
-          "e": 0.21
+          "e": 0.29
         },
         {
-          "w": "woman",
-          "s": 0.29,
-          "e": 0.61
+          "w": "survivors",
+          "s": 0.37,
+          "e": 1.01
         },
         {
           "w": "and",
-          "s": 0.65,
-          "e": 0.73
-        },
-        {
-          "w": "a",
-          "s": 0.77,
-          "e": 0.85
-        },
-        {
-          "w": "small",
-          "s": 0.93,
+          "s": 1.09,
           "e": 1.17
         },
         {
-          "w": "child",
+          "w": "a",
+          "s": 1.223,
+          "e": 1.303
+        },
+        {
+          "w": "small",
           "s": 1.33,
-          "e": 1.73
+          "e": 1.57
         },
         {
-          "w": "rode",
-          "s": 1.81,
-          "e": 2.05
-        },
-        {
-          "w": "this",
-          "s": 2.13,
+          "w": "child",
+          "s": 1.73,
           "e": 2.21
         },
         {
-          "w": "cable",
+          "w": "rode",
           "s": 2.29,
-          "e": 2.61
+          "e": 2.53
         },
         {
-          "w": "up",
-          "s": 2.69,
-          "e": 2.93
+          "w": "this",
+          "s": 2.61,
+          "e": 2.69
         },
         {
-          "w": "out",
-          "s": 3.01,
+          "w": "cable",
+          "s": 2.77,
           "e": 3.09
         },
         {
-          "w": "of",
-          "s": 3.13,
-          "e": 3.21
+          "w": "up",
+          "s": 3.17,
+          "e": 3.33
         },
         {
-          "w": "Hurricane",
-          "s": 3.25,
+          "w": "out",
+          "s": 3.41,
+          "e": 3.49
+        },
+        {
+          "w": "of",
+          "s": 3.57,
           "e": 3.65
         },
         {
+          "w": "Hurricane",
+          "s": 3.73,
+          "e": 4.13
+        },
+        {
           "w": "Eta's",
-          "s": 3.81,
-          "e": 4.05
+          "s": 4.21,
+          "e": 4.53
         },
         {
           "w": "floodwater.",
-          "s": 4.13,
-          "e": 4.93
+          "s": 4.61,
+          "e": 5.65
         }
       ]
     },
     {
-      "text": "This was San Pedro Sula, Honduras, in November 2020.",
-      "start": 5.17,
-      "end": 9.41,
+      "text": "This was Honduras, November 2020.",
+      "start": 5.73,
+      "end": 8.69,
       "words": [
         {
           "w": "This",
-          "s": 5.17,
-          "e": 5.33
+          "s": 5.73,
+          "e": 5.81
         },
         {
           "w": "was",
-          "s": 5.41,
-          "e": 5.49
-        },
-        {
-          "w": "San",
-          "s": 5.57,
-          "e": 5.73
-        },
-        {
-          "w": "Pedro",
           "s": 5.89,
-          "e": 6.21
-        },
-        {
-          "w": "Sula,",
-          "s": 6.29,
-          "e": 6.77
+          "e": 5.97
         },
         {
           "w": "Honduras,",
-          "s": 6.81,
-          "e": 7.57
-        },
-        {
-          "w": "in",
-          "s": 7.65,
-          "e": 7.73
+          "s": 6.05,
+          "e": 6.93
         },
         {
           "w": "November",
-          "s": 7.93,
-          "e": 8.13
+          "s": 7.01,
+          "e": 7.41
         },
         {
           "w": "2020.",
-          "s": 8.29,
-          "e": 9.41
+          "s": 7.49,
+          "e": 8.69
         }
       ]
     },
     {
-      "text": "A U.S. Army Black Hawk crew from Joint Task Force Bravo was hoisting survivors above the flood.",
-      "start": 9.49,
-      "end": 15.45,
+      "text": "A U.S. Army Black Hawk crew hoisted them above the flood.",
+      "start": 8.77,
+      "end": 12.29,
       "words": [
         {
           "w": "A",
-          "s": 9.49,
-          "e": 9.57
+          "s": 8.77,
+          "e": 8.85
         },
         {
           "w": "U.S.",
-          "s": 9.65,
-          "e": 9.89
+          "s": 8.93,
+          "e": 9.17
         },
         {
           "w": "Army",
-          "s": 10.05,
-          "e": 10.29
+          "s": 9.25,
+          "e": 9.49
         },
         {
           "w": "Black",
-          "s": 10.37,
-          "e": 10.61
+          "s": 9.57,
+          "e": 9.81
         },
         {
           "w": "Hawk",
-          "s": 10.69,
-          "e": 10.85
+          "s": 9.89,
+          "e": 10.13
         },
         {
           "w": "crew",
-          "s": 10.93,
-          "e": 11.17
+          "s": 10.29,
+          "e": 10.45
         },
         {
-          "w": "from",
-          "s": 11.25,
+          "w": "hoisted",
+          "s": 10.53,
+          "e": 10.85
+        },
+        {
+          "w": "them",
+          "s": 10.93,
+          "e": 11.01
+        },
+        {
+          "w": "above",
+          "s": 11.09,
           "e": 11.33
         },
         {
-          "w": "Joint",
-          "s": 11.49,
-          "e": 11.65
+          "w": "the",
+          "s": 11.41,
+          "e": 11.49
         },
         {
-          "w": "Task",
-          "s": 11.73,
-          "e": 12.05
-        },
-        {
-          "w": "Force",
-          "s": 12.13,
+          "w": "flood.",
+          "s": 11.597,
           "e": 12.29
-        },
+        }
+      ]
+    },
+    {
+      "text": "The crew chief guides riders in by hand.",
+      "start": 12.37,
+      "end": 15.01,
+      "words": [
         {
-          "w": "Bravo",
+          "w": "The",
           "s": 12.37,
-          "e": 12.85
+          "e": 12.45
         },
         {
-          "w": "was",
-          "s": 13.17,
+          "w": "crew",
+          "s": 12.53,
+          "e": 12.69
+        },
+        {
+          "w": "chief",
+          "s": 12.77,
+          "e": 13.01
+        },
+        {
+          "w": "guides",
+          "s": 13.09,
           "e": 13.33
         },
         {
-          "w": "hoisting",
+          "w": "riders",
           "s": 13.41,
           "e": 13.81
         },
         {
-          "w": "survivors",
+          "w": "in",
           "s": 13.89,
-          "e": 14.45
+          "e": 13.97
         },
         {
-          "w": "above",
-          "s": 14.57,
-          "e": 14.69
+          "w": "by",
+          "s": 14.09,
+          "e": 14.21
         },
         {
-          "w": "the",
-          "s": 14.73,
-          "e": 14.81
-        },
-        {
-          "w": "flood.",
-          "s": 14.85,
-          "e": 15.45
-        }
-      ]
-    },
-    {
-      "text": "The crew chief works the hoist from the open door.",
-      "start": 15.73,
-      "end": 18.41,
-      "words": [
-        {
-          "w": "The",
-          "s": 15.73,
-          "e": 15.81
-        },
-        {
-          "w": "crew",
-          "s": 15.89,
-          "e": 16.05
-        },
-        {
-          "w": "chief",
-          "s": 16.21,
-          "e": 16.45
-        },
-        {
-          "w": "works",
-          "s": 16.53,
-          "e": 16.77
-        },
-        {
-          "w": "the",
-          "s": 16.81,
-          "e": 16.89
-        },
-        {
-          "w": "hoist",
-          "s": 16.93,
-          "e": 17.25
-        },
-        {
-          "w": "from",
-          "s": 17.33,
-          "e": 17.41
-        },
-        {
-          "w": "the",
-          "s": 17.45,
-          "e": 17.53
-        },
-        {
-          "w": "open",
-          "s": 17.57,
-          "e": 17.73
-        },
-        {
-          "w": "door.",
-          "s": 17.81,
-          "e": 18.41
+          "w": "hand.",
+          "s": 14.37,
+          "e": 15.01
         }
       ]
     },
     {
       "text": "The Black Hawk crew pulled them safely inside the helicopter.",
-      "start": 18.69,
-      "end": 21.89,
+      "start": 15.09,
+      "end": 18.29,
       "words": [
         {
           "w": "The",
-          "s": 18.69,
-          "e": 18.77
+          "s": 15.09,
+          "e": 15.17
         },
         {
           "w": "Black",
-          "s": 18.85,
-          "e": 19.09
+          "s": 15.29,
+          "e": 15.41
         },
         {
           "w": "Hawk",
-          "s": 19.13,
-          "e": 19.33
+          "s": 15.49,
+          "e": 15.65
         },
         {
           "w": "crew",
-          "s": 19.41,
-          "e": 19.65
+          "s": 15.73,
+          "e": 16.05
         },
         {
           "w": "pulled",
-          "s": 19.73,
-          "e": 19.89
+          "s": 16.103,
+          "e": 16.21
         },
         {
           "w": "them",
-          "s": 20.01,
-          "e": 20.13
+          "s": 16.29,
+          "e": 16.53
         },
         {
           "w": "safely",
-          "s": 20.21,
-          "e": 20.53
+          "s": 16.57,
+          "e": 16.93
         },
         {
           "w": "inside",
-          "s": 20.61,
-          "e": 20.93
+          "s": 17.13,
+          "e": 17.33
         },
         {
           "w": "the",
-          "s": 20.97,
-          "e": 21.05
+          "s": 17.37,
+          "e": 17.45
         },
         {
           "w": "helicopter.",
-          "s": 21.09,
-          "e": 21.89
+          "s": 17.49,
+          "e": 18.29
         }
       ]
     }
@@ -354,7 +294,7 @@
     },
     "duration": {
       "ok": true,
-      "value": 22.1
+      "value": 18.5
     },
     "av_sync": {
       "ok": true,
@@ -366,11 +306,11 @@
     },
     "loudness": {
       "ok": true,
-      "value": -14.1
+      "value": -14.0
     },
     "true_peak": {
       "ok": true,
-      "value": -2.3
+      "value": -2.1
     },
     "dead_air": {
       "ok": true,
@@ -392,6 +332,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261028-09/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-09-r1.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261028-09-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261028-09/ccf-20261028-09.mp4"
 }
