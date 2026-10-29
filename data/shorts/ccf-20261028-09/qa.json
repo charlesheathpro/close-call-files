@@ -1,11 +1,12 @@
 {
   "short_id": "ccf-20261028-09",
-  "revision": 2,
+  "revision": 3,
   "verdict": "reject",
-  "at": "2026-10-29T15:47:17Z",
+  "at": "2026-10-29T23:20:14Z",
   "score": 5,
-  "notes": "Crop and wording fixes landed and the riders and child are now well framed, but the Short is 18.5s, under the 20s minimum, and it rests on a single release caption.",
+  "notes": "Now 25s, but render 9.3 to 17.5s (source 9.3 to 18.0) is about 8 seconds of riders' legs dangling over palm trees; the riders are above the top edge of the source frame there, so no crop_x can fix it (check 2 and 11 fail). The strong footage (source 0.2 to 9.3 and 18.0 to 28.4) only carries about 19 seconds.",
   "fixes": [
-    "Add one sourced line (with an extra_sources excerpt, e.g. a JTF-Bravo or SOUTHCOM release on Eta flooding at San Pedro Sula) over unused hoist footage to reach at least 22s, or drop the candidate."
+    "Cut source 10.5 to 17.6 from lines 3 and 4 (legs only, riders out of frame).",
+    "Without that stretch the clip cannot reach 20s without repeating shots, so drop the candidate unless another release adds a sourced line over usable footage."
   ]
 }

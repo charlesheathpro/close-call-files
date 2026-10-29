@@ -1,0 +1,14 @@
+{
+  "short_id": "ccf-20261029-05",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-29T23:20:14Z",
+  "score": 6,
+  "notes": "Good human moment (five people stepping across to the lifeboat), but it opens on a distant cruiser in fog with no visible fire (0 to 2s) and render 4 to 8s is the same tiny boat far off, so the first 8 seconds lose the scroll. It is also the third boat-fire story in today's batch (03, 04), so it would look interchangeable.",
+  "fixes": [
+    "Line 1: open on source 75.0 to 77.6 (passengers on the smoky stern) instead of 166.0 to 168.8.",
+    "Line 2: replace 182.0 to 190.6 (distant boat in fog) with close shots of the lifeboat coming alongside, e.g. source ~7 to 9.6 and ~23 to 25.6 if not already used, or 166.0 to 168.8.",
+    "Line 4 (5.4s explainer over crew seated) is filler; cut it or shorten to one clause so the crossing comes sooner.",
+    "Hold publishing until at least two non-boat-fire Shorts have gone out after 29-04."
+  ]
+}

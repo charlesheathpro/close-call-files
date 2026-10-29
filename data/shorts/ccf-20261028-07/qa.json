@@ -1,13 +1,9 @@
 {
   "short_id": "ccf-20261028-07",
-  "revision": 2,
-  "verdict": "reject",
-  "at": "2026-10-29T15:47:17Z",
-  "score": 6,
-  "notes": "The FLIR open (sailboat half under, raft) is strong now, but render 9.6 to 24.8s is 15 seconds of near-identical dark basket silhouettes, and 17.5 to 19.5s (source 44.5 to 46.4) is an empty gray glare frame under 'into the helicopter'. The ending frame (24.6s) is a gray smear, so the loop back is weak.",
-  "fixes": [
-    "Cut source 44.5 to 46.4 (empty glare); end line 5 on 42.0 to 44.5.",
-    "Line 6 (outcome): replace 33.9 to 36.4 with the clearest basket shot at the door (source ~37.0 to 39.5) or reuse FLIR raft source 4.5 to 7.0 so the last frame leads back into the open.",
-    "Line 3: use one basket shot (25.9 to 28.4) instead of three so the dark section is under 10s total; if that drops the Short under 20s, drop the candidate."
-  ]
+  "revision": 3,
+  "verdict": "pass",
+  "at": "2026-10-29T23:20:14Z",
+  "score": 7,
+  "notes": "All three fixes from the last review landed: glare frame gone, single basket shot in line 3, raft shot at the end leads back into the open. The FLIR basket middle is still dark, but the half-sunk sailboat with an 8-year-old aboard is a real human hook and the story resolves.",
+  "fixes": []
 }
