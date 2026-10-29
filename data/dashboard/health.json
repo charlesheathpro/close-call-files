@@ -3,28 +3,28 @@
     {
       "item": "Harvest",
       "status": "ok",
-      "detail": "Last run 2026-10-28 01:56 UTC, 250 new clips"
+      "detail": "Last run 2026-10-28 17:40 UTC, 60 new clips"
     },
     {
       "item": "Uploads",
       "status": "ok",
-      "detail": "On, 10 a day. Last run uploaded 1"
+      "detail": "On, 10 a day. Last run uploaded 0"
     },
     {
       "item": "Alerts (48 h)",
       "status": "bad",
-      "detail": "YouTube said uploadLimitExceeded after 1 uploads this run"
+      "detail": "YouTube said uploadLimitExceeded after 0 uploads this run"
     },
     {
       "item": "Ready buffer",
-      "status": "ok",
-      "detail": "12 Shorts ready, 10 needed per day"
+      "status": "warn",
+      "detail": "5 Shorts ready, 10 needed per day"
     },
     {
       "item": "Clip supply",
       "status": "ok",
-      "detail": "506 unused clips"
+      "detail": "521 unused clips"
     }
   ],
-  "generated_at": "2026-10-28T03:26:14Z"
+  "generated_at": "2026-10-29T03:26:28Z"
 }
