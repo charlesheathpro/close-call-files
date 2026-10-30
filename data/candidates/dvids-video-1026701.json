@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026701",
   "asset_id": "video:1026701",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire",
   "harvested_at": "2026-10-27T15:50:36Z",
@@ -114,5 +114,6 @@
     200.2,
     215.03,
     229.86
-  ]
+  ],
+  "pass_reason": "briefings and burn-scar aftermath; no live fire"
 }

@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-938615",
   "asset_id": "video:938615",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "Hurricane Helene rescue",
   "harvested_at": "2026-10-27T15:52:52Z",
@@ -63,5 +63,6 @@
     36.82,
     39.54,
     42.27
-  ]
+  ],
+  "pass_reason": "generic Helene montage with no single story or outcome"
 }

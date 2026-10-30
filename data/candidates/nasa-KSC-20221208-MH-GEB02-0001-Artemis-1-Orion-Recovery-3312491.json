@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221208-MH-GEB02-0001-Artemis-1-Orion-Recovery-3312491",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:06:07Z",
   "duration": 390.13,
   "source_file": {
@@ -117,5 +117,6 @@
     328.75,
     353.11,
     377.46
-  ]
+  ],
+  "used_by": "ccf-20261030-11"
 }

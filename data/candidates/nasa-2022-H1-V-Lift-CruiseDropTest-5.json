@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2022-H1-V-Lift-CruiseDropTest-5",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T01:40:49Z",
   "duration": 147.49,
   "source_file": {
@@ -170,5 +170,6 @@
     124.03,
     133.21,
     142.4
-  ]
+  ],
+  "used_by": "ccf-20261030-08"
 }

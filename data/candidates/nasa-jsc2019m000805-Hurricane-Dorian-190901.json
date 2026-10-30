@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2019m000805-Hurricane-Dorian-190901",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:02:37Z",
   "duration": 274.17,
   "source_file": {
@@ -60,5 +60,6 @@
     230.91,
     248.01,
     265.11
-  ]
+  ],
+  "used_by": "ccf-20261030-09"
 }

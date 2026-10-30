@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-484748",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:57:23Z",
   "duration": 168.81,
   "source_file": {
@@ -452,5 +452,6 @@
     142.64,
     152.91,
     163.18
-  ]
+  ],
+  "pass_reason": "release says the footage is from a previous training exercise, so the pictures do not show the real rescue"
 }

@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-05",
   "candidate_id": "dvids-video-1027063",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "carrier landing",
   "music_mood": "aviation",
@@ -9,12 +9,11 @@
   "hook": "The first jets ever to land on the new carrier John F. Kennedy.",
   "narration": [
     "These were the first jets to land on the new carrier John F. Kennedy.",
-    "October 13, 2026. The ship was out in the Atlantic, still being tested.",
+    "October 13, 2026, out in the Atlantic.",
     "The fighters lined up overhead, waiting for their turn.",
     "Each pilot aims for a short strip of deck that never stops moving.",
     "A hook under the tail grabs a steel cable across the deck and stops the jet in about two seconds.",
-    "The crew was testing whether the ship's new recovery gear could take the hit, again and again.",
-    "Then a Super Hornet came down on the same wires.",
+    "Then a Super Hornet landed next.",
     "Deck crews in colored jerseys moved in fast to clear the landing area."
   ],
   "outcome": "The Kennedy caught its first fixed-wing jets, and the pilots taxied in to a crowd on deck.",
@@ -25,14 +24,14 @@
   "line_shots": [
     [
       {
-        "start": 103.0,
-        "end": 105.5,
+        "start": 114.5,
+        "end": 117.5,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.55
       },
       {
-        "start": 105.5,
-        "end": 108.0,
+        "start": 117.5,
+        "end": 120.0,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -59,8 +58,8 @@
         "crop_x": 0.55
       },
       {
-        "start": 61.0,
-        "end": 63.5,
+        "start": 53.0,
+        "end": 55.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -81,56 +80,36 @@
     ],
     [
       {
-        "start": 115.0,
-        "end": 117.5,
+        "start": 101.5,
+        "end": 104.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 118.0,
-        "end": 120.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 121.0,
-        "end": 123.5,
-        "layout": "crop",
-        "crop_x": 0.4
-      }
-    ],
-    [
-      {
-        "start": 112.0,
-        "end": 114.5,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 124.0,
-        "end": 126.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 108.0,
-        "end": 110.5,
+        "start": 104.0,
+        "end": 106.5,
         "layout": "crop",
         "crop_x": 0.55
+      },
+      {
+        "start": 106.5,
+        "end": 109.0,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 127.5,
-        "end": 130.0,
+        "start": 135.5,
+        "end": 138.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 130.0,
-        "end": 132.5,
+        "start": 138.0,
+        "end": 140.0,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.55
       }
     ],
     [
@@ -161,10 +140,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 100.4,
-        "end": 102.9,
+        "start": 112.0,
+        "end": 114.4,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.5
       }
     ]
   ],

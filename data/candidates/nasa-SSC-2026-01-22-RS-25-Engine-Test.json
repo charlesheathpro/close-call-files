@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2026-01-22-RS-25-Engine-Test",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:53:17Z",
   "duration": 328.2,
   "source_file": {
@@ -62,5 +62,6 @@
     276.5,
     296.98,
     317.46
-  ]
+  ],
+  "pass_reason": "split-screen composite with burned-in (engine rumbling) captions on every shot"
 }

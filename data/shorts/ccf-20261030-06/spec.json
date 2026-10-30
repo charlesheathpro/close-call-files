@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-06",
   "candidate_id": "commons-Fissure-fountains-feed-lava-flows-as-shown-in-this-overfligh",
-  "revision": 1,
+  "revision": 2,
   "lane": "hazards",
   "story_type": "volcano eruption",
   "music_mood": "hazards",
@@ -78,19 +78,19 @@
         "start": 32.0,
         "end": 34.5,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.45
       },
       {
         "start": 34.5,
-        "end": 37.0,
+        "end": 35.8,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 37.0,
-        "end": 38.4,
+        "start": 35.8,
+        "end": 37.8,
         "layout": "crop",
         "crop_x": 0.5
       },

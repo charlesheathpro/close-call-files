@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-192349",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:42:55Z",
   "duration": 230.7,
   "source_file": {
@@ -62,5 +62,6 @@
     194.23,
     208.62,
     223.0
-  ]
+  ],
+  "pass_reason": "release only says the crew prepared to hoist; no stated outcome"
 }
