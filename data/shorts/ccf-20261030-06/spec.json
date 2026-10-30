@@ -1,0 +1,134 @@
+{
+  "short_id": "ccf-20261030-06",
+  "candidate_id": "commons-Fissure-fountains-feed-lava-flows-as-shown-in-this-overfligh",
+  "revision": 1,
+  "lane": "hazards",
+  "story_type": "volcano eruption",
+  "music_mood": "hazards",
+  "priority": 9,
+  "hook": "A crack in the ground, spraying lava into rivers that ran to the sea.",
+  "narration": [
+    "Lava shot out of a crack in the ground, feeding rivers of molten rock.",
+    "This was the Fissure 20 complex on Kilauea, Hawaii, on May 21, 2018.",
+    "A fissure eruption opens a long crack instead of one vent, so lava fountains up along a whole line.",
+    "The lava split into channels, joined again near the coast, then split once more before reaching the ocean."
+  ],
+  "outcome": "The channels carried the lava all the way to the ocean.",
+  "location_card": {
+    "place": "Kilauea, Hawaii",
+    "date": "May 21, 2018"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 26.0,
+        "end": 28.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 10.5,
+        "end": 13.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 5.5,
+        "end": 8.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 8.0,
+        "end": 10.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 16.0,
+        "end": 18.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 19.0,
+        "end": 21.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 29.5,
+        "end": 32.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 32.0,
+        "end": 34.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 34.5,
+        "end": 37.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 37.0,
+        "end": 38.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 23.5,
+        "end": 25.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "Lava fountains roar out of Kilauea",
+  "tags": [
+    "kilauea",
+    "lava fountain",
+    "volcano eruption",
+    "fissure 20",
+    "hawaii",
+    "usgs",
+    "real footage"
+  ],
+  "question_comment": "Would you fly over an eruption like this?",
+  "extra_sources": [
+    {
+      "url": "https://www.usgs.gov/media/videos/kilauea-volcano-overflight-fissure-20-complex",
+      "excerpt": "The video concludes with a view of the bifurcating lava channels that merge closer to the coast (and split again before ocean entry)."
+    }
+  ],
+  "facts": [
+    {
+      "claim": "Fissure fountains feed lava flows, Fissure 20 complex",
+      "source_quote": "Fissure fountains feed lava flows, as shown in this overflight video of the F"
+    },
+    {
+      "claim": "Channels split, merge near coast, split again before ocean entry",
+      "source_quote": "bifurcating lava channels that merge closer to the coast (and split again before ocean entry)"
+    }
+  ],
+  "description": "A U.S. Geological Survey overflight of the Fissure 20 complex on Kilauea, Hawaii, on May 21, 2018, showed fissure fountains feeding lava channels that ran to the ocean.\n\nFootage: U.S. Geological Survey, Hawaiian Volcano Observatory, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Fissure_fountains_feed_lava_flows,_as_shown_in_this_overflight_video_of_the_F....webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #volcano #lava #kilauea"
+}

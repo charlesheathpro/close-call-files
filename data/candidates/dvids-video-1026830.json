@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026830",
   "asset_id": "video:1026830",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "rescue",
   "harvested_at": "2026-10-27T03:46:05Z",
@@ -693,5 +693,6 @@
     255.31,
     274.22,
     293.13
-  ]
+  ],
+  "pass_reason": "interviews about a man with life-threatening injuries; medical"
 }

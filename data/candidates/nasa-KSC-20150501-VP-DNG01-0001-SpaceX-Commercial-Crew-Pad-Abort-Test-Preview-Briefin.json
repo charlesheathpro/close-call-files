@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20150501-VP-DNG01-0001-SpaceX-Commercial-Crew-Pad-Abort-Test-Preview-Briefin",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:28:02Z",
   "duration": 2653.97,
   "source_file": {
@@ -7282,5 +7282,6 @@
     2238.86,
     2404.7,
     2570.55
-  ]
+  ],
+  "pass_reason": "30 min broadcast; the abort is a few seconds of distant hazy pad camera"
 }

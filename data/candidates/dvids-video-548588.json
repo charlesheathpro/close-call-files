@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-548588",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:50:57Z",
   "duration": 299.82,
   "source_file": {
@@ -149,5 +149,6 @@
     252.55,
     271.26,
     289.96
-  ]
+  ],
+  "pass_reason": "medical treatment scenes (same series as 548584)"
 }

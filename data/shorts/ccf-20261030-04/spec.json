@@ -1,0 +1,192 @@
+{
+  "short_id": "ccf-20261030-04",
+  "candidate_id": "commons-Fissure-21-p-hoehoe-lava-flows-ooze-onto-Kaupili-Street-in-t",
+  "revision": 1,
+  "lane": "hazards",
+  "story_type": "lava flow",
+  "music_mood": "hazards",
+  "priority": 3,
+  "hook": "Lava crept down a neighborhood street, setting plants on fire.",
+  "narration": [
+    "This lava was creeping down a street in a Hawaii neighborhood.",
+    "It was Kaupili Street in Leilani Estates, Hawaii, in May 2018.",
+    "A new crack in the ground, called fissure 21, was feeding it.",
+    "This kind of lava is called pahoehoe. Its surface cools into a skin, and fresh lava keeps breaking out from underneath.",
+    "The evening before, it had oozed up and over a berm.",
+    "The black smoke is asphalt burning as the flow moves down the street.",
+    "[short pause] Plants at the edge caught fire as it reached them."
+  ],
+  "outcome": "By the next night, the lava was flowing down Kaupili Street itself.",
+  "location_card": {
+    "place": "Leilani Estates, Hawaii",
+    "date": "May 25, 2018"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 12.0,
+        "end": 14.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 14.5,
+        "end": 17.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 6.0,
+        "end": 8.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 24.5,
+        "end": 27.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 17.0,
+        "end": 19.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 19.5,
+        "end": 22.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 33.0,
+        "end": 35.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 39.0,
+        "end": 41.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 44.0,
+        "end": 46.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 46.5,
+        "end": 49.0,
+        "layout": "crop",
+        "crop_x": 0.35
+      }
+    ],
+    [
+      {
+        "start": 49.0,
+        "end": 51.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 54.0,
+        "end": 56.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 58.5,
+        "end": 61.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 62.5,
+        "end": 65.0,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 65.5,
+        "end": 68.0,
+        "layout": "crop",
+        "crop_x": 0.75
+      },
+      {
+        "start": 70.0,
+        "end": 72.5,
+        "layout": "crop",
+        "crop_x": 0.7
+      }
+    ],
+    [
+      {
+        "start": 73.0,
+        "end": 75.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 9.5,
+        "end": 11.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "Lava creeps down a Hawaii street",
+  "tags": [
+    "kilauea",
+    "lava flow",
+    "volcano",
+    "leilani estates",
+    "hawaii",
+    "pahoehoe",
+    "usgs",
+    "real footage"
+  ],
+  "question_comment": "How close would you get to a lava flow like this?",
+  "extra_sources": [
+    {
+      "url": "https://www.usgs.gov/media/videos/kilauea-volcano-pahoehoe-flows-kaupili-street",
+      "excerpt": "Fissure 21 produced a Pāhoehoe lava flow that oozed onto Kaupili Street in the Leilani Estates subdivision."
+    },
+    {
+      "url": "https://www.usgs.gov/media/videos/kilauea-volcano-pahoehoe-flows-kaupili-street",
+      "excerpt": "Video 2 shows lavaoozing over a berm on May 24, around 6:00 p.m. HST."
+    },
+    {
+      "url": "https://www.usgs.gov/media/videos/kilauea-volcano-pahoehoe-flows-kaupili-street",
+      "excerpt": "Burning asphalt created the black smoke seen in the video as the lava flow advanced down the street."
+    }
+  ],
+  "facts": [
+    {
+      "claim": "Fissure 21 flow oozed onto Kaupili Street, Leilani Estates",
+      "source_quote": "Fissure 21 produced a Pāhoehoe lava flow that oozed onto Kaupili Street in the Leilani Estates subdivision."
+    },
+    {
+      "claim": "Oozed over a berm on May 24 evening",
+      "source_quote": "Video 2 shows lavaoozing over a berm on May 24, around 6:00 p.m. HST."
+    },
+    {
+      "claim": "Black smoke is burning asphalt",
+      "source_quote": "Burning asphalt created the black smoke seen in the video as the lava flow advanced down the street."
+    }
+  ],
+  "description": "During the 2018 Kilauea eruption, a pahoehoe lava flow from fissure 21 oozed onto Kaupili Street in the Leilani Estates subdivision on Hawaii Island, May 24 and 25, 2018.\n\nFootage: U.S. Geological Survey, Hawaiian Volcano Observatory, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Fissure_21_p%C4%81hoehoe_lava_flows_ooze_onto_Kaupili_Street,_in_the_Leilani_Estat....webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #volcano #lava #kilauea"
+}

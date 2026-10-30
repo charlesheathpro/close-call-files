@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-938230",
   "asset_id": "video:938230",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "Hurricane Helene rescue",
   "harvested_at": "2026-10-27T15:52:03Z",
@@ -61,5 +61,6 @@
     75.29,
     80.87,
     86.44
-  ]
+  ],
+  "pass_reason": "only helicopter takeoffs; the hospital rescue is not shown or resolved"
 }

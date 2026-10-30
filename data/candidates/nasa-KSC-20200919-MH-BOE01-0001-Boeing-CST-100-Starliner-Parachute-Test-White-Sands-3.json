@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200919-MH-BOE01-0001-Boeing-CST-100-Starliner-Parachute-Test-White-Sands-3",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:22:43Z",
   "duration": 37.31,
   "source_file": {
@@ -67,5 +67,6 @@
     31.06,
     33.36,
     35.66
-  ]
+  ],
+  "pass_reason": "calm slow parachute descent, capsule leaves frame; nothing looks dangerous"
 }

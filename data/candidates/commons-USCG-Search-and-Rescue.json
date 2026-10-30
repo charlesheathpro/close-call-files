@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-Search-and-Rescue",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:08:48Z",
   "duration": 45.03,
   "source_file": {
@@ -55,5 +55,6 @@
     37.58,
     40.36,
     43.14
-  ]
+  ],
+  "pass_reason": "release is only a tweet with no place or outcome; held facts too thin"
 }

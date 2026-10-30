@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-NAVAIR-X-47B-Completes-First-Shore-Based-Arrested-Landing",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:40:43Z",
   "duration": 30.88,
   "source_file": {
@@ -52,5 +52,6 @@
     25.63,
     27.53,
     29.43
-  ]
+  ],
+  "pass_reason": "distant, tiny drone on a calm deck; no visible stakes"
 }

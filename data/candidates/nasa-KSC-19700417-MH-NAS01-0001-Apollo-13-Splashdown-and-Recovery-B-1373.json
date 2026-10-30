@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-19700417-MH-NAS01-0001-Apollo-13-Splashdown-and-Recovery-B-1373",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:30:34Z",
   "duration": 3705.0,
   "source_file": {
@@ -1139,5 +1139,6 @@
     3125.67,
     3357.2,
     3588.73
-  ]
+  ],
+  "pass_reason": "1970 broadcast tape: soft SD picture with scan-line noise and burned-in captions; parachutes are specks on a phone"
 }

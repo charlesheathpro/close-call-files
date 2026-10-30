@@ -6,10 +6,10 @@
   "music_mood": "sea",
   "hook": "Five people on a boat that was on fire, two miles out.",
   "narration": [
-    "Five people were on a cabin cruiser, and it was on fire.",
+    "Five people were stuck on a cabin cruiser, and it was on fire.",
     "They were two miles off Moss Landing, near Monterey, California.",
     "A Station Monterey lifeboat crew pulled right up alongside.",
-    "That forty seven foot motor lifeboat is built to roll back upright if a wave flips it.",
+    "That lifeboat is built to roll back upright if a wave flips it.",
     "The crew held the two boats together in the swell and helped each person across.",
     "[short pause] Smoke was still drifting off the cruiser as the last of them crossed."
   ],
@@ -42,46 +42,46 @@
       "source_quote": "the Station Monterey crew started towing the vessel to shore as the Monterey Fire Department extinguished the fire"
     }
   ],
-  "priority": 5,
+  "priority": 9,
   "line_shots": [
     [
-      {
-        "start": 166.0,
-        "end": 168.8,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
       {
         "start": 75.0,
         "end": 77.6,
         "layout": "crop",
         "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 182.0,
-        "end": 184.6,
-        "layout": "crop",
-        "crop_x": 0.5
       },
       {
-        "start": 188.0,
-        "end": 190.6,
+        "start": 7.0,
+        "end": 9.6,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 6.0,
-        "end": 8.6,
+        "start": 23.0,
+        "end": 25.6,
         "layout": "crop",
         "crop_x": 0.5
       },
+      {
+        "start": 166.0,
+        "end": 168.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
       {
         "start": 18.0,
         "end": 20.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 26.0,
+        "end": 28.6,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -96,12 +96,6 @@
       {
         "start": 87.0,
         "end": 89.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 194.0,
-        "end": 196.6,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -161,5 +155,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }

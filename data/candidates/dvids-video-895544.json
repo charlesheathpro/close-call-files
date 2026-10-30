@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-895544",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:13:00Z",
   "duration": 290.26,
   "source_file": {
@@ -88,5 +88,6 @@
     244.48,
     262.59,
     280.7
-  ]
+  ],
+  "pass_reason": "mock arrestment drill on land, calm"
 }
