@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-06",
   "candidate_id": "commons-Fissure-fountains-feed-lava-flows-as-shown-in-this-overfligh",
-  "revision": 2,
+  "revision": 3,
   "lane": "hazards",
   "story_type": "volcano eruption",
   "music_mood": "hazards",
@@ -11,7 +11,7 @@
     "Lava shot out of a crack in the ground, feeding rivers of molten rock.",
     "This was the Fissure 20 complex on Kilauea, Hawaii, on May 21, 2018.",
     "A fissure eruption opens a long crack instead of one vent, so lava fountains up along a whole line.",
-    "The lava split into channels, joined again near the coast, then split once more before reaching the ocean."
+    "The lava split into channels, joined again near the coast, then split once more."
   ],
   "outcome": "The channels carried the lava all the way to the ocean.",
   "location_card": {
@@ -79,12 +79,6 @@
         "end": 34.5,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 34.5,
-        "end": 35.8,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ],
     [

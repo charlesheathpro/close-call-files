@@ -1,14 +1,13 @@
 {
   "short_id": "ccf-20261030-05",
-  "revision": 1,
+  "revision": 2,
   "verdict": "reject",
-  "at": "2026-10-30T15:24:47Z",
-  "score": 6,
-  "notes": "Clean, fresh footage and a strong opening jet, but the story's key moment is missing: line 5 ('a hook... grabs a steel cable... stops the jet in about two seconds') plays over the ship's wake and a blurred deck (20 to 23s), so the trap is never seen. Lines 2 and 3 (5 to 15s) are island and distant sky shots, and line 6 is filler, so 43s is not earned and there is no visible danger.",
+  "at": "2026-10-30T23:22:03Z",
+  "score": 4,
+  "notes": "First jets on a new carrier is a milestone with no danger and no close call, and three shots are empty or wrong: blank sky at 8.5s, a jet cut off the left edge at 13.5s, an empty deck at 23.7s under 'Then a Super Hornet landed next.'",
   "fixes": [
-    "Line 5: replace source 118.0 to 123.5 (wake and blurred deck) with an actual arrested landing where the hook catches the wire; if the source has none, drop the clip.",
-    "Cut line 6 ('The crew was testing whether...') and shorten line 2 to just the date, aiming for about 30s total.",
-    "Line 7: only say 'Super Hornet came down on the same wires' over a shot that shows it landing on the wires; otherwise say a Super Hornet landed next.",
-    "Line 3: replace source 61.0 to 63.5 (empty sky with a jet clipping the corner) with the pair of jets overhead from about 40 to 42.5."
+    "Viral bar: no visible danger or turn. Drop unless the source has a bolter, wave-off or hard trap to build around.",
+    "If kept: replace line 3 shot source 40.0-42.5 (empty sky), line 4 shot 79.0-81.5 (jet cut off), line 6 shot 135.5-138.0 (empty deck).",
+    "'Super Hornet' and 'taxied in to a crowd on deck' are not in the release; remove them unless plainly visible on screen."
   ]
 }

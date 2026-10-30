@@ -1,0 +1,13 @@
+{
+  "short_id": "ccf-20261030-09",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-30T23:22:03Z",
+  "score": 6,
+  "notes": "Strong hook number, but it is one slow, nearly static ISS view for 36 seconds, letterboxed small in the middle of a blurred background, with the solar array cutting into frames at 9.2s and 14.7s.",
+  "fixes": [
+    "Use crop layout so the storm fills the 9:16 frame (crop_x 0.5 on the eye) instead of the padded layout.",
+    "Cut to about 20 seconds: drop 'The station was two hundred sixty miles up.' and 'It carried the strongest winds in recorded history for the northwestern Bahamas.' (keep the number in the hook).",
+    "Avoid shots with the solar array crossing the storm (source 20.0-26.5)."
+  ]
+}
