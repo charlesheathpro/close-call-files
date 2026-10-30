@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000004-Space-to-Ground-354-210115",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:11:56Z",
   "duration": 139.3,
   "source_file": {
@@ -34,12 +34,12 @@
     {
       "s": 5.12,
       "e": 7.58,
-      "text": "WELCOME TO SPACE TO GROUND, IâM ISIDRO REYNA."
+      "text": "WELCOME TO SPACE TO GROUND, I\u00e2\u0080\u0099M ISIDRO REYNA."
     },
     {
       "s": 7.58,
       "e": 10.25,
-      "text": "THIS WEEK, SPACEXâS CARGO DRAGON SPACECRAFT"
+      "text": "THIS WEEK, SPACEX\u00e2\u0080\u0099S CARGO DRAGON SPACECRAFT"
     },
     {
       "s": 10.25,
@@ -54,7 +54,7 @@
     {
       "s": 14.58,
       "e": 18.41,
-      "text": "CARRYING OUT SPACEXâS 21ST COMMERCIAL RESUPPLY SERVICES MISSION,"
+      "text": "CARRYING OUT SPACEX\u00e2\u0080\u0099S 21ST COMMERCIAL RESUPPLY SERVICES MISSION,"
     },
     {
       "s": 18.41,
@@ -89,7 +89,7 @@
     {
       "s": 32.96,
       "e": 34.76,
-      "text": "THE STATIONâS ROBOTIC CANADARM2."
+      "text": "THE STATION\u00e2\u0080\u0099S ROBOTIC CANADARM2."
     },
     {
       "s": 34.76,
@@ -124,7 +124,7 @@
     {
       "s": 48.74,
       "e": 51.46,
-      "text": "ABOARD THE CAPSULE TO NASA KENNEDY SPACE CENTERâS"
+      "text": "ABOARD THE CAPSULE TO NASA KENNEDY SPACE CENTER\u00e2\u0080\u0099S"
     },
     {
       "s": 51.46,
@@ -299,7 +299,7 @@
     {
       "s": 125.96,
       "e": 127.53,
-      "text": "AND THATâS SPACE TO GROUND FOR THIS WEEK."
+      "text": "AND THAT\u00e2\u0080\u0099S SPACE TO GROUND FOR THIS WEEK."
     },
     {
       "s": 127.53,
@@ -309,7 +309,7 @@
     {
       "s": 128.53,
       "e": 130.14,
-      "text": "WEâLL SEE YOU NEXT WEEK."
+      "text": "WE\u00e2\u0080\u0099LL SEE YOU NEXT WEEK."
     }
   ],
   "scene_cuts": [
@@ -365,5 +365,6 @@
     117.11,
     125.79,
     134.46
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

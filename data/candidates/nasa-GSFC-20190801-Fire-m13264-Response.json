@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "wildfire",
   "title": "Satellites Aid Active Fire Response",
-  "description": "Front-line responders do the heavy lifting when it comes to fighting and managing wildfires, but they’re often helped by the view from higher up. Each year, a coordinated effort from US Forest Service aircraft teams and satellite teams from NASA and NOAA provide valuable information that help fire management teams on the ground make the best decisions possible. Satellite observations and data from new NASA airborne field campaigns also help us understand the role, frequency, and intensity of fires in a changing world.",
+  "description": "Front-line responders do the heavy lifting when it comes to fighting and managing wildfires, but they\u2019re often helped by the view from higher up. Each year, a coordinated effort from US Forest Service aircraft teams and satellite teams from NASA and NOAA provide valuable information that help fire management teams on the ground make the best decisions possible. Satellite observations and data from new NASA airborne field campaigns also help us understand the role, frequency, and intensity of fires in a changing world.",
   "keywords": "Fire Management, Airplane, Western USA, Earth, Wildfires, Aircraft",
   "date": "2019-08-01T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20190801-Fire-m13264-Response",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:43:17Z",
   "duration": 153.57,
   "source_file": {
@@ -205,5 +205,6 @@
     129.15,
     138.72,
     148.28
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

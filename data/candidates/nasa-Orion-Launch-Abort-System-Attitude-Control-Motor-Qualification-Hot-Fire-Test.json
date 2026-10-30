@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Orion-Launch-Abort-System-Attitude-Control-Motor-Qualification-Hot-Fire-Test",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:35:14Z",
   "duration": 893.27,
   "source_file": {
@@ -2555,5 +2555,6 @@
     753.27,
     809.07,
     864.87
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

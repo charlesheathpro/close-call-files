@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Launch-Abort-System-Jettison-Two-Views",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:38:47Z",
   "duration": 12.03,
   "source_file": {
@@ -57,5 +57,6 @@
     9.73,
     10.45,
     11.17
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

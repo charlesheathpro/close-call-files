@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jcs2022m000044-Space-to-Ground-444-221021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:11:18Z",
   "duration": 166.73,
   "source_file": {
@@ -29,7 +29,7 @@
     {
       "s": 5.09,
       "e": 7.72,
-      "text": "WELCOME TO SPACE TO GROUND, I’M SANDRA JONES."
+      "text": "WELCOME TO SPACE TO GROUND, I\u2019M SANDRA JONES."
     },
     {
       "s": 7.72,
@@ -49,7 +49,7 @@
     {
       "s": 18.35,
       "e": 24.32,
-      "text": "AFTER SPENDING 170 DAYS IN SPACE, NASA’S SPACEX CREW-4 MISSION SPLASHED DOWN"
+      "text": "AFTER SPENDING 170 DAYS IN SPACE, NASA\u2019S SPACEX CREW-4 MISSION SPLASHED DOWN"
     },
     {
       "s": 24.32,
@@ -84,7 +84,7 @@
     {
       "s": 47.19,
       "e": 49.72,
-      "text": "FROM THE SCIENCE CONDUCTED DURING CREW-4’S MISSION,"
+      "text": "FROM THE SCIENCE CONDUCTED DURING CREW-4\u2019S MISSION,"
     },
     {
       "s": 49.72,
@@ -114,7 +114,7 @@
     {
       "s": 68.65,
       "e": 73.5,
-      "text": "EXPERTS FROM NASA’S EXPLORATION MEDICAL CAPABILITY TEAM SUCCESSFULLY TESTED"
+      "text": "EXPERTS FROM NASA\u2019S EXPLORATION MEDICAL CAPABILITY TEAM SUCCESSFULLY TESTED"
     },
     {
       "s": 73.5,
@@ -179,7 +179,7 @@
     {
       "s": 118.97,
       "e": 123.31,
-      "text": "THEN BE SURE TO LISTEN IN TO THIS WEEK’S EPISODE OF \"HOUSTON, WE HAVE A PODCAST\""
+      "text": "THEN BE SURE TO LISTEN IN TO THIS WEEK\u2019S EPISODE OF \"HOUSTON, WE HAVE A PODCAST\""
     },
     {
       "s": 123.31,
@@ -219,7 +219,7 @@
     {
       "s": 148.89,
       "e": 151.14,
-      "text": "AND THAT’S SPACE TO GROUND FOR THIS WEEK."
+      "text": "AND THAT\u2019S SPACE TO GROUND FOR THIS WEEK."
     },
     {
       "s": 151.14,
@@ -229,7 +229,7 @@
     {
       "s": 152.28,
       "e": 153.15,
-      "text": "WE’LL SEE YOU NEXT WEEK"
+      "text": "WE\u2019LL SEE YOU NEXT WEEK"
     }
   ],
   "scene_cuts": [
@@ -278,5 +278,6 @@
     140.26,
     150.65,
     161.04
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

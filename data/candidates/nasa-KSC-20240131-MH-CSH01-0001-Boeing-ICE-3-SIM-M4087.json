@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240131-MH-CSH01-0001-Boeing-ICE-3-SIM-M4087",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:13:15Z",
   "duration": 103.6,
   "source_file": {
@@ -63,5 +63,6 @@
     86.99,
     93.43,
     99.88
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

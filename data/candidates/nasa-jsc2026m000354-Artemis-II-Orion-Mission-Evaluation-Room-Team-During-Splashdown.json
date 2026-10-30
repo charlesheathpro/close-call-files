@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "splashdown",
   "title": "Artemis II Orion Mission Evaluation Room Team During Splashdown",
-  "description": "B-roll of the Orion Mission Evaluation Room (MER) team working during Orion’s Splashdown, on April 10, 2026, from the Orion MER inside Mission Control at NASA’s Johnson Space Center in Houston during the Artemis II mission.",
+  "description": "B-roll of the Orion Mission Evaluation Room (MER) team working during Orion\u2019s Splashdown, on April 10, 2026, from the Orion MER inside Mission Control at NASA\u2019s Johnson Space Center in Houston during the Artemis II mission.",
   "keywords": "Orion, Artemis II, Mission Control Center, Mission Evaluation Room, Reentry, Splashdown, Return",
   "date": "2026-04-10T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2026m000354-Artemis-II-Orion-Mission-Evaluation-Room-Team-During-Splashdown",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:36:01Z",
   "duration": 171.2,
   "source_file": {
@@ -64,5 +64,6 @@
     144.03,
     154.7,
     165.37
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "iceberg",
   "title": "NASA Science Live: On Ice [Episode 16]",
-  "description": "Join NASA ice experts as we discuss important science about Earth's icy regions, and how it can impact us here in warmer environments. NASA's IceSat-2 mission uses laser instruments on satellites to precisely measure ice and just released new findings about how Earth’s ice is changing. Scientists discovered that enough ice has melted from Antarctica and Greenland to rise sea level about half an inch over the last 16 years. We’ll talk to these researchers to see what that means, and then take you to the coast of Virginia to see the real-world impacts of Earth's melting ice. Joy Ng, NASA Goddard Producer, NASA Science Live Host Alex Gardner, NASA JPL Glaciologist Ben Smith, University of Washington Physicist Helen Amanda Fricker, Scripps Institution Glaciologist Brooke Medley, NASA Goddard Operation IceBridge Deputy Project Scientist",
+  "description": "Join NASA ice experts as we discuss important science about Earth's icy regions, and how it can impact us here in warmer environments. NASA's IceSat-2 mission uses laser instruments on satellites to precisely measure ice and just released new findings about how Earth\u2019s ice is changing. Scientists discovered that enough ice has melted from Antarctica and Greenland to rise sea level about half an inch over the last 16 years. We\u2019ll talk to these researchers to see what that means, and then take you to the coast of Virginia to see the real-world impacts of Earth's melting ice. Joy Ng, NASA Goddard Producer, NASA Science Live Host Alex Gardner, NASA JPL Glaciologist Ben Smith, University of Washington Physicist Helen Amanda Fricker, Scripps Institution Glaciologist Brooke Medley, NASA Goddard Operation IceBridge Deputy Project Scientist",
   "keywords": "NSL, NASA Science Live, Operation IceBridge, ICESat-2, Galcier, Ice, Accelerated Ice Melt, Antarctica, Greenland, Iceberg, Joy Ng, Alex Gardner, Ben Smith, Helen Amanda Fricker, Brooke Medley",
   "date": "2020-05-06T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-202000512-NSL-Ep16",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:37:55Z",
   "duration": 1753.0,
   "source_file": {
@@ -5644,7 +5644,7 @@
     {
       "s": 1691.49,
       "e": 1693.26,
-      "text": "I HATE TO SOUND CLICHÃ,"
+      "text": "I HATE TO SOUND CLICH\u00c3\u0089,"
     },
     {
       "s": 1693.26,
@@ -6223,5 +6223,6 @@
     1478.67,
     1588.2,
     1697.74
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

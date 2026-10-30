@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "splashdown",
   "title": "Splashdown Recap - Bob & Doug Come Home",
-  "description": "NASA Astronauts Robert Behnken and Douglas Hurley splashed down in the Dragon Endeavor capsule at 2:48 p.m. EDT off the coast of Pensacola, Florida.  The Crew Dragon hatch was opened at 3:59 p.m., and Behnken and Hurley exited the spacecraft onto the Go Navigator for initial medical checks before returning to shore by helicopter. Once returned to shore, both crew members will immediately board a waiting NASA plane to fly back to Ellington field in Houston.   Hurley and Behnken arrived to the International Space Station May 31 and spent 62 days supporting science and research aboard the orbiting laboratory as part of Expedition 63.    Demo-2 is SpaceX’s final test flight and is providing data on the performance of the Falcon 9 rocket, Crew Dragon spacecraft and ground systems, as well as in-orbit, docking, splashdown, and recovery operations. The data will inform NASA’s certification of the SpaceX crew transportation system for regular flights carrying astronauts to and from the space station. SpaceX is readying the hardware for the first rotational mission that will occur following NASA certification, which is expected to take about six weeks.",
+  "description": "NASA Astronauts Robert Behnken and Douglas Hurley splashed down in the Dragon Endeavor capsule at 2:48 p.m. EDT off the coast of Pensacola, Florida.  The Crew Dragon hatch was opened at 3:59 p.m., and Behnken and Hurley exited the spacecraft onto the Go Navigator for initial medical checks before returning to shore by helicopter. Once returned to shore, both crew members will immediately board a waiting NASA plane to fly back to Ellington field in Houston.   Hurley and Behnken arrived to the International Space Station May 31 and spent 62 days supporting science and research aboard the orbiting laboratory as part of Expedition 63.    Demo-2 is SpaceX\u2019s final test flight and is providing data on the performance of the Falcon 9 rocket, Crew Dragon spacecraft and ground systems, as well as in-orbit, docking, splashdown, and recovery operations. The data will inform NASA\u2019s certification of the SpaceX crew transportation system for regular flights carrying astronauts to and from the space station. SpaceX is readying the hardware for the first rotational mission that will occur following NASA certification, which is expected to take about six weeks.",
   "keywords": "SpaceX, Astronaut, Behnken, Hurley, Dragon, Endeavour",
   "date": "2020-08-02T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Splashdown-Recap-Bob-Doug-Come-Home",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:52:27Z",
   "duration": 87.4,
   "source_file": {
@@ -203,5 +203,6 @@
     73.32,
     78.75,
     84.18
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

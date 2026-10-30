@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20190514-EARTHf-0001-Forecasting-Fire",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:13:37Z",
   "duration": 178.82,
   "source_file": {
@@ -367,5 +367,6 @@
     150.45,
     161.6,
     172.74
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

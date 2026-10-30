@@ -1,10 +1,10 @@
 {
-  "asset_id": "nasa:NHQ_2023_1020_Highlighting the “Ring of Fire” Solar Eclipse on This Week @NASA – October 20, 2023",
+  "asset_id": "nasa:NHQ_2023_1020_Highlighting the \u201cRing of Fire\u201d Solar Eclipse on This Week @NASA \u2013 October 20, 2023",
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "engine test fire",
-  "title": "Highlighting the “Ring of Fire” Solar Eclipse on This Week @NASA – October 20, 2023",
-  "description": "Highlighting the “Ring of Fire” solar eclipse, learning how the human body reacts to long spaceflights, and a new engine test series for future Artemis missions … a few of the stories to tell you about – This Week at NASA!  Video Producer: Andre Valentine Video Editor: Andre Valentine Narrator: Andre Valentine Music: Universal Production Music Credit: NASA",
+  "title": "Highlighting the \u201cRing of Fire\u201d Solar Eclipse on This Week @NASA \u2013 October 20, 2023",
+  "description": "Highlighting the \u201cRing of Fire\u201d solar eclipse, learning how the human body reacts to long spaceflights, and a new engine test series for future Artemis missions \u2026 a few of the stories to tell you about \u2013 This Week at NASA!  Video Producer: Andre Valentine Video Editor: Andre Valentine Narrator: Andre Valentine Music: Universal Production Music Credit: NASA",
   "keywords": "This Week at NASA, TW@N, solar eclipse",
   "date": "2023-10-20T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2023-1020-Highlighting-the-Ring-of-Fire-Solar-Eclipse-on-This-Week-NASA-Octo",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:08:00Z",
   "duration": 147.43,
   "source_file": {
@@ -29,7 +29,7 @@
     {
       "s": 0.0,
       "e": 3.8,
-      "text": "Highlighting the “Ring of Fire”  solar eclipse."
+      "text": "Highlighting the \u201cRing of Fire\u201d  solar eclipse."
     },
     {
       "s": 3.8,
@@ -44,12 +44,12 @@
     {
       "s": 11.18,
       "e": 14.55,
-      "text": "A few of the stories to tell you about –  This Week at NASA!"
+      "text": "A few of the stories to tell you about \u2013  This Week at NASA!"
     },
     {
       "s": 15.28,
       "e": 20.85,
-      "text": "On Oct. 14, we brought you coverage of the “Ring of Fire” annular solar eclipse"
+      "text": "On Oct. 14, we brought you coverage of the \u201cRing of Fire\u201d annular solar eclipse"
     },
     {
       "s": 20.85,
@@ -69,7 +69,7 @@
     {
       "s": 31.23,
       "e": 36.3,
-      "text": "the eclipse provided unique opportunities  for science – which included NASA sounding"
+      "text": "the eclipse provided unique opportunities  for science \u2013 which included NASA sounding"
     },
     {
       "s": 36.3,
@@ -94,7 +94,7 @@
     {
       "s": 51.88,
       "e": 56.29,
-      "text": "Aboard the International Space Station,  NASA astronaut Loral O’Hara"
+      "text": "Aboard the International Space Station,  NASA astronaut Loral O\u2019Hara"
     },
     {
       "s": 56.29,
@@ -149,7 +149,7 @@
     {
       "s": 100.03,
       "e": 104.64,
-      "text": "Four RS-25’s will help power our Space  Launch System rocket"
+      "text": "Four RS-25\u2019s will help power our Space  Launch System rocket"
     },
     {
       "s": 104.64,
@@ -174,7 +174,7 @@
     {
       "s": 123.49,
       "e": 128.33,
-      "text": "The detection, which was uniquely possible with Webb’s Mid-Infrared Instrument,"
+      "text": "The detection, which was uniquely possible with Webb\u2019s Mid-Infrared Instrument,"
     },
     {
       "s": 128.33,
@@ -189,12 +189,12 @@
     {
       "s": 134.3,
       "e": 136.5,
-      "text": "That’s what’s up this week @NASA."
+      "text": "That\u2019s what\u2019s up this week @NASA."
     },
     {
       "s": 136.5,
       "e": 140.57,
-      "text": "For more about what else we’re up to  check out nasa.gov."
+      "text": "For more about what else we\u2019re up to  check out nasa.gov."
     }
   ],
   "scene_cuts": [
@@ -258,5 +258,6 @@
     123.98,
     133.16,
     142.34
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

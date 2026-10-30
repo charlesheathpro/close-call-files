@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "wildfire",
   "title": "Through Smoke and Fire, NASA Searches for Answers",
-  "description": "NASA satellites reveal a world marked by fire: a global patchwork of flame and smoke driven by the seasons and people. Summer wildfires rage across the western United States and Canada, Australia and Europe. In early spring agricultural fires blanket the breadbasket regions of Southeast Asia as they do throughout the dry season in central and southern Africa and Brazil.   For years, NASA has used the vantage point of space, combined with airborne and ground-based field campaigns, to decipher the impact of fires—from first spark to final puff of smoldering smoke— and help other agencies protect life and property.   But the effects of fires linger long after they’re extinguished: They can upend ecosystems, influence climate and disrupt communities. While NASA keeps an eye on today’s fires, it also tackles the big-picture questions that help fire managers plan for the future.   This summer, NASA is embarking on several field campaigns across the world to investigate longstanding questions surrounding fire and smoke. Aircraft will fly through smoke and clouds to improve air quality, weather and climate forecasting, and investigate fire-burned forests to capture ecosystem changes that have global impact.",
+  "description": "NASA satellites reveal a world marked by fire: a global patchwork of flame and smoke driven by the seasons and people. Summer wildfires rage across the western United States and Canada, Australia and Europe. In early spring agricultural fires blanket the breadbasket regions of Southeast Asia as they do throughout the dry season in central and southern Africa and Brazil.   For years, NASA has used the vantage point of space, combined with airborne and ground-based field campaigns, to decipher the impact of fires\u2014from first spark to final puff of smoldering smoke\u2014 and help other agencies protect life and property.   But the effects of fires linger long after they\u2019re extinguished: They can upend ecosystems, influence climate and disrupt communities. While NASA keeps an eye on today\u2019s fires, it also tackles the big-picture questions that help fire managers plan for the future.   This summer, NASA is embarking on several field campaigns across the world to investigate longstanding questions surrounding fire and smoke. Aircraft will fly through smoke and clouds to improve air quality, weather and climate forecasting, and investigate fire-burned forests to capture ecosystem changes that have global impact.",
   "keywords": "Fire Management, Human Geography, Natural Hazards, Smoke, Fires, Earth",
   "date": "2019-07-11T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20190711-Fires-m13257-Kickoff",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:17:03Z",
   "duration": 47.12,
   "source_file": {
@@ -77,5 +77,6 @@
     39.34,
     42.25,
     45.17
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

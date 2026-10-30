@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-752975",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:24:43Z",
   "duration": 15.81,
   "source_file": {
@@ -62,5 +62,6 @@
     12.92,
     13.87,
     14.83
-  ]
+  ],
+  "pass_reason": "16 seconds of cloud from a hurricane hunter; too short and flat."
 }

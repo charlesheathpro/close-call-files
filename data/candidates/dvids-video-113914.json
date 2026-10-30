@@ -26,7 +26,7 @@
   "time_start": 4.33767,
   "aspect_ratio": "16:9",
   "id": "dvids-video-113914",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:21:18Z",
   "duration": 171.79,
   "source_file": {
@@ -73,5 +73,6 @@
     145.21,
     155.64,
     166.07
-  ]
+  ],
+  "pass_reason": "Response or assessment footage after the event; no rescue or danger on camera and no stated outcome."
 }

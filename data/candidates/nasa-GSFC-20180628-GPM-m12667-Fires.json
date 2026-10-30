@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "wildfire",
   "title": "NASA Rainfall Data and Global Fire Weather",
-  "description": "The Global Fire WEather Database (GFWED) integrates different weather factors influencing the likelihood of a vegetation fire starting and spreading. It is based on the Fire Weather Index (FWI) System, which tracks the dryness of three general fuel classes, and the potential behavior of a fire if it were to start. Each day, FWI values are calculated from global weather data, including satellite rainfall data from the Global Precipitation Measurement (GPM) mission. The FWI System is the most widely used fire danger rating system in the world, and has been adopted for different boreal, temperate and tropical fire environments. GFWED provides a globally consistent fire weather dataset for fire researchers and managers to apply locally. The Fire Weather Index component is suitable as a general index of fire danger. Globally, shifts in continental-scale fire activity follow seasonal changes in the FWI. Over South America and Africa, regions of high FWI and active agricultural burning shift with the tropical rain belts, seen in the GPM precipitation overlay. Over North America and Eurasia, the FWI will ‘activate’ in the spring, and shows how week-to-week surges in fire activity can be driven by high FWI values. More information on GFWED and instructions on accessing the data are available from https://data.giss.nasa.gov/impacts/gfwed/",
+  "description": "The Global Fire WEather Database (GFWED) integrates different weather factors influencing the likelihood of a vegetation fire starting and spreading. It is based on the Fire Weather Index (FWI) System, which tracks the dryness of three general fuel classes, and the potential behavior of a fire if it were to start. Each day, FWI values are calculated from global weather data, including satellite rainfall data from the Global Precipitation Measurement (GPM) mission. The FWI System is the most widely used fire danger rating system in the world, and has been adopted for different boreal, temperate and tropical fire environments. GFWED provides a globally consistent fire weather dataset for fire researchers and managers to apply locally. The Fire Weather Index component is suitable as a general index of fire danger. Globally, shifts in continental-scale fire activity follow seasonal changes in the FWI. Over South America and Africa, regions of high FWI and active agricultural burning shift with the tropical rain belts, seen in the GPM precipitation overlay. Over North America and Eurasia, the FWI will \u2018activate\u2019 in the spring, and shows how week-to-week surges in fire activity can be driven by high FWI values. More information on GFWED and instructions on accessing the data are available from https://data.giss.nasa.gov/impacts/gfwed/",
   "keywords": "Human Geography, Natural Hazards, Fire Weather Indices, Fires, Canada, Indonesia, Earth, Wildfires",
   "date": "2018-06-28T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180628-GPM-m12667-Fires",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:15:45Z",
   "duration": 221.0,
   "source_file": {
@@ -360,5 +360,6 @@
     186.05,
     199.83,
     213.61
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

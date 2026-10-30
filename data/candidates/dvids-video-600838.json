@@ -26,7 +26,7 @@
   "time_start": 2.1021,
   "aspect_ratio": "16:9",
   "id": "dvids-video-600838",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:54:37Z",
   "duration": 270.21,
   "source_file": {
@@ -424,5 +424,6 @@
     227.89,
     244.62,
     261.35
-  ]
+  ],
+  "pass_reason": "Ceremony, feature, interview or b-roll with no event or danger on screen."
 }

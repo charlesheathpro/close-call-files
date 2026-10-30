@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Artemis-1-Orion-Recovery-training-b-roll",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:02:31Z",
   "duration": 92.03,
   "source_file": {
@@ -66,5 +66,6 @@
     77.23,
     82.95,
     88.67
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }

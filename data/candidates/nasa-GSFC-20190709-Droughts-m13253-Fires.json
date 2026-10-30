@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "wildfire",
   "title": "A Drier Future Sets the Stage for More Wildfires",
-  "description": "Droughts can create ideal conditions for wildfires. Dry trees and vegetation provide fuel. Low soil and air moisture make it easier for fires to spread quickly. In these conditions, a spark from lightning, electrical failures, human error or planned fires can quickly get out of control. As Earth’s climate warms and precipitation patterns change, increasingly severe droughts will leave some areas of the world vulnerable to increasingly severe fires. Understanding how fires behave in dry conditions can help firefighters, first responders and others prepare for a hotter, drier future.",
+  "description": "Droughts can create ideal conditions for wildfires. Dry trees and vegetation provide fuel. Low soil and air moisture make it easier for fires to spread quickly. In these conditions, a spark from lightning, electrical failures, human error or planned fires can quickly get out of control. As Earth\u2019s climate warms and precipitation patterns change, increasingly severe droughts will leave some areas of the world vulnerable to increasingly severe fires. Understanding how fires behave in dry conditions can help firefighters, first responders and others prepare for a hotter, drier future.",
   "keywords": "Drought, Fire Management, Human Geography, Natural Hazards, Fires, Climate Change, Earth, Freshwater",
   "date": "2019-07-09T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20190709-Droughts-m13253-Fires",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:44:42Z",
   "duration": 131.78,
   "source_file": {
@@ -202,5 +202,6 @@
     110.76,
     118.97,
     127.17
-  ]
+  ],
+  "pass_reason": "NASA news show, b-roll, model or recap; no close call on screen (or repeats a NASA Short already published)."
 }
