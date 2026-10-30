@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026093",
   "asset_id": "video:1026093",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "Hurricane Milton rescue",
   "harvested_at": "2026-10-27T15:50:47Z",
@@ -73,5 +73,6 @@
     68.5,
     73.57,
     78.64
-  ]
+  ],
+  "pass_reason": "Engineers clearing roads or repairing roofs after a storm; no danger or rescue"
 }

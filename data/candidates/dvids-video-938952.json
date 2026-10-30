@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-938952",
   "asset_id": "video:938952",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "Hurricane Helene rescue",
   "harvested_at": "2026-10-27T15:53:04Z",
@@ -176,5 +176,6 @@
     40.64,
     43.65,
     46.66
-  ]
+  ],
+  "pass_reason": "Helene response package with interviews and supply work; no single rescue, no outcome"
 }

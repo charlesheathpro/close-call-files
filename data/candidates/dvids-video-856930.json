@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-856930",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:18:42Z",
   "duration": 135.13,
   "source_file": {
@@ -387,5 +387,6 @@
     113.6,
     122.01,
     130.43
-  ]
+  ],
+  "pass_reason": "Crews on standby for Tropical Storm Kay; nothing happens on camera"
 }

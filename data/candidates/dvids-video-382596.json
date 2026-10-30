@@ -26,7 +26,7 @@
   "time_start": 1.56454,
   "aspect_ratio": "16:9",
   "id": "dvids-video-382596",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:46:46Z",
   "duration": 190.82,
   "source_file": {
@@ -309,5 +309,6 @@
     160.83,
     172.63,
     184.42
-  ]
+  ],
+  "pass_reason": "Training, ceremony or profile piece; no real incident"
 }

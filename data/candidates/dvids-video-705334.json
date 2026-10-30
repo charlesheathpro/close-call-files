@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-705334",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:05:29Z",
   "duration": 103.98,
   "source_file": {
@@ -261,5 +261,6 @@
     87.31,
     93.78,
     100.25
-  ]
+  ],
+  "pass_reason": "Preparation or shelter feature; nothing dangerous happens"
 }

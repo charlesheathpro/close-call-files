@@ -26,7 +26,7 @@
   "time_start": 4.69267,
   "aspect_ratio": "16:9",
   "id": "dvids-video-420554",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:39:48Z",
   "duration": 117.12,
   "source_file": {
@@ -71,5 +71,6 @@
     99.13,
     106.13,
     113.12
-  ]
+  ],
+  "pass_reason": "Bucket drops on First Creek Fire with no stated outcome; aerial firefighting already ran Oct 28 and was rejected again Oct 30"
 }
