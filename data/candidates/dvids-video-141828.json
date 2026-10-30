@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-141828",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:48:58Z",
   "duration": 225.86,
   "source_file": {
@@ -301,5 +301,6 @@
     190.14,
     204.23,
     218.31
-  ]
+  ],
+  "pass_reason": "Marine ground support feature; no event."
 }

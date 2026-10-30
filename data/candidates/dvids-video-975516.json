@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-975516",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:47:48Z",
   "duration": 314.75,
   "source_file": {
@@ -195,5 +195,6 @@
     265.15,
     284.79,
     304.43
-  ]
+  ],
+  "pass_reason": "Fitness assessment b-roll."
 }

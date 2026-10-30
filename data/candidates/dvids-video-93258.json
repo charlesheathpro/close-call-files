@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-93258",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:41:13Z",
   "duration": 449.75,
   "source_file": {
@@ -78,5 +78,6 @@
     379.68,
     407.51,
     435.34
-  ]
+  ],
+  "pass_reason": "Training exercise (buddy rushing)."
 }

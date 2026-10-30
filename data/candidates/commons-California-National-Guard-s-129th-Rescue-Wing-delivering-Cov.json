@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-California-National-Guard-s-129th-Rescue-Wing-delivering-Cov",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:31:19Z",
   "duration": 182.24,
   "source_file": {
@@ -56,5 +56,6 @@
     153.34,
     164.7,
     176.06
-  ]
+  ],
+  "pass_reason": "Test kit delivery; no danger."
 }

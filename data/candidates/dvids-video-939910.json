@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-939910",
   "asset_id": "video:939910",
-  "status": "new",
+  "status": "passed_over",
   "lane": "rescue",
   "matched_query": "Hurricane Milton rescue",
   "harvested_at": "2026-10-27T15:52:10Z",
@@ -137,5 +137,6 @@
     175.99,
     189.02,
     202.06
-  ]
+  ],
+  "pass_reason": "Mobilization b-roll on a tarmac; no rescue on screen."
 }
