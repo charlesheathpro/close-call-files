@@ -24,7 +24,8 @@ jobs:
         with: { path: ~/.cache/huggingface, key: whisper-base-en-v1 }
       - run: pip install requests pillow numpy faster-whisper
       - run: |
-          extra=""
+          # every run searches the full archive (all drama queries); pushes to triggers/harvest with "archive" take more
+          extra="--archive --limit 150"
           grep -qi archive triggers/harvest 2>/dev/null && [ "${{ github.event_name }}" = "push" ] && extra="--archive --limit 250"
           python pipeline/harvest.py $extra ${{ inputs.limit && format('--limit {0}', inputs.limit) || '' }}
         env:

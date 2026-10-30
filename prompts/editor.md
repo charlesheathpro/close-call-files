@@ -51,6 +51,19 @@ Good editing cannot save calm footage. A clip is only worth a Short if at least 
 
 Skip a routine hoist over calm water, a training run, or a clip where nothing in the picture looks dangerous, even if the release is fine. Use `drama_score` in the candidate (0 to 100, motion and contrast; under about 35 is usually calm footage) and your own look at the frame sheet. When in doubt, write fewer Shorts: three strong ones beat ten ordinary ones. Note in your summary which bar each Short clears.
 
+## 3b. What QA keeps rejecting (owner, Oct 30: fix the supply problem)
+
+Most rejections are choices the editor could have caught. Before writing a spec, rule out:
+- **No danger on screen:** milestones and firsts (a carrier's first landing), tests with no failure, calm wading or walking evacuees, satellite or ISS views of storms, slow static shots. The hook's danger must be visible in the first shot.
+- **A hook or title the footage does not deliver:** if the release says 3,000 gallons were dropped but the drop is never on screen, do not promise it.
+- **An outcome the release does not state:** copy how it ended from the release; never infer "to dry ground" or "safely" unless written there.
+- **Empty or wrong shots:** before you pick a shot, check its frame on the sheet (or pull frames with ffmpeg) for empty sky, empty deck, a subject cut off at the edge, or a blank fade. Each shot must show what its line says.
+- **Repeats:** no story type that was already published or queued in the last 3 days (check titles and `story_type` in data/shorts), and no second Short of the same event.
+- **Murky sources:** door-cam with heavy color noise, small letterboxed footage that needs fit for most of the runtime.
+- **Lines the footage cannot fill:** give every line enough distinct footage (the build fails when a line's shots are shorter than the words).
+
+Output per run: aim for 8 specs that clear the bar (it is fine to look at 25 or more candidates to find them), rescue lane first. Fewer strong ones still beat more weak ones.
+
 ## 4a. Built for retention and rewatches (read before writing any spec)
 
 YouTube pushes a Short further only when most of its test audience stays and watches to the end, and replays count as new views. Every spec is built for that:

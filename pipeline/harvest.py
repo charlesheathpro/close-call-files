@@ -408,11 +408,17 @@ def main():
     for aid, v in found.items():
         src = aid.split(":", 1)[0] if aid.startswith(("nasa:", "commons:")) else "dvids"
         by_lane.setdefault((v[0], src), []).append((aid, v))
+    # weighted by lane_mix: rescue performs best, so it gets the biggest share of each run
+    mix = config().get("lane_mix", {})
+    credit = {k: 0.0 for k in by_lane}
     mixed = []
     while any(by_lane.values()):
-        for lane in list(by_lane):
-            if by_lane[lane]:
-                mixed.append(by_lane[lane].pop(0))
+        live = [k for k in by_lane if by_lane[k]]
+        for k in live:
+            credit[k] += max(mix.get(k[0], 0.1), 0.05) / max(sum(1 for j in live if j[0] == k[0]), 1)
+        k = max(live, key=lambda j: credit[j])
+        credit[k] -= 1
+        mixed.append(by_lane[k].pop(0))
     found = dict(mixed)
     print(f"{len(found)} unseen assets; processing up to {limit}")
     if args.dry_run:
