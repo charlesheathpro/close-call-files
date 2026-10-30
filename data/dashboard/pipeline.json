@@ -6,7 +6,7 @@
     },
     {
       "stage": "Build failed",
-      "count": 0
+      "count": 1
     },
     {
       "stage": "Waiting for QA",
@@ -14,20 +14,20 @@
     },
     {
       "stage": "Sent back by QA",
-      "count": 4
+      "count": 2
     },
     {
       "stage": "Ready to upload",
-      "count": 5
+      "count": 1
     },
     {
       "stage": "Uploaded",
-      "count": 17
+      "count": 27
     },
     {
       "stage": "Dropped",
-      "count": 14
+      "count": 15
     }
   ],
-  "generated_at": "2026-10-29T03:26:28Z"
+  "generated_at": "2026-10-30T03:24:43Z"
 }

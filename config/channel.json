@@ -1116,5 +1116,5 @@
     "room_note": "Subtle big-room echo on the narrator (owner, Oct 27). Raise the decays a little for more room, lower for drier."
   },
   "uploads_enabled_at": "2026-10-27T07:41:56Z",
-  "limit_note": "Oct 28 (review Oct 29 UTC): the 09:16 UTC run posted 10 Shorts, then YouTube returned uploadLimitExceeded on every later run (09:17, 18:28, 22:50). The cap looks like about 10 uploads per rolling 24 hours. 10 actually uploaded that New York day, so daily_target stays 10. Deleted and re-uploaded videos count against the cap, so avoid re-uploads."
+  "limit_note": "Oct 29 (review Oct 30 UTC): uploads went through at 13:40 (5), 20:32 (4) and 01:20 UTC (1), then uploadLimitExceeded. That is 10 for the New York day, so daily_target stays 10. The cap behaves like about 10 uploads per rolling 24 hours. Deleted and re-uploaded videos count against the cap, so avoid re-uploads."
 }
