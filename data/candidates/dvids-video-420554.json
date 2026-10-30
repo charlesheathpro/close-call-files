@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:420554",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "helmet camera",
+  "title": "Washington National Guard pilots drop water on wildfires",
+  "description": "Helmet camera footage of Washington National Guard Black Hawk pilot and crew dipping and dropping buckets of water on the First Creek Fire near Chelan, Wash. The bucket has a 660 gallon capacity.",
+  "keywords": "fires, Wildfire, Washington National Guard, first creek fire, chelan, chelan complex, helicopter, National Guard, Washington, Black Hawk, aviation, firefighting",
+  "date": "2015-08-17T00:00:00-04:00",
+  "date_published": "2015-08-21T16:33:06-04:00",
+  "branch": "Joint",
+  "unit_name": "Joint Force Headquarters - Washington National Guard",
+  "credit": "Sgt. 1st Class Jason Kriess",
+  "category": "B-Roll",
+  "virin": "150817-Z-IK464-001",
+  "location": {
+    "city": "Chelan",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/420554/washington-national-guard-pilots-drop-water-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.69267,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-420554",
+  "status": "new",
+  "harvested_at": "2026-10-30T16:39:48Z",
+  "duration": 117.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102678293/DOD_102678293.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9038,
+    "size": 133883923
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.67,
+    59.93,
+    73.97,
+    82.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-420554.jpg",
+  "sheet_times": [
+    8.19,
+    15.19,
+    22.18,
+    29.18,
+    36.17,
+    43.17,
+    50.16,
+    57.16,
+    64.15,
+    71.15,
+    78.15,
+    85.14,
+    92.14,
+    99.13,
+    106.13,
+    113.12
+  ]
+}
