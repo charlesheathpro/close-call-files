@@ -1,0 +1,13 @@
+{
+  "short_id": "ccf-20261029-04",
+  "revision": 2,
+  "verdict": "reject",
+  "at": "2026-10-30T15:24:47Z",
+  "score": 6,
+  "notes": "Best opening flames of the batch, but the payoff is never on screen: 'All seven were pulled from the raft' plays over the cutter and an empty-looking raft, and 8 to 14s is a soft, distant boat half cut off by the crop. It is also the third burning-boat-and-raft story in two days (29-03 and 29-05 cover the same beat better), so it would look interchangeable.",
+  "fixes": [
+    "Hold this story until at least Nov 3 so it does not land beside 29-03 and 29-05.",
+    "Outcome line: use source footage of the Station Honolulu RB-M at the raft or survivors aboard if it exists; if the source never shows the pickup, drop the clip.",
+    "Line 3 (source 30.0 to 33.9) and line 4 (16.0 to 19.7): reframe so the burning boat sits inside the crop (try crop_x 0.3 for 30.0 to 33.9 and 0.75 for 16.0 to 19.7), or swap in the close flame shots near source 10 to 15."
+  ]
+}
