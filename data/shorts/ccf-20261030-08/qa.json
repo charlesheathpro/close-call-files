@@ -1,0 +1,14 @@
+{
+  "short_id": "ccf-20261030-08",
+  "revision": 3,
+  "verdict": "reject",
+  "at": "2026-10-31T23:17:25Z",
+  "score": 5,
+  "notes": "The impact is good but buried among static shots: 3.5 to 6.5s is an empty grid wall, 6.5 to 14s is the same wall and a tripod with the craft only briefly in frame, and 26 to 28s holds a still close-up of torn paper. Also the people visible at 30.5 to 34.5s may be engineers, which muddies the 'dummies strapped inside' claim, and there is no human stake.",
+  "fixes": [
+    "Line 2 and 3 (6.6 to 13.6s): replace the static wall/tripod shots (source 63.0 to 65.5, 59.2 to 60.9, 68.0 to 70.4) with replay angles of the craft swinging into the pad; fix the 1.7s shot flagged by validate_spec.",
+    "Line 1: after the 0 to 3.5s impact, cut to a second impact angle, not the empty wall at source 80.2 to 82.6.",
+    "Line 6 'The hit split the shell open': show the whole broken fuselage, not the 2.5s static close-up at source 114.2 to 116.7.",
+    "Only show cabin shots where the occupants are clearly dummies (as at 37.5s); drop source 110.4 to 112.9 and 131.1 to 133.6 if those are live engineers."
+  ]
+}
