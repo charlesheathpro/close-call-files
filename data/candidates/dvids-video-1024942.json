@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1024942",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:21:03Z",
   "duration": 228.53,
   "source_file": {
@@ -350,5 +350,6 @@
     192.4,
     206.65,
     220.9
-  ]
+  ],
+  "pass_reason": "Strong bodycam footage, but the release reports three deceased recovered; it is a tragedy, not a resolved rescue."
 }

@@ -26,7 +26,7 @@
   "time_start": 4.39237,
   "aspect_ratio": "16:9",
   "id": "dvids-video-459376",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:37:28Z",
   "duration": 68.27,
   "source_file": {
@@ -70,5 +70,6 @@
     57.86,
     61.83,
     65.79
-  ]
+  ],
+  "pass_reason": "Old FLIR over the sailboat then a dark fisheye cabin for most of the runtime; murky on a phone."
 }

@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "Air Station New Orleans rescue",
   "title": "Coast Guard rescues 2 adults, 2 children south of Southwest Pass",
-  "description": "The Coast Guard rescued four people, August 5, 2020, from a vessel taking on water 17 miles south of Southwest Pass near Venice, Louisiana. A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew and a Coast Guard Aviation Training Center Mobile, Alabama HC-144 Ocean Sentry airplane crew were diverted, along with a Coast Guard Station Venice 45-foot Response Boat—Medium boat crew directed to launch to assist in the search. (U.S. Coast Guard courtesy video)",
+  "description": "The Coast Guard rescued four people, August 5, 2020, from a vessel taking on water 17 miles south of Southwest Pass near Venice, Louisiana. A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew and a Coast Guard Aviation Training Center Mobile, Alabama HC-144 Ocean Sentry airplane crew were diverted, along with a Coast Guard Station Venice 45-foot Response Boat\u2014Medium boat crew directed to launch to assist in the search. (U.S. Coast Guard courtesy video)",
   "keywords": "rescue, USCG",
   "date": "2020-08-05T00:00:00-04:00",
   "date_published": "2020-08-07T09:01:13-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-762295",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:52:31Z",
   "duration": 50.05,
   "source_file": {
@@ -62,5 +62,6 @@
     41.81,
     44.9,
     48.0
-  ]
+  ],
+  "pass_reason": "Distant vertical clip of a response boat beside a capsized hull; people never visible."
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-743204",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:11:54Z",
   "duration": 87.42,
   "source_file": {
@@ -276,5 +276,6 @@
     73.34,
     78.77,
     84.21
-  ]
+  ],
+  "pass_reason": "Text cards on black only; no footage of the rescue."
 }
