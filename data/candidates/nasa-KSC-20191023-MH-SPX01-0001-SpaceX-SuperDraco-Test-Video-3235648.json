@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:KSC-20191023-MH_SPX01_0001_SpaceX_SuperDraco_Test_Video-3235648",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "SpaceX SuperDraco Test Video",
+  "description": "Test of Crew Dragon's upgraded launch escape system ahead of static fire and in-flight abort tests. Altogether, we are conducting hundreds of tests to verify the system's advanced capabilities to carry astronauts to safety in the unlikely event of an emergency.",
+  "keywords": "SpaceX, SuperDraco, Kennedy Space Center, KSC, Test, Launch Escape System, Commercial Crew Program, CCP",
+  "date": "2019-10-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20191023-MH_SPX01_0001_SpaceX_SuperDraco_Test_Video-3235648",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20191023-MH-SPX01-0001-SpaceX-SuperDraco-Test-Video-3235648",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:01:08Z",
+  "duration": 24.97,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20191023-MH_SPX01_0001_SpaceX_SuperDraco_Test_Video-3235648/KSC-20191023-MH_SPX01_0001_SpaceX_SuperDraco_Test_Video-3235648~orig.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.0
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20191023-MH-SPX01-0001-SpaceX-SuperDraco-Test-Video-3235648.jpg",
+  "sheet_times": [
+    0.76,
+    2.29,
+    3.82,
+    5.35,
+    6.88,
+    8.41,
+    9.94,
+    11.47,
+    13.0,
+    14.53,
+    16.06,
+    17.59,
+    19.11,
+    20.64,
+    22.17,
+    23.7
+  ]
+}

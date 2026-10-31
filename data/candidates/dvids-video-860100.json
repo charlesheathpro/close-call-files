@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:860100",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Blue Roof Install - Hurricane Ian",
+  "description": "Saturday, Oct. 9, 2022, the U.S. Army Corps of Engineer installed its first Blue Roof in Fort Myers Florida.  Operation Blue Roof is a priority mission managed by the U.S. Army Corps of Engineers (USACE) for FEMA. The goal of the Blue Roof program is to provide homeowners in disaster areas with fiber-reinforced, industrial-strength sheeting to protect storm-damaged roofs until homeowners can make permanent repairs. This program is a NO COST service for homeowners. Operation Blue Roof is designed to protect property, reduces temporary housing costs, and allows residents to remain in their homes while recovering from the storm. (U.S. Army Video by Thomas Spencer)",
+  "keywords": "FEMA, drone, Blue Roof, Blueroof, HurricaneIan22, USACE",
+  "date": "2022-10-08T00:00:00-04:00",
+  "date_published": "2022-10-09T09:35:45-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Jacksonville District",
+  "credit": "Thomas Spencer",
+  "category": "B-Roll",
+  "virin": "221008-A-BM355-1031",
+  "location": {
+    "city": "Fort Myers",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/860100/blue-roof-install-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-860100",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:55:20Z",
+  "duration": 86.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109260431/DOD_109260431.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 97074893
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.91,
+    24.26,
+    24.32,
+    37.5,
+    44.61,
+    50.08,
+    54.29,
+    62.33,
+    81.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      86.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-860100.jpg",
+  "sheet_times": [
+    2.69,
+    8.07,
+    13.46,
+    18.84,
+    24.22,
+    29.6,
+    34.99,
+    40.37,
+    45.75,
+    51.13,
+    56.52,
+    61.9,
+    67.28,
+    72.66,
+    78.05,
+    83.43
+  ]
+}

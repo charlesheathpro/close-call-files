@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:633878",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Michael",
+  "title": "823rd RED HORSE Squadron Work to Repair Tyndall Air Force Base",
+  "description": "Members of the 823rd RED HORSE Squadron, from Hurlburt Field, Florida work to repair a building damaged by Hurricane Michael on, Oct. 18, 2018. Multiple major commands have mobilized relief assets in an effort to restore operations after the hurricane caused catastrophic damage to the base. (U.S. Air Force video by Airman 1st Class Ryan Baumgart)",
+  "keywords": "ACC, Redhorse, Tyndall, hurricanemichael18, Red Horse, chaplain, mental health, First Sergeant",
+  "date": "2018-10-18T00:00:00-04:00",
+  "date_published": "2018-10-18T18:00:08-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Airman 1st Class Ryan M Baumgart",
+  "category": "B-Roll",
+  "virin": "181018-F-LM811-5002",
+  "location": {
+    "city": "Tyndall Air Force Base",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/633878/823rd-red-horse-squadron-work-repair-tyndall-air-force-base",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-633878",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:45:19Z",
+  "duration": 52.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106133150/DOD_106133150.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8668,
+    "size": 57794164
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.97,
+    12.21,
+    18.39,
+    24.76,
+    31.13,
+    35.14,
+    39.14,
+    44.28,
+    51.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      51.7
+    ],
+    "silence_ends": [
+      52.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-633878.jpg",
+  "sheet_times": [
+    1.63,
+    4.88,
+    8.13,
+    11.38,
+    14.63,
+    17.88,
+    21.13,
+    24.39,
+    27.64,
+    30.89,
+    34.14,
+    37.39,
+    40.64,
+    43.89,
+    47.15,
+    50.4
+  ]
+}

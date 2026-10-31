@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:910895",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "ice rescue",
+  "title": "Coast Guard rescues nine from ice floe on Lake Erie",
+  "description": "U.S. Coast Guard Air Station Detroit and Station Marblehead respond to a report of ice fishermen stranded on an ice floe near Catawba Island on Lake Erie, January 22, 2024. (U.S. Coast Guard courtesy video)",
+  "keywords": "Ice Rescue, lake erie, Air Station Detroit, Station Marblehead, ice floe, CoastGuardNewsWire",
+  "date": "2024-01-22T00:00:00-05:00",
+  "date_published": "2024-01-22T15:14:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 3rd Class Omar Faba",
+  "category": "B-Roll",
+  "virin": "240122-G-KY623-1001",
+  "location": {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "country": "United States",
+    "state_abbreviation": "OH",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/910895/coast-guard-rescues-nine-ice-floe-lake-erie",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-910895",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:33:55Z",
+  "duration": 76.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2401/DOD_110090085/DOD_110090085.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 91294824
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.45,
+    31.2,
+    76.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      76.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-910895.jpg",
+  "sheet_times": [
+    2.37,
+    7.1,
+    11.84,
+    16.58,
+    21.31,
+    26.05,
+    30.78,
+    35.52,
+    40.26,
+    44.99,
+    49.73,
+    54.46,
+    59.2,
+    63.94,
+    68.67,
+    73.41
+  ]
+}

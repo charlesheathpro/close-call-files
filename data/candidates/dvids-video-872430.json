@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:872430",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard rescues mariner in distress as wave capsizes vessel near mouth of Columbia River",
+  "description": "Coast Guard crews conduct multi-unit response to rescue a mariner after a wave capsizes the 32-foot disabled motor vessel Sand Piper near Astoria, OR, Friday, Feb. 3. An MH-60 Jayhawk helicopter crew of the Advanced Rescue Helicopter School and multiple 47-foot motor lifeboats of the National Motor Lifeboat School and Station Cape Disappointment. (U.S. Coast Guard video by Petty Officer 2nd Class Michael Clark)",
+  "keywords": "NMLBS, AHRS, CoastGuardNewsWire, SAR, Astoria, Cape Disappointment",
+  "date": "2023-02-03T00:00:00-05:00",
+  "date_published": "2023-02-03T20:32:35-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Michael Clark",
+  "category": "Package",
+  "virin": "230203-G-YE015-1001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/872430/coast-guard-rescues-mariner-distress-wave-capsizes-vessel-near-mouth-columbia-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-872430",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:27:23Z",
+  "duration": 42.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2302/DOD_109439090/DOD_109439090.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 43990275
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.17,
+    10.68,
+    26.63,
+    39.51,
+    41.27
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      26.6
+    ],
+    "silence_ends": [
+      10.7,
+      42.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-872430.jpg",
+  "sheet_times": [
+    1.32,
+    3.96,
+    6.61,
+    9.25,
+    11.89,
+    14.53,
+    17.17,
+    19.82,
+    22.46,
+    25.1,
+    27.74,
+    30.39,
+    33.03,
+    35.67,
+    38.31,
+    40.95
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:463953",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard rescues 3 from capsized yacht in Lake Erie",
+  "description": "A Coast Guard Air Station Detroit helicopter crew hoists three people from Lake Erie after the vessel they were aboard broke in two and capsized May 16, 2016. The aircrew rescued all three and safely returned them to shore. (U.S. Coast Guard video by Coast Guard Air Station Detroit)",
+  "keywords": "lake erie, Coast Guard, SAR, rescue, Detroit, helo, Canada",
+  "date": "2016-05-16T00:00:00-04:00",
+  "date_published": "2016-05-16T13:58:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160516-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Canada",
+    "state_abbreviation": null,
+    "country_abbreviation": "CA"
+  },
+  "page_url": "https://www.dvidshub.net/video/463953/coast-guard-rescues-3-capsized-yacht-lake-erie",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.39237,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-463953",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:27:56Z",
+  "duration": 158.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103306728/DOD_103306728.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7534,
+    "size": 151241093
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    16.42,
+    46.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-463953.jpg",
+  "sheet_times": [
+    9.19,
+    18.79,
+    28.39,
+    37.98,
+    47.58,
+    57.18,
+    66.78,
+    76.37,
+    85.97,
+    95.57,
+    105.17,
+    114.76,
+    124.36,
+    133.96,
+    143.56,
+    153.15
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:KSC-20190918-VP-MWC01-SPACEX-PARACHUTE",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "pad abort",
+  "title": "SpaceX Parachute Test",
+  "description": "Crew Dragon parachutes successfully deploy during latest development test that simulated a pad abort, where the vehicle is tumbling at low altitude before parachute deploy, validating SpaceX’s parachute models and margins.",
+  "keywords": "Crew Dragon, SpaceX",
+  "date": "2019-09-17T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190918-VP-MWC01-SPACEX-PARACHUTE",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190918-VP-MWC01-SPACEX-PARACHUTE",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:29:09Z",
+  "duration": 96.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190918-VP-MWC01-SPACEX-PARACHUTE/KSC-20190918-VP-MWC01-SPACEX-PARACHUTE~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 6.76,
+      "text": "Natural"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 29,
+  "audio": {
+    "silence_starts": [
+      91.7
+    ],
+    "silence_ends": [
+      96.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190918-VP-MWC01-SPACEX-PARACHUTE.jpg",
+  "sheet_times": [
+    3.01,
+    9.03,
+    15.06,
+    21.08,
+    27.1,
+    33.13,
+    39.15,
+    45.17,
+    51.19,
+    57.22,
+    63.24,
+    69.26,
+    75.29,
+    81.31,
+    87.33,
+    93.36
+  ]
+}

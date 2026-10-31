@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:418610",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue infant",
+  "title": "Coast Guard Medevacs Infant with Head Injury",
+  "description": "A Coast Guard aircrew medevacs an 8-month-old male and his mother after the child suffered a head injury in St. Helena Sound, S.C., Aug. 9, 2015. The child was taken to the Medical University of South Carolina for treatment. U.S. Coast Guard video.",
+  "keywords": "Mother, rescue swimmer, baby, injury, hoist, head, grounded, AST, helicopter, Coast Guard, South Carolina, flight, rescue, pilot, boat, USCG, flying, son, helo, infant",
+  "date": "2015-08-09T00:00:00-04:00",
+  "date_published": "2015-08-09T16:49:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150809-G-ZZ999-001",
+  "location": {
+    "city": "Hilton Head Island",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418610/coast-guard-medevacs-infant-with-head-injury",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.12543,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-418610",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:09:19Z",
+  "duration": 91.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102648977/DOD_102648977.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9069,
+    "size": 104779677
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.1,
+    12.88,
+    28.29,
+    51.18,
+    58.66,
+    65.47,
+    71.67
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      77.3,
+      80.3,
+      81.2
+    ],
+    "silence_ends": [
+      4.1,
+      80.2,
+      81.1,
+      90.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418610.jpg",
+  "sheet_times": [
+    6.83,
+    12.25,
+    17.66,
+    23.08,
+    28.49,
+    33.9,
+    39.32,
+    44.73,
+    50.15,
+    55.56,
+    60.98,
+    66.39,
+    71.8,
+    77.22,
+    82.63,
+    88.05
+  ]
+}

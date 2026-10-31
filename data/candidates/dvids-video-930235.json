@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:930235",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard rescues two from capsized vessel off Kodiak, Alaska",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Kodiak rescued two people in the water after their vessel capsized off Kodiak near Narrow Cape, Alaska, July 7, 2024. The survivors, a 17-year-old male and a 56-year-old male, were safely transferred in stable condition to awaiting EMS at Air Station Kodiak. Coast Guard courtesy video.",
+  "keywords": "Kodiak, Air Station Kodiak, USCG, Alaska",
+  "date": "2024-07-07T00:00:00-04:00",
+  "date_published": "2024-07-10T16:07:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240707-G-G0217-1000",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/930235/coast-guard-rescues-two-capsized-vessel-off-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-930235",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:26:43Z",
+  "duration": 167.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110434002/DOD_110434002-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 181326179
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    63.53,
+    96.46,
+    140.14
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      167.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-930235.jpg",
+  "sheet_times": [
+    5.22,
+    15.67,
+    26.11,
+    36.55,
+    47.0,
+    57.44,
+    67.88,
+    78.33,
+    88.77,
+    99.22,
+    109.66,
+    120.1,
+    130.55,
+    140.99,
+    151.44,
+    161.88
+  ]
+}

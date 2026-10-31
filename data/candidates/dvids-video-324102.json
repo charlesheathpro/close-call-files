@@ -1,0 +1,109 @@
+{
+  "asset_id": "video:324102",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "ice rescue",
+  "title": "Coast Guard Rescues Man Stranded on Lake Erie Ice Floe",
+  "description": "An aircrew from Coast Guard Air Station Detroit hoist a man aboard their helicopter after he became stranded on an ice floe in western Lake Erie, March 22, 2014.",
+  "keywords": "Ice, Sector Detroit, lake erie, Air Station Detroit, Coast Guard 9th District, hoist cam, rescue",
+  "date": "2014-03-22T00:00:00-04:00",
+  "date_published": "2014-03-22T14:04:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140322-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/324102/coast-guard-rescues-man-stranded-lake-erie-ice-floe",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-324102",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:36:53Z",
+  "duration": 37.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1403/DOD_101189616/DOD_101189616.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5236,
+    "size": 25123297
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.43,
+      "e": 6.43,
+      "text": "Fast get in to 30-ight."
+    },
+    {
+      "s": 6.43,
+      "e": 7.63,
+      "text": "If you're further look back on left,"
+    },
+    {
+      "s": 7.63,
+      "e": 9.63,
+      "text": "this is what we're in our two-up on."
+    },
+    {
+      "s": 9.63,
+      "e": 13.07,
+      "text": "Stay your back halfway up."
+    },
+    {
+      "s": 13.07,
+      "e": 19.1,
+      "text": "Just a little wheel."
+    },
+    {
+      "s": 19.1,
+      "e": 34.99,
+      "text": "You should float around."
+    },
+    {
+      "s": 34.99,
+      "e": 36.99,
+      "text": "Field transfer is secured."
+    }
+  ],
+  "scene_cuts": [
+    4.07,
+    37.67
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-324102.jpg",
+  "sheet_times": [
+    5.04,
+    7.12,
+    9.2,
+    11.27,
+    13.35,
+    15.43,
+    17.51,
+    19.58,
+    21.66,
+    23.74,
+    25.81,
+    27.89,
+    29.97,
+    32.05,
+    34.12,
+    36.2
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:JSC-Orion-2021-GA_infographic_animation4k",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "JSC-Orion-2021-GA_infographic_animation4k",
+  "description": "Orion split apart animation showing the Launch Abort System, Crew Module, and Service Module. Artemis I configuration.",
+  "keywords": "Orion, animation, infographic, split apart, solar wings, las, cm, sm",
+  "date": "2021-03-29T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/JSC-Orion-2021-GA_infographic_animation4k",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-JSC-Orion-2021-GA-infographic-animation4k",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:56:28Z",
+  "duration": 192.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/JSC-Orion-2021-GA_infographic_animation4k/JSC-Orion-2021-GA_infographic_animation4k~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    48.0,
+    96.03,
+    144.03
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      192.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-JSC-Orion-2021-GA-infographic-animation4k.jpg",
+  "sheet_times": [
+    5.99,
+    17.96,
+    29.93,
+    41.91,
+    53.88,
+    65.85,
+    77.82,
+    89.8,
+    101.77,
+    113.74,
+    125.72,
+    137.69,
+    149.66,
+    161.63,
+    173.61,
+    185.58
+  ]
+}

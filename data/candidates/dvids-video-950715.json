@@ -1,0 +1,113 @@
+{
+  "asset_id": "video:950715",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "Coast Guard rescues two mariners from sinking sailboat more than 100 miles off North Carolina coast",
+  "description": "A Coast Guard Air Station Elizabeth City MH-60 Jayhawk helicopter crew rescued two men approximately 130 miles east of Wilmington, N.C. after their 32-foot sailboat, the Walrus, began sinking Jan. 28, 2025. The crew hoisted the 2 individuals from the sinking vessel, and transported them to shore where they were reported in stable condition with no injuries. (U.S. Coast Guard video courtesy of Air Station Elizabeth City)",
+  "keywords": "Air Station Elizabeth City, sailboat",
+  "date": "2025-01-28T00:00:00-05:00",
+  "date_published": "2025-01-29T15:09:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "250128-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/950715/coast-guard-rescues-two-mariners-sinking-sailboat-more-than-100-miles-off-north-carolina-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-950715",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:19:32Z",
+  "duration": 44.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2501/DOD_110787106/DOD_110787106-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 47418698
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.57,
+      "e": 4.57,
+      "text": "Passover's ready."
+    },
+    {
+      "s": 4.57,
+      "e": 8.26,
+      "text": "You can't begin the whole project."
+    },
+    {
+      "s": 8.26,
+      "e": 9.26,
+      "text": "Project on site."
+    },
+    {
+      "s": 9.26,
+      "e": 11.26,
+      "text": "Sober's going outside the cabin door for a load check."
+    },
+    {
+      "s": 11.26,
+      "e": 15.34,
+      "text": "Passover's outside the cabin door."
+    },
+    {
+      "s": 15.34,
+      "e": 16.34,
+      "text": "Where's going down?"
+    }
+  ],
+  "scene_cuts": [
+    1.7,
+    4.84,
+    8.68,
+    17.32,
+    19.89,
+    24.99,
+    26.99,
+    31.23,
+    40.21
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      2.5,
+      17.3
+    ],
+    "silence_ends": [
+      3.1,
+      44.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-950715.jpg",
+  "sheet_times": [
+    1.38,
+    4.15,
+    6.92,
+    9.69,
+    12.45,
+    15.22,
+    17.99,
+    20.76,
+    23.52,
+    26.29,
+    29.06,
+    31.82,
+    34.59,
+    37.36,
+    40.13,
+    42.89
+  ]
+}

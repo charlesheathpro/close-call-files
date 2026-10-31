@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:1026270",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Los Angeles County Fire Department Search and Rescue Deploys to Panama in Earthquake Relief Efforts",
+  "description": "Los Angeles County Fire Department search and rescue personnel deployed to Panama to support recovery efforts following the earthquake in Sona, Veraguas, Panama, Oct. 11, 2026. As communities begin to rebuild, the goal is to help families feel safe, help communities recover and return to everyday life. (U.S. Army video by Pfc. Carolyn Dodge)",
+  "keywords": "earthquake, Panama, PanEarthquakeRelief",
+  "date": "2026-10-11T00:00:00-04:00",
+  "date_published": "2026-10-13T16:20:18-04:00",
+  "branch": "Joint",
+  "unit_name": "U.S. Southern Command",
+  "credit": "Pfc. Carolyn Dodge",
+  "category": "Video Productions",
+  "virin": "261013-A-LY455-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Panama",
+    "state_abbreviation": null,
+    "country_abbreviation": "PA"
+  },
+  "page_url": "https://www.dvidshub.net/video/1026270/los-angeles-county-fire-department-search-and-rescue-deploys-panama-earthquake-relief-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1026270",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:10:40Z",
+  "duration": 43.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055179/DOD_112055179.mp4",
+    "width": 1080,
+    "height": 1920,
+    "bitrate": 0,
+    "size": 50780227
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 2.08,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1026270.jpg",
+  "sheet_times": [
+    1.33,
+    3.99,
+    6.65,
+    9.31,
+    11.97,
+    14.63,
+    17.29,
+    19.95,
+    22.61,
+    25.27,
+    27.93,
+    30.59,
+    33.26,
+    35.92,
+    38.58,
+    41.24
+  ]
+}

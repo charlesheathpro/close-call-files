@@ -1,0 +1,115 @@
+{
+  "asset_id": "video:999764",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard rescues hiker who was trapped on a cliff side at God’s Thumb in Lincoln City",
+  "description": "A U.S. Coast Guard helicopter crew Air Facility Newport, Oregon rescues a hiker from a cliff side at God’s Thumb in Lincoln City, Oregon, March 14, 2026. The rescue was accomplished through the Coast Guards strong partnership with North Lincoln Fire and Rescue. (Video courtesy of U.S. Coast Guard)",
+  "keywords": "Air Facility Newport, Coast Guard helicopter crew",
+  "date": "2026-03-14T00:00:00-04:00",
+  "date_published": "2026-03-16T13:59:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class William Kirk",
+  "category": "B-Roll",
+  "virin": "260314-G-PV420-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/999764/coast-guard-rescues-hiker-who-trapped-cliff-side-gods-thumb-lincoln-city",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-999764",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:32:48Z",
+  "duration": 45.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111578571/DOD_111578571-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 47264280
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.42,
+      "e": 3.42,
+      "text": "Good altitude."
+    },
+    {
+      "s": 3.42,
+      "e": 4.42,
+      "text": "Yeah, hold on."
+    },
+    {
+      "s": 4.42,
+      "e": 25.3,
+      "text": "It occurred, it's cut to the right-off side."
+    },
+    {
+      "s": 25.3,
+      "e": 27.3,
+      "text": "The woman's survivor at the rail."
+    },
+    {
+      "s": 27.3,
+      "e": 35.95,
+      "text": "It occurred, it's cut to the right-off side."
+    },
+    {
+      "s": 35.95,
+      "e": 37.95,
+      "text": "She was survivor at the door."
+    }
+  ],
+  "scene_cuts": [
+    11.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      6.0,
+      9.5,
+      16.6,
+      22.9,
+      28.7,
+      30.9,
+      40.9
+    ],
+    "silence_ends": [
+      7.4,
+      12.5,
+      18.2,
+      23.8,
+      29.8,
+      34.4,
+      45.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-999764.jpg",
+  "sheet_times": [
+    1.4,
+    4.19,
+    6.99,
+    9.78,
+    12.58,
+    15.37,
+    18.16,
+    20.96,
+    23.75,
+    26.55,
+    29.34,
+    32.14,
+    34.93,
+    37.73,
+    40.52,
+    43.31
+  ]
+}

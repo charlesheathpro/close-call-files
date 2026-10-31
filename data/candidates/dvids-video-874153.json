@@ -1,0 +1,106 @@
+{
+  "asset_id": "video:874153",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "Coast Guard rescues 2 U.S. citizens from sinking vessel in the Mona Passage",
+  "description": "The crew of a Coast Guard MH-60T Jayhawk helicopter rescues two men, U.S. citizens, from a sinking 27-foot Robalo vessel in the Mona Passage Feb. 21, 2023.  The survivors, who were reportedly the only two persons aboard the vessel, were transported to Coast Guard Air Station Borinquen in Aguadilla, Puerto Rico. (U.S. Coast Guard video)",
+  "keywords": "sinking vessel, U.S. citizens, Air Station Borinquen, Mona Passage, CoastGuardNewsWire, Coast Guard, Puerto Rico",
+  "date": "2023-02-21T00:00:00-05:00",
+  "date_published": "2023-02-22T10:16:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Ricardo Castrodad",
+  "category": "B-Roll",
+  "virin": "230221-G-G0107-1001",
+  "location": {
+    "city": "Aguadilla",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/874153/coast-guard-rescues-2-us-citizens-sinking-vessel-mona-passage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-874153",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:14:38Z",
+  "duration": 50.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2302/DOD_109469732/DOD_109469732-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 54633902
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.62,
+      "e": 7.62,
+      "text": "We're going to go back here, best it's ready, whatever."
+    },
+    {
+      "s": 7.62,
+      "e": 13.74,
+      "text": "We get that ready to pick up, but it's just holding."
+    },
+    {
+      "s": 13.74,
+      "e": 17.74,
+      "text": "We'll just hang here until the Dan gets them off the boat and then we'll come in."
+    },
+    {
+      "s": 17.74,
+      "e": 21.57,
+      "text": "But now we're ready."
+    },
+    {
+      "s": 21.57,
+      "e": 49.42,
+      "text": "That's his holding, 5.4. So we're set for you."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.6,
+      19.4,
+      23.7,
+      32.2,
+      38.6
+    ],
+    "silence_ends": [
+      5.5,
+      12.8,
+      20.1,
+      30.6,
+      34.2,
+      42.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-874153.jpg",
+  "sheet_times": [
+    1.56,
+    4.69,
+    7.81,
+    10.94,
+    14.06,
+    17.19,
+    20.31,
+    23.44,
+    26.56,
+    29.69,
+    32.81,
+    35.94,
+    39.06,
+    42.19,
+    45.31,
+    48.44
+  ]
+}

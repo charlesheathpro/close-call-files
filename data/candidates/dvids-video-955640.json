@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:955640",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist camera",
+  "title": "Coast Guard Air Station Savannah rescues stranded boater near St. Helena Sound, South Carolina",
+  "description": "A Coast Guard Air Station Savannah helicopter crew hoists a 65-year-old man after his vessel became grounded near St. Helena Sound, South Carolina, March 15, 2025. The helicopter crew safely hoisted the man and transferred him to Beaufort County Rescue at Beaufort Executive Airport. (U.S. Coast Guard video, courtesy Air Station Savannah)",
+  "keywords": "Air Station Savannah, South Carolina (US State), hoist camera",
+  "date": "2025-03-15T03:45:00-04:00",
+  "date_published": "2025-03-18T08:55:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "250315-G-G0107-1001",
+  "location": {
+    "city": "St. Helena Sound",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/955640/coast-guard-air-station-savannah-rescues-stranded-boater-near-st-helena-sound-south-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-955640",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:37:37Z",
+  "duration": 185.44,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2503/DOD_110869606/DOD_110869606-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 200343299
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.62,
+      "e": 3.02,
+      "text": "So if you check my shoot completely ready, I have for a RIS"
+    },
+    {
+      "s": 3.02,
+      "e": 22.62,
+      "text": "deployment of the S"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      10.0,
+      19.3,
+      150.3,
+      152.5,
+      159.9
+    ],
+    "silence_ends": [
+      11.7,
+      20.4,
+      151.4,
+      157.8,
+      160.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-955640.jpg",
+  "sheet_times": [
+    5.78,
+    17.34,
+    28.9,
+    40.45,
+    52.01,
+    63.57,
+    75.13,
+    86.69,
+    98.25,
+    109.81,
+    121.36,
+    132.92,
+    144.48,
+    156.04,
+    167.6,
+    179.16
+  ]
+}

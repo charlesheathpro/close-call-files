@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:632557",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Michael",
+  "title": "Flying the Eye of Hurricane Michael",
+  "description": "Members of the 53rd Weather Reconnaissance Squadron flew into the eye of Hurricane Michael as it made landfall, Oct. 10, 2018. The Hurricane Hunters gather data from tropical cyclones, which is provided to the National Hurricane Center to assist in narrowing the path of the storm. (U.S. Air Force video by Master Sgt. Jessica Kendziorek) (The video speed was increased and a wing and unit patch was added.)",
+  "keywords": "AFRC, Keesler Air Force Base, U.S. Air Force Reserve, 403rd Wing, USAF Reserve, hurricanemichael18",
+  "date": "2018-10-10T00:00:00-04:00",
+  "date_published": "2018-10-14T09:10:19-04:00",
+  "branch": "Air Force",
+  "unit_name": "403rd Wing",
+  "credit": "Master Sgt. Jessica Kendziorek",
+  "category": "B-Roll",
+  "virin": "181011-F-WF462-1001",
+  "location": {
+    "city": "Keesler Air Force Base",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/632557/flying-eye-hurricane-michael",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-632557",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:45:17Z",
+  "duration": 84.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106116958/DOD_106116958.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10065,
+    "size": 106364515
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    84.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      84.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-632557.jpg",
+  "sheet_times": [
+    2.62,
+    7.87,
+    13.12,
+    18.37,
+    23.61,
+    28.86,
+    34.11,
+    39.36,
+    44.6,
+    49.85,
+    55.1,
+    60.35,
+    65.59,
+    70.84,
+    76.09,
+    81.34
+  ]
+}

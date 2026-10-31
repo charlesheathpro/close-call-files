@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:459376",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist heavy seas",
+  "title": "Coast Guard rescues 3 from storm-tossed sailboat",
+  "description": "A sailboat disabled by heavy seas and strong winds is approached by a Coast Guard aircrew aboard an MH-60 Jayhawk helicopter, 90 miles off the coast of St. Johns Island, Georgia, April 15, 2016. The aircrew rescued the three people aboard and transported them safely to shore. U.S. Coast Guard video.",
+  "keywords": "hoist, aircrew, wind, seas, sailboat, brunswick, AIR STATION CLEARWATER, St. Johns Island, helicopter, Coast Guard, Georgia, rescue, storm, USCG, helo, A&S",
+  "date": "2016-04-15T00:00:00-04:00",
+  "date_published": "2016-04-15T18:00:21-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160415-G-ZZ999-001",
+  "location": {
+    "city": "St. Simons Island",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/459376/coast-guard-rescues-3-storm-tossed-sailboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.39237,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-459376",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:37:28Z",
+  "duration": 68.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103216657/DOD_103216657.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9302,
+    "size": 79440588
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    31.4,
+    31.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-459376.jpg",
+  "sheet_times": [
+    6.37,
+    10.33,
+    14.29,
+    18.26,
+    22.22,
+    26.18,
+    30.14,
+    34.1,
+    38.06,
+    42.02,
+    45.98,
+    49.94,
+    53.9,
+    57.86,
+    61.83,
+    65.79
+  ]
+}

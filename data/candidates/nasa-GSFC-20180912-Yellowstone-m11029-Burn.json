@@ -1,0 +1,177 @@
+{
+  "asset_id": "nasa:GSFC_20180912_Yellowstone_m11029_Burn",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "lightning",
+  "title": "Yellowstone Burn Recovery",
+  "description": "A combination of lightning, drought and human activity caused fires to scorch more than one-third of Yellowstone National Park in the summer of 1988. Within a year, burn scars cast a sharp outline on the 793,880 acres affected by fire, distinguishing wide sections of recovering forest, meadows, grasslands and wetlands from unburned areas of the park. After more than two decades, satellite instruments can still detect these scars from space. In the time-lapse video below, a series of false-color images collected by USGS-NASA Landsat satellites from 1987 to 2018 show the burning and gradual regeneration of Yellowstone's forests following the 1988 fire season. Watch as burn scars (dark red) quickly replace large expanses of healthy green vegetation (dark green) by 1989. Notice how the scars slowly fade over time as new vegetation begins to grow and heal the landscape.  Landsat Project Scientist Jeff Masek has been studying the recovery of the forest after the 1988 Yellowstone fires. In the video below, he talks about how Landsat satellites detect the burn scars from space and distinguish them from healthy, un-burned forest and from new growth.",
+  "keywords": "Landsat, Forests, Fires, Forest Fires, Earth",
+  "date": "2018-09-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20180912_Yellowstone_m11029_Burn",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20180912-Yellowstone-m11029-Burn",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:55:14Z",
+  "duration": 130.4,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20180912_Yellowstone_m11029_Burn/GSFC_20180912_Yellowstone_m11029_Burn~orig.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 6.5,
+      "text": "In summer of 1988, a complex of fires broke out in Yellowstone National Park."
+    },
+    {
+      "s": 6.5,
+      "e": 13.0,
+      "text": "The fires actually consumed a huge amount of acreage and profoundly affected the ecology of the park."
+    },
+    {
+      "s": 13.0,
+      "e": 19.5,
+      "text": "And still to this day, as you can see in the images, the imprint of the fire remains."
+    },
+    {
+      "s": 19.5,
+      "e": 27.0,
+      "text": "The recovery is certainly going to take decades, if not centuries, to actually occur."
+    },
+    {
+      "s": 27.0,
+      "e": 32.0,
+      "text": "In these images, the vegetation, the healthy vegetation, is dark green."
+    },
+    {
+      "s": 32.0,
+      "e": 36.0,
+      "text": "That's the sign of tall, healthy forest."
+    },
+    {
+      "s": 36.0,
+      "e": 43.0,
+      "text": "And what you can see right after the fire is the very obvious fire scars, the dark reddish brown color."
+    },
+    {
+      "s": 43.0,
+      "e": 49.0,
+      "text": "So Landsat actually images the earth using a variety of spectral bands and different wavelengths."
+    },
+    {
+      "s": 49.0,
+      "e": 56.0,
+      "text": "Some of these wavelengths are not visible to the human eye, but are very useful for assessing the composition of the land surface."
+    },
+    {
+      "s": 56.0,
+      "e": 62.0,
+      "text": "The near-infrared wavelength, for example, is sensitive to leaf area because of the chlorophyll and leaves,"
+    },
+    {
+      "s": 62.0,
+      "e": 64.0,
+      "text": "tends to reflect a lot of light in the near-infrared."
+    },
+    {
+      "s": 64.0,
+      "e": 70.0,
+      "text": "The reflectance of the fire scars tends to be dominated by the char that's left on the ground."
+    },
+    {
+      "s": 70.0,
+      "e": 76.0,
+      "text": "The char, initially, tends to be fairly bright in the short-wave infrared."
+    },
+    {
+      "s": 76.0,
+      "e": 82.0,
+      "text": "So in this case, for example, we've assigned the short-wave infrared band to the red."
+    },
+    {
+      "s": 82.0,
+      "e": 87.0,
+      "text": "We've assigned the near-infrared band to the green, and we've assigned the green band to the blue."
+    },
+    {
+      "s": 87.0,
+      "e": 90.0,
+      "text": "And that creates this what we call false color image."
+    },
+    {
+      "s": 90.0,
+      "e": 96.0,
+      "text": "It's not exactly what your eye would see, but in this case it's quite convenient because the healthy vegetation shows up as green,"
+    },
+    {
+      "s": 96.0,
+      "e": 99.0,
+      "text": "and so we can sort of automatically interpret that."
+    },
+    {
+      "s": 99.0,
+      "e": 106.0,
+      "text": "One thing that's interesting about the Yellowstone site is that it's a very hostile site for forests."
+    },
+    {
+      "s": 106.0,
+      "e": 111.0,
+      "text": "It's high up, it has a short-growing season, it's quite dry."
+    },
+    {
+      "s": 111.0,
+      "e": 116.0,
+      "text": "And this is probably one reason why the recovery in that area has been so slow."
+    },
+    {
+      "s": 116.0,
+      "e": 120.0,
+      "text": "It's almost an area that's not really suitable to be forest in the first place."
+    },
+    {
+      "s": 120.0,
+      "e": 125.0,
+      "text": "And so now it's having a hard time recovering from those fires that are so severe."
+    }
+  ],
+  "scene_cuts": [
+    25.5,
+    46.27
+  ],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      126.1
+    ],
+    "silence_ends": [
+      130.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20180912-Yellowstone-m11029-Burn.jpg",
+  "sheet_times": [
+    4.06,
+    12.18,
+    20.3,
+    28.42,
+    36.53,
+    44.65,
+    52.77,
+    60.89,
+    69.01,
+    77.13,
+    85.25,
+    93.37,
+    101.48,
+    109.6,
+    117.72,
+    125.84
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:388701",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue infant",
+  "title": "Coast Guard Helicopter Medevacs Baby from Cruise Ship in Gulf of Mexico",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter crew hoists an 8-month-old baby girl suffering from seizures from a cruise ship in the Gulf of Mexico along with the baby's mother and nurse Jan. 26, 2015. U.S. Coast Guard video by Air Station Houston",
+  "keywords": "baby, Cruise, Galveston, Coast Guard rescue, MH-65D, medevac, rescue, USCG, infant",
+  "date": "2015-01-26T00:00:00-05:00",
+  "date_published": "2015-01-26T18:36:31-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150126-G-XX999-001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/388701/coast-guard-helicopter-medevacs-baby-cruise-ship-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-388701",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:09:34Z",
+  "duration": 173.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102197655/DOD_102197655.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9026,
+    "size": 198347802
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    35.67,
+    104.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      173.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-388701.jpg",
+  "sheet_times": [
+    9.3,
+    19.84,
+    30.38,
+    40.92,
+    51.47,
+    62.01,
+    72.55,
+    83.09,
+    93.64,
+    104.18,
+    114.72,
+    125.26,
+    135.81,
+    146.35,
+    156.89,
+    167.44
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "asset_id": "nasa:GSFC_20180912_Yellowstone_m11029_timelapse",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "lightning",
+  "title": "Yellowstone Burn Recovery Timelapse",
+  "description": "A combination of lightning, drought and human activity caused fires to scorch more than one-third of Yellowstone National Park in the summer of 1988. Within a year, burn scars cast a sharp outline on the 793,880 acres affected by fire, distinguishing wide sections of recovering forest, meadows, grasslands and wetlands from unburned areas of the park. After more than two decades, satellite instruments can still detect these scars from space. In the time-lapse video below, a series of false-color images collected by USGS-NASA Landsat satellites from 1987 to 2018 show the burning and gradual regeneration of Yellowstone's forests following the 1988 fire season. Watch as burn scars (dark red) quickly replace large expanses of healthy green vegetation (dark green) by 1989. Notice how the scars slowly fade over time as new vegetation begins to grow and heal the landscape.  Landsat Project Scientist Jeff Masek has been studying the recovery of the forest after the 1988 Yellowstone fires. In the video below, he talks about how Landsat satellites detect the burn scars from space and distinguish them from healthy, un-burned forest and from new growth.",
+  "keywords": "Landsat, Forests, Fires, Forest Fires, Earth",
+  "date": "2018-09-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20180912_Yellowstone_m11029_timelapse",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20180912-Yellowstone-m11029-timelapse",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:51:49Z",
+  "duration": 40.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20180912_Yellowstone_m11029_timelapse/GSFC_20180912_Yellowstone_m11029_timelapse~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 4.32,
+      "text": "In these images, the vegetation, the healthy vegetation, is dark green."
+    },
+    {
+      "s": 4.32,
+      "e": 8.0,
+      "text": "That's the sort of the sign of tall, healthy forest."
+    },
+    {
+      "s": 8.0,
+      "e": 11.52,
+      "text": "And what you can see right after the fire is the very obvious fire scar."
+    },
+    {
+      "s": 11.52,
+      "e": 14.32,
+      "text": "It's the dark reddish-brown color."
+    },
+    {
+      "s": 14.32,
+      "e": 18.56,
+      "text": "And then as you chart through time, what you're going to see is the recovery"
+    },
+    {
+      "s": 18.56,
+      "e": 23.36,
+      "text": "on the old fire scar as first grasses and then shrubs,"
+    },
+    {
+      "s": 23.36,
+      "e": 27.04,
+      "text": "and then finally some saplings and short trees come up."
+    },
+    {
+      "s": 27.04,
+      "e": 30.32,
+      "text": "But what's also interesting is that the years after the fire,"
+    },
+    {
+      "s": 30.32,
+      "e": 34.48,
+      "text": "we still don't see it back to its full potential."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 44,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20180912-Yellowstone-m11029-timelapse.jpg",
+  "sheet_times": [
+    1.26,
+    3.78,
+    6.31,
+    8.83,
+    11.35,
+    13.88,
+    16.4,
+    18.92,
+    21.44,
+    23.97,
+    26.49,
+    29.01,
+    31.54,
+    34.06,
+    36.58,
+    39.11
+  ]
+}

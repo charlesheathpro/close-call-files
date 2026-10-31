@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:870260",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Coast Guard surface, air units rescue 2 boaters following vessel capsizing near San Juan, Puerto Rico",
+  "description": "A Coast Guard surface and air unit combine efforts Jan. 4, 2023, to rescue two boaters from the water Wednesday morning, approximately six and a half nautical miles northeast of San Juan, Puerto Rico. Following the rescue, the Coast Guard boat crew transported the survivors to Coast Guard Base\r\nSan Juan where they were released and received by family members. (U.S. Coast guard video)",
+  "keywords": "CoastGuardNewsWire, SAR",
+  "date": "2023-01-04T00:00:00-05:00",
+  "date_published": "2023-01-04T14:43:18-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230104-G-G0107-1002",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/870260/coast-guard-surface-air-units-rescue-2-boaters-following-vessel-capsizing-near-san-juan-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-870260",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:11:35Z",
+  "duration": 69.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2301/DOD_109398420/DOD_109398420.mp4",
+    "width": 2048,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 61256659
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.88,
+    42.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      21.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-870260.jpg",
+  "sheet_times": [
+    2.17,
+    6.51,
+    10.85,
+    15.19,
+    19.54,
+    23.88,
+    28.22,
+    32.56,
+    36.9,
+    41.24,
+    45.58,
+    49.92,
+    54.26,
+    58.61,
+    62.95,
+    67.29
+  ]
+}

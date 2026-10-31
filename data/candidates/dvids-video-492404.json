@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:492404",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard, Partner Agencies Rescue 5 From Capsized Boat Off Carolina Beach, NC",
+  "description": "A 47-foot Motor Life Boat crew from U.S. Coast Guard Station Wrightsville Beach pulls aboard two men Saturday, Oct. 19, 2016, from the waters off Carolina Beach, North Carolina. Coast Guard and partner agencies rescued five people from a boat 3 miles from Carolina Beach and close to shore after their boat capsized. Three people stayed about the 20-foot vessel while two swam for shore. U.S. Coast Guard video by Petter Officer 3rd Class Joshua L. Canup.",
+  "keywords": "kure, SAR, search and rescue, beach, USCG, North, carolina",
+  "date": "2016-11-12T00:00:00-05:00",
+  "date_published": "2016-11-12T16:28:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Joshua Canup",
+  "category": "B-Roll",
+  "virin": "161112-G-DN496-001",
+  "location": {
+    "city": "Carolina Beach",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/492404/coast-guard-partner-agencies-rescue-5-capsized-boat-off-carolina-beach-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.42573,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-492404",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:29:13Z",
+  "duration": 52.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1611/DOD_103840913/DOD_103840913.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8908,
+    "size": 58999932
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    37.3,
+    37.4,
+    43.34
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      41.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-492404.jpg",
+  "sheet_times": [
+    5.91,
+    8.87,
+    11.83,
+    14.79,
+    17.75,
+    20.71,
+    23.67,
+    26.63,
+    29.59,
+    32.55,
+    35.51,
+    38.47,
+    41.43,
+    44.39,
+    47.35,
+    50.31
+  ]
+}

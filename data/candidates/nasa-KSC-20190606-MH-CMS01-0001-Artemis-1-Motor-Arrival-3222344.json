@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:KSC-20190606-MH-CMS01_0001-Artemis-1_Motor_Arrival-3222344",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Artemis-1 Motor Arrival",
+  "description": "Artemis-1 Motor Arrival at Kennedy Space Center",
+  "keywords": "Artemis-1, Orion, Northrop Grumman, LASF, Launch Abort System Facility, abort system, Artemis",
+  "date": "2019-06-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190606-MH-CMS01_0001-Artemis-1_Motor_Arrival-3222344",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190606-MH-CMS01-0001-Artemis-1-Motor-Arrival-3222344",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:52:15Z",
+  "duration": 145.33,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190606-MH-CMS01_0001-Artemis-1_Motor_Arrival-3222344/KSC-20190606-MH-CMS01_0001-Artemis-1_Motor_Arrival-3222344~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.53,
+    25.83,
+    35.3,
+    46.33,
+    61.0,
+    73.8,
+    108.9,
+    114.9,
+    122.33,
+    127.8,
+    136.43,
+    145.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      15.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190606-MH-CMS01-0001-Artemis-1-Motor-Arrival-3222344.jpg",
+  "sheet_times": [
+    4.53,
+    13.58,
+    22.63,
+    31.68,
+    40.73,
+    49.79,
+    58.84,
+    67.89,
+    76.94,
+    85.99,
+    95.05,
+    104.1,
+    113.15,
+    122.2,
+    131.26,
+    140.31
+  ]
+}

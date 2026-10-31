@@ -1,0 +1,58 @@
+{
+  "asset_id": "nasa:Orion_infographic_with_labels",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Orion Infographic With Labels",
+  "description": "Split apart animation showing labeled components of the Orion spacecraft.",
+  "keywords": "Orion, infographic, LAS, Service module, crew module, launch abort system, cm, sm",
+  "date": "2021-11-08T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/Orion_infographic_with_labels",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Orion-infographic-with-labels",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:10:17Z",
+  "duration": 72.04,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Orion_infographic_with_labels/Orion_infographic_with_labels~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      72.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-Orion-infographic-with-labels.jpg",
+  "sheet_times": [
+    2.24,
+    6.71,
+    11.18,
+    15.65,
+    20.12,
+    24.59,
+    29.06,
+    33.54,
+    38.01,
+    42.48,
+    46.95,
+    51.42,
+    55.89,
+    60.36,
+    64.83,
+    69.31
+  ]
+}

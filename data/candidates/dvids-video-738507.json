@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:738507",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard rescues woman from cliff near Cape Falcon, Ore.",
+  "description": "A Coast Guard aircrew hoist an injured woman Feb. 8, 2020, from a cliff side at Cape Falcon near Manzanita, Oregon. Rescue personnel were unable to reach her due to the steepness of the cliff. (U.S. Coast Guard video)",
+  "keywords": "hoist, Jayhawk, hiker, Cape Falcon, SAR, search and rescue, Oregon, rescue",
+  "date": "2020-02-08T00:00:00-05:00",
+  "date_published": "2020-02-08T20:07:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Steven Strohmaier",
+  "category": "B-Roll",
+  "virin": "200208-G-SG988-1122",
+  "location": {
+    "city": "Manzanita",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/738507/coast-guard-rescues-woman-cliff-near-cape-falcon-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-738507",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:31:36Z",
+  "duration": 120.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2002/DOD_107660091/DOD_107660091.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10051,
+    "size": 153213989
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 109.6,
+      "e": 116.53,
+      "text": "The hoist is off of him."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.3,
+      17.4,
+      51.3,
+      55.7,
+      76.2,
+      83.2,
+      90.8,
+      110.8
+    ],
+    "silence_ends": [
+      0.9,
+      7.2,
+      18.3,
+      52.2,
+      57.1,
+      77.0,
+      85.0,
+      94.8,
+      112.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-738507.jpg",
+  "sheet_times": [
+    3.74,
+    11.23,
+    18.72,
+    26.21,
+    33.69,
+    41.18,
+    48.67,
+    56.16,
+    63.64,
+    71.13,
+    78.62,
+    86.11,
+    93.59,
+    101.08,
+    108.57,
+    116.06
+  ]
+}

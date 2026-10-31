@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:969502",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard rescues 5 from capsized vessel near Freeport, Texas",
+  "description": "A Coast Guard Station Freeport 45-foot Response Boat–Medium crew rescues five people from the water near Freeport, Texas July 9, 2025. The five boaters were safely removed from the water after their vessel capsized and were transported to the Bridge Bait Marina near Freeport. (U.S. Coast Guard video, courtesy of Air Station Corpus Christi)",
+  "keywords": "USCG",
+  "date": "2025-07-09T08:07:00-04:00",
+  "date_published": "2025-07-09T13:15:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Luke Baker",
+  "category": "B-Roll",
+  "virin": "250709-G-G0108-1001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/969502/coast-guard-rescues-5-capsized-vessel-near-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-969502",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:23:40Z",
+  "duration": 20.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111138762/DOD_111138762-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21508063
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    20.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      20.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-969502.jpg",
+  "sheet_times": [
+    0.63,
+    1.88,
+    3.14,
+    4.39,
+    5.65,
+    6.9,
+    8.16,
+    9.41,
+    10.67,
+    11.92,
+    13.18,
+    14.43,
+    15.69,
+    16.95,
+    18.2,
+    19.46
+  ]
+}

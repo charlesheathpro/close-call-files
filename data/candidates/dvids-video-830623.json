@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:830623",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "Coast Guard rescues two fishermen from sinking vessel near Sitka, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew hoist two fishermen nine miles south of Sitka, Alaska, February 7, 2022. The fishermen were unable to secure the source of the flooding and the rescue swimmer advised the fisherman to abandon the ship. (U.S. Coast Guard photo by Air Station Sitka.)",
+  "keywords": "Winter, CoastGuardNewsWire, Coast Guard, SAR, USCG, Alaska",
+  "date": "2022-02-07T00:00:00-05:00",
+  "date_published": "2022-02-08T17:29:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220208-G-G0217-1001",
+  "location": {
+    "city": "Sitka",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/830623/coast-guard-rescues-two-fishermen-sinking-vessel-near-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-830623",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:14:55Z",
+  "duration": 186.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108800316/DOD_108800316-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 193767946
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 3.0,
+      "text": "I'm going to go back in the boat."
+    }
+  ],
+  "scene_cuts": [
+    88.99,
+    112.35,
+    136.97,
+    160.33,
+    168.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      13.1,
+      49.7
+    ],
+    "silence_ends": [
+      13.7,
+      186.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-830623.jpg",
+  "sheet_times": [
+    5.81,
+    17.44,
+    29.07,
+    40.69,
+    52.32,
+    63.94,
+    75.57,
+    87.2,
+    98.82,
+    110.45,
+    122.08,
+    133.7,
+    145.33,
+    156.95,
+    168.58,
+    180.21
+  ]
+}

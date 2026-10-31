@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:925981",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Clearwater rescue",
+  "title": "Coast Guard rescues child, 7 adults 36 miles offshore Boca Grande",
+  "description": "A Coast Guard Air Station Clearwater aircrew rescues a child and seven adults after their 28-foot boat capsized 36 miles west of Boca Grande, Florida, June 1, 2024. The aircrew hoisted each individual from the water and transported them to emergency medical services at Venice Municipal Airport. (U.S. Coast Guard video)",
+  "keywords": "hoist",
+  "date": "2024-06-01T00:00:00-04:00",
+  "date_published": "2024-06-03T11:37:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240601-G-G0107-1003",
+  "location": {
+    "city": "Boca Grande",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/925981/coast-guard-rescues-child-7-adults-36-miles-offshore-boca-grande",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-925981",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:51:44Z",
+  "duration": 17.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110352262/DOD_110352262.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21799783
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      17.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-925981.jpg",
+  "sheet_times": [
+    0.53,
+    1.58,
+    2.64,
+    3.69,
+    4.74,
+    5.8,
+    6.85,
+    7.91,
+    8.96,
+    10.01,
+    11.07,
+    12.12,
+    13.18,
+    14.23,
+    15.29,
+    16.34
+  ]
+}

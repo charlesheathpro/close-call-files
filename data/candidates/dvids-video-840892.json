@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:840892",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard rescues 2 stranded hikers from coastal cliff in Manzanita, OR",
+  "description": "A Coast Guard Sector Columbia River aircrew rescues two hikers from a coastal cliff near Neahkahnie Beach, OR, Monday, April 25. The hikers became stranded by rising tides after venturing down to their stranded position from a higher vantage point. (U.S. Coast Guard video by Petty Officer 3rd Class Michael Clark)",
+  "keywords": "MH-60, Jayhawk, hiker, Columbia River, inland SAR, CoastGuardNewsWire",
+  "date": "2022-04-25T00:00:00-04:00",
+  "date_published": "2022-04-26T15:55:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Michael Clark",
+  "category": "Package",
+  "virin": "220426-G-YE015-1001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/840892/coast-guard-rescues-2-stranded-hikers-coastal-cliff-manzanita",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-840892",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:31:32Z",
+  "duration": 49.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2204/DOD_108937723/DOD_108937723.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 58234892
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      49.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-840892.jpg",
+  "sheet_times": [
+    1.52,
+    4.55,
+    7.59,
+    10.63,
+    13.66,
+    16.7,
+    19.74,
+    22.77,
+    25.81,
+    28.85,
+    31.88,
+    34.92,
+    37.95,
+    40.99,
+    44.03,
+    47.06
+  ]
+}

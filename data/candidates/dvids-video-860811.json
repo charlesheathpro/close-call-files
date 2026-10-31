@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:860811",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard Cutter Isaac Mayo crew rescues stranded migrants",
+  "description": "U.S. Coast Guard Cutter Isaac Mayo's crew rescues nine Cubans and a dog stranded on Water Cay, Bahamas, Oct. 12, 2022. U.S. Coast Guard Cutter Manowar's crew transferred the people and dog to Bahamian authorities on Oct. 14, 2022. (U.S. Coast Guard video by Lt. Alex Cordes)",
+  "keywords": "Sector Key West, migrant interdiction, opsew, Cuba",
+  "date": "2022-10-12T00:00:00-04:00",
+  "date_published": "2022-10-14T23:52:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221012-G-G0107-1001",
+  "location": {
+    "city": "Water Cay",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/860811/coast-guard-cutter-isaac-mayo-crew-rescues-stranded-migrants",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-860811",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:07:40Z",
+  "duration": 53.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109269473/DOD_109269473-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 53541810
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 0.84,
+      "text": "How many you count?"
+    },
+    {
+      "s": 5.02,
+      "e": 8.24,
+      "text": "Mayo Harpoon, head count is gonna be more than five."
+    },
+    {
+      "s": 32.18,
+      "e": 35.81,
+      "text": "How often are we gonna..."
+    },
+    {
+      "s": 35.81,
+      "e": 37.81,
+      "text": "Mail our food, are you gonna..."
+    }
+  ],
+  "scene_cuts": [
+    8.4,
+    35.6,
+    38.7,
+    47.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-860811.jpg",
+  "sheet_times": [
+    1.66,
+    4.98,
+    8.29,
+    11.61,
+    14.93,
+    18.24,
+    21.56,
+    24.88,
+    28.19,
+    31.51,
+    34.83,
+    38.14,
+    41.46,
+    44.78,
+    48.09,
+    51.41
+  ]
+}

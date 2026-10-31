@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:816725",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ida",
+  "title": "Hurricane Ida Drone Blue Roof Install Baton Rouge",
+  "description": "Hurricane Ida Drone Blue Roof Install Baton Rouge, LA.",
+  "keywords": "#Ida #USACE",
+  "date": "2021-10-03T00:00:00-04:00",
+  "date_published": "2021-10-06T15:24:34-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Pacific Ocean Division",
+  "credit": "San Luciano Vera",
+  "category": "B-Roll",
+  "virin": "211003-D-RV424-928",
+  "location": {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/816725/hurricane-ida-drone-blue-roof-install-baton-rouge",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-816725",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:01:11Z",
+  "duration": 116.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2110/DOD_108613537/DOD_108613537-1280x720-2765k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2762,
+    "size": 40282739
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.47,
+    61.07,
+    80.23,
+    100.1
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-816725.jpg",
+  "sheet_times": [
+    3.63,
+    10.88,
+    18.14,
+    25.39,
+    32.64,
+    39.9,
+    47.15,
+    54.41,
+    61.66,
+    68.91,
+    76.17,
+    83.42,
+    90.68,
+    97.93,
+    105.19,
+    112.44
+  ]
+}

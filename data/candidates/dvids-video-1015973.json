@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:1015973",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire aerial",
+  "title": "MAFFS Fire Fighting Support",
+  "description": "B-roll footage shows two 302nd Airlift Wing MAFFS-equipped C-130H Hercules aircraft providing aerial firefighting support in Oregon, July 21, 2026. The aircraft, call signs MAFFS 2 and MAFFS 5, are positioned at Klamath Falls, Oregon, to support wildfire suppression efforts on the West Coast. (U.S. Air Force courtesy video)",
+  "keywords": "302nd Airlift Wing, USNORTHCOM U.S. Northern Command, DOWWFF26, MAFFS 2026, MAFFS  AEG",
+  "date": "2026-07-21T00:00:00-04:00",
+  "date_published": "2026-07-23T18:28:10-04:00",
+  "branch": "Joint",
+  "unit_name": "DoW Support to National Interagency Fire Center",
+  "credit": "Stacey Knott",
+  "category": "B-Roll",
+  "virin": "260721-F-F3649-1002",
+  "location": {
+    "city": "Klamath Falls",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1015973/maffs-fire-fighting-support",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1015973",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:01:31Z",
+  "duration": 24.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111859483/DOD_111859483-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 16640711
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.44,
+      "e": 19.32,
+      "text": "So, okay, I copy it and, you know, see the very southwest side, so that's the flank."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.1
+    ],
+    "silence_ends": [
+      2.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1015973.jpg",
+  "sheet_times": [
+    0.76,
+    2.29,
+    3.82,
+    5.35,
+    6.88,
+    8.41,
+    9.94,
+    11.47,
+    13.0,
+    14.53,
+    16.06,
+    17.59,
+    19.11,
+    20.64,
+    22.17,
+    23.7
+  ]
+}

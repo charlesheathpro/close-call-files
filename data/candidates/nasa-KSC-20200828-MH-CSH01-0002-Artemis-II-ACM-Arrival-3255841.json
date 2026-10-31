@@ -1,0 +1,81 @@
+{
+  "asset_id": "nasa:KSC-20200828-MH-CSH01_0002-Artemis_II_ACM_Arrival-3255841",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch abort",
+  "title": "Artemis II Attitude Control Motor (ACM) Arrival",
+  "description": "Artemis II Attitude Control Motor Arrival at KSC",
+  "keywords": "Artemis II, Artemis, Motor, ACM, Attitude Control Motor, LASF, Launch Abort System Facility, Launch Abort, Orion, Moon, Mars, Abort, Crew, Northrop Grumman, NG, LAS, Launch Abort System Grouping Schema",
+  "date": "2020-08-28T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200828-MH-CSH01_0002-Artemis_II_ACM_Arrival-3255841",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200828-MH-CSH01-0002-Artemis-II-ACM-Arrival-3255841",
+  "status": "new",
+  "harvested_at": "2026-10-30T23:55:28Z",
+  "duration": 130.23,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200828-MH-CSH01_0002-Artemis_II_ACM_Arrival-3255841/KSC-20200828-MH-CSH01_0002-Artemis_II_ACM_Arrival-3255841~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.07,
+    18.17,
+    29.6,
+    36.27,
+    42.0,
+    47.57,
+    52.9,
+    58.33,
+    65.17,
+    72.13,
+    77.5,
+    83.4,
+    89.4,
+    95.3,
+    108.0,
+    118.77,
+    124.4,
+    130.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      18.3,
+      22.1
+    ],
+    "silence_ends": [
+      14.8,
+      19.8,
+      23.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200828-MH-CSH01-0002-Artemis-II-ACM-Arrival-3255841.jpg",
+  "sheet_times": [
+    4.05,
+    12.16,
+    20.27,
+    28.38,
+    36.49,
+    44.6,
+    52.7,
+    60.81,
+    68.92,
+    77.03,
+    85.14,
+    93.25,
+    101.35,
+    109.46,
+    117.57,
+    125.68
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:888560",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "engine fire",
+  "title": "B-roll: MRF-D engineers participate in live-fire machine gun range",
+  "description": "U.S. Marines with Combat Logistics Company Bravo, Combat Logistics Battalion 1 (Reinforced), Marine Rotational Force – Darwin 23 fire M2 heavy machine guns at Mount Bundey Training Area, Northern Territory, Australia, June 13, 2023. Through consistent training to increase readiness, MRF-D remains postured to respond to crisis and contingency in the region.   (U.S. Marine Corps video by Cpl. Gabriel Antwiler)",
+  "keywords": "M2 heavy machine gun, CLB-1, MRF-D, USMC",
+  "date": "2023-06-13T00:00:00-04:00",
+  "date_published": "2023-07-02T09:02:22-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Rotational Force - Darwin",
+  "credit": "Cpl. Gabriel Antwiler",
+  "category": "B-Roll",
+  "virin": "230613-M-RK059-1001",
+  "location": {
+    "city": "Mount Bundey Training Area",
+    "state": "Northern Territory",
+    "country": "Australia",
+    "state_abbreviation": "NT",
+    "country_abbreviation": "AU"
+  },
+  "page_url": "https://www.dvidshub.net/video/888560/b-roll-mrf-d-engineers-participate-live-fire-machine-gun-range",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-888560",
+  "status": "new",
+  "harvested_at": "2026-10-31T00:46:59Z",
+  "duration": 112.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109733222/DOD_109733222.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 140760355
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.78,
+      "e": 3.78,
+      "text": "There you go, right there you go close it"
+    }
+  ],
+  "scene_cuts": [
+    5.71,
+    10.68,
+    15.39,
+    25.23,
+    29.9,
+    34.74,
+    39.62,
+    43.63,
+    47.76,
+    56.35,
+    64.86,
+    71.99,
+    77.62,
+    87.17,
+    95.14,
+    99.14,
+    103.14,
+    108.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.4,
+      5.3,
+      6.8,
+      53.8,
+      80.4,
+      83.7
+    ],
+    "silence_ends": [
+      1.2,
+      6.2,
+      8.5,
+      54.7,
+      81.1,
+      84.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-888560.jpg",
+  "sheet_times": [
+    3.5,
+    10.51,
+    17.52,
+    24.52,
+    31.53,
+    38.54,
+    45.55,
+    52.55,
+    59.56,
+    66.57,
+    73.57,
+    80.58,
+    87.59,
+    94.59,
+    101.6,
+    108.61
+  ]
+}
