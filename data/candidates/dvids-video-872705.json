@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-872705",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:34:14Z",
   "duration": 110.34,
   "source_file": {
@@ -66,5 +66,6 @@
     92.68,
     99.55,
     106.41
-  ]
+  ],
+  "pass_reason": "Night ice rescue, black frames with a spotlight."
 }

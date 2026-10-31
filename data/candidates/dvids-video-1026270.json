@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1026270",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:10:40Z",
   "duration": 43.07,
   "source_file": {
@@ -68,5 +68,6 @@
     35.92,
     38.58,
     41.24
-  ]
+  ],
+  "pass_reason": "Deployment package, no rescue on camera."
 }

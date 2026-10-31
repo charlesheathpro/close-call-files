@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-334854",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:30:21Z",
   "duration": 698.05,
   "source_file": {
@@ -1175,5 +1175,6 @@
     589.18,
     632.53,
     675.87
-  ]
+  ],
+  "pass_reason": "11 minutes of washed-out hoist cam over a brown cliff; Ecola cliff rescues already ran."
 }

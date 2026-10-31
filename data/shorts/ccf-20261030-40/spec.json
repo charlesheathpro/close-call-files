@@ -76,12 +76,12 @@
       "source_quote": "total rescued 214 people"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "priority": 2,
   "line_shots": [
     [
       {
-        "start": 40.6,
+        "start": 41.0,
         "end": 43.6,
         "layout": "crop",
         "crop_x": 0.55
@@ -91,6 +91,12 @@
         "end": 50.0,
         "layout": "crop",
         "crop_x": 0.5
+      },
+      {
+        "start": 21.0,
+        "end": 24.6,
+        "layout": "crop",
+        "crop_x": 0.55
       }
     ],
     [

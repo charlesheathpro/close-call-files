@@ -26,7 +26,7 @@
   "time_start": 1.25125,
   "aspect_ratio": "16:9",
   "id": "dvids-video-758103",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:50:21Z",
   "duration": 217.28,
   "source_file": {
@@ -487,5 +487,6 @@
     183.1,
     196.57,
     210.04
-  ]
+  ],
+  "pass_reason": "Egress training feature, no real event."
 }
