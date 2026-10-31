@@ -239,7 +239,7 @@ def credit_text(credit):
 
 ROUTINE = re.compile(r"\b(training|exercise|drill|ceremony|change of command|award|memorial|interview|press conference|"
                      r"briefing|graduation|retirement|visit|tour|promotion|reenlistment|recruit|band|concert|"
-                     r"psa|highlights|b-roll package|safety tips|demonstration|demo|lava dogs?|live[- ]fire|fire base|fire engine|fire protection|fire flight|fire in the hole|range \d+|muster|clears?|clean ?up|repairs?|route clearance|debris|monitors?|prepares?|preparation|standby|funding|greets?|invictus|army.navy|noble jump|trident juncture|redeploy\w*|homecoming|satellites?|from space|explainer|profile|spotlight|highlight reel|recap)\b", re.I)
+                     r"psa|highlights|b-roll package|safety tips|demonstration|demo|lava dogs?|live[- ]fire|fire base|fire engine|fire protection|fire flight|fire in the hole|range \d+|muster|clears?|clean ?up|repairs?|route clearance|debris|monitors?|prepares?|preparation|standby|funding|greets?|invictus|army.navy|noble jump|trident juncture|redeploy\w*|homecoming|satellites?|from space|explainer|blue roof|welcomes|puppy bowl|reunite|volunteer|profile|spotlight|highlight reel|recap)\b", re.I)
 HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog|dogs|cat|puppy|pet|horse)\b", 5),
          (r"\b(family|mother|father|elderly|grandmother)\b", 4), (r"rooftop|roof\b", 4),
          (r"\b(surf|waves|heavy seas|storm)\b", 3), (r"\b(on fire|caught fire|catches fire|boat fire|house fire|engine fire|burning|explosion|blaze)\b", 3),
