@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-08",
   "candidate_id": "nasa-2022-H1-V-Lift-CruiseDropTest-5",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "crash test",
   "music_mood": "hazards",
@@ -10,7 +10,7 @@
   "narration": [
     "NASA dropped a full-size air taxi onto the ground, with crash test dummies strapped inside.",
     "This was NASA's Langley Research Center in Hampton, Virginia.",
-    "The test vehicle was an electric air taxi design that takes off and lands straight up and down.",
+    "It was an electric air taxi design that lifts straight up.",
     "A giant steel gantry lifts the craft on cables, then lets go, so engineers control exactly how it hits.",
     "Cameras all around the pad caught the impact from every side.",
     "The hit split the shell open.",
@@ -24,16 +24,16 @@
   "line_shots": [
     [
       {
-        "start": 74.9,
-        "end": 77.4,
+        "start": 73.0,
+        "end": 76.4,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 77.4,
-        "end": 79.9,
+        "start": 76.4,
+        "end": 79.8,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.45
       }
     ],
     [
@@ -44,30 +44,24 @@
         "crop_x": 0.6
       },
       {
-        "start": 65.5,
-        "end": 68.0,
+        "start": 59.2,
+        "end": 60.9,
         "layout": "crop",
-        "crop_x": 0.65
+        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 61.1,
-        "end": 62.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
         "start": 68.0,
-        "end": 70.5,
+        "end": 70.4,
         "layout": "crop",
         "crop_x": 0.7
       },
       {
-        "start": 70.5,
-        "end": 72.7,
+        "start": 65.5,
+        "end": 67.9,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 0.6
       }
     ],
     [
@@ -152,8 +146,8 @@
         "crop_x": 0.55
       },
       {
-        "start": 73.0,
-        "end": 74.9,
+        "start": 70.4,
+        "end": 72.6,
         "layout": "crop",
         "crop_x": 0.55
       }

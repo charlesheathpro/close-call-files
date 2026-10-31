@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-303063",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:19:17Z",
   "duration": 202.84,
   "source_file": {
@@ -354,5 +354,6 @@
     170.72,
     183.37,
     196.01
-  ]
+  ],
+  "pass_reason": "Interview and still photos; the jet landing itself is never on video"
 }

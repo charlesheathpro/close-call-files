@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190918-VP-MWC01-SPACEX-PARACHUTE",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:29:09Z",
   "duration": 96.87,
   "source_file": {
@@ -60,5 +60,6 @@
     81.31,
     87.33,
     93.36
-  ]
+  ],
+  "pass_reason": "Test with no failure; splashdown and parachute stories are recent"
 }

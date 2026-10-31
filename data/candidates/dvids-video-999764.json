@@ -3,8 +3,8 @@
   "source": "dvids",
   "lane": "rescue",
   "matched_query": "cliff rescue",
-  "title": "Coast Guard rescues hiker who was trapped on a cliff side at God\u2019s Thumb in Lincoln City",
-  "description": "A U.S. Coast Guard helicopter crew Air Facility Newport, Oregon rescues a hiker from a cliff side at God\u2019s Thumb in Lincoln City, Oregon, March 14, 2026. The rescue was accomplished through the Coast Guards strong partnership with North Lincoln Fire and Rescue. (Video courtesy of U.S. Coast Guard)",
+  "title": "Coast Guard rescues hiker who was trapped on a cliff side at God’s Thumb in Lincoln City",
+  "description": "A U.S. Coast Guard helicopter crew Air Facility Newport, Oregon rescues a hiker from a cliff side at God’s Thumb in Lincoln City, Oregon, March 14, 2026. The rescue was accomplished through the Coast Guards strong partnership with North Lincoln Fire and Rescue. (Video courtesy of U.S. Coast Guard)",
   "keywords": "Air Facility Newport, Coast Guard helicopter crew",
   "date": "2026-03-14T00:00:00-04:00",
   "date_published": "2026-03-16T13:59:05-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-999764",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:32:48Z",
   "duration": 45.21,
   "source_file": {
@@ -112,5 +112,6 @@
     40.52,
     43.31
   ],
-  "editor_note": "Strong cliff hoist at God's Thumb, but cliff rescues ran Oct 28 and 29 and dvids-video-1008137 looks like the same event; write one of the two after Nov 2."
+  "editor_note": "Strong cliff hoist at God's Thumb, but cliff rescues ran Oct 28 and 29 and dvids-video-1008137 looks like the same event; write one of the two after Nov 2.",
+  "pass_reason": "Same place and story type as queued ccf-20261030-70 (God's Thumb cliff hoist)"
 }

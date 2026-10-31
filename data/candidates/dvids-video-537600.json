@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-537600",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:40:07Z",
   "duration": 114.94,
   "source_file": {
@@ -243,5 +243,6 @@
     96.56,
     103.71,
     110.86
-  ]
+  ],
+  "pass_reason": "Not a rescue or close call (recovery work, ceremony or feature)"
 }

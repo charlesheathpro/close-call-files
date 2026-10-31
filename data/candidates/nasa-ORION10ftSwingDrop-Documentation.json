@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ORION10ftSwingDrop-Documentation",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:19:30Z",
   "duration": 141.92,
   "source_file": {
@@ -83,5 +83,6 @@
     119.32,
     128.16,
     137.0
-  ]
+  ],
+  "pass_reason": "Water impact test with no failure; splashdown type ran Oct 30"
 }

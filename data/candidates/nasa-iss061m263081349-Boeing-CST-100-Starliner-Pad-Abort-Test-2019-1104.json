@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss061m263081349-Boeing-CST-100-Starliner-Pad-Abort-Test-2019-1104",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-30T23:53:25Z",
   "duration": 3392.9,
   "source_file": {
@@ -4932,5 +4932,6 @@
     2862.34,
     3074.36,
     3286.39
-  ]
+  ],
+  "used_by": "ccf-20261031-01"
 }

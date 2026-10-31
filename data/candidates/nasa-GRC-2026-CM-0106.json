@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2026-CM-0106",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:50:21Z",
   "duration": 179.0,
   "source_file": {
@@ -198,5 +198,6 @@
     150.61,
     161.77,
     172.92
-  ]
+  ],
+  "pass_reason": "Conceptual dramatization, not a real event"
 }

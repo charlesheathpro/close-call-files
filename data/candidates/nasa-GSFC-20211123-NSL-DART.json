@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20211123-NSL-DART",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:36:30Z",
   "duration": 3430.17,
   "source_file": {
@@ -3148,5 +3148,6 @@
     2893.78,
     3108.14,
     3322.49
-  ]
+  ],
+  "pass_reason": "Pre-launch talk show; no impact footage"
 }
