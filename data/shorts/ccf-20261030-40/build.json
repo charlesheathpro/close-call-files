@@ -1,7 +1,823 @@
 {
   "short_id": "ccf-20261030-40",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-10-30T23:53:30Z",
-  "error": "line 1: shots are 3.0, 4.7s even after extending, but the line needs 6.6s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-10-31T01:02:52Z",
+  "duration": 52.97,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Two hundred fourteen people were trapped at a mountain lake, with a wildfire closing in on every side.",
+      "start": 0.05,
+      "end": 6.61,
+      "words": [
+        {
+          "w": "Two",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "hundred",
+          "s": 0.37,
+          "e": 0.53
+        },
+        {
+          "w": "fourteen",
+          "s": 0.77,
+          "e": 1.17
+        },
+        {
+          "w": "people",
+          "s": 1.33,
+          "e": 1.65
+        },
+        {
+          "w": "were",
+          "s": 1.77,
+          "e": 1.89
+        },
+        {
+          "w": "trapped",
+          "s": 1.97,
+          "e": 2.21
+        },
+        {
+          "w": "at",
+          "s": 2.25,
+          "e": 2.33
+        },
+        {
+          "w": "a",
+          "s": 2.37,
+          "e": 2.45
+        },
+        {
+          "w": "mountain",
+          "s": 2.57,
+          "e": 2.77
+        },
+        {
+          "w": "lake,",
+          "s": 2.85,
+          "e": 3.49
+        },
+        {
+          "w": "with",
+          "s": 3.57,
+          "e": 3.65
+        },
+        {
+          "w": "a",
+          "s": 3.73,
+          "e": 3.81
+        },
+        {
+          "w": "wildfire",
+          "s": 3.89,
+          "e": 4.45
+        },
+        {
+          "w": "closing",
+          "s": 4.53,
+          "e": 4.93
+        },
+        {
+          "w": "in",
+          "s": 5.01,
+          "e": 5.09
+        },
+        {
+          "w": "on",
+          "s": 5.21,
+          "e": 5.33
+        },
+        {
+          "w": "every",
+          "s": 5.41,
+          "e": 5.73
+        },
+        {
+          "w": "side.",
+          "s": 5.89,
+          "e": 6.61
+        }
+      ]
+    },
+    {
+      "text": "It was the Creek Fire in California, and nobody knew they were there.",
+      "start": 6.69,
+      "end": 11.49,
+      "words": [
+        {
+          "w": "It",
+          "s": 6.69,
+          "e": 6.77
+        },
+        {
+          "w": "was",
+          "s": 6.85,
+          "e": 6.93
+        },
+        {
+          "w": "the",
+          "s": 7.01,
+          "e": 7.09
+        },
+        {
+          "w": "Creek",
+          "s": 7.17,
+          "e": 7.41
+        },
+        {
+          "w": "Fire",
+          "s": 7.49,
+          "e": 7.73
+        },
+        {
+          "w": "in",
+          "s": 7.81,
+          "e": 7.89
+        },
+        {
+          "w": "California,",
+          "s": 8.21,
+          "e": 8.93
+        },
+        {
+          "w": "and",
+          "s": 9.09,
+          "e": 9.25
+        },
+        {
+          "w": "nobody",
+          "s": 9.383,
+          "e": 9.65
+        },
+        {
+          "w": "knew",
+          "s": 9.73,
+          "e": 9.81
+        },
+        {
+          "w": "they",
+          "s": 9.89,
+          "e": 9.97
+        },
+        {
+          "w": "were",
+          "s": 10.05,
+          "e": 10.13
+        },
+        {
+          "w": "there.",
+          "s": 10.29,
+          "e": 11.49
+        }
+      ]
+    },
+    {
+      "text": "Overhead, an Air Force drone crew from Ohio was scanning through the smoke with an infrared camera.",
+      "start": 11.81,
+      "end": 17.49,
+      "words": [
+        {
+          "w": "Overhead,",
+          "s": 11.81,
+          "e": 12.13
+        },
+        {
+          "w": "an",
+          "s": 12.21,
+          "e": 12.37
+        },
+        {
+          "w": "Air",
+          "s": 12.45,
+          "e": 12.69
+        },
+        {
+          "w": "Force",
+          "s": 12.77,
+          "e": 12.85
+        },
+        {
+          "w": "drone",
+          "s": 13.01,
+          "e": 13.33
+        },
+        {
+          "w": "crew",
+          "s": 13.41,
+          "e": 13.49
+        },
+        {
+          "w": "from",
+          "s": 13.57,
+          "e": 14.05
+        },
+        {
+          "w": "Ohio",
+          "s": 14.17,
+          "e": 14.29
+        },
+        {
+          "w": "was",
+          "s": 14.37,
+          "e": 14.45
+        },
+        {
+          "w": "scanning",
+          "s": 14.69,
+          "e": 14.85
+        },
+        {
+          "w": "through",
+          "s": 14.89,
+          "e": 14.97
+        },
+        {
+          "w": "the",
+          "s": 15.01,
+          "e": 15.17
+        },
+        {
+          "w": "smoke",
+          "s": 15.33,
+          "e": 15.49
+        },
+        {
+          "w": "with",
+          "s": 15.57,
+          "e": 15.73
+        },
+        {
+          "w": "an",
+          "s": 15.81,
+          "e": 15.89
+        },
+        {
+          "w": "infrared",
+          "s": 16.21,
+          "e": 16.69
+        },
+        {
+          "w": "camera.",
+          "s": 17.33,
+          "e": 17.49
+        }
+      ]
+    },
+    {
+      "text": "On a lake inside the fire, the sensor operator spotted dots. He zoomed in. Cars. He zoomed in again. People.",
+      "start": 17.57,
+      "end": 27.09,
+      "words": [
+        {
+          "w": "On",
+          "s": 17.57,
+          "e": 17.65
+        },
+        {
+          "w": "a",
+          "s": 17.77,
+          "e": 17.89
+        },
+        {
+          "w": "lake",
+          "s": 18.09,
+          "e": 18.29
+        },
+        {
+          "w": "inside",
+          "s": 18.33,
+          "e": 18.41
+        },
+        {
+          "w": "the",
+          "s": 18.45,
+          "e": 18.77
+        },
+        {
+          "w": "fire,",
+          "s": 19.09,
+          "e": 19.25
+        },
+        {
+          "w": "the",
+          "s": 19.45,
+          "e": 19.65
+        },
+        {
+          "w": "sensor",
+          "s": 19.73,
+          "e": 20.13
+        },
+        {
+          "w": "operator",
+          "s": 20.21,
+          "e": 20.37
+        },
+        {
+          "w": "spotted",
+          "s": 20.61,
+          "e": 21.09
+        },
+        {
+          "w": "dots.",
+          "s": 21.33,
+          "e": 21.73
+        },
+        {
+          "w": "He",
+          "s": 21.85,
+          "e": 21.97
+        },
+        {
+          "w": "zoomed",
+          "s": 22.05,
+          "e": 22.29
+        },
+        {
+          "w": "in.",
+          "s": 22.37,
+          "e": 23.49
+        },
+        {
+          "w": "Cars.",
+          "s": 23.77,
+          "e": 24.21
+        },
+        {
+          "w": "He",
+          "s": 24.29,
+          "e": 24.45
+        },
+        {
+          "w": "zoomed",
+          "s": 24.53,
+          "e": 24.61
+        },
+        {
+          "w": "in",
+          "s": 24.69,
+          "e": 25.09
+        },
+        {
+          "w": "again.",
+          "s": 25.41,
+          "e": 26.13
+        },
+        {
+          "w": "People.",
+          "s": 26.21,
+          "e": 27.09
+        }
+      ]
+    },
+    {
+      "text": "Infrared reads heat, so the camera sees the ground through smoke that blinds a pilot.",
+      "start": 27.49,
+      "end": 32.37,
+      "words": [
+        {
+          "w": "Infrared",
+          "s": 27.49,
+          "e": 27.81
+        },
+        {
+          "w": "reads",
+          "s": 27.89,
+          "e": 28.21
+        },
+        {
+          "w": "heat,",
+          "s": 28.53,
+          "e": 28.69
+        },
+        {
+          "w": "so",
+          "s": 28.73,
+          "e": 28.81
+        },
+        {
+          "w": "the",
+          "s": 28.85,
+          "e": 29.17
+        },
+        {
+          "w": "camera",
+          "s": 29.25,
+          "e": 29.33
+        },
+        {
+          "w": "sees",
+          "s": 29.49,
+          "e": 29.57
+        },
+        {
+          "w": "the",
+          "s": 29.65,
+          "e": 29.89
+        },
+        {
+          "w": "ground",
+          "s": 29.97,
+          "e": 30.13
+        },
+        {
+          "w": "through",
+          "s": 30.21,
+          "e": 30.37
+        },
+        {
+          "w": "smoke",
+          "s": 30.53,
+          "e": 30.69
+        },
+        {
+          "w": "that",
+          "s": 30.77,
+          "e": 30.85
+        },
+        {
+          "w": "blinds",
+          "s": 31.01,
+          "e": 31.09
+        },
+        {
+          "w": "a",
+          "s": 31.17,
+          "e": 31.37
+        },
+        {
+          "w": "pilot.",
+          "s": 31.57,
+          "e": 32.37
+        }
+      ]
+    },
+    {
+      "text": "The first rescue flight was called off. That night, Army helicopters went in anyway, almost blind in the smoke.",
+      "start": 32.49,
+      "end": 39.89,
+      "words": [
+        {
+          "w": "The",
+          "s": 32.49,
+          "e": 32.61
+        },
+        {
+          "w": "first",
+          "s": 32.69,
+          "e": 32.85
+        },
+        {
+          "w": "rescue",
+          "s": 33.01,
+          "e": 33.33
+        },
+        {
+          "w": "flight",
+          "s": 33.41,
+          "e": 33.49
+        },
+        {
+          "w": "was",
+          "s": 33.61,
+          "e": 33.73
+        },
+        {
+          "w": "called",
+          "s": 33.81,
+          "e": 34.05
+        },
+        {
+          "w": "off.",
+          "s": 34.13,
+          "e": 35.01
+        },
+        {
+          "w": "That",
+          "s": 35.09,
+          "e": 35.33
+        },
+        {
+          "w": "night,",
+          "s": 35.57,
+          "e": 35.89
+        },
+        {
+          "w": "Army",
+          "s": 35.97,
+          "e": 36.05
+        },
+        {
+          "w": "helicopters",
+          "s": 36.45,
+          "e": 36.77
+        },
+        {
+          "w": "went",
+          "s": 36.85,
+          "e": 36.93
+        },
+        {
+          "w": "in",
+          "s": 37.01,
+          "e": 37.25
+        },
+        {
+          "w": "anyway,",
+          "s": 37.41,
+          "e": 38.13
+        },
+        {
+          "w": "almost",
+          "s": 38.21,
+          "e": 38.53
+        },
+        {
+          "w": "blind",
+          "s": 38.61,
+          "e": 38.69
+        },
+        {
+          "w": "in",
+          "s": 38.69,
+          "e": 38.77
+        },
+        {
+          "w": "the",
+          "s": 38.85,
+          "e": 38.93
+        },
+        {
+          "w": "smoke.",
+          "s": 39.17,
+          "e": 39.89
+        }
+      ]
+    },
+    {
+      "text": "There were more people than anyone expected. The ones left for the next trip were told to jump in the lake if the fire got too close.",
+      "start": 40.01,
+      "end": 47.81,
+      "words": [
+        {
+          "w": "There",
+          "s": 40.01,
+          "e": 40.13
+        },
+        {
+          "w": "were",
+          "s": 40.21,
+          "e": 40.29
+        },
+        {
+          "w": "more",
+          "s": 40.45,
+          "e": 40.69
+        },
+        {
+          "w": "people",
+          "s": 40.77,
+          "e": 41.01
+        },
+        {
+          "w": "than",
+          "s": 41.13,
+          "e": 41.25
+        },
+        {
+          "w": "anyone",
+          "s": 41.33,
+          "e": 41.97
+        },
+        {
+          "w": "expected.",
+          "s": 42.05,
+          "e": 42.941
+        },
+        {
+          "w": "The",
+          "s": 43.09,
+          "e": 43.33
+        },
+        {
+          "w": "ones",
+          "s": 43.41,
+          "e": 43.57
+        },
+        {
+          "w": "left",
+          "s": 43.61,
+          "e": 43.69
+        },
+        {
+          "w": "for",
+          "s": 43.73,
+          "e": 43.81
+        },
+        {
+          "w": "the",
+          "s": 43.89,
+          "e": 44.05
+        },
+        {
+          "w": "next",
+          "s": 44.13,
+          "e": 44.37
+        },
+        {
+          "w": "trip",
+          "s": 44.45,
+          "e": 44.53
+        },
+        {
+          "w": "were",
+          "s": 44.57,
+          "e": 44.65
+        },
+        {
+          "w": "told",
+          "s": 44.69,
+          "e": 44.85
+        },
+        {
+          "w": "to",
+          "s": 44.93,
+          "e": 45.09
+        },
+        {
+          "w": "jump",
+          "s": 45.17,
+          "e": 45.25
+        },
+        {
+          "w": "in",
+          "s": 45.29,
+          "e": 45.37
+        },
+        {
+          "w": "the",
+          "s": 45.41,
+          "e": 45.65
+        },
+        {
+          "w": "lake",
+          "s": 45.69,
+          "e": 45.77
+        },
+        {
+          "w": "if",
+          "s": 45.81,
+          "e": 45.89
+        },
+        {
+          "w": "the",
+          "s": 46.01,
+          "e": 46.13
+        },
+        {
+          "w": "fire",
+          "s": 46.21,
+          "e": 46.37
+        },
+        {
+          "w": "got",
+          "s": 46.45,
+          "e": 46.53
+        },
+        {
+          "w": "too",
+          "s": 46.61,
+          "e": 46.93
+        },
+        {
+          "w": "close.",
+          "s": 47.57,
+          "e": 47.81
+        }
+      ]
+    },
+    {
+      "text": "In three trips each, two helicopters flew out all two hundred fourteen people.",
+      "start": 47.89,
+      "end": 52.77,
+      "words": [
+        {
+          "w": "In",
+          "s": 47.89,
+          "e": 48.05
+        },
+        {
+          "w": "three",
+          "s": 48.13,
+          "e": 48.21
+        },
+        {
+          "w": "trips",
+          "s": 48.45,
+          "e": 48.85
+        },
+        {
+          "w": "each,",
+          "s": 49.17,
+          "e": 49.41
+        },
+        {
+          "w": "two",
+          "s": 49.49,
+          "e": 49.65
+        },
+        {
+          "w": "helicopters",
+          "s": 49.97,
+          "e": 50.37
+        },
+        {
+          "w": "flew",
+          "s": 50.45,
+          "e": 50.77
+        },
+        {
+          "w": "out",
+          "s": 50.85,
+          "e": 51.09
+        },
+        {
+          "w": "all",
+          "s": 51.17,
+          "e": 51.25
+        },
+        {
+          "w": "two",
+          "s": 51.33,
+          "e": 51.41
+        },
+        {
+          "w": "hundred",
+          "s": 51.49,
+          "e": 51.89
+        },
+        {
+          "w": "fourteen",
+          "s": 51.97,
+          "e": 52.45
+        },
+        {
+          "w": "people.",
+          "s": 52.69,
+          "e": 52.77
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 53.0
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.03
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.23
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -1.5
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261030-40/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261030-40-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261030-40/ccf-20261030-40.mp4"
 }
