@@ -26,7 +26,7 @@
   "time_start": 4.22553,
   "aspect_ratio": "16:9",
   "id": "dvids-video-428766",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:33:50Z",
   "duration": 92.74,
   "source_file": {
@@ -92,5 +92,6 @@
     78.49,
     83.99,
     89.49
-  ]
+  ],
+  "pass_reason": "ice rescue training medley, not a real rescue"
 }

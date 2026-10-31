@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-668938",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:50:02Z",
   "duration": 43.14,
   "source_file": {
@@ -106,5 +106,6 @@
     35.98,
     38.65,
     41.31
-  ]
+  ],
+  "pass_reason": "gray thermal of survivors, then black night hoist footage"
 }

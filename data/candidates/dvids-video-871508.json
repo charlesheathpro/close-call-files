@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "cliff rescue",
   "title": "Coast Guard rescues 17 Haitians left stranded by smugglers on Monito Island, Puerto Rico",
-  "description": "Coast Guard Cutter Richard Dixon’s small boat crew rescues one of 17 Haitian migrants Jan. 24, 2023, after the group was left abandoned by smugglers on the rocky cliffs of Monito Island, Puerto Rico. The survivors, eight men and nine women, were transferred to Ramey Sector U.S Border Patrol agents in Mayaguez, Puerto Rico. Monito Island is an uninhabited natural reserve located just off Mona Island, Puerto Rico in the middle of the Mona Passage. (U.S. Coast Guard video).",
+  "description": "Coast Guard Cutter Richard Dixon\u2019s small boat crew rescues one of 17 Haitian migrants Jan. 24, 2023, after the group was left abandoned by smugglers on the rocky cliffs of Monito Island, Puerto Rico. The survivors, eight men and nine women, were transferred to Ramey Sector U.S Border Patrol agents in Mayaguez, Puerto Rico. Monito Island is an uninhabited natural reserve located just off Mona Island, Puerto Rico in the middle of the Mona Passage. (U.S. Coast Guard video).",
   "keywords": "Sector San Juan, Monito Island, Coast Guard Cutter Richard Dixon, CoastGuardNewsWire, 17 Haitian migrants, rescue, Puerto Rico",
   "date": "2023-01-24T00:00:00-05:00",
   "date_published": "2023-01-25T12:53:05-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-871508",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:33:09Z",
   "duration": 61.47,
   "source_file": {
@@ -78,5 +78,6 @@
     51.44,
     55.25,
     59.06
-  ]
+  ],
+  "pass_reason": "one fixed camera behind the boat crew for 60s; the migrants on the cliff are specks and the pickup is barely visible"
 }

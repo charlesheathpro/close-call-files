@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-738507",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:31:36Z",
   "duration": 120.3,
   "source_file": {
@@ -88,5 +88,6 @@
     101.08,
     108.57,
     116.06
-  ]
+  ],
+  "pass_reason": "720p hoist cam with heavy color cast; third Oregon cliff hoist this week (God's Thumb used instead)"
 }
