@@ -6,28 +6,28 @@
     },
     {
       "stage": "Build failed",
-      "count": 1
+      "count": 2
     },
     {
       "stage": "Waiting for QA",
-      "count": 2
+      "count": 0
     },
     {
       "stage": "Sent back by QA",
-      "count": 2
+      "count": 5
     },
     {
       "stage": "Ready to upload",
-      "count": 1
+      "count": 3
     },
     {
       "stage": "Uploaded",
-      "count": 27
+      "count": 37
     },
     {
       "stage": "Dropped",
-      "count": 15
+      "count": 19
     }
   ],
-  "generated_at": "2026-10-30T03:24:43Z"
+  "generated_at": "2026-10-31T03:25:29Z"
 }
