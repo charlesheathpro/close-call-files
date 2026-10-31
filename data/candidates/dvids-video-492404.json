@@ -26,7 +26,7 @@
   "time_start": 4.42573,
   "aspect_ratio": "16:9",
   "id": "dvids-video-492404",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:29:13Z",
   "duration": 52.29,
   "source_file": {
@@ -71,5 +71,6 @@
     44.39,
     47.35,
     50.31
-  ]
+  ],
+  "pass_reason": "Aerial footage with burned-in crosshair HUD; people in the water are specks."
 }

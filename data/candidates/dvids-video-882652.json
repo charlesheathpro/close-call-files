@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-882652",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:01:22Z",
   "duration": 570.07,
   "source_file": {
@@ -1063,5 +1063,6 @@
     480.57,
     516.17,
     551.77
-  ]
+  ],
+  "pass_reason": "Simulated hoist training exercise."
 }

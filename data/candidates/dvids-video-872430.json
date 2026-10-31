@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-872430",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:27:23Z",
   "duration": 42.78,
   "source_file": {
@@ -74,5 +74,6 @@
     35.67,
     38.31,
     40.95
-  ]
+  ],
+  "pass_reason": "Same Feb. 3, 2023 Columbia River bar capsize as ccf-20261028-02, already published."
 }

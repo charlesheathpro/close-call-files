@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-160186",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:42:24Z",
   "duration": 189.5,
   "source_file": {
@@ -342,5 +342,6 @@
     159.47,
     171.28,
     183.09
-  ]
+  ],
+  "pass_reason": "Interview package with stock aerials; no rescue footage."
 }

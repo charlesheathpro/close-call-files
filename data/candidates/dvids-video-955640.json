@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-955640",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:37:37Z",
   "duration": 185.44,
   "source_file": {
@@ -85,5 +85,6 @@
     156.04,
     167.6,
     179.16
-  ]
+  ],
+  "pass_reason": "Washed-out hoist cam over calm marsh; routine pickup."
 }

@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "capsized vessel rescue",
   "title": "Coast Guard rescues 5 from capsized vessel near Freeport, Texas",
-  "description": "A Coast Guard Station Freeport 45-foot Response Boat–Medium crew rescues five people from the water near Freeport, Texas July 9, 2025. The five boaters were safely removed from the water after their vessel capsized and were transported to the Bridge Bait Marina near Freeport. (U.S. Coast Guard video, courtesy of Air Station Corpus Christi)",
+  "description": "A Coast Guard Station Freeport 45-foot Response Boat\u2013Medium crew rescues five people from the water near Freeport, Texas July 9, 2025. The five boaters were safely removed from the water after their vessel capsized and were transported to the Bridge Bait Marina near Freeport. (U.S. Coast Guard video, courtesy of Air Station Corpus Christi)",
   "keywords": "USCG",
   "date": "2025-07-09T08:07:00-04:00",
   "date_published": "2025-07-09T13:15:18-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-969502",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:23:40Z",
   "duration": 20.58,
   "source_file": {
@@ -68,5 +68,6 @@
     16.95,
     18.2,
     19.46
-  ]
+  ],
+  "pass_reason": "Black and white FLIR with burned-in HUD text; calm transfer between boats, people are small."
 }
