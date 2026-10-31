@@ -1,0 +1,15 @@
+{
+  "short_id": "ccf-20261031-01",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-10-31T15:23:39Z",
+  "score": 5,
+  "notes": "Strong story and every claim is sourced, but the first two seconds are empty blue sky (the capsule is a speck that leaves frame) and lines 3 to 5 sit on a blurred four-panel monitor feed. The real peak, the abort engines firing off the pad at source 1806, is buried in line 2.",
+  "fixes": [
+    "Line 1: open on the ignition. Use [1805.5-1808.4 crop 0.5] (engines light at 1806, capsule leaves the pad in a fireball), then [1823.9-1825.9 crop 0.5] (capsule streaking with flame). Drop 1830-1836.3: 1826-1831 and 1834-1836 are empty sky.",
+    "Line 2: use the calm pad shots only, e.g. [1795.0-1797.6 crop 0.5] and [1800.5-1803.2 crop 0.55]; remove 1806.2-1808.35 since it moves to line 1.",
+    "Lines 3 and 4: replace the four-panel monitor feed (1808.5 to 1823.8) with single-camera footage: [1831.8-1834.4 crop 0.5] (capsule pitching with flame) and the tracking shot [1837.0-1840.0 fit]. If there is not enough clean footage, shorten line 3 to one clause so it fits fewer shots.",
+    "Line 5 'Only two of its three main parachutes opened': use [1852.0-1854.6 crop 0.5] (the two red mains filling the frame) instead of the low-res monitor at 1837-1842.",
+    "Keep lines 6 to 8 as they are; heat shield drop, airbags and the landing on the desert floor read well. Loop: the last landing shot cuts back to the ignition fireball, which works."
+  ]
+}
