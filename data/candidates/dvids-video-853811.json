@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-853811",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:23:18Z",
   "duration": 212.01,
   "source_file": {
@@ -521,5 +521,6 @@
     178.46,
     191.68,
     204.9
-  ]
+  ],
+  "pass_reason": "rig fire shots include TV news footage (non-federal); rest is interviews"
 }

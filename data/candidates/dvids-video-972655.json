@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-972655",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:13:55Z",
   "duration": 442.04,
   "source_file": {
@@ -533,5 +533,6 @@
     400.15,
     427.74
   ],
-  "editor_note": "Swamped tug Sea Ranger with 4 aboard off Alaska, good hoist cam; too close to ccf-20261029-06 (4 crew, sinking boat, Alaska) going out now. Write after Nov 3. Oct 31: door-cam has strong color cast and chroma noise, and 4:3 pillarbox; only use if the danger (stern awash, source 220 to 260) outweighs the murk."
+  "editor_note": "Swamped tug Sea Ranger with 4 aboard off Alaska, good hoist cam; too close to ccf-20261029-06 (4 crew, sinking boat, Alaska) going out now. Write after Nov 3. Oct 31: door-cam has strong color cast and chroma noise, and 4:3 pillarbox; only use if the danger (stern awash, source 220 to 260) outweighs the murk.",
+  "pass_reason": "door-cam with heavy color noise for most of the runtime"
 }

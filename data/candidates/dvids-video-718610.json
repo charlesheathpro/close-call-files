@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-718610",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:55:35Z",
   "duration": 78.29,
   "source_file": {
@@ -223,5 +223,6 @@
     65.64,
     70.5,
     75.36
-  ]
+  ],
+  "pass_reason": "feature about life at sea; no event or outcome"
 }

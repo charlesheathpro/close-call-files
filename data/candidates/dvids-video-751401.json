@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-751401",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:14:19Z",
   "duration": 55.98,
   "source_file": {
@@ -199,5 +199,6 @@
     46.81,
     50.28,
     53.75
-  ]
+  ],
+  "pass_reason": "half interviews, door-cam color noise, and the sinking is never shown"
 }

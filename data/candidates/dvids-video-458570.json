@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-458570",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:04:24Z",
   "duration": 124.5,
   "source_file": {
@@ -137,5 +137,6 @@
     104.63,
     112.38,
     120.13
-  ]
+  ],
+  "pass_reason": "calm-water hoist, no visible danger"
 }

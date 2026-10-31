@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-992626",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:57:58Z",
   "duration": 51.23,
   "source_file": {
@@ -73,5 +73,6 @@
     42.81,
     45.98,
     49.15
-  ]
+  ],
+  "pass_reason": "soft FLIR at night; no visible danger in the picture"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-901143",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:25:17Z",
   "duration": 36.4,
   "source_file": {
@@ -99,5 +99,6 @@
     30.29,
     32.54,
     34.78
-  ]
+  ],
+  "pass_reason": "murky door-cam with color noise; the capsized catamaran is never on screen"
 }
