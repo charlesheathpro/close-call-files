@@ -1,0 +1,623 @@
+{
+  "short_id": "ccf-20261031-01",
+  "revision": 1,
+  "status": "ok",
+  "built_at": "2026-10-31T11:54:47Z",
+  "duration": 39.05,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "This capsule went from standing still to six hundred fifty miles an hour in five seconds.",
+      "start": 0.05,
+      "end": 5.77,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "capsule",
+          "s": 0.37,
+          "e": 0.77
+        },
+        {
+          "w": "went",
+          "s": 0.85,
+          "e": 0.93
+        },
+        {
+          "w": "from",
+          "s": 1.01,
+          "e": 1.09
+        },
+        {
+          "w": "standing",
+          "s": 1.17,
+          "e": 1.57
+        },
+        {
+          "w": "still",
+          "s": 1.65,
+          "e": 2.05
+        },
+        {
+          "w": "to",
+          "s": 2.21,
+          "e": 2.45
+        },
+        {
+          "w": "six",
+          "s": 2.53,
+          "e": 2.69
+        },
+        {
+          "w": "hundred",
+          "s": 2.77,
+          "e": 3.01
+        },
+        {
+          "w": "fifty",
+          "s": 3.17,
+          "e": 3.41
+        },
+        {
+          "w": "miles",
+          "s": 3.57,
+          "e": 3.81
+        },
+        {
+          "w": "an",
+          "s": 3.89,
+          "e": 3.97
+        },
+        {
+          "w": "hour",
+          "s": 4.09,
+          "e": 4.21
+        },
+        {
+          "w": "in",
+          "s": 4.29,
+          "e": 4.53
+        },
+        {
+          "w": "five",
+          "s": 4.61,
+          "e": 4.85
+        },
+        {
+          "w": "seconds.",
+          "s": 5.01,
+          "e": 5.77
+        }
+      ]
+    },
+    {
+      "text": "It was Boeing's Starliner, in a pad abort test at White Sands, New Mexico.",
+      "start": 6.05,
+      "end": 10.69,
+      "words": [
+        {
+          "w": "It",
+          "s": 6.05,
+          "e": 6.13
+        },
+        {
+          "w": "was",
+          "s": 6.21,
+          "e": 6.37
+        },
+        {
+          "w": "Boeing's",
+          "s": 6.45,
+          "e": 6.85
+        },
+        {
+          "w": "Starliner,",
+          "s": 7.01,
+          "e": 7.81
+        },
+        {
+          "w": "in",
+          "s": 7.89,
+          "e": 7.97
+        },
+        {
+          "w": "a",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "pad",
+          "s": 8.13,
+          "e": 8.29
+        },
+        {
+          "w": "abort",
+          "s": 8.37,
+          "e": 8.61
+        },
+        {
+          "w": "test",
+          "s": 8.69,
+          "e": 8.93
+        },
+        {
+          "w": "at",
+          "s": 9.01,
+          "e": 9.09
+        },
+        {
+          "w": "White",
+          "s": 9.17,
+          "e": 9.33
+        },
+        {
+          "w": "Sands,",
+          "s": 9.41,
+          "e": 9.73
+        },
+        {
+          "w": "New",
+          "s": 9.77,
+          "e": 9.85
+        },
+        {
+          "w": "Mexico.",
+          "s": 9.89,
+          "e": 10.69
+        }
+      ]
+    },
+    {
+      "text": "Its four abort engines push forty thousand pounds, to pull a crew away from a failing rocket.",
+      "start": 11.01,
+      "end": 16.61,
+      "words": [
+        {
+          "w": "Its",
+          "s": 11.01,
+          "e": 11.25
+        },
+        {
+          "w": "four",
+          "s": 11.33,
+          "e": 11.49
+        },
+        {
+          "w": "abort",
+          "s": 11.57,
+          "e": 11.89
+        },
+        {
+          "w": "engines",
+          "s": 11.97,
+          "e": 12.37
+        },
+        {
+          "w": "push",
+          "s": 12.45,
+          "e": 12.61
+        },
+        {
+          "w": "forty",
+          "s": 12.77,
+          "e": 13.13
+        },
+        {
+          "w": "thousand",
+          "s": 13.25,
+          "e": 13.57
+        },
+        {
+          "w": "pounds,",
+          "s": 13.65,
+          "e": 14.45
+        },
+        {
+          "w": "to",
+          "s": 14.49,
+          "e": 14.57
+        },
+        {
+          "w": "pull",
+          "s": 14.69,
+          "e": 14.77
+        },
+        {
+          "w": "a",
+          "s": 14.85,
+          "e": 14.93
+        },
+        {
+          "w": "crew",
+          "s": 15.05,
+          "e": 15.17
+        },
+        {
+          "w": "away",
+          "s": 15.33,
+          "e": 15.49
+        },
+        {
+          "w": "from",
+          "s": 15.57,
+          "e": 15.65
+        },
+        {
+          "w": "a",
+          "s": 15.73,
+          "e": 15.81
+        },
+        {
+          "w": "failing",
+          "s": 15.81,
+          "e": 16.13
+        },
+        {
+          "w": "rocket.",
+          "s": 16.33,
+          "e": 16.61
+        }
+      ]
+    },
+    {
+      "text": "Then it pitched around, and the parachutes started pulling out.",
+      "start": 17.17,
+      "end": 20.29,
+      "words": [
+        {
+          "w": "Then",
+          "s": 17.17,
+          "e": 17.33
+        },
+        {
+          "w": "it",
+          "s": 17.41,
+          "e": 17.49
+        },
+        {
+          "w": "pitched",
+          "s": 17.57,
+          "e": 17.81
+        },
+        {
+          "w": "around,",
+          "s": 17.89,
+          "e": 18.61
+        },
+        {
+          "w": "and",
+          "s": 18.65,
+          "e": 18.73
+        },
+        {
+          "w": "the",
+          "s": 18.73,
+          "e": 18.81
+        },
+        {
+          "w": "parachutes",
+          "s": 18.85,
+          "e": 19.33
+        },
+        {
+          "w": "started",
+          "s": 19.49,
+          "e": 19.65
+        },
+        {
+          "w": "pulling",
+          "s": 19.73,
+          "e": 19.89
+        },
+        {
+          "w": "out.",
+          "s": 19.97,
+          "e": 20.29
+        }
+      ]
+    },
+    {
+      "text": "Only two of its three main parachutes opened.",
+      "start": 21.25,
+      "end": 23.85,
+      "words": [
+        {
+          "w": "Only",
+          "s": 21.25,
+          "e": 21.57
+        },
+        {
+          "w": "two",
+          "s": 21.65,
+          "e": 21.81
+        },
+        {
+          "w": "of",
+          "s": 21.85,
+          "e": 21.93
+        },
+        {
+          "w": "its",
+          "s": 22.01,
+          "e": 22.13
+        },
+        {
+          "w": "three",
+          "s": 22.21,
+          "e": 22.37
+        },
+        {
+          "w": "main",
+          "s": 22.45,
+          "e": 22.61
+        },
+        {
+          "w": "parachutes",
+          "s": 22.69,
+          "e": 23.17
+        },
+        {
+          "w": "opened.",
+          "s": 23.25,
+          "e": 23.85
+        }
+      ]
+    },
+    {
+      "text": "Engineers build in backups for backups. Two good chutes still meant a stable ride down.",
+      "start": 24.13,
+      "end": 29.89,
+      "words": [
+        {
+          "w": "Engineers",
+          "s": 24.13,
+          "e": 24.69
+        },
+        {
+          "w": "build",
+          "s": 24.77,
+          "e": 24.93
+        },
+        {
+          "w": "in",
+          "s": 25.01,
+          "e": 25.09
+        },
+        {
+          "w": "backups",
+          "s": 25.25,
+          "e": 25.57
+        },
+        {
+          "w": "for",
+          "s": 25.65,
+          "e": 25.73
+        },
+        {
+          "w": "backups.",
+          "s": 25.81,
+          "e": 26.77
+        },
+        {
+          "w": "Two",
+          "s": 26.85,
+          "e": 26.93
+        },
+        {
+          "w": "good",
+          "s": 27.01,
+          "e": 27.17
+        },
+        {
+          "w": "chutes",
+          "s": 27.25,
+          "e": 27.57
+        },
+        {
+          "w": "still",
+          "s": 27.81,
+          "e": 28.05
+        },
+        {
+          "w": "meant",
+          "s": 28.09,
+          "e": 28.21
+        },
+        {
+          "w": "a",
+          "s": 28.25,
+          "e": 28.33
+        },
+        {
+          "w": "stable",
+          "s": 28.45,
+          "e": 28.61
+        },
+        {
+          "w": "ride",
+          "s": 28.69,
+          "e": 28.93
+        },
+        {
+          "w": "down.",
+          "s": 29.09,
+          "e": 29.89
+        }
+      ]
+    },
+    {
+      "text": "Next it dropped its heat shield, and airbags inflated underneath.",
+      "start": 29.97,
+      "end": 34.13,
+      "words": [
+        {
+          "w": "Next",
+          "s": 29.97,
+          "e": 30.29
+        },
+        {
+          "w": "it",
+          "s": 30.37,
+          "e": 30.45
+        },
+        {
+          "w": "dropped",
+          "s": 30.53,
+          "e": 30.69
+        },
+        {
+          "w": "its",
+          "s": 30.77,
+          "e": 30.93
+        },
+        {
+          "w": "heat",
+          "s": 31.05,
+          "e": 31.17
+        },
+        {
+          "w": "shield,",
+          "s": 31.37,
+          "e": 31.73
+        },
+        {
+          "w": "and",
+          "s": 31.81,
+          "e": 31.97
+        },
+        {
+          "w": "airbags",
+          "s": 32.09,
+          "e": 32.53
+        },
+        {
+          "w": "inflated",
+          "s": 32.61,
+          "e": 33.01
+        },
+        {
+          "w": "underneath.",
+          "s": 33.09,
+          "e": 34.13
+        }
+      ]
+    },
+    {
+      "text": "Starliner touched down safely on the desert floor, riding on two parachutes.",
+      "start": 34.29,
+      "end": 38.85,
+      "words": [
+        {
+          "w": "Starliner",
+          "s": 34.29,
+          "e": 34.85
+        },
+        {
+          "w": "touched",
+          "s": 34.93,
+          "e": 35.09
+        },
+        {
+          "w": "down",
+          "s": 35.17,
+          "e": 35.41
+        },
+        {
+          "w": "safely",
+          "s": 35.49,
+          "e": 35.81
+        },
+        {
+          "w": "on",
+          "s": 35.89,
+          "e": 35.97
+        },
+        {
+          "w": "the",
+          "s": 36.01,
+          "e": 36.09
+        },
+        {
+          "w": "desert",
+          "s": 36.13,
+          "e": 36.37
+        },
+        {
+          "w": "floor,",
+          "s": 36.45,
+          "e": 37.09
+        },
+        {
+          "w": "riding",
+          "s": 37.17,
+          "e": 37.49
+        },
+        {
+          "w": "on",
+          "s": 37.61,
+          "e": 37.73
+        },
+        {
+          "w": "two",
+          "s": 37.77,
+          "e": 37.85
+        },
+        {
+          "w": "parachutes.",
+          "s": 37.97,
+          "e": 38.85
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 39.07
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.016
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -1.7
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261031-01/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261031-01-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261031-01/ccf-20261031-01.mp4"
+}

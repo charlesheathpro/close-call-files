@@ -1,7 +1,658 @@
 {
   "short_id": "ccf-20261030-08",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-10-30T19:54:00Z",
-  "error": "line 1: shots are 4.9, 2.5s even after extending, but the line needs 6.4s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-10-31T11:53:06Z",
+  "duration": 38.97,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "NASA dropped a full-size air taxi onto the ground, with crash test dummies strapped inside.",
+      "start": 0.05,
+      "end": 5.97,
+      "words": [
+        {
+          "w": "NASA",
+          "s": 0.05,
+          "e": 0.45
+        },
+        {
+          "w": "dropped",
+          "s": 0.53,
+          "e": 0.85
+        },
+        {
+          "w": "a",
+          "s": 0.93,
+          "e": 1.01
+        },
+        {
+          "w": "full-size",
+          "s": 1.09,
+          "e": 1.65
+        },
+        {
+          "w": "air",
+          "s": 1.81,
+          "e": 1.97
+        },
+        {
+          "w": "taxi",
+          "s": 2.05,
+          "e": 2.45
+        },
+        {
+          "w": "onto",
+          "s": 2.53,
+          "e": 2.77
+        },
+        {
+          "w": "the",
+          "s": 2.81,
+          "e": 2.89
+        },
+        {
+          "w": "ground,",
+          "s": 2.93,
+          "e": 3.65
+        },
+        {
+          "w": "with",
+          "s": 3.73,
+          "e": 3.81
+        },
+        {
+          "w": "crash",
+          "s": 3.89,
+          "e": 4.21
+        },
+        {
+          "w": "test",
+          "s": 4.29,
+          "e": 4.53
+        },
+        {
+          "w": "dummies",
+          "s": 4.61,
+          "e": 5.01
+        },
+        {
+          "w": "strapped",
+          "s": 5.09,
+          "e": 5.33
+        },
+        {
+          "w": "inside.",
+          "s": 5.41,
+          "e": 5.97
+        }
+      ]
+    },
+    {
+      "text": "This was NASA's Langley Research Center in Hampton, Virginia.",
+      "start": 6.53,
+      "end": 9.81,
+      "words": [
+        {
+          "w": "This",
+          "s": 6.53,
+          "e": 6.61
+        },
+        {
+          "w": "was",
+          "s": 6.69,
+          "e": 6.85
+        },
+        {
+          "w": "NASA's",
+          "s": 6.93,
+          "e": 7.41
+        },
+        {
+          "w": "Langley",
+          "s": 7.49,
+          "e": 7.81
+        },
+        {
+          "w": "Research",
+          "s": 7.97,
+          "e": 8.29
+        },
+        {
+          "w": "Center",
+          "s": 8.37,
+          "e": 8.61
+        },
+        {
+          "w": "in",
+          "s": 8.77,
+          "e": 8.85
+        },
+        {
+          "w": "Hampton,",
+          "s": 8.93,
+          "e": 9.29
+        },
+        {
+          "w": "Virginia.",
+          "s": 9.33,
+          "e": 9.81
+        }
+      ]
+    },
+    {
+      "text": "It was an electric air taxi design that lifts straight up.",
+      "start": 10.37,
+      "end": 13.41,
+      "words": [
+        {
+          "w": "It",
+          "s": 10.37,
+          "e": 10.45
+        },
+        {
+          "w": "was",
+          "s": 10.53,
+          "e": 10.61
+        },
+        {
+          "w": "an",
+          "s": 10.69,
+          "e": 10.77
+        },
+        {
+          "w": "electric",
+          "s": 10.77,
+          "e": 11.25
+        },
+        {
+          "w": "air",
+          "s": 11.33,
+          "e": 11.49
+        },
+        {
+          "w": "taxi",
+          "s": 11.57,
+          "e": 11.89
+        },
+        {
+          "w": "design",
+          "s": 12.09,
+          "e": 12.29
+        },
+        {
+          "w": "that",
+          "s": 12.37,
+          "e": 12.45
+        },
+        {
+          "w": "lifts",
+          "s": 12.53,
+          "e": 12.77
+        },
+        {
+          "w": "straight",
+          "s": 12.93,
+          "e": 13.09
+        },
+        {
+          "w": "up.",
+          "s": 13.17,
+          "e": 13.41
+        }
+      ]
+    },
+    {
+      "text": "A giant steel gantry lifts the craft on cables, then lets go, so engineers control exactly how it hits.",
+      "start": 13.89,
+      "end": 20.85,
+      "words": [
+        {
+          "w": "A",
+          "s": 13.89,
+          "e": 13.97
+        },
+        {
+          "w": "giant",
+          "s": 14.13,
+          "e": 14.45
+        },
+        {
+          "w": "steel",
+          "s": 14.53,
+          "e": 14.77
+        },
+        {
+          "w": "gantry",
+          "s": 14.85,
+          "e": 15.33
+        },
+        {
+          "w": "lifts",
+          "s": 15.49,
+          "e": 15.69
+        },
+        {
+          "w": "the",
+          "s": 15.73,
+          "e": 15.81
+        },
+        {
+          "w": "craft",
+          "s": 15.81,
+          "e": 16.13
+        },
+        {
+          "w": "on",
+          "s": 16.21,
+          "e": 16.29
+        },
+        {
+          "w": "cables,",
+          "s": 16.37,
+          "e": 17.01
+        },
+        {
+          "w": "then",
+          "s": 17.09,
+          "e": 17.25
+        },
+        {
+          "w": "lets",
+          "s": 17.37,
+          "e": 17.49
+        },
+        {
+          "w": "go,",
+          "s": 17.57,
+          "e": 18.21
+        },
+        {
+          "w": "so",
+          "s": 18.29,
+          "e": 18.45
+        },
+        {
+          "w": "engineers",
+          "s": 18.53,
+          "e": 19.01
+        },
+        {
+          "w": "control",
+          "s": 19.09,
+          "e": 19.49
+        },
+        {
+          "w": "exactly",
+          "s": 19.57,
+          "e": 20.13
+        },
+        {
+          "w": "how",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "it",
+          "s": 20.37,
+          "e": 20.45
+        },
+        {
+          "w": "hits.",
+          "s": 20.45,
+          "e": 20.85
+        }
+      ]
+    },
+    {
+      "text": "Cameras all around the pad caught the impact from every side.",
+      "start": 21.49,
+      "end": 25.13,
+      "words": [
+        {
+          "w": "Cameras",
+          "s": 21.49,
+          "e": 21.97
+        },
+        {
+          "w": "all",
+          "s": 22.05,
+          "e": 22.21
+        },
+        {
+          "w": "around",
+          "s": 22.29,
+          "e": 22.53
+        },
+        {
+          "w": "the",
+          "s": 22.57,
+          "e": 22.65
+        },
+        {
+          "w": "pad",
+          "s": 22.69,
+          "e": 23.01
+        },
+        {
+          "w": "caught",
+          "s": 23.09,
+          "e": 23.25
+        },
+        {
+          "w": "the",
+          "s": 23.33,
+          "e": 23.41
+        },
+        {
+          "w": "impact",
+          "s": 23.61,
+          "e": 23.81
+        },
+        {
+          "w": "from",
+          "s": 23.89,
+          "e": 23.97
+        },
+        {
+          "w": "every",
+          "s": 24.13,
+          "e": 24.37
+        },
+        {
+          "w": "side.",
+          "s": 24.45,
+          "e": 25.13
+        }
+      ]
+    },
+    {
+      "text": "The hit split the shell open.",
+      "start": 25.41,
+      "end": 27.01,
+      "words": [
+        {
+          "w": "The",
+          "s": 25.41,
+          "e": 25.49
+        },
+        {
+          "w": "hit",
+          "s": 25.57,
+          "e": 25.81
+        },
+        {
+          "w": "split",
+          "s": 25.89,
+          "e": 26.21
+        },
+        {
+          "w": "the",
+          "s": 26.25,
+          "e": 26.33
+        },
+        {
+          "w": "shell",
+          "s": 26.37,
+          "e": 26.61
+        },
+        {
+          "w": "open.",
+          "s": 26.77,
+          "e": 27.01
+        }
+      ]
+    },
+    {
+      "text": "Air taxis are meant to carry people over cities, so NASA wants to know how they hold up in a crash.",
+      "start": 27.65,
+      "end": 33.25,
+      "words": [
+        {
+          "w": "Air",
+          "s": 27.65,
+          "e": 27.81
+        },
+        {
+          "w": "taxis",
+          "s": 27.89,
+          "e": 28.29
+        },
+        {
+          "w": "are",
+          "s": 28.37,
+          "e": 28.45
+        },
+        {
+          "w": "meant",
+          "s": 28.49,
+          "e": 28.61
+        },
+        {
+          "w": "to",
+          "s": 28.69,
+          "e": 28.77
+        },
+        {
+          "w": "carry",
+          "s": 28.85,
+          "e": 29.01
+        },
+        {
+          "w": "people",
+          "s": 29.09,
+          "e": 29.33
+        },
+        {
+          "w": "over",
+          "s": 29.41,
+          "e": 29.57
+        },
+        {
+          "w": "cities,",
+          "s": 29.65,
+          "e": 30.45
+        },
+        {
+          "w": "so",
+          "s": 30.53,
+          "e": 30.61
+        },
+        {
+          "w": "NASA",
+          "s": 30.69,
+          "e": 31.01
+        },
+        {
+          "w": "wants",
+          "s": 31.09,
+          "e": 31.25
+        },
+        {
+          "w": "to",
+          "s": 31.33,
+          "e": 31.41
+        },
+        {
+          "w": "know",
+          "s": 31.49,
+          "e": 31.57
+        },
+        {
+          "w": "how",
+          "s": 31.65,
+          "e": 31.81
+        },
+        {
+          "w": "they",
+          "s": 31.89,
+          "e": 31.97
+        },
+        {
+          "w": "hold",
+          "s": 32.05,
+          "e": 32.13
+        },
+        {
+          "w": "up",
+          "s": 32.21,
+          "e": 32.29
+        },
+        {
+          "w": "in",
+          "s": 32.33,
+          "e": 32.41
+        },
+        {
+          "w": "a",
+          "s": 32.41,
+          "e": 32.49
+        },
+        {
+          "w": "crash.",
+          "s": 32.53,
+          "e": 33.25
+        }
+      ]
+    },
+    {
+      "text": "The air taxi ended up a crumpled wreck, with its test dummies still strapped in their seats.",
+      "start": 33.57,
+      "end": 38.77,
+      "words": [
+        {
+          "w": "The",
+          "s": 33.57,
+          "e": 33.65
+        },
+        {
+          "w": "air",
+          "s": 33.73,
+          "e": 33.89
+        },
+        {
+          "w": "taxi",
+          "s": 33.97,
+          "e": 34.37
+        },
+        {
+          "w": "ended",
+          "s": 34.49,
+          "e": 34.61
+        },
+        {
+          "w": "up",
+          "s": 34.69,
+          "e": 34.77
+        },
+        {
+          "w": "a",
+          "s": 34.81,
+          "e": 34.89
+        },
+        {
+          "w": "crumpled",
+          "s": 34.93,
+          "e": 35.33
+        },
+        {
+          "w": "wreck,",
+          "s": 35.41,
+          "e": 36.05
+        },
+        {
+          "w": "with",
+          "s": 36.13,
+          "e": 36.21
+        },
+        {
+          "w": "its",
+          "s": 36.29,
+          "e": 36.37
+        },
+        {
+          "w": "test",
+          "s": 36.45,
+          "e": 36.69
+        },
+        {
+          "w": "dummies",
+          "s": 36.77,
+          "e": 37.17
+        },
+        {
+          "w": "still",
+          "s": 37.29,
+          "e": 37.41
+        },
+        {
+          "w": "strapped",
+          "s": 37.49,
+          "e": 37.81
+        },
+        {
+          "w": "in",
+          "s": 37.85,
+          "e": 37.93
+        },
+        {
+          "w": "their",
+          "s": 37.97,
+          "e": 38.05
+        },
+        {
+          "w": "seats.",
+          "s": 38.13,
+          "e": 38.77
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 39.0
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.03
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.23
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.5
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261030-08/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261030-08-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261030-08/ccf-20261030-08.mp4"
 }
