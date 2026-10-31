@@ -6,5 +6,6 @@
   "slot_day": "2026-10-31",
   "uploaded_at": "2026-10-31T01:15:21Z",
   "title": "214 people trapped by a wildfire",
-  "revision": 2
+  "revision": 2,
+  "comment_error": "YouTube API POST /commentThreads -> 403: {\n  \"error\": {\n    \"code\": 403,\n    \"message\": \"The comment thread could not be created due to insufficient permissions. The request might not be properly authorized.\",\n    \"errors\": [\n      {\n        \"message\": \"The comment thread could not be created due to"
 }
