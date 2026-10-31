@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:FD 20 1",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "Flight Day 20: To the Moon",
+  "description": "art001m1203391600 (Dec. 5, 2022) On flight day 20, Orion approached the Moon ahead of the return powered flyby burn that committed the spacecraft to splashdown on Sunday, Dec. 11.",
+  "keywords": "Artemis I resource reel, Artemis, Artemis I, Orion, Moon",
+  "date": "2022-12-05T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/FD%2020%201",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-FD-20-1",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:56Z",
+  "duration": 284.12,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/FD%2020%201/FD%2020%201~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 36,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      284.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-FD-20-1.jpg",
+  "sheet_times": [
+    8.86,
+    26.59,
+    44.32,
+    62.04,
+    79.77,
+    97.49,
+    115.22,
+    132.95,
+    150.67,
+    168.4,
+    186.12,
+    203.85,
+    221.58,
+    239.3,
+    257.03,
+    274.75
+  ]
+}

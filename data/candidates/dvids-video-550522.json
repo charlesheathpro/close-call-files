@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:550522",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Irma",
+  "title": "Hurricane Irma Impacts MCAS Beaufort",
+  "description": "Marine Corps Air Station Beaufort prepares for destructive weather conditions in anticipation of Hurricane Irma September 10, 2017. As Irma makes its way up the Southeast coastal line, the air station put in place procedures to prepare for base recovery which included moving the heavy equipment to a centralized location which will assist with conducting base cleanup if necessary. (Marine Corps Video by Lance Cpl. Parker Golz/Released)",
+  "keywords": "corporal, MCAS Beaufort, Cpl Lucerobonilla, Hurricane Irma, South Carolina, USMC, military",
+  "date": "2017-09-11T00:00:00-04:00",
+  "date_published": "2017-09-13T07:24:40-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Station Beaufort",
+  "credit": "Cpl. Rene Lucerobonilla",
+  "category": "B-Roll",
+  "virin": "170911-M-FW366-1001",
+  "location": {
+    "city": "Beaufort",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/550522/hurricane-irma-impacts-mcas-beaufort",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-550522",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:43:50Z",
+  "duration": 110.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104830402/DOD_104830402.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9701,
+    "size": 135220623
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.7,
+    5.71,
+    12.71,
+    33.73,
+    39.77,
+    46.78,
+    50.35,
+    57.36,
+    64.36,
+    70.37,
+    77.38,
+    80.38,
+    83.75,
+    90.76,
+    97.26,
+    100.4,
+    103.6,
+    108.61
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      108.7
+    ],
+    "silence_ends": [
+      0.7,
+      110.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-550522.jpg",
+  "sheet_times": [
+    3.42,
+    10.27,
+    17.11,
+    23.95,
+    30.8,
+    37.64,
+    44.48,
+    51.33,
+    58.17,
+    65.01,
+    71.86,
+    78.7,
+    85.54,
+    92.39,
+    99.23,
+    106.07
+  ]
+}

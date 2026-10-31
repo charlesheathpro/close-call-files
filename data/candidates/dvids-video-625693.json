@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:625693",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Clearwater rescue",
+  "title": "Coast Guard rescues 5 people from capsized boat near Cedar Key, Fla. ",
+  "description": "Coast Guard crew members aboard an MH-60 Jayhawk helicopter from Air Station Clearwater, Florida, hoist five capsized boaters 24 miles south west of Withlacoochee River, Saturday, Sept. 15, 2018. All the boaters were transported to the George T. Lewis Airport, in Cedar Key, Florida, with no reported injuries. (U.S. Coast Guard video.)",
+  "keywords": "AIR STATION CLEARWATER, St. Petersburg, distress call, VHF, Coast Guard, rescue",
+  "date": "2018-09-15T00:00:00-04:00",
+  "date_published": "2018-09-15T14:36:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180912-G-G0107-1002",
+  "location": {
+    "city": "Cedar Key",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625693/coast-guard-rescues-5-people-capsized-boat-near-cedar-key-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625693",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:16:28Z",
+  "duration": 87.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106025932/DOD_106025932.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8506,
+    "size": 93395065
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.59,
+    30.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      87.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-625693.jpg",
+  "sheet_times": [
+    2.73,
+    8.18,
+    13.63,
+    19.08,
+    24.53,
+    29.98,
+    35.43,
+    40.88,
+    46.34,
+    51.79,
+    57.24,
+    62.69,
+    68.14,
+    73.59,
+    79.04,
+    84.5
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:400607",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "life raft",
+  "title": "Coast Guard Rescues 2 from Sinking Shrimp Boat",
+  "description": "A Coast Guard aircrew from Air Station Savannah hoist two men from their life raft after their shrimp boat sank off the coast of Brunswick, Georgia, April 24, 2015. Both men were wearing their life jackets. U.S. Coast Guard video.",
+  "keywords": "hoist, sinking, Coast Guard rescue, brunswick, sunk, shrimp boat, helicopter, Coast Guard, rescue, USCG, helo, fishermen",
+  "date": "2015-04-24T00:00:00-04:00",
+  "date_published": "2015-04-24T16:00:54-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150424-G-ZZ999-001",
+  "location": {
+    "city": "Brunswick",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/400607/coast-guard-rescues-2-sinking-shrimp-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-400607",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:57:00Z",
+  "duration": 180.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102392291/DOD_102392291.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9079,
+    "size": 206910723
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      20.6,
+      48.1,
+      90.8,
+      176.2
+    ],
+    "silence_ends": [
+      4.0,
+      33.6,
+      82.6,
+      153.8,
+      180.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-400607.jpg",
+  "sheet_times": [
+    9.52,
+    20.5,
+    31.48,
+    42.46,
+    53.45,
+    64.43,
+    75.41,
+    86.39,
+    97.38,
+    108.36,
+    119.34,
+    130.33,
+    141.31,
+    152.29,
+    163.27,
+    174.26
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "asset_id": "video:458570",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard Rescues Fisherman After Boat Capsizes Off Oregon Coast",
+  "description": "A Coast Guard aircrew from Air Facility Newport rescued a man from a capsized boat about a mile west of Devil’s Punchbowl State Park, April 11, 2016.\r\nThe aircrew safely hoisted the man aboard the MH-65 Dolphin helicopter and transported him to the Air Facility in good condition. U.S. Coast Guard video courtesy of Air Facility Newport.",
+  "keywords": "Newport, Fisherman, Coast Guard, Oregon, rescue",
+  "date": "2016-04-11T00:00:00-04:00",
+  "date_published": "2016-04-12T11:14:51-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160411-G-ZZ999-001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/458570/coast-guard-rescues-fisherman-after-boat-capsizes-off-oregon-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-458570",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:04:24Z",
+  "duration": 124.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103200719/DOD_103200719.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8621,
+    "size": 136225456
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.33,
+      "e": 6.59,
+      "text": "And two is ready."
+    },
+    {
+      "s": 6.59,
+      "e": 8.85,
+      "text": "New condition, get out, put him down first."
+    },
+    {
+      "s": 8.85,
+      "e": 10.33,
+      "text": "Back to that."
+    },
+    {
+      "s": 10.33,
+      "e": 11.33,
+      "text": "Roger."
+    },
+    {
+      "s": 11.33,
+      "e": 13.09,
+      "text": "So it goes down just for the aircraft."
+    },
+    {
+      "s": 13.09,
+      "e": 17.66,
+      "text": "Here's position."
+    },
+    {
+      "s": 17.66,
+      "e": 19.04,
+      "text": "Copy, put the aircraft."
+    },
+    {
+      "s": 19.04,
+      "e": 21.14,
+      "text": "And two are in right 50."
+    },
+    {
+      "s": 21.14,
+      "e": 27.4,
+      "text": "So the aircraft."
+    },
+    {
+      "s": 27.4,
+      "e": 29.7,
+      "text": "50 is for the top two down."
+    },
+    {
+      "s": 29.7,
+      "e": 30.7,
+      "text": "Two are in right."
+    },
+    {
+      "s": 30.7,
+      "e": 31.7,
+      "text": "OK."
+    },
+    {
+      "s": 31.7,
+      "e": 32.7,
+      "text": "So it was 50."
+    }
+  ],
+  "scene_cuts": [
+    4.4,
+    120.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.2,
+      120.2
+    ],
+    "silence_ends": [
+      4.4,
+      124.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-458570.jpg",
+  "sheet_times": [
+    3.88,
+    11.63,
+    19.38,
+    27.13,
+    34.88,
+    42.63,
+    50.38,
+    58.13,
+    65.88,
+    73.63,
+    81.38,
+    89.13,
+    96.88,
+    104.63,
+    112.38,
+    120.13
+  ]
+}

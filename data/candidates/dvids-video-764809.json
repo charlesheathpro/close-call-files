@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:764809",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Laura",
+  "title": "Hurricane Hunters fly Hurricane Laura",
+  "description": "A crew from the 53rd Weather Reconnaissance Squadron flies a mission into Hurricane Laura from Charleston International Airport, S.C. Aug. 25, 2020. The Hurricane Hunters flew their specially equipped WC-130J Super Hercules into tropical systems to collect data for the National Hurricane Center to use to create more accurate forecast models. (U.S. Air Force video by Senior Airman Kristen Pittman)",
+  "keywords": "Keesler AFB, 53rd WRS, U.S. Air Force Reserve, laura, 403rd Wing, ReserveReady, reserveresilient, Weather Ready, Hurricane Laura, Hurricane Hunters, Gulf of Mexico",
+  "date": "2020-08-25T00:00:00-04:00",
+  "date_published": "2020-08-26T07:41:11-04:00",
+  "branch": "Air Force",
+  "unit_name": "403rd Wing",
+  "credit": "Senior Airman Kristen Pittman",
+  "category": "B-Roll",
+  "virin": "200825-F-KV687-1002",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/764809/hurricane-hunters-fly-hurricane-laura",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-764809",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:43:44Z",
+  "duration": 431.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107960540/DOD_107960540-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6246,
+    "size": 340240808
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.14,
+    17.08,
+    22.49,
+    33.37,
+    48.18,
+    57.72,
+    143.91,
+    167.03
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      143.9
+    ],
+    "silence_ends": [
+      431.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-764809.jpg",
+  "sheet_times": [
+    13.47,
+    40.4,
+    67.33,
+    94.26,
+    121.19,
+    148.12,
+    175.05,
+    201.99,
+    228.92,
+    255.85,
+    282.78,
+    309.71,
+    336.64,
+    363.57,
+    390.51,
+    417.44
+  ]
+}

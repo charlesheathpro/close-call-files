@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:481774",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Houston rescue",
+  "title": "Coast Guard, Sea Tow assit 6 adults 2 children off aground boat near San Leon, Texas",
+  "description": "Six adults and 2 children were stranded after their 46-foot boat, Euphoria, ran aground off Eagle's Point near San Leon, Texas, September 5, 2016. A Sea Tow boat later assited in transfrerring the people to a Coast Guard Station Houston response boat. U.S. Coast Guard video by Fireman Vincent Moreno",
+  "keywords": "grounding, Coast Guard rescue, PADET Houston, Station Galveston, station houston, san leon, Coast Guard, SAR, Texas, rescue, USCG, Air Station Houston, U.S., CG",
+  "date": "2016-09-05T00:00:00-04:00",
+  "date_published": "2016-09-05T22:23:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Dustin Williams",
+  "category": "B-Roll",
+  "virin": "160905-G-CZ043-001",
+  "location": {
+    "city": "San Leon",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/481774/coast-guard-sea-tow-assit-6-adults-2-children-off-aground-boat-near-san-leon-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-481774",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:23:25Z",
+  "duration": 37.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103633879/DOD_103633879.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8176,
+    "size": 38468719
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    9.01,
+    20.02,
+    20.09,
+    22.09,
+    27.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-481774.jpg",
+  "sheet_times": [
+    5.05,
+    7.1,
+    9.14,
+    11.19,
+    13.24,
+    15.29,
+    17.34,
+    19.38,
+    21.43,
+    23.48,
+    25.53,
+    27.58,
+    29.62,
+    31.67,
+    33.72,
+    35.77
+  ]
+}

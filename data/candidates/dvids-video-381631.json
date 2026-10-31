@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:381631",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard, Good Samaritan Rescue 4 from Boat Fire",
+  "description": "The Coast Guard and a good Samaritan rescued four people whose boat caught fire off the coast of Murrells Inlet, south of Myrtle Beach, Dec. 14, 2014. One of the four was medevaced after displaying symptoms of hypothermia. U.S. Coast Guard video.",
+  "keywords": "hoist, Air Station, savannah, Coast Guard rescue, 4, boat fire, chopper, four-, good samaritan, air facility, ablaze, helicopter, Coast Guard, medevac, Fire, rescue, USCG, helo, Charleston",
+  "date": "2014-12-14T00:00:00-05:00",
+  "date_published": "2014-12-14T18:23:58-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 1st Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "141214-G-BD687-004",
+  "location": {
+    "city": "Murrells Inlet",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/381631/coast-guard-good-samaritan-rescue-4-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-381631",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:59:05Z",
+  "duration": 201.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102147946/DOD_102147946.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9042,
+    "size": 230761505
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    19.42,
+    22.32,
+    24.52,
+    33.0,
+    38.64,
+    51.42,
+    60.86,
+    69.34,
+    75.51,
+    81.51,
+    107.84,
+    150.78,
+    172.11,
+    189.02,
+    194.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      33.1,
+      163.8
+    ],
+    "silence_ends": [
+      4.1,
+      153.2,
+      201.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-381631.jpg",
+  "sheet_times": [
+    10.19,
+    22.51,
+    34.83,
+    47.16,
+    59.48,
+    71.8,
+    84.13,
+    96.45,
+    108.78,
+    121.1,
+    133.42,
+    145.75,
+    158.07,
+    170.39,
+    182.72,
+    195.04
+  ]
+}

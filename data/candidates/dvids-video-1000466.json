@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:1000466",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hawaii flood",
+  "title": "Coast Guard conducts overflights of impacted areas following flash floods on Oahu",
+  "description": "A U.S. Coast Guard MH-65 Dolphin helicopter crew assigned to Air Station Barbers Point in Kapolei, Hawaii, conducts surveys of impacted areas along the North Shore of Oahu March 21, 2026. Coast Guard aircrews conducted overflight assessments of areas impacted by severe rain storms and search for any signs of distress in Waialua and Haleiwa, Hawaii. (U.S. Coast Guard video by Petty Officer 2nd Class Tyler Robertson)",
+  "keywords": "Air Station Barbers Point",
+  "date": "2026-03-21T06:00:00-04:00",
+  "date_published": "2026-03-22T03:04:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 2nd Class Tyler Robertson",
+  "category": "B-Roll",
+  "virin": "260321-G-OX937-2002",
+  "location": {
+    "city": "Hale'iwa",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1000466/coast-guard-conducts-overflights-impacted-areas-following-flash-floods-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1000466",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:46:39Z",
+  "duration": 202.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111588502/DOD_111588502.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 249059112
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    110.66,
+    117.38,
+    159.43,
+    176.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1000466.jpg",
+  "sheet_times": [
+    6.33,
+    18.98,
+    31.63,
+    44.28,
+    56.93,
+    69.58,
+    82.23,
+    94.88,
+    107.53,
+    120.18,
+    132.83,
+    145.48,
+    158.13,
+    170.78,
+    183.43,
+    196.08
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:KSC-20221014-MH-MTD02-0001-SpaceX_Crew_4_Splashdown_UAS_Recovery_Footage-3316493",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "SpaceX Crew-4 UAS Recovery Footage",
+  "description": "SpaceX Crew-4 UAS Recovery Footage",
+  "keywords": "SpaceX, Crew-4, CCP, Commercial Crew Program, Splashdown, Crew Dragon, UAS",
+  "date": "2022-10-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20221014-MH-MTD02-0001-SpaceX_Crew_4_Splashdown_UAS_Recovery_Footage-3316493",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20221014-MH-MTD02-0001-SpaceX-Crew-4-Splashdown-UAS-Recovery-Footage-3316493",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:08:27Z",
+  "duration": 140.35,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20221014-MH-MTD02-0001-SpaceX_Crew_4_Splashdown_UAS_Recovery_Footage-3316493/KSC-20221014-MH-MTD02-0001-SpaceX_Crew_4_Splashdown_UAS_Recovery_Footage-3316493~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    22.37,
+    63.93,
+    105.93,
+    140.3
+  ],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      140.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20221014-MH-MTD02-0001-SpaceX-Crew-4-Splashdown-UAS-Recovery-Footage-3316493.jpg",
+  "sheet_times": [
+    4.37,
+    13.11,
+    21.85,
+    30.59,
+    39.33,
+    48.07,
+    56.81,
+    65.56,
+    74.3,
+    83.04,
+    91.78,
+    100.52,
+    109.26,
+    118.0,
+    126.74,
+    135.48
+  ]
+}

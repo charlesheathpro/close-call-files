@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:302336",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Coast Guard Air Station Sitka Rescues Stranded Hunter",
+  "description": "An Air Station Sitka MH-60 Jayhawk helicopter crew rescues a stranded hunter near the mouth of the Chickamin River in Southeast Alaska Sept. 22, 2103. The hunter was suffering from severe hypothermia after several days in the wild and was transferred safely to emergency medical personnel in Ketchikan. U.S. Coast Guard video by Air Station Sitka. Available in High Definition.",
+  "keywords": "Air Station Sitka, search and rescue, Alaska",
+  "date": "2013-09-22T00:00:00-04:00",
+  "date_published": "2013-09-27T22:02:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130922-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302336/coast-guard-air-station-sitka-rescues-stranded-hunter",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-302336",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:08:03Z",
+  "duration": 117.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100922736/DOD_100922736.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 3886,
+    "size": 60866028
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    46.21,
+    62.16,
+    113.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      117.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302336.jpg",
+  "sheet_times": [
+    3.66,
+    10.97,
+    18.29,
+    25.6,
+    32.92,
+    40.23,
+    47.55,
+    54.87,
+    62.18,
+    69.5,
+    76.81,
+    84.13,
+    91.44,
+    98.76,
+    106.07,
+    113.39
+  ]
+}

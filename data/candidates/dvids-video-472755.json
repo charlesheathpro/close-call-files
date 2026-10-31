@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:472755",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard rescues 2 stranded kayakers near Boothbay Harbor, Maine",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter from Air Station Cape Cod rescues two stranded kayakers off White Island near Boothbay Harbor, Maine, Thursday, June 30, 2016. The kayakers became stranded after capsizing nearby. (U.S. Coast Guard video)",
+  "keywords": "Air Station Cape Cod, Station Boothbay Harbor, USCG",
+  "date": "2016-06-30T00:00:00-04:00",
+  "date_published": "2016-06-30T20:37:49-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160630-G-ZZ999-003",
+  "location": {
+    "city": "Boothbay Harbor",
+    "state": "Maine",
+    "country": "United States",
+    "state_abbreviation": "ME",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/472755/coast-guard-rescues-2-stranded-kayakers-near-boothbay-harbor-maine",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.22553,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-472755",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:10Z",
+  "duration": 108.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1606/DOD_103443219/DOD_103443219.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8415,
+    "size": 115543434
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    53.69,
+    54.19,
+    106.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      106.4
+    ],
+    "silence_ends": [
+      4.2,
+      108.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-472755.jpg",
+  "sheet_times": [
+    7.47,
+    13.96,
+    20.45,
+    26.94,
+    33.43,
+    39.92,
+    46.41,
+    52.91,
+    59.4,
+    65.89,
+    72.38,
+    78.87,
+    85.36,
+    91.85,
+    98.34,
+    104.83
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:895299",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Idalia",
+  "title": "Coast Guard Sector St. Petersburg area rescue boats stage outside the storm",
+  "description": "Coast Guard Tampa Bay station units move rescue vessels south to stage outside the storm in order to respond to emergencies during and after the storm makes land fall, Aug. 28, 2023. The Coast Guard is urging mariners to follow local government storm recommendations and not use their personal vessels as a safe haven. (U.S. Coast Guard video)",
+  "keywords": "Fort Myers, Cortez, hurricane prep, Sector St. Petersburg, Sand Key, hurricane idalia, HurricaneIdalia23",
+  "date": "2023-08-28T00:00:00-04:00",
+  "date_published": "2023-08-29T14:00:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230828-G-G0107-1011",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/895299/coast-guard-sector-st-petersburg-area-rescue-boats-stage-outside-storm",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-895299",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:43:22Z",
+  "duration": 72.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109853942/DOD_109853942-1920x1080-6000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 19875729
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    37.03,
+    58.27,
+    66.53
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      66.5
+    ],
+    "silence_ends": [
+      72.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-895299.jpg",
+  "sheet_times": [
+    2.26,
+    6.77,
+    11.28,
+    15.79,
+    20.31,
+    24.82,
+    29.33,
+    33.84,
+    38.36,
+    42.87,
+    47.38,
+    51.89,
+    56.41,
+    60.92,
+    65.43,
+    69.94
+  ]
+}

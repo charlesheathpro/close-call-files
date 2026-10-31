@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:681699",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues two stranded by high tide at Ecola State Park",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter, from Sector Columbia River, hoists two stranded people to safety near the south end of Indian Beach within Ecola State Park, May 19, 2019.\r\n\r\nThe two individuals got stranded by the incoming tide, but were reportedly uninjured.\r\n\r\nU.S. Coast Guard video courtesy of Sector Columbia River.",
+  "keywords": "Indian Beach, MH-60 Jayhawk helicopter, Sector Columbia River, Ecola State Park, Coast Guard, search and rescue, USCG",
+  "date": "2019-05-19T00:00:00-04:00",
+  "date_published": "2019-05-19T23:25:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Levi Read",
+  "category": "B-Roll",
+  "virin": "190519-G-G0213-1001",
+  "location": {
+    "city": "Seaside",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/681699/coast-guard-rescues-two-stranded-high-tide-ecola-state-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-681699",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:59:10Z",
+  "duration": 108.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106774674/DOD_106774674.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9960,
+    "size": 134869470
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.34,
+    8.38,
+    108.14
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      108.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-681699.jpg",
+  "sheet_times": [
+    3.37,
+    10.1,
+    16.83,
+    23.56,
+    30.29,
+    37.02,
+    43.75,
+    50.48,
+    57.21,
+    63.94,
+    70.67,
+    77.4,
+    84.13,
+    90.86,
+    97.59,
+    104.32
+  ]
+}

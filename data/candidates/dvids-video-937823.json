@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:937823",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard medevacs 8-year-old boy from cruise ship near Eureka",
+  "description": "A Coast Guard helicopter aircrew medically evacuates an 8-year-old male off the cruise ship Royal Princess approximately 20 miles west of Eureka, California on Sept. 24, 2024. The aircrew arrived on-scene, hoisted the passenger along with his family into the helicopter, and transferred him to emergency medical services at Saint Joseph Hospital in Eureka. (U.S. Coast Guard video)",
+  "keywords": "California Coast, coast guard california, CoastGuardNewsWire",
+  "date": "2024-09-24T00:00:00-04:00",
+  "date_published": "2024-09-24T19:53:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240924-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/937823/coast-guard-medevacs-8-year-old-boy-cruise-ship-near-eureka",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-937823",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:01:12Z",
+  "duration": 84.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110582742/DOD_110582742.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 101671111
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.9,
+    9.61,
+    14.88,
+    20.82,
+    65.23,
+    72.94,
+    84.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      22.5,
+      30.2,
+      37.9,
+      45.8,
+      47.1,
+      50.7,
+      56.1,
+      78.8
+    ],
+    "silence_ends": [
+      26.5,
+      31.9,
+      38.8,
+      46.5,
+      48.1,
+      54.2,
+      65.3,
+      84.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-937823.jpg",
+  "sheet_times": [
+    2.63,
+    7.9,
+    13.16,
+    18.43,
+    23.7,
+    28.96,
+    34.23,
+    39.49,
+    44.76,
+    50.02,
+    55.29,
+    60.56,
+    65.82,
+    71.09,
+    76.35,
+    81.62
+  ]
+}

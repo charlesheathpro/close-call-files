@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:932811",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Clearwater rescue",
+  "title": "Coast Guard rescues 2 adrift boaters off Boca Grande during Tropical Storm Debby",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew rescued two adrift boaters after their 34-foot sailing vessel lost its sail 73 miles off Boca Grande, August 4, 2024. The boaters were taken to Air Station Clearwater with no reported injuries. (U.S. Coast Guard Video)",
+  "keywords": "hoist",
+  "date": "2024-08-04T00:00:00-04:00",
+  "date_published": "2024-08-04T21:47:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240804-G-G0107-1001",
+  "location": {
+    "city": "Boca Grande",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/932811/coast-guard-rescues-2-adrift-boaters-off-boca-grande-during-tropical-storm-debby",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-932811",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:14:25Z",
+  "duration": 67.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2408/DOD_110485349/DOD_110485349.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 66481384
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.5,
+    26.67,
+    27.17,
+    27.33,
+    27.5,
+    34.58
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      67.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-932811.jpg",
+  "sheet_times": [
+    2.08,
+    6.25,
+    10.42,
+    14.58,
+    18.75,
+    22.92,
+    27.08,
+    31.25,
+    35.42,
+    39.58,
+    43.75,
+    47.92,
+    52.08,
+    56.25,
+    60.42,
+    64.58
+  ]
+}

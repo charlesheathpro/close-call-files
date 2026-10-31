@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:509331",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Coast Guard Rescues 1 From Sinking Boat",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Elizabeth City, North Carolina, hoists a man from a sinking boat 140 miles from Wilmington, North Carolina, Feb. 11, 2017. He used his SPOT Satellite GPS Messenger to notify the International Emergency Response Center that his 32-foot Pearson sailboat was taking on water and sinking. (U.S. Coast Guard video by Air Station Elizabeth City/Released)",
+  "keywords": "hoist, MH-60, sinking, ELIZABETH CITY, d5, Taking on Water, helicopter, SAR, rescue, C-130, USCG",
+  "date": "2017-02-11T00:00:00-05:00",
+  "date_published": "2017-02-12T16:03:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170112-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/509331/coast-guard-rescues-1-sinking-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-509331",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:08:18Z",
+  "duration": 62.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1702/DOD_104071977/DOD_104071977.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9629,
+    "size": 76661121
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    22.82,
+    23.09
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      62.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-509331.jpg",
+  "sheet_times": [
+    5.85,
+    9.49,
+    13.14,
+    16.78,
+    20.42,
+    24.07,
+    27.71,
+    31.36,
+    35.0,
+    38.65,
+    42.29,
+    45.93,
+    49.58,
+    53.22,
+    56.87,
+    60.51
+  ]
+}

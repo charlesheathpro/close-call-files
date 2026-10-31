@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:762032",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Barbers Point rescue",
+  "title": "Coast Guard, partners rescue three stranded mariners from island in Federated States of Micronesia",
+  "description": "The U.S. Coast Guard, Air Force, Royal Australian Navy, and Federated States of Micronesia (FSM) responders rescued three stranded mariners from the island of Pikelot, Yap, Aug. 3, 2020. The stranded mariners were located by a Air Force 506th Air Expeditionary Aerial Refueling Squadron KC-135 Stratotanker crew  from Andersen Air Force Base found the mariners after seeing their S.O.S signal on the island. (U.S. Coast Guard video courtesy of Air Station Barbers Point/Released)",
+  "keywords": "Royal Australian Navy, District 14, Sector Guam, Federated States of Micronesia, SOS0802, Coast Guard, AIr Force",
+  "date": "2020-08-03T00:00:00-04:00",
+  "date_published": "2020-08-03T18:00:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Matthew West",
+  "category": "B-Roll",
+  "virin": "200803-G-GO214-1001",
+  "location": {
+    "city": "Santa Rita",
+    "state": "",
+    "country": "Guam",
+    "state_abbreviation": null,
+    "country_abbreviation": "GU"
+  },
+  "page_url": "https://www.dvidshub.net/video/762032/coast-guard-partners-rescue-three-stranded-mariners-island-federated-states-micronesia",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-762032",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:14:22Z",
+  "duration": 58.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107921215/DOD_107921215.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9323,
+    "size": 68072660
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    53.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      27.7,
+      41.4
+    ],
+    "silence_ends": [
+      18.0,
+      31.9,
+      58.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-762032.jpg",
+  "sheet_times": [
+    1.81,
+    5.42,
+    9.03,
+    12.64,
+    16.25,
+    19.86,
+    23.47,
+    27.08,
+    30.69,
+    34.3,
+    37.91,
+    41.52,
+    45.13,
+    48.74,
+    52.35,
+    55.96
+  ]
+}

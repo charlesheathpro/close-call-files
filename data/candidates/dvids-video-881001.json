@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:881001",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-65 rescue",
+  "title": "Coast Guard rescues stranded 65-year-old man near Port Bolivar, Texas",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Houston rescues a stranded 65-year-old man stuck in the mud east of the Galveston north jetty on Bolivar Peninsula, in Port Bolivar, Texas, April 25, 2023. The helicopter crew hoisted the man and transferred him to emergency medical service personnel waiting at Scholes International Airport in Galveston, Texas, in reportedly stable condition. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "Texas, rescue, USCG, Air Station Houston",
+  "date": "2023-04-25T00:00:00-04:00",
+  "date_published": "2023-04-25T10:58:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230425-G-G0108-1001",
+  "location": {
+    "city": "Port Bolivar",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/881001/coast-guard-rescues-stranded-65-year-old-man-near-port-bolivar-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-881001",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:06:56Z",
+  "duration": 74.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109596880/DOD_109596880.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 94727912
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      74.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-881001.jpg",
+  "sheet_times": [
+    2.32,
+    6.97,
+    11.61,
+    16.26,
+    20.9,
+    25.55,
+    30.19,
+    34.84,
+    39.48,
+    44.13,
+    48.77,
+    53.41,
+    58.06,
+    62.7,
+    67.35,
+    71.99
+  ]
+}

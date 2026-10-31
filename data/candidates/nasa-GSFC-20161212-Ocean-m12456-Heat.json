@@ -1,0 +1,63 @@
+{
+  "asset_id": "nasa:GSFC_20161212_Ocean_m12456_Heat",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Tracking Ocean Heat With Magnetic Fields",
+  "description": "As Earth warms, much of the extra heat is stored in the planet’s ocean – but monitoring the magnitude of that heat content is a difficult task.   A surprising feature of the tides could help, however. Scientists at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, are developing a new way to use satellite observations of magnetic fields to measure heat stored in the ocean.  The method depends on several geophysical features of the ocean. Seawater is a good electrical conductor, so as the saltwater sloshes around the ocean basins it causes slight fluctuations in Earth’s magnetic field lines. The ocean flow attempts to drag the field lines along. The resulting magnetic fluctuations are relatively small, but have been detected from an increasing number of events including swell, eddies, tsunamis, and tides.  The magnetic fluctuations of the tides depend on the electrical conductivity of the water – and the electrical conductivity of the water depends on its temperature. This new method could be the first to provide global ocean heat measurements, integrated over all depths, using satellite observations.",
+  "keywords": "Geology, Geophysics, Physical Oceanography, Ocean Heat Budget, Magnetic Field, Earth",
+  "date": "2016-12-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20161212_Ocean_m12456_Heat",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20161212-Ocean-m12456-Heat",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:01:17Z",
+  "duration": 48.08,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20161212_Ocean_m12456_Heat/GSFC_20161212_Ocean_m12456_Heat~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.27,
+    18.63,
+    35.3,
+    44.1
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      46.8
+    ],
+    "silence_ends": [
+      48.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20161212-Ocean-m12456-Heat.jpg",
+  "sheet_times": [
+    1.49,
+    4.46,
+    7.44,
+    10.41,
+    13.38,
+    16.36,
+    19.33,
+    22.31,
+    25.28,
+    28.25,
+    31.23,
+    34.2,
+    37.18,
+    40.15,
+    43.12,
+    46.1
+  ]
+}

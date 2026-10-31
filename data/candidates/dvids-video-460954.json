@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:460954",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "boat overturned",
+  "title": "Coast Guard Rescue Swimmer Investigates Overturned Boat During Search",
+  "description": "A Coast Guard Air Station Houston rescue swimmer is lowered from an MH-65 Dolphin helicopter into Trinity Bay, about 8 miles northeast of San Leon, Texas, to check out a boat that was located in the search for two missing men Tuesday, April 26, 2016. The boat was towed back to shore and positively identified as the boat used by the men to go fishing Monday. U.S. Coast Guard video by Seaman Strait Pope.",
+  "keywords": "missing, capsized, Larson, MH-65D, overdue, overturned, SAR, search, USCG",
+  "date": "2016-04-26T00:00:00-04:00",
+  "date_published": "2016-04-27T11:51:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160426-G-XX999-001",
+  "location": {
+    "city": "San Leon",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/460954/coast-guard-rescue-swimmer-investigates-overturned-boat-during-search",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-460954",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:56:49Z",
+  "duration": 83.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103253977/DOD_103253977.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6793,
+    "size": 71943131
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    41.88,
+    43.28,
+    81.08
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      41.9,
+      81.1
+    ],
+    "silence_ends": [
+      4.0,
+      43.3,
+      83.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-460954.jpg",
+  "sheet_times": [
+    6.48,
+    11.39,
+    16.3,
+    21.22,
+    26.13,
+    31.04,
+    35.95,
+    40.86,
+    45.78,
+    50.69,
+    55.6,
+    60.51,
+    65.42,
+    70.34,
+    75.25,
+    80.16
+  ]
+}

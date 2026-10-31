@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:668967",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Coast Guard rescues 4 after boat capsizes 35 miles west of Homosassa",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew rescues four people from the water 35 miles west of Homosassa, Florida, Saturday, March 30, 2019. The helicopter crew located the boaters on the hull of their capsized boat. (U.S. Coast Guard video)",
+  "keywords": "Clearwater, MH-60, Jayhawk, AIR STATION CLEARWATER, Bayport, boat sank, helicopter, Coast Guard, Florida, rescue, USCG, fishing, FL",
+  "date": "2019-03-30T00:00:00-04:00",
+  "date_published": "2019-03-30T17:46:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "",
+  "virin": "190330-G-RD093-2001",
+  "location": {
+    "city": "Homosassa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/668967/coast-guard-rescues-4-after-boat-capsizes-35-miles-west-homosassa",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-668967",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:08:15Z",
+  "duration": 49.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1903/DOD_106590108/DOD_106590108.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9903,
+    "size": 61440606
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.85
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      49.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-668967.jpg",
+  "sheet_times": [
+    1.53,
+    4.6,
+    7.67,
+    10.74,
+    13.81,
+    16.88,
+    19.95,
+    23.01,
+    26.08,
+    29.15,
+    32.22,
+    35.29,
+    38.36,
+    41.43,
+    44.5,
+    47.56
+  ]
+}

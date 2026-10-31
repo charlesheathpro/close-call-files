@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:866262",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Three adults and one teen rescued from disabled sailboat",
+  "description": "A Coast Guard Air Station Elizabeth City MH-60 Jayhawk helicopter crew records a thermal imaging video of a disabled sail boat during a rescue. The Coast Guard rescued three adults and one minor from a disabled sailing vessel Thursday approximately 98 miles from Cape Hatteras, North Carolina.(U.S. Coast Guard video)",
+  "keywords": "Air Station Elizabeth City, McGee, d5, Coast Guard, USCG",
+  "date": "2022-12-01T00:00:00-05:00",
+  "date_published": "2022-12-01T20:07:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "Package",
+  "virin": "221201-G-D0105-1003",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/866262/three-adults-and-one-teen-rescued-disabled-sailboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-866262",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:07:56Z",
+  "duration": 27.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2212/DOD_109349583/DOD_109349583-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 28524902
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      27.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-866262.jpg",
+  "sheet_times": [
+    0.85,
+    2.56,
+    4.27,
+    5.98,
+    7.69,
+    9.4,
+    11.11,
+    12.82,
+    14.52,
+    16.23,
+    17.94,
+    19.65,
+    21.36,
+    23.07,
+    24.78,
+    26.49
+  ]
+}

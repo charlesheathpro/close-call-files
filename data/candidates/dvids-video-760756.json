@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:760756",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Coast Guard rescues man after commercial fishing boat capsizes",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, rescues a 48-year-old man after a commercial fishing boat capsized 18 miles west of St. Petersburg, Florida, Thursday, July 23, 2020. An emergency position indicating radio beacon (EPIRB) alerted Coast Guard watch standers of the distress. (U.S. Coast Guard video)",
+  "keywords": "St. Petersburg, EPIRB, Coast Guard, Florida, USCG, helo, FL",
+  "date": "2020-07-23T00:00:00-04:00",
+  "date_published": "2020-07-23T14:30:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "200723-G-RD093-1001",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/760756/coast-guard-rescues-man-after-commercial-fishing-boat-capsizes",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-760756",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:08:21Z",
+  "duration": 34.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107907614/DOD_107907614.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9800,
+    "size": 41987664
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    20.65
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      34.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-760756.jpg",
+  "sheet_times": [
+    1.05,
+    3.16,
+    5.27,
+    7.38,
+    9.49,
+    11.6,
+    13.71,
+    15.82,
+    17.92,
+    20.03,
+    22.14,
+    24.25,
+    26.36,
+    28.47,
+    30.58,
+    32.69
+  ]
+}

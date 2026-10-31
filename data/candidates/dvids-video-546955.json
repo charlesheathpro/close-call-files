@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:546955",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Harvey Search and Rescue Mission",
+  "description": "BEAUMONT, Texas (Aug. 30, 2017) Sailors assigned to Helicopter Sea Combat Squadron (HSC) 7 conduct a Search and Rescue (SAR) mission at a residence in Beaumont, Texas in support of Hurricane Harvey relief efforts. HSC-7 sent personnel and aircraft to the area to bolster Northern Command's support of FEMA's disaster response efforts. (U.S. Navy video)",
+  "keywords": "FEMA, HSC 7, Hurricane Harvey, SAR",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-08-30T17:21:15-04:00",
+  "branch": "Navy",
+  "unit_name": "Fleet Public Affairs Center Norfolk",
+  "credit": "Petty Officer 1st Class Ernest Scott",
+  "category": "B-Roll",
+  "virin": "170830-N-ZN152-0002",
+  "location": {
+    "city": "Beaumont",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546955/hurricane-harvey-search-and-rescue-mission",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546955",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:31:17Z",
+  "duration": 285.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104784067/DOD_104784067.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8537,
+    "size": 308958757
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    23.59,
+    32.0,
+    54.92,
+    68.03,
+    93.49,
+    101.7,
+    120.15,
+    120.19,
+    126.19,
+    151.82,
+    214.61,
+    254.15,
+    269.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546955.jpg",
+  "sheet_times": [
+    8.89,
+    26.68,
+    44.47,
+    62.26,
+    80.04,
+    97.83,
+    115.62,
+    133.4,
+    151.19,
+    168.98,
+    186.77,
+    204.55,
+    222.34,
+    240.13,
+    257.91,
+    275.7
+  ]
+}

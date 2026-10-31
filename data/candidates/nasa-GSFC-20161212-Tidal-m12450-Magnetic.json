@@ -1,0 +1,119 @@
+{
+  "asset_id": "nasa:GSFC_20161212_Tidal_m12450_Magnetic",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Ocean Tides and Magnetic Fields",
+  "description": "Earth’s magnetic field is built up from many contributing sources ranging from the planet’s core to the magnetosphere in space. Untangling and identifying the different sources allows geomagnetic scientists to gather information about the individual processes that combine to create the full field.   One contributor is the ocean, although it is a small contributor. From that isolated contribution, scientists at NASA Goddard Space Flight Center have developed a way to determine the heat content of the ocean. But how do the tides affect Earth’s magnetic field?   Seawater is an electrical conductor, and therefore interacts with the magnetic field. As the tides cycle around the ocean basins, the ocean water essentially tries to pull the geomagnetic field lines along.   Because the salty water is a good, but not great, conductor, the interaction is relatively weak. The strongest component is from the regular lunar tide that happens about twice per day (actually 12.42 hours). Other contributions come from ocean swell, eddies, and even tsunamis.  The strength of the interaction depends on the temperature of the ocean water, and scientists are now able to determine how much heat is being stored in the entire ocean, from wave top to sea floor.",
+  "keywords": "Geology, Geophysics, Magnetic Fields, Physical Oceanography, Ocean Heat Budget, Tides, Heat Flux, Tidal Components, Magnetic Field, Earth",
+  "date": "2016-12-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20161212_Tidal_m12450_Magnetic",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20161212-Tidal-m12450-Magnetic",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:07:50Z",
+  "duration": 53.83,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20161212_Tidal_m12450_Magnetic/GSFC_20161212_Tidal_m12450_Magnetic~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.53,
+      "e": 4.53,
+      "text": "Earth, spinning through the solar system,"
+    },
+    {
+      "s": 4.53,
+      "e": 7.53,
+      "text": "proudly bearing a majestic magnetic field,"
+    },
+    {
+      "s": 7.53,
+      "e": 10.53,
+      "text": "emanating deep within its molten metallic core."
+    },
+    {
+      "s": 10.53,
+      "e": 15.53,
+      "text": "The ever-changing field is full of fluctuations from many sources."
+    },
+    {
+      "s": 15.53,
+      "e": 18.53,
+      "text": "Sad lights observing these oscillations"
+    },
+    {
+      "s": 18.53,
+      "e": 23.53,
+      "text": "let scientists identify individual sources creating the magnetic field."
+    },
+    {
+      "s": 23.53,
+      "e": 26.53,
+      "text": "One such source is the motion of the ocean."
+    },
+    {
+      "s": 26.53,
+      "e": 29.53,
+      "text": "As the ocean flows, the field lines feel a pull"
+    },
+    {
+      "s": 29.53,
+      "e": 31.53,
+      "text": "and are dragged along a little."
+    },
+    {
+      "s": 31.53,
+      "e": 37.53,
+      "text": "The back and forth of the tides cause a small wiggle in the magnetic field."
+    },
+    {
+      "s": 37.53,
+      "e": 40.53,
+      "text": "Scientists have isolated this one small oceanic signal,"
+    },
+    {
+      "s": 40.53,
+      "e": 45.53,
+      "text": "measuring it from a satellite orbiting high above our spinning globe."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      51.1
+    ],
+    "silence_ends": [
+      53.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20161212-Tidal-m12450-Magnetic.jpg",
+  "sheet_times": [
+    1.67,
+    5.0,
+    8.33,
+    11.67,
+    15.0,
+    18.33,
+    21.67,
+    25.0,
+    28.33,
+    31.67,
+    35.0,
+    38.33,
+    41.67,
+    45.0,
+    48.33,
+    51.67
+  ]
+}

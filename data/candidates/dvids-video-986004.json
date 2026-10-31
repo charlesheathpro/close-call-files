@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:986004",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "life raft",
+  "title": "Coast Guard rescues 5 people from sinking sailboat off Cape Hatteras",
+  "description": "A U.S. Coast Guard MH-60 Jayhawk helicopter crew from Air Station Elizabeth City rescued five individuals from a life raft after their sailboat, Magic Bus, began taking on water 260 nautical miles offshore Cape Hatteras, N.C., Thursday, Nov. 6, 2025. The Coast Guard coordinated with the aircraft carrier USS George H.W. Bush for refueling support during the long-distance rescue. All five individuals were recovered in good health and transported safely to Air Station Elizabeth City. (U.S. Coast Guard video by Air Station Elizabeth City)",
+  "keywords": "USCG",
+  "date": "2025-11-06T00:00:00-05:00",
+  "date_published": "2025-11-06T17:33:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "251105-G-G9010-1002",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/986004/coast-guard-rescues-5-people-sinking-sailboat-off-cape-hatteras",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-986004",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:57:15Z",
+  "duration": 20.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2511/DOD_111370904/DOD_111370904-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21149056
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.09,
+      "e": 5.09,
+      "text": "and the driver is inside the cabin."
+    },
+    {
+      "s": 5.09,
+      "e": 14.74,
+      "text": "Mount Las Basket, Roger."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.7,
+      14.2
+    ],
+    "silence_ends": [
+      3.4,
+      12.3,
+      18.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-986004.jpg",
+  "sheet_times": [
+    0.62,
+    1.86,
+    3.1,
+    4.34,
+    5.58,
+    6.83,
+    8.07,
+    9.31,
+    10.55,
+    11.79,
+    13.03,
+    14.27,
+    15.51,
+    16.75,
+    17.99,
+    19.24
+  ]
+}

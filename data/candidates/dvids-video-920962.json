@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:920962",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rip current",
+  "title": "Army CID Agent Helps Rescue Stranded Swimmer in Italy",
+  "description": "An off-duty special agent with the Department of the Army Criminal Investigation Division helped rescue a swimmer being dragged from shore by a rip current on March 30, 2024, off the coast of southern Italy.",
+  "keywords": "ArmyCID",
+  "date": "2024-03-30T00:00:00-04:00",
+  "date_published": "2024-04-26T08:13:33-04:00",
+  "branch": "Army",
+  "unit_name": "Department of the Army Criminal Investigation Division",
+  "credit": "Thomas B. Hamilton III",
+  "category": "B-Roll",
+  "virin": "240426-A-UM169-1072",
+  "location": {
+    "city": "Positano",
+    "state": "",
+    "country": "Italy",
+    "state_abbreviation": null,
+    "country_abbreviation": "IT"
+  },
+  "page_url": "https://www.dvidshub.net/video/920962/army-cid-agent-helps-rescue-stranded-swimmer-italy",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-920962",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:39Z",
+  "duration": 21.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110263497/DOD_110263497-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 11713104
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.1
+    ],
+    "silence_ends": [
+      21.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-920962.jpg",
+  "sheet_times": [
+    0.66,
+    1.98,
+    3.31,
+    4.63,
+    5.95,
+    7.27,
+    8.59,
+    9.92,
+    11.24,
+    12.56,
+    13.88,
+    15.21,
+    16.53,
+    17.85,
+    19.17,
+    20.49
+  ]
+}

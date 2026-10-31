@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:992626",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "surfer rescue",
+  "title": "Coast Guard rescues stranded surfer near Aguadilla, Puerto Rico",
+  "description": "A Coast Guard Air Station Borinquen MH-60 Jayhawk helicopter crew rescued a stranded surfer following an extensive multi-agency search effort near Surfer’s Beach in Aguadilla, Puerto Rico, Jan. 10, 2026. The 68-year-old male was in stable condition and safely transported to awaiting emergency medical service personnel at the air station. (U.S. Coast Guard video courtesy of Air Station Borinquen)",
+  "keywords": "Search and Rescue (SAR), Air Station Borinquen/Aguadilla, SAR, USCG, United States Coast Guard, Coast Guard Southeast District",
+  "date": "2026-01-10T00:00:00-05:00",
+  "date_published": "2026-01-10T14:58:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "260110-G-G0107-1008",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/992626/coast-guard-rescues-stranded-surfer-near-aguadilla-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-992626",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:57:58Z",
+  "duration": 51.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111474869/DOD_111474869-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 36221835
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    48.03,
+    48.33,
+    48.36,
+    48.4,
+    48.43,
+    48.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-992626.jpg",
+  "sheet_times": [
+    1.59,
+    4.76,
+    7.93,
+    11.1,
+    14.27,
+    17.44,
+    20.61,
+    23.78,
+    26.95,
+    30.12,
+    33.29,
+    36.47,
+    39.64,
+    42.81,
+    45.98,
+    49.15
+  ]
+}

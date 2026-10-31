@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:877570",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Mississippi Tornado Damage Broll",
+  "description": "Aerial drone footage of the damage left behind after a tornado hit the town of Rolling Fork, MS.",
+  "keywords": "FEMA, tornado",
+  "date": "2023-03-26T00:00:00-04:00",
+  "date_published": "2023-03-27T19:33:59-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Joshua DuFrane",
+  "category": "B-Roll",
+  "virin": "230326-O-YU716-790",
+  "location": {
+    "city": "Rolling Fork",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/877570/mississippi-tornado-damage-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-877570",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:11:15Z",
+  "duration": 217.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109535020/DOD_109535020.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 272565438
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.99,
+    56.92,
+    79.71,
+    96.2,
+    116.57,
+    128.09,
+    138.39,
+    155.82,
+    162.41,
+    176.14,
+    192.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      217.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-877570.jpg",
+  "sheet_times": [
+    6.79,
+    20.37,
+    33.96,
+    47.54,
+    61.12,
+    74.7,
+    88.29,
+    101.87,
+    115.45,
+    129.03,
+    142.61,
+    156.2,
+    169.78,
+    183.36,
+    196.94,
+    210.53
+  ]
+}

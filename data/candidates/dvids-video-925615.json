@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:925615",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Traverse City rescue",
+  "title": "Coast Guard Station Grand Haven rescues man from sinking sailboat",
+  "description": "Crews from U.S. Coast Guard Station Grand Haven and Air Station Traverse City rescued a man from a sinking sailboat 25 miles off Grand Haven, Michigan on Monday, May 27, 2024. The sailboat ended up sinking in 300 feet of water. (U.S. Coast Guard courtesy video Air Station Traverse City)",
+  "keywords": null,
+  "date": "2024-05-27T00:00:00-04:00",
+  "date_published": "2024-05-30T17:18:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240527-G-G0109-1002",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/925615/coast-guard-station-grand-haven-rescues-man-sinking-sailboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-925615",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:18:15Z",
+  "duration": 25.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2405/DOD_110346045/DOD_110346045.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 32146281
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-925615.jpg",
+  "sheet_times": [
+    0.78,
+    2.34,
+    3.9,
+    5.45,
+    7.01,
+    8.57,
+    10.13,
+    11.69,
+    13.25,
+    14.8,
+    16.36,
+    17.92,
+    19.48,
+    21.04,
+    22.6,
+    24.15
+  ]
+}

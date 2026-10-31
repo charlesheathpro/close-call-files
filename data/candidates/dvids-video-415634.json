@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:415634",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "mountain rescue",
+  "title": "Coast Guard, Partners Rescue Airplane Crash Survivors Near Juneau, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew lowers rescue personnel to the site of a plane crash and hoists survivors for transport to medical care near Juneau, Alaska, July 17, 2015. The Coast Guard worked with Alaska State Troopers and Juneau Mountain Rescue to rescue four of the five people aboard the downed aircraft. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "airplane crash, hoist, partners, medevac, rescue, search",
+  "date": "2015-07-17T00:00:00-04:00",
+  "date_published": "2015-07-19T16:50:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 2nd Class Grant DeVuyst",
+  "category": "B-Roll",
+  "virin": "150719-G-YE680-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/415634/coast-guard-partners-rescue-airplane-crash-survivors-near-juneau-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-415634",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:49:46Z",
+  "duration": 223.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102605426/DOD_102605426.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8875,
+    "size": 247841432
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    221.09
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      223.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-415634.jpg",
+  "sheet_times": [
+    10.86,
+    24.52,
+    38.18,
+    51.84,
+    65.5,
+    79.16,
+    92.82,
+    106.48,
+    120.14,
+    133.8,
+    147.46,
+    161.12,
+    174.78,
+    188.45,
+    202.11,
+    215.77
+  ]
+}

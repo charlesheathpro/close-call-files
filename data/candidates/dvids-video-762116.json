@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:762116",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "jet ski rescue",
+  "title": "Coast Guard rescues 2 from stranded jet ski near Brigantine, New Jersey",
+  "description": "The Coast Guard rescued two people who were stranded on a jet ski that ran aground in near Brigantine, New Jersey, Aug. 3, 2020. A MH-65 Dolphin helicopter aircrew from Coast Guard Air Station Atlantic City safely hoisted the two people and transported them back to Coast Guard Station Atlantic City. (U.S. Coast Guard photo/Released)",
+  "keywords": "SAR",
+  "date": "2020-08-03T00:00:00-04:00",
+  "date_published": "2020-08-04T14:54:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Isaac Cross",
+  "category": "B-Roll",
+  "virin": "200803-G-G0105-0005",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/762116/coast-guard-rescues-2-stranded-jet-ski-near-brigantine-new-jersey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-762116",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:35Z",
+  "duration": 47.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107922585/DOD_107922585.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10083,
+    "size": 60529982
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      47.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-762116.jpg",
+  "sheet_times": [
+    1.47,
+    4.4,
+    7.33,
+    10.26,
+    13.19,
+    16.12,
+    19.05,
+    21.98,
+    24.91,
+    27.84,
+    30.77,
+    33.7,
+    36.63,
+    39.56,
+    42.49,
+    45.42
+  ]
+}

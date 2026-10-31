@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:622995",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard aircrew rescues stranded man off cliffside",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter from Sector Columbia River rescues a man stranded on a cliffside near Tillamook, Ore., Sept. 3, 2018.\r\n\r\nThe man reportedly had a few scrapes and cuts but was in stable condition at the time of the hoist.\r\n\r\nU.S. Coast Guard video courtesy of Sector Columbia River.",
+  "keywords": null,
+  "date": "2018-09-03T00:00:00-04:00",
+  "date_published": "2018-09-05T18:36:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180903-G-G0213-1001",
+  "location": {
+    "city": "Tillamook",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/622995/coast-guard-aircrew-rescues-stranded-man-off-cliffside",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-622995",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:01:47Z",
+  "duration": 59.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_105987294/DOD_105987294.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9561,
+    "size": 72139186
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 36.35,
+      "e": 76.37,
+      "text": "That's the"
+    }
+  ],
+  "scene_cuts": [
+    4.34,
+    48.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.8,
+      30.8,
+      35.7,
+      38.1,
+      42.1,
+      46.9,
+      52.6
+    ],
+    "silence_ends": [
+      4.5,
+      31.5,
+      36.3,
+      41.2,
+      44.4,
+      47.8,
+      53.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-622995.jpg",
+  "sheet_times": [
+    1.84,
+    5.53,
+    9.22,
+    12.91,
+    16.6,
+    20.29,
+    23.98,
+    27.67,
+    31.36,
+    35.05,
+    38.74,
+    42.43,
+    46.12,
+    49.81,
+    53.5,
+    57.19
+  ]
+}

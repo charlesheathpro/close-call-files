@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:397436",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Corpus Christi rescue",
+  "title": "Coast Guard Rescues 2 Men Stranded on Island in San Antonio Bay",
+  "description": "A Coast Guard rescue helicopter crew rescued two men, Richard Tesch, 42 and Ruben Vasquez, 53 from an island in San Antonio Bay Saturday, April 4, 2015. The men were on a 16-foot flat bottom boat, which had capsized.",
+  "keywords": "Coast Guard rescue, San Antonio Bay, Sector Corpus Christi, Air Station Corpus CHristi, Coast Guard, rescue, USCG",
+  "date": "2015-04-04T00:00:00-04:00",
+  "date_published": "2015-04-05T20:04:41-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150404-G-XX999-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/397436/coast-guard-rescues-2-men-stranded-island-san-antonio-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-397436",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:20:59Z",
+  "duration": 43.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102346931/DOD_102346931-1280x720-2765k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2783,
+    "size": 15683602
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    8.98,
+    14.15,
+    34.37,
+    40.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      14.1
+    ],
+    "silence_ends": [
+      4.3,
+      34.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-397436.jpg",
+  "sheet_times": [
+    5.24,
+    7.68,
+    10.11,
+    12.55,
+    14.98,
+    17.41,
+    19.85,
+    22.28,
+    24.72,
+    27.15,
+    29.59,
+    32.02,
+    34.46,
+    36.89,
+    39.33,
+    41.76
+  ]
+}

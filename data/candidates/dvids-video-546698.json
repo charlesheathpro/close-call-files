@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:546698",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Harvey Search and Rescue",
+  "description": "Sailors assigned to Helicopter Sea Combat Squadron (HSC) 7,  investigate a distress call at a home in College Station, Texas during a Search and Rescue (SAR) mission over the areas affected by Hurricane Harvey. HSC-7 and HSC-28 sent personnel and aircraft to the area to bolster Northern Command's support of FEMA's disaster response efforts. (U.S. Navy video by Mass Communication Specialist 1st Class Ernest R. Scott)",
+  "keywords": "FEMA, USFF, HSC-7, 42215204, Hurricane Harvey, DVIDS Videos of the Day 083017, SAR, U.S. Navy, sea hawk",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-30T06:53:59-04:00",
+  "branch": "Navy",
+  "unit_name": "Fleet Public Affairs Center Norfolk",
+  "credit": "Petty Officer 1st Class Ernest Scott",
+  "category": "B-Roll",
+  "virin": "170829-N-ZN152-0001",
+  "location": {
+    "city": "College Station",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546698/hurricane-harvey-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.47113,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546698",
+  "status": "new",
+  "harvested_at": "2026-10-31T16:27:34Z",
+  "duration": 79.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104778833/DOD_104778833.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9080,
+    "size": 91049416
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.47,
+    39.94,
+    63.43
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546698.jpg",
+  "sheet_times": [
+    6.79,
+    11.42,
+    16.05,
+    20.68,
+    25.32,
+    29.95,
+    34.58,
+    39.21,
+    43.84,
+    48.48,
+    53.11,
+    57.74,
+    62.37,
+    67.0,
+    71.64,
+    76.27
+  ]
+}

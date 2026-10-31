@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:445729",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard rescues stranded kayaker at Devil's Punch Bowl State Park",
+  "description": "A rescue aircrew from Coast Guard Air Station North Bend, Ore., rescues a stranded kayaker at Devil's Punch Bowl State Park, Ore., Jan. 10, 2016. The kayaker was safely transported to the state park scenic overlook with no injuries. U.S Coast Guard video courtesy of Air Facility Newport.",
+  "keywords": "hoist, North Bend, Newport, kayaker, Coast Guard, SAR, Oregon",
+  "date": "2016-01-10T00:00:00-05:00",
+  "date_published": "2016-01-10T20:13:21-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class George Degener",
+  "category": "B-Roll",
+  "virin": "160110-G-ZZ999-001",
+  "location": {
+    "city": "North Bend",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/445729/coast-guard-rescues-stranded-kayaker-devils-punch-bowl-state-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-445729",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:13Z",
+  "duration": 128.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_102981541/DOD_102981541.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8446,
+    "size": 137365290
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    45.95,
+    59.86,
+    92.16,
+    123.59
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      128.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-445729.jpg",
+  "sheet_times": [
+    4.0,
+    12.01,
+    20.01,
+    28.02,
+    36.03,
+    44.03,
+    52.04,
+    60.04,
+    68.05,
+    76.05,
+    84.06,
+    92.07,
+    100.07,
+    108.08,
+    116.08,
+    124.09
+  ]
+}

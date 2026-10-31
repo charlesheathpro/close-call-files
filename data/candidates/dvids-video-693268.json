@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:693268",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "paddleboarder",
+  "title": "Coast Guard rescues paddleboarder stranded on Bodega Bay jetty",
+  "description": "A Coast Guard Station Bodega Bay 47-foot Motor Lifeboat crew deploys a surface swimmer to rescue a paddleboarder stranded on the Bodega Bay, California jetty, June 25, 2019. The paddleboarder was beset by strong winds and called for assistance. (U.S. Coast Guard video)",
+  "keywords": "surface swimmer, Coast Guard, rescue",
+  "date": "2019-06-25T00:00:00-04:00",
+  "date_published": "2019-06-26T21:32:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "190625-G-MR731-1002",
+  "location": {
+    "city": "Bodega Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/693268/coast-guard-rescues-paddleboarder-stranded-bodega-bay-jetty",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-693268",
+  "status": "new",
+  "harvested_at": "2026-10-31T15:58:33Z",
+  "duration": 84.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106957198/DOD_106957198.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10042,
+    "size": 107926792
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 0.82,
+      "text": "Go ahead."
+    },
+    {
+      "s": 0.82,
+      "e": 1.66,
+      "text": "Go ahead."
+    }
+  ],
+  "scene_cuts": [
+    39.8,
+    40.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      39.8
+    ],
+    "silence_ends": [
+      40.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-693268.jpg",
+  "sheet_times": [
+    2.64,
+    7.91,
+    13.18,
+    18.45,
+    23.72,
+    28.99,
+    34.26,
+    39.54,
+    44.81,
+    50.08,
+    55.35,
+    60.62,
+    65.89,
+    71.16,
+    76.44,
+    81.71
+  ]
+}
