@@ -1,0 +1,628 @@
+{
+  "short_id": "ccf-20261101-05",
+  "revision": 1,
+  "status": "checks_failed",
+  "built_at": "2026-11-01T12:58:29Z",
+  "duration": 36.49,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "This rescue swimmer was lowered onto a cruise ship, twenty miles off the California coast.",
+      "start": 0.05,
+      "end": 5.65,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "rescue",
+          "s": 0.37,
+          "e": 0.77
+        },
+        {
+          "w": "swimmer",
+          "s": 0.85,
+          "e": 1.17
+        },
+        {
+          "w": "was",
+          "s": 1.29,
+          "e": 1.41
+        },
+        {
+          "w": "lowered",
+          "s": 1.49,
+          "e": 1.73
+        },
+        {
+          "w": "onto",
+          "s": 1.81,
+          "e": 2.05
+        },
+        {
+          "w": "a",
+          "s": 2.13,
+          "e": 2.21
+        },
+        {
+          "w": "cruise",
+          "s": 2.25,
+          "e": 2.53
+        },
+        {
+          "w": "ship,",
+          "s": 2.65,
+          "e": 3.09
+        },
+        {
+          "w": "twenty",
+          "s": 3.25,
+          "e": 3.41
+        },
+        {
+          "w": "miles",
+          "s": 3.49,
+          "e": 3.81
+        },
+        {
+          "w": "off",
+          "s": 3.89,
+          "e": 3.97
+        },
+        {
+          "w": "the",
+          "s": 4.01,
+          "e": 4.09
+        },
+        {
+          "w": "California",
+          "s": 4.13,
+          "e": 4.61
+        },
+        {
+          "w": "coast.",
+          "s": 4.69,
+          "e": 5.65
+        }
+      ]
+    },
+    {
+      "text": "An eight-year-old boy aboard the Royal Princess had to get to a hospital.",
+      "start": 5.77,
+      "end": 9.89,
+      "words": [
+        {
+          "w": "An",
+          "s": 5.77,
+          "e": 5.89
+        },
+        {
+          "w": "eight-year-old",
+          "s": 5.97,
+          "e": 6.45
+        },
+        {
+          "w": "boy",
+          "s": 6.53,
+          "e": 6.77
+        },
+        {
+          "w": "aboard",
+          "s": 6.85,
+          "e": 7.09
+        },
+        {
+          "w": "the",
+          "s": 7.13,
+          "e": 7.21
+        },
+        {
+          "w": "Royal",
+          "s": 7.25,
+          "e": 7.49
+        },
+        {
+          "w": "Princess",
+          "s": 7.57,
+          "e": 8.13
+        },
+        {
+          "w": "had",
+          "s": 8.25,
+          "e": 8.37
+        },
+        {
+          "w": "to",
+          "s": 8.41,
+          "e": 8.49
+        },
+        {
+          "w": "get",
+          "s": 8.53,
+          "e": 8.61
+        },
+        {
+          "w": "to",
+          "s": 8.65,
+          "e": 8.73
+        },
+        {
+          "w": "a",
+          "s": 8.77,
+          "e": 8.85
+        },
+        {
+          "w": "hospital.",
+          "s": 9.09,
+          "e": 9.89
+        }
+      ]
+    },
+    {
+      "text": "A Coast Guard helicopter crew found the ship west of Eureka, above a layer of fog.",
+      "start": 9.97,
+      "end": 15.17,
+      "words": [
+        {
+          "w": "A",
+          "s": 9.97,
+          "e": 10.05
+        },
+        {
+          "w": "Coast",
+          "s": 10.13,
+          "e": 10.37
+        },
+        {
+          "w": "Guard",
+          "s": 10.49,
+          "e": 10.61
+        },
+        {
+          "w": "helicopter",
+          "s": 10.69,
+          "e": 11.17
+        },
+        {
+          "w": "crew",
+          "s": 11.25,
+          "e": 11.49
+        },
+        {
+          "w": "found",
+          "s": 11.57,
+          "e": 11.73
+        },
+        {
+          "w": "the",
+          "s": 11.77,
+          "e": 11.85
+        },
+        {
+          "w": "ship",
+          "s": 11.89,
+          "e": 12.13
+        },
+        {
+          "w": "west",
+          "s": 12.21,
+          "e": 12.45
+        },
+        {
+          "w": "of",
+          "s": 12.49,
+          "e": 12.57
+        },
+        {
+          "w": "Eureka,",
+          "s": 12.61,
+          "e": 13.33
+        },
+        {
+          "w": "above",
+          "s": 13.41,
+          "e": 13.65
+        },
+        {
+          "w": "a",
+          "s": 13.703,
+          "e": 13.783
+        },
+        {
+          "w": "layer",
+          "s": 13.81,
+          "e": 13.97
+        },
+        {
+          "w": "of",
+          "s": 14.05,
+          "e": 14.13
+        },
+        {
+          "w": "fog.",
+          "s": 14.17,
+          "e": 15.17
+        }
+      ]
+    },
+    {
+      "text": "Rails, masts and antennas can snag a hoist cable, so the hoist operator guides the pilot with short calls, because the pilot cannot see below.",
+      "start": 15.25,
+      "end": 24.61,
+      "words": [
+        {
+          "w": "Rails,",
+          "s": 15.25,
+          "e": 15.97
+        },
+        {
+          "w": "masts",
+          "s": 16.01,
+          "e": 16.53
+        },
+        {
+          "w": "and",
+          "s": 16.57,
+          "e": 16.65
+        },
+        {
+          "w": "antennas",
+          "s": 16.69,
+          "e": 17.25
+        },
+        {
+          "w": "can",
+          "s": 17.33,
+          "e": 17.49
+        },
+        {
+          "w": "snag",
+          "s": 17.57,
+          "e": 17.81
+        },
+        {
+          "w": "a",
+          "s": 17.89,
+          "e": 17.97
+        },
+        {
+          "w": "hoist",
+          "s": 17.97,
+          "e": 18.21
+        },
+        {
+          "w": "cable,",
+          "s": 18.29,
+          "e": 19.01
+        },
+        {
+          "w": "so",
+          "s": 19.09,
+          "e": 19.17
+        },
+        {
+          "w": "the",
+          "s": 19.25,
+          "e": 19.33
+        },
+        {
+          "w": "hoist",
+          "s": 19.41,
+          "e": 19.65
+        },
+        {
+          "w": "operator",
+          "s": 19.73,
+          "e": 20.21
+        },
+        {
+          "w": "guides",
+          "s": 20.29,
+          "e": 20.53
+        },
+        {
+          "w": "the",
+          "s": 20.61,
+          "e": 20.69
+        },
+        {
+          "w": "pilot",
+          "s": 20.77,
+          "e": 21.09
+        },
+        {
+          "w": "with",
+          "s": 21.17,
+          "e": 21.25
+        },
+        {
+          "w": "short",
+          "s": 21.37,
+          "e": 21.49
+        },
+        {
+          "w": "calls,",
+          "s": 21.57,
+          "e": 22.29
+        },
+        {
+          "w": "because",
+          "s": 22.41,
+          "e": 22.53
+        },
+        {
+          "w": "the",
+          "s": 22.61,
+          "e": 22.69
+        },
+        {
+          "w": "pilot",
+          "s": 22.73,
+          "e": 23.09
+        },
+        {
+          "w": "cannot",
+          "s": 23.25,
+          "e": 23.41
+        },
+        {
+          "w": "see",
+          "s": 23.49,
+          "e": 23.57
+        },
+        {
+          "w": "below.",
+          "s": 23.77,
+          "e": 24.61
+        }
+      ]
+    },
+    {
+      "text": "Then the rescue basket went down to the deck.",
+      "start": 24.69,
+      "end": 26.797,
+      "words": [
+        {
+          "w": "Then",
+          "s": 24.69,
+          "e": 24.77
+        },
+        {
+          "w": "the",
+          "s": 24.85,
+          "e": 24.93
+        },
+        {
+          "w": "rescue",
+          "s": 24.93,
+          "e": 25.25
+        },
+        {
+          "w": "basket",
+          "s": 25.33,
+          "e": 25.73
+        },
+        {
+          "w": "went",
+          "s": 25.81,
+          "e": 25.97
+        },
+        {
+          "w": "down",
+          "s": 26.09,
+          "e": 26.21
+        },
+        {
+          "w": "to",
+          "s": 26.25,
+          "e": 26.33
+        },
+        {
+          "w": "the",
+          "s": 26.37,
+          "e": 26.45
+        },
+        {
+          "w": "deck.",
+          "s": 26.61,
+          "e": 26.797
+        }
+      ]
+    },
+    {
+      "text": "The crew hoisted the boy and his family up into the helicopter.",
+      "start": 27.97,
+      "end": 31.41,
+      "words": [
+        {
+          "w": "The",
+          "s": 27.97,
+          "e": 28.05
+        },
+        {
+          "w": "crew",
+          "s": 28.17,
+          "e": 28.29
+        },
+        {
+          "w": "hoisted",
+          "s": 28.37,
+          "e": 28.77
+        },
+        {
+          "w": "the",
+          "s": 28.81,
+          "e": 28.89
+        },
+        {
+          "w": "boy",
+          "s": 28.93,
+          "e": 29.09
+        },
+        {
+          "w": "and",
+          "s": 29.17,
+          "e": 29.25
+        },
+        {
+          "w": "his",
+          "s": 29.25,
+          "e": 29.33
+        },
+        {
+          "w": "family",
+          "s": 29.41,
+          "e": 29.81
+        },
+        {
+          "w": "up",
+          "s": 29.89,
+          "e": 29.97
+        },
+        {
+          "w": "into",
+          "s": 30.05,
+          "e": 30.21
+        },
+        {
+          "w": "the",
+          "s": 30.29,
+          "e": 30.37
+        },
+        {
+          "w": "helicopter.",
+          "s": 30.37,
+          "e": 31.41
+        }
+      ]
+    },
+    {
+      "text": "They flew him to emergency medical services at Saint Joseph Hospital in Eureka.",
+      "start": 31.53,
+      "end": 36.29,
+      "words": [
+        {
+          "w": "They",
+          "s": 31.53,
+          "e": 31.65
+        },
+        {
+          "w": "flew",
+          "s": 31.73,
+          "e": 31.89
+        },
+        {
+          "w": "him",
+          "s": 32.01,
+          "e": 32.13
+        },
+        {
+          "w": "to",
+          "s": 32.17,
+          "e": 32.25
+        },
+        {
+          "w": "emergency",
+          "s": 32.29,
+          "e": 32.85
+        },
+        {
+          "w": "medical",
+          "s": 32.93,
+          "e": 33.25
+        },
+        {
+          "w": "services",
+          "s": 33.33,
+          "e": 33.89
+        },
+        {
+          "w": "at",
+          "s": 33.97,
+          "e": 34.05
+        },
+        {
+          "w": "Saint",
+          "s": 34.21,
+          "e": 34.37
+        },
+        {
+          "w": "Joseph",
+          "s": 34.45,
+          "e": 34.77
+        },
+        {
+          "w": "Hospital",
+          "s": 35.05,
+          "e": 35.33
+        },
+        {
+          "w": "in",
+          "s": 35.41,
+          "e": 35.49
+        },
+        {
+          "w": "Eureka.",
+          "s": 35.57,
+          "e": 36.29
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 36.5
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.21
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.5
+    },
+    "dead_air": {
+      "ok": false,
+      "value": [
+        [
+          26.9,
+          27.92
+        ]
+      ]
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [
+    "dead_air"
+  ],
+  "render_sheet": "data/shorts/ccf-20261101-05/render_sheet.jpg",
+  "asset_url": null,
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261101-05/ccf-20261101-05.mp4"
+}
