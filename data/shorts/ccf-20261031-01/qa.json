@@ -1,13 +1,14 @@
 {
   "short_id": "ccf-20261031-01",
-  "revision": 2,
+  "revision": 3,
   "verdict": "reject",
-  "at": "2026-10-31T23:17:25Z",
+  "at": "2026-11-01T16:19:21Z",
   "score": 6,
-  "notes": "Great story (650 mph abort, one chute failed, safe landing), but 4.5 to 10s is 5.5 seconds of the same static capsule on the pad, the opening frame is that same static shot, and 12 to 16.5s is a letterboxed tracking-camera screen where the capsule is a speck.",
+  "notes": "Strong story and the new ignition opener works, but about 8 seconds (render 7.0 to 11.0 and 13.0 to 17.0) are still the multi-window tracking-camera screen with software chrome, ending on washed-out gray panes, and 18 to 30s is twelve seconds of near-identical capsule-under-chutes shots.",
   "fixes": [
-    "Line 1: start the first shot at the moment of ignition (about 0.5s later than source 1805.5, i.e. ~1806.0) so frame one is fire.",
-    "Line 2 (4.6 to 8.9s): replace both static-pad shots (source 1795.0 to 1797.6 and 1800.5 to 1803.2) with motion: the capsule streaking away, the forward heat shield or drogues, or a chute-unfurling shot.",
-    "Line 3: replace the two 'fit' tracking-camera shots (source 1837.0 to 1843.0) with full-frame crops of the capsule in flight or the chutes opening."
+    "Source 1808.2 to 1823.5 is entirely a 4-pane tracking-camera desktop grid (Windows title bars, 'clock_unlocked' text). Remove every shot in that range: line 2 shot 1817.0-1819.5, line 3 shots 1812.0-1814.5 and 1814.5-1817.0. Also remove line 2 shot 1834.2-1836.4 (empty sky with the capsule exiting top edge).",
+    "Clean full-frame ascent footage is only 1806.0-1807.9, 1824.0-1825.6, 1829.0-1829.9 and 1832.0-1833.9, about 6.5s total, so cut narration to fit: drop line 3 ('Its four abort engines push forty thousand pounds...') or merge its key fact into line 2, and cover lines 2-3 with 1832.0-1833.9 and 1824.0-1825.6 (crop_x ~0.6) plus the line 1 ignition only once (line 3 currently reuses 1806.3, a repeat of the opener).",
+    "Line 4 to 6 (render 18 to 30s): vary the chute shots. Use 1852.0-1853.5 (close chute canopy), 1866.5-1868.5 (heat shield dropping, visible at 1867), then 1872-1874. Cut 1858-1866 down to one 2.5s shot so the descent does not drag.",
+    "Outcome: end on the touchdown with orange dust, source 1881.0-1884.0 (crop_x ~0.3, dust cloud at right), which is far stronger than 1879-1881."
   ]
 }
