@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-910290",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:55:16Z",
   "duration": 145.48,
   "source_file": {
@@ -152,5 +152,6 @@
     122.33,
     131.39,
     140.45
-  ]
+  ],
+  "pass_reason": "Two people died in this capsizing (news reports); a three-rescued Short would hide that or turn grim. Also late runtime is empty FLIR water."
 }

@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-388565",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:51:21Z",
   "duration": 69.8,
   "source_file": {
@@ -71,5 +71,6 @@
     59.1,
     63.18,
     67.26
-  ]
+  ],
+  "pass_reason": "Murky grayscale FLIR with HUD; survivors are blurry dots on a phone."
 }

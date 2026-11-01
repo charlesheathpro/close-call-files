@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-909792",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:37:11Z",
   "duration": 156.69,
   "source_file": {
@@ -72,5 +72,6 @@
     131.79,
     141.55,
     151.31
-  ]
+  ],
+  "pass_reason": "Night footage too dark; heavy weather and the disabled vessel never read as dangerous on screen."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2023-04-26-RS-25-Engine-Test",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:51:11Z",
   "duration": 1510.53,
   "source_file": {
@@ -1479,5 +1479,6 @@
     1274.09,
     1368.47,
     1462.84
-  ]
+  ],
+  "pass_reason": "Static test-stand views and interviews; a test with no failure and no visible danger."
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-479238",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:57:41Z",
   "duration": 19.18,
   "source_file": {
@@ -70,5 +70,6 @@
     15.76,
     16.93,
     18.1
-  ]
+  ],
+  "pass_reason": "Only 19 s, shaky phone with a finger over the lens; too short to tell the story."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ART-CAB1-2022-320-0650-SHARED-art001m1203200650",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:17:29Z",
   "duration": 62.2,
   "source_file": {
@@ -58,5 +58,6 @@
     52.06,
     55.92,
     59.77
-  ]
+  ],
+  "pass_reason": "Same Artemis I LAS jettison event as nasa-LAS-Jettison; static interior view."
 }

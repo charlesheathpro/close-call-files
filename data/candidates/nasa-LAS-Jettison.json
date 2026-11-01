@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LAS-Jettison",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:15:32Z",
   "duration": 56.85,
   "source_file": {
@@ -60,5 +60,6 @@
     47.55,
     51.07,
     54.59
-  ]
+  ],
+  "pass_reason": "Static dark capsule interior; the jettison is not visible."
 }
