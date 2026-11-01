@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-08",
   "candidate_id": "nasa-2022-H1-V-Lift-CruiseDropTest-5",
-  "revision": 4,
+  "revision": 5,
   "lane": "aviation_naval",
   "story_type": "crash test",
   "music_mood": "hazards",
@@ -78,10 +78,16 @@
         "crop_x": 0.5
       },
       {
-        "start": 61.1,
-        "end": 62.6,
+        "start": 63.0,
+        "end": 65.6,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.85
+      },
+      {
+        "start": 65.6,
+        "end": 68.2,
+        "layout": "crop",
+        "crop_x": 0.85
       }
     ],
     [
