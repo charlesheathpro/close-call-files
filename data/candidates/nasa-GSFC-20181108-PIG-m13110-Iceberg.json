@@ -1,0 +1,63 @@
+{
+  "asset_id": "nasa:GSFC_20181108_PIG_m13110_Iceberg",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "iceberg",
+  "title": "NASA's View of Pine Island Glacier's Latest Iceberg",
+  "description": "Antarctica's Pine Island Glacier calved a massive iceberg, known as Iceberg B-46, into the Amundsen Sea. Pine Island has lost several large icebergs in the last few years -- it's one of the most rapidly melting glaciers in the Antarctic and a significant contributor to sea level rise.  NASA's Operation IceBridge flew over Pine Island Glacier on Nov. 7, capturing images and collecting data over the newly formed iceberg and remaining glacier.",
+  "keywords": "Pine Island Glacier, Antarctica, Operation IceBridge, Earth",
+  "date": "2018-11-08T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20181108_PIG_m13110_Iceberg",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20181108-PIG-m13110-Iceberg",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:52:53Z",
+  "duration": 46.89,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20181108_PIG_m13110_Iceberg/GSFC_20181108_PIG_m13110_Iceberg~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.23,
+    26.2,
+    33.63,
+    38.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      39.6
+    ],
+    "silence_ends": [
+      47.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20181108-PIG-m13110-Iceberg.jpg",
+  "sheet_times": [
+    1.45,
+    4.35,
+    7.25,
+    10.15,
+    13.05,
+    15.95,
+    18.85,
+    21.75,
+    24.64,
+    27.54,
+    30.44,
+    33.34,
+    36.24,
+    39.14,
+    42.04,
+    44.94
+  ]
+}

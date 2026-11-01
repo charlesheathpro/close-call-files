@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:906547",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-60 Jayhawk rescue",
+  "title": "Coast Guard rescues 5 people from flooding near Grays River, Washington",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Astoria rescues five people who were trapped in flooding conditions in Rosburg, Washington, Dec. 5, 2023. The individuals were transported to the air station to awaiting emergency medical services in stable condition. (U.S. Coast Guard courtesy video)",
+  "keywords": "Coast Guard",
+  "date": "2023-12-05T00:00:00-05:00",
+  "date_published": "2023-12-05T19:05:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "231205-G-AS553-1001",
+  "location": {
+    "city": "Rosburg",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/906547/coast-guard-rescues-5-people-flooding-near-grays-river-washington",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-906547",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:37:16Z",
+  "duration": 157.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110029803/DOD_110029803.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 178014711
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.34,
+    15.42,
+    74.17,
+    80.25,
+    85.62,
+    101.94,
+    108.24,
+    119.25,
+    127.26,
+    136.7,
+    144.11,
+    149.22,
+    154.09
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      80.3
+    ],
+    "silence_ends": [
+      157.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-906547.jpg",
+  "sheet_times": [
+    4.91,
+    14.72,
+    24.53,
+    34.34,
+    44.15,
+    53.97,
+    63.78,
+    73.59,
+    83.4,
+    93.21,
+    103.03,
+    112.84,
+    122.65,
+    132.46,
+    142.27,
+    152.08
+  ]
+}

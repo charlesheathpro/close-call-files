@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:559313",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "breaking waves",
+  "title": "Rapid Beach, Surf Zone and Littoral Reconnaissance",
+  "description": "Surf-zones can be extremely dangerous to navigate with rapidly changing depths (in space & time), large waves breaking waves, strong rip & longshore currents. Traditional surveying approaches do not work in breaking wave environments and can be expensive, dangerous, and become outdated. \r\nERDC has developed a suite of Littoral Imaging Sensors (LIS) that use Video (RGB & IR0 and Radar) to exploit the movement of waves across the surf-zone.\r\nProducts: Topography (RGB), Bathymetry (Radar, RGB, IR), Currents (RGB, IR, Radar)\r\nCONOPs: Onshore and offshore look capabilities (all systems), High-wind & rain (Radar) and, Night (Radar & IR) /Day (Radar & RGB imagery) capabilities.\r\nForecasts: Integration with MD_FUSE (ERDC's littoral model-data assimilation suite) provides tactical forecasts of littoral conditions.",
+  "keywords": "AUSA, Littoral, ERDC, surf zone, ArmyERDC, beach, UAS, reconnaissance",
+  "date": "2017-10-19T00:00:00-04:00",
+  "date_published": "2017-10-20T07:12:25-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Engineer Research and Development Center",
+  "credit": "Stacy Tennison",
+  "category": "Package",
+  "virin": "171019-A-BM524-001",
+  "location": {
+    "city": "",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/559313/rapid-beach-surf-zone-and-littoral-reconnaissance",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-559313",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:50:48Z",
+  "duration": 103.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104981792/DOD_104981792.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8734,
+    "size": 114387781
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.37,
+      "e": 2.95,
+      "text": "(upbeat music)"
+    },
+    {
+      "s": 67.49,
+      "e": 70.91,
+      "text": "^(airplane engine sound)"
+    }
+  ],
+  "scene_cuts": [
+    0.3,
+    3.27,
+    7.27,
+    7.31,
+    13.98,
+    14.38,
+    17.15,
+    17.55,
+    22.16,
+    22.56,
+    42.48,
+    44.84,
+    49.75,
+    49.82,
+    49.98,
+    52.79,
+    53.12,
+    60.19,
+    63.93,
+    64.33,
+    66.53,
+    66.6,
+    66.8,
+    71.2,
+    75.61,
+    82.32,
+    82.38,
+    82.55,
+    82.72,
+    82.75,
+    85.69,
+    88.69,
+    94.29,
+    94.33,
+    97.3,
+    97.33,
+    102.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      102.1
+    ],
+    "silence_ends": [
+      103.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-559313.jpg",
+  "sheet_times": [
+    3.21,
+    9.62,
+    16.03,
+    22.44,
+    28.86,
+    35.27,
+    41.68,
+    48.1,
+    54.51,
+    60.92,
+    67.33,
+    73.75,
+    80.16,
+    86.57,
+    92.98,
+    99.4
+  ]
+}

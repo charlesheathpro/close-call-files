@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:859319",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Coast Guard conducts search and rescue operations post Hurricane Ian landfall",
+  "description": "Coast Guard personnel assigned to the Gulf, Atlantic and Pacific Strike teams navigate canals during search and rescue operations on Sept. 30, 2022, near Sanibel Island, Florida. Coast Guard strike force teams searched the area for people in need of rescue after Hurricane Ian. (U.S. Coast Guard photo by Petty Officer 1st Class Dylan Zechman)",
+  "keywords": "District 8, Storm22, Hurricane Ian, HurricaneIan22, Coast Guard",
+  "date": "2022-09-30T00:00:00-04:00",
+  "date_published": "2022-10-01T12:15:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220930-G-G0108-4001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859319/coast-guard-conducts-search-and-rescue-operations-post-hurricane-ian-landfall",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859319",
+  "status": "new",
+  "harvested_at": "2026-11-01T16:58:08Z",
+  "duration": 87.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109248355/DOD_109248355.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 108228618
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    51.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      87.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859319.jpg",
+  "sheet_times": [
+    2.71,
+    8.14,
+    13.56,
+    18.98,
+    24.41,
+    29.83,
+    35.26,
+    40.68,
+    46.11,
+    51.53,
+    56.95,
+    62.38,
+    67.8,
+    73.23,
+    78.65,
+    84.08
+  ]
+}

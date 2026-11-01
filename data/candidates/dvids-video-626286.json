@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:626286",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Coast Guard conducts rescues across North Carolina after Hurricane Florence",
+  "description": "An MH-60T Jayhawk Helicopter crew from Coast Guard Air Station Clearwater, Florida, evacuates three adults, one child, and two dogs from Rocky Point, North Carolina due to flooding caused by Hurricane Florence. A total of 26 adults, 11 children, seven dogs and four cats were evacuated from the same neighborhood by an Air Station Elizabeth City crew in the hours before. (U.S. Coast Guard video by Petty Officer 2nd Class Dustin Williams/released)",
+  "keywords": "flooding, florence, Air Station, ELIZABETH CITY, hurricaneflorence, Hurricane Florence, helicopter, Coast Guard, help, SAR, search and rescue, rescue, North Carolina, USCG, Hurricane",
+  "date": "2018-09-16T00:00:00-04:00",
+  "date_published": "2018-09-17T12:47:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 2nd Class Dustin Williams",
+  "category": "B-Roll",
+  "virin": "180916-G-CZ043-1006",
+  "location": {
+    "city": "Wilmington",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/626286/coast-guard-conducts-rescues-across-north-carolina-after-hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-626286",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:02:45Z",
+  "duration": 83.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106033143/DOD_106033143.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8894,
+    "size": 93116181
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    33.13,
+    53.15,
+    60.16,
+    67.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-626286.jpg",
+  "sheet_times": [
+    2.6,
+    7.8,
+    13.0,
+    18.19,
+    23.39,
+    28.59,
+    33.79,
+    38.99,
+    44.18,
+    49.38,
+    54.58,
+    59.78,
+    64.98,
+    70.17,
+    75.37,
+    80.57
+  ]
+}

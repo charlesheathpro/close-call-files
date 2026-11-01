@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:928484",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "emergency landing",
+  "title": "Coast Guard rescues 2 people from downed aircraft off Turks and Caicos Islands",
+  "description": "A Coast Guard Operation Bahamas Turks and Caicos MH-60 Jayhawk aircrew rescued two people, Saturday, after their small aircraft landed 10 miles northwest of Providenciales, Turks and Caicos Islands. Both individuals were transported to emergency medical services at Turks and Caicos International Airport in stable condition. (U.S. Coast Guard video)",
+  "keywords": "SAR Turks and Caicos Islands OPBAT MH-60",
+  "date": "2024-06-22T00:00:00-04:00",
+  "date_published": "2024-06-23T11:08:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240622-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/928484/coast-guard-rescues-2-people-downed-aircraft-off-turks-and-caicos-islands",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-928484",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:02:42Z",
+  "duration": 36.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110402016/DOD_110402016-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 37423121
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.41,
+    17.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      36.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-928484.jpg",
+  "sheet_times": [
+    1.14,
+    3.42,
+    5.7,
+    7.98,
+    10.26,
+    12.54,
+    14.82,
+    17.1,
+    19.37,
+    21.65,
+    23.93,
+    26.21,
+    28.49,
+    30.77,
+    33.05,
+    35.33
+  ]
+}

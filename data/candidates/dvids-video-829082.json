@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:829082",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Severe Weather and Tornado Damage in Trumann, Arkansas",
+  "description": "Trumann, Arkansas (Jan 20, 2022) – Photos of property damage that occurred as a result of severe weather and tornadoes. FEMA video by Daniel Rojas.",
+  "keywords": "FEMA, tornado, Trumann, severe storms, Arkansas, damage",
+  "date": "2022-01-20T00:00:00-05:00",
+  "date_published": "2022-01-24T16:00:02-05:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "220120-D-DR336-447",
+  "location": {
+    "city": "Trumann",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/829082/severe-weather-and-tornado-damage-trumann-arkansas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-829082",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:48:17Z",
+  "duration": 134.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2201/DOD_108777102/DOD_108777102.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 103463710
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.39,
+    15.33,
+    35.29,
+    53.9,
+    63.21,
+    73.72,
+    80.73,
+    90.24,
+    100.75,
+    110.26,
+    117.78,
+    127.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      134.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-829082.jpg",
+  "sheet_times": [
+    4.18,
+    12.54,
+    20.9,
+    29.25,
+    37.61,
+    45.97,
+    54.33,
+    62.69,
+    71.05,
+    79.4,
+    87.76,
+    96.12,
+    104.48,
+    112.84,
+    121.2,
+    129.55
+  ]
+}

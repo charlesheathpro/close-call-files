@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:546875",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey rescue",
+  "title": "Coast Guard flood boats rescue over 2,800 people",
+  "description": "Coast Guard flood boats rescue over 2,800 people who have been affected by Hurricane Harvey in Texas August 30, 2017. The Coast Guard is continuing to work with all federal, state and local agencies for rescue response operations in affected areas. (U.S. Coast Guard photo by Petty Officer 3rd Class Travis Magee/Released)",
+  "keywords": "42215204, DVIDS Videos of the Day 090217, New Orleans",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-30T13:48:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "170830-G-AS553-2001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546875/coast-guard-flood-boats-rescue-over-2800-people",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546875",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:10:54Z",
+  "duration": 25.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104782706/DOD_104782706.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8691,
+    "size": 27840231
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.17,
+    6.87,
+    11.44,
+    15.85
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-546875.jpg",
+  "sheet_times": [
+    0.77,
+    2.32,
+    3.87,
+    5.41,
+    6.96,
+    8.5,
+    10.05,
+    11.6,
+    13.14,
+    14.69,
+    16.23,
+    17.78,
+    19.33,
+    20.87,
+    22.42,
+    23.96
+  ]
+}

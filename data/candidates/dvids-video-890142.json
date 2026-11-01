@@ -1,0 +1,126 @@
+{
+  "asset_id": "video:890142",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Vermont flood",
+  "title": "Vermont Flood: Search and Rescue",
+  "description": "U.S. Army Soldiers with the quick reaction force, Garrison Support Command, Vermont National Guard conduct a search and rescue operation in Berlin, Vermont, July 11, 2023. The Vermont National Guard was activated to assist in flood disaster relief and search and rescue operations. (U.S. Army National Guard video by Sgt. Denis Nunez)",
+  "keywords": "Vermont National Guard, VTFLood23",
+  "date": "2023-07-11T00:00:00-04:00",
+  "date_published": "2023-07-15T12:46:29-04:00",
+  "branch": "Joint",
+  "unit_name": "Joint Force Headquarters - Vermont National Guard Public Affairs",
+  "credit": "Sgt. Denis Nunez",
+  "category": "B-Roll",
+  "virin": "230711-Z-WG583-5001",
+  "location": {
+    "city": "Berlin",
+    "state": "Vermont",
+    "country": "United States",
+    "state_abbreviation": "VT",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/890142/vermont-flood-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-890142",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:32:27Z",
+  "duration": 260.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2307/DOD_109760514/DOD_109760514.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 321213434
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 87.02,
+      "e": 92.14,
+      "text": "good right now just be careful. You have reached your destination. You guys see our guy here on the left."
+    },
+    {
+      "s": 93.66,
+      "e": 105.62,
+      "text": "Yeah there he is. Please, please. He's showing you the driveway there."
+    },
+    {
+      "s": 107.3,
+      "e": 116.85,
+      "text": "So we're gonna pull forward and back up. Okay. We got another vehicle coming."
+    },
+    {
+      "s": 118.05,
+      "e": 122.05,
+      "text": "We got one more vehicle coming. I'm gonna come right on the side. They're gonna back up right to you."
+    },
+    {
+      "s": 122.69,
+      "e": 136.94,
+      "text": "Roger, we are three. We are backing up to the location. You guys can go ahead and push through."
+    },
+    {
+      "s": 136.94,
+      "e": 140.62,
+      "text": "Be careful as you go through. Make sure you're staying left with that guard rail."
+    },
+    {
+      "s": 140.62,
+      "e": 156.34,
+      "text": "When you go through, you keep the speed down. Don't go fast. Go nice and even. Yeah you're good."
+    },
+    {
+      "s": 156.34,
+      "e": 165.15,
+      "text": "Back it right up. Back it right up. Yeah keep going until you're on dry land. Yeah you're good."
+    },
+    {
+      "s": 165.15,
+      "e": 166.43,
+      "text": "You're good. You're good. You're good."
+    },
+    {
+      "s": 166.43,
+      "e": 245.86,
+      "text": "He is definitely feeling it."
+    }
+  ],
+  "scene_cuts": [
+    39.37,
+    151.89,
+    246.68,
+    253.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      253.3
+    ],
+    "silence_ends": [
+      260.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-890142.jpg",
+  "sheet_times": [
+    8.13,
+    24.4,
+    40.66,
+    56.92,
+    73.19,
+    89.45,
+    105.72,
+    121.98,
+    138.25,
+    154.51,
+    170.77,
+    187.04,
+    203.3,
+    219.57,
+    235.83,
+    252.1
+  ]
+}

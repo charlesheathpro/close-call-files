@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:931881",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "near miss",
+  "title": "Coast Guard rescues divers near Matagorda, Texas",
+  "description": "An Air Station Corpus Christi HC-144 Ocean Sentry aircraft aircrew spots divers during search and rescue efforts near Matagorda, Texas, July 25, 2024. The divers went missing after they surfaced in rough weather conditions. U.S. Coast Guard courtesy video",
+  "keywords": "missing divers, matagroda",
+  "date": "2024-07-25T00:00:00-04:00",
+  "date_published": "2024-07-26T13:39:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Edward Wargo",
+  "category": "B-Roll",
+  "virin": "240726-G-HU058-1003",
+  "location": {
+    "city": "Matagorda",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/931881/coast-guard-rescues-divers-near-matagorda-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-931881",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:20:55Z",
+  "duration": 60.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110466801/DOD_110466801-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 62484213
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.87,
+    4.34,
+    5.81,
+    19.29,
+    30.46,
+    31.13,
+    59.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      60.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-931881.jpg",
+  "sheet_times": [
+    1.87,
+    5.62,
+    9.36,
+    13.1,
+    16.85,
+    20.59,
+    24.33,
+    28.08,
+    31.82,
+    35.56,
+    39.31,
+    43.05,
+    46.79,
+    50.54,
+    54.28,
+    58.02
+  ]
+}

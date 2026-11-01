@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:479253",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station New Orleans rescue",
+  "title": "Baton Rouge Flooding: Hoist",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station New Orleans hoists a man stranded due to flooding in Baton Rouge, August 14, 2016. The Coast Guard is assisting local, state and federal agencies with flood rescues. U.S. Coast Guard video",
+  "keywords": "hoist, Coast Guard rescue, Southern Floods 2016, Coast Guard, rescue, flood, Baton Rouge",
+  "date": "2016-08-14T00:00:00-04:00",
+  "date_published": "2016-08-14T23:01:32-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Lora Ratliff",
+  "category": "B-Roll",
+  "virin": "160814-G-ZZ999-001",
+  "location": {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/479253/baton-rouge-flooding-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-479253",
+  "status": "new",
+  "harvested_at": "2026-11-01T17:40:49Z",
+  "duration": 40.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103571277/DOD_103571277.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6871,
+    "size": 35144595
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.34,
+      "e": 27.9,
+      "text": "We're going to have to point here how come we'll be moving over."
+    },
+    {
+      "s": 27.9,
+      "e": 32.9,
+      "text": "We're going to have to point here how come we'll be moving over."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    35.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      35.3
+    ],
+    "silence_ends": [
+      4.0,
+      40.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-479253.jpg",
+  "sheet_times": [
+    5.14,
+    7.37,
+    9.6,
+    11.83,
+    14.06,
+    16.29,
+    18.53,
+    20.76,
+    22.99,
+    25.22,
+    27.45,
+    29.68,
+    31.91,
+    34.14,
+    36.37,
+    38.6
+  ]
+}

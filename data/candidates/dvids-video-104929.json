@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:104929",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Aerial Footage of Damage from EF3 Tornado",
+  "description": "B-roll of aerial footage to survey damage to the installation from an EF3 tornado that touched down the mornng of Dec. 31st, 2010. Video by Mark Scovell. Also available in high definition.",
+  "keywords": "EF3 tornado, High Definition, damage, aerial footage",
+  "date": "2011-01-04T00:00:00-05:00",
+  "date_published": "2011-01-06T17:12:11-05:00",
+  "branch": "Army",
+  "unit_name": "Fort Leonard Wood Public Affairs Office",
+  "credit": "Mark Scovell",
+  "category": "B-Roll",
+  "virin": "110103-A-0552S-001",
+  "location": {
+    "city": "",
+    "state": "Missouri",
+    "country": "United States",
+    "state_abbreviation": "MO",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/104929/aerial-footage-damage-ef3-tornado",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-104929",
+  "status": "new",
+  "harvested_at": "2026-11-01T16:47:15Z",
+  "duration": 111.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1101/DOD_100113597/DOD_100113597.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 145587996
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-104929.jpg",
+  "sheet_times": [
+    7.37,
+    14.03,
+    20.69,
+    27.36,
+    34.02,
+    40.68,
+    47.35,
+    54.01,
+    60.67,
+    67.34,
+    74.0,
+    80.66,
+    87.32,
+    93.99,
+    100.65,
+    107.31
+  ]
+}
