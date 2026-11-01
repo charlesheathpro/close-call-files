@@ -1,30 +1,30 @@
-# Editor notes (review of Oct 31, 2026 UTC)
+# Editor notes (review of Nov 1, 2026 UTC)
 
 ## Where we are
-30 public, 7 scheduled, 22 subscribers. 15 Shorts past 48 hours; small sample.
+40 public, 3 scheduled, 40 subscribers (22 a day ago). 25 Shorts past 48 hours.
 
 ## What the numbers say
-- Retention is strong: median average view percentage of the last 10 mature Shorts is 77.
-- Best retention: spear fisherman hoisted out of the surf 114, C-130 low over a wildfire 100, hiker in a gully at 6,710 feet 87, dog off an Oregon sea cliff 86 (4 subscribers), tug sinking in Harvey with 4 aboard 80 (3 subscribers).
-- Lowest: dog alone on a flooded roof 58, night under a cliff 58, man and dog Lucky 58, Helene swimmer 62, Oregon surf 62.
-- Top five show moving danger the whole way. Bottom five are mostly static roofs and waiting.
-- Views stop at 1,200 to 1,550 on every Short; older ones barely grew today. Mauna Loa is stuck at 129.
+- First breakouts, both NASA: capsule torn off a rocket at Mach 1 5,051 views (+2,728 today), Orion splashdown 4,847 in 16 hours. Next: boat flipped with a 4-year-old 2,397 in 12 hours.
+- Every other Short still stops at 1,100 to 1,650 views.
+- Median average view percentage of the last 10 mature Shorts: 70.
+- Best retention: Harvey roof hoist 98, gully hoist at 6,710 feet 87, dog off a sea cliff 85 (4 subscribers), Harvey tug with 4 aboard 80, Houston basket 80.
+- Lowest: Harvey house flooded to the roof 52, C-130 over wildfire 57, dog on flooded roof 57, Lucky 58, cliff overnight 58. These open on waiting or a wide view; the top ones show the lift or the fall happening.
+- Fire and volcano Shorts get few views: Mauna Loa 140, 214 trapped by wildfire 123 in 14 hours.
 
 ## Do more
-- Moving danger in the first 2 seconds: surf, cliff hoists, low aircraft.
-- Hooks with who is in danger, how many, and one hard number.
-- Dogs in motion, groups, kids.
+- Spacecraft and test drama with one hard number: speed, altitude, distance from the Moon.
+- A child or a count of people in danger in the hook, as in the 4-year-old Short.
+- Moving danger in the first 2 seconds: hoists in motion, surf, falls.
 
 ## Do less
-- Static rooftop flood scenes. Harvey and Ian roof hoists are crowded this week.
-- Repeats of a story we already posted (QA rejected a second C-130 wildfire).
-- Milestones with no close call, and slow single views from space.
-- Hooks promising a moment the footage never shows.
+- Static rooftop waiting and wide flood views.
+- Lava, volcano and wildfire views with no person at risk.
+- Repeats of a story we already posted, and a second lava Short within a week of Kilauea (Nov 1).
 
 ## Supply and pace
-- 3 Shorts ready, 2 build failures. Keep the bar; posting fewer is fine.
-- Rescue clips are thinnest: 81 unused vs 315 aviation, 215 hazards.
-- YouTube caps us near 10 uploads a day. Never re-upload.
+- 0 Shorts ready, 3 scheduled. Oct 31 posted 6, limited by supply. Keep the bar; fewer is fine.
+- QA rejected 4 on Oct 31 for static shots and danger the footage never shows. Pick clips where the danger is on screen.
+- Clips: rescue 113 unused, aviation 355, hazards 222.
 
 ## Lane mix this week
-Hold rescue 0.6, aviation and naval 0.3, hazards 0.1.
+Rescue 0.5, aviation and naval 0.4 (up 0.1), hazards 0.1.
