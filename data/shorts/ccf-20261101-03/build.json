@@ -1,7 +1,686 @@
 {
   "short_id": "ccf-20261101-03",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-01T12:55:21Z",
-  "error": "line 7: shots are 3.4, 2.3s even after extending, but the line needs 5.8s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-01T20:52:04Z",
+  "duration": 41.21,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Three men had been missing for three days. Then a plane crew saw this.",
+      "start": 0.05,
+      "end": 5.37,
+      "words": [
+        {
+          "w": "Three",
+          "s": 0.05,
+          "e": 0.37
+        },
+        {
+          "w": "men",
+          "s": 0.53,
+          "e": 0.77
+        },
+        {
+          "w": "had",
+          "s": 0.85,
+          "e": 0.93
+        },
+        {
+          "w": "been",
+          "s": 1.01,
+          "e": 1.09
+        },
+        {
+          "w": "missing",
+          "s": 1.17,
+          "e": 1.49
+        },
+        {
+          "w": "for",
+          "s": 1.57,
+          "e": 1.73
+        },
+        {
+          "w": "three",
+          "s": 1.85,
+          "e": 1.97
+        },
+        {
+          "w": "days.",
+          "s": 2.05,
+          "e": 2.73
+        },
+        {
+          "w": "Then",
+          "s": 3.01,
+          "e": 3.33
+        },
+        {
+          "w": "a",
+          "s": 3.57,
+          "e": 3.73
+        },
+        {
+          "w": "plane",
+          "s": 3.89,
+          "e": 4.05
+        },
+        {
+          "w": "crew",
+          "s": 4.13,
+          "e": 4.37
+        },
+        {
+          "w": "saw",
+          "s": 4.41,
+          "e": 4.61
+        },
+        {
+          "w": "this.",
+          "s": 4.69,
+          "e": 5.37
+        }
+      ]
+    },
+    {
+      "text": "An S.O.S., dug into the sand of tiny Pikelot Island, in the Pacific.",
+      "start": 5.65,
+      "end": 10.57,
+      "words": [
+        {
+          "w": "An",
+          "s": 5.65,
+          "e": 5.81
+        },
+        {
+          "w": "S.O.S.,",
+          "s": 5.97,
+          "e": 6.69
+        },
+        {
+          "w": "dug",
+          "s": 7.01,
+          "e": 7.17
+        },
+        {
+          "w": "into",
+          "s": 7.25,
+          "e": 7.41
+        },
+        {
+          "w": "the",
+          "s": 7.49,
+          "e": 7.57
+        },
+        {
+          "w": "sand",
+          "s": 7.65,
+          "e": 7.89
+        },
+        {
+          "w": "of",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "tiny",
+          "s": 8.13,
+          "e": 8.45
+        },
+        {
+          "w": "Pikelot",
+          "s": 8.53,
+          "e": 9.01
+        },
+        {
+          "w": "Island,",
+          "s": 9.09,
+          "e": 9.57
+        },
+        {
+          "w": "in",
+          "s": 9.61,
+          "e": 9.69
+        },
+        {
+          "w": "the",
+          "s": 9.69,
+          "e": 9.77
+        },
+        {
+          "w": "Pacific.",
+          "s": 9.81,
+          "e": 10.57
+        }
+      ]
+    },
+    {
+      "text": "Their twenty-three foot skiff had set out on a twenty-one mile trip between islands, and never arrived.",
+      "start": 10.85,
+      "end": 16.85,
+      "words": [
+        {
+          "w": "Their",
+          "s": 10.85,
+          "e": 11.01
+        },
+        {
+          "w": "twenty-three",
+          "s": 11.09,
+          "e": 11.57
+        },
+        {
+          "w": "foot",
+          "s": 11.73,
+          "e": 11.89
+        },
+        {
+          "w": "skiff",
+          "s": 11.97,
+          "e": 12.29
+        },
+        {
+          "w": "had",
+          "s": 12.37,
+          "e": 12.53
+        },
+        {
+          "w": "set",
+          "s": 12.61,
+          "e": 12.77
+        },
+        {
+          "w": "out",
+          "s": 12.89,
+          "e": 13.01
+        },
+        {
+          "w": "on",
+          "s": 13.05,
+          "e": 13.13
+        },
+        {
+          "w": "a",
+          "s": 13.17,
+          "e": 13.25
+        },
+        {
+          "w": "twenty-one",
+          "s": 13.33,
+          "e": 13.73
+        },
+        {
+          "w": "mile",
+          "s": 13.89,
+          "e": 14.05
+        },
+        {
+          "w": "trip",
+          "s": 14.13,
+          "e": 14.37
+        },
+        {
+          "w": "between",
+          "s": 14.53,
+          "e": 14.69
+        },
+        {
+          "w": "islands,",
+          "s": 14.77,
+          "e": 15.49
+        },
+        {
+          "w": "and",
+          "s": 15.57,
+          "e": 15.65
+        },
+        {
+          "w": "never",
+          "s": 15.73,
+          "e": 15.97
+        },
+        {
+          "w": "arrived.",
+          "s": 16.05,
+          "e": 16.85
+        }
+      ]
+    },
+    {
+      "text": "An Air Force KC-135 crew spotted them on the final leg of its search pattern for the day.",
+      "start": 17.17,
+      "end": 22.53,
+      "words": [
+        {
+          "w": "An",
+          "s": 17.17,
+          "e": 17.33
+        },
+        {
+          "w": "Air",
+          "s": 17.41,
+          "e": 17.57
+        },
+        {
+          "w": "Force",
+          "s": 17.65,
+          "e": 17.89
+        },
+        {
+          "w": "KC-135",
+          "s": 17.97,
+          "e": 19.17
+        },
+        {
+          "w": "crew",
+          "s": 19.33,
+          "e": 19.57
+        },
+        {
+          "w": "spotted",
+          "s": 19.65,
+          "e": 20.05
+        },
+        {
+          "w": "them",
+          "s": 20.13,
+          "e": 20.21
+        },
+        {
+          "w": "on",
+          "s": 20.29,
+          "e": 20.37
+        },
+        {
+          "w": "the",
+          "s": 20.45,
+          "e": 20.53
+        },
+        {
+          "w": "final",
+          "s": 20.69,
+          "e": 20.85
+        },
+        {
+          "w": "leg",
+          "s": 20.93,
+          "e": 21.09
+        },
+        {
+          "w": "of",
+          "s": 21.13,
+          "e": 21.21
+        },
+        {
+          "w": "its",
+          "s": 21.25,
+          "e": 21.33
+        },
+        {
+          "w": "search",
+          "s": 21.41,
+          "e": 21.57
+        },
+        {
+          "w": "pattern",
+          "s": 21.65,
+          "e": 21.97
+        },
+        {
+          "w": "for",
+          "s": 22.01,
+          "e": 22.09
+        },
+        {
+          "w": "the",
+          "s": 22.13,
+          "e": 22.21
+        },
+        {
+          "w": "day.",
+          "s": 22.21,
+          "e": 22.53
+        }
+      ]
+    },
+    {
+      "text": "Next, a Coast Guard Hercules flew over and dropped them a radio and a message block.",
+      "start": 23.17,
+      "end": 28.37,
+      "words": [
+        {
+          "w": "Next,",
+          "s": 23.17,
+          "e": 23.73
+        },
+        {
+          "w": "a",
+          "s": 23.81,
+          "e": 23.89
+        },
+        {
+          "w": "Coast",
+          "s": 23.97,
+          "e": 24.13
+        },
+        {
+          "w": "Guard",
+          "s": 24.21,
+          "e": 24.45
+        },
+        {
+          "w": "Hercules",
+          "s": 24.53,
+          "e": 25.09
+        },
+        {
+          "w": "flew",
+          "s": 25.13,
+          "e": 25.33
+        },
+        {
+          "w": "over",
+          "s": 25.41,
+          "e": 25.73
+        },
+        {
+          "w": "and",
+          "s": 25.89,
+          "e": 25.97
+        },
+        {
+          "w": "dropped",
+          "s": 26.05,
+          "e": 26.29
+        },
+        {
+          "w": "them",
+          "s": 26.37,
+          "e": 26.45
+        },
+        {
+          "w": "a",
+          "s": 26.49,
+          "e": 26.57
+        },
+        {
+          "w": "radio",
+          "s": 26.61,
+          "e": 27.09
+        },
+        {
+          "w": "and",
+          "s": 27.17,
+          "e": 27.25
+        },
+        {
+          "w": "a",
+          "s": 27.29,
+          "e": 27.37
+        },
+        {
+          "w": "message",
+          "s": 27.49,
+          "e": 27.65
+        },
+        {
+          "w": "block.",
+          "s": 27.73,
+          "e": 28.37
+        }
+      ]
+    },
+    {
+      "text": "A message block is a weighted container with a note inside, dropped so a crew can talk to people who have no radio.",
+      "start": 28.69,
+      "end": 35.09,
+      "words": [
+        {
+          "w": "A",
+          "s": 28.69,
+          "e": 28.77
+        },
+        {
+          "w": "message",
+          "s": 28.85,
+          "e": 29.17
+        },
+        {
+          "w": "block",
+          "s": 29.25,
+          "e": 29.49
+        },
+        {
+          "w": "is",
+          "s": 29.57,
+          "e": 29.65
+        },
+        {
+          "w": "a",
+          "s": 29.69,
+          "e": 29.77
+        },
+        {
+          "w": "weighted",
+          "s": 29.81,
+          "e": 30.05
+        },
+        {
+          "w": "container",
+          "s": 30.13,
+          "e": 30.61
+        },
+        {
+          "w": "with",
+          "s": 30.69,
+          "e": 30.77
+        },
+        {
+          "w": "a",
+          "s": 30.81,
+          "e": 30.89
+        },
+        {
+          "w": "note",
+          "s": 30.93,
+          "e": 31.09
+        },
+        {
+          "w": "inside,",
+          "s": 31.33,
+          "e": 31.97
+        },
+        {
+          "w": "dropped",
+          "s": 32.05,
+          "e": 32.37
+        },
+        {
+          "w": "so",
+          "s": 32.45,
+          "e": 32.53
+        },
+        {
+          "w": "a",
+          "s": 32.57,
+          "e": 32.65
+        },
+        {
+          "w": "crew",
+          "s": 32.69,
+          "e": 32.85
+        },
+        {
+          "w": "can",
+          "s": 32.93,
+          "e": 33.09
+        },
+        {
+          "w": "talk",
+          "s": 33.21,
+          "e": 33.33
+        },
+        {
+          "w": "to",
+          "s": 33.41,
+          "e": 33.49
+        },
+        {
+          "w": "people",
+          "s": 33.61,
+          "e": 33.73
+        },
+        {
+          "w": "who",
+          "s": 33.81,
+          "e": 33.97
+        },
+        {
+          "w": "have",
+          "s": 34.05,
+          "e": 34.13
+        },
+        {
+          "w": "no",
+          "s": 34.21,
+          "e": 34.29
+        },
+        {
+          "w": "radio.",
+          "s": 34.37,
+          "e": 35.09
+        }
+      ]
+    },
+    {
+      "text": "The crew of the FSS Independence picked up all three men, with no reported injuries.",
+      "start": 35.41,
+      "end": 41.01,
+      "words": [
+        {
+          "w": "The",
+          "s": 35.41,
+          "e": 35.57
+        },
+        {
+          "w": "crew",
+          "s": 35.69,
+          "e": 35.81
+        },
+        {
+          "w": "of",
+          "s": 35.85,
+          "e": 35.93
+        },
+        {
+          "w": "the",
+          "s": 35.97,
+          "e": 36.05
+        },
+        {
+          "w": "FSS",
+          "s": 36.13,
+          "e": 36.77
+        },
+        {
+          "w": "Independence",
+          "s": 36.85,
+          "e": 37.57
+        },
+        {
+          "w": "picked",
+          "s": 37.65,
+          "e": 37.81
+        },
+        {
+          "w": "up",
+          "s": 37.89,
+          "e": 38.05
+        },
+        {
+          "w": "all",
+          "s": 38.13,
+          "e": 38.29
+        },
+        {
+          "w": "three",
+          "s": 38.37,
+          "e": 38.53
+        },
+        {
+          "w": "men,",
+          "s": 38.61,
+          "e": 39.25
+        },
+        {
+          "w": "with",
+          "s": 39.33,
+          "e": 39.41
+        },
+        {
+          "w": "no",
+          "s": 39.57,
+          "e": 39.73
+        },
+        {
+          "w": "reported",
+          "s": 39.97,
+          "e": 40.21
+        },
+        {
+          "w": "injuries.",
+          "s": 40.29,
+          "e": 41.01
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 41.2
+    },
+    "av_sync": {
+      "ok": true,
+      "value": -0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.19
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.2
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261101-03/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261101-03-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261101-03/ccf-20261101-03.mp4"
 }
