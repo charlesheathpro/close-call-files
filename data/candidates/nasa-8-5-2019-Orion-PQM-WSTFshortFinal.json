@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-8-5-2019-Orion-PQM-WSTFshortFinal",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:55:48Z",
   "duration": 59.95,
   "source_file": {
@@ -53,5 +53,6 @@
     50.16,
     53.87,
     57.59
-  ]
+  ],
+  "pass_reason": "ground engine test with no failure or visible stakes"
 }

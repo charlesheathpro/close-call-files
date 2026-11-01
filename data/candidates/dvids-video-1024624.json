@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1024624",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:58:07Z",
   "duration": 75.63,
   "source_file": {
@@ -160,5 +160,6 @@
     63.39,
     68.09,
     72.79
-  ]
+  ],
+  "pass_reason": "one static shot of the kayak behind the boat for the whole clip"
 }

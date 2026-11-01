@@ -26,7 +26,7 @@
   "time_start": 3.89187,
   "aspect_ratio": "16:9",
   "id": "dvids-video-479463",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:50:26Z",
   "duration": 120.28,
   "source_file": {
@@ -66,5 +66,6 @@
     101.67,
     108.91,
     116.16
-  ]
+  ],
+  "pass_reason": "night hoist camera almost entirely black; nothing readable on a phone"
 }

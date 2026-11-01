@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-832364",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:07:43Z",
   "duration": 72.99,
   "source_file": {
@@ -62,5 +62,6 @@
     61.16,
     65.69,
     70.22
-  ]
+  ],
+  "pass_reason": "vertical phone video in pillarbox; helicopter is a speck beside the rig and the fire is barely visible"
 }

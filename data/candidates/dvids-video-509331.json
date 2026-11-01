@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-509331",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:08:18Z",
   "duration": 62.83,
   "source_file": {
@@ -70,5 +70,6 @@
     53.22,
     56.87,
     60.51
-  ]
+  ],
+  "pass_reason": "distant low-detail FLIR; boat and helicopter are white blobs"
 }

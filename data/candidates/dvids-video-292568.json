@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-292568",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:50:08Z",
   "duration": 75.26,
   "source_file": {
@@ -164,5 +164,6 @@
     63.08,
     67.75,
     72.43
-  ]
+  ],
+  "pass_reason": "burned-in slate, fisheye black and white cabin camera with color noise; no crash or danger on screen"
 }

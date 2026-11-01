@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261030-08",
   "candidate_id": "nasa-2022-H1-V-Lift-CruiseDropTest-5",
-  "revision": 3,
+  "revision": 4,
   "lane": "aviation_naval",
   "story_type": "crash test",
   "music_mood": "hazards",
@@ -30,36 +30,56 @@
         "crop_x": 0.55
       },
       {
-        "start": 80.2,
-        "end": 82.6,
+        "start": 95.9,
+        "end": 98.6,
         "layout": "crop",
         "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 63.0,
-        "end": 65.5,
+        "start": 16.0,
+        "end": 18.5,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.45
       },
       {
-        "start": 59.2,
-        "end": 60.9,
+        "start": 52.0,
+        "end": 54.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 44.0,
+        "end": 46.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 53.5,
+        "end": 55.8,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 68.0,
-        "end": 70.4,
+        "start": 27.1,
+        "end": 30.0,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 0.5
       },
       {
-        "start": 65.5,
-        "end": 67.9,
+        "start": 48.0,
+        "end": 50.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 61.1,
+        "end": 62.6,
         "layout": "crop",
         "crop_x": 0.6
       }
@@ -72,24 +92,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 95.9,
-        "end": 98.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 98.4,
+        "start": 98.6,
         "end": 101.5,
         "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 101.8,
-        "end": 104.3,
-        "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.45
       },
       {
         "start": 104.3,
@@ -100,8 +106,8 @@
     ],
     [
       {
-        "start": 114.2,
-        "end": 116.7,
+        "start": 111.0,
+        "end": 114.0,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -114,20 +120,26 @@
     ],
     [
       {
-        "start": 110.4,
-        "end": 112.9,
+        "start": 22.0,
+        "end": 23.8,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 131.1,
-        "end": 133.6,
+        "start": 24.0,
+        "end": 26.8,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 134.6,
-        "end": 137.1,
+        "start": 56.0,
+        "end": 58.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 59.3,
+        "end": 60.9,
         "layout": "crop",
         "crop_x": 0.5
       }
