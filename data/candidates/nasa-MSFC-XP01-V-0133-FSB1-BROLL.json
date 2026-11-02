@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-XP01-V-0133-FSB1-BROLL",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-02T09:53:43Z",
   "duration": 148.39,
   "source_file": {
@@ -84,5 +84,6 @@
     124.79,
     134.03,
     143.27
-  ]
+  ],
+  "used_by": "ccf-20261102-09"
 }

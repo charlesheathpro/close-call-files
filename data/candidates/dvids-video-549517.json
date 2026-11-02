@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-549517",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:52:27Z",
   "duration": 34.37,
   "source_file": {
@@ -68,5 +68,6 @@
     28.58,
     30.69,
     32.81
-  ]
+  ],
+  "pass_reason": "foggy FLIR, nothing visible"
 }

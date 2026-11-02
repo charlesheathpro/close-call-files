@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-PN068-HF-12-hd-09-27-2023",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:51:27Z",
   "duration": 260.27,
   "source_file": {
@@ -50,5 +50,6 @@
     219.18,
     235.41,
     251.65
-  ]
+  ],
+  "pass_reason": "one static shot for four minutes"
 }

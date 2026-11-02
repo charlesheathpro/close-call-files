@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-676686",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:52:21Z",
   "duration": 68.73,
   "source_file": {
@@ -68,5 +68,6 @@
     57.57,
     61.83,
     66.1
-  ]
+  ],
+  "pass_reason": "night door-cam, dark and murky"
 }

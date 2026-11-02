@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2016-07-29-RS-25-Engine-Test-4K-Full-Duration",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:27:50Z",
   "duration": 673.73,
   "source_file": {
@@ -56,5 +56,6 @@
     568.04,
     610.12,
     652.19
-  ]
+  ],
+  "pass_reason": "one static steam shot"
 }

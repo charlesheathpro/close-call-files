@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-XP01-V-0133-FSB1-4K-DRONEBROLL",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:52:46Z",
   "duration": 220.3,
   "source_file": {
@@ -104,5 +104,6 @@
     185.46,
     199.19,
     212.93
-  ]
+  ],
+  "pass_reason": "same booster test as ccf-20261102-09"
 }

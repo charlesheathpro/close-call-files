@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-938493",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:15:44Z",
   "duration": 296.42,
   "source_file": {
@@ -482,5 +482,6 @@
     249.68,
     268.18,
     286.67
-  ]
+  ],
+  "pass_reason": "mostly hoist-cam ground and cabin, injured patient"
 }

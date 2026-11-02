@@ -1,0 +1,142 @@
+{
+  "short_id": "ccf-20261102-09",
+  "revision": 1,
+  "candidate_id": "nasa-MSFC-XP01-V-0133-FSB1-BROLL",
+  "lane": "aviation_naval",
+  "story_type": "rocket booster test fire",
+  "music_mood": "aviation",
+  "priority": 2,
+  "hook": "Once this booster is lit, nothing can turn it off",
+  "narration": [
+    "Once this rocket booster is lit, nothing can turn it off.",
+    "It was built for NASA's Moon rocket, and fired lying on its side in the Utah desert.",
+    "Its fuel is solid, packed inside the casing, and it burns until all of it is gone.",
+    "Two of these boosters give the rocket more than seventy five percent of its thrust.",
+    "Engineers fired this one to test new materials for future boosters."
+  ],
+  "outcome": "It burned for the full two minutes, right there on the test stand.",
+  "location_card": {
+    "place": "Promontory, Utah",
+    "date": "Sept. 2, 2020"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 38.0,
+        "end": 40.6,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 41.0,
+        "end": 43.6,
+        "layout": "crop",
+        "crop_x": 0.8
+      }
+    ],
+    [
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 23.0,
+        "end": 25.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 46.0,
+        "end": 48.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 54.0,
+        "end": 56.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 66.0,
+        "end": 68.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 86.0,
+        "end": 88.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 96.0,
+        "end": 98.8,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 110.0,
+        "end": 112.8,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 122.0,
+        "end": 124.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 129.5,
+        "end": 132.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "keep_source_audio": true,
+  "title": "Moon rocket booster fired on its side",
+  "description": "NASA and Northrop Grumman fired a Space Launch System solid rocket booster for two minutes at the T-97 test facility in Promontory, Utah, Sept. 2, 2020, to evaluate new materials for future boosters.\n\nFootage: NASA MSFC video, via the NASA Image and Video Library: https://images.nasa.gov/details/MSFC_XP01_V_0133_FSB1_BROLL\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #rocket #artemis",
+  "tags": [
+    "nasa",
+    "sls",
+    "solid rocket booster",
+    "rocket test",
+    "static fire",
+    "artemis",
+    "moon rocket",
+    "utah",
+    "northrop grumman",
+    "real footage"
+  ],
+  "question_comment": "Would you want to stand a mile away when this lights up?",
+  "facts": [
+    {
+      "claim": "Two-minute hot fire test on Sept. 2, 2020 in Promontory, Utah",
+      "source_quote": "during a two-minute hot fire test, Wednesday, September 2, 2020, at the T-97 Northrop Grumman test facility in Promontory, Utah"
+    },
+    {
+      "claim": "Booster for NASA's SLS Moon rocket",
+      "source_quote": "The flight support booster is structurally identical to each of the five-segment solid rocket boosters on the SLS rocket"
+    },
+    {
+      "claim": "Boosters give more than 75 percent of thrust",
+      "source_quote": "produce more than 75 percent of the rocket’s thrust capability"
+    },
+    {
+      "claim": "Testing new materials for future boosters",
+      "source_quote": "evaluate the motor’s performance using potential new materials and processes for future booster performance"
+    }
+  ]
+}

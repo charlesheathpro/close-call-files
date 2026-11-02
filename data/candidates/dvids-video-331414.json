@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-331414",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:45:12Z",
   "duration": 94.08,
   "source_file": {
@@ -72,5 +72,6 @@
     78.96,
     84.81,
     90.66
-  ]
+  ],
+  "pass_reason": "video credited to a private person"
 }
