@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-02T10:49:46Z from 30 Shorts older than 48 hours)
+# Playbook (computed 2026-11-02T23:57:07Z from 38 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: launch abort test (+0.47, 1 Shorts)
-- music: aviation (+0.44, 2 Shorts)
-- source: nasa (+0.44, 2 Shorts)
-- spacecraft or test story (+0.44, 2 Shorts)
-- lane: aviation_naval (+0.36, 3 Shorts)
-- story: dog cliff rescue (+0.26, 1 Shorts)
-- story: rooftop hoist flood (+0.24, 1 Shorts)
-- length under 30 s (+0.23, 22 Shorts)
+- length under 30 s (+0.42, 24 Shorts)
+- source: nasa (+0.39, 3 Shorts)
+- spacecraft or test story (+0.39, 3 Shorts)
+- lane: aviation_naval (+0.36, 4 Shorts)
+- music: aviation (+0.32, 2 Shorts)
+- story: launch abort test (+0.32, 1 Shorts)
+- source: commons (+0.22, 5 Shorts)
+- story: dog cliff rescue (+0.21, 1 Shorts)
 
 ## Do less of
-- story: volcano eruption (-0.64, 1 Shorts)
-- music: hazards (-0.58, 2 Shorts)
-- lane: hazards (-0.58, 2 Shorts)
-- source: dvids (-0.57, 23 Shorts)
-- story: flood hoist from rooftop (-0.19, 1 Shorts)
-- length 30 to 45 s (-0.19, 8 Shorts)
-- story: sinking fishing boat (-0.17, 1 Shorts)
-- story: dog rescue flood (-0.17, 2 Shorts)
+- music: hazards (-0.61, 3 Shorts)
+- length 45 s or more (-0.56, 2 Shorts)
+- source: dvids (-0.53, 30 Shorts)
+- story: wildfire rescue (-0.47, 1 Shorts)
+- story: volcano eruption (-0.43, 1 Shorts)
+- lane: hazards (-0.33, 2 Shorts)
+- story: capsized boat, people in water (-0.24, 1 Shorts)
+- story: capsized yacht hoist (-0.23, 1 Shorts)
 
 ## Best Shorts
 - Capsule torn off a rocket at Mach 1: 5232 views, 83% watched
 - Dog fell off an Oregon sea cliff: 1287 views, 85% watched
-- Lifted off a roof in Harvey's floodwater: 1393 views, 93% watched
+- Boat flipped with a 4-year-old aboard: 9617 views, 0% watched
+- Orion splashes down after the Moon: 9267 views, 0% watched
 - Tug sinking in Harvey, 4 still aboard: 1328 views, 81% watched
-- Ian left his boat in the treetops: 1644 views, 77% watched
 
 ## Weakest Shorts
-- Man and his dog Lucky saved from a roof: 1366 views, 58% watched
-- Stranded overnight under a cliff: 1286 views, 58% watched
-- Fishing boat sinks with 4 crew aboard: 1328 views, 52% watched
-- Harvey flooded their house to the roof: 1234 views, 52% watched
+- Stuck on a sea cliff near Crescent City: 1177 views, 0% watched
+- Yacht broke in two on Lake Erie: 1115 views, 0% watched
+- Boat flipped near Tampa, 7 in the water: 1100 views, 0% watched
 - Mauna Loa erupts after 38 years: 140 views, 66% watched
+- 214 people trapped by a wildfire: 314 views, 0% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261027-05: The surf under the stilt house is real danger, but the 366x274 FLIR source sits as a small, washed-out strip in the middle of a blurred frame for all 28 seconds, and line 3 plays over six seconds of a static wall. It would also be the fourth flooded-house rescue in a row after 01, 02 and 08.
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261030-09: Strong hook number, but it is one slow, nearly static ISS view for 36 seconds, letterboxed small in the middle of a blurred background, with the solar array cutting into frames at 9.2s and 14.7s.
 - ccf-20261030-10: The hook promises a 3,000 gallon drop that never appears on screen, and the title says it flies into the smoke, which the footage does not show. It is also the same C-130 over a wildfire story as 27-76.
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
-
-## Changed tonight
-- lane_mix {'rescue': 0.38, 'aviation_naval': 0.52, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.59, 'hazards': 0.1}
-- query weights for 21 searches

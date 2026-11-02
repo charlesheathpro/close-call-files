@@ -4,7 +4,8 @@ on:
     branches: [main]
     paths: ["triggers/stats"]
   schedule:
-    - cron: "5 3 * * *"   # about 9 PM Mountain
+    - cron: "5 3 * * *"    # about 8 PM Mountain, before the nightly review
+    - cron: "35 7,15,23 * * *"   # before each QA run, so the Control Room it refreshes is current
   workflow_dispatch:
 permissions:
   contents: write

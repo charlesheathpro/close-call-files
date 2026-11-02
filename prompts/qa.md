@@ -53,4 +53,6 @@ Score 7 or higher passes.
 4. Review the new render sheet and write the verdict for that revision.
 Reject back to the editor only when the clip itself cannot work (no danger on screen, wrong footage, unresolvable story, too little usable footage), and then set the spec to dropped with a `drop_reason` instead of asking for repairs that cannot fix it.
 
-Commit only `qa.json` files and any spec edits, pull with rebase, push. Finish with a short summary: passed, rejected (why), waiting.
+Commit only `qa.json` files and any spec edits, pull with rebase, push.
+
+Then refresh the Control Room so Charles sees current numbers (owner, Nov 2: it was lagging a day behind): `git pull`, run `python3 pipeline/dashboard.py`, and follow the `refresh` steps in `config/controlroom.json` (load ArtifactData and the Artifact tool with ToolSearch if needed). Read each uploaded file back once to confirm it loads. Commit `data/dashboard`. Finish with a short summary: passed, rejected (why), waiting.

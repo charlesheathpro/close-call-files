@@ -132,7 +132,11 @@ def main():
 
     cfg = load_json(CONFIG)
     changed = []
-    if out["mature"] >= MIN_MATURE and out.get("lane_scores"):
+    prev = load_json(DATA / "review" / "playbook.json") or {}
+    last = prev.get("config_changed_at") or ""
+    once_a_day = not last or last < (now() - timedelta(hours=20)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    out["config_changed_at"] = last
+    if once_a_day and out["mature"] >= MIN_MATURE and out.get("lane_scores"):
         mix = dict(cfg.get("lane_mix", {}))
         sc = out["lane_scores"]
         weights = {k: math.exp(sc.get(k, 0.0)) * mix.get(k, 0.2) for k in mix}
@@ -147,13 +151,14 @@ def main():
         if any(abs(new[k] - mix[k]) >= 0.02 for k in mix):
             cfg["lane_mix"] = new
             changed.append(f"lane_mix {mix} -> {new}")
-    if out.get("query_weights"):
+    if once_a_day and out.get("query_weights"):
         old = cfg["harvest"].get("query_weights", {})
         if old != out["query_weights"]:
             cfg["harvest"]["query_weights"] = out["query_weights"]
             changed.append(f"query weights for {len(out['query_weights'])} searches")
     if changed:
         save_json(CONFIG, cfg)
+        out["config_changed_at"] = out["at"]
     out["changed"] = changed
     save_json(DATA / "review" / "playbook.json", out)
     write_md(out)
