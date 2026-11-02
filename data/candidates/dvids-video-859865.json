@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:859865",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian rescue",
+  "title": "Coast Guard Drone B-Roll post Hurricane Ian",
+  "description": "U.S. Coast Guard drone footage of Pine Island, Florida, documented Oct. 4, 2022. The Coast Guard used drones post Hurricane Ian to conduct search and rescue operations in addition to damage assessments. U.S. Coast Guard video by Petty Officer 3rd Class Ian Gray.",
+  "keywords": "drone, Pine Island, Storm22, Hurricane Ian, HurricaneIan22, Florida, USCG",
+  "date": "2022-10-04T00:00:00-04:00",
+  "date_published": "2022-10-05T22:51:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Ian Gray",
+  "category": "B-Roll",
+  "virin": "221004-G-TR299-0312",
+  "location": {
+    "city": "Fort Myers",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859865/coast-guard-drone-b-roll-post-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859865",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:45:34Z",
+  "duration": 59.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109255929/DOD_109255929-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 53296404
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.74,
+    15.82,
+    30.0,
+    35.0,
+    42.48,
+    50.98
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859865.jpg",
+  "sheet_times": [
+    1.85,
+    5.56,
+    9.27,
+    12.98,
+    16.69,
+    20.39,
+    24.1,
+    27.81,
+    31.52,
+    35.23,
+    38.93,
+    42.64,
+    46.35,
+    50.06,
+    53.76,
+    57.47
+  ]
+}

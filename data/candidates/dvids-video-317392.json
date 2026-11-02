@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:317392",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel capsized",
+  "title": "Barnegat Light, NJ capsized vessel Mandy Ness",
+  "description": "BARNEGAT LIGHT, N.J. - Debris from the capsized fishing vessel Mandy Ness is shown off the shore here, Jan. 11, 2012. Two people were aboard the vessel when  the emergency indicating radio beacon was activated, which notified the Coast Guard of the incident. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-01-11T00:00:00-05:00",
+  "date_published": "2013-12-21T18:44:53-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Cynthia Oldham",
+  "category": "B-Roll",
+  "virin": "120111-G-NB914-001",
+  "location": {
+    "city": "Barnegat Light",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317392/barnegat-light-nj-capsized-vessel-mandy-ness",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.45833,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317392",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:06:47Z",
+  "duration": 236.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062303/DOD_101062303-1280x720-1330k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 1330,
+    "size": 41705240
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 39,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      236.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317392.jpg",
+  "sheet_times": [
+    12.65,
+    27.03,
+    41.41,
+    55.8,
+    70.18,
+    84.56,
+    98.94,
+    113.33,
+    127.71,
+    142.09,
+    156.47,
+    170.85,
+    185.24,
+    199.62,
+    214.0,
+    228.38
+  ]
+}

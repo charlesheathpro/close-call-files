@@ -1,0 +1,92 @@
+{
+  "asset_id": "nasa:SSC_2022-02-24_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Powers Up RS-25 Engine Testing for Deep Space Launches",
+  "description": "NASA conducted its third RS-25 engine hot fire test of the year on Feb. 24 on the Fred Haise Test Stand at Stennis Space Center. Operators fired the engine past recent testing at 111% power level up to 113% for a period of time, which demonstrates a margin of safety for operating the engine at the higher thrust. Each engine test in the current series provides valuable operational data to NASA's lead contractor, Aerojet Rocketdyne, on new components manufactured with state-of-the-art fabrication techniques as the company begins production on new RS-25 engines. NASA is testing RS-25 engines to help power the agency's Space Launch System (SLS) rocket on future deep-space missions.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2022-02-24T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2022-02-24_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2022-02-24-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:11:45Z",
+  "duration": 529.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2022-02-24_RS-25_Engine_Test/SSC_2022-02-24_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 12.01,
+      "e": 518.32,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    3.73,
+    23.53,
+    59.53,
+    79.6,
+    108.1,
+    141.23,
+    175.9,
+    207.3,
+    252.37,
+    272.03,
+    326.07,
+    349.73,
+    370.73,
+    403.63,
+    455.63,
+    477.9,
+    498.43
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.8,
+      1.5,
+      2.4,
+      7.6,
+      519.5,
+      523.0
+    ],
+    "silence_ends": [
+      1.5,
+      2.4,
+      3.7,
+      9.7,
+      520.1,
+      529.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2022-02-24-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.52,
+    49.55,
+    82.58,
+    115.62,
+    148.65,
+    181.68,
+    214.72,
+    247.75,
+    280.78,
+    313.82,
+    346.85,
+    379.88,
+    412.92,
+    445.95,
+    478.98,
+    512.02
+  ]
+}

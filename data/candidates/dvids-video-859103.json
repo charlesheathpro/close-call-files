@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:859103",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian rescue",
+  "title": "Coast Guard crew rescues 2 people around Sanibel, Florida",
+  "description": "A U.S. Coast Guard MH-65 Dolphin aircrew from Air Station Miami rescues two people who were stranded around Sanibel, Florida in the wake of hurricane Ian, Sept. 29, 2022. The crew made various other rescues in surrounding areas in the same timeframe.\r\n(U.S. Coast Guard Video by Petty Officer 2nd Class Tyler Kilbane)",
+  "keywords": "Air Station Miami, District Seven, Hurricane Ian, #HurricaneIan, HurricaneIan22, Florida",
+  "date": "2022-09-29T00:00:00-04:00",
+  "date_published": "2022-09-29T22:49:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220929-G-G0107-1100",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859103/coast-guard-crew-rescues-2-people-around-sanibel-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859103",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:47:12Z",
+  "duration": 354.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109245648/DOD_109245648.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 446842503
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 88.21,
+      "e": 90.21,
+      "text": "got a pair of shoes with you."
+    }
+  ],
+  "scene_cuts": [
+    3.82,
+    87.77,
+    107.66,
+    170.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-859103.jpg",
+  "sheet_times": [
+    11.06,
+    33.18,
+    55.29,
+    77.41,
+    99.53,
+    121.65,
+    143.77,
+    165.88,
+    188.0,
+    210.12,
+    232.24,
+    254.36,
+    276.47,
+    298.59,
+    320.71,
+    342.83
+  ]
+}

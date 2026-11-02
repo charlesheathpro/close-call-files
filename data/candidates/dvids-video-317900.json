@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:317900",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "boat overturned",
+  "title": "Overturned Crane",
+  "description": "Coast Guard Station Atlantic City, N.J., responds to an overturned crane in Absecon Bay, Tuesday, Jan. 29, 2013. The crane overturned while loading the fishing boat Michael Junior, spilling approximately 50 gallons of hydraulic fluid into the bay. U.S. Coast Guard video",
+  "keywords": "CGVI",
+  "date": "2013-01-29T20:42:57-05:00",
+  "date_published": "2013-12-22T21:04:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317900/overturned-crane",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317900",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:10:42Z",
+  "duration": 20.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062868/DOD_101062868.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 4565492
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.98,
+      "e": 5.98,
+      "text": "Step you up and forward and out."
+    },
+    {
+      "s": 5.98,
+      "e": 11.6,
+      "text": "Hydraulic fluid."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      15.0
+    ],
+    "silence_ends": [
+      4.1,
+      20.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317900.jpg",
+  "sheet_times": [
+    0.61,
+    1.83,
+    3.06,
+    4.28,
+    5.5,
+    6.72,
+    7.95,
+    9.17,
+    10.39,
+    11.61,
+    12.84,
+    14.06,
+    15.28,
+    16.51,
+    17.73,
+    18.95
+  ]
+}

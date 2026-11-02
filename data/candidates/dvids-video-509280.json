@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:509280",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "stranded hikers",
+  "title": "Coast Guard aircrew hoists stranded hiker near Lincoln City, Ore.",
+  "description": "An MH-60 Jayhawk helicopter crew, from Coast Guard Air Station Astoria in Warrenton, Ore., hoist a 30-year-old stranded hiker from an isolated beach cove 5 miles north of Lincoln City, Feb. 11, 2017.\r\n\r\nHe reportedly fell down a 130-foot cliff into the cove while hiking God's Thumb.\r\n\r\nU.S. Coast Guard video courtesy of Air Station Astoria.",
+  "keywords": "hoist, Air Station, aircrew, hiker, helcopter, cliff, fell, Jaykaw, God's Thumb, Oregon, Astoria, stranded",
+  "date": "2017-02-11T00:00:00-05:00",
+  "date_published": "2017-02-11T21:58:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170211-G-G0213-0001",
+  "location": {
+    "city": "Lincoln City",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/509280/coast-guard-aircrew-hoists-stranded-hiker-near-lincoln-city-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-509280",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:15:39Z",
+  "duration": 123.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1702/DOD_104071287/DOD_104071287.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8864,
+    "size": 138361842
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    35.0,
+    117.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      40.6,
+      46.9,
+      54.4,
+      64.4,
+      68.9,
+      72.0,
+      100.6,
+      104.4,
+      108.3
+    ],
+    "silence_ends": [
+      37.7,
+      41.8,
+      49.8,
+      59.5,
+      67.0,
+      70.5,
+      73.7,
+      101.8,
+      105.6,
+      111.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-509280.jpg",
+  "sheet_times": [
+    3.85,
+    11.54,
+    19.24,
+    26.93,
+    34.63,
+    42.32,
+    50.02,
+    57.71,
+    65.41,
+    73.1,
+    80.8,
+    88.49,
+    96.19,
+    103.89,
+    111.58,
+    119.28
+  ]
+}

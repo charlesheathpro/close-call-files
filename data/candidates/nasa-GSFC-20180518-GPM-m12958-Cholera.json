@@ -1,0 +1,236 @@
+{
+  "asset_id": "nasa:GSFC_20180518_GPM_m12958_Cholera",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "severe weather",
+  "title": "Using Precipitation Data to Assess Risk of Cholera Outbreaks",
+  "description": "Diarrheal diseases such as cholera continue to be a public health threat. Prediction of an outbreak of diarrheal disease, specifically cholera, following a natural disaster remains a challenge, especially in regions lacking basic safe civil infrastructure [water, sanitation and hygiene (WASH)]. The underlying mechanism of a cholera outbreak is associated with disruption in the human access to safe WASH infrastructure that results in the population using unsafe water containing pathogenic vibrios. Presence and abundance of Vibrio cholerae, the causative agent of cholera, are related to modalities of the environment and regional weather as well as the climate systems. Major cholera outbreaks occur in two dominant forms: (a) epidemic, characterized by a sudden and sporadic occurrence of a large number of cholera cases and (b) endemic, in which human cholera cases occur on annual scales with distinct and characteristic seasonality. Natural disasters characteristically leave a trail of destruction, the result of which may be a human population deprived of access to WASH infrastructure. For example, under normal circumstances, the likelihood of a cholera outbreak is low, since the human population adapts to its specific behavioral pattern of water use. However, following a natural disaster, human behavior will change, if the availability, use pattern, and storage capacity of drinking water are altered as a result of the WASH infrastructure having been severely damaged and/or rendered unusable. Forecasting a cholera risk is challenging because of the lack of data on pathogen abundance in local water systems, weather and climate patterns and existing WASH infrastructure. Vibrios, including V. cholerae are autochthonous to the natural aquatic ecosystem, hence eradication is not feasible. A new modeling approach using satellite data will likely to enhance our ability to develop cholera risk maps in several regions of the globe. The model (GCRM) is based on monthly air temperature, precipitation, availability of WASH infrastructure, population density and severity of natural disaster. The outputs of GCRM can be visualized on 0.10x0.10, with the hope of improving the spatial scale as new data products are incorporated into the model.",
+  "keywords": "Atmospheric Science, Precipitation, Bangladesh, Haiti, Yemen, Earth, Diseases, Epidemics, Cholera",
+  "date": "2018-05-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20180518_GPM_m12958_Cholera",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20180518-GPM-m12958-Cholera",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:42:37Z",
+  "duration": 191.55,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20180518_GPM_m12958_Cholera/GSFC_20180518_GPM_m12958_Cholera~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 6.8,
+      "text": "Decades of research and technology have allowed for better forecasting of the when, where, and how intense a hurricane will be."
+    },
+    {
+      "s": 6.8,
+      "e": 10.8,
+      "text": "But what if we could predict a disease outbreak in the wake of a storm?"
+    },
+    {
+      "s": 10.8,
+      "e": 17.2,
+      "text": "That's the question some researchers asked about cholera in Haiti in the aftermath of Hurricane Matthew."
+    },
+    {
+      "s": 17.2,
+      "e": 25.1,
+      "text": "Cholera is a water-borne infectious disease that occurs when a person ingests food or water contaminated with the vibrio bacterium."
+    },
+    {
+      "s": 25.1,
+      "e": 29.6,
+      "text": "Cholera causes severe diarrhea, nausea, vomiting, and dehydration,"
+    },
+    {
+      "s": 29.6,
+      "e": 31.9,
+      "text": "and can lead to death if untreated."
+    },
+    {
+      "s": 31.9,
+      "e": 37.6,
+      "text": "Researchers estimate that hundreds of thousands of cases are reported each year worldwide."
+    },
+    {
+      "s": 37.6,
+      "e": 47.1,
+      "text": "The bacterium is found in world oceans globally, especially in the temperate regions and in the tropics."
+    },
+    {
+      "s": 47.1,
+      "e": 58.4,
+      "text": "So in the countries less developed with infrastructure that is not equivalent, let's say Europe or the United States or Canada,"
+    },
+    {
+      "s": 58.5,
+      "e": 67.2,
+      "text": "then the population that has to rely on river water, pond water, is at risk for cholera."
+    },
+    {
+      "s": 67.2,
+      "e": 75.2,
+      "text": "In addition to water insecurity, high seasonal temperatures followed by extreme rainfall, concentrated populations,"
+    },
+    {
+      "s": 75.2,
+      "e": 80.2,
+      "text": "and a natural disaster are all conditions conducive to a cholera epidemic."
+    },
+    {
+      "s": 80.2,
+      "e": 83.2,
+      "text": "This was the case for Haiti in 2010."
+    },
+    {
+      "s": 83.3,
+      "e": 92.5,
+      "text": "The data that we were able to pull together showed that in 2010 it was the hottest summer in 50 years."
+    },
+    {
+      "s": 92.5,
+      "e": 103.0,
+      "text": "And then as if that weren't enough, there was a hurricane that skirted the island, but it dumped the heaviest rainfall in 50 years."
+    },
+    {
+      "s": 103.0,
+      "e": 107.9,
+      "text": "We tried to make an algorithm in a cohesive form to determine the risk."
+    },
+    {
+      "s": 107.9,
+      "e": 118.31,
+      "text": "And that basically provided us with the first clues on the risk of outbreak of cholera in Haiti after this earthquake."
+    },
+    {
+      "s": 118.31,
+      "e": 126.71,
+      "text": "Then we used the same algorithm with improved satellite data sets from global precipitation measurement mission"
+    },
+    {
+      "s": 126.71,
+      "e": 130.61,
+      "text": "after Hurricane Matthew struck that region again."
+    },
+    {
+      "s": 132.53,
+      "e": 141.23,
+      "text": "And we were able to in real time predict the risk of cholera infection in human population at least four weeks in advance."
+    },
+    {
+      "s": 141.23,
+      "e": 143.63,
+      "text": "We did the same thing for Yemen."
+    },
+    {
+      "s": 143.63,
+      "e": 148.23,
+      "text": "We knew that there is a mass movement of human population due to civil unrest in that part of the world."
+    },
+    {
+      "s": 148.23,
+      "e": 151.73,
+      "text": "And then we had very heavy precipitation."
+    },
+    {
+      "s": 151.73,
+      "e": 154.93,
+      "text": "And then we immediately started monitoring conditions."
+    },
+    {
+      "s": 154.93,
+      "e": 163.23,
+      "text": "And that basically converged to give us a risk on where and when this disease will occur in human population."
+    },
+    {
+      "s": 163.23,
+      "e": 171.03,
+      "text": "I think we can predict and prevent and I'd like to see that happen very quickly in the next three to five years."
+    },
+    {
+      "s": 171.03,
+      "e": 180.53,
+      "text": "And I'd like to see the satellite system to be part of the regular public health tools so that we can do prediction"
+    },
+    {
+      "s": 180.53,
+      "e": 185.53,
+      "text": "as well as the tracking of epidemics that's done traditionally now."
+    }
+  ],
+  "scene_cuts": [
+    1.43,
+    2.87,
+    4.3,
+    5.73,
+    7.17,
+    10.8,
+    17.57,
+    20.0,
+    22.43,
+    24.9,
+    27.37,
+    29.83,
+    31.8,
+    37.6,
+    39.47,
+    41.33,
+    43.2,
+    48.97,
+    61.07,
+    67.27,
+    80.37,
+    87.67,
+    91.37,
+    99.2,
+    105.0,
+    109.33,
+    112.43,
+    115.6,
+    142.93,
+    144.8,
+    146.67,
+    148.53,
+    153.37,
+    164.33,
+    170.27,
+    179.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      189.3
+    ],
+    "silence_ends": [
+      191.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20180518-GPM-m12958-Cholera.jpg",
+  "sheet_times": [
+    5.97,
+    17.91,
+    29.85,
+    41.79,
+    53.73,
+    65.67,
+    77.61,
+    89.56,
+    101.5,
+    113.44,
+    125.38,
+    137.32,
+    149.26,
+    161.2,
+    173.14,
+    185.08
+  ]
+}

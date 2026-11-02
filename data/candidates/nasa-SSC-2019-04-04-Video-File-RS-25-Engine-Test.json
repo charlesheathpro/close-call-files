@@ -1,0 +1,113 @@
+{
+  "asset_id": "nasa:SSC_2019-04-04 - Video File - RS-25 Engine Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Achieves Testing Milestone with Engines for Initial SLS Missions",
+  "description": "NASA conducted a hot fire test of RS-25 flight engine No. 2062 on the A-1 Test Stand at Stennis Space Center on April 4, with a full-duration of 500 seconds. The hot fire caps more than four years of testing for engines that will help power the first four missions of NASA’s new Space Launch System (SLS) rocket. All 16 former space shuttle main engines that will help launch the first four SLS missions have undergone acceptance testing and have completed developmental and acceptance testing for new controllers to be used by the engines. It also concludes a 51-month test series that demonstrated RS-25 engines can perform at the higher power level needed to launch the super heavy-lift SLS rocket.",
+  "keywords": "NASA, Space Launch System, SLS, Rocket Engine Test, SSC, Stennis Space Center, RS-25 Engine, Video File",
+  "date": "2019-04-04T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2019-04-04%20-%20Video%20File%20-%20RS-25%20Engine%20Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2019-04-04-Video-File-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:12:09Z",
+  "duration": 212.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2019-04-04%20-%20Video%20File%20-%20RS-25%20Engine%20Test/SSC_2019-04-04%20-%20Video%20File%20-%20RS-25%20Engine%20Test~orig.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 34.03,
+      "e": 36.1,
+      "text": "<b>(water flowing)</b>"
+    },
+    {
+      "s": 36.17,
+      "e": 74.01,
+      "text": "<b>(rocket engine rumbling)</b>"
+    },
+    {
+      "s": 88.02,
+      "e": 90.09,
+      "text": "<b>(water flowing)</b>"
+    },
+    {
+      "s": 90.16,
+      "e": 100.97,
+      "text": "(rocket engine rumbling)"
+    },
+    {
+      "s": 101.03,
+      "e": 103.44,
+      "text": "<b>(water flowing)</b>"
+    },
+    {
+      "s": 103.5,
+      "e": 205.94,
+      "text": "(rocket engine rumbling)"
+    },
+    {
+      "s": 206.0,
+      "e": 207.51,
+      "text": "<b>(water flowing)</b>"
+    }
+  ],
+  "scene_cuts": [
+    20.07,
+    34.1,
+    40.77,
+    47.43,
+    67.4,
+    74.07,
+    88.07,
+    114.03,
+    127.03,
+    148.07,
+    161.07,
+    187.03,
+    198.07,
+    208.07
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      74.0,
+      208.0
+    ],
+    "silence_ends": [
+      34.1,
+      88.1,
+      212.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2019-04-04-Video-File-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    6.61,
+    19.83,
+    33.06,
+    46.28,
+    59.5,
+    72.73,
+    85.95,
+    99.17,
+    112.39,
+    125.62,
+    138.84,
+    152.06,
+    165.29,
+    178.51,
+    191.73,
+    204.96
+  ]
+}

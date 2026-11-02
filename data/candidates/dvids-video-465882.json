@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:465882",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pilot rescue",
+  "title": "Coast Guard, good Samaritan rescue 4 following in-air mishap off North Carolina Coast",
+  "description": "Crew from Air Station Elizabeth City hoist four Navy pilots 25 miles east of Oregon Inlet, North Carolina, Thursday, May 26, 2016. After an in-air mishap between two Navy aircraft, Coast Guard personnel and a good Samaritan vessel responded to medevac four pilots out of the water. The pilots were recovered and taken to Sentara Norfolk General Hospital in Norfolk, Virginia.",
+  "keywords": "Coast Guard rescue, Coast Guard, navy, medevac, Virginia, pilots",
+  "date": "2016-05-26T00:00:00-04:00",
+  "date_published": "2016-05-26T19:17:37-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Joshua Canup",
+  "category": "B-Roll",
+  "virin": "160526-G-ZZ999-004",
+  "location": {
+    "city": "Oregon Inlet",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/465882/coast-guard-good-samaritan-rescue-4-following-air-mishap-off-north-carolina-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-465882",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:07:05Z",
+  "duration": 192.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103338669/DOD_103338669.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9099,
+    "size": 219115699
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    33.9,
+    55.46,
+    96.26,
+    119.42,
+    151.45,
+    179.31
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      192.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-465882.jpg",
+  "sheet_times": [
+    9.9,
+    21.64,
+    33.39,
+    45.13,
+    56.88,
+    68.62,
+    80.37,
+    92.11,
+    103.86,
+    115.6,
+    127.35,
+    139.09,
+    150.84,
+    162.58,
+    174.33,
+    186.07
+  ]
+}

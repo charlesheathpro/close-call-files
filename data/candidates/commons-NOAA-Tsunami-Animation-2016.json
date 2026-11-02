@@ -1,0 +1,75 @@
+{
+  "asset_id": "commons:File:NOAA Tsunami Animation-2016.webm",
+  "source": "commons",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "NOAA Tsunami Animation-2016",
+  "description": "NOAA Tsunami animation",
+  "keywords": "National Oceanic and Atmospheric Administration, PD US NOAA, Animations of tsunamis, Videos of tsunamis",
+  "date": "2016-10-04",
+  "branch": "",
+  "unit_name": "NOAA",
+  "credit": "NOAA video",
+  "original_source": "NOAA Youtube",
+  "page_url": "https://commons.wikimedia.org/wiki/File:NOAA_Tsunami_Animation-2016.webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "commons-NOAA-Tsunami-Animation-2016",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:44:57Z",
+  "duration": 87.37,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/NOAA_Tsunami_Animation-2016.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1280,
+    "height": 720,
+    "size": 22145054
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.07,
+    24.23,
+    44.23,
+    55.37,
+    60.0,
+    63.7
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      25.6,
+      38.1,
+      42.7,
+      46.1,
+      85.3
+    ],
+    "silence_ends": [
+      37.9,
+      39.8,
+      44.8,
+      49.6,
+      87.4
+    ]
+  },
+  "sheet": "data/candidates/commons-NOAA-Tsunami-Animation-2016.jpg",
+  "sheet_times": [
+    2.71,
+    8.14,
+    13.57,
+    19.0,
+    24.43,
+    29.86,
+    35.29,
+    40.72,
+    46.15,
+    51.58,
+    57.01,
+    62.44,
+    67.87,
+    73.3,
+    78.73,
+    84.15
+  ]
+}

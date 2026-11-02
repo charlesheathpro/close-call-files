@@ -1,0 +1,72 @@
+{
+  "asset_id": "nasa:GSFC_20181213_Antarctic_m13117_Snowfall",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "iceberg",
+  "title": "Snow over Antarctica Buffered Sea Level Rise during Last Century",
+  "description": "A new NASA-led study has determined that an increase in snowfall accumulation over Antarctica during the 20th century mitigated sea level rise by 0.4 inches. However, Antarctica’s additional ice mass gained from snowfall only makes up for about a third of its current ice loss. These findings don’t necessarily mean that Antarctica is growing; it’s still losing mass, even with the extra snowfall. However, without these gains, the planet would have experienced even more sea level rise in the 20th century. The polar ice sheets grow via snow accumulation and shrink through melting and the production of icebergs. Presently, both ice sheets are imbalanced –losing more ice annually than they are gaining– and their ice loss is estimated to be currently causing about a half of the observed sea level rise.",
+  "keywords": "Snow Cover, Sea Level Rise, Earth",
+  "date": "2018-12-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20181213_Antarctic_m13117_Snowfall",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20181213-Antarctic-m13117-Snowfall",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:45:05Z",
+  "duration": 68.48,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20181213_Antarctic_m13117_Snowfall/GSFC_20181213_Antarctic_m13117_Snowfall~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.0,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    28.83,
+    33.03,
+    39.87,
+    45.67,
+    52.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      64.0,
+      65.0
+    ],
+    "silence_ends": [
+      64.7,
+      68.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20181213-Antarctic-m13117-Snowfall.jpg",
+  "sheet_times": [
+    2.12,
+    6.37,
+    10.62,
+    14.87,
+    19.12,
+    23.37,
+    27.62,
+    31.87,
+    36.11,
+    40.36,
+    44.61,
+    48.86,
+    53.11,
+    57.36,
+    61.61,
+    65.86
+  ]
+}

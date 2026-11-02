@@ -1,0 +1,119 @@
+{
+  "asset_id": "nasa:SSC_GreenRunResourceReel20210116",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "Green Run Resource Reel 2021-01-16",
+  "description": "Teams from NASA’s Space Launch System (SLS) Program conducted a hot fire test of the Artemis I core stage on Jan. 16 at NASA’s Stennis Space Center.  All four RS-25 engines ignited successfully, but the test was stopped early after about a minute of hot fire.  At that point, the test was fully automated and the onboard software acted appropriately to initiate a safe shutdown of the engines.  The following footage includes footage of the B-2 Test Stand at Stennis, as well as full-duration footage of the SLS hot fire test on Jan. 16 from five different angles, including a drone camera, field camera, and three on-stand cameras.",
+  "keywords": "Green Run Test, Stennis Space Center, SLS, NASA, Artemis I, Core Stage",
+  "date": "2021-01-16T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_GreenRunResourceReel20210116",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-GreenRunResourceReel20210116",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:57:43Z",
+  "duration": 529.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_GreenRunResourceReel20210116/SSC_GreenRunResourceReel20210116~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 6.0,
+      "e": 110.98,
+      "text": "<i>(gasses hissing)</i>"
+    },
+    {
+      "s": 116.38,
+      "e": 188.99,
+      "text": "<i>(engines rumbling)</i>"
+    },
+    {
+      "s": 197.56,
+      "e": 270.0,
+      "text": "<i>(engines rumbling)</i>"
+    },
+    {
+      "s": 282.95,
+      "e": 355.49,
+      "text": "<i>(engines rumbling)</i>"
+    },
+    {
+      "s": 363.3,
+      "e": 435.63,
+      "text": "<i>(engines rumbling)</i>"
+    },
+    {
+      "s": 448.48,
+      "e": 520.99,
+      "text": "<i>(engines rumbling)</i>"
+    }
+  ],
+  "scene_cuts": [
+    5.07,
+    6.07,
+    21.07,
+    36.1,
+    51.1,
+    81.07,
+    96.07,
+    111.03,
+    195.03,
+    196.03,
+    273.37,
+    274.37,
+    355.6,
+    356.6,
+    438.03,
+    439.03,
+    448.63,
+    448.77,
+    528.03
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      188.6,
+      269.7,
+      355.1,
+      435.5,
+      520.5
+    ],
+    "silence_ends": [
+      116.1,
+      197.2,
+      282.6,
+      362.9,
+      448.1,
+      529.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-GreenRunResourceReel20210116.jpg",
+  "sheet_times": [
+    16.52,
+    49.55,
+    82.58,
+    115.62,
+    148.65,
+    181.68,
+    214.72,
+    247.75,
+    280.78,
+    313.82,
+    346.85,
+    379.88,
+    412.92,
+    445.95,
+    478.98,
+    512.02
+  ]
+}

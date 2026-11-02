@@ -1,0 +1,76 @@
+{
+  "asset_id": "nasa:KSC-20191115-VP-MWC01-INSIDEKSC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "Inside KSC! Nov. 15, 2019",
+  "description": "SpaceX completed static fire tests of its Crew Dragon spacecraft at Landing Zone 1 on Cape Canaveral Air Force Station on Nov. 13, 2019. During the tests, SpaceX completed firings of its Draco thrusters and SuperDraco engines. Stacking is complete on the rocket set to launch Boeing's CST-100 Starliner on its first flight to the International Space Station. Teams mated a Centaur upper stage to the United Launch Alliance Atlas V first stage inside the Space Launch Complex 41 Vertical Integration Facility at Cape Canaveral Air Force Station.",
+  "keywords": "SpacexX, United Launch Alliance, Boeing, CST-100 Starliner, Crew Dragon, SuperDraco engines, Commercial Crew Program, CCP",
+  "date": "2019-11-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20191115-VP-MWC01-INSIDEKSC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20191115-VP-MWC01-INSIDEKSC",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:31:05Z",
+  "duration": 100.0,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20191115-VP-MWC01-INSIDEKSC/KSC-20191115-VP-MWC01-INSIDEKSC~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 6.76,
+      "text": "Natural"
+    }
+  ],
+  "scene_cuts": [
+    39.27,
+    43.63,
+    48.5,
+    51.1,
+    55.17,
+    59.77,
+    63.27,
+    66.17,
+    70.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      77.1,
+      78.5
+    ],
+    "silence_ends": [
+      78.2,
+      100.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20191115-VP-MWC01-INSIDEKSC.jpg",
+  "sheet_times": [
+    3.11,
+    9.33,
+    15.55,
+    21.77,
+    27.98,
+    34.2,
+    40.42,
+    46.64,
+    52.86,
+    59.08,
+    65.3,
+    71.52,
+    77.73,
+    83.95,
+    90.17,
+    96.39
+  ]
+}

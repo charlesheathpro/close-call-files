@@ -1,0 +1,85 @@
+{
+  "asset_id": "nasa:SSC_2023-02-08_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Conducts First 2023 Test of Redesigned Moon Rocket Engine",
+  "description": "NASA’s newly redesigned RS-25 engine for future flights of the Space Launch System (SLS) rocket underwent its first hot fire test of the year Feb. 8 at the agency’s Stennis Space Center near Bay St. Louis, Mississippi on the Fred Haise Test Stand. The testing series supports production of new RS-25 engines by lead SLS engine contractor Aerojet Rocketdyne. The single-engine hot fire, which fired for 500 seconds, featured a range of new components, including a new nozzle. The new engines will help power future Artemis missions to the Moon beginning with Artemis V as NASA explores the universe for the benefit of all.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2023-02-08T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2023-02-08_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2023-02-08-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:57:01Z",
+  "duration": 522.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2023-02-08_RS-25_Engine_Test/SSC_2023-02-08_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 11.41,
+      "e": 512.98,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    30.47,
+    52.7,
+    70.4,
+    97.83,
+    115.1,
+    170.27,
+    184.57,
+    197.47,
+    253.4,
+    324.37,
+    347.8,
+    369.97,
+    382.67,
+    401.77,
+    433.2,
+    450.87,
+    470.03,
+    500.47
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      516.9
+    ],
+    "silence_ends": [
+      12.2,
+      522.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2023-02-08-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.3,
+    48.89,
+    81.49,
+    114.09,
+    146.68,
+    179.28,
+    211.87,
+    244.47,
+    277.06,
+    309.66,
+    342.26,
+    374.85,
+    407.45,
+    440.04,
+    472.64,
+    505.24
+  ]
+}

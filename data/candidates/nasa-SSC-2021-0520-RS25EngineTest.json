@@ -1,0 +1,81 @@
+{
+  "asset_id": "nasa:SSC_2021_0520_RS25EngineTest",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Fires Up Fourth RS-25 Engine Test for Future Artemis Moon Missions",
+  "description": "NASA conducted its fourth RS-25 single-engine hot fire May 20, a continuation of its seven-part test series to support the development and production of engines for the agency’s Space Launch System (SLS) rocket on future missions to the Moon. The engine was fired for more than 8 minutes (500 seconds) on the A-1 Test Stand at Stennis Space Center. During this test, they fired the engine at 111% of its original power level for a set duration of time, the same level that RS-25 engines are required to operate at to power the launch of SLS.",
+  "keywords": "NASA, SLS, Space Launch System, RS-25, Rocket Engines, Stennis Space Center, SSC, Engine Testing",
+  "date": "2021-05-20T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2021_0520_RS25EngineTest",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2021-0520-RS25EngineTest",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:51:50Z",
+  "duration": 522.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2021_0520_RS25EngineTest/SSC_2021_0520_RS25EngineTest~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.01,
+      "e": 515.98,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    21.17,
+    38.87,
+    51.2,
+    66.13,
+    116.93,
+    177.6,
+    224.23,
+    255.83,
+    305.07,
+    356.37,
+    382.93,
+    414.93,
+    438.77,
+    471.57
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      516.1
+    ],
+    "silence_ends": [
+      10.9,
+      522.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2021-0520-RS25EngineTest.jpg",
+  "sheet_times": [
+    16.3,
+    48.89,
+    81.49,
+    114.09,
+    146.68,
+    179.28,
+    211.87,
+    244.47,
+    277.06,
+    309.66,
+    342.26,
+    374.85,
+    407.45,
+    440.04,
+    472.64,
+    505.24
+  ]
+}

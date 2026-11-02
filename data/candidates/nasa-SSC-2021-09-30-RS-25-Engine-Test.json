@@ -1,0 +1,88 @@
+{
+  "asset_id": "nasa:SSC_2021-09-30_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "NASA Readies for Future Artemis Moon Missions with Rocket Engine Test Series",
+  "description": "NASA marked a significant milestone on Sept. 30 in its plans for future missions to the Moon and, eventually, Mars with the completion of an RS-25 single-engine Retrofit-2 test series at Stennis Space Center. A full-duration hot fire of RS-25 of developmental engine No. 0528 on the A-1 Test Stand at Stennis culminated a seven-test series to support development and production of new engines for the agency’s Space Launch System (SLS) rocket on future Artemis missions. During this hot fire, operators fired RS-25 developmental engine No. 0528, used for each of the seven tests in the series, for more than eight minutes (500 seconds), the same time required during an actual launch.",
+  "keywords": "NASA, SLS, Space Launch System, RS-25, Rocket Engines, Stennis Space Center, SSC, Engine Testing",
+  "date": "2021-09-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2021-09-30_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2021-09-30-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:55:58Z",
+  "duration": 523.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2021-09-30_RS-25_Engine_Test/SSC_2021-09-30_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 11.51,
+      "e": 512.18,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    30.0,
+    53.63,
+    83.37,
+    90.2,
+    123.23,
+    148.97,
+    163.2,
+    185.5,
+    207.53,
+    239.07,
+    273.03,
+    317.57,
+    331.73,
+    367.2,
+    387.2,
+    416.67,
+    431.03,
+    478.7,
+    498.27
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      1.8,
+      8.8,
+      512.3
+    ],
+    "silence_ends": [
+      2.5,
+      10.0,
+      519.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2021-09-30-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.33,
+    48.99,
+    81.65,
+    114.3,
+    146.96,
+    179.62,
+    212.28,
+    244.94,
+    277.6,
+    310.25,
+    342.91,
+    375.57,
+    408.23,
+    440.89,
+    473.55,
+    506.2
+  ]
+}

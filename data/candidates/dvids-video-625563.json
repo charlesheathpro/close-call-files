@@ -1,0 +1,106 @@
+{
+  "asset_id": "video:625563",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Florence",
+  "description": "Rescue teams for the 106th Rescue Wing, New York, Alaska Air National Guard, California Air National Guard and others monitor and synchronize response efforts at Dover Air Force Base, Del. on 14 September, 2018 (U.S. Air Force video by Tech. Sgt. Laura Beckley).",
+  "keywords": "California Air National Guard, Dover Air Force Base, NYANG, cng, Alaska Air National Guard, 436th Airlift Wing, AKNG, NYNG, 436 AW, CANG, AKANG, Hurricane Florence, Air National Guard, New York Air National Guard",
+  "date": "2018-09-14T00:00:00-04:00",
+  "date_published": "2018-09-14T19:25:03-04:00",
+  "branch": "Air Force",
+  "unit_name": "436th Airlift Wing",
+  "credit": "Tech. Sgt. Laura Beckley",
+  "category": "B-Roll",
+  "virin": "180914-F-US651-9002",
+  "location": {
+    "city": "Dover Air Force Base",
+    "state": "Delaware",
+    "country": "United States",
+    "state_abbreviation": "DE",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625563/hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625563",
+  "status": "new",
+  "harvested_at": "2026-11-02T10:01:12Z",
+  "duration": 22.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106024323/DOD_106024323.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9701,
+    "size": 27454361
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 3.28,
+      "text": "Right now the roads are still looking pretty good, but again they won't know the next one"
+    },
+    {
+      "s": 3.28,
+      "e": 6.32,
+      "text": "quarter for eight in a flooding situation."
+    },
+    {
+      "s": 6.32,
+      "e": 11.44,
+      "text": "Right now we are already seeing people requesting help, but still gusting in a 75-mile-an-hour"
+    },
+    {
+      "s": 11.44,
+      "e": 12.72,
+      "text": "speed at this point."
+    },
+    {
+      "s": 12.72,
+      "e": 17.36,
+      "text": "Still a cat one, going to dump that raven, people are going to be surrounded a few more."
+    },
+    {
+      "s": 17.36,
+      "e": 20.7,
+      "text": "Okay, let's get back."
+    },
+    {
+      "s": 20.7,
+      "e": 22.7,
+      "text": "See you here."
+    }
+  ],
+  "scene_cuts": [
+    8.71,
+    13.55,
+    16.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625563.jpg",
+  "sheet_times": [
+    0.68,
+    2.05,
+    3.41,
+    4.78,
+    6.14,
+    7.51,
+    8.87,
+    10.24,
+    11.6,
+    12.97,
+    14.33,
+    15.69,
+    17.06,
+    18.42,
+    19.79,
+    21.15
+  ]
+}

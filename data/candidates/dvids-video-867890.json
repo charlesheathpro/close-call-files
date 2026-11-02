@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:867890",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard rescues 34 Haitians left abandoned by smugglers on Monito Island, Puerto Rico",
+  "description": "The crew of Coast Guard Cutter Heriberto Hernandez rescues Dec. 12, 2022, 34 Haitians, who were left abandoned by smugglers on the rocky cliffs of Monito cay, Puerto Rico. The rescue was part of ongoing multi-agency efforts in support of Operation Caribbean Guard and the Caribbean Border Interagency Group (CBIG). (U.S. Coast Guard video)",
+  "keywords": "US Coast Guard",
+  "date": "2022-12-12T00:00:00-05:00",
+  "date_published": "2022-12-13T10:28:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221212-G-G0107-2001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/867890/coast-guard-rescues-34-haitians-left-abandoned-smugglers-monito-island-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-867890",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:55:22Z",
+  "duration": 55.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2212/DOD_109370196/DOD_109370196.mp4",
+    "width": 2048,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 64475502
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    20.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      47.7
+    ],
+    "silence_ends": [
+      4.1,
+      55.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-867890.jpg",
+  "sheet_times": [
+    1.73,
+    5.18,
+    8.64,
+    12.1,
+    15.55,
+    19.01,
+    22.46,
+    25.92,
+    29.37,
+    32.83,
+    36.29,
+    39.74,
+    43.2,
+    46.65,
+    50.11,
+    53.56
+  ]
+}

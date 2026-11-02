@@ -1,0 +1,73 @@
+{
+  "asset_id": "nasa:GSFC_20160426_SDO_m12224_SolarFlare",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "severe weather",
+  "title": "NASA’s SDO Captures Stunning View of April 17 Solar Flare",
+  "description": "On April 17, 2016, an active region on the sun’s right side released a mid-level solar flare, captured here by NASA’s Solar Dynamics Observatory. This solar flare caused moderate radio blackouts, according to NOAA’s Space Weather Prediction Center. Scientists study active regions – which are areas of intense magnetism – to better understand why they sometimes erupt with such flares. This video was captured in several wavelengths of extreme ultraviolet light, a type of light that is typically invisible to our eyes, but is color-coded in SDO images for easy viewing.",
+  "keywords": "Solar Wind, Sun, Solar Flares, Solar Ultraviolet, Space Weather, SDO, Solar Dynamics Observatory, Heliophysics, Corona",
+  "date": "2016-04-26T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160426_SDO_m12224_SolarFlare",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160426-SDO-m12224-SolarFlare",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:23:21Z",
+  "duration": 79.57,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160426_SDO_m12224_SolarFlare/GSFC_20160426_SDO_m12224_SolarFlare~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    39.53,
+    43.67,
+    62.0,
+    70.83
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      62.5,
+      70.2,
+      72.4,
+      73.3,
+      74.3,
+      75.2
+    ],
+    "silence_ends": [
+      64.4,
+      71.2,
+      73.0,
+      74.0,
+      75.0,
+      79.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160426-SDO-m12224-SolarFlare.jpg",
+  "sheet_times": [
+    2.47,
+    7.41,
+    12.36,
+    17.3,
+    22.24,
+    27.18,
+    32.12,
+    37.07,
+    42.01,
+    46.95,
+    51.89,
+    56.83,
+    61.78,
+    66.72,
+    71.66,
+    76.6
+  ]
+}

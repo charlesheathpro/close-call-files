@@ -1,0 +1,87 @@
+{
+  "asset_id": "nasa:SSC_2022-01-19_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "First RS-25 Engine Test of the New Year",
+  "description": "NASA conducted its first RS-25 engine hot fire test of the new year on Jan. 19 on the Fred Haise Test Stand at Stennis Space Center. The test was the second hot fire in the latest series that began in mid-December. Each test in the series is providing valuable operational data to NASA's lead contractor, Aerojet Rocketdyne, on a variety of new engine components manufactured with state-of-the-art fabrication techniques as the company begins production of new RS-25 engines. The testing is part of NASA's and Aerojet Rocketdyne's effort to use advanced manufacturing methods to significantly reduce the cost and time needed to build new engines. For the Jan. 19 test, engineers fired the RS-25 developmental engine at power levels ranging from 80 percent to 111 percent for a full duration of about eight-and-a-half minutes (500 seconds), the same amount of time the engines must fire to help propel SLS to orbit.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2022-01-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2022-01-19_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2022-01-19-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:54:18Z",
+  "duration": 528.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2022-01-19_RS-25_Engine_Test/SSC_2022-01-19_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 11.51,
+      "e": 511.44,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    2.37,
+    51.07,
+    80.63,
+    121.7,
+    157.8,
+    217.87,
+    244.43,
+    276.67,
+    319.1,
+    374.8,
+    446.67,
+    474.87,
+    503.67,
+    525.37
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      511.5,
+      513.1,
+      516.9,
+      518.7
+    ],
+    "silence_ends": [
+      11.7,
+      513.1,
+      514.3,
+      518.7,
+      528.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2022-01-19-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.49,
+    49.46,
+    82.43,
+    115.4,
+    148.37,
+    181.34,
+    214.31,
+    247.28,
+    280.25,
+    313.22,
+    346.19,
+    379.16,
+    412.14,
+    445.11,
+    478.08,
+    511.05
+  ]
+}

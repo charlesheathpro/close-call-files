@@ -1,0 +1,346 @@
+{
+  "asset_id": "nasa:GSFC_20160331_GPM_m12182_TRMM_Rain_Drops",
+  "source": "nasa",
+  "lane": "hazards",
+  "matched_query": "severe weather",
+  "title": "Why Do Raindrop Sizes Matter In Storms?",
+  "description": "Not all raindrops are created equal. The size of falling raindrops depends on several factors, including where the cloud producing the drops is located on the globe and where the drops originate in the cloud. For the first time, scientists have three-dimensional snapshots of raindrops and snowflakes around the world from space, thanks to the joint NASA and Japan Aerospace Exploration Agency Global Precipitation Measurement (GPM) mission. With the new global data on raindrop and snowflake sizes this mission provides, scientists can improve rainfall estimates from satellite data and in numerical weather forecast models, helping us better understand and prepare for extreme weather events.",
+  "keywords": "Computer Model, Forecast, Raindrop, Rainfall, Storm, Weather, Precipitation, Rain, Snow, Weather Patterns, Earth",
+  "date": "2016-03-31T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160331_GPM_m12182_TRMM_Rain_Drops",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160331-GPM-m12182-TRMM-Rain-Drops",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:13:14Z",
+  "duration": 239.12,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160331_GPM_m12182_TRMM_Rain_Drops/GSFC_20160331_GPM_m12182_TRMM_Rain_Drops~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 4.48,
+      "text": "If you've ever looked at the weather forecast, you might be familiar with a percentage."
+    },
+    {
+      "s": 4.48,
+      "e": 10.0,
+      "text": "It's the probability of precipitation. For example, 60% rain means that when"
+    },
+    {
+      "s": 10.0,
+      "e": 15.2,
+      "text": "similar forecasts have occurred in the past, only 60% actually rained."
+    },
+    {
+      "s": 15.2,
+      "e": 19.6,
+      "text": "Uncertainties can sometimes leave us unprepared for storms and floods, but"
+    },
+    {
+      "s": 19.6,
+      "e": 23.36,
+      "text": "predictions improve as we monitor storms in greater detail."
+    },
+    {
+      "s": 23.36,
+      "e": 26.88,
+      "text": "And now, NASA's newest precipitation satellite, GPM,"
+    },
+    {
+      "s": 26.88,
+      "e": 30.56,
+      "text": "is measuring the individual water drops that make upper storm."
+    },
+    {
+      "s": 30.56,
+      "e": 34.8,
+      "text": "GPM is the first time we've been able to get this type of information on a global scale."
+    },
+    {
+      "s": 34.8,
+      "e": 39.36,
+      "text": "To understand why this matters, it helps to know how weather predictions are made."
+    },
+    {
+      "s": 39.36,
+      "e": 44.0,
+      "text": "First, computer programs known as weather models turn the processes in the"
+    },
+    {
+      "s": 44.0,
+      "e": 48.64,
+      "text": "atmosphere into math equations, governed by the laws of physics."
+    },
+    {
+      "s": 48.64,
+      "e": 53.2,
+      "text": "These equations receive measurements of land, sea and air to get a view of the"
+    },
+    {
+      "s": 53.2,
+      "e": 57.76,
+      "text": "atmosphere's current state, then predicts how it will change over time."
+    },
+    {
+      "s": 57.76,
+      "e": 63.12,
+      "text": "To ensure predictions are correct, equations need to represent the atmosphere accurately."
+    },
+    {
+      "s": 63.12,
+      "e": 68.96,
+      "text": "But one thing that's uncertain in the equations is how precipitation is structured within storms."
+    },
+    {
+      "s": 69.68,
+      "e": 74.56,
+      "text": "A storm is made up of water drops of different sizes, but without knowing these measurements,"
+    },
+    {
+      "s": 74.56,
+      "e": 77.44,
+      "text": "many weather models operate under an assumption."
+    },
+    {
+      "s": 77.44,
+      "e": 80.64,
+      "text": "What they do instead is have some assumption about how that's distributed."
+    },
+    {
+      "s": 80.64,
+      "e": 87.36,
+      "text": "So as an example, for every 100 small drops, there would be 10 medium size drops or just one large drop."
+    },
+    {
+      "s": 87.36,
+      "e": 92.32,
+      "text": "Assumptions are made because researchers have only studied drops in isolated areas."
+    },
+    {
+      "s": 92.32,
+      "e": 98.08,
+      "text": "Now for the first time, GPM is measuring the size and distribution of drops around the world."
+    },
+    {
+      "s": 98.08,
+      "e": 102.56,
+      "text": "If we go into a storm, we'll see varying drop sizes labeled different colors."
+    },
+    {
+      "s": 102.56,
+      "e": 107.92,
+      "text": "Near the top, there are many small drops around 0.5, 1 and 2 millimeters."
+    },
+    {
+      "s": 108.64,
+      "e": 114.08,
+      "text": "As they fall to the middle of the storm, some drops bump into others, causing them to grow in size."
+    },
+    {
+      "s": 114.96,
+      "e": 120.72,
+      "text": "Right at the bottom, drops can grow around 4, 5 and 6 millimeters."
+    },
+    {
+      "s": 120.72,
+      "e": 125.2,
+      "text": "This 3D mosaic of water drops is called drop size distribution."
+    },
+    {
+      "s": 125.2,
+      "e": 130.08,
+      "text": "It shows a high concentration of small drops colored in blues and greens near the top,"
+    },
+    {
+      "s": 130.08,
+      "e": 134.4,
+      "text": "and lower concentrations of big drops colored in reds and yellows near the bottom."
+    },
+    {
+      "s": 134.48,
+      "e": 140.96,
+      "text": "A storm with a higher ratio of red and yellow will contain more water than a higher ratio of blue and green."
+    },
+    {
+      "s": 140.96,
+      "e": 146.4,
+      "text": "Without knowing the relationship or ratio of those large drops to the smaller and medium size drops,"
+    },
+    {
+      "s": 146.4,
+      "e": 150.56,
+      "text": "we can have a big error in how much rain we know fell, and that can have some big implications"
+    },
+    {
+      "s": 150.56,
+      "e": 155.6,
+      "text": "for knowing long-term accumulations, which can help for a flash flood prediction."
+    },
+    {
+      "s": 155.6,
+      "e": 162.48,
+      "text": "Not only does it give a more accurate measurement of rainfall, but drop sizes also give insight into the winds within a storm."
+    },
+    {
+      "s": 162.48,
+      "e": 166.24,
+      "text": "Thunderstorms have a lot of wind associated with them, and we all know this,"
+    },
+    {
+      "s": 166.24,
+      "e": 171.68,
+      "text": "but the strength of that wind actually depends on the size of the drops that are falling from that storm in some ways,"
+    },
+    {
+      "s": 171.68,
+      "e": 177.52,
+      "text": "because a storm with small drops will have more evaporation, which cools the air more, which creates stronger winds."
+    },
+    {
+      "s": 177.52,
+      "e": 181.84,
+      "text": "We've never been able to see how water drop size is very globally until now."
+    },
+    {
+      "s": 181.84,
+      "e": 184.48,
+      "text": "So what causes them to vary in different places?"
+    },
+    {
+      "s": 184.48,
+      "e": 188.24,
+      "text": "One factor is the temperature of the environment drops growing."
+    },
+    {
+      "s": 188.24,
+      "e": 193.52,
+      "text": "In the mid-latitude, a lot of those raindrops actually originated at snowflakes or even hailstones,"
+    },
+    {
+      "s": 193.52,
+      "e": 200.24,
+      "text": "and snowflakes can grow a lot larger than cloud droplets can, so you have these big snowflakes that then melt into big raindrops."
+    },
+    {
+      "s": 200.24,
+      "e": 210.48,
+      "text": "In contrast, over the oceans and in the tropics, they tend to be smaller, and the reason is because smaller raindrops tend to originate from clouds that don't have any ice in them."
+    },
+    {
+      "s": 210.48,
+      "e": 215.52,
+      "text": "It's worth noting, however, these measurements are only a small part of the equation."
+    },
+    {
+      "s": 215.6,
+      "e": 223.6,
+      "text": "The drop size distribution is one of many factors that determines how big a storm will grow, how long it will last, and how much rain it will ultimately produce."
+    },
+    {
+      "s": 223.6,
+      "e": 230.64,
+      "text": "As GPM improves our understanding of precipitation from space, that information will be vital in improving weather models,"
+    },
+    {
+      "s": 230.64,
+      "e": 234.08,
+      "text": "and thus helping us better predict and prepare for our weather."
+    }
+  ],
+  "scene_cuts": [
+    15.33,
+    19.27,
+    23.07,
+    26.8,
+    31.53,
+    34.47,
+    51.7,
+    54.6,
+    55.6,
+    55.7,
+    69.1,
+    78.27,
+    80.47,
+    88.2,
+    92.23,
+    97.87,
+    103.13,
+    103.17,
+    105.63,
+    105.67,
+    105.73,
+    107.0,
+    107.03,
+    108.27,
+    108.37,
+    109.93,
+    111.27,
+    111.3,
+    111.37,
+    112.83,
+    112.93,
+    114.17,
+    114.27,
+    114.3,
+    116.8,
+    116.97,
+    118.2,
+    118.3,
+    118.33,
+    119.43,
+    119.6,
+    142.33,
+    145.93,
+    151.07,
+    155.07,
+    162.5,
+    177.67,
+    181.53,
+    188.27,
+    200.97,
+    210.8,
+    216.67,
+    218.13,
+    223.53,
+    230.5,
+    234.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      237.0
+    ],
+    "silence_ends": [
+      239.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160331-GPM-m12182-TRMM-Rain-Drops.jpg",
+  "sheet_times": [
+    7.46,
+    22.37,
+    37.29,
+    52.2,
+    67.11,
+    82.03,
+    96.94,
+    111.86,
+    126.77,
+    141.68,
+    156.6,
+    171.51,
+    186.43,
+    201.34,
+    216.25,
+    231.17
+  ]
+}

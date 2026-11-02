@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:548600",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard finds, rescues missing hiker near Tillamook Head",
+  "description": "A rescue aircrew aboard an MH-60 Jayhawk helicopter search and find a missing hiker in Ecola State Park in Oregon, Sept. 6, 2017.\r\n\r\nThe 29-year-old male was found 200 to 300 feet below a cliff edge near Tillamook Head and was hoisted safely by the aircrew.\r\n\r\nU.S. Coast Guard photo by Sector Columbia River 6002.",
+  "keywords": "MH-60 Jayhawk helicopter, Tillamook Head, Sector Columbia River, Ecola State Park, Coast Guard, USCG",
+  "date": "2017-09-06T00:00:00-04:00",
+  "date_published": "2017-09-06T18:10:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Levi Read",
+  "category": "B-Roll",
+  "virin": "170906-G-G0213-1001",
+  "location": {
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/548600/coast-guard-finds-rescues-missing-hiker-near-tillamook-head",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-548600",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:52:34Z",
+  "duration": 103.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104810264/DOD_104810264.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9066,
+    "size": 117527976
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 48.02,
+      "e": 66.32,
+      "text": "100 feet 100 feet 100 feet 100 feet"
+    },
+    {
+      "s": 66.32,
+      "e": 96.84,
+      "text": "We're going to need an ambulance there."
+    }
+  ],
+  "scene_cuts": [
+    4.17,
+    14.48,
+    24.72,
+    24.79,
+    44.48,
+    66.63,
+    99.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.5,
+      46.1,
+      60.0,
+      66.7,
+      71.8,
+      79.6,
+      88.1,
+      99.3
+    ],
+    "silence_ends": [
+      45.6,
+      47.3,
+      60.9,
+      69.8,
+      77.1,
+      85.5,
+      91.5,
+      103.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-548600.jpg",
+  "sheet_times": [
+    3.21,
+    9.63,
+    16.05,
+    22.47,
+    28.89,
+    35.31,
+    41.73,
+    48.15,
+    54.57,
+    60.98,
+    67.4,
+    73.82,
+    80.24,
+    86.66,
+    93.08,
+    99.5
+  ]
+}

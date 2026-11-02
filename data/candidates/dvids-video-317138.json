@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317138",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "boat overturned",
+  "title": "Two men resuced from overturned boat",
+  "description": "SAN FRANCISCO- The two men who were in the water after their 19-foot boat was capsized were rescued and taken by the Oyster Point Marina Harbor Master to the Oyster Point Marina where they will be transferred to awaiting EMS. U.S. Coast Guard video by Air Station San Francisco.",
+  "keywords": "CGVI",
+  "date": "2011-08-03T00:00:00-04:00",
+  "date_published": "2013-12-21T13:55:39-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110803-G-6441S-001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317138/two-men-resuced-overturned-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317138",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:11:29Z",
+  "duration": 47.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062040/DOD_101062040.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 3433,
+    "size": 24675895
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.07,
+    34.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      2.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317138.jpg",
+  "sheet_times": [
+    1.48,
+    4.44,
+    7.4,
+    10.35,
+    13.31,
+    16.27,
+    19.23,
+    22.19,
+    25.15,
+    28.1,
+    31.06,
+    34.02,
+    36.98,
+    39.94,
+    42.9,
+    45.85
+  ]
+}

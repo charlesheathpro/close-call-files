@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:828802",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Arkansas Severe Weather and Tornado Damage and FEMA Disaster Recovery Center",
+  "description": "Monette, Arkansas (Jan 19, 2022) - Video footage of property damage that occurred as a result of severe weather and tornadoes. Additional footage of a Disaster Recovery Center located in Monette, AR. FEMA video by Daniel Rojas.",
+  "keywords": "FEMA, tornado, DRC, Severe Storm",
+  "date": "2022-01-19T00:00:00-05:00",
+  "date_published": "2022-01-20T10:52:43-05:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "220119-D-DR336-474",
+  "location": {
+    "city": "Monette",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/828802/arkansas-severe-weather-and-tornado-damage-and-fema-disaster-recovery-center",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-828802",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:54:27Z",
+  "duration": 88.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2201/DOD_108772737/DOD_108772737.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 33213550
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.97,
+    13.21,
+    17.05,
+    25.13,
+    32.27,
+    41.98,
+    47.98,
+    59.49,
+    75.01
+  ],
+  "drama_score": 31,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      37.7
+    ],
+    "silence_ends": [
+      37.7,
+      88.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-828802.jpg",
+  "sheet_times": [
+    2.74,
+    8.21,
+    13.68,
+    19.15,
+    24.62,
+    30.09,
+    35.56,
+    41.03,
+    46.5,
+    51.97,
+    57.44,
+    62.91,
+    68.38,
+    73.85,
+    79.32,
+    84.79
+  ]
+}

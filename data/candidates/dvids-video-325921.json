@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:325921",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Savannah rescue",
+  "title": "Coast Guard locates stranded boater",
+  "description": "A Coast Guard helicopter crew from Air Station Savannah, Ga., rescues a stranded boater Monday, March 31, 2014 in the vicinity of Leadenwah Creek, S.C., approximately 18 miles southwest of Charleston, S.C. The boater was taken to a nearby hospital for further evaluation. U.S. Coast Guard video by Air Station Savannah, Ga. Available in high definition.",
+  "keywords": "MH-65 Dolphin, Air Station Savannah, rescue, S.C., Charleston",
+  "date": "2014-03-31T00:00:00-04:00",
+  "date_published": "2014-03-31T16:47:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Gle Gapui",
+  "category": "B-Roll",
+  "virin": "140331-G-AB111-001",
+  "location": {
+    "city": "Leadenwah Creek",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/325921/coast-guard-locates-stranded-boater",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-325921",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:24:32Z",
+  "duration": 95.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1403/DOD_101243953/DOD_101243953.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9010,
+    "size": 110578573
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      92.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-325921.jpg",
+  "sheet_times": [
+    2.97,
+    8.91,
+    14.85,
+    20.79,
+    26.74,
+    32.68,
+    38.62,
+    44.56,
+    50.5,
+    56.44,
+    62.38,
+    68.33,
+    74.27,
+    80.21,
+    86.15,
+    92.09
+  ]
+}

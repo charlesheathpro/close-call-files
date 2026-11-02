@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:853490",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pararescue jump",
+  "title": "Over water rescue",
+  "description": "DESCRIPTION: U.S. Air Force pararescuemen from the 131st Rescue Squadron, 129th Rescue Wing, California Air National Guard, perform freefall jumps from an HC-130J Combat King II aircraft during a rescue mission for an injured crew member aboard a commercial fuel vessel on the Pacific Ocean 800 nautical miles off the coast of San Francisco. (U.S. Air National Guard video by Tech. Sgt. Deepak Prasad)",
+  "keywords": "pararescue, 129th Rescue Wing, search and rescue, Air National Guard",
+  "date": "2022-08-05T00:00:00-04:00",
+  "date_published": "2022-08-08T16:35:13-04:00",
+  "branch": "Air Force",
+  "unit_name": "129th Rescue Wing",
+  "credit": "Tech. Sgt. Deepak Prasad",
+  "category": "B-Roll",
+  "virin": "220805-Z-QQ538-0001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/853490/over-water-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-853490",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:36:22Z",
+  "duration": 26.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2208/DOD_109154278/DOD_109154278.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 25950982
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.49
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-853490.jpg",
+  "sheet_times": [
+    0.82,
+    2.46,
+    4.1,
+    5.74,
+    7.39,
+    9.03,
+    10.67,
+    12.31,
+    13.95,
+    15.59,
+    17.23,
+    18.87,
+    20.52,
+    22.16,
+    23.8,
+    25.44
+  ]
+}

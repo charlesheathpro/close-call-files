@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:676686",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard hoists 5 from capsized vessel near Texas City, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin Helicopter aircrew hoists five people from a capsized boat near Moses Lake in Texas May 1, 2019. All 5 people were wearing lifejackets and survived the incident with no injuries. U.S. Coast Guard video",
+  "keywords": "hoist, life jackets, capsize, MH-65, lifejackets, rescue, Air Station Houston",
+  "date": "2019-05-01T00:00:00-04:00",
+  "date_published": "2019-05-02T12:49:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190501-G-G0101-0002",
+  "location": {
+    "city": "Texas City",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/676686/coast-guard-hoists-5-capsized-vessel-near-texas-city-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-676686",
+  "status": "new",
+  "harvested_at": "2026-11-02T08:52:21Z",
+  "duration": 68.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106700163/DOD_106700163.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5973,
+    "size": 51388815
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.63
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-676686.jpg",
+  "sheet_times": [
+    2.13,
+    6.4,
+    10.66,
+    14.93,
+    19.19,
+    23.45,
+    27.72,
+    31.98,
+    36.25,
+    40.51,
+    44.78,
+    49.04,
+    53.31,
+    57.57,
+    61.83,
+    66.1
+  ]
+}

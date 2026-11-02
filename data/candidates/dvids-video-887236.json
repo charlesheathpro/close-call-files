@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:887236",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Coast Guard Air Station Astoria rescues German Shepard in Ecola Beach, OR",
+  "description": "Members of U.S. Coast Guard Air Station Astoria hoist a dog after she fell from a cliff in Ecola State Park, Cannon Beach, Oregon on June 14, 2023. The dog fell 300 feet and was injured in a secluded area of the beach that could only be reached by repelling down the cliff or by air. (U.S. Coast Guard video by Petty Officer 2nd Diolanda Caballero)",
+  "keywords": "German Shepard, Air Station Astoria, dog rescue, CoastGuardNewsWire",
+  "date": "2023-06-14T00:00:00-04:00",
+  "date_published": "2023-06-15T15:13:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 2nd Class Diolanda Caballero",
+  "category": "B-Roll",
+  "virin": "230615-G-AF140-1001",
+  "location": {
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/887236/coast-guard-air-station-astoria-rescues-german-shepard-ecola-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-887236",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:41:15Z",
+  "duration": 111.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109710588/DOD_109710588-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 116409361
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.26,
+    53.12,
+    78.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      78.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-887236.jpg",
+  "sheet_times": [
+    3.48,
+    10.44,
+    17.39,
+    24.35,
+    31.31,
+    38.26,
+    45.22,
+    52.18,
+    59.13,
+    66.09,
+    73.05,
+    80.01,
+    86.96,
+    93.92,
+    100.88,
+    107.83
+  ]
+}

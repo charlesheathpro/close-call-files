@@ -1,0 +1,59 @@
+{
+  "asset_id": "commons:File:Tsunami Forecast Model Animation- Lisbon 1755.webm",
+  "source": "commons",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Tsunami Forecast Model Animation- Lisbon 1755",
+  "description": "On the morning of November 1, 1755, a great earthquake shook Portugal's capital city of Lisbon as worshipers filled churches and cathedrals for the All Saints' Day Mass. In seconds it left the city in ruins and in minutes those ruins were on fire. The earthquake probably killed about 30,000 people, though some estimates double that figure. Many of the survivors fled to the wharves and keys of Lisbon's port, but they would find no safety there. The first tsunami wave surged up the Tagus estuary about an hour after the earthquake, reached a maximum runup of 12 meters (40 feet), and killed another 1000 people. At least two more tsunami waves surged into the city, completing the earthquake's destruction.\nAt Portugal's coastal city of Lagos the tsunami was even larger, perhaps 30 m (100 ft). It went on to damage the ports of Cadiz in Spain, then Safi and Agadir in Morocco. The tsunami also spread north: it caused minor damage at Brest in Brittany, some flooding in England in the Scilly Islands and in Cornwall, and extensively flooded of the low-lying areas of the city of Cork, Ireland. As it spread out across the Atlantic, the tsunami first reached Madeira, where observers recorded a runup of 4 m (13 ft), then the Canary Islands, the Azores, and eventually the West Indies, where observers recorded runups of about a 1 m (3 ft) in Barbados, Martinique, Guadeloupe, and Antigua (and questionable reports of large runup in the Virgin Islands). Though the tsunami must have hit Colonial America, no one recorded it there, though it was observed in Newfoundland.\nThe Pacific Tsunami Warning Center (PTWC) can create an animation of a historical tsunami like this one using the same tool that it uses to determine tsunami hazards in real time for any tsunami today: the Real-Time Forecasting of Tsunamis (RIFT) forecast model. The RIFT model takes earthquake information as input and calculates how the waves move through the world’s oceans, predicting their speed, wavelength, and amplitude. This animation shows these values through the simulated motion of the waves and as they travel through the world’s oceans one can also see the distance between successive wave crests (wavelength) as well as their height (half-amplitude) indicated by their color. More importantly, the model also shows what happens when these tsunami waves strike land, the very information that PTWC needs to issue tsunami hazard guidance for impacted coastlines. From the beginning the animation shows all coastlines covered by colored points. These are initially a blue color like the undisturbed ocean to indicate normal sea level, but as the tsunami waves reach them they will change color to represent the height of the waves coming ashore, and often these values are higher than they were in the deeper waters offshore. The color scheme is based on PTWC’s warning criteria, with blue-to-green representing no hazard (less than 30 cm or ~1 ft.), yellow-to-orange indicating low hazard with a stay-off-the-beach recommendation (30 to 100 cm or ~1 to 3 ft.), light red-to-bright red indicating significant hazard requiring evacuation (1 to 3 m or ~3 to 10 ft.), and dark red indicating a severe hazard possibly requiring a second-tier evacuation (greater than 3 m or ~10 ft.).\nOur model of this tsunami assumes its source was a magnitude 8.5 earthquake on the Horseshoe Fault off of Cape Finisterre. Baptista, et al. (2011) explain how this fault matches the tsunami observations better than the several other proposed sources for the Great Lisbon Earthquake\nToward the end of this simulated 24 hours of activity the wave animation will transition to the “energy map” of a mathematical surface representing the maximum rise in sea-level on the open ocean caused by the tsunami, a pattern that indicates that the kinetic energy of the tsunami was not distributed evenly across the oceans but instead forms a highly directional “beam” such that the tsunami was far more severe in the middle of the “beam” of energy than on its sides. This pattern also generally correlates to the coastal impacts; note how those coastlines directly in the “beam” are hit by larger waves than those to either side of it.\nEarthquake source used:\nBaptista, M.A., Miranda, J.M., Omira, R., & Antunes, C. (2011). \"Potential inundation of Lisbon downtown by a 1755-like tsunami.\" Natural Hazards and Earth System Science, 11(12), 3319--3326.\nNOAA Science-on-a-Sphere Version:\n\nhttp://sos.noaa.gov/Datasets/dataset.php?id=639",
+  "keywords": "Media from YouTube, Lisbon earthquake of 1755, Tsunamis in Europe, PD US NOAA NWS, Videos of 2016, Uploaded with video2commons, License reviewed by YouTubeReviewBot, Videos of earth system science, Videos of tsunamis",
+  "date": "2016-11-05",
+  "branch": "",
+  "unit_name": "PacificTWC",
+  "credit": "PacificTWC video",
+  "original_source": "YouTube: Tsunami Forecast Model Animation: Lisbon 1755 – View/save archived versions on archive.org",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "commons-Tsunami-Forecast-Model-Animation-Lisbon-1755",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:52:39Z",
+  "duration": 85.98,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm/Tsunami_Forecast_Model_Animation-_Lisbon_1755.webm.1080p.vp9.webm",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 37,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      86.0
+    ]
+  },
+  "sheet": "data/candidates/commons-Tsunami-Forecast-Model-Animation-Lisbon-1755.jpg",
+  "sheet_times": [
+    2.67,
+    8.01,
+    13.36,
+    18.7,
+    24.04,
+    29.38,
+    34.73,
+    40.07,
+    45.41,
+    50.76,
+    56.1,
+    61.44,
+    66.78,
+    72.13,
+    77.47,
+    82.81
+  ]
+}

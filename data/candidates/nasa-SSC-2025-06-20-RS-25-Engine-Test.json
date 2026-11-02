@@ -1,0 +1,68 @@
+{
+  "asset_id": "nasa:SSC_2025-06-20_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "RS-25 Engine Test – 2025-6-20 – Full Duration",
+  "description": "NASA tested RS-25 engine No. 20001 on June 20, at the Fred Haise Test Stand at NASA’s Stennis Space Center at Bay St. Louis, Mississippi. Test teams fired the engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during a launch of an SLS (Space Launch System) rocket on Artemis missions to the Moon. The Artemis campaign will explore the Moon for scientific discovery, economic benefits, and to build the foundation for the first crewed missions to Mars – for the benefit of all. Four RS-25 engines, built by contractor L3Harris Technologies (formerly Aerojet Rocketdyne), help power each SLS launch, producing up to 2 million pounds of combined thrust. During the test, operators also fired engine No. 20001 up to the 111% power level, the same amount of thrust needed to launch an SLS rocket, carrying the Orion spacecraft, to orbit.",
+  "keywords": "Artemis program, SLS, RS-25 engine, Stennis Space Center, propulsion test, RS-25, Space Launch System",
+  "date": "2025-06-20T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2025-06-20_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2025-06-20-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-02T09:00:23Z",
+  "duration": 529.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2025-06-20_RS-25_Engine_Test/SSC_2025-06-20_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.01,
+      "e": 515.98,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    11.63
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      517.7
+    ],
+    "silence_ends": [
+      12.2,
+      529.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2025-06-20-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.52,
+    49.55,
+    82.58,
+    115.62,
+    148.65,
+    181.68,
+    214.72,
+    247.75,
+    280.78,
+    313.82,
+    346.85,
+    379.88,
+    412.92,
+    445.95,
+    478.98,
+    512.02
+  ]
+}
