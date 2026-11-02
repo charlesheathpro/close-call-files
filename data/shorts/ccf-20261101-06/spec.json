@@ -80,10 +80,10 @@
     ],
     [
       {
-        "start": 1.0,
-        "end": 4.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 0.0,
+        "end": 2.5,
+        "layout": "crop",
+        "crop_x": 0.15
       },
       {
         "start": 33.0,
@@ -114,14 +114,14 @@
     ],
     [
       {
-        "start": 12.0,
-        "end": 14.5,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
         "start": 15.6,
         "end": 18.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 45.0,
+        "end": 47.5,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -168,38 +168,44 @@
     ],
     [
       {
-        "start": 88.0,
-        "end": 90.5,
+        "start": 89.0,
+        "end": 91.5,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 96.0,
-        "end": 98.5,
+        "start": 92.0,
+        "end": 94.5,
+        "layout": "crop",
+        "crop_x": 0.2
+      },
+      {
+        "start": 108.0,
+        "end": 110.5,
         "layout": "crop",
         "crop_x": 0.4
-      },
-      {
-        "start": 110.0,
-        "end": 112.5,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 115.0,
-        "end": 117.5,
+        "start": 132.0,
+        "end": 134.5,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       },
       {
-        "start": 24.0,
-        "end": 27.0,
+        "start": 134.5,
+        "end": 137.0,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
+      },
+      {
+        "start": 150.0,
+        "end": 152.5,
+        "layout": "crop",
+        "crop_x": 0.6
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }

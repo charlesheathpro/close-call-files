@@ -9,7 +9,7 @@
   "narration": [
     "This dog rode a rescue basket up from the open ocean, forty-one miles off Oahu.",
     "The seventy-foot catamaran Brandi Anne was sinking, northeast of Oahu's North Shore.",
-    "At twelve forty-four in the afternoon, the captain made a mayday call, and the crew abandoned ship into a life raft.",
+    "The captain made a mayday call, and they abandoned ship into a life raft.",
     "Three men and a dog. A Coast Guard Dolphin helicopter crew from Barbers Point flew out to find them.",
     "A rescue basket has floats on its sides, so a survivor just climbs in and sits.",
     "One by one, the basket went down and came back up full.",
@@ -72,39 +72,27 @@
         "crop_x": 0.55
       },
       {
-        "start": 4.0,
-        "end": 6.5,
+        "start": 36.0,
+        "end": 38.8,
         "layout": "crop",
         "crop_x": 0.4
       }
     ],
     [
       {
-        "start": 10.5,
-        "end": 13.0,
-        "layout": "crop",
-        "crop_x": 0.9
-      },
-      {
-        "start": 13.0,
-        "end": 15.5,
-        "layout": "crop",
-        "crop_x": 0.6
-      },
-      {
         "start": 15.5,
         "end": 18.0,
         "layout": "crop",
         "crop_x": 0.3
-      }
-    ],
-    [
+      },
       {
         "start": 18.0,
         "end": 20.5,
         "layout": "crop",
         "crop_x": 0.25
-      },
+      }
+    ],
+    [
       {
         "start": 20.5,
         "end": 23.0,
@@ -116,6 +104,12 @@
         "end": 41.5,
         "layout": "crop",
         "crop_x": 0.35
+      },
+      {
+        "start": 76.5,
+        "end": 79.0,
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -166,10 +160,10 @@
         "crop_x": 0.45
       },
       {
-        "start": 61.5,
-        "end": 64.0,
+        "start": 64.0,
+        "end": 66.0,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.5
       }
     ],
     [
@@ -187,5 +181,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }

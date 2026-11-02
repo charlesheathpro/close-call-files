@@ -7,7 +7,7 @@
   "priority": 4,
   "hook": "Their 87-foot boat was flooding. All five had to abandon ship.",
   "narration": [
-    "Five fishermen, and an eighty-seven foot boat going down off Washington.",
+    "Five fishermen, and an eighty-seven foot boat flooding off Washington.",
     "The Sunnfjord was taking on water off Cape Alava, and pumping had failed.",
     "So they abandoned ship, into the January Pacific, one at a time.",
     "A forty-seven foot motor lifeboat from Coast Guard Station Quillayute River was waiting alongside.",
@@ -93,10 +93,10 @@
     ],
     [
       {
-        "start": 84.0,
-        "end": 86.5,
+        "start": 85.2,
+        "end": 87.7,
         "layout": "crop",
-        "crop_x": 0.2
+        "crop_x": 0.35
       },
       {
         "start": 135.5,
@@ -122,7 +122,7 @@
         "start": 375.0,
         "end": 377.5,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.3
       }
     ],
     [
@@ -130,19 +130,19 @@
         "start": 284.0,
         "end": 286.5,
         "layout": "crop",
-        "crop_x": 0.85
+        "crop_x": 0.7
       },
       {
         "start": 270.0,
         "end": 272.5,
         "layout": "crop",
-        "crop_x": 0.75
+        "crop_x": 0.8
       },
       {
         "start": 262.0,
         "end": 264.5,
         "layout": "crop",
-        "crop_x": 0.85
+        "crop_x": 0.5
       }
     ],
     [
@@ -160,5 +160,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }
