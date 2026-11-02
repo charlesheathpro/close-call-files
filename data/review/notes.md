@@ -7,8 +7,8 @@
 - Three breakouts: Orion splashdown 9,046 (+2,347 today), boat flipped with a 4-year-old 5,410 (+2,555), capsule torn off a rocket at Mach 1 5,214. Everything else mostly 1,100 to 1,600.
 - Aviation and naval: 4 public, median 3,369 views. Rescue: 36 public, median 1,318. Hazards: 3, median 374.
 - Median average view percentage of the last 10 mature Shorts: 65.
-- Best retention: Harvey roof hoist 93, gully hoist at 6,710 feet 87, dog off a sea cliff 85, capsule abort 83, Harvey tug 81.
-- Lowest: fishing boat sinks with 4 crew 52, Harvey house flooded to the roof 52, C-130 over wildfire 57, dog on flooded roof 57.
+- Best retention: Harvey roof hoist 93, gully hoist 87, dog off a sea cliff 85.
+- Lowest: fishing boat sinks 52, Harvey house to the roof 52, C-130 over wildfire 57.
 - Fire, lava and wildfire stay weak: 214 trapped by wildfire 294, Kilauea 374, Mauna Loa 140.
 
 ## Do more
@@ -23,7 +23,7 @@
 
 ## Supply and pace
 - Nov 1 posted only 3 after QA sent back all 10; repairs filled Nov 2 with 10. 1 ready for Nov 3. Keep the bar; fewer is fine.
-- Clips unused: rescue 103, aviation 406, hazards 236. Rescue is the thinnest; pick the best, skip the weak.
+- Clips unused: rescue 103, aviation 406, hazards 236. Rescue is thinnest.
 
 ## Lane mix this week
 Rescue 0.45, aviation and naval 0.45 (up 0.05), hazards 0.1.
