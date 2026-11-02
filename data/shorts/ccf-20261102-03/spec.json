@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261102-03",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-884516",
   "lane": "rescue",
   "story_type": "vessel on the rocks, hoist with dog",
@@ -8,7 +8,7 @@
   "priority": 2,
   "hook": "Three men and a dog, thirty seconds from the rocks",
   "narration": [
-    "Three men and a dog were aboard thirty seconds before this boat hit the rocks.",
+    "Thirty seconds after the last man and the dog were lifted off, this boat hit the rocks.",
     "Their fishing boat had drifted for hours toward the snowy rocks of Esther Island, Alaska.",
     "A Coast Guard Jayhawk from Kodiak raced over the mountains at ten thousand feet.",
     "They cut anchor for a tow, and suddenly it was chaos.",
@@ -24,26 +24,20 @@
   "line_shots": [
     [
       {
-        "start": 52.7,
-        "end": 54.2,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
         "start": 8.0,
         "end": 10.6,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 21.3,
-        "end": 23.3,
+        "start": 32.0,
+        "end": 34.25,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       },
       {
         "start": 34.3,
-        "end": 36.3,
+        "end": 36.8,
         "layout": "crop",
         "crop_x": 0.5
       }

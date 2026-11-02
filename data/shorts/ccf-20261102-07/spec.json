@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261102-07",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-334732",
   "lane": "rescue",
   "story_type": "missing boaters clinging to a capsized hull",
@@ -57,9 +57,9 @@
         "crop_x": 0.5
       },
       {
-        "start": 27.0,
-        "end": 30.0,
-        "layout": "fit",
+        "start": 30.5,
+        "end": 33.4,
+        "layout": "crop",
         "crop_x": 0.45
       }
     ],
