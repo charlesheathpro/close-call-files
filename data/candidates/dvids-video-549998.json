@@ -26,7 +26,7 @@
   "time_start": 4.97163,
   "aspect_ratio": "16:9",
   "id": "dvids-video-549998",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:27:22Z",
   "duration": 480.42,
   "source_file": {
@@ -207,5 +207,6 @@
     405.71,
     435.39,
     465.08
-  ]
+  ],
+  "pass_reason": "Tarmac evacuation flights after Irma; no rescue on camera."
 }

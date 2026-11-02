@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-576289",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:45:05Z",
   "duration": 123.5,
   "source_file": {
@@ -96,5 +96,6 @@
     103.78,
     111.47,
     119.16
-  ]
+  ],
+  "pass_reason": "French forces exercise in a desert; training, not a real rescue."
 }

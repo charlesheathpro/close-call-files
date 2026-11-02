@@ -26,7 +26,7 @@
   "time_start": 14.4811,
   "aspect_ratio": "16:9",
   "id": "dvids-video-168604",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:36:53Z",
   "duration": 336.64,
   "source_file": {
@@ -560,5 +560,6 @@
     285.88,
     305.98,
     326.09
-  ]
+  ],
+  "pass_reason": "Interview package with text cards; rescue not on camera."
 }
