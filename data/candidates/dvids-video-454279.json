@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "Air Station Savannah rescue",
   "title": "Coast Guard hoists man stranded on island",
-  "description": "Watchstanders at Coast Guard Sector Charleston received a call at approximately 11:30 p.m., from the girlfriend of a man who has become stranded on Ossabaw Island after suffering mechanical issues on his 14-foot recreational boat. \r\n\r\nA boatcrew aboard a 45-foot Response Boat – Medium from Coast Guard Station Tybee and an aircrew aboard an MH-65 Dolphin helicopter from Coast Guard Air Station Savannah were launched to assist. The aircrew arrived on scene first and hoisted the man to Hunter Army Airfield where he was met by local EMS. U.S. Coast Guard video.",
+  "description": "Watchstanders at Coast Guard Sector Charleston received a call at approximately 11:30 p.m., from the girlfriend of a man who has become stranded on Ossabaw Island after suffering mechanical issues on his 14-foot recreational boat. \r\n\r\nA boatcrew aboard a 45-foot Response Boat \u2013 Medium from Coast Guard Station Tybee and an aircrew aboard an MH-65 Dolphin helicopter from Coast Guard Air Station Savannah were launched to assist. The aircrew arrived on scene first and hoisted the man to Hunter Army Airfield where he was met by local EMS. U.S. Coast Guard video.",
   "keywords": "hoist, Ossabaw, helicopter, Coast Guard, Georgia, rescue, USCG, helo, stranded, man",
   "date": "2016-03-14T00:00:00-04:00",
   "date_published": "2016-03-14T16:48:35-04:00",
@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-454279",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:25:44Z",
   "duration": 137.28,
   "source_file": {
@@ -69,5 +69,6 @@
     116.03,
     124.33,
     132.63
-  ]
+  ],
+  "pass_reason": "night monochrome hoist camera, murky"
 }

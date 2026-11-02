@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-859102",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:47:29Z",
   "duration": 359.53,
   "source_file": {
@@ -85,5 +85,6 @@
     302.93,
     325.37,
     347.81
-  ]
+  ],
+  "pass_reason": "fisheye GoPro in a flooded Ian neighborhood; Ian and flooded-house stories already overdone"
 }

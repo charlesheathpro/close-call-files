@@ -26,7 +26,7 @@
   "time_start": 4.22553,
   "aspect_ratio": "16:9",
   "id": "dvids-video-516457",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:49:59Z",
   "duration": 142.52,
   "source_file": {
@@ -70,5 +70,6 @@
     120.49,
     129.11,
     137.72
-  ]
+  ],
+  "pass_reason": "night monochrome hoist camera, murky"
 }

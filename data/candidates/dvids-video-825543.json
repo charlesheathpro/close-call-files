@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-825543",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:13:33Z",
   "duration": 81.87,
   "source_file": {
@@ -268,5 +268,6 @@
     68.66,
     73.74,
     78.83
-  ]
+  ],
+  "pass_reason": "mostly interview plus dark night monochrome hoist footage"
 }

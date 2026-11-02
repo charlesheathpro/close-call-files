@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-809854",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:51:08Z",
   "duration": 18.16,
   "source_file": {
@@ -62,5 +62,6 @@
     14.9,
     16.0,
     17.1
-  ]
+  ],
+  "pass_reason": "18 s of a cockpit display screen filmed on a phone, murky"
 }

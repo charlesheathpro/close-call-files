@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "ice rescue",
   "title": "CGC Penobscot Bay Responds to Tug Beset in Ice Near Barrytown, New York",
-  "description": "The Coast Guard Cutter Penobscot Bay, responded to a report of the tug Erin Elizabeth beset in ice near Barrytown, New York, and broke Erin Elizabeth free from the ice and confirming there was no damage to the tug before resuming operations while underway January 26, 2026. CGC Penobscot Bay, homeported in Bayonne, New Jersey, is a 140-foot Bay-class icebreaking tug. Penobscot Bay is responsible for providing search and rescue capabilities to the ice-covered areas in New York City and the Hudson Valley. (U.S. Coast Guard photo by Penobscot Bay Crew)",
+  "description": "The Coast Guard Cutter Penobscot Bay, responded to a report of the tug Erin Elizabeth beset in ice near Barrytown, New York, and broke Erin Elizabeth free from the ice and confirming there was no damage to the tug before resuming operations while underway January 26, 2026. CGC Penobscot Bay, homeported in Bayonne, New Jersey, is a 140-foot Bay-class icebreaking tug. Penobscot Bay\u00a0is responsible for providing\u00a0search and rescue\u00a0capabilities to the ice-covered areas in\u00a0New York City\u00a0and the\u00a0Hudson Valley. (U.S. Coast Guard photo by Penobscot Bay Crew)",
   "keywords": "ice breaking, OP RENEW, (WTGB-107) Penobscot Bay",
   "date": "2026-01-26T00:00:00-05:00",
   "date_published": "2026-01-28T14:03:39-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-994166",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:54:46Z",
   "duration": 105.4,
   "source_file": {
@@ -62,5 +62,6 @@
     88.51,
     95.07,
     101.62
-  ]
+  ],
+  "pass_reason": "tug freed from river ice with no damage: slow, mostly static, no visible danger"
 }

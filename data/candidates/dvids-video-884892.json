@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-884892",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:45:06Z",
   "duration": 243.8,
   "source_file": {
@@ -675,5 +675,6 @@
     205.28,
     220.49,
     235.7
-  ]
+  ],
+  "pass_reason": "same Kodiak Dec. 12, 2022 rescue as ccf-20261102-03"
 }
