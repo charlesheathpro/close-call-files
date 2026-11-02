@@ -40,6 +40,13 @@ Write `data/shorts/<id>/qa.json`:
 {"short_id": "...", "revision": <spec revision>, "verdict": "pass" | "reject", "at": "<UTC ISO time>",
  "score": 1-10, "notes": "one or two sentences", "fixes": ["specific change, with times or wording"]}
 ```
-Score 7 or higher passes. A small wording fix you can make yourself: edit the spec, bump `revision`, and do not write a qa.json (the rebuild comes back to you next run). Larger problems: reject with exact fixes for the editor.
+Score 7 or higher passes.
+
+**Fix it yourself when the story is strong and only shots or wording are wrong** (owner, Nov 1: near misses were bouncing between editor and QA for days while nothing got scheduled). Typical cases: a few seconds of empty water or sky, a reused shot, a subject cropped off the edge, a line that overstates the release. Then:
+1. Edit the spec (swap or trim shots, change crop_x, fix the wording), bump `revision`.
+2. Run `python3 pipeline/validate_spec.py` and `python3 pipeline/preview_shots.py` on it; look at `shot_preview.jpg` and fix until there are no WARN lines.
+3. Commit and push the spec, then wait for the rebuild in this same run: poll `git pull` every 2 minutes for up to 25 minutes until `build.json` shows the new revision.
+4. Review the new render sheet and write the verdict for that revision.
+Reject back to the editor only when the clip itself cannot work (no danger on screen, wrong footage, unresolvable story, too little usable footage), and then set the spec to dropped with a `drop_reason` instead of asking for repairs that cannot fix it.
 
 Commit only `qa.json` files and any spec edits, pull with rebase, push. Finish with a short summary: passed, rejected (why), waiting.

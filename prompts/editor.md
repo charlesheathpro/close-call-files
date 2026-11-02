@@ -114,6 +114,7 @@ Folder and `short_id`: `data/shorts/ccf-YYYYMMDD-NN/spec.json` (today's date in 
 ## 5. Check and ship
 
 - `python3 pipeline/validate_spec.py data/shorts/<id>/spec.json` for every spec you wrote or changed. Fix every ERROR.
+- `python3 pipeline/preview_shots.py data/shorts/<id>/spec.json` for every spec you wrote or changed (owner, Nov 1: most QA rejections were empty water, sky or murk under a line, reused shots, or a subject cropped off the edge). It renders each planned shot exactly as the build will crop it, writes `shot_preview.jpg`, and prints WARN lines for EMPTY, DARK and REUSED shots. LOOK at the preview image, fix every WARN and every shot where the subject sits at the edge or out of frame, and run it again until it is clean. Never push a spec with a WARN.
 - Read each narration aloud in your head once more: does the first line grab, does every line add something, does the outcome close the loop?
 - Commit specs and candidate status changes together, pull with rebase, push. The push starts the build workflow.
 - Finish with a one-paragraph summary: specs written, repairs, candidates passed over and why, and supply left (count of `new` candidates per lane).
