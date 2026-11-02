@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:551499",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Irma",
+  "description": "Aerial footage of Hurricane Irma damage to the Virgin Islands. Irma sustained 185-mph winds for 37 hours, the longest any cyclone on the globe has maintained that intensity. U.S. military assets are on the ground and in the air supporting FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Navy Video by Mass Communication Specialist 1st Class Blake Midnight/Released)",
+  "keywords": "Hurricane Irma, Virgin Islands Irma response",
+  "date": "2017-09-13T00:00:00-04:00",
+  "date_published": "2017-09-14T14:28:36-04:00",
+  "branch": "Navy",
+  "unit_name": "Expeditionary Combat Camera",
+  "credit": "Petty Officer 1st Class Blake Midnight",
+  "category": "B-Roll",
+  "virin": "170913-N-WB378-0003",
+  "location": {
+    "city": "St. John",
+    "state": "",
+    "country": "Virgin Islands, US",
+    "state_abbreviation": null,
+    "country_abbreviation": "VI"
+  },
+  "page_url": "https://www.dvidshub.net/video/551499/hurricane-irma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-551499",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:18:19Z",
+  "duration": 40.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104842128/DOD_104842128.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9090,
+    "size": 46566937
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-551499.jpg",
+  "sheet_times": [
+    1.25,
+    3.74,
+    6.23,
+    8.72,
+    11.22,
+    13.71,
+    16.2,
+    18.7,
+    21.19,
+    23.68,
+    26.17,
+    28.67,
+    31.16,
+    33.65,
+    36.14,
+    38.64
+  ]
+}

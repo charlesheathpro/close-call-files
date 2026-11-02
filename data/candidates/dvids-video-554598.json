@@ -1,0 +1,102 @@
+{
+  "asset_id": "video:554598",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Maria",
+  "description": "Air National Guardsmen coordinate relief operations at the Emergency Operation Center on Muniz Air National Guard base, Puerto Rico, Sept. 28, 2017.\r\nHurricane Maria formed in the Atlantic Ocean and affected islands in the Caribbean Sea, including Puerto Rico and the U.S. Virgin Islands. U.S. Military assets supported FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Air Force video by SrA Taylor Harrison)",
+  "keywords": "ANG, 156th Airlift Wing, Muniz, Hurricane Maria, NGB, Puerto Rico",
+  "date": "2017-09-28T00:00:00-04:00",
+  "date_published": "2017-09-28T17:07:10-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Senior Airman Taylor Drzazgowski",
+  "category": "B-Roll",
+  "virin": "170928-F-YL100-002",
+  "location": {
+    "city": "Carolina",
+    "state": "Puerto Rico",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/554598/hurricane-maria",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-554598",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:19:56Z",
+  "duration": 36.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104905719/DOD_104905719.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9349,
+    "size": 42717998
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.02,
+      "e": 6.0,
+      "text": "I don't know if I'm going to go to the hospital."
+    },
+    {
+      "s": 6.0,
+      "e": 7.68,
+      "text": "I don't know if I'm going to get myself home."
+    },
+    {
+      "s": 7.68,
+      "e": 12.48,
+      "text": "Would you like to go to the hospital?"
+    },
+    {
+      "s": 12.48,
+      "e": 13.48,
+      "text": "Okay."
+    },
+    {
+      "s": 13.48,
+      "e": 15.48,
+      "text": "Thank you."
+    }
+  ],
+  "scene_cuts": [
+    3.21,
+    6.21,
+    10.26,
+    13.89,
+    16.89,
+    20.35,
+    25.02,
+    29.24,
+    32.16
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-554598.jpg",
+  "sheet_times": [
+    1.11,
+    3.33,
+    5.55,
+    7.77,
+    9.99,
+    12.22,
+    14.44,
+    16.66,
+    18.88,
+    21.1,
+    23.32,
+    25.54,
+    27.76,
+    29.98,
+    32.21,
+    34.43
+  ]
+}

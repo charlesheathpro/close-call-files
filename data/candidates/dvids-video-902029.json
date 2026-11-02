@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:902029",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "231014-N-PV523-1001",
+  "description": "231014-N-PV523-1001 PACIFIC OCEAN (Oct. 14, 2023) Sailors fire M-4 rifles during a live-fire exercise on the flight deck of the Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72). Abraham Lincoln is currently underway conducting routine operations in the Pacific Ocean. (U.S. Navy photo by Mass Communication Specialist 3rd Class Victoria Armstrong)",
+  "keywords": "CVN 72, SHALL NOT PERISH",
+  "date": "2023-10-14T00:00:00-04:00",
+  "date_published": "2023-10-31T12:53:50-04:00",
+  "branch": "Navy",
+  "unit_name": "USS Abraham Lincoln (CVN 72)",
+  "credit": "Petty Officer 3rd Class Victoria Armstrong",
+  "category": "B-Roll",
+  "virin": "231014-N-PV523-1001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/902029/231014-n-pv523-1001",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-902029",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:20:09Z",
+  "duration": 58.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2310/DOD_109965395/DOD_109965395.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 62136010
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.26,
+      "e": 7.46,
+      "text": "No way target."
+    }
+  ],
+  "scene_cuts": [
+    5.94,
+    12.95,
+    17.97,
+    22.96,
+    29.96,
+    36.24,
+    43.21,
+    50.15,
+    53.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-902029.jpg",
+  "sheet_times": [
+    1.82,
+    5.47,
+    9.12,
+    12.77,
+    16.42,
+    20.07,
+    23.72,
+    27.36,
+    31.01,
+    34.66,
+    38.31,
+    41.96,
+    45.61,
+    49.25,
+    52.9,
+    56.55
+  ]
+}

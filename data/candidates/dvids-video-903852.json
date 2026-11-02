@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:903852",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "Sailors aboard USS Shoup qualify on M9 service pistol",
+  "description": "PHILIPPINE SEA (Oct. 28, 2023) Sailors qualify on the M9 service pistol during a live-fire exercise on the flight deck aboard the Arleigh Burke-class guided-missile destroyer USS Shoup (DDG 86) while conducting routine operations in the Philippine Sea, Oct. 28. Shoup is assigned to Commander, Task Force (CTF) 70, and is forward-deployed to Yokosuka, Japan in support of a free and open Indo-Pacific. (U.S. Navy video by Mass Communication Specialist 1st Class Donavan K. Patubo)",
+  "keywords": "USS Shoup (DDG 86), Service Pistol, CTF 70",
+  "date": "2023-10-28T00:00:00-04:00",
+  "date_published": "2023-11-11T19:43:05-05:00",
+  "branch": "Navy",
+  "unit_name": "Commander, Task Force 70 / Carrier Strike Group 5",
+  "credit": "Petty Officer 1st Class Donavan K Patubo",
+  "category": "B-Roll",
+  "virin": "231028-N-HP061-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Philippine Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "M0"
+  },
+  "page_url": "https://www.dvidshub.net/video/903852/sailors-aboard-uss-shoup-qualify-m9-service-pistol",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-903852",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:25:44Z",
+  "duration": 30.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_109991778/DOD_109991778.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 27730548
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.91,
+      "e": 2.91,
+      "text": "I'll see you at our standby."
+    }
+  ],
+  "scene_cuts": [
+    5.67,
+    6.01,
+    12.01,
+    12.35,
+    17.35,
+    17.68,
+    23.69,
+    24.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      2.0,
+      2.8,
+      4.5,
+      12.0,
+      15.1,
+      23.4,
+      24.4,
+      25.5,
+      29.3
+    ],
+    "silence_ends": [
+      0.7,
+      2.8,
+      4.0,
+      6.0,
+      12.9,
+      15.7,
+      24.1,
+      25.5,
+      26.3,
+      30.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-903852.jpg",
+  "sheet_times": [
+    0.92,
+    2.77,
+    4.61,
+    6.46,
+    8.31,
+    10.15,
+    12.0,
+    13.84,
+    15.69,
+    17.53,
+    19.38,
+    21.22,
+    23.07,
+    24.92,
+    26.76,
+    28.61
+  ]
+}

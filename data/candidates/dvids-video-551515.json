@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:551515",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Irma",
+  "description": "Aerial footage of Hurricane Irma damage to the Virgin Islands. Irma sustained 185-mph winds for 37 hours, the longest any cyclone on the globe has maintained that intensity. U.S. military assets are on the ground and in the air supporting FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Navy Video by Mass Communication Specialist 1st Class Blake Midnight/Released)",
+  "keywords": "Hurricane Irma, Virgin Islands Irma responce",
+  "date": "2017-09-13T00:00:00-04:00",
+  "date_published": "2017-09-14T16:51:59-04:00",
+  "branch": "Navy",
+  "unit_name": "Expeditionary Combat Camera",
+  "credit": "Petty Officer 1st Class Blake Midnight",
+  "category": "B-Roll",
+  "virin": "170913-N-WB378-0006",
+  "location": {
+    "city": "St. John",
+    "state": "",
+    "country": "Virgin Islands, US",
+    "state_abbreviation": null,
+    "country_abbreviation": "VI"
+  },
+  "page_url": "https://www.dvidshub.net/video/551515/hurricane-irma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-551515",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:17:44Z",
+  "duration": 42.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104842504/DOD_104842504.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9091,
+    "size": 48807981
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    42.28
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-551515.jpg",
+  "sheet_times": [
+    1.31,
+    3.92,
+    6.54,
+    9.15,
+    11.76,
+    14.38,
+    16.99,
+    19.61,
+    22.22,
+    24.83,
+    27.45,
+    30.06,
+    32.68,
+    35.29,
+    37.9,
+    40.52
+  ]
+}

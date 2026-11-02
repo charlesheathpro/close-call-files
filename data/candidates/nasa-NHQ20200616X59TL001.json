@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:NHQ20200616X59TL001",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "X-59",
+  "title": "NHQ20200616X59TL001",
+  "description": "A time lapse of NASA's next X-plane, the X-59, is being assembled at Lockheed Martin Skunk Works in California.",
+  "keywords": "X59, X-59, LBFD, Lockheed Martin, Skunk Works",
+  "date": "2020-06-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "page_url": "https://images.nasa.gov/details/NHQ20200616X59TL001",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-NHQ20200616X59TL001",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:13:40Z",
+  "duration": 193.97,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/NHQ20200616X59TL001/NHQ20200616X59TL001~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 193.92,
+      "text": "[ no audio ]"
+    }
+  ],
+  "scene_cuts": [
+    8.13
+  ],
+  "drama_score": 55,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      194.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-NHQ20200616X59TL001.jpg",
+  "sheet_times": [
+    6.05,
+    18.14,
+    30.23,
+    42.32,
+    54.41,
+    66.5,
+    78.6,
+    90.69,
+    102.78,
+    114.87,
+    126.96,
+    139.05,
+    151.15,
+    163.24,
+    175.33,
+    187.42
+  ]
+}

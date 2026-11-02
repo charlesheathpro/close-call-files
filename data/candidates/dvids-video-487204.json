@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:487204",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "NCHART Hurricane Matthew B-roll",
+  "description": "NCNG NCHART Hurricane Matthew\r\nNCNG Soldiers have conducted over 60 air rescues with the NCNG NCHART team since Saturday and well over 100 water rescues assisting the NC Emergency Management Services in the aftermath Hurricane Matthew.",
+  "keywords": "NCNG, NCHART, Hurricane Matthew",
+  "date": "2016-10-10T00:00:00-04:00",
+  "date_published": "2016-10-12T13:39:28-04:00",
+  "branch": "Joint",
+  "unit_name": "North Carolina National Guard",
+  "credit": "Sgt. Marcel Pugh",
+  "category": "B-Roll",
+  "virin": "161012-A-AK274-296",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/487204/nchart-hurricane-matthew-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-487204",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:42:32Z",
+  "duration": 95.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1610/DOD_103747855/DOD_103747855.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9901,
+    "size": 119528547
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.87,
+    0.93,
+    1.17,
+    6.84,
+    12.41,
+    57.79,
+    59.93,
+    60.53,
+    60.56,
+    85.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      72.8,
+      75.0,
+      81.3
+    ],
+    "silence_ends": [
+      72.8,
+      75.0,
+      81.3,
+      94.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-487204.jpg",
+  "sheet_times": [
+    2.96,
+    8.87,
+    14.79,
+    20.71,
+    26.62,
+    32.54,
+    38.45,
+    44.37,
+    50.29,
+    56.2,
+    62.12,
+    68.03,
+    73.95,
+    79.87,
+    85.78,
+    91.7
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:805043",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "210407-N-DN374-1001",
+  "description": "PACIFIC OCEAN (April 7, 2021) Sailors aboard the aircraft carrier USS Abraham Lincoln (CVN 72) test the ship's aqueous film forming foam systems on the flight deck while underway conducting sea trials. (U.S. Navy video by Mass Communication Specialist Seaman Lake Fultz/Released)",
+  "keywords": "Fire Fighting, aviiation, navy, sailors, flight deck",
+  "date": "2021-06-03T00:00:00-04:00",
+  "date_published": "2021-06-26T17:08:49-04:00",
+  "branch": "Navy",
+  "unit_name": "USS Abraham Lincoln (CVN 72)",
+  "credit": "Seaman Lake Fultz",
+  "category": "B-Roll",
+  "virin": "210407-N-DN374-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/805043/210407-n-dn374-1001",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-805043",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:30:01Z",
+  "duration": 105.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108423566/DOD_108423566.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8739,
+    "size": 117333231
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.97,
+    9.87,
+    15.03,
+    22.47,
+    26.97,
+    33.37,
+    40.93,
+    100.97
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      101.0
+    ],
+    "silence_ends": [
+      5.0,
+      105.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-805043.jpg",
+  "sheet_times": [
+    3.29,
+    9.88,
+    16.47,
+    23.06,
+    29.65,
+    36.24,
+    42.83,
+    49.42,
+    56.0,
+    62.59,
+    69.18,
+    75.77,
+    82.36,
+    88.95,
+    95.54,
+    102.13
+  ]
+}

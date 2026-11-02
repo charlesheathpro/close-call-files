@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:625564",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Florence",
+  "description": "Airmen from the 436th Aerial Port Squadron at Dover Air Force Base, Del. loaded Hurricane Florence rescue and medical supplies on an Alaska Air National Guard, HC-130J \"Combat King II\" on 14 September, 2018 (U.S. Air Force video by Tech. Sgt. Laura Beckley).",
+  "keywords": "California Air National Guard, Dover Air Force Base, NYANG, cng, Alaska Air National Guard, 436th Airlift Wing, AKNG, NYNG, 436 AW, CANG, AKANG, Hurricane Florence, 436 Aerial Port Squadron, Air National Guard, New York Air National Guard",
+  "date": "2018-09-14T00:00:00-04:00",
+  "date_published": "2018-09-14T19:25:02-04:00",
+  "branch": "Air Force",
+  "unit_name": "436th Airlift Wing",
+  "credit": "Tech. Sgt. Laura Beckley",
+  "category": "B-Roll",
+  "virin": "180914-F-US651-9003",
+  "location": {
+    "city": "Dover Air Force Base",
+    "state": "Delaware",
+    "country": "United States",
+    "state_abbreviation": "DE",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625564/hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625564",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:14:28Z",
+  "duration": 81.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106024324/DOD_106024324.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9112,
+    "size": 93779962
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.28,
+      "e": 5.28,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    0.33,
+    3.6,
+    9.74,
+    15.58,
+    22.62,
+    29.8,
+    37.67,
+    43.08,
+    50.58,
+    60.13,
+    64.5,
+    69.54,
+    75.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625564.jpg",
+  "sheet_times": [
+    2.52,
+    7.56,
+    12.6,
+    17.64,
+    22.68,
+    27.72,
+    32.76,
+    37.8,
+    42.83,
+    47.87,
+    52.91,
+    57.95,
+    62.99,
+    68.03,
+    73.07,
+    78.11
+  ]
+}

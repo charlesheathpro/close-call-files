@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:859256",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "CBP Responds to Hurricane Ian",
+  "description": "Miami Air and Marine Branch conduct search and rescue operations, in coordination with FEMA, in Sarasota, FL in the aftermath of Hurricane Ian. Video by Ozzy Trevino.",
+  "keywords": "cbpian",
+  "date": "2022-09-30T00:00:00-04:00",
+  "date_published": "2022-09-30T16:33:38-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Ozzy Trevino",
+  "category": "B-Roll",
+  "virin": "220930-H-D0456-001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859256/cbp-responds-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859256",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:38:53Z",
+  "duration": 88.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109247294/DOD_109247294-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 63350043
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    51.4,
+    56.33,
+    60.77,
+    85.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      85.9
+    ],
+    "silence_ends": [
+      88.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859256.jpg",
+  "sheet_times": [
+    2.74,
+    8.23,
+    13.72,
+    19.21,
+    24.69,
+    30.18,
+    35.67,
+    41.16,
+    46.64,
+    52.13,
+    57.62,
+    63.11,
+    68.59,
+    74.08,
+    79.57,
+    85.06
+  ]
+}

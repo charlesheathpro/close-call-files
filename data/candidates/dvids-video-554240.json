@@ -1,0 +1,126 @@
+{
+  "asset_id": "video:554240",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Maria",
+  "description": "B-roll stringer of structural, electrical, and water damage to the Municipality of Guaynabo, Puerto Rico after Hurricane Maria hit the island Sept. 20, 2017.\r\nHurricane Maria formed in the Atlantic Ocean and affected islands in the Caribbean Sea, including Puerto Rico and the U.S. Virgin Islands. U.S. Military assets supported FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Air Force video by Senior Airman Tayor Harrison)",
+  "keywords": "ANG, 156th Airlift Wing, 156AW, PRANG, 1 CTCS, U.S. Army National Guard, U.S. Air National Guard, Hurricane Maria, Relief Eforts, First Combat Camera Sq., U.S. Air Force, Puerto Rico",
+  "date": "2017-09-25T00:00:00-04:00",
+  "date_published": "2017-09-27T16:44:57-04:00",
+  "branch": "Air Force",
+  "unit_name": "156th Wing",
+  "credit": "Airman 1st Class Nicholas Dutton",
+  "category": "B-Roll",
+  "virin": "170925-F-YL100-002",
+  "location": {
+    "city": "Guaynabo",
+    "state": "Puerto Rico",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/554240/hurricane-maria",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-554240",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:20:53Z",
+  "duration": 54.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104900825/DOD_104900825.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9041,
+    "size": 62956652
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.82,
+      "e": 2.82,
+      "text": "Basically, you've got to wait."
+    },
+    {
+      "s": 2.82,
+      "e": 39.76,
+      "text": "What are you doing?"
+    },
+    {
+      "s": 39.76,
+      "e": 40.76,
+      "text": "Don't worry."
+    },
+    {
+      "s": 40.76,
+      "e": 42.76,
+      "text": "You're doing it..."
+    },
+    {
+      "s": 42.76,
+      "e": 44.76,
+      "text": "I'm going to eat a little baby."
+    },
+    {
+      "s": 44.76,
+      "e": 46.76,
+      "text": "I'm going to eat a little baby."
+    },
+    {
+      "s": 46.76,
+      "e": 48.76,
+      "text": "I'm going to eat a little baby."
+    },
+    {
+      "s": 49.76,
+      "e": 51.76,
+      "text": "I'm going to eat a little baby."
+    }
+  ],
+  "scene_cuts": [
+    10.68,
+    13.97,
+    15.93,
+    18.56,
+    22.11,
+    26.86,
+    35.12,
+    46.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      49.7,
+      50.4,
+      52.6,
+      53.5
+    ],
+    "silence_ends": [
+      50.4,
+      52.6,
+      53.2,
+      54.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-554240.jpg",
+  "sheet_times": [
+    1.7,
+    5.1,
+    8.5,
+    11.9,
+    15.3,
+    18.7,
+    22.1,
+    25.5,
+    28.9,
+    32.29,
+    35.69,
+    39.09,
+    42.49,
+    45.89,
+    49.29,
+    52.69
+  ]
+}

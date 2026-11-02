@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:940128",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "Truman's Deployment",
+  "description": "241007-N-YT061-1001 ATLANTIC OCEAN (Oct. 07, 2024) Naval Aviators and Sailors, conduct small-arms live-fire qualification on the flight deck, Oct. 07. USS Harry S. Truman, the flagship of the Harry S. Truman Carrier Strike Group (HSTCSG), is on a scheduled deployment in the U.S. Naval Forces Europe area of responsibility. (U.S. Navy video by Mass Communication Specialist Petty Officer 2nd Class Giovannie Otero-santiago)",
+  "keywords": "USN, Forged by the Sea",
+  "date": "2024-10-07T00:00:00-04:00",
+  "date_published": "2024-10-15T12:29:39-04:00",
+  "branch": "Navy",
+  "unit_name": "USS Harry S Truman",
+  "credit": "Petty Officer 2nd Class Giovannie Otero Santiago",
+  "category": "B-Roll",
+  "virin": "241007-N-YT061-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "U.S. 6th Fleet area of responsibility",
+    "state_abbreviation": null,
+    "country_abbreviation": "6F"
+  },
+  "page_url": "https://www.dvidshub.net/video/940128/trumans-deployment",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-940128",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:24:18Z",
+  "duration": 33.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110622587/DOD_110622587.mp4",
+    "width": 1080,
+    "height": 1920,
+    "bitrate": 0,
+    "size": 30705983
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 7.0,
+      "text": "That's the leg with your pistol attached to it."
+    },
+    {
+      "s": 7.0,
+      "e": 25.91,
+      "text": "On the command of fire you will take a strong, ceasefire."
+    },
+    {
+      "s": 25.91,
+      "e": 28.91,
+      "text": "That was good."
+    }
+  ],
+  "scene_cuts": [
+    28.46
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      28.5
+    ],
+    "silence_ends": [
+      33.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-940128.jpg",
+  "sheet_times": [
+    1.03,
+    3.08,
+    5.14,
+    7.2,
+    9.25,
+    11.31,
+    13.37,
+    15.42,
+    17.48,
+    19.53,
+    21.59,
+    23.65,
+    25.7,
+    27.76,
+    29.82,
+    31.87
+  ]
+}

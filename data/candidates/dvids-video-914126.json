@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:914126",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Tornado sustained damage and clean-up at Wright-Patterson Air Force Base",
+  "description": "B-Roll package of sustained damage and clean-up at Wright-Patterson Air Force Base following an early-morning severe weather event on Feb. 28, 2024. Video is of the National Museum of the U.S. Air Force’s Restoration Hangar 4, Gate 22B (I-675 Gate) and several other buildings on Area B of Wright-Patt AFB (U.S. Air Force video by Jeff Harris and Austin Smith).",
+  "keywords": "clean up, CE, tornado damage, WPAFB",
+  "date": "2024-02-28T00:00:00-05:00",
+  "date_published": "2024-02-29T11:42:37-05:00",
+  "branch": "Air Force",
+  "unit_name": "88th Air Base Wing",
+  "credit": "Jeffery Harris, Austin Smith",
+  "category": "B-Roll",
+  "virin": "240228-F-NN123-9997",
+  "location": {
+    "city": "Wright-Patterson Air Force Base",
+    "state": "Ohio",
+    "country": "United States",
+    "state_abbreviation": "OH",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/914126/tornado-sustained-damage-and-clean-up-wright-patterson-air-force-base",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-914126",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:20:33Z",
+  "duration": 294.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2402/DOD_110150491/DOD_110150491-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 268309309
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.64,
+    12.01,
+    44.81,
+    47.25,
+    62.46,
+    141.31,
+    147.55,
+    168.07,
+    176.61,
+    181.51,
+    226.19,
+    235.34,
+    246.51,
+    262.13,
+    278.34
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      7.7,
+      147.6,
+      235.4
+    ],
+    "silence_ends": [
+      141.3,
+      176.6,
+      246.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-914126.jpg",
+  "sheet_times": [
+    9.17,
+    27.52,
+    45.86,
+    64.21,
+    82.55,
+    100.9,
+    119.25,
+    137.59,
+    155.94,
+    174.28,
+    192.63,
+    210.97,
+    229.32,
+    247.66,
+    266.01,
+    284.35
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:625153",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Florence",
+  "description": "Alaska Air National Guard personnel from Joint Base Elmendorf-Richardson, Alaska, prepare their HC-130J for any Hurricane Florence mission when tasked Sept. 13, 2018, at Dover Air Force Base, Del. Members and equipment from the 176th Wing, 176th Aircraft Maintenance Squadron, 211th and 212th Rescue Squadrons at JBER arrived at Dover on Sept. 12 to support hurricane relief efforts when called upon. (U.S. Air Force video by Staff Sgt. Zoe Russell)",
+  "keywords": "Dover Air Force Base, 106th Rescue Wing, Alaska Air National Guard, 176th Wing, 212th Rescue Squadron, 176th Aircraft Maintenance Squadron, hurricaneflorence, Hurricane Florence, 211th Resuce Squadron",
+  "date": "2018-09-13T00:00:00-04:00",
+  "date_published": "2018-09-13T18:00:30-04:00",
+  "branch": "Air Force",
+  "unit_name": "436th Airlift Wing",
+  "credit": "Staff Sgt. Zoe Russell",
+  "category": "B-Roll",
+  "virin": "180913-F-BY642-9001",
+  "location": {
+    "city": "Dover Air Force Base",
+    "state": "Delaware",
+    "country": "United States",
+    "state_abbreviation": "DE",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625153/hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625153",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:26:47Z",
+  "duration": 59.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106017880/DOD_106017880.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10035,
+    "size": 75856642
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.01,
+    23.29,
+    28.8,
+    32.93,
+    42.08,
+    49.82
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625153.jpg",
+  "sheet_times": [
+    1.85,
+    5.55,
+    9.25,
+    12.94,
+    16.64,
+    20.34,
+    24.04,
+    27.74,
+    31.43,
+    35.13,
+    38.83,
+    42.53,
+    46.23,
+    49.92,
+    53.62,
+    57.32
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:1007667",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "flight deck fire",
+  "title": "31st MEU Shotgun Shoot",
+  "description": "U.S. Marines conduct an M500 shotgun live-fire exercise on the flight deck of America-class amphibious assault ship USS Tripoli (LHA 7), May 12, 2026. Tripoli is deployed to the U.S. 5th Fleet area of operations to support maritime security and stability in the Middle East. (U.S. Navy video)",
+  "keywords": "CENTCOM",
+  "date": "2026-05-12T00:00:00-04:00",
+  "date_published": "2026-06-11T11:46:43-04:00",
+  "branch": "Joint",
+  "unit_name": "U.S. Central Command Public Affairs",
+  "credit": "NAVCENT Public Affairs",
+  "category": "B-Roll",
+  "virin": "260512-N-NO146-1062",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/1007667/31st-meu-shotgun-shoot",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1007667",
+  "status": "new",
+  "harvested_at": "2026-11-02T20:20:45Z",
+  "duration": 34.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111718550/DOD_111718550-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 29465966
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 5.28,
+      "text": "You'll just take one shot each time if you miss or hit it just one shot then you get ready for the next"
+    }
+  ],
+  "scene_cuts": [
+    5.51,
+    7.51,
+    10.51,
+    15.52,
+    20.92,
+    25.29,
+    28.29,
+    29.3,
+    32.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1007667.jpg",
+  "sheet_times": [
+    1.05,
+    3.16,
+    5.27,
+    7.38,
+    9.49,
+    11.6,
+    13.7,
+    15.81,
+    17.92,
+    20.03,
+    22.14,
+    24.25,
+    26.35,
+    28.46,
+    30.57,
+    32.68
+  ]
+}
