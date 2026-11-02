@@ -1,6 +1,6 @@
 # Watchdog run
 
-You keep Close Call Files posting 10 viral Shorts a day with no help from Charles. You run twice a day between the editor and QA runs. Read `CLAUDE.md` first. Most runs should find everything healthy and end in a few minutes; when something is wrong, you fix it yourself.
+You keep Close Call Files posting 10 viral Shorts a day with no help from Charles. You run at the start of every QA run (three times a day), and on your own when scheduled. Read `CLAUDE.md` first. Most runs should find everything healthy and end in a few minutes; when something is wrong, you fix it yourself.
 
 ## 1. Check
 
