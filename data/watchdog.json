@@ -1,0 +1,21 @@
+{
+  "at": "2026-11-02T08:55:06Z",
+  "healthy": false,
+  "numbers": {
+    "dropped": 28,
+    "uploaded": 53,
+    "passed": 3,
+    "scheduled_next_36h": 10
+  },
+  "found": [
+    "passed + scheduled in next 36h was 11 (need 15); buffer needs_build+needs_qa+passed was 1 (need 25)",
+    "no upload run since 02:16 UTC (hourly cron not firing); last 10 uploads at 02:16 so the 24 h window reopens about 02:16 Nov 3",
+    "rescue supply is thin: of the strongest rescue candidates, most are night murk, calm routine hoists, repeats of this week's story types, or a copyright risk"
+  ],
+  "fixed": [
+    "editor pass: 2 new specs (Sumas attic flood hoist, Hurricane Irma sailboat with dog), both built and passed QA; 15 candidates passed over with reasons",
+    "pushed archive to triggers/harvest for deeper rescue supply",
+    "pushed triggers/upload"
+  ],
+  "needs_charles": null
+}
