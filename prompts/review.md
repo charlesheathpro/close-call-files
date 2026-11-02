@@ -20,7 +20,7 @@ Adjust `lane_mix` in `config/channel.json` if the data clearly favors a lane (mo
 
 ## 4. Pace (only when `uploads_enabled` is true)
 
-Owner set `daily_target` to 10 on Oct 27. Virality outranks volume: never lower the editor's or QA's bar to fill slots. Pace rules:
+Owner set `daily_target` to 10 on Oct 27. Owner, Nov 1: the schedule must never run empty. If fewer than 10 Shorts are scheduled for the next 24 hours or the passed buffer is under 10, say so in the first line of your summary with the cause (QA rejections, build failures, supply) and what the next editor run must do about it, and write that into the notes. Virality outranks volume: never lower the editor's or QA's bar to fill slots. Pace rules:
 - If the median `avg_view_pct` of the last 10 mature Shorts falls below 55, tell Charles in the first line and say which story types are dragging it down; do not change the target yourself.
 - Leave `daily_target` at 10 even when the buffer runs short; the uploader simply posts what passed.
 - After an `upload_limit` alert, set `daily_target` to the number that actually uploaded that day and note it.
@@ -28,6 +28,6 @@ From week 3, if 10 a day has held for 5 days without a limit alert, try `max_dai
 
 ## 5. Control Room and record
 
-Refresh the Control Room by following the `refresh` steps in `config/controlroom.json` (six data files, each uploaded and pointed to). Load the ArtifactData tool with ToolSearch if it is not loaded. Write `data/review/<YYYY-MM-DD>.md` with the numbers and decisions. On Sundays also write `data/review/week-<YYYY-MM-DD>.md`: the week's totals, best Short, progress toward 1,000 subscribers and 10M Shorts views in 90 days (20M for applications after Feb 1, 2027), and the plan for next week.
+Refresh the Control Room by following the `refresh` steps in `config/controlroom.json` (six data files, each uploaded and pointed to). Then check it: for every dataset, read the uploaded file back with the Artifact tool (`read`, `path` = the blob id) and confirm it returns the file; re-upload and re-point any that does not. Then `ArtifactData get` collection `data/users/me` doc `runs`: if any dataset there shows failed after your refresh time, fix it and say so in your summary. Load the ArtifactData tool with ToolSearch if it is not loaded. Write `data/review/<YYYY-MM-DD>.md` with the numbers and decisions. On Sundays also write `data/review/week-<YYYY-MM-DD>.md`: the week's totals, best Short, progress toward 1,000 subscribers and 10M Shorts views in 90 days (20M for applications after Feb 1, 2027), and the plan for next week.
 
 Commit `data/review`, `config/channel.json`, pull with rebase, push. If something needs Charles (sign-in failure, a rejection, supply drying up), say so in the first line of your summary.

@@ -122,11 +122,14 @@ def validate(spec_path):
             if not shots:
                 errors.append(f"line {i + 1}: give it at least one shot")
                 continue
-            need = len(plain(line).split()) / WORDS_PER_SEC + 0.25
-            have = sum(max(float(x["end"]) - float(x["start"]), 0) for x in shots) / 0.9
-            if have < need:
-                errors.append(f"line {i + 1}: shots cover about {have * 0.7:.1f}s but the line takes about {need:.1f}s")
-            share = need / len(shots)
+            # mirror the build's plan_shots: shot 0 always plays, every chosen shot gets an equal share of the
+            # line, may grow up to 3.5 s within its scene, and never plays slower than 0.9x
+            need = len(plain(line).split()) / 2.7 + 0.35
+            if not _fits(shots, cand, need):
+                lens = ", ".join(f"{float(x['end']) - float(x['start']):.1f}" for x in shots)
+                errors.append(f"line {i + 1}: shots ({lens}s) cannot fill about {need:.1f}s of narration the way the "
+                              f"build cuts them (shot 1 always plays, equal shares, no slower than 0.9x); "
+                              f"lengthen shot 1 or add longer shots")
             short = [x for x in shots if float(x["end"]) - float(x["start"]) < 2.0]
             if short:
                 warnings.append(f"line {i + 1}: shots under 2 seconds feel jumpy; use 2.2 to 3 second shots")
@@ -160,6 +163,35 @@ def validate(spec_path):
     if not spec.get("line_shots") and total < est + 1:
         errors.append(f"footage {total:.1f}s is shorter than estimated narration {est:.1f}s; add segments")
     return errors, warnings
+
+
+def _extend(shots, cand, extra):
+    """Same rule as build.extend_shots: grow each shot up to `extra` s, never across a scene cut or the clip end."""
+    cuts = sorted((cand or {}).get("scene_cuts") or [])
+    dur = float((cand or {}).get("duration") or 1e9)
+    out = []
+    for sh in shots:
+        a, b = float(sh["start"]), float(sh["end"])
+        cap = min(b + extra, dur - 0.1)
+        nxt = [x for x in cuts if a + 0.3 < x]
+        if nxt:
+            cap = min(cap, max(b, nxt[0] - 0.15))
+        out.append({**sh, "end": max(b, cap)})
+    return out
+
+
+def _fits(shots0, cand, win):
+    for extra in (0.0, 1.0, 2.0, 3.5):
+        shots = _extend(shots0, cand, extra) if extra else shots0
+        lens = [float(x["end"]) - float(x["start"]) for x in shots]
+        for n in range(1, len(shots) + 1):
+            share = win / n + 0.08
+            if n > 1 and share < 1.5:
+                break
+            rest = sorted(range(1, len(shots)), key=lambda k: -lens[k])
+            if all(lens[k] / share >= 0.9 for k in [0] + rest[:n - 1]):
+                return True
+    return False
 
 
 def main(paths):

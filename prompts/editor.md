@@ -11,7 +11,7 @@ The channel posts up to 10 Shorts a day, but every one must clear the viral bar 
 - `git pull`. Read `config/channel.json` (daily_target, lane_mix, uploads_enabled), `data/review/notes.md` if it exists (what is working), and `data/stats/latest.json`.
 - Count Shorts by state with:
   `python3 -c "import sys;sys.path.insert(0,'pipeline');from common import *;import collections;print(collections.Counter(short_state(d) for d in short_dirs()))"`
-- Buffer = needs_build + needs_qa + passed. Goal: a buffer of 2 x daily_target. New specs this run = max(0, 2 x daily_target - buffer) + 3, capped at 14, but only as many as clear the viral bar. About a third get rejected or fail, so aim high when the footage is there.
+- Buffer = needs_build + needs_qa + passed. Goal: a buffer of 3 x daily_target (owner, Nov 1: the schedule must never run empty). New specs this run = max(0, 3 x daily_target - buffer) + 3, capped at 16, but only as many as clear the viral bar. About a third get rejected or fail, so aim high when the footage is there.
 - Never redo a story that is already in `data/shorts` (any status, including dropped). Read each dropped spec's `drop_reason` and avoid the same mistake. Agencies often post one event under several IDs, and Commons often re-hosts DVIDS and NASA clips, so compare by place, date and story.
 
 ## 2. Repair first
