@@ -1,7 +1,628 @@
 {
   "short_id": "ccf-20261102-03",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-02T13:12:39Z",
-  "error": "line 1: shots are 1.5, 6.1, 4.6, 3.9s even after extending, but the line needs 4.8s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-02T17:19:22Z",
+  "duration": 34.73,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Thirty seconds after the last man and the dog were lifted off, this boat hit the rocks.",
+      "start": 0.05,
+      "end": 5.09,
+      "words": [
+        {
+          "w": "Thirty",
+          "s": 0.05,
+          "e": 0.37
+        },
+        {
+          "w": "seconds",
+          "s": 0.53,
+          "e": 0.85
+        },
+        {
+          "w": "after",
+          "s": 0.93,
+          "e": 1.17
+        },
+        {
+          "w": "the",
+          "s": 1.21,
+          "e": 1.29
+        },
+        {
+          "w": "last",
+          "s": 1.33,
+          "e": 1.65
+        },
+        {
+          "w": "man",
+          "s": 1.73,
+          "e": 1.89
+        },
+        {
+          "w": "and",
+          "s": 1.93,
+          "e": 2.01
+        },
+        {
+          "w": "the",
+          "s": 2.05,
+          "e": 2.13
+        },
+        {
+          "w": "dog",
+          "s": 2.13,
+          "e": 2.37
+        },
+        {
+          "w": "were",
+          "s": 2.45,
+          "e": 2.53
+        },
+        {
+          "w": "lifted",
+          "s": 2.61,
+          "e": 2.85
+        },
+        {
+          "w": "off,",
+          "s": 2.93,
+          "e": 3.57
+        },
+        {
+          "w": "this",
+          "s": 3.65,
+          "e": 3.89
+        },
+        {
+          "w": "boat",
+          "s": 3.97,
+          "e": 4.21
+        },
+        {
+          "w": "hit",
+          "s": 4.29,
+          "e": 4.45
+        },
+        {
+          "w": "the",
+          "s": 4.49,
+          "e": 4.57
+        },
+        {
+          "w": "rocks.",
+          "s": 4.61,
+          "e": 5.09
+        }
+      ]
+    },
+    {
+      "text": "Their fishing boat had drifted for hours toward the snowy rocks of Esther Island, Alaska.",
+      "start": 5.65,
+      "end": 10.53,
+      "words": [
+        {
+          "w": "Their",
+          "s": 5.65,
+          "e": 5.81
+        },
+        {
+          "w": "fishing",
+          "s": 5.89,
+          "e": 6.21
+        },
+        {
+          "w": "boat",
+          "s": 6.29,
+          "e": 6.45
+        },
+        {
+          "w": "had",
+          "s": 6.53,
+          "e": 6.69
+        },
+        {
+          "w": "drifted",
+          "s": 6.73,
+          "e": 7.09
+        },
+        {
+          "w": "for",
+          "s": 7.21,
+          "e": 7.33
+        },
+        {
+          "w": "hours",
+          "s": 7.41,
+          "e": 7.81
+        },
+        {
+          "w": "toward",
+          "s": 7.85,
+          "e": 7.97
+        },
+        {
+          "w": "the",
+          "s": 8.05,
+          "e": 8.13
+        },
+        {
+          "w": "snowy",
+          "s": 8.21,
+          "e": 8.53
+        },
+        {
+          "w": "rocks",
+          "s": 8.61,
+          "e": 8.85
+        },
+        {
+          "w": "of",
+          "s": 8.93,
+          "e": 9.01
+        },
+        {
+          "w": "Esther",
+          "s": 9.09,
+          "e": 9.41
+        },
+        {
+          "w": "Island,",
+          "s": 9.49,
+          "e": 9.89
+        },
+        {
+          "w": "Alaska.",
+          "s": 9.97,
+          "e": 10.53
+        }
+      ]
+    },
+    {
+      "text": "A Coast Guard Jayhawk from Kodiak raced over the mountains at ten thousand feet.",
+      "start": 11.09,
+      "end": 15.41,
+      "words": [
+        {
+          "w": "A",
+          "s": 11.09,
+          "e": 11.25
+        },
+        {
+          "w": "Coast",
+          "s": 11.29,
+          "e": 11.49
+        },
+        {
+          "w": "Guard",
+          "s": 11.57,
+          "e": 11.73
+        },
+        {
+          "w": "Jayhawk",
+          "s": 11.89,
+          "e": 12.37
+        },
+        {
+          "w": "from",
+          "s": 12.45,
+          "e": 12.53
+        },
+        {
+          "w": "Kodiak",
+          "s": 12.61,
+          "e": 13.17
+        },
+        {
+          "w": "raced",
+          "s": 13.33,
+          "e": 13.57
+        },
+        {
+          "w": "over",
+          "s": 13.65,
+          "e": 13.73
+        },
+        {
+          "w": "the",
+          "s": 13.81,
+          "e": 13.89
+        },
+        {
+          "w": "mountains",
+          "s": 13.89,
+          "e": 14.21
+        },
+        {
+          "w": "at",
+          "s": 14.29,
+          "e": 14.37
+        },
+        {
+          "w": "ten",
+          "s": 14.45,
+          "e": 14.53
+        },
+        {
+          "w": "thousand",
+          "s": 14.69,
+          "e": 14.93
+        },
+        {
+          "w": "feet.",
+          "s": 15.09,
+          "e": 15.41
+        }
+      ]
+    },
+    {
+      "text": "They cut anchor for a tow, and suddenly it was chaos.",
+      "start": 15.89,
+      "end": 19.73,
+      "words": [
+        {
+          "w": "They",
+          "s": 15.89,
+          "e": 15.97
+        },
+        {
+          "w": "cut",
+          "s": 16.05,
+          "e": 16.21
+        },
+        {
+          "w": "anchor",
+          "s": 16.37,
+          "e": 16.53
+        },
+        {
+          "w": "for",
+          "s": 16.61,
+          "e": 16.69
+        },
+        {
+          "w": "a",
+          "s": 16.73,
+          "e": 16.81
+        },
+        {
+          "w": "tow,",
+          "s": 16.85,
+          "e": 17.49
+        },
+        {
+          "w": "and",
+          "s": 17.57,
+          "e": 17.73
+        },
+        {
+          "w": "suddenly",
+          "s": 17.89,
+          "e": 18.37
+        },
+        {
+          "w": "it",
+          "s": 18.45,
+          "e": 18.53
+        },
+        {
+          "w": "was",
+          "s": 18.61,
+          "e": 18.69
+        },
+        {
+          "w": "chaos.",
+          "s": 18.85,
+          "e": 19.73
+        }
+      ]
+    },
+    {
+      "text": "With no time for checklists, they lowered the swimmer down.",
+      "start": 20.05,
+      "end": 23.29,
+      "words": [
+        {
+          "w": "With",
+          "s": 20.05,
+          "e": 20.21
+        },
+        {
+          "w": "no",
+          "s": 20.29,
+          "e": 20.45
+        },
+        {
+          "w": "time",
+          "s": 20.53,
+          "e": 20.69
+        },
+        {
+          "w": "for",
+          "s": 20.77,
+          "e": 20.85
+        },
+        {
+          "w": "checklists,",
+          "s": 20.93,
+          "e": 21.73
+        },
+        {
+          "w": "they",
+          "s": 21.77,
+          "e": 21.85
+        },
+        {
+          "w": "lowered",
+          "s": 21.97,
+          "e": 22.21
+        },
+        {
+          "w": "the",
+          "s": 22.25,
+          "e": 22.33
+        },
+        {
+          "w": "swimmer",
+          "s": 22.37,
+          "e": 22.61
+        },
+        {
+          "w": "down.",
+          "s": 22.69,
+          "e": 23.29
+        }
+      ]
+    },
+    {
+      "text": "A rescue strop loops under the arms, and it does not fit a dog.",
+      "start": 23.57,
+      "end": 27.77,
+      "words": [
+        {
+          "w": "A",
+          "s": 23.57,
+          "e": 23.65
+        },
+        {
+          "w": "rescue",
+          "s": 23.73,
+          "e": 24.13
+        },
+        {
+          "w": "strop",
+          "s": 24.21,
+          "e": 24.61
+        },
+        {
+          "w": "loops",
+          "s": 24.69,
+          "e": 24.93
+        },
+        {
+          "w": "under",
+          "s": 25.01,
+          "e": 25.09
+        },
+        {
+          "w": "the",
+          "s": 25.17,
+          "e": 25.25
+        },
+        {
+          "w": "arms,",
+          "s": 25.33,
+          "e": 25.89
+        },
+        {
+          "w": "and",
+          "s": 25.97,
+          "e": 26.05
+        },
+        {
+          "w": "it",
+          "s": 26.13,
+          "e": 26.21
+        },
+        {
+          "w": "does",
+          "s": 26.33,
+          "e": 26.45
+        },
+        {
+          "w": "not",
+          "s": 26.61,
+          "e": 26.77
+        },
+        {
+          "w": "fit",
+          "s": 26.85,
+          "e": 26.93
+        },
+        {
+          "w": "a",
+          "s": 27.01,
+          "e": 27.09
+        },
+        {
+          "w": "dog.",
+          "s": 27.29,
+          "e": 27.77
+        }
+      ]
+    },
+    {
+      "text": "So the swimmer and the last man held the dog between them.",
+      "start": 28.05,
+      "end": 31.01,
+      "words": [
+        {
+          "w": "So",
+          "s": 28.05,
+          "e": 28.21
+        },
+        {
+          "w": "the",
+          "s": 28.25,
+          "e": 28.33
+        },
+        {
+          "w": "swimmer",
+          "s": 28.37,
+          "e": 28.77
+        },
+        {
+          "w": "and",
+          "s": 28.81,
+          "e": 28.89
+        },
+        {
+          "w": "the",
+          "s": 28.93,
+          "e": 29.01
+        },
+        {
+          "w": "last",
+          "s": 29.01,
+          "e": 29.33
+        },
+        {
+          "w": "man",
+          "s": 29.41,
+          "e": 29.73
+        },
+        {
+          "w": "held",
+          "s": 29.81,
+          "e": 29.97
+        },
+        {
+          "w": "the",
+          "s": 30.05,
+          "e": 30.13
+        },
+        {
+          "w": "dog",
+          "s": 30.13,
+          "e": 30.37
+        },
+        {
+          "w": "between",
+          "s": 30.57,
+          "e": 30.77
+        },
+        {
+          "w": "them.",
+          "s": 30.85,
+          "e": 31.01
+        }
+      ]
+    },
+    {
+      "text": "All three men and the dog were lifted to safety.",
+      "start": 31.57,
+      "end": 34.53,
+      "words": [
+        {
+          "w": "All",
+          "s": 31.57,
+          "e": 31.81
+        },
+        {
+          "w": "three",
+          "s": 31.89,
+          "e": 32.05
+        },
+        {
+          "w": "men",
+          "s": 32.21,
+          "e": 32.45
+        },
+        {
+          "w": "and",
+          "s": 32.53,
+          "e": 32.69
+        },
+        {
+          "w": "the",
+          "s": 32.73,
+          "e": 32.81
+        },
+        {
+          "w": "dog",
+          "s": 32.85,
+          "e": 33.17
+        },
+        {
+          "w": "were",
+          "s": 33.25,
+          "e": 33.33
+        },
+        {
+          "w": "lifted",
+          "s": 33.41,
+          "e": 33.65
+        },
+        {
+          "w": "to",
+          "s": 33.69,
+          "e": 33.77
+        },
+        {
+          "w": "safety.",
+          "s": 33.81,
+          "e": 34.53
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 34.73
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.003
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.5
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261102-03/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261102-03-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261102-03/ccf-20261102-03.mp4"
 }
