@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-760756",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:08:21Z",
   "duration": 34.24,
   "source_file": {
@@ -68,5 +68,6 @@
     28.47,
     30.58,
     32.69
-  ]
+  ],
+  "pass_reason": "34 s FLIR clip with HUD text, mostly one basket view; would be the fourth capsized-boat Short in a week"
 }

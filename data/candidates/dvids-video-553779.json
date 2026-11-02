@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-553779",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:03:16Z",
   "duration": 73.49,
   "source_file": {
@@ -75,5 +75,6 @@
     62.21,
     66.53,
     70.84
-  ]
+  ],
+  "pass_reason": "Footage is an EMT assessing patients (medical scene); no rescue on screen"
 }

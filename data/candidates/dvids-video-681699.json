@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-681699",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:59:10Z",
   "duration": 108.18,
   "source_file": {
@@ -70,5 +70,6 @@
     90.86,
     97.59,
     104.32
-  ]
+  ],
+  "pass_reason": "Dark, survivors are red dots, 35 s of one static rock view; cliff and surf rescues ran Oct 31 and Nov 1"
 }
