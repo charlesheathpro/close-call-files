@@ -1,21 +1,22 @@
 {
-  "at": "2026-11-02T08:55:06Z",
+  "at": "2026-11-02T17:32:06Z",
   "healthy": false,
   "numbers": {
     "dropped": 28,
     "uploaded": 53,
-    "passed": 3,
-    "scheduled_next_36h": 10
+    "passed": 10,
+    "scheduled_next_36h": 6
   },
   "found": [
-    "passed + scheduled in next 36h was 11 (need 15); buffer needs_build+needs_qa+passed was 1 (need 25)",
-    "no upload run since 02:16 UTC (hourly cron not firing); last 10 uploads at 02:16 so the 24 h window reopens about 02:16 Nov 3",
-    "rescue supply is thin: of the strongest rescue candidates, most are night murk, calm routine hoists, repeats of this week's story types, or a copyright risk"
+    "passed + scheduled in next 36h was 10 at start (need 15); buffer needs_build+needs_qa+passed+scheduled was 14 (need 25)",
+    "YouTube upload limit active until 2026-11-03T02:18Z, so the last upload run (13:49 UTC) uploaded nothing; not a stalled workflow",
+    "2 build failures (03, 05) were spec problems (short first shot, short shots on one line), not a systemic build error",
+    "rescue supply still thin: 19 more candidates looked at were night door-cam, murky FLIR, static test views, medical scenes or non-federal credit"
   ],
   "fixed": [
-    "editor pass: 2 new specs (Sumas attic flood hoist, Hurricane Irma sailboat with dog), both built and passed QA; 15 candidates passed over with reasons",
-    "pushed archive to triggers/harvest for deeper rescue supply",
-    "pushed triggers/upload"
+    "repaired and passed 03 Kodiak rocks, 05 parachute to cargo ship, 07 Fort Pierce hull",
+    "passed 04, 06, 08 as built",
+    "editor pass: 1 new spec (SLS booster test fire, aviation lane), built and passed"
   ],
   "needs_charles": null
 }
