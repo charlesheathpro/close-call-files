@@ -1,0 +1,14 @@
+{
+  "short_id": "ccf-20261101-02",
+  "revision": 2,
+  "verdict": "reject",
+  "at": "2026-11-02T00:20:10Z",
+  "score": 5,
+  "notes": "Good subject (sinking sailboat, man pulled from the water) but the source is only about 25s of one camera and the Short stretches it to 29.6s by reusing shots: the opening sailboat angle runs 9 seconds, the pull-aboard plays twice, and the last 5 seconds sit on one shot with the HUD position block covering the upper left.",
+  "fixes": [
+    "Cut to about 20s with no source range used twice: drop line 4 (the fender explainer, which reuses the 10.0 to 15.5 rescue footage) and line 6.",
+    "Lines 1 and 2 currently use 0.0 to 7.5 twice; use 0.0 to 2.4 and 4.5 to 7.0 once each.",
+    "Line 5 uses 8.6 to 16.6, which overlaps line 3 and 4 shots; give each moment one shot.",
+    "Outcome: 22.5 to 25.0 at crop_x 0.0 shows the HUD 'CRAFT POSITION' text block over a sliver of the sailboat. Use layout 'fit' on 21.0 to 25.0 so the sinking sailboat (far left) and the response boat both read, or crop_x about 0.15 if fit is not usable."
+  ]
+}

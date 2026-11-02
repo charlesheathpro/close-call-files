@@ -1,0 +1,14 @@
+{
+  "short_id": "ccf-20261101-08",
+  "revision": 1,
+  "verdict": "reject",
+  "at": "2026-11-02T00:20:10Z",
+  "score": 6,
+  "notes": "Strong and real (five men jumping off a listing boat into January seas), but the 9:16 crop loses the subject in several shots: the lifeboat slides off the left edge at render 15 to 17s, render 24s is mostly sky, and the pickup shots at render 29 to 31s have the lifeboat cut off at the edge.",
+  "fixes": [
+    "Line 4 shot 1 (84.0 to 86.5): crop_x 0.35 (lifeboat and the man in the water), not 0.2.",
+    "Line 5 shot 3 (375.0 to 377.5): crop_x 0.3 so the lifeboat sits mid-frame.",
+    "Line 6: 284.0 to 286.5 crop_x 0.7, 270.0 to 272.5 crop_x 0.8, 262.0 to 264.5 crop_x 0.5 (person in the water at 263.5) so each pickup is centered.",
+    "Hook/line 1 'going down': the release says taking on water and flooding. Prefer 'flooding' to avoid implying it sank."
+  ]
+}

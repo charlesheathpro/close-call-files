@@ -1,15 +1,12 @@
 {
   "short_id": "ccf-20261101-01",
-  "revision": 1,
+  "revision": 2,
   "verdict": "reject",
-  "at": "2026-11-01T16:19:21Z",
+  "at": "2026-11-02T00:20:10Z",
   "score": 6,
-  "notes": "First 20 seconds are excellent (boat burying its rail in Debby's seas, people in the cockpit), but the hoist half is the sideways door camera cropped off the action: the survivor drifts out of frame, 27.5 to 29s is empty dark water, and the outcome plays over a gray spray blur. Also 'two men' is not in the release.",
+  "notes": "Very close: storm opener and the hoist half are strong now and 'two boaters' is fixed. One blocker: render 26 to 27.5s is empty dark water under 'from the water, clear of the boat'.",
   "fixes": [
-    "Wording: hook and line 1 say 'two men'; the release only says 'two boaters'. Change to 'Two boaters' / 'two sailors' in hook and narration.",
-    "Opening: start line 1 with source 10.0-12.5 (crop_x 0.45, boat pitching with both people visible in the cockpit) as frame one, then 4.0-6.5.",
-    "Door-camera footage (source 34.5-66) is rotated 90 degrees with the action in the left half of the frame. Line 5 (mast explanation): use 36.0-38.0 crop_x 0.2 and 46.5-49.0 crop_x 0.35 (survivor in water with yellow vest); drop 48.0-50.5 (survivor at the far right edge, cut off) and 42.5-45.0.",
-    "Line 6 ('One at a time...'): replace 56.0-58.5 crop 0.55 (renders as empty dark water at 27.5-29s) with 56.3-58.3 crop_x 0.35, 59.0-61.0 crop_x 0.3, 62.0-64.0 crop_x 0.15 (survivor and swimmer reaching the door, clear helmet and vest).",
-    "Outcome line: replace 64.0-66.5 (gray spray blur) with 62.8-64.6 crop_x 0.1, then close on 1.5-4.0 for the loop. Drop line 4 shot 27.6-30.0 (dim empty water after a white flash at 26.5-27.4); use 29.5-32.0 instead or extend 21.5-26.4."
+    "Line 5 shot 3: source 46.5 to 49.0 at crop_x 1.0 renders as empty dark water (render 26 to 27.5s). Use crop_x 0.35 (survivor in the water with yellow vest), as in the previous QA note.",
+    "Optional: line 2 shot 1 (12.5 to 14.9) is almost the same angle as the opener (10.0 to 12.5); 17.3 to 19.5 or 4.0 to 6.5 at a different crop_x would add variety."
   ]
 }

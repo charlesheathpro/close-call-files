@@ -1,15 +1,14 @@
 {
   "short_id": "ccf-20261101-04",
-  "revision": 1,
+  "revision": 2,
   "verdict": "reject",
-  "at": "2026-11-01T16:19:21Z",
+  "at": "2026-11-02T00:20:10Z",
   "score": 6,
-  "notes": "Spectacular footage, but the numbers in the narration (nearly 3,000 mph, passed 2,000, 41 miles) come from on-screen readouts that the 9:16 crop cuts off and that are not quoted in facts, a fragment 'te miles' shows at 20 to 21s, the liftoff cloud shot repeats three times, and the outcome skips the real splashdown.",
+  "notes": "Spectacular footage and the opener on separation works, but the splashdown is still not on screen (outcome plays over blue sky with '00073 m' fragment), line 8 'three parachutes opened' plays over plain sky with the chutes arriving a line late, and readout fragments ('0(', '0133') show at render 10 to 14s while the line claims 'past two thousand'.",
   "fixes": [
-    "Facts: add source quotes from the on-screen text: the end card at source ~495 ('This video was compiled using footage obtained from booster cameras aboard shuttle flights STS-117 and STS-127' and 'Velocities shown are approximations taken from actual flight data'), the readout (e.g. '02950 mph' at ~155, '02062 mph' at ~105) and 'Altitude: 41 statute miles' at ~225. Say 'about' for speeds since NASA calls them approximations.",
-    "Line 3 ('the readout passed two thousand miles an hour'): the readout sits top right and is cropped out (only '01' shows). Use layout 'fit' for 104.0-106.5 or a crop_x of 1.0 so the mph number is readable on screen when the line says it.",
-    "Line 6 shot 228.0-230.5 crop_x 0.45 cuts 'Altitude: 41 statute miles' to 'te miles'. Use layout 'fit' so the whole line reads, or crop_x 1.0 to remove it.",
-    "Repeats: the liftoff cloud shot appears at render 0-5s (source 118-124), 16-19s (119-127) and line 9 (115.5-118). Open instead on separation, source 145.0-147.5 (motor plume with debris), which is the peak frame. Line 4 ('burned out and broke away') should show separation, 130.0-132.5 or 135.0-137.5, not liftoff.",
-    "Outcome: the booster's splashdown is visible at source 439.0-442.5 (huge white splash). Use it under 'splashed down in the ocean' instead of the gray sea-surface frames 467-476."
+    "Outcome: the splash is at source 435.0 to 437.5 at far right of the 4:3 picture (crop_x about 0.9) and the full-frame splash at 441.5 to 443.0 (crop_x 0.5). Use those two under 'splashed down in the ocean'. 437.8 to 440.3 at crop_x 0.7 shows only sky.",
+    "Line 8 ('Then three parachutes opened'): use 428.0 to 432.5 (three canopies overhead). 411 to 420.5 shows plain sky.",
+    "Line 3: the readout passes 2,000 at source 105.5 to 108.5 (02024 to 02099 mph, top right). Make that readout legible on screen when the line says it, or drop the number and say 'Liftoff. Then it kept speeding up.' Remove other partial readout fragments by cropping (render 10 to 14 and 27 to 29s).",
+    "Facts: add source_quotes for the readout numbers (e.g. '02942 mph', 'Altitude: 41 statute miles') as plainly visible on-screen text, per the previous QA note."
   ]
 }

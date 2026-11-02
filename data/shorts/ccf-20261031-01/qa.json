@@ -1,14 +1,14 @@
 {
   "short_id": "ccf-20261031-01",
-  "revision": 3,
+  "revision": 4,
   "verdict": "reject",
-  "at": "2026-11-01T16:19:21Z",
+  "at": "2026-11-02T00:20:10Z",
   "score": 6,
-  "notes": "Strong story and the new ignition opener works, but about 8 seconds (render 7.0 to 11.0 and 13.0 to 17.0) are still the multi-window tracking-camera screen with software chrome, ending on washed-out gray panes, and 18 to 30s is twelve seconds of near-identical capsule-under-chutes shots.",
+  "notes": "Much tighter and the ignition and chutes work, but the opening frame is the capsule sitting still on the pad (ignition only at 1s), about 3s of empty blue sky (render 2, 4 and 9s), line 2 repeats the static pre-ignition pad shot, and the outcome never shows touchdown.",
   "fixes": [
-    "Source 1808.2 to 1823.5 is entirely a 4-pane tracking-camera desktop grid (Windows title bars, 'clock_unlocked' text). Remove every shot in that range: line 2 shot 1817.0-1819.5, line 3 shots 1812.0-1814.5 and 1814.5-1817.0. Also remove line 2 shot 1834.2-1836.4 (empty sky with the capsule exiting top edge).",
-    "Clean full-frame ascent footage is only 1806.0-1807.9, 1824.0-1825.6, 1829.0-1829.9 and 1832.0-1833.9, about 6.5s total, so cut narration to fit: drop line 3 ('Its four abort engines push forty thousand pounds...') or merge its key fact into line 2, and cover lines 2-3 with 1832.0-1833.9 and 1824.0-1825.6 (crop_x ~0.6) plus the line 1 ignition only once (line 3 currently reuses 1806.3, a repeat of the opener).",
-    "Line 4 to 6 (render 18 to 30s): vary the chute shots. Use 1852.0-1853.5 (close chute canopy), 1866.5-1868.5 (heat shield dropping, visible at 1867), then 1872-1874. Cut 1858-1866 down to one 2.5s shot so the descent does not drag.",
-    "Outcome: end on the touchdown with orange dust, source 1881.0-1884.0 (crop_x ~0.3, dust cloud at right), which is far stronger than 1879-1881."
+    "Line 1: start shot 1 at source 1806.0 (ignition) instead of 1805.6 so frame one is flame. Shot 2 (1832.0 to 1833.9 crop 0.7) shows empty sky with the capsule exiting; use 1832.0 to 1833.0 with crop_x set to follow the capsule, or drop it and hold 1806.0 to 1808.0.",
+    "Line 2 shot 1 (1801.8 to 1805.0) is 3.2s of the capsule motionless on the pad, a repeat of the opener before ignition. Replace with 1824.0 to 1825.6 and a parachute canopy close-up, and fix the 1824 shot's tail (render ~9s is empty sky).",
+    "Outcome: touchdown happens at source 1884 to 1885 (capsule on the ground, orange dust cloud at right). Use 1882.5 to 1885.5 with crop_x about 0.4 so the capsule lands on screen under 'touched down safely'. The current 1881.0 to 1884.0 crop 0.3 ends with the capsule still in the air.",
+    "Lines 4 and 5 (render 13 to 21s) are 8s of near-identical capsule-under-two-chutes against blue sky; cut one shot."
   ]
 }

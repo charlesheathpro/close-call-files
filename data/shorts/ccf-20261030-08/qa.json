@@ -1,14 +1,14 @@
 {
   "short_id": "ccf-20261030-08",
-  "revision": 3,
+  "revision": 5,
   "verdict": "reject",
-  "at": "2026-10-31T23:17:25Z",
-  "score": 5,
-  "notes": "The impact is good but buried among static shots: 3.5 to 6.5s is an empty grid wall, 6.5 to 14s is the same wall and a tripod with the craft only briefly in frame, and 26 to 28s holds a still close-up of torn paper. Also the people visible at 30.5 to 34.5s may be engineers, which muddies the 'dummies strapped inside' claim, and there is no human stake.",
+  "at": "2026-11-02T00:20:10Z",
+  "score": 6,
+  "notes": "Better: the impact opener and second angle land. Still a 5-second static wide of the tripod with the craft tiny in the sky (render 16.5 to 21.5s), an empty pad before the second drop (21.7 to 23.5s), and the outcome 'crumpled wreck' plays over spectators behind a fence (33 to 35s).",
   "fixes": [
-    "Line 2 and 3 (6.6 to 13.6s): replace the static wall/tripod shots (source 63.0 to 65.5, 59.2 to 60.9, 68.0 to 70.4) with replay angles of the craft swinging into the pad; fix the 1.7s shot flagged by validate_spec.",
-    "Line 1: after the 0 to 3.5s impact, cut to a second impact angle, not the empty wall at source 80.2 to 82.6.",
-    "Line 6 'The hit split the shell open': show the whole broken fuselage, not the 2.5s static close-up at source 114.2 to 116.7.",
-    "Only show cabin shots where the occupants are clearly dummies (as at 37.5s); drop source 110.4 to 112.9 and 131.1 to 133.6 if those are live engineers."
+    "Line 4 (render 14.0 to 21.4s): source 63.0 to 65.6 and 65.6 to 68.2 are the same locked-off tripod wide with the craft small at top right, which reads as frozen. Keep at most one 2.2s shot of it; fill the rest with a hanging close-up (the cabin-with-dummies angle shown at render 9 to 14s) or trim the line to 'A steel gantry lifts it on cables, then lets go.'",
+    "Line 5 first shot 93.4 to 95.9 shows an empty pad for about 1.5s before the craft enters. Start it about 1.5s later so the craft is falling into frame on the first frame.",
+    "Outcome (render 33.7 to 35.4s): replace the spectators-behind-a-fence shot with a wreck shot (the torn fuselage seen at render 26 to 28s, or the dummy-in-seat close-ups at 35 to 38s) so 'crumpled wreck' is on screen.",
+    "Line 7 shot showing the wide tripod angle again at render ~32s repeats the line 4 shot; swap for a cabin interior angle."
   ]
 }
