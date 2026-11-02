@@ -12,7 +12,7 @@
     "Liftoff. Then the readout climbed past two thousand miles an hour.",
     "Then the boosters burned out and broke away.",
     "Small separation motors fire to push each spent booster clear of the shuttle, so the two never collide.",
-    "It kept coasting up to forty-one miles, with the Earth curving below.",
+    "It kept coasting higher, with the Earth curving below.",
     "Then it fell back toward the ocean, tumbling.",
     "Then three parachutes opened."
   ],
@@ -48,15 +48,21 @@
     [
       {
         "start": 145.0,
-        "end": 147.5,
+        "end": 147.0,
         "layout": "crop",
         "crop_x": 0.6
       },
       {
-        "start": 158.0,
-        "end": 160.5,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 152.5,
+        "end": 155.0,
+        "layout": "crop",
+        "crop_x": 1.0
+      },
+      {
+        "start": 155.5,
+        "end": 158.0,
+        "layout": "crop",
+        "crop_x": 1.0
       }
     ],
     [
@@ -84,13 +90,13 @@
         "start": 86.0,
         "end": 88.5,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.4
       },
       {
-        "start": 105.0,
+        "start": 104.5,
         "end": 107.5,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 1.0
       }
     ],
     [
@@ -112,7 +118,7 @@
         "start": 124.5,
         "end": 127.0,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 0.4
       },
       {
         "start": 130.0,
@@ -125,19 +131,13 @@
         "end": 150.0,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 138.0,
-        "end": 140.5,
-        "layout": "crop",
-        "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 228.0,
-        "end": 230.5,
-        "layout": "fit",
+        "start": 288.5,
+        "end": 291.5,
+        "layout": "crop",
         "crop_x": 0.5
       },
       {
@@ -175,35 +175,41 @@
     ],
     [
       {
-        "start": 411.0,
-        "end": 413.5,
+        "start": 409.0,
+        "end": 411.5,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 418.0,
-        "end": 420.5,
+        "start": 413.0,
+        "end": 415.5,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 437.8,
-        "end": 440.3,
+        "start": 435.0,
+        "end": 437.5,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 1.0
       },
       {
-        "start": 441.2,
+        "start": 437.5,
+        "end": 440.0,
+        "layout": "crop",
+        "crop_x": 1.0
+      },
+      {
+        "start": 441.6,
         "end": 443.4,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       }
     ]
   ],
   "description": "Cameras mounted on the space shuttle's solid rocket boosters rode them up through separation and back down to splashdown, in footage NASA compiled from shuttle flights STS-117 and STS-127.\n\nFootage: NASA Glenn Research Center video, via the NASA Image and Video Library: https://images.nasa.gov/details/GRC-2023-CM-0245\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #spaceshuttle #rocket",
-  "revision": 2,
+  "revision": 3,
   "on_screen_facts": [
     {
       "claim": "Footage from booster cameras on shuttle flights",
@@ -224,6 +230,16 @@
     {
       "claim": "Altitude 41 miles (on screen at source 229)",
       "on_screen_text": "Altitude: 41 statute miles"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Peak speed about 2,900 mph",
+      "on_screen": "booster cam speed readout '02959 mph' at source 154 s and '02947 mph' at 156 s, shown at crop_x 1.0 under line 1"
+    },
+    {
+      "claim": "Readout passed 2,000 mph",
+      "on_screen": "'01930 mph' at 104 s to '02045 mph' at 107 s, shown under line 3"
     }
   ]
 }
