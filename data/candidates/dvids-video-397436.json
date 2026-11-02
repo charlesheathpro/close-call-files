@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-397436",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:20:59Z",
   "duration": 43.48,
   "source_file": {
@@ -75,5 +75,6 @@
     36.89,
     39.33,
     41.76
-  ]
+  ],
+  "pass_reason": "blurry grass and ambulance lights, no rescue visible"
 }

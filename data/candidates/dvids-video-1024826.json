@@ -3,8 +3,8 @@
   "source": "dvids",
   "lane": "rescue",
   "matched_query": "Hawaii flood",
-  "title": "Hawaiʻi National Guard Conducted High-Water Rescues During Hurricane Nolo (B-roll is driving through water only, no rescues were caught on video)",
-  "description": "Hawaiʻi National Guard's (HING) Koa Team 3 High-Water Vehicle Team conducts civilian rescue operations, during the response to Hurricane Nolo in Hawaiʻi County, Hawaiʻi, Sept. 26, 2026. HING soldiers and airmen used specialized high-water vehicles to reach and assist residents affected by flooding and hazardous conditions as part of the Guard’s support to Hawaiʻi County emergency response efforts. HING personnel worked alongside county and emergency response partners to help ensure the safety of communities impacted by the storm. (U.S. Army National Guard video by Spc. Primacio)",
+  "title": "Hawai\u02bbi National Guard Conducted High-Water Rescues During Hurricane Nolo (B-roll is driving through water only, no rescues were caught on video)",
+  "description": "Hawai\u02bbi National Guard's (HING) Koa Team 3 High-Water Vehicle Team conducts civilian rescue operations, during the response to Hurricane Nolo in Hawai\u02bbi County, Hawai\u02bbi, Sept. 26, 2026. HING soldiers and airmen used specialized high-water vehicles to reach and assist residents affected by flooding and hazardous conditions as part of the Guard\u2019s support to Hawai\u02bbi County emergency response efforts. HING personnel worked alongside county and emergency response partners to help ensure the safety of communities impacted by the storm. (U.S. Army National Guard video by Spc. Primacio)",
   "keywords": "Hawaii National Guard, Hurricane Nolo",
   "date": "2026-09-26T00:00:00-04:00",
   "date_published": "2026-09-28T21:18:52-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1024826",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:32:57Z",
   "duration": 18.57,
   "source_file": {
@@ -62,5 +62,6 @@
     15.24,
     16.37,
     17.5
-  ]
+  ],
+  "pass_reason": "19 seconds of driving b-roll"
 }

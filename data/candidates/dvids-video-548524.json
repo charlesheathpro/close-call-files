@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-548524",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:58:00Z",
   "duration": 121.09,
   "source_file": {
@@ -251,5 +251,6 @@
     101.75,
     109.28,
     116.82
-  ]
+  ],
+  "pass_reason": "news roundup package"
 }

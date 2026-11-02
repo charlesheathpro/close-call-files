@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-590199",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:25:46Z",
   "duration": 75.99,
   "source_file": {
@@ -62,5 +62,6 @@
     63.69,
     68.41,
     73.13
-  ]
+  ],
+  "pass_reason": "strong child hoist but Harvey is saturated (5 published); reserve after Nov 8"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-547337",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:30:40Z",
   "duration": 125.93,
   "source_file": {
@@ -62,5 +62,6 @@
     105.83,
     113.67,
     121.51
-  ]
+  ],
+  "pass_reason": "Harvey hoist mostly blocked by the flight engineer's back; Harvey repeat"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-546792",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:50:08Z",
   "duration": 267.12,
   "source_file": {
@@ -70,5 +70,6 @@
     224.96,
     241.62,
     258.28
-  ]
+  ],
+  "pass_reason": "Harvey b-roll package; Harvey repeat"
 }

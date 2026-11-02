@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-124089",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:46:48Z",
   "duration": 412.71,
   "source_file": {
@@ -174,5 +174,6 @@
     348.43,
     373.94,
     399.46
-  ]
+  ],
+  "pass_reason": "2011 support b-roll, no rescue on camera"
 }

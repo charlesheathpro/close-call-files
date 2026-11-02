@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-627892",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:15:08Z",
   "duration": 72.04,
   "source_file": {
@@ -66,5 +66,6 @@
     60.36,
     64.84,
     69.31
-  ]
+  ],
+  "pass_reason": "same Florence crew and day as ccf-20261101-30; reserve"
 }

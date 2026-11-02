@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-546955",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:31:17Z",
   "duration": 285.1,
   "source_file": {
@@ -81,5 +81,6 @@
     240.13,
     257.91,
     275.7
-  ]
+  ],
+  "pass_reason": "already used by ccf-20261029-02 (Commons copy)"
 }

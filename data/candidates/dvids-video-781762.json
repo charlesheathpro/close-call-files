@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "mountain rescue",
   "title": "B-roll: Tucson Air and Marine Operations aircrew rescues stranded, medically distressed hiker.",
-  "description": "On the evening of January 26, the Arizona Air Coordination Center received information from the Cochise County Sheriff’s Office that a hiker and three deputies were isolated and in distress in the Huachuca Mountains near Sierra Vista, Arizona. \r\n \r\nAMO Tucson Air Branch launched a UH-60 hoist equipped Black Hawk to extract the hiker and the deputies.",
+  "description": "On the evening of January 26, the Arizona Air Coordination Center received information from the Cochise County Sheriff\u2019s Office that a hiker and three deputies were isolated and in distress in the Huachuca Mountains near Sierra Vista, Arizona. \r\n \r\nAMO Tucson Air Branch launched a UH-60 hoist equipped Black Hawk to extract the hiker and the deputies.",
   "keywords": "Air and Marine Operations, CBPSAR, rescue",
   "date": "2021-01-26T00:00:00-05:00",
   "date_published": "2021-01-27T16:22:31-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-781762",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:49:54Z",
   "duration": 312.9,
   "source_file": {
@@ -133,5 +133,6 @@
     263.58,
     283.11,
     302.63
-  ]
+  ],
+  "pass_reason": "medically distressed hiker; medical scene"
 }

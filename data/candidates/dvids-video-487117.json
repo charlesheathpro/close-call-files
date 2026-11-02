@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-487117",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:37:18Z",
   "duration": 71.84,
   "source_file": {
@@ -201,5 +201,6 @@
     60.19,
     64.65,
     69.11
-  ]
+  ],
+  "pass_reason": "interview-heavy package; another flood"
 }
