@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-02T23:57:07Z from 38 Shorts older than 48 hours)
+# Playbook (computed 2026-11-02T23:57:44Z from 38 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- length under 30 s (+0.42, 24 Shorts)
-- source: nasa (+0.39, 3 Shorts)
-- spacecraft or test story (+0.39, 3 Shorts)
-- lane: aviation_naval (+0.36, 4 Shorts)
-- music: aviation (+0.32, 2 Shorts)
-- story: launch abort test (+0.32, 1 Shorts)
-- source: commons (+0.22, 5 Shorts)
-- story: dog cliff rescue (+0.21, 1 Shorts)
+- source: nasa (+0.71, 3 Shorts)
+- spacecraft or test story (+0.71, 3 Shorts)
+- lane: aviation_naval (+0.6, 4 Shorts)
+- story: launch abort test (+0.48, 1 Shorts)
+- story: splashdown recovery (+0.48, 1 Shorts)
+- story: capsized boat, people in the water (+0.47, 1 Shorts)
+- music: aviation (+0.43, 2 Shorts)
+- hook names a child (+0.23, 6 Shorts)
 
 ## Do less of
-- music: hazards (-0.61, 3 Shorts)
-- length 45 s or more (-0.56, 2 Shorts)
-- source: dvids (-0.53, 30 Shorts)
-- story: wildfire rescue (-0.47, 1 Shorts)
-- story: volcano eruption (-0.43, 1 Shorts)
-- lane: hazards (-0.33, 2 Shorts)
-- story: capsized boat, people in water (-0.24, 1 Shorts)
-- story: capsized yacht hoist (-0.23, 1 Shorts)
+- source: dvids (-0.69, 30 Shorts)
+- music: hazards (-0.64, 3 Shorts)
+- story: volcano eruption (-0.45, 1 Shorts)
+- lane: hazards (-0.42, 2 Shorts)
+- story: wildfire rescue (-0.4, 1 Shorts)
+- length 45 s or more (-0.34, 2 Shorts)
+- lane: rescue (-0.32, 32 Shorts)
+- story: capsized yacht hoist (-0.27, 1 Shorts)
 
 ## Best Shorts
-- Capsule torn off a rocket at Mach 1: 5232 views, 83% watched
-- Dog fell off an Oregon sea cliff: 1287 views, 85% watched
-- Boat flipped with a 4-year-old aboard: 9617 views, 0% watched
-- Orion splashes down after the Moon: 9267 views, 0% watched
-- Tug sinking in Harvey, 4 still aboard: 1328 views, 81% watched
+- Capsule torn off a rocket at Mach 1: 5237 views, 97% watched
+- Orion splashes down after the Moon: 9333 views, 92% watched
+- Boat flipped with a 4-year-old aboard: 18080 views, 74% watched
+- Dog fell off an Oregon sea cliff: 1287 views, 84% watched
+- Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
 
 ## Weakest Shorts
-- Stuck on a sea cliff near Crescent City: 1177 views, 0% watched
-- Yacht broke in two on Lake Erie: 1115 views, 0% watched
-- Boat flipped near Tampa, 7 in the water: 1100 views, 0% watched
-- Mauna Loa erupts after 38 years: 140 views, 66% watched
-- 214 people trapped by a wildfire: 314 views, 0% watched
+- Stuck on a sea cliff near Crescent City: 1203 views, 48% watched
+- Harvey flooded their house to the roof: 1234 views, 52% watched
+- Yacht broke in two on Lake Erie: 1218 views, 37% watched
+- 214 people trapped by a wildfire: 343 views, 50% watched
+- Mauna Loa erupts after 38 years: 143 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261027-05: The surf under the stilt house is real danger, but the 366x274 FLIR source sits as a small, washed-out strip in the middle of a blurred frame for all 28 seconds, and line 3 plays over six seconds of a static wall. It would also be the fourth flooded-house rescue in a row after 01, 02 and 08.
