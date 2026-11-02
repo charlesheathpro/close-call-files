@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Ocean-Today-Waterspouts",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:50:18Z",
   "duration": 158.0,
   "source_file": {
@@ -181,5 +181,6 @@
     132.89,
     142.73,
     152.58
-  ]
+  ],
+  "pass_reason": "credits non-federal contributor (extremestorms.com); copyright risk"
 }

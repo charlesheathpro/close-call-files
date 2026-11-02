@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-20250830-FS-Sierra-GarnetFire-SW-1-54757651360",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:54:26Z",
   "duration": 32.83,
   "source_file": {
@@ -70,5 +70,6 @@
     27.28,
     29.3,
     31.32
-  ]
+  ],
+  "pass_reason": "static runway view, no fire"
 }

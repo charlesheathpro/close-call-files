@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1007522",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:15:17Z",
   "duration": 170.34,
   "source_file": {
@@ -421,5 +421,6 @@
     143.3,
     153.91,
     164.53
-  ]
+  ],
+  "pass_reason": "interviews and parked helicopters, no drop on screen"
 }
