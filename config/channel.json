@@ -40,8 +40,8 @@
     ]
   },
   "lane_mix": {
-    "rescue": 0.45,
-    "aviation_naval": 0.45,
+    "rescue": 0.38,
+    "aviation_naval": 0.52,
     "hazards": 0.1
   },
   "harvest": {
@@ -1103,7 +1103,30 @@
     ],
     "daily_drama_queries": 12,
     "daily_other_queries": 4,
-    "min_short_side": 700
+    "min_short_side": 700,
+    "query_weights": {
+      "rescue infant": 1.0,
+      "Hurricane Florence rescue": 0.95,
+      "rescues dog": 1.03,
+      "rescue": 1.07,
+      "rooftop rescue": 0.94,
+      "Hurricane Helene rescue": 0.98,
+      "Hurricane Milton rescue": 0.98,
+      "cliff rescue": 1.02,
+      "Coast Guard rescue": 1.13,
+      "surf rescue": 1.0,
+      "Hurricane Ian rescue": 1.02,
+      "flood rescue": 1.15,
+      "flight deck fire": 0.96,
+      "crash landing": 0.98,
+      "lava flow": 0.69,
+      "rescues family": 1.0,
+      "launch abort": 1.31,
+      "splashdown": 1.04,
+      "FEMA urban search and rescue": 0.9,
+      "vessel fire": 0.98,
+      "sinking vessel": 0.9
+    }
   },
   "mix": {
     "music_lufs": -27,

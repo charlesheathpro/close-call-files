@@ -6,7 +6,6 @@ makes them public on schedule. Does nothing while uploads_enabled is false.
 """
 import argparse
 import json
-import os
 import sys
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -48,6 +47,16 @@ def scheduled_times():
             if day:
                 per_day[day] = per_day.get(day, 0) + 1
     return taken, per_day
+
+
+def upload_times():
+    out = []
+    for d in short_dirs():
+        u = load_json(d / "upload.json") or {}
+        t = u.get("uploaded_at")
+        if t:
+            out.append(datetime.fromisoformat(t.replace("Z", "+00:00")))
+    return out
 
 
 def open_slots(cfg):
@@ -200,9 +209,14 @@ def main():
         except UploadError as e:
             if e.reason in ("uploadLimitExceeded", "quotaExceeded", "rateLimitExceeded"):
                 # the channel limit is a rolling 24 hours, so retry on the next run (every 3 h) rather than idling 12 h
-                wait = 24 if e.reason == "quotaExceeded" else 2.5
+                until = now_utc() + timedelta(hours=24 if e.reason == "quotaExceeded" else 1)
+                if e.reason == "uploadLimitExceeded":
+                    # the cap counts uploads in the last 24 h: room opens when the oldest of them turns 24 h old
+                    recent = sorted(t for t in upload_times() if t > now_utc() - timedelta(hours=24))
+                    if recent:
+                        until = max(recent[0] + timedelta(hours=24, minutes=2), now_utc() + timedelta(minutes=30))
                 save_json(DATA / "upload_limit.json", {"at": iso(), "reason": e.reason, "uploaded_this_run": n,
-                                                       "until": iso(now_utc() + timedelta(hours=wait))})
+                                                       "until": iso(until)})
                 alert("upload_limit", f"YouTube said {e.reason} after {n} uploads this run")
                 break
             if e.status in (401, 403):

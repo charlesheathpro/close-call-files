@@ -4,7 +4,7 @@ You are the channel analyst for Close Call Files. Each evening you read the numb
 
 ## 1. Read
 
-`git pull`. Read `data/stats/latest.json`, the last 7 files in `data/stats/daily/`, `data/alerts.json`, `data/upload_last.json`, `data/upload_limit.json`, `data/harvest_last.json`, and `config/channel.json`.
+`git pull`. Read `data/review/playbook.md`, `data/stats/latest.json`, the last 7 files in `data/stats/daily/`, `data/alerts.json`, `data/upload_last.json`, `data/upload_limit.json`, `data/harvest_last.json`, and `config/channel.json`.
 
 ## 2. Analyse
 
@@ -16,7 +16,7 @@ Also check: any `rejection` or non-public `privacy` on a video that should be li
 
 Rewrite `data/review/notes.md` (keep it under 300 words): what is working, what to do more of, what to stop, the lane mix to aim for this week. The editor reads this every morning. Write facts from the data, not guesses.
 
-Adjust `lane_mix` in `config/channel.json` if the data clearly favors a lane (move at most 0.1 per day).
+`pipeline/learn.py` already ran after stats tonight: it wrote `data/review/playbook.md` and nudged `lane_mix` and the harvest search weights from the numbers. Read it, sanity-check it (one viral outlier should not swing the channel), and correct `lane_mix` only if it is clearly wrong; say so in the notes. Do not change the search weights by hand.
 
 ## 4. Pace (only when `uploads_enabled` is true)
 

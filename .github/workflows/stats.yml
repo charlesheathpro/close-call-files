@@ -23,4 +23,5 @@ jobs:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
-      - run: bash scripts/commit.sh "Stats $(date -u +%Y-%m-%d)"
+      - run: python pipeline/learn.py
+      - run: bash scripts/commit.sh "Stats and playbook $(date -u +%Y-%m-%d)"

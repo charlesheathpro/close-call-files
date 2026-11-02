@@ -8,7 +8,7 @@ The channel posts up to 10 Shorts a day, but every one must clear the viral bar 
 
 ## 1. Take stock
 
-- `git pull`. Read `config/channel.json` (daily_target, lane_mix, uploads_enabled), `data/review/notes.md` if it exists (what is working), and `data/stats/latest.json`.
+- `git pull`. Read `config/channel.json` (daily_target, lane_mix, uploads_enabled), `data/review/playbook.md` (computed every night from the channel's own numbers: what to do more of, what to do less of, and this week's QA rejections, which you must not repeat), `data/review/notes.md` (the reviewer's reading of the same), and `data/stats/latest.json`. Choose clips that match the playbook's "Do more of" features and avoid its "Do less of" ones, while still trying one or two new story types a day so the playbook keeps learning.
 - Count Shorts by state with:
   `python3 -c "import sys;sys.path.insert(0,'pipeline');from common import *;import collections;print(collections.Counter(short_state(d) for d in short_dirs()))"`
 - Buffer = needs_build + needs_qa + passed. Goal: a buffer of 3 x daily_target (owner, Nov 1: the schedule must never run empty). New specs this run = max(0, 3 x daily_target - buffer) + 3, capped at 16, but only as many as clear the viral bar. About a third get rejected or fail, so aim high when the footage is there.
