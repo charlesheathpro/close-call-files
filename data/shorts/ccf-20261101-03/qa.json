@@ -1,14 +1,9 @@
 {
   "short_id": "ccf-20261101-03",
-  "revision": 2,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "Great story (S.O.S. on a beach) but the first 4 seconds are washed-out white sand with half an 'S', the S.O.S. reveal is reused three times, and 'missing for three days' is not in the release (it says missing since July 29; the KC-135 found them days later).",
-  "fixes": [
-    "Wording: hook and line 1 'missing for three days' is not supported. Use 'missing since July 29' or quote a day count from the release in facts.",
-    "Opening: line 1 shots 28.5 to 33.0 are a washed-out sand close-up. Open on the clear blue-tinted S.O.S. at source 19.6 to 22.0 crop_x 0.4 (render 5 to 8s now), then the island wide.",
-    "Line 6 (message block explainer, render 28.9 to 35.8s) ends on 3s of a dark blurred skiff (source 12.2 to 14.6) and a blurry tree shot; shorten the line and cut those shots.",
-    "S.O.S. shots appear at render 5 to 10, 18 to 21 and 41s; use the S.O.S. once as the opener and once as the loop close only. Drop the blurry tree shot at render ~36s (source 5.0 to 7.4)."
-  ]
+  "revision": 3,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 7,
+  "notes": "S.O.S. in the sand opens it, island and drop shots match the story; one soft jungle shot.",
+  "fixes": []
 }

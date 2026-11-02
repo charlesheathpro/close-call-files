@@ -1,14 +1,9 @@
 {
   "short_id": "ccf-20261101-06",
-  "revision": 1,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "Excellent truck-roof flood rescue, but the house half is weak: render 29 to 35s is color-garbled door-camera close-ups, render 5 to 6.5s is a tiny helicopter in a blurred letterbox ('fit' shot), and the outcome 'reached Air Station Astoria' never shows the air station.",
-  "fixes": [
-    "Outcome: use source 132.0 to 137.0 (Jayhawk on the ramp at the air station with people walking away) and 150.0 to 152.5 crop_x 0.6 (ambulance), which actually show the arrival. Drop 115.0 to 117.5 and the truck repeat 24.0 to 27.0.",
-    "Line 7: replace 96.0 to 98.5 and 110.0 to 112.5 (magenta/green garbled frames) with 92.0 to 94.5 crop_x 0.2 (survivor on the cable over the water) and 111.5 to 114.0 crop_x 0.75 (survivor arriving at the door).",
-    "Line 2 shot 1 (1.0 to 4.0 layout fit) renders as a small helicopter in a blurred band; use crop on 0.0 to 2.5 crop_x 0.15 (Jayhawk filling the frame) or a flood wide.",
-    "The truck wide repeats at render 0 to 4, 7 to 9, 14 to 15 and 23 to 24s; vary or cut one."
-  ]
+  "revision": 2,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 8,
+  "notes": "Rescuer on the cable over fast brown floodwater to a man on a submerged truck roof; strong motion and danger throughout.",
+  "fixes": []
 }

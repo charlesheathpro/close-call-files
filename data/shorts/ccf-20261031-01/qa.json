@@ -1,14 +1,9 @@
 {
   "short_id": "ccf-20261031-01",
-  "revision": 4,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "Much tighter and the ignition and chutes work, but the opening frame is the capsule sitting still on the pad (ignition only at 1s), about 3s of empty blue sky (render 2, 4 and 9s), line 2 repeats the static pre-ignition pad shot, and the outcome never shows touchdown.",
-  "fixes": [
-    "Line 1: start shot 1 at source 1806.0 (ignition) instead of 1805.6 so frame one is flame. Shot 2 (1832.0 to 1833.9 crop 0.7) shows empty sky with the capsule exiting; use 1832.0 to 1833.0 with crop_x set to follow the capsule, or drop it and hold 1806.0 to 1808.0.",
-    "Line 2 shot 1 (1801.8 to 1805.0) is 3.2s of the capsule motionless on the pad, a repeat of the opener before ignition. Replace with 1824.0 to 1825.6 and a parachute canopy close-up, and fix the 1824 shot's tail (render ~9s is empty sky).",
-    "Outcome: touchdown happens at source 1884 to 1885 (capsule on the ground, orange dust cloud at right). Use 1882.5 to 1885.5 with crop_x about 0.4 so the capsule lands on screen under 'touched down safely'. The current 1881.0 to 1884.0 crop 0.3 ends with the capsule still in the air.",
-    "Lines 4 and 5 (render 13 to 21s) are 8s of near-identical capsule-under-two-chutes against blue sky; cut one shot."
-  ]
+  "revision": 5,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 7,
+  "notes": "Ignition flame in frame one, capsule exit, chutes, touchdown; the fix removed the empty sky and static pad.",
+  "fixes": []
 }

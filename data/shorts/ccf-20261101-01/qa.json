@@ -1,12 +1,9 @@
 {
   "short_id": "ccf-20261101-01",
-  "revision": 2,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "Very close: storm opener and the hoist half are strong now and 'two boaters' is fixed. One blocker: render 26 to 27.5s is empty dark water under 'from the water, clear of the boat'.",
-  "fixes": [
-    "Line 5 shot 3: source 46.5 to 49.0 at crop_x 1.0 renders as empty dark water (render 26 to 27.5s). Use crop_x 0.35 (survivor in the water with yellow vest), as in the previous QA note.",
-    "Optional: line 2 shot 1 (12.5 to 14.9) is almost the same angle as the opener (10.0 to 12.5); 17.3 to 19.5 or 4.0 to 6.5 at a different crop_x would add variety."
-  ]
+  "revision": 3,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 7,
+  "notes": "Sailboat heeled over in storm seas for the first half; the hoist half is color-garbled door cam but readable.",
+  "fixes": []
 }

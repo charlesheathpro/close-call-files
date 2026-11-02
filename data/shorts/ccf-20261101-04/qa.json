@@ -1,14 +1,9 @@
 {
   "short_id": "ccf-20261101-04",
-  "revision": 2,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "Spectacular footage and the opener on separation works, but the splashdown is still not on screen (outcome plays over blue sky with '00073 m' fragment), line 8 'three parachutes opened' plays over plain sky with the chutes arriving a line late, and readout fragments ('0(', '0133') show at render 10 to 14s while the line claims 'past two thousand'.",
-  "fixes": [
-    "Outcome: the splash is at source 435.0 to 437.5 at far right of the 4:3 picture (crop_x about 0.9) and the full-frame splash at 441.5 to 443.0 (crop_x 0.5). Use those two under 'splashed down in the ocean'. 437.8 to 440.3 at crop_x 0.7 shows only sky.",
-    "Line 8 ('Then three parachutes opened'): use 428.0 to 432.5 (three canopies overhead). 411 to 420.5 shows plain sky.",
-    "Line 3: the readout passes 2,000 at source 105.5 to 108.5 (02024 to 02099 mph, top right). Make that readout legible on screen when the line says it, or drop the number and say 'Liftoff. Then it kept speeding up.' Remove other partial readout fragments by cropping (render 10 to 14 and 27 to 29s).",
-    "Facts: add source_quotes for the readout numbers (e.g. '02942 mph', 'Altitude: 41 statute miles') as plainly visible on-screen text, per the previous QA note."
-  ]
+  "revision": 3,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 8,
+  "notes": "Booster separation, speed readout, Earth curving below, three canopies; spectacular and the readout backs the numbers.",
+  "fixes": []
 }

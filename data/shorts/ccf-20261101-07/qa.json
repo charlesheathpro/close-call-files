@@ -1,12 +1,9 @@
 {
   "short_id": "ccf-20261101-07",
-  "revision": 1,
-  "verdict": "reject",
-  "at": "2026-11-02T00:20:10Z",
-  "score": 6,
-  "notes": "The dog-in-the-basket opener is a great hook, but render 9 to 16s is about 7 seconds of empty blue water under the mayday line, which kills retention.",
-  "fixes": [
-    "Lines 2 and 3: drop shots 4.0 to 6.5, 10.5 to 13.0 and 13.0 to 15.5 (empty water). Shorten line 3 to 'The captain made a mayday call, and they abandoned ship into a life raft.' and cover lines 2 and 3 with 8.0 to 10.5 (rotor wash), 15.5 to 18.0 and 18.0 to 20.5 (swimmer and raft), so every shot has a subject.",
-    "Line 7 'Then it came up with the dog': the dog is small at render 35s; use 64.0 to 66.0 crop_x 0.5 (dog close in the basket) if it does not duplicate the opener frame-for-frame."
-  ]
+  "revision": 2,
+  "verdict": "pass",
+  "at": "2026-11-02T02:15:49Z",
+  "score": 8,
+  "notes": "Dog in the basket opens it, the raft and swimmer now fill the middle instead of empty water.",
+  "fixes": []
 }
