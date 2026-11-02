@@ -8,8 +8,7 @@
   "hook": "Twenty five foot seas, a forty knot wind, and a sailboat adrift.",
   "narration": [
     "Twenty five foot seas, a forty knot wind, and a sailboat that could not steer.",
-    "Two boaters and their dog were sailing for Mississippi to get away from Hurricane Irma.",
-    "Then they lost their steering, a hundred miles south of Apalachicola, Florida.",
+    "Two boaters and their dog lost their steering running from Hurricane Irma, a hundred miles south of Apalachicola, Florida.",
     "A Coast Guard Jayhawk crew from Clearwater flew out.",
     "The rescue swimmer went into the water and fought his way onto the boat.",
     "A swaying mast can snag the hoist cable, [short pause] so swimmers pull people clear of a sailboat first.",
@@ -69,24 +68,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 81,
-        "end": 83.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
         "start": 75.5,
         "end": 78.0,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 85,
-        "end": 87.5,
-        "layout": "crop",
-        "crop_x": 0.45
       }
     ],
     [
@@ -101,6 +86,12 @@
         "end": 53.9,
         "layout": "crop",
         "crop_x": 0.55
+      },
+      {
+        "start": 81,
+        "end": 83.5,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
@@ -182,7 +173,7 @@
       }
     ]
   ],
-  "revision": 1,
+  "revision": 2,
   "keep_source_audio": true,
   "preview_ok": "Checked by eye: the towing shots (102 to 107 s) show the orange-vested survivors and swimmer in grey storm water, the 51 to 54 s FLIR shot keeps the sailboat in frame, and the Jayhawk fills the top of the 67 to 70 s shot; EMPTY misfires on the uniform grey sea."
 }
