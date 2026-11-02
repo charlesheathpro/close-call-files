@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-02T05:31:56Z",
+  "at": "2026-11-02T10:49:46Z",
   "mature": 30,
   "features": [
     {
@@ -10,17 +10,17 @@
     {
       "feature": "music: aviation",
       "n": 2,
-      "effect": 0.45
+      "effect": 0.44
     },
     {
       "feature": "source: nasa",
       "n": 2,
-      "effect": 0.45
+      "effect": 0.44
     },
     {
       "feature": "spacecraft or test story",
       "n": 2,
-      "effect": 0.45
+      "effect": 0.44
     },
     {
       "feature": "lane: aviation_naval",
@@ -130,7 +130,7 @@
     {
       "feature": "story: surf rescue",
       "n": 1,
-      "effect": 0.0
+      "effect": -0.0
     },
     {
       "feature": "story: flood rooftop family",
@@ -153,6 +153,11 @@
       "effect": -0.03
     },
     {
+      "feature": "music: rescue",
+      "n": 7,
+      "effect": -0.04
+    },
+    {
       "feature": "story: life raft rescue",
       "n": 1,
       "effect": -0.04
@@ -163,18 +168,13 @@
       "effect": -0.04
     },
     {
-      "feature": "hook names an animal",
-      "n": 9,
-      "effect": -0.05
-    },
-    {
-      "feature": "music: rescue",
-      "n": 7,
-      "effect": -0.05
-    },
-    {
       "feature": "story: rooftop hoist",
       "n": 1,
+      "effect": -0.04
+    },
+    {
+      "feature": "hook names an animal",
+      "n": 9,
       "effect": -0.05
     },
     {
@@ -195,7 +195,7 @@
     {
       "feature": "story: hoist from surf",
       "n": 1,
-      "effect": -0.07
+      "effect": -0.08
     },
     {
       "feature": "music: sea",
@@ -247,7 +247,7 @@
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5214.0,
+      "views": 5232.0,
       "ret": 83.18,
       "score": 1.805
     },
@@ -256,12 +256,12 @@
       "title": "Dog fell off an Oregon sea cliff",
       "views": 1287.0,
       "ret": 85.0,
-      "score": 1.003
+      "score": 1.001
     },
     {
       "short_id": "ccf-20261027-40",
       "title": "Lifted off a roof in Harvey's floodwater",
-      "views": 1390.0,
+      "views": 1393.0,
       "ret": 93.36,
       "score": 0.909
     },
@@ -270,14 +270,14 @@
       "title": "Tug sinking in Harvey, 4 still aboard",
       "views": 1328.0,
       "ret": 80.81,
-      "score": 0.733
+      "score": 0.731
     },
     {
       "short_id": "ccf-20261028-06",
       "title": "Ian left his boat in the treetops",
-      "views": 1642.0,
+      "views": 1644.0,
       "ret": 77.27,
-      "score": 0.517
+      "score": 0.516
     }
   ],
   "bottom": [
@@ -286,39 +286,39 @@
       "title": "Man and his dog Lucky saved from a roof",
       "views": 1366.0,
       "ret": 57.71000000000001,
-      "score": -0.441
+      "score": -0.443
     },
     {
       "short_id": "ccf-20261027-03",
       "title": "Stranded overnight under a cliff",
       "views": 1286.0,
       "ret": 58.050000000000004,
-      "score": -0.491
+      "score": -0.493
     },
     {
       "short_id": "ccf-20261029-06",
       "title": "Fishing boat sinks with 4 crew aboard",
-      "views": 1324.0,
+      "views": 1328.0,
       "ret": 51.739999999999995,
-      "score": -0.673
+      "score": -0.672
     },
     {
       "short_id": "ccf-20261029-02",
       "title": "Harvey flooded their house to the roof",
       "views": 1234.0,
       "ret": 51.95000000000001,
-      "score": -0.737
+      "score": -0.739
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 140.0,
       "ret": 65.86,
-      "score": -2.467
+      "score": -2.466
     }
   ],
   "query_weights": {
-    "rescue infant": 1.0,
+    "rescue infant": 0.99,
     "Hurricane Florence rescue": 0.95,
     "rescues dog": 1.03,
     "rescue": 1.07,
@@ -408,7 +408,7 @@
     }
   ],
   "changed": [
-    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.38, 'aviation_naval': 0.52, 'hazards': 0.1}",
+    "lane_mix {'rescue': 0.38, 'aviation_naval': 0.52, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.59, 'hazards': 0.1}",
     "query weights for 21 searches"
   ]
 }

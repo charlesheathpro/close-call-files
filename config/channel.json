@@ -40,8 +40,8 @@
     ]
   },
   "lane_mix": {
-    "rescue": 0.38,
-    "aviation_naval": 0.52,
+    "rescue": 0.32,
+    "aviation_naval": 0.59,
     "hazards": 0.1
   },
   "harvest": {
@@ -1105,7 +1105,7 @@
     "daily_other_queries": 4,
     "min_short_side": 700,
     "query_weights": {
-      "rescue infant": 1.0,
+      "rescue infant": 0.99,
       "Hurricane Florence rescue": 0.95,
       "rescues dog": 1.03,
       "rescue": 1.07,

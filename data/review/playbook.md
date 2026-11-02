@@ -1,12 +1,12 @@
-# Playbook (computed 2026-11-02T05:31:56Z from 30 Shorts older than 48 hours)
+# Playbook (computed 2026-11-02T10:49:46Z from 30 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
 - story: launch abort test (+0.47, 1 Shorts)
-- music: aviation (+0.45, 2 Shorts)
-- source: nasa (+0.45, 2 Shorts)
-- spacecraft or test story (+0.45, 2 Shorts)
+- music: aviation (+0.44, 2 Shorts)
+- source: nasa (+0.44, 2 Shorts)
+- spacecraft or test story (+0.44, 2 Shorts)
 - lane: aviation_naval (+0.36, 3 Shorts)
 - story: dog cliff rescue (+0.26, 1 Shorts)
 - story: rooftop hoist flood (+0.24, 1 Shorts)
@@ -23,16 +23,16 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: dog rescue flood (-0.17, 2 Shorts)
 
 ## Best Shorts
-- Capsule torn off a rocket at Mach 1: 5214 views, 83% watched
+- Capsule torn off a rocket at Mach 1: 5232 views, 83% watched
 - Dog fell off an Oregon sea cliff: 1287 views, 85% watched
-- Lifted off a roof in Harvey's floodwater: 1390 views, 93% watched
+- Lifted off a roof in Harvey's floodwater: 1393 views, 93% watched
 - Tug sinking in Harvey, 4 still aboard: 1328 views, 81% watched
-- Ian left his boat in the treetops: 1642 views, 77% watched
+- Ian left his boat in the treetops: 1644 views, 77% watched
 
 ## Weakest Shorts
 - Man and his dog Lucky saved from a roof: 1366 views, 58% watched
 - Stranded overnight under a cliff: 1286 views, 58% watched
-- Fishing boat sinks with 4 crew aboard: 1324 views, 52% watched
+- Fishing boat sinks with 4 crew aboard: 1328 views, 52% watched
 - Harvey flooded their house to the roof: 1234 views, 52% watched
 - Mauna Loa erupts after 38 years: 140 views, 66% watched
 
@@ -54,5 +54,5 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
 
 ## Changed tonight
-- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.38, 'aviation_naval': 0.52, 'hazards': 0.1}
+- lane_mix {'rescue': 0.38, 'aviation_naval': 0.52, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.59, 'hazards': 0.1}
 - query weights for 21 searches
