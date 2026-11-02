@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "carrier landing",
   "title": "Approach and Landing Tests Film Documentary",
-  "description": "Documentary of shuttle Enterprise on the Shuttle Carrier Aircraft (SCA), separating from the SCA in flight, and in free-flight. Footage shows SCA pilots Fitzhugh “Fitz” Fulton and Tom McMurtry heading to the aircraft, and Gordon Fullerton and Fred Haise following a flight in the prototype shuttle. During the nearly one-year-long series of tests, Enterprise was taken aloft on the SCA to study the aerodynamics of the mated vehicles and, in a series of five free flights, tested the glide and landing characteristics of the orbiter prototype.",
+  "description": "Documentary of shuttle Enterprise on the Shuttle Carrier Aircraft (SCA), separating from the SCA in flight, and in free-flight. Footage shows SCA pilots Fitzhugh \u201cFitz\u201d Fulton and Tom McMurtry heading to the aircraft, and Gordon Fullerton and Fred Haise following a flight in the prototype shuttle. During the nearly one-year-long series of tests, Enterprise was taken aloft on the SCA to study the aerodynamics of the mated vehicles and, in a series of five free flights, tested the glide and landing characteristics of the orbiter prototype.",
   "keywords": "PD NASA, Approach and Landing Tests (Space Shuttle Enterprise), NASA videos in 2018, Files from NASA with known IDs, Videos of Space Shuttle Enterprise",
   "date": "2018-05-09",
   "branch": "",
@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Approach-and-Landing-Tests-Film-Documentary",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:12:31Z",
   "duration": 267.83,
   "source_file": {
@@ -179,5 +179,6 @@
     225.56,
     242.26,
     258.97
-  ]
+  ],
+  "pass_reason": "milestone test with no failure or close call; 858 MB source rate-limited by Commons"
 }

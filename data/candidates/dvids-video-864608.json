@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-864608",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:55:46Z",
   "duration": 21.29,
   "source_file": {
@@ -66,5 +66,6 @@
     17.54,
     18.84,
     20.14
-  ]
+  ],
+  "pass_reason": "filmed off a monitor with moire and overlays; looks murky on a phone"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-465882",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:07:05Z",
   "duration": 192.45,
   "source_file": {
@@ -74,5 +74,6 @@
     162.58,
     174.33,
     186.07
-  ]
+  ],
+  "pass_reason": "door-cam with heavy color noise; cabin shots of pilots in litters (medical)"
 }

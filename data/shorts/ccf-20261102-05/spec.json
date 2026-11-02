@@ -1,0 +1,160 @@
+{
+  "short_id": "ccf-20261102-05",
+  "revision": 1,
+  "candidate_id": "dvids-video-977862",
+  "lane": "aviation_naval",
+  "story_type": "parachute rescue to a ship at sea",
+  "music_mood": "aviation",
+  "priority": 2,
+  "hook": "Four rescuers jumped 780 nautical miles from land",
+  "narration": [
+    "Four rescuers jumped out of this plane, seven hundred eighty nautical miles from California.",
+    "A crew member aboard the cargo ship Grand Vega had a suspected stroke.",
+    "An Air National Guard plane flew out with pararescuemen and a boat.",
+    "They jump with a boat package, a small inflatable boat, to reach a ship at sea.",
+    "They climbed aboard the ship and stabilized the patient.",
+    "Next day, helicopters flew out, refueling from a plane midair."
+  ],
+  "outcome": "The patient was hoisted and flown to Stanford Hospital.",
+  "location_card": {
+    "place": "Pacific Ocean, west of California",
+    "date": "Sept. 2025"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 18.8,
+        "end": 21.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 13.0,
+        "end": 15.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 25.6,
+        "end": 28.5,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 0.0,
+        "end": 3.7,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 4.0,
+        "end": 6.6,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 6.6,
+        "end": 9.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 9.4,
+        "end": 12.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 15.8,
+        "end": 18.7,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 22.1,
+        "end": 24.8,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 28.7,
+        "end": 31.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 32.3,
+        "end": 34.3,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 34.4,
+        "end": 36.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 39.8,
+        "end": 43.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "Parachuted 780 nautical miles out",
+  "description": "California Air National Guard pararescuemen from the 129th Rescue Wing parachuted with a boat package to the cargo ship Grand Vega, about 780 nautical miles west of California, to stabilize a crew member with a suspected stroke, Sept. 2025.\n\nFootage: U.S. Air National Guard video by 129th Rescue Wing Public Affairs, via DVIDS: https://www.dvidshub.net/video/977862/129rqw-conduct-long-range-overwater-rescue\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #pararescue #airforce #rescue",
+  "tags": [
+    "pararescue",
+    "air national guard",
+    "129th rescue wing",
+    "hc-130j",
+    "parachute",
+    "ocean rescue",
+    "aerial refueling",
+    "pave hawk",
+    "real footage"
+  ],
+  "question_comment": "Would you jump out of a plane into the open ocean to reach a stranger?",
+  "extra_sources": [
+    {
+      "url": "https://www.nationalguard.mil/News/Article/4313578/california-air-guards-129th-rescue-wing-stabilizes-mariner-700-nautical-miles-o",
+      "excerpt": "Four PJs conducted a maritime parachute insertion with a boat package"
+    },
+    {
+      "url": "https://www.nationalguard.mil/News/Article/4313578/california-air-guards-129th-rescue-wing-stabilizes-mariner-700-nautical-miles-o",
+      "excerpt": "The patient was hoisted to a helicopter and transported to Stanford Hospital"
+    }
+  ],
+  "facts": [
+    {
+      "claim": "780 nautical miles west of California, suspected stroke aboard Grand Vega",
+      "source_quote": "a Panama-flagged cargo vessel approximately 780 nautical miles west of California, after reports of a crew member suffering a suspected stroke"
+    },
+    {
+      "claim": "Four pararescuemen parachuted with a boat package, boarded and stabilized",
+      "source_quote": "Four pararescuemen parachuted with a boat package, boarded the vessel, and stabilized the patient for transfer"
+    },
+    {
+      "claim": "Wing flies HH-60 helicopters and HC-130J tankers",
+      "source_quote": "The 129th RQW flies HH-60G/HH-60W and HC-130J aircraft in support of search and rescue"
+    },
+    {
+      "claim": "Patient hoisted and flown to Stanford Hospital",
+      "source_quote": "The patient was hoisted to a helicopter and transported to Stanford Hospital"
+    }
+  ]
+}
