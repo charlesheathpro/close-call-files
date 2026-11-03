@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-393129",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:20:18Z",
   "duration": 283.72,
   "source_file": {
@@ -140,5 +140,6 @@
     239.59,
     257.04,
     274.49
-  ]
+  ],
+  "pass_reason": "live-fire demonstration, no close call"
 }

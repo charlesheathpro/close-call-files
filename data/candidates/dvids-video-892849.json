@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-892849",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:22:33Z",
   "duration": 15.07,
   "source_file": {
@@ -62,5 +62,6 @@
     12.29,
     13.2,
     14.11
-  ]
+  ],
+  "pass_reason": "search for a missing swimmer with no stated rescue outcome, 15 s"
 }

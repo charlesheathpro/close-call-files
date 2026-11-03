@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-20240112-Recientemente",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:21:07Z",
   "duration": 170.88,
   "source_file": {
@@ -316,5 +316,6 @@
     143.76,
     154.41,
     165.06
-  ]
+  ],
+  "pass_reason": "Spanish news roundup"
 }

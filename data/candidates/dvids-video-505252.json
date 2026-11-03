@@ -26,7 +26,7 @@
   "time_start": 4.9596,
   "aspect_ratio": "16:9",
   "id": "dvids-video-505252",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:20:24Z",
   "duration": 224.96,
   "source_file": {
@@ -551,5 +551,6 @@
     190.16,
     203.88,
     217.6
-  ]
+  ],
+  "pass_reason": "tank range exercise, 720p"
 }

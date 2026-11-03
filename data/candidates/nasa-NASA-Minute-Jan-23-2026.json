@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-Jan-23-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:22:19Z",
   "duration": 207.97,
   "source_file": {
@@ -582,5 +582,6 @@
     175.05,
     188.02,
     200.98
-  ]
+  ],
+  "pass_reason": "news roundup"
 }

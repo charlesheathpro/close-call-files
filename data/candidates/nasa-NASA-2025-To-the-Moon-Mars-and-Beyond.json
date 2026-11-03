@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-2025-To-the-Moon-Mars-and-Beyond",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:21:19Z",
   "duration": 123.84,
   "source_file": {
@@ -251,5 +251,6 @@
     104.07,
     111.78,
     119.49
-  ]
+  ],
+  "pass_reason": "promo reel"
 }

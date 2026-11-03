@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20200624ARMD003",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:21:41Z",
   "duration": 84.33,
   "source_file": {
@@ -85,5 +85,6 @@
     70.73,
     75.97,
     81.21
-  ]
+  ],
+  "pass_reason": "promo reel"
 }

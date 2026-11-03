@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-178933",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:19:54Z",
   "duration": 311.98,
   "source_file": {
@@ -110,5 +110,6 @@
     262.81,
     282.28,
     301.74
-  ]
+  ],
+  "pass_reason": "children singing, no event"
 }

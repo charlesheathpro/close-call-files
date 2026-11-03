@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-511497",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:19:41Z",
   "duration": 60.23,
   "source_file": {
@@ -70,5 +70,6 @@
     50.4,
     54.13,
     57.87
-  ]
+  ],
+  "pass_reason": "footage is the boat being craned out at a marina, no danger on screen"
 }
