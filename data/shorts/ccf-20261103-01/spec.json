@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261103-01",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-554720",
   "lane": "rescue",
   "story_type": "surf drills in hurricane seas (training)",
@@ -78,13 +78,19 @@
     [
       {
         "start": 111.0,
-        "end": 113.5,
+        "end": 113.8,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 115.5,
-        "end": 117.5,
+        "start": 140.0,
+        "end": 142.5,
+        "layout": "crop",
+        "crop_x": 0.65
+      },
+      {
+        "start": 155.0,
+        "end": 157.5,
         "layout": "crop",
         "crop_x": 0.6
       }
@@ -160,18 +166,12 @@
     [
       {
         "start": 125.5,
-        "end": 128.0,
+        "end": 128.5,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 130.5,
-        "end": 133.0,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 119.0,
+        "start": 118.5,
         "end": 121.5,
         "layout": "crop",
         "crop_x": 0.5
