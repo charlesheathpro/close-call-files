@@ -1,9 +1,9 @@
 {
-  "asset_id": "nasa:iss071m260811300_NASA_Astronaut_Tracy_Dyson’s_Launch_to_the_Space_Station_Scrubbed_Part_2_240321",
+  "asset_id": "nasa:iss071m260811300_NASA_Astronaut_Tracy_Dyson\u2019s_Launch_to_the_Space_Station_Scrubbed_Part_2_240321",
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "launch abort",
-  "title": "NASA Astronaut Tracy Dyson’s Launch to the Space Station Scrubbed Part 2",
+  "title": "NASA Astronaut Tracy Dyson\u2019s Launch to the Space Station Scrubbed Part 2",
   "description": "An abort was automatically commanded by ground support equipment ahead of the March 21 launch attempt of the Soyuz rocket with NASA astronaut Tracy Dyson, Roscosmos cosmonaut Oleg Novitskiy, and Belarus spaceflight participant Marina Vasileyskaya aboard the Soyuz MS-25 spacecraft at the Baikonur Cosmodrome in Kazakhstan. The crew was safely removed from the spacecraft after the system safing was complete. Roscosmos is continuing to evaluate the situation and additional details will be shared as known.   Part 2 of 2  Join NASA as we go forward to the Moon and on to Mars -- discover the latest on Earth, the Solar System and beyond with a weekly update in your inbox.  Subscribe at: https://www.nasa.gov/subscribe",
   "keywords": "Expedition 71, Soyuz MS-21 Scrubbed Launch, Tracy Dyson, Roscosmos",
   "date": "2024-03-21T00:00:00Z",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss071m260811300-NASA-Astronaut-Tracy-Dyson-s-Launch-to-the-Space-Station-Scrubb",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:21:40Z",
   "duration": 2444.93,
   "source_file": {
@@ -8209,5 +8209,6 @@
     2062.49,
     2215.27,
     2368.04
-  ]
+  ],
+  "pass_reason": "Abort is real but footage is a static distant pad and broadcast graphics; no visible danger."
 }

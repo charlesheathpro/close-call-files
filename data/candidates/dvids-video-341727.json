@@ -26,7 +26,7 @@
   "time_start": 4.3043,
   "aspect_ratio": "16:9",
   "id": "dvids-video-341727",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:47:35Z",
   "duration": 125.4,
   "source_file": {
@@ -339,5 +339,6 @@
     106.05,
     113.59,
     121.13
-  ]
+  ],
+  "pass_reason": "Crash recovery aftermath with a crane; no danger on screen."
 }

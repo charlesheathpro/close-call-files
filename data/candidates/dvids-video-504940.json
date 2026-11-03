@@ -26,7 +26,7 @@
   "time_start": 7.59557,
   "aspect_ratio": "16:9",
   "id": "dvids-video-504940",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:48:48Z",
   "duration": 96.55,
   "source_file": {
@@ -93,5 +93,6 @@
     82.23,
     87.76,
     93.28
-  ]
+  ],
+  "pass_reason": "Same peak as ccf-20261101-20 mountain hoist; injured subject and immigration detail."
 }

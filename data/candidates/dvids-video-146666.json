@@ -26,7 +26,7 @@
   "time_start": 5.00501,
   "aspect_ratio": "16:9",
   "id": "dvids-video-146666",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:00:31Z",
   "duration": 112.68,
   "source_file": {
@@ -366,5 +366,6 @@
     95.44,
     102.13,
     108.83
-  ]
+  ],
+  "pass_reason": "Maintenance feature, 720p; no event."
 }

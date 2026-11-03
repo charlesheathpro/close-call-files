@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-530231",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:28:39Z",
   "duration": 75.22,
   "source_file": {
@@ -214,5 +214,6 @@
     63.05,
     67.72,
     72.39
-  ]
+  ],
+  "pass_reason": "Egress maintenance feature; no event on screen."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JSC-Orion-2019-GA-V-BRoll-Highlights-00001",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:04:30Z",
   "duration": 4908.61,
   "source_file": {
@@ -432,5 +432,6 @@
     4141.22,
     4447.97,
     4754.73
-  ]
+  ],
+  "pass_reason": "Factory and assembly b-roll; no event."
 }

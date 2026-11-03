@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190508-MH-MTD01-0001-Sunset-Recoveries-4K-3219878",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:23:34Z",
   "duration": 199.97,
   "source_file": {
@@ -58,5 +58,6 @@
     168.3,
     180.77,
     193.23
-  ]
+  ],
+  "pass_reason": "Calm recovery test at sunset; no danger."
 }

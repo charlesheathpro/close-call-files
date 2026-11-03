@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "splashdown",
   "title": "iss070m260720900_Crew-7_Deorbit_Burn_and_Splashdown_Coverage_Part_2",
-  "description": "NASA astronaut Jasmin Moghbeli, ESA (European Space Agency) astronaut Andy Mogensen, JAXA (Japan Aerospace Exploration Agency) astronaut Satoshi Furukawa and Roscosmos cosmonaut Konstantin Borisov returned to Earth for a parachute-assisted splashdown off the coast of Florida March 12 following an undocking from the International Space Station the day prior. Crew-7 was completing a six-month mission living and working aboard the microgravity laboratory to advance scientific knowledge and demonstrate new technologies for future human and robotic exploration flights as part of NASA’s Moon and Mars exploration approach, including lunar missions through NASA’s Artemis program.",
+  "description": "NASA astronaut Jasmin Moghbeli, ESA (European Space Agency) astronaut Andy Mogensen, JAXA (Japan Aerospace Exploration Agency) astronaut Satoshi Furukawa and Roscosmos cosmonaut Konstantin Borisov returned to Earth for a parachute-assisted splashdown off the coast of Florida March 12 following an undocking from the International Space Station the day prior. Crew-7 was completing a six-month mission living and working aboard the microgravity laboratory to advance scientific knowledge and demonstrate new technologies for future human and robotic exploration flights as part of NASA\u2019s Moon and Mars exploration approach, including lunar missions through NASA\u2019s Artemis program.",
   "keywords": "Crew-7 Deorbit Burn and Splashdown, NASA, ESA, JAXA, Roscosmos",
   "date": "2024-03-12T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss070m260720900-Crew-7-Deorbit-Burn-and-Splashdown-Coverage-Part-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:43:37Z",
   "duration": 3660.13,
   "source_file": {
@@ -278,5 +278,6 @@
     3087.82,
     3316.54,
     3545.27
-  ]
+  ],
+  "pass_reason": "Live coverage at 720p, night splashdown; calm and murky."
 }
