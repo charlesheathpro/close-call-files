@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191023-MH-SPX01-0001-SpaceX-SuperDraco-Test-Video-3235648",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:01:08Z",
   "duration": 24.97,
   "source_file": {
@@ -56,5 +56,6 @@
     20.64,
     22.17,
     23.7
-  ]
+  ],
+  "pass_reason": "One tight 12 s shot of a nozzle, no outcome"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-538737",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:19:54Z",
   "duration": 59.86,
   "source_file": {
@@ -153,5 +153,6 @@
     50.09,
     53.8,
     57.51
-  ]
+  ],
+  "pass_reason": "Vertical phone video pillarboxed small; burning boat is a distant puff of smoke"
 }

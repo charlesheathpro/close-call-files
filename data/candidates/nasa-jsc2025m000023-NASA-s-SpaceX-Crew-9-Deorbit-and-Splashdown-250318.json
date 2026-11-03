@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2025m000023-NASA-s-SpaceX-Crew-9-Deorbit-and-Splashdown-250318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:47:50Z",
   "duration": 7997.53,
   "source_file": {
@@ -17956,5 +17956,6 @@
     6747.5,
     7247.31,
     7747.13
-  ]
+  ],
+  "pass_reason": "Strong story, but the only source is a 10.6 GB 2 h 13 min broadcast; too large for the build to fetch"
 }

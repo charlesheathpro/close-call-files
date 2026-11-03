@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-293361",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:53:30Z",
   "duration": 63.77,
   "source_file": {
@@ -160,5 +160,6 @@
     54.01,
     57.71,
     61.41
-  ]
+  ],
+  "pass_reason": "Pool training drill; release states no outcome"
 }

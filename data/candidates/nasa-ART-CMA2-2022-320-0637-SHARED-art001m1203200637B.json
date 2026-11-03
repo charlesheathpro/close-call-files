@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ART-CMA2-2022-320-0637-SHARED-art001m1203200637B",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:58:20Z",
   "duration": 212.67,
   "source_file": {
@@ -56,5 +56,6 @@
     179.02,
     192.28,
     205.54
-  ]
+  ],
+  "pass_reason": "Static tower camera, mostly dark"
 }

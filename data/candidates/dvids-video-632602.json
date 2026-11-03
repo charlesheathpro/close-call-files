@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-632602",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:42:44Z",
   "duration": 124.03,
   "source_file": {
@@ -298,5 +298,6 @@
     104.23,
     111.95,
     119.67
-  ]
+  ],
+  "pass_reason": "One static cockpit view of cloud; same problem as dropped hurricane-hunter Shorts"
 }

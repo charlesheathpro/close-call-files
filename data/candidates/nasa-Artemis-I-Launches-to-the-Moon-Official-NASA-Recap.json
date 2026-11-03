@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Artemis-I-Launches-to-the-Moon-Official-NASA-Recap",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:24:02Z",
   "duration": 151.57,
   "source_file": {
@@ -283,5 +283,6 @@
     127.46,
     136.9,
     146.35
-  ]
+  ],
+  "pass_reason": "Mostly talking heads; launch is a milestone with no close call"
 }

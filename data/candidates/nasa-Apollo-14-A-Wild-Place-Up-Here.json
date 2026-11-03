@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Apollo-14-A-Wild-Place-Up-Here",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:50:37Z",
   "duration": 310.02,
   "source_file": {
@@ -479,5 +479,6 @@
     261.15,
     280.5,
     299.84
-  ]
+  ],
+  "pass_reason": "Small framed archival clips with burned-in captions"
 }

@@ -26,7 +26,7 @@
   "time_start": 9.04167,
   "aspect_ratio": "16:9",
   "id": "dvids-video-313820",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:19:43Z",
   "duration": 189.38,
   "source_file": {
@@ -340,5 +340,6 @@
     160.78,
     172.02,
     183.26
-  ]
+  ],
+  "pass_reason": "Rescue footage is a tiny murky inset; rest is interviews"
 }

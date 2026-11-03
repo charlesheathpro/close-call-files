@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-764809",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:43:44Z",
   "duration": 431.4,
   "source_file": {
@@ -75,5 +75,6 @@
     363.57,
     390.51,
     417.44
-  ]
+  ],
+  "pass_reason": "Mostly gray cloud and cabin shots"
 }

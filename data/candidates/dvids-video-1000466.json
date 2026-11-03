@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1000466",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:46:39Z",
   "duration": 202.9,
   "source_file": {
@@ -67,5 +67,6 @@
     170.78,
     183.43,
     196.08
-  ]
+  ],
+  "pass_reason": "Aerial flood assessment; no rescue"
 }

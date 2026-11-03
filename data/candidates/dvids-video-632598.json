@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-632598",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:42:47Z",
   "duration": 174.29,
   "source_file": {
@@ -103,5 +103,6 @@
     146.63,
     157.5,
     168.36
-  ]
+  ],
+  "pass_reason": "One static cockpit view of Michael's eyewall cloud; same problem as dropped ccf-20261027-46/47"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-911831",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:01:47Z",
   "duration": 119.52,
   "source_file": {
@@ -400,5 +400,6 @@
     100.42,
     107.86,
     115.3
-  ]
+  ],
+  "pass_reason": "Ejection test is one slow-motion pillarboxed shot; release gives no result"
 }
