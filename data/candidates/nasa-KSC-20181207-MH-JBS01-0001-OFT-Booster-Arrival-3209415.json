@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20181207-MH-JBS01-0001-OFT-Booster-Arrival-3209415",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:38:27Z",
   "duration": 311.4,
   "source_file": {
@@ -129,5 +129,6 @@
     262.32,
     281.75,
     301.18
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

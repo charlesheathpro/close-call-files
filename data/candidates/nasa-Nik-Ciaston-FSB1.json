@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Nik-Ciaston-FSB1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:34:39Z",
   "duration": 106.58,
   "source_file": {
@@ -270,5 +270,6 @@
     89.51,
     96.14,
     102.77
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

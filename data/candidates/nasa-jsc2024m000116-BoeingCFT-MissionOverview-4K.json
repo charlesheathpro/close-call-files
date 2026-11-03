@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2024m000116-BoeingCFT-MissionOverview-4K",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:33:25Z",
   "duration": 179.95,
   "source_file": {
@@ -433,5 +433,6 @@
     151.41,
     162.62,
     173.84
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

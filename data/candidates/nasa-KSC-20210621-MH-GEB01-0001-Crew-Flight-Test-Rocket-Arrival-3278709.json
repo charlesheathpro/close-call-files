@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210621-MH-GEB01-0001-Crew-Flight-Test-Rocket-Arrival-3278709",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:34:02Z",
   "duration": 432.57,
   "source_file": {
@@ -118,5 +118,6 @@
     364.56,
     391.56,
     418.56
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

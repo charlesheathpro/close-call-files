@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-The-Next-Crew-of-Astronauts-Heading-to-the-Space-Station-on-This-Week-NASA-April",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:30:18Z",
   "duration": 210.64,
   "source_file": {
@@ -356,5 +356,6 @@
     177.31,
     190.44,
     203.58
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

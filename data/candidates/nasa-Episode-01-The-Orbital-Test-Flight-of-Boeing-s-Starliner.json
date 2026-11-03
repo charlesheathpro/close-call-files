@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Episode-01-The-Orbital-Test-Flight-of-Boeing-s-Starliner",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:31:25Z",
   "duration": 1204.14,
   "source_file": {
@@ -4150,5 +4150,6 @@
     1015.57,
     1090.8,
     1166.02
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

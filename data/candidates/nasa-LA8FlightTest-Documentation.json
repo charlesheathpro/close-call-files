@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LA8FlightTest-Documentation",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:30:41Z",
   "duration": 200.69,
   "source_file": {
@@ -136,5 +136,6 @@
     168.91,
     181.42,
     193.93
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }

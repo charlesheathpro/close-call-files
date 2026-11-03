@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-948714",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:30:50Z",
   "duration": 392.69,
   "source_file": {
@@ -907,5 +907,6 @@
     330.91,
     355.42,
     379.94
-  ]
+  ],
+  "pass_reason": "news roundup, profile, ceremony, exercise or interview with no danger on screen"
 }
