@@ -1,43 +1,42 @@
-# Playbook (computed 2026-11-03T15:27:33Z from 42 Shorts older than 48 hours)
+# Playbook (computed 2026-11-03T21:17:01Z from 43 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.66, 3 Shorts)
-- spacecraft or test story (+0.66, 3 Shorts)
-- lane: aviation_naval (+0.57, 4 Shorts)
-- story: capsized boat, people in the water (+0.48, 1 Shorts)
-- story: splashdown recovery (+0.45, 1 Shorts)
-- story: launch abort test (+0.44, 1 Shorts)
-- music: aviation (+0.4, 2 Shorts)
-- story: dog cliff rescue (+0.2, 1 Shorts)
+- source: nasa (+0.76, 3 Shorts)
+- spacecraft or test story (+0.76, 3 Shorts)
+- lane: aviation_naval (+0.64, 4 Shorts)
+- story: splashdown recovery (+0.53, 1 Shorts)
+- story: capsized boat, people in the water (+0.52, 1 Shorts)
+- story: launch abort test (+0.5, 1 Shorts)
+- music: aviation (+0.45, 2 Shorts)
+- hook names a child (+0.26, 7 Shorts)
 
 ## Do less of
-- music: hazards (-0.59, 4 Shorts)
-- source: dvids (-0.52, 33 Shorts)
-- story: volcano eruption (-0.49, 2 Shorts)
-- lane: hazards (-0.43, 3 Shorts)
-- story: wildfire rescue (-0.34, 1 Shorts)
-- story: surf rescue under cliff (-0.34, 1 Shorts)
-- story: car in water (-0.25, 1 Shorts)
-- length 45 s or more (-0.24, 2 Shorts)
+- music: hazards (-0.66, 4 Shorts)
+- story: volcano eruption (-0.56, 2 Shorts)
+- source: dvids (-0.56, 34 Shorts)
+- lane: hazards (-0.52, 3 Shorts)
+- story: wildfire rescue (-0.33, 1 Shorts)
+- story: capsized yacht hoist (-0.27, 1 Shorts)
+- length 45 s or more (-0.27, 2 Shorts)
+- story: cliff hoist (-0.26, 1 Shorts)
 
 ## Best Shorts
-- Boat flipped with a 4-year-old aboard: 18468 views, 74% watched
-- Orion splashes down after the Moon: 9352 views, 92% watched
-- Capsule torn off a rocket at Mach 1: 5247 views, 97% watched
+- Orion splashes down after the Moon: 9364 views, 96% watched
+- Boat flipped with a 4-year-old aboard: 18573 views, 78% watched
+- Capsule torn off a rocket at Mach 1: 5246 views, 97% watched
 - Dog fell off an Oregon sea cliff: 1288 views, 84% watched
-- Tug sinking in Harvey, 4 still aboard: 1327 views, 81% watched
+- Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
 
 ## Weakest Shorts
-- Hiker hurt on an Oregon sea cliff: 824 views, 46% watched
-- Man, 89, trapped in a sinking car: 2110 views, 0% watched
-- Trapped under a sea cliff in the surf: 1325 views, 0% watched
-- 214 people trapped by a wildfire: 342 views, 50% watched
+- Lava fountains roar out of Kilauea: 446 views, 67% watched
+- Hiker hurt on an Oregon sea cliff: 827 views, 48% watched
+- Yacht broke in two on Lake Erie: 1221 views, 37% watched
+- 214 people trapped by a wildfire: 342 views, 61% watched
 - Mauna Loa erupts after 38 years: 145 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261027-05: The surf under the stilt house is real danger, but the 366x274 FLIR source sits as a small, washed-out strip in the middle of a blurred frame for all 28 seconds, and line 3 plays over six seconds of a static wall. It would also be the fourth flooded-house rescue in a row after 01, 02 and 08.
 - ccf-20261028-03: The source is a USCG vertical Short with the real picture in a thin middle band and blur filling the rest, so the Short looks small and soft. The opening is a grainy gray FLIR frame, the basket line (7 to 9s) sits on dark blur, and the cabin shots (12 to 15s) are washed out. No visible danger surviv
 - ccf-20261028-04: Calm, routine night hoist from a disabled sailboat with no injuries and no visible danger, shown as a small letterboxed thermal window over a blurred fill; it fails the viral bar and is one more sea hoist in a buffer that is already almost all rescue.
 - ccf-20261028-09: Now 25s, but render 9.3 to 17.5s (source 9.3 to 18.0) is about 8 seconds of riders' legs dangling over palm trees; the riders are above the top edge of the source frame there, so no crop_x can fix it (check 2 and 11 fail). The strong footage (source 0.2 to 9.3 and 18.0 to 28.4) only carries about 19
@@ -52,3 +51,4 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261030-09: Strong hook number, but it is one slow, nearly static ISS view for 36 seconds, letterboxed small in the middle of a blurred background, with the solar array cutting into frames at 9.2s and 14.7s.
 - ccf-20261030-10: The hook promises a 3,000 gallon drop that never appears on screen, and the title says it flies into the smoke, which the footage does not show. It is also the same C-130 over a wildfire story as 27-76.
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
+- ccf-20261103-03: Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th
