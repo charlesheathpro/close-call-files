@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:894240",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard, partner agency rescues 4 people from swamped vessel off Hernando Beach",
+  "description": "The U.S. Coast Guard responds to a flooding 18-foot boat offshore Hernando Beach, Florida, July 23 2023. Two mariners aboard were rescued by a U.S. Coast Guard Air Station Clearwater air crew and safely hoisted into the aircraft. (U.S. Coast Guard video, courtesy, Coast Guard Air Station Clearwater)",
+  "keywords": "hoist, CoastGuardNewsWire",
+  "date": "2023-08-16T00:00:00-04:00",
+  "date_published": "2023-08-17T17:09:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230817-G-ZZ999-1002",
+  "location": {
+    "city": "Hernando Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/894240/coast-guard-partner-agency-rescues-4-people-swamped-vessel-off-hernando-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-894240",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:41:33Z",
+  "duration": 18.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109834880/DOD_109834880.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 22260891
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      18.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-894240.jpg",
+  "sheet_times": [
+    0.57,
+    1.7,
+    2.84,
+    3.97,
+    5.11,
+    6.24,
+    7.37,
+    8.51,
+    9.64,
+    10.78,
+    11.91,
+    13.05,
+    14.18,
+    15.32,
+    16.45,
+    17.58
+  ]
+}

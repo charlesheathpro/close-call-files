@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:589739",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues 3, searching for missing boater 70 miles south west of Fort Myers Beach",
+  "description": "A VHF-FM marine band radio channel 16 distress call from James Beeman, the captain aboard a sinking 37-foot commercial fishing boat, J.U.M.A., 70 miles south west of Fort Myers Beach, Florida, Thursday, March 15, 2018. The Coast Guard rescued Beeman and two of his crewmembers after the boat sank. (U.S. Coast Guard video)",
+  "keywords": "Fort Myers Beach, Channel 16, J.U.M.A. distress call, James Beeman, Coast Guard, USCG",
+  "date": "2018-03-15T00:00:00-04:00",
+  "date_published": "2018-03-15T09:24:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180315-G-RD093-1001",
+  "location": {
+    "city": "Fort Myers Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/589739/coast-guard-rescues-3-searching-missing-boater-70-miles-south-west-fort-myers-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 15.8492,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-589739",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:47:00Z",
+  "duration": 15.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1803/DOD_105412565/DOD_105412565-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 358,
+    "size": 903500
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.86,
+      "e": 10.58,
+      "text": "Just go, go!"
+    },
+    {
+      "s": 10.58,
+      "e": 12.34,
+      "text": "Make him go, go!"
+    },
+    {
+      "s": 12.34,
+      "e": 14.34,
+      "text": "Just go home!"
+    },
+    {
+      "s": 14.34,
+      "e": 16.34,
+      "text": "Just go again!"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 7,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-589739.jpg",
+  "sheet_times": null
+}

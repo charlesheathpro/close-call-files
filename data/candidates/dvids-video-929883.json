@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:929883",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard aircrew rescues injured woman from Tórtolos Beach in Culebra Island, Puerto Rico",
+  "description": "A Coast Guard Air Station Borinquen MH-60T Jayhawk helicopter aircrew hoists a 35-year-old woman, who became stranded after falling off the rocks and sustaining and ankle injury on Tórtolos Beach in Culebra, Puerto Rico, July 4, 2024.  The woman was transported to the local airport in Culebra, where awaiting emergency medical personnel received and transported her to a local medical facility. (U.S. Coast Guard video)",
+  "keywords": "Sector San Juan, Air Station Borinquen, Puerto Rico Emergency Management Bureau  Culebra",
+  "date": "2024-07-04T00:00:00-04:00",
+  "date_published": "2024-07-05T11:58:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240704-G-G0107-2001",
+  "location": {
+    "city": "Culebra",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/929883/coast-guard-aircrew-rescues-injured-woman-tortolos-beach-culebra-island-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-929883",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:41:17Z",
+  "duration": 48.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110426837/DOD_110426837-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 51181841
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 1.0,
+      "text": "All matters."
+    }
+  ],
+  "scene_cuts": [
+    31.2
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      3.5,
+      5.9,
+      8.6,
+      13.1,
+      16.8,
+      22.1,
+      28.1,
+      36.6
+    ],
+    "silence_ends": [
+      4.2,
+      6.9,
+      10.1,
+      13.7,
+      18.2,
+      23.0,
+      29.8,
+      47.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-929883.jpg",
+  "sheet_times": [
+    1.5,
+    4.5,
+    7.51,
+    10.51,
+    13.51,
+    16.52,
+    19.52,
+    22.52,
+    25.53,
+    28.53,
+    31.53,
+    34.53,
+    37.54,
+    40.54,
+    43.54,
+    46.55
+  ]
+}
