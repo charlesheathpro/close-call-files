@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:579836",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard aircrew rescues man at Hug Point",
+  "description": "An aircrew aboard an MH-60 Jayhawk helicopter, from Coast Guard Sector Columbia River, rescues a man stranded by an incoming tide at Hug Point near Cannon Beach, Ore., Jan. 14, 2018.\r\n\r\nThe man called for help using a cellphone and was transferred safely to Cannon Beach emergency medical services after the helicopter landed on the beach.\r\n\r\nU.S. Coast Guard video by Sector Columbia River 6035.",
+  "keywords": "MH-60 Jayhawk helicopter, Sector Columbia River, Cannon Beach, Hug Point, Coast Guard, USCG",
+  "date": "2018-01-14T00:00:00-05:00",
+  "date_published": "2018-01-14T21:58:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180114-G-G0213-1001",
+  "location": {
+    "city": "Cannon Beach",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/579836/coast-guard-aircrew-rescues-man-hug-point",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-579836",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:36:41Z",
+  "duration": 53.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105239273/DOD_105239273.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8024,
+    "size": 53871319
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.13
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      1.1
+    ],
+    "silence_ends": [
+      53.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-579836.jpg",
+  "sheet_times": [
+    1.66,
+    4.98,
+    8.3,
+    11.62,
+    14.95,
+    18.27,
+    21.59,
+    24.91,
+    28.23,
+    31.55,
+    34.87,
+    38.19,
+    41.51,
+    44.84,
+    48.16,
+    51.48
+  ]
+}

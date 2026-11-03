@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:512792",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues boater who was adrift over 13 hours west of Clearwater Beach",
+  "description": "Seen here is rescue and tow video taken Monday, March 6, 2017 aboard an HC-130 Hercules airplane from Air Station Clearwater and aboard a 45-foot Response Boat - Medium from Station Sand Key during a rescue of a boater 18 miles west of Clearwater Beach. U.S. Coast Guard video.",
+  "keywords": "adrift, AIR STATION CLEARWATER, boater, Station Sand Key, Sector St. Petersburg, SAR, rescue",
+  "date": "2017-03-06T00:00:00-05:00",
+  "date_published": "2017-03-06T18:05:56-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Michael De Nyse",
+  "category": "B-Roll",
+  "virin": "170306-G-G1017-1001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/512792/coast-guard-rescues-boater-who-adrift-over-13-hours-west-clearwater-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-512792",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:39:23Z",
+  "duration": 65.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104135924/DOD_104135924.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9601,
+    "size": 78344236
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.2,
+    48.08,
+    61.06
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      61.1
+    ],
+    "silence_ends": [
+      48.1,
+      65.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-512792.jpg",
+  "sheet_times": [
+    2.02,
+    6.05,
+    10.09,
+    14.12,
+    18.16,
+    22.19,
+    26.23,
+    30.26,
+    34.3,
+    38.34,
+    42.37,
+    46.41,
+    50.44,
+    54.48,
+    58.51,
+    62.55
+  ]
+}
