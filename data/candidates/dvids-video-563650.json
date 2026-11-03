@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-563650",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:14:32Z",
   "duration": 92.8,
   "source_file": {
@@ -62,5 +62,6 @@
     77.88,
     83.65,
     89.42
-  ]
+  ],
+  "pass_reason": "departure b-roll only, cruise medevac already published"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260410-MH-JBP01-0001-Artemis-II-Splashdown-MWIR-Raw-M19183",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:53:56Z",
   "duration": 293.4,
   "source_file": {
@@ -54,5 +54,6 @@
     247.13,
     265.44,
     283.75
-  ]
+  ],
+  "pass_reason": "tiny distant thermal view; Artemis II re-entry and splashdown already published"
 }

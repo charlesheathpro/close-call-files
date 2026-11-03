@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220820-MH-MTD01-0001-SpaceX-CRS-25-Splashdown-3312296",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:45:44Z",
   "duration": 47.37,
   "source_file": {
@@ -56,5 +56,6 @@
     39.54,
     42.47,
     45.4
-  ]
+  ],
+  "pass_reason": "uncrewed cargo splashdown, no stakes; splashdown done Oct 30"
 }

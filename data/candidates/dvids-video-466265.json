@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-466265",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:30:32Z",
   "duration": 568.61,
   "source_file": {
@@ -86,5 +86,6 @@
     479.97,
     515.23,
     550.48
-  ]
+  ],
+  "pass_reason": "fisheye door-cam over trees, another Houston flood"
 }

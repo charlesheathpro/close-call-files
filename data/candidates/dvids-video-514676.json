@@ -26,7 +26,7 @@
   "time_start": 4.359,
   "aspect_ratio": "16:9",
   "id": "dvids-video-514676",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:49:11Z",
   "duration": 67.94,
   "source_file": {
@@ -199,5 +199,6 @@
     57.59,
     61.53,
     65.47
-  ]
+  ],
+  "pass_reason": "murky night FLIR door-cam"
 }

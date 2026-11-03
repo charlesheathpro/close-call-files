@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2024-CM-0121-1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:29:13Z",
   "duration": 196.91,
   "source_file": {
@@ -264,5 +264,6 @@
     165.72,
     177.99,
     190.27
-  ]
+  ],
+  "pass_reason": "facility documentary, no event"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1003803",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:51:40Z",
   "duration": 54.55,
   "source_file": {
@@ -72,5 +72,6 @@
     45.61,
     48.99,
     52.37
-  ]
+  ],
+  "pass_reason": "search for missing crew, no rescue outcome"
 }
