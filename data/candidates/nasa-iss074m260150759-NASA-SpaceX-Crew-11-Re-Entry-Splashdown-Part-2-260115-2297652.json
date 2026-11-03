@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss074m260150759-NASA-SpaceX-Crew-11-Re-Entry-Splashdown-Part-2-260115-2297652",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:35:06Z",
   "duration": 1765.1,
   "source_file": {
@@ -220,5 +220,6 @@
     1488.88,
     1599.17,
     1709.46
-  ]
+  ],
+  "pass_reason": "calm deck egress, crew medical context, presenter"
 }

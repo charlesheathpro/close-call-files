@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-987403",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:48:22Z",
   "duration": 85.42,
   "source_file": {
@@ -75,5 +75,6 @@
     71.65,
     76.96,
     82.26
-  ]
+  ],
+  "pass_reason": "calm surf training, distant helicopter"
 }
