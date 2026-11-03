@@ -8,7 +8,7 @@
     {
       "item": "Uploads",
       "status": "ok",
-      "detail": "On, 10 a day. Last run uploaded 0"
+      "detail": "On, 10 a day. Last run uploaded 10"
     },
     {
       "item": "Alerts (48 h)",
@@ -17,8 +17,8 @@
     },
     {
       "item": "Ready buffer",
-      "status": "ok",
-      "detail": "11 Shorts ready, 10 needed per day"
+      "status": "warn",
+      "detail": "1 Shorts ready, 10 needed per day"
     },
     {
       "item": "Clip supply",
@@ -26,5 +26,5 @@
       "detail": "1076 unused clips"
     }
   ],
-  "generated_at": "2026-11-03T00:22:53Z"
+  "generated_at": "2026-11-03T04:25:47Z"
 }
