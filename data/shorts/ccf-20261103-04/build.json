@@ -1,9 +1,9 @@
 {
   "short_id": "ccf-20261103-04",
-  "revision": 1,
+  "revision": 2,
   "status": "ok",
-  "built_at": "2026-11-03T16:50:26Z",
-  "duration": 27.13,
+  "built_at": "2026-11-03T16:53:17Z",
+  "duration": 26.81,
   "source_resolution": "1920x1080",
   "timeline": [
     {
@@ -86,7 +86,7 @@
         {
           "w": "miles",
           "s": 4.85,
-          "e": 5.09
+          "e": 5.17
         },
         {
           "w": "out,",
@@ -143,7 +143,7 @@
     {
       "text": "A Hercules can circle for hours, but it cannot lift anyone out.",
       "start": 9.33,
-      "end": 13.65,
+      "end": 13.25,
       "words": [
         {
           "w": "A",
@@ -158,17 +158,17 @@
         {
           "w": "can",
           "s": 10.05,
-          "e": 10.21
+          "e": 10.13
         },
         {
           "w": "circle",
-          "s": 10.37,
+          "s": 10.21,
           "e": 10.53
         },
         {
           "w": "for",
-          "s": 10.65,
-          "e": 10.77
+          "s": 10.61,
+          "e": 10.69
         },
         {
           "w": "hours,",
@@ -177,8 +177,8 @@
         },
         {
           "w": "but",
-          "s": 11.69,
-          "e": 11.77
+          "s": 11.65,
+          "e": 11.73
         },
         {
           "w": "it",
@@ -203,125 +203,125 @@
         {
           "w": "out.",
           "s": 12.93,
-          "e": 13.65
+          "e": 13.25
         }
       ]
     },
     {
       "text": "So a motor tanker, the Radiant Pride, came to them.",
       "start": 13.73,
-      "end": 16.823,
+      "end": 16.93,
       "words": [
         {
           "w": "So",
           "s": 13.73,
-          "e": 13.81
+          "e": 13.89
         },
         {
           "w": "a",
-          "s": 13.89,
-          "e": 13.97
+          "s": 13.97,
+          "e": 14.05
         },
         {
           "w": "motor",
-          "s": 14.05,
-          "e": 14.21
+          "s": 14.13,
+          "e": 14.37
         },
         {
           "w": "tanker,",
-          "s": 14.37,
-          "e": 14.93
+          "s": 14.45,
+          "e": 15.01
         },
         {
           "w": "the",
-          "s": 15.01,
-          "e": 15.09
+          "s": 15.09,
+          "e": 15.17
         },
         {
           "w": "Radiant",
-          "s": 15.17,
-          "e": 15.49
+          "s": 15.25,
+          "e": 15.57
         },
         {
           "w": "Pride,",
-          "s": 15.57,
-          "e": 16.13
+          "s": 15.73,
+          "e": 16.29
         },
         {
           "w": "came",
-          "s": 16.21,
-          "e": 16.45
+          "s": 16.41,
+          "e": 16.53
         },
         {
           "w": "to",
-          "s": 16.49,
-          "e": 16.57
+          "s": 16.57,
+          "e": 16.65
         },
         {
           "w": "them.",
-          "s": 16.61,
-          "e": 16.823
+          "s": 16.69,
+          "e": 16.93
         }
       ]
     },
     {
       "text": "Its crew brought the huge ship right alongside the little sailboat.",
-      "start": 17.93,
+      "start": 18.01,
       "end": 21.81,
       "words": [
         {
           "w": "Its",
-          "s": 17.93,
-          "e": 18.05
+          "s": 18.01,
+          "e": 18.13
         },
         {
           "w": "crew",
-          "s": 18.13,
-          "e": 18.37
+          "s": 18.21,
+          "e": 18.45
         },
         {
           "w": "brought",
-          "s": 18.41,
-          "e": 18.61
+          "s": 18.49,
+          "e": 18.69
         },
         {
           "w": "the",
-          "s": 18.69,
-          "e": 18.77
+          "s": 18.77,
+          "e": 18.85
         },
         {
           "w": "huge",
-          "s": 18.85,
-          "e": 19.17
+          "s": 18.93,
+          "e": 19.25
         },
         {
           "w": "ship",
-          "s": 19.25,
-          "e": 19.49
+          "s": 19.33,
+          "e": 19.57
         },
         {
           "w": "right",
-          "s": 19.65,
-          "e": 19.81
+          "s": 19.73,
+          "e": 19.89
         },
         {
           "w": "alongside",
-          "s": 20.01,
-          "e": 20.45
+          "s": 20.09,
+          "e": 20.53
         },
         {
           "w": "the",
-          "s": 20.49,
-          "e": 20.57
+          "s": 20.57,
+          "e": 20.65
         },
         {
           "w": "little",
-          "s": 20.61,
-          "e": 20.69
+          "s": 20.69,
+          "e": 20.77
         },
         {
           "w": "sailboat.",
-          "s": 20.85,
+          "s": 20.93,
           "e": 21.81
         }
       ]
@@ -329,7 +329,7 @@
     {
       "text": "The tanker crew and the Hercules crew worked together and rescued all three sailors.",
       "start": 21.89,
-      "end": 26.93,
+      "end": 26.61,
       "words": [
         {
           "w": "The",
@@ -343,38 +343,43 @@
         },
         {
           "w": "crew",
-          "s": 22.37,
-          "e": 22.77
+          "s": 22.45,
+          "e": 22.69
         },
         {
           "w": "and",
-          "s": 22.85,
-          "e": 22.93
+          "s": 22.73,
+          "e": 22.81
         },
         {
           "w": "the",
-          "s": 22.97,
-          "e": 23.05
+          "s": 22.81,
+          "e": 22.89
         },
         {
           "w": "Hercules",
-          "s": 23.09,
-          "e": 23.57
+          "s": 22.93,
+          "e": 23.41
         },
         {
           "w": "crew",
-          "s": 23.65,
-          "e": 23.89
+          "s": 23.57,
+          "e": 23.73
         },
         {
           "w": "worked",
-          "s": 23.97,
-          "e": 24.21
+          "s": 23.85,
+          "e": 23.97
         },
         {
           "w": "together",
-          "s": 24.29,
-          "e": 24.69
+          "s": 24.05,
+          "e": 24.61
+        },
+        {
+          "w": "and",
+          "s": 24.69,
+          "e": 24.77
         },
         {
           "w": "and",
@@ -383,8 +388,18 @@
         },
         {
           "w": "rescued",
-          "s": 25.21,
-          "e": 25.65
+          "s": 24.89,
+          "e": 25.33
+        },
+        {
+          "w": "all",
+          "s": 25.41,
+          "e": 25.57
+        },
+        {
+          "w": "three",
+          "s": 25.65,
+          "e": 25.73
         },
         {
           "w": "all",
@@ -398,8 +413,8 @@
         },
         {
           "w": "sailors.",
-          "s": 26.21,
-          "e": 26.93
+          "s": 25.89,
+          "e": 26.61
         }
       ]
     }
@@ -411,23 +426,23 @@
     },
     "duration": {
       "ok": true,
-      "value": 27.13
+      "value": 26.83
     },
     "av_sync": {
       "ok": true,
-      "value": 0.003
+      "value": 0.023
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.2
+      "value": 0.22
     },
     "loudness": {
       "ok": true,
-      "value": -14.0
+      "value": -14.1
     },
     "true_peak": {
       "ok": true,
-      "value": -2.3
+      "value": -2.6
     },
     "dead_air": {
       "ok": true,
@@ -449,6 +464,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261103-04/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261103-04-r1.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261103-04-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261103-04/ccf-20261103-04.mp4"
 }
