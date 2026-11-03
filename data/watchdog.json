@@ -1,22 +1,23 @@
 {
-  "at": "2026-11-02T17:32:06Z",
+  "at": "2026-11-03T00:30:00Z",
   "healthy": false,
   "numbers": {
     "dropped": 28,
     "uploaded": 53,
-    "passed": 10,
-    "scheduled_next_36h": 6
+    "passed": 11,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_next_36h": 2
   },
   "found": [
-    "passed + scheduled in next 36h was 10 at start (need 15); buffer needs_build+needs_qa+passed+scheduled was 14 (need 25)",
-    "YouTube upload limit active until 2026-11-03T02:18Z, so the last upload run (13:49 UTC) uploaded nothing; not a stalled workflow",
-    "2 build failures (03, 05) were spec problems (short first shot, short shots on one line), not a systemic build error",
-    "rescue supply still thin: 19 more candidates looked at were night door-cam, murky FLIR, static test views, medical scenes or non-federal credit"
+    "passed + scheduled in next 36h is 13 (need 15); buffer needs_build+needs_qa+passed+scheduled is 13 (need 25)",
+    "YouTube upload limit active until 2026-11-03T02:18Z, so passed Shorts are waiting on YouTube, not on a stalled workflow; upload, build, harvest and stats runs all landed in the last 30 hours",
+    "no build errors in the last 24 hours, no auth or upload_error alerts",
+    "rescue supply still thin: 22 more candidates looked at were calm b-roll, interviews, murky door-cam, medical scenes or repeats of published stories; no new spec cleared the viral bar"
   ],
   "fixed": [
-    "repaired and passed 03 Kodiak rocks, 05 parachute to cargo ship, 07 Fort Pierce hull",
-    "passed 04, 06, 08 as built",
-    "editor pass: 1 new spec (SLS booster test fire, aviation lane), built and passed"
+    "repaired ccf-20261102-10 (adrift sailor and dog) to rev 2, rebuilt and passed",
+    "pushed an archive harvest to triggers/harvest for more rescue supply"
   ],
   "needs_charles": null
 }
