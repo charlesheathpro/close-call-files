@@ -50,10 +50,10 @@
   "line_shots": [
     [
       {
-        "start": 17.6,
-        "end": 21.8,
+        "start": 22.0,
+        "end": 25.7,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.55
       }
     ],
     [
@@ -72,10 +72,10 @@
     ],
     [
       {
-        "start": 22.0,
-        "end": 25.7,
+        "start": 15.4,
+        "end": 19.5,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.45
       },
       {
         "start": 11.7,
@@ -89,13 +89,13 @@
         "start": 26.0,
         "end": 29.8,
         "layout": "crop",
-        "crop_x": 0.75
+        "crop_x": 0.92
       },
       {
-        "start": 34.0,
-        "end": 37.6,
+        "start": 34.6,
+        "end": 37.9,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.62
       }
     ],
     [
@@ -126,13 +126,13 @@
         "crop_x": 0.5
       },
       {
-        "start": 15.3,
-        "end": 17.5,
+        "start": 19.6,
+        "end": 21.95,
         "layout": "crop",
         "crop_x": 0.5
       }
     ]
   ],
-  "revision": 1,
+  "revision": 2,
   "preview_ok": "FLIR footage is uniform gray: the boat and the tanker are clearly in frame in every flagged shot"
 }
