@@ -32,4 +32,6 @@ jobs:
           DVIDS_API_KEY: ${{ secrets.DVIDS_API_KEY }}
           CCF_WORK: ${{ runner.temp }}/ccf
           HARVEST_MINUTES: "170"
+          HARVEST_COMMIT_EVERY: "20"
+          PYTHONUNBUFFERED: "1"
       - run: bash scripts/commit.sh "Harvest $(date -u +%Y-%m-%d)"

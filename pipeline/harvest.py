@@ -4,6 +4,7 @@ For every new asset it stores metadata, a transcript, scene-cut times and a
 labeled frame sheet. Video files are never committed; the build downloads the
 source fresh.
 """
+import subprocess
 import argparse
 import os
 import re
@@ -454,6 +455,12 @@ def main():
         if cand:
             done += 1
         save_json(SEEN, seen)
+        # commit as we go: GitHub runners have shut down mid-run and lost a whole archive harvest
+        every = int(os.environ.get("HARVEST_COMMIT_EVERY", 0) or 0)
+        if every and cand and done % every == 0:
+            save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors,
+                                                   "unseen_found": len(found), "partial": True})
+            subprocess.run(["bash", "scripts/commit.sh", f"Harvest {now_utc():%Y-%m-%d} (partial, {done})"], check=False)
     prune()
     save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors, "unseen_found": len(found)})
 
