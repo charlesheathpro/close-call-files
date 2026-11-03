@@ -1,0 +1,80 @@
+{
+  "asset_id": "nasa:KSC-20191121-MH-JBS01_0001-Boeing_Starliner_Rollout-3222462",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "CCP Boeing CST-100 Starliner OFT Rollout to Pad",
+  "description": "Boeing is rolling out the CST-100 Starliner spacecraft for NASA's Orbital Flight Test to the International Space Station. This uncrewed flight is part of the certification efforts with NASA's Commercial Crew Program.",
+  "keywords": "NASA, Commercial Crew Program, CCP, NASA Astronauts, International Space Station, ISS, Boeing, CST-100 Starliner, Orbital Flight Test, ULA, Atlas V, Flight Test, Uncrewed Flight Test, 2019 Launches, Kennedy Space Center, Vehicle Assembly Building, C3PF",
+  "date": "2019-11-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20191121-MH-JBS01_0001-Boeing_Starliner_Rollout-3222462",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20191121-MH-JBS01-0001-Boeing-Starliner-Rollout-3222462",
+  "status": "new",
+  "harvested_at": "2026-11-03T17:01:19Z",
+  "duration": 152.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20191121-MH-JBS01_0001-Boeing_Starliner_Rollout-3222462/KSC-20191121-MH-JBS01_0001-Boeing_Starliner_Rollout-3222462~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.23,
+    45.73,
+    58.27,
+    65.07,
+    82.77,
+    88.77,
+    104.17,
+    110.93,
+    117.1,
+    124.27,
+    134.07,
+    137.27,
+    140.27,
+    145.7,
+    152.33
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      15.6,
+      82.7,
+      134.0
+    ],
+    "silence_ends": [
+      11.2,
+      19.2,
+      110.9,
+      152.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20191121-MH-JBS01-0001-Boeing-Starliner-Rollout-3222462.jpg",
+  "sheet_times": [
+    4.75,
+    14.24,
+    23.73,
+    33.22,
+    42.71,
+    52.2,
+    61.7,
+    71.19,
+    80.68,
+    90.17,
+    99.66,
+    109.15,
+    118.65,
+    128.14,
+    137.63,
+    147.12
+  ]
+}

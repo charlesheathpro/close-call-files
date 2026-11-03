@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:291309",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Moore Tornado Aerial Footage from Black Hawk Flyover",
+  "description": "Uncut aerial video from start to finish of the Moore tornado damage path. Produced by Lt. Col. Lindy White.  Also available in High Definition.",
+  "keywords": "tornado, Oklahoma, Oklahoma National Guard, Moore, Lindy White, oklahoma tornado, High Definition, Black Hawk, fly over, aerial footage",
+  "date": "2013-05-21T00:00:00-04:00",
+  "date_published": "2013-05-22T01:52:38-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Lt. Col. Lindy White",
+  "category": "B-Roll",
+  "virin": "130521-A-LC880-001",
+  "location": {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/291309/moore-tornado-aerial-footage-black-hawk-flyover",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-291309",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:56:07Z",
+  "duration": 1102.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100820753/DOD_100820753.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 9230,
+    "size": 1316008211
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-291309.jpg",
+  "sheet_times": [
+    38.32,
+    106.94,
+    175.56,
+    244.19,
+    312.81,
+    381.44,
+    450.06,
+    518.68,
+    587.31,
+    655.93,
+    724.55,
+    793.18,
+    861.8,
+    930.43,
+    999.05,
+    1067.67
+  ]
+}
