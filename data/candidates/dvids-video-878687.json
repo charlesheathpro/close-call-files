@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:878687",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Storm Damage Wynn HS, First Baptist Church  and Surrounding Area B-Roll",
+  "description": "Wynne, AR – B-Roll video of Wynne HS, First Baptist Church, and a nearby neighborhood following the severe storms and tornadoes.",
+  "keywords": "storm damage, FEMA, wynne, tornadoes, Severe Storm, Arkansas",
+  "date": "2023-04-04T00:00:00-04:00",
+  "date_published": "2023-04-05T12:24:09-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "230404-D-DR336-352",
+  "location": {
+    "city": "Wynne",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/878687/storm-damage-wynn-hs-first-baptist-church-and-surrounding-area-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-878687",
+  "status": "new",
+  "harvested_at": "2026-11-03T17:47:53Z",
+  "duration": 163.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109556776/DOD_109556776.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 196158100
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.99,
+    19.19,
+    26.84,
+    34.58,
+    40.32,
+    48.13,
+    55.74,
+    64.41,
+    72.19,
+    85.49,
+    93.99,
+    101.48,
+    108.06,
+    115.62,
+    133.73,
+    141.79,
+    149.02,
+    157.39
+  ],
+  "drama_score": 55,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      163.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-878687.jpg",
+  "sheet_times": [
+    5.09,
+    15.27,
+    25.45,
+    35.63,
+    45.81,
+    55.98,
+    66.16,
+    76.34,
+    86.52,
+    96.7,
+    106.88,
+    117.06,
+    127.24,
+    137.42,
+    147.59,
+    157.77
+  ]
+}
