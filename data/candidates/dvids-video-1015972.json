@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1015972",
   "asset_id": "video:1015972",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire aerial",
   "harvested_at": "2026-10-27T06:26:56Z",
@@ -62,5 +62,6 @@
     598.41,
     642.74,
     687.06
-  ]
+  ],
+  "pass_reason": "cockpit GoPro only, retardant drops not visible, release gives no outcome; C-130 wildfire story already used (27-76, 30-10)"
 }
