@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-622162",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:22:57Z",
   "duration": 40.38,
   "source_file": {
@@ -77,5 +77,6 @@
     33.65,
     36.14,
     38.64
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }

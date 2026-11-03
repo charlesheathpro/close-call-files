@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-We-Did-Some-Amazing-Things-This-Year-NASA-December-21-2021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:24:24Z",
   "duration": 674.35,
   "source_file": {
@@ -1104,5 +1104,6 @@
     568.56,
     610.67,
     652.79
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-925842",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:24:10Z",
   "duration": 56.83,
   "source_file": {
@@ -66,5 +66,6 @@
     47.53,
     51.05,
     54.57
-  ]
+  ],
+  "pass_reason": "same diver rescue as ccf-20261103-03 (C-130 sensor view, letterboxed with HUD)"
 }

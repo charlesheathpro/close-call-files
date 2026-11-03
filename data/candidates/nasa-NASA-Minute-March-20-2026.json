@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-March-20-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:23:26Z",
   "duration": 122.07,
   "source_file": {
@@ -476,5 +476,6 @@
     102.57,
     110.17,
     117.77
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }

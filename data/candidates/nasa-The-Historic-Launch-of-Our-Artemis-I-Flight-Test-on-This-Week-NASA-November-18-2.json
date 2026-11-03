@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-The-Historic-Launch-of-Our-Artemis-I-Flight-Test-on-This-Week-NASA-November-18-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:25:44Z",
   "duration": 106.62,
   "source_file": {
@@ -218,5 +218,6 @@
     89.54,
     96.17,
     102.81
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }

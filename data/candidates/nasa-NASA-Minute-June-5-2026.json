@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-June-5-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:23:40Z",
   "duration": 117.87,
   "source_file": {
@@ -480,5 +480,6 @@
     99.03,
     106.36,
     113.7
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }

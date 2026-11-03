@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2021-CM-0117",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:24:04Z",
   "duration": 121.0,
   "source_file": {
@@ -66,5 +66,6 @@
     101.67,
     109.2,
     116.74
-  ]
+  ],
+  "pass_reason": "roundup, promo, training or ceremony with no danger on screen"
 }
