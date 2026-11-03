@@ -1,23 +1,23 @@
 {
-  "at": "2026-11-03T08:31:09Z",
+  "at": "2026-11-03T16:54:28Z",
   "healthy": false,
   "numbers": {
-    "dropped": 28,
+    "dropped": 29,
     "uploaded": 63,
-    "passed": 1,
+    "passed": 4,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_next_36h": 10
+    "scheduled_next_36h": 7
   },
   "found": [
-    "passed + scheduled in next 36h was 11 (need 15); buffer 11 (need 25)",
-    "archive harvest pushed at 00:20Z died at 01:14Z when GitHub's runner shut down, so its candidates were never committed",
-    "no scheduled upload run since 04:00Z (hourly cron skipped by GitHub)",
-    "no build errors, no auth or upload_error alerts; stats and harvest landed within 30 hours"
+    "passed + scheduled in next 36h was 9 at start (need 15); buffer 10 (need 25)",
+    "both archive harvests (00:20Z and 08:21Z) were killed by a GitHub runner shutdown about 50 minutes in, after processing 150+ assets, so nothing was committed",
+    "YouTube upload limit active until 2026-11-04T04:02Z (uploadLimitExceeded at 08:23Z); no auth or upload_error alerts",
+    "no build errors; build, upload and stats runs landing"
   ],
   "fixed": [
-    "re-pushed the archive harvest (triggers/harvest)",
-    "pushed triggers/upload to start an upload run",
-    "editor pass: 1 new spec (Hurricane Maria surf drills, ccf-20261103-01), built, recut once and passed; 4 more candidates passed over; rescue supply is mostly unresolved searches and damage assessments, the 433 NASA 'new' candidates are mostly talking heads"
+    "harvest.py now commits every 20 new candidates (HARVEST_COMMIT_EVERY in harvest.yml, unbuffered output), and the archive harvest was restarted: partial commits are landing (120 so far)",
+    "editor pass on the fresh harvest: 2 specs written (ccf-20261103-03 diver off Myrtle Beach, later dropped in QA; ccf-20261103-04 Radiant Pride tanker, passed after one recut); about 100 fresh candidates passed over, mostly roundups, ceremonies, drills and calm or murky hoists",
+    "QA: Holloman ejection sled (ccf-20261103-02) recut and passed"
   ]
 }
