@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-May-8-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:26:21Z",
   "duration": 121.7,
   "source_file": {
@@ -486,5 +486,6 @@
     102.26,
     109.84,
     117.41
-  ]
+  ],
+  "pass_reason": "newscast, roundup, drill or ceremony with no danger on screen"
 }

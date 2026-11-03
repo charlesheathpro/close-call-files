@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-July-3-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:27:24Z",
   "duration": 163.03,
   "source_file": {
@@ -695,5 +695,6 @@
     137.14,
     147.3,
     157.45
-  ]
+  ],
+  "pass_reason": "newscast, roundup, drill or ceremony with no danger on screen"
 }

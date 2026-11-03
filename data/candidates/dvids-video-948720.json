@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-948720",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:27:35Z",
   "duration": 587.96,
   "source_file": {
@@ -1413,5 +1413,6 @@
     495.67,
     532.39,
     569.1
-  ]
+  ],
+  "pass_reason": "newscast, roundup, drill or ceremony with no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2020-CM-0142",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:26:50Z",
   "duration": 238.13,
   "source_file": {
@@ -703,5 +703,6 @@
     200.5,
     215.36,
     230.21
-  ]
+  ],
+  "pass_reason": "newscast, roundup, drill or ceremony with no danger on screen"
 }

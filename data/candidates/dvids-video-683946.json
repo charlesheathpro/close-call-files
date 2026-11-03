@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-683946",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:27:42Z",
   "duration": 30.09,
   "source_file": {
@@ -62,5 +62,6 @@
     24.97,
     26.82,
     28.67
-  ]
+  ],
+  "pass_reason": "search with no rescue outcome"
 }
