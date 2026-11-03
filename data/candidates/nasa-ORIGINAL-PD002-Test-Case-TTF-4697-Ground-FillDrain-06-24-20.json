@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ORIGINAL-PD002-Test-Case-TTF-4697-Ground-FillDrain-06-24-20",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:51:11Z",
   "duration": 26.17,
   "source_file": {
@@ -64,5 +64,6 @@
     21.66,
     23.26,
     24.86
-  ]
+  ],
+  "pass_reason": "Same tank test as ccf-20261103-05; lens covered in droplets after 8 s"
 }

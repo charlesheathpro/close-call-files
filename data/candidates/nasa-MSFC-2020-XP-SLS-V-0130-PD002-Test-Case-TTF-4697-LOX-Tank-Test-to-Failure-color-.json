@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-2020-XP-SLS-V-0130-PD002-Test-Case-TTF-4697-LOX-Tank-Test-to-Failure-color-",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-03T16:50:46Z",
   "duration": 155.37,
   "source_file": {
@@ -56,5 +56,6 @@
     130.67,
     140.35,
     150.03
-  ]
+  ],
+  "used_by": "ccf-20261103-05"
 }

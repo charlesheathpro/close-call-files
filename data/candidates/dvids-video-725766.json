@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-725766",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T17:01:03Z",
   "duration": 30.06,
   "source_file": {
@@ -69,5 +69,6 @@
     24.94,
     26.79,
     28.64
-  ]
+  ],
+  "pass_reason": "Grainy FLIR and distant aerials, murky; people in water too small to read"
 }

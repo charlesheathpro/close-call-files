@@ -26,7 +26,7 @@
   "time_start": 4.42573,
   "aspect_ratio": "16:9",
   "id": "dvids-video-354789",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:50:03Z",
   "duration": 122.07,
   "source_file": {
@@ -72,5 +72,6 @@
     103.27,
     110.59,
     117.91
-  ]
+  ],
+  "pass_reason": "Washed-out gray hoist-camera view for the whole clip; sailboat never seen"
 }

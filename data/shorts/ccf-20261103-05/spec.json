@@ -1,0 +1,91 @@
+{
+  "short_id": "ccf-20261103-05",
+  "candidate_id": "nasa-MSFC-2020-XP-SLS-V-0130-PD002-Test-Case-TTF-4697-LOX-Tank-Test-to-Failure-color-",
+  "lane": "aviation_naval",
+  "story_type": "rocket tank test to failure",
+  "music_mood": "aviation",
+  "priority": 2,
+  "hook": "NASA crushed its own Moon rocket tank on purpose.",
+  "narration": [
+    "NASA crushed one of its own Moon rocket tanks until it burst.",
+    "It was built just like the oxygen tanks on the Moon rocket.",
+    "Hydraulic cylinders squeezed it from every side, with millions of pounds of force.",
+    "[short pause] Then the wall gave way.",
+    "Water stood in for the liquid oxygen, which is far too cold and dangerous to spill.",
+    "The point was proof that the real tanks can survive the forces of launch."
+  ],
+  "outcome": "The tank finally broke, and water gushed out across the test stand.",
+  "location_card": {
+    "place": "Huntsville, Alabama",
+    "date": "June 2020"
+  },
+  "keep_source_audio": false,
+  "title": "Moon rocket tank crushed until it burst",
+  "description": "At NASA's Marshall Space Flight Center in Huntsville, Alabama, engineers pushed a test copy of the Space Launch System liquid oxygen tank beyond its limits in June 2020 until it broke and water gushed out.\n\nFootage: NASA Marshall Space Flight Center video, via NASA Image and Video Library: https://images.nasa.gov/details/MSFC_2020_XP_SLS_V_0130_PD002-Test-Case-TTF-4697%20LOX%20Tank%20Test-to-Failure%20color-1_06242020_timelapse\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #artemis #rocket",
+  "tags": [
+    "nasa",
+    "sls rocket",
+    "artemis",
+    "test to failure",
+    "rocket tank",
+    "marshall space flight center",
+    "engineering",
+    "slow motion",
+    "real footage"
+  ],
+  "question_comment": "Would you trust a rocket more if you knew they broke one on purpose first?",
+  "facts": [
+    {
+      "claim": "The tank was pushed beyond its limits until it broke and water gushed out",
+      "source_quote": "The liquid oxygen structural test article was pushed beyond its limits until it broke and water gushed from the tank."
+    },
+    {
+      "claim": "Identical to the SLS core stage tanks, for the Artemis Moon missions",
+      "source_quote": "The tank is a test article that is identical to tanks that are part of the SLS core stage that will produce 2 million pounds of thrust to help launch the rocket on the Artemis missions to the Moon."
+    },
+    {
+      "claim": "Hydraulic cylinders applied millions of pounds of force from all sides",
+      "source_quote": "hydraulic cylinders were then calibrated and positioned along the tank to apply millions of pounds of crippling force from all sides"
+    },
+    {
+      "claim": "Water stood in for the liquid oxygen",
+      "source_quote": "water used to simulate the liquid oxygen flows out of the tank after it ruptures"
+    },
+    {
+      "claim": "Purpose: proof the structure can endure launch",
+      "source_quote": "The structural test campaign was conducted on the rocket to ensure the SLS rocket’s structure can endure the rigors of launch and safely send astronauts to the Moon on the Artemis missions."
+    }
+  ],
+  "revision": 1,
+  "line_shots": [
+    [
+      {"start": 17.0, "end": 19.6, "layout": "crop", "crop_x": 0.35},
+      {"start": 20.5, "end": 23.5, "layout": "crop", "crop_x": 0.6}
+    ],
+    [
+      {"start": 0.1, "end": 3.0, "layout": "crop", "crop_x": 0.75, "speed": 0.8}
+    ],
+    [
+      {"start": 3.0, "end": 5.6, "layout": "crop", "crop_x": 0.55},
+      {"start": 5.6, "end": 8.0, "layout": "crop", "crop_x": 0.4}
+    ],
+    [
+      {"start": 8.0, "end": 10.6, "layout": "crop", "crop_x": 0.35},
+      {"start": 10.6, "end": 13.0, "layout": "crop", "crop_x": 0.5}
+    ],
+    [
+      {"start": 24.0, "end": 27.0, "layout": "crop", "crop_x": 0.3},
+      {"start": 28.0, "end": 31.0, "layout": "crop", "crop_x": 0.6},
+      {"start": 32.0, "end": 35.0, "layout": "crop", "crop_x": 0.45}
+    ],
+    [
+      {"start": 40.0, "end": 43.0, "layout": "crop", "crop_x": 0.35},
+      {"start": 50.0, "end": 53.0, "layout": "crop", "crop_x": 0.55},
+      {"start": 60.0, "end": 63.0, "layout": "crop", "crop_x": 0.25}
+    ],
+    [
+      {"start": 70.0, "end": 72.5, "layout": "crop", "crop_x": 0.45},
+      {"start": 13.6, "end": 16.6, "layout": "crop", "crop_x": 0.4}
+    ]
+  ]
+}

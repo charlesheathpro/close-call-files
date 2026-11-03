@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-557676",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T17:03:49Z",
   "duration": 60.08,
   "source_file": {
@@ -203,5 +203,6 @@
     50.27,
     53.99,
     57.71
-  ]
+  ],
+  "pass_reason": "Same CH-53E news package; fire never shown"
 }
