@@ -40,8 +40,8 @@
     ]
   },
   "lane_mix": {
-    "rescue": 0.4,
-    "aviation_naval": 0.5,
+    "rescue": 0.3,
+    "aviation_naval": 0.6,
     "hazards": 0.1
   },
   "harvest": {
@@ -1105,27 +1105,31 @@
     "daily_other_queries": 4,
     "min_short_side": 700,
     "query_weights": {
-      "rescue infant": 0.99,
-      "Hurricane Florence rescue": 0.95,
+      "rescue infant": 1.0,
+      "Hurricane Florence rescue": 0.96,
       "rescues dog": 1.03,
-      "rescue": 1.07,
-      "rooftop rescue": 0.94,
-      "Hurricane Helene rescue": 0.98,
+      "rescue": 1.05,
+      "rooftop rescue": 0.96,
+      "Hurricane Helene rescue": 0.99,
       "Hurricane Milton rescue": 0.98,
-      "cliff rescue": 1.02,
-      "Coast Guard rescue": 1.13,
-      "surf rescue": 1.0,
+      "cliff rescue": 0.86,
+      "Coast Guard rescue": 1.11,
+      "surf rescue": 1.01,
       "Hurricane Ian rescue": 1.02,
-      "flood rescue": 1.15,
-      "flight deck fire": 0.96,
+      "flood rescue": 1.11,
+      "flight deck fire": 0.97,
       "crash landing": 0.98,
-      "lava flow": 0.69,
+      "lava flow": 0.78,
       "rescues family": 1.0,
-      "launch abort": 1.31,
-      "splashdown": 1.04,
-      "FEMA urban search and rescue": 0.9,
-      "vessel fire": 0.98,
-      "sinking vessel": 0.9
+      "launch abort": 1.33,
+      "splashdown": 1.29,
+      "FEMA urban search and rescue": 0.91,
+      "vessel fire": 1.04,
+      "sinking vessel": 0.92,
+      "lava USGS": 0.9,
+      "wildfire": 0.8,
+      "capsized vessel rescue": 0.86,
+      "beach rescue": 1.32
     }
   },
   "mix": {
