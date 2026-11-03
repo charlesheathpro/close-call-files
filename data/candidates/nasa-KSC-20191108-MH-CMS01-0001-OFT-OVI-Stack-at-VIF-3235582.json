@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191108-MH-CMS01-0001-OFT-OVI-Stack-at-VIF-3235582",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:41:26Z",
   "duration": 202.37,
   "source_file": {
@@ -117,5 +117,6 @@
     170.33,
     182.94,
     195.56
-  ]
+  ],
+  "pass_reason": "news roundup, ceremony, exercise, profile or damage b-roll with no danger on screen"
 }

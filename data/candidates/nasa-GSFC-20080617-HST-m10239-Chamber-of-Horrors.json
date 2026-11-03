@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20080617-HST-m10239-Chamber-of-Horrors",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:45:56Z",
   "duration": 233.92,
   "source_file": {
@@ -437,5 +437,6 @@
     196.95,
     211.54,
     226.13
-  ]
+  ],
+  "pass_reason": "news roundup, ceremony, exercise, profile or damage b-roll with no danger on screen"
 }

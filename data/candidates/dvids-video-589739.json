@@ -26,7 +26,7 @@
   "time_start": 15.8492,
   "aspect_ratio": "16:9",
   "id": "dvids-video-589739",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:47:00Z",
   "duration": 15.89,
   "source_file": {
@@ -70,5 +70,6 @@
     ]
   },
   "sheet": "data/candidates/dvids-video-589739.jpg",
-  "sheet_times": null
+  "sheet_times": null,
+  "pass_reason": "15 s clip, too short"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss071m262371711-NASA-Boeing-Crew-Flight-test-Status-News-Conference-240824",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:43:04Z",
   "duration": 5053.17,
   "source_file": {
@@ -12112,5 +12112,6 @@
     4263.19,
     4578.98,
     4894.77
-  ]
+  ],
+  "pass_reason": "news roundup, ceremony, exercise, profile or damage b-roll with no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Our-Artemis-I-Flight-Test-is-Go-for-Launch-on-This-Week-NASA-August-26-2022",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:41:42Z",
   "duration": 211.48,
   "source_file": {
@@ -315,5 +315,6 @@
     178.01,
     191.2,
     204.38
-  ]
+  ],
+  "pass_reason": "news roundup, ceremony, exercise, profile or damage b-roll with no danger on screen"
 }

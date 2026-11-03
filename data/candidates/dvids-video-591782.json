@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-591782",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:40:36Z",
   "duration": 343.25,
   "source_file": {
@@ -231,5 +231,6 @@
     289.2,
     310.62,
     332.04
-  ]
+  ],
+  "pass_reason": "news roundup, ceremony, exercise, profile or damage b-roll with no danger on screen"
 }

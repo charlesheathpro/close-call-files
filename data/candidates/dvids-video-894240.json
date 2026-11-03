@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-894240",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:41:33Z",
   "duration": 18.65,
   "source_file": {
@@ -66,5 +66,6 @@
     15.32,
     16.45,
     17.58
-  ]
+  ],
+  "pass_reason": "18 s clip, too short"
 }
