@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:894649",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues woman near Hernando Beach",
+  "description": "A Coast Guard Air Station Clearwater aircrew rescued a woman after she suffered a back injury while aboard a 34-foot boat 73 miles west of Hernando Beach, Aug. 22, 2023. Coast Guard Sector St. Petersburg watchstanders were notified that a 42-year-old woman aboard the boat suffered a back injury after the boat took a wave and she fell to the deck. (U.S. Coast Guard video.)",
+  "keywords": "hoist, SAR, USCG",
+  "date": "2023-08-22T00:00:00-04:00",
+  "date_published": "2023-08-22T16:53:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230822-G-ZZ999-1001",
+  "location": {
+    "city": "Hernando Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/894649/coast-guard-rescues-woman-near-hernando-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-894649",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:23:15Z",
+  "duration": 45.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109843048/DOD_109843048.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 51136423
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      45.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-894649.jpg",
+  "sheet_times": [
+    1.4,
+    4.19,
+    6.99,
+    9.78,
+    12.58,
+    15.37,
+    18.16,
+    20.96,
+    23.75,
+    26.55,
+    29.34,
+    32.14,
+    34.93,
+    37.73,
+    40.52,
+    43.31
+  ]
+}

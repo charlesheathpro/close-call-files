@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:908472",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard Station Cortez rescues mariners off Anna Maria Beach",
+  "description": "Coast Guard Station Cortez crew members rescue two mariners after they were caught in inclement weather off Anna Maria Beach, Florida, Feb. 12, 2023. Both mariners were transported to Station Cortez. (U.S. Coast Guard Video by Petty Officer 3rd Class Alaina Stonestreet.)",
+  "keywords": "Anna Maria Beach",
+  "date": "2023-02-12T00:00:00-05:00",
+  "date_published": "2023-12-19T12:41:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Alaina Stonestreet",
+  "category": "B-Roll",
+  "virin": "230212-G-ET352-1001",
+  "location": {
+    "city": "Anna Maria Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/908472/coast-guard-station-cortez-rescues-mariners-off-anna-maria-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-908472",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:25:35Z",
+  "duration": 21.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110054463/DOD_110054463-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21028160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-908472.jpg",
+  "sheet_times": [
+    0.67,
+    2.01,
+    3.35,
+    4.7,
+    6.04,
+    7.38,
+    8.72,
+    10.06,
+    11.4,
+    12.75,
+    14.09,
+    15.43,
+    16.77,
+    18.11,
+    19.45,
+    20.8
+  ]
+}

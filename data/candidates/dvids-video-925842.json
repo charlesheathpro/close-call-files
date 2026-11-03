@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:925842",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues diver 75 miles offshore Myrtle Beach",
+  "description": "A U.S. Coast Guard Air Station Elizabeth City C-130 Hercules airplane crew assisted in the rescue of a 35-year-old male diver 75 miles offshore Myrtle Beach, South Carolina, on June 1, 2024. The diver drifted away from his vessel while diving, prompting his boat crew to activate their emergency GPS beacon to notify Coast Guard District Seven watch standards they needed assistance. (U.S. Coast Guard video courtesy of Coast Guard Air Station Savannah)",
+  "keywords": "Air Station Elizabeth City, Myrtle Beach, missing diver, Coast Guard, South Carolina, USCG",
+  "date": "2024-05-31T00:00:00-04:00",
+  "date_published": "2024-06-01T13:06:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240601-G-G0107-1194",
+  "location": {
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/925842/coast-guard-rescues-diver-75-miles-offshore-myrtle-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-925842",
+  "status": "new",
+  "harvested_at": "2026-11-03T16:24:10Z",
+  "duration": 56.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110349905/DOD_110349905-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 58992411
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      56.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-925842.jpg",
+  "sheet_times": [
+    1.76,
+    5.28,
+    8.8,
+    12.32,
+    15.84,
+    19.36,
+    22.89,
+    26.41,
+    29.93,
+    33.45,
+    36.97,
+    40.49,
+    44.01,
+    47.53,
+    51.05,
+    54.57
+  ]
+}
