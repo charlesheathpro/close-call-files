@@ -1,38 +1,38 @@
-# Playbook (computed 2026-11-03T10:40:34Z from 40 Shorts older than 48 hours)
+# Playbook (computed 2026-11-03T15:27:33Z from 42 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.72, 3 Shorts)
-- spacecraft or test story (+0.72, 3 Shorts)
-- lane: aviation_naval (+0.62, 4 Shorts)
-- story: launch abort test (+0.49, 1 Shorts)
+- source: nasa (+0.66, 3 Shorts)
+- spacecraft or test story (+0.66, 3 Shorts)
+- lane: aviation_naval (+0.57, 4 Shorts)
 - story: capsized boat, people in the water (+0.48, 1 Shorts)
-- story: splashdown recovery (+0.48, 1 Shorts)
-- music: aviation (+0.45, 2 Shorts)
-- hook names a child (+0.26, 6 Shorts)
+- story: splashdown recovery (+0.45, 1 Shorts)
+- story: launch abort test (+0.44, 1 Shorts)
+- music: aviation (+0.4, 2 Shorts)
+- story: dog cliff rescue (+0.2, 1 Shorts)
 
 ## Do less of
-- music: hazards (-0.65, 4 Shorts)
-- source: dvids (-0.57, 31 Shorts)
-- story: volcano eruption (-0.5, 2 Shorts)
-- lane: hazards (-0.46, 3 Shorts)
-- story: wildfire rescue (-0.39, 1 Shorts)
-- length 45 s or more (-0.31, 2 Shorts)
-- story: cliff hoist (-0.27, 1 Shorts)
-- story: capsized yacht hoist (-0.26, 1 Shorts)
+- music: hazards (-0.59, 4 Shorts)
+- source: dvids (-0.52, 33 Shorts)
+- story: volcano eruption (-0.49, 2 Shorts)
+- lane: hazards (-0.43, 3 Shorts)
+- story: wildfire rescue (-0.34, 1 Shorts)
+- story: surf rescue under cliff (-0.34, 1 Shorts)
+- story: car in water (-0.25, 1 Shorts)
+- length 45 s or more (-0.24, 2 Shorts)
 
 ## Best Shorts
-- Capsule torn off a rocket at Mach 1: 5248 views, 97% watched
-- Orion splashes down after the Moon: 9343 views, 92% watched
-- Boat flipped with a 4-year-old aboard: 18410 views, 74% watched
+- Boat flipped with a 4-year-old aboard: 18468 views, 74% watched
+- Orion splashes down after the Moon: 9352 views, 92% watched
+- Capsule torn off a rocket at Mach 1: 5247 views, 97% watched
 - Dog fell off an Oregon sea cliff: 1288 views, 84% watched
-- Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
+- Tug sinking in Harvey, 4 still aboard: 1327 views, 81% watched
 
 ## Weakest Shorts
-- Lava fountains roar out of Kilauea: 447 views, 74% watched
-- Yacht broke in two on Lake Erie: 1219 views, 37% watched
 - Hiker hurt on an Oregon sea cliff: 824 views, 46% watched
+- Man, 89, trapped in a sinking car: 2110 views, 0% watched
+- Trapped under a sea cliff in the surf: 1325 views, 0% watched
 - 214 people trapped by a wildfire: 342 views, 50% watched
 - Mauna Loa erupts after 38 years: 145 views, 66% watched
 
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261030-09: Strong hook number, but it is one slow, nearly static ISS view for 36 seconds, letterboxed small in the middle of a blurred background, with the solar array cutting into frames at 9.2s and 14.7s.
 - ccf-20261030-10: The hook promises a 3,000 gallon drop that never appears on screen, and the title says it flies into the smoke, which the footage does not show. It is also the same C-130 over a wildfire story as 27-76.
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.3, 'aviation_naval': 0.6, 'hazards': 0.1}
-- query weights for 25 searches
