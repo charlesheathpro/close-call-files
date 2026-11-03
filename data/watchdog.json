@@ -1,23 +1,23 @@
 {
-  "at": "2026-11-03T00:30:00Z",
+  "at": "2026-11-03T08:31:09Z",
   "healthy": false,
   "numbers": {
     "dropped": 28,
-    "uploaded": 53,
-    "passed": 11,
+    "uploaded": 63,
+    "passed": 1,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_next_36h": 2
+    "scheduled_next_36h": 10
   },
   "found": [
-    "passed + scheduled in next 36h is 13 (need 15); buffer needs_build+needs_qa+passed+scheduled is 13 (need 25)",
-    "YouTube upload limit active until 2026-11-03T02:18Z, so passed Shorts are waiting on YouTube, not on a stalled workflow; upload, build, harvest and stats runs all landed in the last 30 hours",
-    "no build errors in the last 24 hours, no auth or upload_error alerts",
-    "rescue supply still thin: 22 more candidates looked at were calm b-roll, interviews, murky door-cam, medical scenes or repeats of published stories; no new spec cleared the viral bar"
+    "passed + scheduled in next 36h was 11 (need 15); buffer 11 (need 25)",
+    "archive harvest pushed at 00:20Z died at 01:14Z when GitHub's runner shut down, so its candidates were never committed",
+    "no scheduled upload run since 04:00Z (hourly cron skipped by GitHub)",
+    "no build errors, no auth or upload_error alerts; stats and harvest landed within 30 hours"
   ],
   "fixed": [
-    "repaired ccf-20261102-10 (adrift sailor and dog) to rev 2, rebuilt and passed",
-    "pushed an archive harvest to triggers/harvest for more rescue supply"
-  ],
-  "needs_charles": null
+    "re-pushed the archive harvest (triggers/harvest)",
+    "pushed triggers/upload to start an upload run",
+    "editor pass: 1 new spec (Hurricane Maria surf drills, ccf-20261103-01), built, recut once and passed; 4 more candidates passed over; rescue supply is mostly unresolved searches and damage assessments, the 433 NASA 'new' candidates are mostly talking heads"
+  ]
 }
