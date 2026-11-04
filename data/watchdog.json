@@ -1,21 +1,22 @@
 {
-  "at": "2026-11-04T08:24:32Z",
+  "at": "2026-11-04T16:25:22Z",
   "healthy": false,
   "numbers": {
     "dropped": 31,
     "uploaded": 68,
-    "passed": 4,
+    "passed": 5,
     "rejected": 1,
-    "scheduled_36h": 5
+    "needs_qa": 0,
+    "scheduled_36h": 2
   },
   "problems": [
-    "thin queue: scheduled 36h + passed below 15, buffer below 25",
-    "YouTube uploadLimitExceeded again (limit until 09:40Z; only 5 uploads in the rolling 24 h)"
+    "thin queue: scheduled 36h + passed = 7, below 15; buffer below 25",
+    "YouTube uploadLimitExceeded on every upload run today (limit until 16:25Z), 2 Shorts scheduled in the next 36 h",
+    "last harvest (05:21Z) was partial and no harvest has landed since"
   ],
   "fixed": [
-    "QA pass: 2 passed (11, 02 rev 2), 1 dropped (03), 01 held until Nov 8",
-    "Fixed build failure on 02 (line 1 too long for its shots)",
-    "Editor pass: reviewed the new rescue, aviation and NASA supply; none cleared the viral bar without repeating a story type from the last 3 days; 7 passed over, Baton Rouge child hoist left new for after Nov 6 (flood hoists 1101-06, 1101-30, 1102-01)",
-    "Harvest run 20 (archive restart) still in progress since 07:25Z, not restarted"
+    "Restarted harvest with an archive trigger",
+    "QA: recut and passed Crew-6 splashdown (04 rev 2, score 7)",
+    "Editor pass not repeated: no new candidates since the 08:24Z and 12:50Z editor triage, which found none clearing the viral bar; Baton Rouge child hoist still held until after Nov 6 (flood hoist variety)"
   ]
 }
