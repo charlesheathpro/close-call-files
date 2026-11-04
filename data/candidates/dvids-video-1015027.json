@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1015027",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:05:32Z",
   "duration": 747.63,
   "source_file": {
@@ -62,5 +62,6 @@
     630.39,
     677.09,
     723.79
-  ]
+  ],
+  "pass_reason": "Training b-roll, narrow fisheye vertical, no real event."
 }

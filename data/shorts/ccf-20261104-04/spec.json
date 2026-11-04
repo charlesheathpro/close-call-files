@@ -1,0 +1,174 @@
+{
+  "short_id": "ccf-20261104-04",
+  "candidate_id": "nasa-jcs2023m000039-Space-to-Ground-489-230908",
+  "revision": 1,
+  "lane": "aviation_naval",
+  "story_type": "crew capsule splashdown",
+  "music_mood": "aviation",
+  "priority": 3,
+  "hook": "Four people rode this capsule down from orbit.",
+  "narration": [
+    "Four people were inside this capsule as it fell out of orbit.",
+    "SpaceX Crew-6 had lived on the space station for one hundred eighty-six days.",
+    "On September third, 2023, their Dragon undocked and headed home.",
+    "Four minutes out, at three hundred fifty miles an hour, two small drogue chutes opened.",
+    "Then the four main parachutes opened, about six thousand feet up.",
+    "Drogues steady a falling capsule so the big mains can open safely.",
+    "[short pause] It splashed down off Jacksonville, Florida.",
+    "The recovery ship hoisted the capsule onto its main deck with the astronauts still inside."
+  ],
+  "outcome": "Then the crew was taken out of the spacecraft, back on Earth at last.",
+  "location_card": {
+    "place": "Off Jacksonville, Florida",
+    "date": "Sept. 4, 2023"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 61.0,
+        "end": 63.6,
+        "layout": "crop",
+        "crop_x": 0.47
+      }
+    ],
+    [
+      {
+        "start": 18.0,
+        "end": 21.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 14.0,
+        "end": 16.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "layout": "crop",
+        "crop_x": 0.4,
+        "speed": 0.9
+      }
+    ],
+    [
+      {
+        "start": 44.0,
+        "end": 46.2,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 46.2,
+        "end": 48.2,
+        "layout": "crop",
+        "crop_x": 0.44
+      }
+    ],
+    [
+      {
+        "start": 48.4,
+        "end": 51.6,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 51.6,
+        "end": 55.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 55.0,
+        "end": 58.5,
+        "layout": "crop",
+        "crop_x": 0.47
+      }
+    ],
+    [
+      {
+        "start": 63.6,
+        "end": 66.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 67.0,
+        "end": 70.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 71.0,
+        "end": 74.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 75.5,
+        "end": 78.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 79.0,
+        "end": 82.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 58.5,
+        "end": 61.0,
+        "layout": "crop",
+        "crop_x": 0.47
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "Falling from orbit with 4 people inside",
+  "description": "NASA's SpaceX Crew-6 returned from the International Space Station in the Dragon Endeavour, which splashed down off Jacksonville, Florida, on Sept. 4, 2023, after 186 days in space.\n\nFootage: NASA JSC video, via the NASA Image and Video Library: https://images.nasa.gov/details/jcs2023m000039_Space%20to%20Ground_489_230908\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #splashdown #spacex",
+  "tags": [
+    "nasa",
+    "spacex",
+    "crew-6",
+    "dragon endeavour",
+    "splashdown",
+    "parachutes",
+    "space station",
+    "astronauts",
+    "real footage"
+  ],
+  "question_comment": "Would you ride a capsule home from orbit?",
+  "facts": [
+    {
+      "claim": "Crew-6 undocked Sept 3",
+      "source_quote": "ON SUNDAY, SEPTEMBER 3RD, THE MEMBERS OF NASA’S SPACEX CREW-6,"
+    },
+    {
+      "claim": "350 mph four minutes before splashdown when drogues deployed",
+      "source_quote": "FOUR MINUTES BEFORE SPLASHDOWN, THE DRAGON WAS TRAVELING"
+    },
+    {
+      "claim": "Mains at about 6,000 feet",
+      "source_quote": "AND LESS THAN A MINUTE LATER, THE MAIN PARACHUTES DEPLOYED"
+    },
+    {
+      "claim": "Landed Sept 4 off Jacksonville after 186 days",
+      "source_quote": "OF SEPTEMBER 4TH OFF THE COAST OF JACKSONVILLE, FLORIDA,"
+    },
+    {
+      "claim": "Hoisted onto main deck with astronauts inside, then crew taken out",
+      "source_quote": "AND HOIST THE CAPSULE ONTO THE MAIN DECK"
+    }
+  ],
+  "preview_ok": "L2 shot 2 is the Dragon against black space; DARK is the background, the capsule is clearly in frame (checked shot_preview.jpg)"
+}

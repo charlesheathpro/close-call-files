@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1000435",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:01:49Z",
   "duration": 56.89,
   "source_file": {
@@ -186,5 +186,6 @@
     47.58,
     51.1,
     54.63
-  ]
+  ],
+  "pass_reason": "Squadron showcase montage, no event."
 }

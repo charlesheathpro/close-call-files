@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1027659",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T16:35:08Z",
   "duration": 71.91,
   "source_file": {
@@ -72,5 +72,6 @@
     60.25,
     64.71,
     69.17
-  ]
+  ],
+  "pass_reason": "Routine carrier flight deck ops, no danger."
 }

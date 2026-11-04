@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-487204",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:42:32Z",
   "duration": 95.16,
   "source_file": {
@@ -83,5 +83,6 @@
     79.87,
     85.78,
     91.7
-  ]
+  ],
+  "pass_reason": "Small letterboxed HUD camera footage with heavy overlay; murky source."
 }

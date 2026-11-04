@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jcs2023m000039-Space-to-Ground-489-230908",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:27:44Z",
   "duration": 149.73,
   "source_file": {
@@ -254,5 +254,6 @@
     125.92,
     135.24,
     144.57
-  ]
+  ],
+  "used_by": "ccf-20261104-04"
 }

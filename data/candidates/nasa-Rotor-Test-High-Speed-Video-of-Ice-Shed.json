@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Rotor-Test-High-Speed-Video-of-Ice-Shed",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:13:30Z",
   "duration": 36.87,
   "source_file": {
@@ -50,5 +50,6 @@
     30.68,
     32.96,
     35.23
-  ]
+  ],
+  "pass_reason": "Dark lab high-speed clip, no stakes."
 }

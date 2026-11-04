@@ -26,7 +26,7 @@
   "time_start": 6.07273,
   "aspect_ratio": "16:9",
   "id": "dvids-video-637016",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:32:11Z",
   "duration": 64.3,
   "source_file": {
@@ -185,5 +185,6 @@
     54.78,
     58.39,
     61.99
-  ]
+  ],
+  "pass_reason": "Crash recovery training, no danger."
 }
