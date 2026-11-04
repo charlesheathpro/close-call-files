@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-150778",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:14:19Z",
   "duration": 59.31,
   "source_file": {
@@ -97,5 +97,6 @@
     50.24,
     53.67,
     57.09
-  ]
+  ],
+  "pass_reason": "training exercise at a mock retirement home"
 }

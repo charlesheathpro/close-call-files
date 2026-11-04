@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000811-WSTF-Hypervelocity-Impact-Testing",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:13:50Z",
   "duration": 90.71,
   "source_file": {
@@ -368,5 +368,6 @@
     76.11,
     81.75,
     87.39
-  ]
+  ],
+  "pass_reason": "facility capability reel, mostly lab b-roll and graphics, impacts barely visible"
 }

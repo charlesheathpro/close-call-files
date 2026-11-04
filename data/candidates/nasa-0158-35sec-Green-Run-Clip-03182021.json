@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-0158-35sec-Green-Run-Clip-03182021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:52:17Z",
   "duration": 35.35,
   "source_file": {
@@ -68,5 +68,6 @@
     29.4,
     31.58,
     33.76
-  ]
+  ],
+  "pass_reason": "second Green Run test, same event family as ccf-20261103-30 queued this week"
 }
