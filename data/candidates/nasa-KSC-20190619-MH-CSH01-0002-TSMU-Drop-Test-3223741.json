@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190619-MH-CSH01-0002-TSMU-Drop-Test-3223741",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:19:09Z",
   "duration": 52.5,
   "source_file": {
@@ -60,5 +60,6 @@
     43.88,
     47.12,
     50.38
-  ]
+  ],
+  "pass_reason": "Ground equipment test with no release text and no danger."
 }

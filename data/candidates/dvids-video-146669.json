@@ -26,7 +26,7 @@
   "time_start": 5.00501,
   "aspect_ratio": "16:9",
   "id": "dvids-video-146669",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:01:59Z",
   "duration": 641.86,
   "source_file": {
@@ -822,5 +822,6 @@
     541.93,
     581.7,
     621.47
-  ]
+  ],
+  "pass_reason": "Ejection seat shop b-roll; no event."
 }

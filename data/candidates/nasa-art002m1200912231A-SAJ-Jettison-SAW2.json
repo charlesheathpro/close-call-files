@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-art002m1200912231A-SAJ-Jettison-SAW2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:15:41Z",
   "duration": 42.4,
   "source_file": {
@@ -62,5 +62,6 @@
     35.35,
     37.97,
     40.59
-  ]
+  ],
+  "pass_reason": "Panels fly off in the first 6 s, then 35 s of a static Earth view; no danger or close call."
 }

@@ -26,7 +26,7 @@
   "time_start": 12.3457,
   "aspect_ratio": "16:9",
   "id": "dvids-video-342115",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:46:22Z",
   "duration": 110.19,
   "source_file": {
@@ -140,5 +140,6 @@
     94.48,
     100.56,
     106.64
-  ]
+  ],
+  "pass_reason": "Wreck recovery days after the crash; aftermath only."
 }

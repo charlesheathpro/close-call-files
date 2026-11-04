@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-468604",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:41:30Z",
   "duration": 56.7,
   "source_file": {
@@ -116,5 +116,6 @@
     48.05,
     51.31,
     54.57
-  ]
+  ],
+  "pass_reason": "Crash site support after the collision; aftermath only, shaky."
 }

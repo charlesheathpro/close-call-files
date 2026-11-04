@@ -26,7 +26,7 @@
   "time_start": 4.0587,
   "aspect_ratio": "16:9",
   "id": "dvids-video-465821",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:13:51Z",
   "duration": 252.56,
   "source_file": {
@@ -257,5 +257,6 @@
     213.31,
     228.81,
     244.31
-  ]
+  ],
+  "pass_reason": "Courtesy NATO footage, not a U.S. federal work."
 }
