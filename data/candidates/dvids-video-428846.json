@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:428846",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Boater, Cat 21 Miles Off Atlantic City, NJ",
+  "description": "A Coast Guard boat crew and helicopter crew work together to rescue a man and a cat from a disabled sailboat 21 miles east of Atlantic City, N.J., Sunday, Oct. 18, 2015. The man was hoisted and transferred to EMS personnel, and the cat and sailboat were brought to Farley State Marina in Atlantic City. U.S. Coast Guard video",
+  "keywords": "Coast Guard rescue, SAR",
+  "date": "2015-10-18T00:00:00-04:00",
+  "date_published": "2015-10-18T16:14:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Chief Petty Officer Nick Ameen",
+  "category": "B-Roll",
+  "virin": "151018-G-ZE884-502",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/428846/coast-guard-rescues-boater-cat-21-miles-off-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-428846",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:13:44Z",
+  "duration": 64.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102811190/DOD_102811190.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8689,
+    "size": 70679829
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.97,
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      64.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-428846.jpg",
+  "sheet_times": [
+    5.89,
+    9.61,
+    13.33,
+    17.05,
+    20.78,
+    24.5,
+    28.22,
+    31.94,
+    35.67,
+    39.39,
+    43.11,
+    46.84,
+    50.56,
+    54.28,
+    58.0,
+    61.73
+  ]
+}

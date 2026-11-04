@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:479258",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Baton Rouge Flooding: Child Hoist",
+  "description": "An MH-65 Dolphin helicopter aircrew hoists a child due to flooding in Baton Rouge, August 14, 2016. The Coast Guard is assisting local, state and federal agencies during flooding in Baton Rouge. U.S. Coast Guard video",
+  "keywords": "flooding, Coast Guard rescue, Southern Floods 2016, August Highlight 2016, Top10VOTY2016, Coast Guard, Baton Rouge",
+  "date": "2016-08-14T00:00:00-04:00",
+  "date_published": "2016-08-14T23:03:59-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Lora Ratliff",
+  "category": "B-Roll",
+  "virin": "160814-G-ZZ999-003",
+  "location": {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/479258/baton-rouge-flooding-child-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-479258",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:12:42Z",
+  "duration": 39.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103571282/DOD_103571282.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6546,
+    "size": 32898533
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.56,
+      "e": 5.56,
+      "text": "All the way up."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    34.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      34.5
+    ],
+    "silence_ends": [
+      4.0,
+      39.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-479258.jpg",
+  "sheet_times": [
+    5.12,
+    7.31,
+    9.49,
+    11.68,
+    13.87,
+    16.05,
+    18.24,
+    20.43,
+    22.62,
+    24.8,
+    26.99,
+    29.18,
+    31.36,
+    33.55,
+    35.74,
+    37.93
+  ]
+}

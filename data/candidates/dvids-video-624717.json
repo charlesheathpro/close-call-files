@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:624717",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "emergency landing",
+  "title": "B-Roll Black Hawks Landing on Flight line",
+  "description": "Three North Carolina Army National Guard Black Hawk Helicopters land on the 145th Airlift Wing flight line as part of storm preparation for Hurricane Florence, while at the North Carolina Air National Guard Base, Charlotte Douglas International Airport, September 12, 2018. Hurricane Florence is one of the largest storms to hit the Carolinas in years and has ignited a massive response from emergency services.",
+  "keywords": "soldiers, NCANG, 145th Airlift Wing, NCARNG, hurricaneflorence, Black Hawk, Air National Guard, Emergency Response",
+  "date": "2018-09-12T00:00:00-04:00",
+  "date_published": "2018-09-12T19:11:40-04:00",
+  "branch": "Air Force",
+  "unit_name": "145th Airlift Wing, North Carolina Air National Guard",
+  "credit": "Tech. Sgt. Nathan Clark",
+  "category": "B-Roll",
+  "virin": "180912-Z-BQ359-1001",
+  "location": {
+    "city": "CHARLOTTE",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/624717/b-roll-black-hawks-landing-flight-line",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-624717",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:14:28Z",
+  "duration": 655.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106012140/DOD_106012140.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8640,
+    "size": 719107233
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.28,
+    637.07
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      637.1
+    ],
+    "silence_ends": [
+      655.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-624717.jpg",
+  "sheet_times": [
+    20.47,
+    61.42,
+    102.37,
+    143.31,
+    184.26,
+    225.2,
+    266.15,
+    307.1,
+    348.04,
+    388.99,
+    429.93,
+    470.88,
+    511.83,
+    552.77,
+    593.72,
+    634.66
+  ]
+}

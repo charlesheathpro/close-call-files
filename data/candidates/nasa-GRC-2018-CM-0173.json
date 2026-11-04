@@ -1,0 +1,76 @@
+{
+  "asset_id": "nasa:GRC-2018-CM-0173",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "Acoustic Evaluation Tests of Orion Ascent Abort 2 Hardware in the Space Environments Complex Time-lapse",
+  "description": "Time-lapse of Acoustic Evaluation Tests of Orion Ascent Abort 2 Hardware in the NASA Glenn Research Centers Plum Brook Station’s Space Environments Complex.",
+  "keywords": "GRC-2018-CM-0173, Acoustics, Space Environments Complex (SEC), Ascent Abort-2AA-2Documentation, Orion, Plum Brook Station, Social Media, Space, Space Science, Spacecraft, Testing, Timelapse",
+  "date": "2018-10-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GRC",
+  "credit": "NASA GRC video",
+  "page_url": "https://images.nasa.gov/details/GRC-2018-CM-0173",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GRC-2018-CM-0173",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:13:39Z",
+  "duration": 91.23,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GRC-2018-CM-0173/GRC-2018-CM-0173~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.0,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    0.1,
+    12.97,
+    15.5,
+    18.07,
+    20.73,
+    22.8,
+    33.57,
+    37.03,
+    43.3,
+    62.3,
+    76.77,
+    78.4,
+    82.2,
+    84.93,
+    90.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GRC-2018-CM-0173.jpg",
+  "sheet_times": [
+    2.84,
+    8.51,
+    14.18,
+    19.85,
+    25.52,
+    31.19,
+    36.86,
+    42.53,
+    48.2,
+    53.87,
+    59.54,
+    65.21,
+    70.89,
+    76.56,
+    82.23,
+    87.9
+  ]
+}
