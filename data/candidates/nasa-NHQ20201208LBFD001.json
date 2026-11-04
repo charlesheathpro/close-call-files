@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "X-59",
   "title": "LBFD Mission - The Inside Scoop - Summer Fall 2020 Video",
-  "description": "In this edition of the Low-Boom Flight Demonstration newsletter, you’ll get a glimpse into the great progress NASA and Lockheed Martin are making on the X-59 QueSST aircraft, how team members are making the most out of working from home, and what they’re doing to engage the public.  For more information, visit https://www.nasa.gov/X59",
+  "description": "In this edition of the Low-Boom Flight Demonstration newsletter, you\u2019ll get a glimpse into the great progress NASA and Lockheed Martin are making on the X-59 QueSST aircraft, how team members are making the most out of working from home, and what they\u2019re doing to engage the public.  For more information, visit https://www.nasa.gov/X59",
   "keywords": "nasa, LBFD, Low-Boom, Low Boom, X-59, X59, Lockheed Martin, aeronautics, ARMD, Supersonic, Low-Boom Flight Demonstration, Inside the quesst",
   "date": "2020-12-08T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20201208LBFD001",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:25:35Z",
   "duration": 120.5,
   "source_file": {
@@ -76,5 +76,6 @@
     101.25,
     108.75,
     116.25
-  ]
+  ],
+  "pass_reason": "facility, logistics or aftermath footage; nothing happens"
 }

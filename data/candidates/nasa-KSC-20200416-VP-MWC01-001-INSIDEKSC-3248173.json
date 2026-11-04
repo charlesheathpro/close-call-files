@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "launch abort",
   "title": "Inside KSC! for April 17, 2020",
-  "description": "A critical piece of hardware in support of NASA’s Artemis II crewed mission arrived at Kennedy Space Center on Monday. The launch abort motor for Orion’s Launch Abort System, or LAS, arrived from Northrop Grumman in Utah. It was transported to the Launch Abort System Facility. where it will undergo testing to prepare it for flight. Fifty years ago this month, the Apollo 13 mission launched on what would have been the third flight to land astronauts on the Moon. The Saturn V rocket, with the Apollo crew and service modules atop, lifted off from Launch Pad 39A on April 11, 1970.  On board, were Commander James Lovell Jr., Command Module Pilot Jack Swigert Jr., and Lunar Module Pilot Fred Haise Jr.",
+  "description": "A critical piece of hardware in support of NASA\u2019s Artemis II crewed mission arrived at Kennedy Space Center on Monday. The launch abort motor for Orion\u2019s Launch Abort System, or LAS, arrived from Northrop Grumman in Utah. It was transported to the Launch Abort System Facility. where it will undergo testing to prepare it for flight. Fifty years ago this month, the Apollo 13 mission launched on what would have been the third flight to land astronauts on the Moon. The Saturn V rocket, with the Apollo crew and service modules atop, lifted off from Launch Pad 39A on April 11, 1970.  On board, were Commander James Lovell Jr., Command Module Pilot Jack Swigert Jr., and Lunar Module Pilot Fred Haise Jr.",
   "keywords": "NASA, KSC, Kennedy, Launch Abort System, LAS, Orion, Exploration, Apollo 13, Moon, History",
   "date": "2020-04-17T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200416-VP-MWC01-001-INSIDEKSC-3248173",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:49:57Z",
   "duration": 137.87,
   "source_file": {
@@ -94,5 +94,6 @@
     115.9,
     124.49,
     133.07
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

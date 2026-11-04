@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "hurricane from space",
   "title": "Intense String of Hurricanes Seen from Space",
-  "description": "In 2017, we have seen four Atlantic storms rapidly intensify with three of those storms - Hurricane Harvey, Irma and Maria - making landfall. When hurricanes intensify a large amount in a short period, scientists call this process rapid intensification. This is the hardest aspect of a storm to forecast and it can be most critical to people’s lives.  While any hurricane can threaten lives and cause damage with storm surges, floods, and extreme winds, a rapidly intensifying hurricane can greatly increase these risks while giving populations limited time to prepare and evacuate.",
+  "description": "In 2017, we have seen four Atlantic storms rapidly intensify with three of those storms - Hurricane Harvey, Irma and Maria - making landfall. When hurricanes intensify a large amount in a short period, scientists call this process rapid intensification. This is the hardest aspect of a storm to forecast and it can be most critical to people\u2019s lives.  While any hurricane can threaten lives and cause damage with storm surges, floods, and extreme winds, a rapidly intensifying hurricane can greatly increase these risks while giving populations limited time to prepare and evacuate.",
   "keywords": "Atmospheric Science, GPM, Global Precipitation Measurement, Natural Hazards, Physical Oceanography, Hurricanes, Storms, Sea Surface Temperature, Earth",
   "date": "2017-10-04T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20171004-m12738-RapidIntensification",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:44:56Z",
   "duration": 153.9,
   "source_file": {
@@ -251,5 +251,6 @@
     129.43,
     139.02,
     148.61
-  ]
+  ],
+  "pass_reason": "satellite and from-space views; QA rejects these"
 }

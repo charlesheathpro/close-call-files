@@ -3,8 +3,8 @@
   "source": "nasa",
   "lane": "hazards",
   "matched_query": "wildfire",
-  "title": "NASA's Worldview – Two Decades of Earth Data",
-  "description": "Powerful Earth-observing instruments aboard NASA's Terra and Aqua satellites, launched in 1999 and 2002, respectively, have observed nearly two decades of planetary change. Now, for the first time, all that imagery—from the first operational image to imagery acquired today—is available for exploration in Worldview. Thanks to the efforts of several NASA teams, the public can now interactively browse all global imagery from the Moderate Resolution Imaging Spectroradiometer (MODIS) instrument quickly and easily from the comfort of a home computer. All global MODIS imagery dating back to the operational start of MODIS in 2000 is available through NASA's Global Imagery Browse Services (GIBS) for viewing using NASA's Worldview application. And there is a lot to see.  This achievement is the result of more than a half-decade of work and represents the longest continuous daily global satellite observation record of Earth ever compiled. For researchers, the ability to rapidly access and explore all MODIS global imagery greatly improves their use of these data.  GIBS provides access to more than 600 satellite imagery products covering every part of the world. Worldview pulls imagery from GIBS and allows users to interactively overlay all of these data products on top of a MODIS global base map from Terra or Aqua. Worldview users can even create data animations at the touch of a button and easily share imagery. Both GIBS and Worldview are part of NASA's Earth Observing System Data and Information System (EOSDIS), which provides end-to-end capabilities for managing NASA Earth-observing data.",
+  "title": "NASA's Worldview \u2013 Two Decades of Earth Data",
+  "description": "Powerful Earth-observing instruments aboard NASA's Terra and Aqua satellites, launched in 1999 and 2002, respectively, have observed nearly two decades of planetary change. Now, for the first time, all that imagery\u2014from the first operational image to imagery acquired today\u2014is available for exploration in Worldview. Thanks to the efforts of several NASA teams, the public can now interactively browse all global imagery from the Moderate Resolution Imaging Spectroradiometer (MODIS) instrument quickly and easily from the comfort of a home computer. All global MODIS imagery dating back to the operational start of MODIS in 2000 is available through NASA's Global Imagery Browse Services (GIBS) for viewing using NASA's Worldview application. And there is a lot to see.  This achievement is the result of more than a half-decade of work and represents the longest continuous daily global satellite observation record of Earth ever compiled. For researchers, the ability to rapidly access and explore all MODIS global imagery greatly improves their use of these data.  GIBS provides access to more than 600 satellite imagery products covering every part of the world. Worldview pulls imagery from GIBS and allows users to interactively overlay all of these data products on top of a MODIS global base map from Terra or Aqua. Worldview users can even create data animations at the touch of a button and easily share imagery. Both GIBS and Worldview are part of NASA's Earth Observing System Data and Information System (EOSDIS), which provides end-to-end capabilities for managing NASA Earth-observing data.",
   "keywords": "Terra, MODIS, Aqua, Earth, Worldview",
   "date": "2018-06-05T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180605-MODIS-m12819-EarthData",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:56:03Z",
   "duration": 137.09,
   "source_file": {
@@ -396,5 +396,6 @@
     115.25,
     123.78,
     132.32
-  ]
+  ],
+  "pass_reason": "science explainer with animation and narration"
 }

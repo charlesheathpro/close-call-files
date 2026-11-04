@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200312-MH-FMX01-0001-Underway-Recovery-Test-8-Day-1-Activities-3229236",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:18:12Z",
   "duration": 62.2,
   "source_file": {
@@ -62,5 +62,6 @@
     52.06,
     55.92,
     59.77
-  ]
+  ],
+  "pass_reason": "recovery drill in calm seas; training with no danger on screen"
 }

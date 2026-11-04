@@ -3,8 +3,8 @@
   "source": "nasa",
   "lane": "hazards",
   "matched_query": "landslide",
-  "title": "NASA’s Curiosity Rover Finds New Clues to Mars’ Watery Past",
-  "description": "NASA’s Curiosity Mars rover has discovered lots of evidence of ancient lakes on the Red Planet – and this recent panorama shows intriguing new clues.",
+  "title": "NASA\u2019s Curiosity Rover Finds New Clues to Mars\u2019 Watery Past",
+  "description": "NASA\u2019s Curiosity Mars rover has discovered lots of evidence of ancient lakes on the Red Planet \u2013 and this recent panorama shows intriguing new clues.",
   "keywords": "Mars News, NASA, Jet Propulsion Laboratory, JPL, Mars, Red Planet, Curiosity, MSL, rover, Mars rover, tech, technology, robots, robotic exploration, discoveries, ancient life, habitable environments, Mars Reconnaissance Orbiter, Orbiter, MRO, HiRISE, panorama, marker band, watery past, clues, Mount Sharp, debris, rocks, drill, landslides, Ashwin Vasavada, water on Mars, Mars Science Laboratory, Curiosity Project Scientist",
   "date": "2023-02-08T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20230208-MSLf-0001-Curiosity-Finds-New-Clues-to-Mars-Watery-Past",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:48:58Z",
   "duration": 190.4,
   "source_file": {
@@ -299,5 +299,6 @@
     160.23,
     172.1,
     183.97
-  ]
+  ],
+  "pass_reason": "science explainer with animation and narration"
 }

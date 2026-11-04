@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "X-59",
   "title": "NASA Minute: April 17, 2026",
-  "description": "Artemis II is safely home, the X‑59 ramps up flight testing, Cygnus docks with the Space Station, and SPHEREx uncovers mysteries of the universe.  Here’s what you need to know in your NASA Minute.",
+  "description": "Artemis II is safely home, the X\u201159 ramps up flight testing, Cygnus docks with the Space Station, and SPHEREx uncovers mysteries of the universe.  Here\u2019s what you need to know in your NASA Minute.",
   "keywords": "NASA, NASA Deputy Press Secretary George Alderman, SPHEREx, Cygnus, X-59, Orion Spacecraft, Artemis II, Artemis III, Interstellar Ice",
   "date": "2026-04-17T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Minute-April-17-2026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:24:09Z",
   "duration": 132.27,
   "source_file": {
@@ -44,7 +44,7 @@
     {
       "s": 3.83,
       "e": 4.93,
-      "text": "Hereâs what you need to know,"
+      "text": "Here\u00e2\u0080\u0099s what you need to know,"
     },
     {
       "s": 4.93,
@@ -54,7 +54,7 @@
     {
       "s": 7.3,
       "e": 9.0,
-      "text": "Last week, NASAâs Artemis II"
+      "text": "Last week, NASA\u00e2\u0080\u0099s Artemis II"
     },
     {
       "s": 9.0,
@@ -69,7 +69,7 @@
     {
       "s": 11.93,
       "e": 13.33,
-      "text": "re-entered Earthâs atmosphere"
+      "text": "re-entered Earth\u00e2\u0080\u0099s atmosphere"
     },
     {
       "s": 13.33,
@@ -129,12 +129,12 @@
     {
       "s": 32.47,
       "e": 34.03,
-      "text": "Itâs a special thing  to be a human,"
+      "text": "It\u00e2\u0080\u0099s a special thing  to be a human,"
     },
     {
       "s": 34.03,
       "e": 35.63,
-      "text": "Itâs a special thing  to be on planet Earth."
+      "text": "It\u00e2\u0080\u0099s a special thing  to be on planet Earth."
     },
     {
       "s": 35.63,
@@ -154,7 +154,7 @@
     {
       "s": 43.77,
       "e": 45.33,
-      "text": "Stay tuned, because weâre already"
+      "text": "Stay tuned, because we\u00e2\u0080\u0099re already"
     },
     {
       "s": 45.33,
@@ -199,7 +199,7 @@
     {
       "s": 59.2,
       "e": 61.9,
-      "text": "NASAâs X-59 quiet  supersonic jet"
+      "text": "NASA\u00e2\u0080\u0099s X-59 quiet  supersonic jet"
     },
     {
       "s": 61.9,
@@ -229,7 +229,7 @@
     {
       "s": 71.4,
       "e": 73.1,
-      "text": "and pushing higher and faster â"
+      "text": "and pushing higher and faster \u00e2\u0080\u0094"
     },
     {
       "s": 73.1,
@@ -269,7 +269,7 @@
     {
       "s": 87.77,
       "e": 90.43,
-      "text": "used the stationâs Canadarm2 robotic arm"
+      "text": "used the station\u00e2\u0080\u0099s Canadarm2 robotic arm"
     },
     {
       "s": 90.43,
@@ -299,7 +299,7 @@
     {
       "s": 100.0,
       "e": 102.27,
-      "text": "And finally, NASAâs SPHEREx mission"
+      "text": "And finally, NASA\u00e2\u0080\u0099s SPHEREx mission"
     },
     {
       "s": 102.27,
@@ -339,7 +339,7 @@
     {
       "s": 115.4,
       "e": 118.4,
-      "text": "comets â and Earth itself."
+      "text": "comets \u00e2\u0080\u0094 and Earth itself."
     },
     {
       "s": 118.4,
@@ -349,7 +349,7 @@
     {
       "s": 120.03,
       "e": 121.8,
-      "text": "of Space Exploration, because weâre"
+      "text": "of Space Exploration, because we\u00e2\u0080\u0099re"
     },
     {
       "s": 121.8,
@@ -364,7 +364,7 @@
     {
       "s": 124.6,
       "e": 125.4,
-      "text": "weâll see you next week."
+      "text": "we\u00e2\u0080\u0099ll see you next week."
     }
   ],
   "scene_cuts": [
@@ -424,5 +424,6 @@
     111.18,
     119.41,
     127.65
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

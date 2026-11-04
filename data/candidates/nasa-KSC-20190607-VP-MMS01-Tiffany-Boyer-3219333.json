@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190607-VP-MMS01-Tiffany-Boyer-3219333",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:48:18Z",
   "duration": 118.57,
   "source_file": {
@@ -153,5 +153,6 @@
     99.62,
     107.0,
     114.38
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

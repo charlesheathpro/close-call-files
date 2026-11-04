@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "Orion recovery",
   "title": "Artemis I Launch - Firing Room 1, LCC",
-  "description": "NASA’s Space Launch System and Orion spacecraft launched from the center’s launch pad 39B for the Artemis I mission on November 16. This will be an uncrewed flight test that will demonstrate the ability of the SLS rocket to safely carry the Orion spacecraft around the Moon and its return and recovery to Earth for the agency’s Artemis Program.",
+  "description": "NASA\u2019s Space Launch System and Orion spacecraft launched from the center\u2019s launch pad 39B for the Artemis I mission on November 16. This will be an uncrewed flight test that will demonstrate the ability of the SLS rocket to safely carry the Orion spacecraft around the Moon and its return and recovery to Earth for the agency\u2019s Artemis Program.",
   "keywords": "LCC, Artemis 1, Orion, Firing Room One, KSC, Kennedy Space Center, 39A",
   "date": "2022-11-16T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221116-MH-GEB01-0002-Artemis-Firing-Room-Launch-Day-WON-3321120",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:16:05Z",
   "duration": 413.37,
   "source_file": {
@@ -253,5 +253,6 @@
     348.36,
     374.16,
     399.96
-  ]
+  ],
+  "pass_reason": "control room interior only (consoles, staff, speech); the launch itself never appears"
 }

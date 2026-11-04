@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "splashdown",
   "title": "CRS-21 Science Return to Kennedy",
-  "description": "Video B-roll of CRS-21 science return to NASA’s Kennedy Space Center in Florida. After splashdown, SpaceX loaded Dragon aboard their Go Navigator recovery ship and packed an Airbus H225 helicopter with the time-sensitive research cargo for delivery to NASA’s Kennedy Space Center. The helicopter arrived at the center’s Launch and Landing Facility in the late Wednesday, Jan. 13, 2020 and SpaceX offloaded the cargo. NASA teams inspected the cargo and transported it to the center’s Space Station Processing Facility (SSPF). The research arrived at the labs in less than six hours from splashdown.",
+  "description": "Video B-roll of CRS-21 science return to NASA\u2019s Kennedy Space Center in Florida. After splashdown, SpaceX loaded Dragon aboard their Go Navigator recovery ship and packed an Airbus H225 helicopter with the time-sensitive research cargo for delivery to NASA\u2019s Kennedy Space Center. The helicopter arrived at the center\u2019s Launch and Landing Facility in the late Wednesday, Jan. 13, 2020 and SpaceX offloaded the cargo. NASA teams inspected the cargo and transported it to the center\u2019s Space Station Processing Facility (SSPF). The research arrived at the labs in less than six hours from splashdown.",
   "keywords": "Commercial Resupply Services, ISS, International Space Station, Dragon, SpaceX, Splashdown, Science, SSPF, Space Station Processing Facility, Launch and Landing Facility, KSC, Kennedy Space Center",
   "date": "2021-01-14T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210114-MH-NAS01-0001-CRS-21-Experiment-Return-and-Unpacking-at-LLF-SSPF-32",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:48:30Z",
   "duration": 75.07,
   "source_file": {
@@ -77,5 +77,6 @@
     62.92,
     67.58,
     72.24
-  ]
+  ],
+  "pass_reason": "facility, logistics or aftermath footage; nothing happens"
 }

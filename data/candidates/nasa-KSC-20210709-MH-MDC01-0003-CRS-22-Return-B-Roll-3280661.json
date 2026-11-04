@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210709-MH-MDC01-0003-CRS-22-Return-B-Roll-3280661",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:48:36Z",
   "duration": 238.06,
   "source_file": {
@@ -193,5 +193,6 @@
     200.44,
     215.29,
     230.13
-  ]
+  ],
+  "pass_reason": "cargo unloading and lab work after splashdown; no danger or spectacle"
 }

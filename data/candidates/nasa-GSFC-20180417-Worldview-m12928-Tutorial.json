@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "wildfire",
   "title": "How to View and Share Your Planet with Worldview",
-  "description": "NASA’s Worldview app lets you explore Earth as it looks right now or as it looked almost 20 years ago. Through an easy-to-use map interface, you can watch tropical storms developing over the Pacific Ocean; track the movement of icebergs after they calve from glaciers and ice shelves; see wildfires spread and grow as they burn vegetation in its path. Pan-and-zoom to your region of the world to see not only what it looks like today, but to investigate changes over time. Worldview's nighttime lights layers provides a truly unique perspective of our planet at night.  What else can you do with Worldview? Add imagery layers by discipline, natural hazard, or key word to learn more about what’s happening on this dynamic planet. View Earth’s frozen regions with the Arctic and Antarctic views. Take a look at current natural events like tropical storms, volcanic eruptions, wildfires and icebergs at the touch of a button using the “Events” tab. See a view you like? Take a snapshot and share your map with a friend or colleague. Want to track the spread of a wildfire? You can even create an animated gif to see change over time.",
+  "description": "NASA\u2019s Worldview app lets you explore Earth as it looks right now or as it looked almost 20 years ago. Through an easy-to-use map interface, you can watch tropical storms developing over the Pacific Ocean; track the movement of icebergs after they calve from glaciers and ice shelves; see wildfires spread and grow as they burn vegetation in its path. Pan-and-zoom to your region of the world to see not only what it looks like today, but to investigate changes over time. Worldview's nighttime lights layers provides a truly unique perspective of our planet at night.  What else can you do with Worldview? Add imagery layers by discipline, natural hazard, or key word to learn more about what\u2019s happening on this dynamic planet. View Earth\u2019s frozen regions with the Arctic and Antarctic views. Take a look at current natural events like tropical storms, volcanic eruptions, wildfires and icebergs at the touch of a button using the \u201cEvents\u201d tab. See a view you like? Take a snapshot and share your map with a friend or colleague. Want to track the spread of a wildfire? You can even create an animated gif to see change over time.",
   "keywords": "Earth Day, Earth Science, Terra, MODIS, Earth, Suomi",
   "date": "2018-04-17T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180417-Worldview-m12928-Tutorial",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:37:20Z",
   "duration": 143.57,
   "source_file": {
@@ -295,5 +295,6 @@
     120.71,
     129.65,
     138.6
-  ]
+  ],
+  "pass_reason": "science explainer with animation and narration"
 }

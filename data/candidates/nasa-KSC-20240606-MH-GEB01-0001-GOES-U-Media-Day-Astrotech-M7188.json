@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "hurricane from space",
   "title": "GOES-U Media Day at Astrotech",
-  "description": "The National Oceanic and Atmospheric Administration (NOAA) Geostationary Operational Environmental Satellite-U (GOES-U) stands vertical on a spacecraft dolly in a high bay at the Astrotech Space Operations Facility near the agency’s Kennedy Space Center in Florida during a NASA-hosted media day on Thursday, June 6, 2024. Part of a collaborative NOAA and NASA program, GOES-U is the last in a series of advanced geostationary weather satellites. Data from the GOES-R satellite series enables forecasters to predict, observe, and track local weather events that affect public safety like thunderstorms, hurricanes, and wildfires.",
+  "description": "The National Oceanic and Atmospheric Administration (NOAA) Geostationary Operational Environmental Satellite-U (GOES-U) stands vertical on a spacecraft dolly in a high bay at the Astrotech Space Operations Facility near the agency\u2019s Kennedy Space Center in Florida during a NASA-hosted media day on Thursday, June 6, 2024. Part of a collaborative NOAA and NASA program, GOES-U is the last in a series of advanced geostationary weather satellites. Data from the GOES-R satellite series enables forecasters to predict, observe, and track local weather events that affect public safety like thunderstorms, hurricanes, and wildfires.",
   "keywords": "NASA, KSC, Keddedy Space Center, LSP, Launch Services Praogram, GOES-U, Geostationary Operational environmental Satellite, spacecreaft, weather satellite, GSFC, NOAA, National Oceanic and Atmospheric Administaration, Advanced Baseline Imager, Magnetomerter",
   "date": "2024-06-06T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240606-MH-GEB01-0001-GOES-U-Media-Day-Astrotech-M7188",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:07:24Z",
   "duration": 115.43,
   "source_file": {
@@ -66,5 +66,6 @@
     96.97,
     104.16,
     111.34
-  ]
+  ],
+  "pass_reason": "facility, logistics or aftermath footage; nothing happens"
 }

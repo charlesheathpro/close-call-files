@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191115-VP-MWC01-INSIDEKSC",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:31:05Z",
   "duration": 100.0,
   "source_file": {
@@ -72,5 +72,6 @@
     83.95,
     90.17,
     96.39
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

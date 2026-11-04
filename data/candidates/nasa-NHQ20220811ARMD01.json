@@ -3,8 +3,8 @@
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "X-59",
-  "title": "NASA’s The Quiet Crew | Larry Cliatt",
-  "description": "In this episode of The Quiet Crew, you’ll meet Sonic Boom Technical Lead Larry Cliatt and learn about his role on the Quesst mission, leading acoustic validation, as well and his love of Legos! He is part of the crew on a mission to transform aviation as NASA and communities work together to verify that the X-59’s quiet, supersonic design can turn a sonic boom into a sonic thump. This new technology, along with a potential change in regulations, will allow airliners to fly faster over land, cutting passenger travel time in half without disturbing people on the ground.  For more information about NASA's quiet supersonic mission, visit http://www.nasa.gov/Quesst",
+  "title": "NASA\u2019s The Quiet Crew | Larry Cliatt",
+  "description": "In this episode of The Quiet Crew, you\u2019ll meet Sonic Boom Technical Lead Larry Cliatt and learn about his role on the Quesst mission, leading acoustic validation, as well and his love of Legos! He is part of the crew on a mission to transform aviation as NASA and communities work together to verify that the X-59\u2019s quiet, supersonic design can turn a sonic boom into a sonic thump. This new technology, along with a potential change in regulations, will allow airliners to fly faster over land, cutting passenger travel time in half without disturbing people on the ground.  For more information about NASA's quiet supersonic mission, visit http://www.nasa.gov/Quesst",
   "keywords": "X59, X-59, quesst, supersonic, quiet supersonic, quiet crew, the quiet crew, LBFD, low boom, low-boom, lockheed",
   "date": "2022-08-11T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20220811ARMD01",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:31:07Z",
   "duration": 129.98,
   "source_file": {
@@ -44,17 +44,17 @@
     {
       "s": 27.93,
       "e": 30.43,
-      "text": "during the acoustic validation phase of the mission"
+      "text": "during the acoustic validation phase of the\u00a0mission"
     },
     {
       "s": 30.43,
       "e": 32.8,
-      "text": "that's where we will measure the sonic thump"
+      "text": "that's where we will measure the sonic\u00a0thump"
     },
     {
       "s": 32.8,
       "e": 35.55,
-      "text": "and make sure it's as quiet as we designed the airplane to be"
+      "text": "and make sure it's as quiet as we designed\u00a0the airplane to be"
     },
     {
       "s": 35.55,
@@ -84,7 +84,7 @@
     {
       "s": 49.87,
       "e": 52.88,
-      "text": "so I love to cook it's probably my number one hobby"
+      "text": "so I love\u00a0to cook it's probably my number one hobby"
     },
     {
       "s": 52.88,
@@ -94,12 +94,12 @@
     {
       "s": 56.31,
       "e": 58.88,
-      "text": "I like making Asian foods just Asian-inspired cuisines"
+      "text": "I like\u00a0making Asian foods just Asian-inspired cuisines"
     },
     {
       "s": 58.88,
       "e": 62.48,
-      "text": "whether it's Chinese Japanese I love making Thai food"
+      "text": "whether it's Chinese Japanese I love making Thai\u00a0food"
     },
     {
       "s": 62.48,
@@ -124,7 +124,7 @@
     {
       "s": 73.64,
       "e": 75.64,
-      "text": "and then I think only maybe four or five years ago"
+      "text": "and then\u00a0I think only maybe four or five years ago"
     },
     {
       "s": 75.64,
@@ -134,7 +134,7 @@
     {
       "s": 78.0,
       "e": 80.0,
-      "text": "and part of it is a little bit of escape everybody needs a"
+      "text": "and part\u00a0of it is a little bit of escape everybody needs a"
     },
     {
       "s": 80.0,
@@ -144,7 +144,7 @@
     {
       "s": 83.18,
       "e": 86.88,
-      "text": "but a lot of it is just continuing on that creative mindset"
+      "text": "but a lot\u00a0of it is just continuing on that creative mindset"
     },
     {
       "s": 86.88,
@@ -154,27 +154,27 @@
     {
       "s": 89.56,
       "e": 92.96,
-      "text": "the Quesst mission is is not just four or five years old"
+      "text": "the Quesst mission is is not just four or five\u00a0years old"
     },
     {
       "s": 92.96,
       "e": 97.28,
-      "text": "it's five or six decades where  NASA has been investigating the ability to"
+      "text": "it's five or six decades where\u00a0 NASA has been investigating the ability to"
     },
     {
       "s": 97.28,
       "e": 101.0,
-      "text": "quietly perform supersonic commercial  transportation"
+      "text": "quietly perform supersonic commercial\u00a0 transportation"
     },
     {
       "s": 101.0,
       "e": 103.38,
-      "text": "to be able to go from point a to point b faster"
+      "text": "to be able to go from\u00a0point a to point b faster"
     },
     {
       "s": 103.38,
       "e": 106.02,
-      "text": "it's a very big collective effort across the mission and"
+      "text": "it's a very big\u00a0collective effort across the mission and"
     },
     {
       "s": 106.02,
@@ -184,7 +184,7 @@
     {
       "s": 108.67,
       "e": 111.57,
-      "text": "and so that's what really excites me about all this"
+      "text": "and\u00a0so that's what really excites me about all this"
     },
     {
       "s": 111.57,
@@ -226,5 +226,6 @@
     109.25,
     117.34,
     125.44
-  ]
+  ],
+  "pass_reason": "profile or interview piece with no event on camera"
 }

@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "launch abort",
   "title": "Inside KSC! for Sept. 11, 2020",
-  "description": "NASA’s fifth core value – inclusion – was installed in the Central Campus lobby on Sept. 1, 2020. This fifth core value was added to the existing values embraced by NASA: safety, integrity, teamwork, and excellence. Technicians inside the Neil Armstrong Operations and Checkout Building lowered the Artemis I Orion spacecraft into the FAST cell after completing installation of the spacecraft adapter cone. This is one of the final major hardware operations the spacecraft will undergo during closeout processing before integration with the Space Launch System rocket. The last of three motors required to assemble the Launch Abort System for NASA’s Artemis II mission, the first crewed flight, arrived by truck at the Launch Abort System Facility. The attitude control motor, manufactured by Northrop Grumman, works with the other motors – the launch abort motor and the jettison motor -- to separate the spacecraft from the rocket in the unlikely event of an emergency during launch and steer the spacecraft carrying the astronauts to safety.",
+  "description": "NASA\u2019s fifth core value \u2013 inclusion \u2013 was installed in the Central Campus lobby on Sept. 1, 2020. This fifth core value was added to the existing values embraced by NASA: safety, integrity, teamwork, and excellence. Technicians inside the Neil Armstrong Operations and Checkout Building lowered the Artemis I Orion spacecraft into the FAST cell after completing installation of the spacecraft adapter cone. This is one of the final major hardware operations the spacecraft will undergo during closeout processing before integration with the Space Launch System rocket. The last of three motors required to assemble the Launch Abort System for NASA\u2019s Artemis II mission, the first crewed flight, arrived by truck at the Launch Abort System Facility. The attitude control motor, manufactured by Northrop Grumman, works with the other motors \u2013 the launch abort motor and the jettison motor -- to separate the spacecraft from the rocket in the unlikely event of an emergency during launch and steer the spacecraft carrying the astronauts to safety.",
   "keywords": "NASA, KSC, Kennedy, Artemis program, Gateway, Inclusion, spacecraft adapter cone, Launch Abort System, attitude control motor, Space Launch System",
   "date": "2020-09-11T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200911-VP-MWC01-001-INSIDEKSC-3257529",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:51:15Z",
   "duration": 135.87,
   "source_file": {
@@ -68,5 +68,6 @@
     114.22,
     122.68,
     131.14
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "hot fire test",
   "title": "Virgin Orbit 75K TCA Test",
-  "description": "Hot fire test for a virgin Orbit 75,000 Lb Thrust Chamber Assembly at Stennis Space Center’s E-1 Cell 1 on April 6, 2021.",
+  "description": "Hot fire test for a virgin Orbit 75,000 Lb Thrust Chamber Assembly at Stennis Space Center\u2019s E-1 Cell 1 on April 6, 2021.",
   "keywords": "Stennis Space Center, E-1, E-1 Cell 1, hot fire test, virgin orbit, TCA, Thrust Chamber Assembly",
   "date": "2021-04-06T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ssc-ecomplex-test-2021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:48:26Z",
   "duration": 7.6,
   "source_file": {
@@ -56,5 +56,6 @@
     5.99,
     6.43,
     6.88
-  ]
+  ],
+  "pass_reason": "8 seconds of a single static engine-test angle; far under 15 s of action and no story or outcome to tell"
 }

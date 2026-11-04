@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SeeingHome",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:15:26Z",
   "duration": 75.03,
   "source_file": {
@@ -110,5 +110,6 @@
     62.89,
     67.55,
     72.2
-  ]
+  ],
+  "pass_reason": "science explainer with animation and narration"
 }

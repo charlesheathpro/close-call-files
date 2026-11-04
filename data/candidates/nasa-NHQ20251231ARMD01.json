@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "X-59",
   "title": "X-59 Team Reflects on Completing First Flight",
-  "description": "After years of design, development, and testing, NASA’s X-59 quiet supersonic research aircraft took to the skies for the first time Oct. 28, 2025, marking a historic moment for the field of aeronautics research and the agency’s Quesst mission. Now, hear from the team who helped make it happen, including test pilot Nils Larson, as they reflect on the accomplishment.",
+  "description": "After years of design, development, and testing, NASA\u2019s X-59 quiet supersonic research aircraft took to the skies for the first time Oct. 28, 2025, marking a historic moment for the field of aeronautics research and the agency\u2019s Quesst mission. Now, hear from the team who helped make it happen, including test pilot Nils Larson, as they reflect on the accomplishment.",
   "keywords": "Quesst, X-59, X59, AFRC, Armstrong, Lockheed, Lockheed Martin, Quesst Mission, Nils Larson, First Flight",
   "date": "2025-12-31T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20251231ARMD01",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:15:17Z",
   "duration": 79.17,
   "source_file": {
@@ -246,5 +246,6 @@
     66.38,
     71.29,
     76.21
-  ]
+  ],
+  "pass_reason": "profile or interview piece with no event on camera"
 }

@@ -3,8 +3,8 @@
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "X-59",
-  "title": "NASA’s The Quiet Crew | Jessica Arreola",
-  "description": "In this episode of The Quiet Crew, you’ll meet Public and Digital Engagement Lead Jessica Arreola and learn about her role on the Quesst mission. Jessica is proudly bilingual. Her Mexican roots have inspired her to include Spanish in NASA's messaging. She is part of the crew on a mission to transform aviation as NASA and communities in the U.S. work together to verify that the X-59’s quiet, supersonic design can turn a sonic boom into a sonic thump. This new technology, along with a potential change in regulations, will allow airliners to fly faster over land, cutting passenger travel time in half without disturbing people on the ground.",
+  "title": "NASA\u2019s The Quiet Crew | Jessica Arreola",
+  "description": "In this episode of The Quiet Crew, you\u2019ll meet Public and Digital Engagement Lead Jessica Arreola and learn about her role on the Quesst mission. Jessica is proudly bilingual. Her Mexican roots have inspired her to include Spanish in NASA's messaging. She is part of the crew on a mission to transform aviation as NASA and communities in the U.S. work together to verify that the X-59\u2019s quiet, supersonic design can turn a sonic boom into a sonic thump. This new technology, along with a potential change in regulations, will allow airliners to fly faster over land, cutting passenger travel time in half without disturbing people on the ground.",
   "keywords": "Quesst, X-59, X59, supersonic, quiet crew, the quiet crew, aeronautics, ARMD",
   "date": "2022-10-06T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20221006ARMD01",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:26:52Z",
   "duration": 142.68,
   "source_file": {
@@ -277,5 +277,6 @@
     119.96,
     128.85,
     137.73
-  ]
+  ],
+  "pass_reason": "profile or interview piece with no event on camera"
 }

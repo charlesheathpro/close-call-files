@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jcs2022m000046-Space-to-Ground-446-221104",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:41:44Z",
   "duration": 166.1,
   "source_file": {
@@ -29,7 +29,7 @@
     {
       "s": 5.14,
       "e": 7.85,
-      "text": "Welcome to Space to Ground, I’m Jaden Jennings."
+      "text": "Welcome to Space to Ground, I\u2019m Jaden Jennings."
     },
     {
       "s": 7.85,
@@ -174,7 +174,7 @@
     {
       "s": 108.59,
       "e": 111.48,
-      "text": "And now, it’s time for Nachos…but not the type that you eat."
+      "text": "And now, it\u2019s time for Nachos\u2026but not the type that you eat."
     },
     {
       "s": 111.48,
@@ -204,7 +204,7 @@
     {
       "s": 130.16,
       "e": 134.35,
-      "text": "NACHOS will be the topic on this week’s edition of “Houston, We Have a Podcast”"
+      "text": "NACHOS will be the topic on this week\u2019s edition of \u201cHouston, We Have a Podcast\u201d"
     },
     {
       "s": 134.35,
@@ -224,7 +224,7 @@
     {
       "s": 144.67,
       "e": 145.97,
-      "text": "And that’s Space to Ground for now."
+      "text": "And that\u2019s Space to Ground for now."
     },
     {
       "s": 145.97,
@@ -234,7 +234,7 @@
     {
       "s": 147.33,
       "e": 149.17,
-      "text": "and we’ll see you next week."
+      "text": "and we\u2019ll see you next week."
     }
   ],
   "scene_cuts": [
@@ -296,5 +296,6 @@
     139.72,
     150.07,
     160.42
-  ]
+  ],
+  "pass_reason": "weekly news show with a presenter"
 }

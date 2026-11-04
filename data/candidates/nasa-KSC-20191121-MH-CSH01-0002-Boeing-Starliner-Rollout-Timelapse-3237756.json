@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191121-MH-CSH01-0002-Boeing-Starliner-Rollout-Timelapse-3237756",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T17:03:44Z",
   "duration": 33.1,
   "source_file": {
@@ -57,5 +57,6 @@
     27.51,
     29.54,
     31.58
-  ]
+  ],
+  "pass_reason": "construction or pad time-lapse; static, no danger"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20190813-Arctic-m13281-Fires",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:29:55Z",
   "duration": 172.27,
   "source_file": {
@@ -211,5 +211,6 @@
     144.93,
     155.66,
     166.4
-  ]
+  ],
+  "pass_reason": "satellite and from-space views; QA rejects these"
 }

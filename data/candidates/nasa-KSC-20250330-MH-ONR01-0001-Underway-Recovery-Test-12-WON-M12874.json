@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20250330-MH-ONR01-0001-Underway-Recovery-Test-12-WON-M12874",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:23:00Z",
   "duration": 96.48,
   "source_file": {
@@ -221,5 +221,6 @@
     80.98,
     86.98,
     92.98
-  ]
+  ],
+  "pass_reason": "recovery drill in calm seas with interviews and a title card; training with no danger on screen"
 }

@@ -4,7 +4,7 @@
   "lane": "hazards",
   "matched_query": "volcano eruption",
   "title": "NISAR Mission Video",
-  "description": "The joint U.S.-Indian NISAR satellite mission will use radar to observe a wide range of Earth processes, from the flow rates of glaciers and ice sheets to the dynamics of earthquakes and volcanos. NISAR can image Earth’s land masses at night and through clouds and will allow scientists to see places that have otherwise been obscured.  Despite the challenges of working during the Coronavirus pandemic, the science and engineering teams on both sides of the pond are determined to meet their mission objectives. The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite mission NISAR is slated to launch no earlier than 2022 from India’s Satish Dhawan Space Center in Sriharikota, India.  Credit: NASA/JPL-Caltech",
+  "description": "The joint U.S.-Indian NISAR satellite mission will use radar to observe a wide range of Earth processes, from the flow rates of glaciers and ice sheets to the dynamics of earthquakes and volcanos. NISAR can image Earth\u2019s land masses at night and through clouds and will allow scientists to see places that have otherwise been obscured.  Despite the challenges of working during the Coronavirus pandemic, the science and engineering teams on both sides of the pond are determined to meet their mission objectives. The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite mission NISAR is slated to launch no earlier than 2022 from India\u2019s Satish Dhawan Space Center in Sriharikota, India.  Credit: NASA/JPL-Caltech",
   "keywords": "NASA, JPL, Jet Propulsion Laboratory, ISRO, Indian Space Research Organisation, Indian Space Research Organization, Earth Science, Earth, radar, L-band, S-band, synthetic aperture radar, SAR, launch, satellite, volcanos, earthquake, glacier, ice sheets, interferometry, food scarcity, landslides, eruption, data, land surface, change, orbit, global change, high-resolution, image, disaster, dataCOVID, pandemic, team work, work from home, natural hazards, sea level rise, climate change, USGS, Cornell University",
   "date": "2020-12-17T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20201217-NISARs-0001-NISAR-Mission-Video",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:42:41Z",
   "duration": 242.62,
   "source_file": {
@@ -614,5 +614,6 @@
     204.29,
     219.42,
     234.56
-  ]
+  ],
+  "pass_reason": "science explainer with animation and narration"
 }
