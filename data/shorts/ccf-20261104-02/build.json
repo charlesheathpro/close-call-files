@@ -1,7 +1,484 @@
 {
   "short_id": "ccf-20261104-02",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-04T07:42:27Z",
-  "error": "line 1: shots are 3.0, 4.2s even after extending, but the line needs 8.3s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-04T08:22:53Z",
+  "duration": 27.61,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Twenty-foot seas, fifty-knot winds, and a schooner taking on water with six aboard.",
+      "start": 0.05,
+      "end": 5.93,
+      "words": [
+        {
+          "w": "Twenty-foot",
+          "s": 0.05,
+          "e": 0.562
+        },
+        {
+          "w": "seas,",
+          "s": 0.61,
+          "e": 1.57
+        },
+        {
+          "w": "fifty-knot",
+          "s": 1.65,
+          "e": 2.21
+        },
+        {
+          "w": "winds,",
+          "s": 2.29,
+          "e": 3.01
+        },
+        {
+          "w": "and",
+          "s": 3.09,
+          "e": 3.17
+        },
+        {
+          "w": "a",
+          "s": 3.21,
+          "e": 3.29
+        },
+        {
+          "w": "schooner",
+          "s": 3.33,
+          "e": 3.73
+        },
+        {
+          "w": "taking",
+          "s": 3.81,
+          "e": 4.13
+        },
+        {
+          "w": "on",
+          "s": 4.21,
+          "e": 4.29
+        },
+        {
+          "w": "water",
+          "s": 4.37,
+          "e": 4.61
+        },
+        {
+          "w": "with",
+          "s": 4.69,
+          "e": 4.85
+        },
+        {
+          "w": "six",
+          "s": 4.93,
+          "e": 5.17
+        },
+        {
+          "w": "aboard.",
+          "s": 5.25,
+          "e": 5.93
+        }
+      ]
+    },
+    {
+      "text": "They were ninety miles out, a long way from home for a Coast Guard Dolphin helicopter.",
+      "start": 6.21,
+      "end": 11.37,
+      "words": [
+        {
+          "w": "They",
+          "s": 6.21,
+          "e": 6.37
+        },
+        {
+          "w": "were",
+          "s": 6.49,
+          "e": 6.61
+        },
+        {
+          "w": "ninety",
+          "s": 6.69,
+          "e": 6.93
+        },
+        {
+          "w": "miles",
+          "s": 7.01,
+          "e": 7.33
+        },
+        {
+          "w": "out,",
+          "s": 7.41,
+          "e": 7.97
+        },
+        {
+          "w": "a",
+          "s": 8.05,
+          "e": 8.13
+        },
+        {
+          "w": "long",
+          "s": 8.29,
+          "e": 8.53
+        },
+        {
+          "w": "way",
+          "s": 8.61,
+          "e": 8.69
+        },
+        {
+          "w": "from",
+          "s": 8.77,
+          "e": 8.85
+        },
+        {
+          "w": "home",
+          "s": 8.93,
+          "e": 9.17
+        },
+        {
+          "w": "for",
+          "s": 9.25,
+          "e": 9.33
+        },
+        {
+          "w": "a",
+          "s": 9.41,
+          "e": 9.49
+        },
+        {
+          "w": "Coast",
+          "s": 9.57,
+          "e": 9.73
+        },
+        {
+          "w": "Guard",
+          "s": 9.81,
+          "e": 9.97
+        },
+        {
+          "w": "Dolphin",
+          "s": 10.05,
+          "e": 10.37
+        },
+        {
+          "w": "helicopter.",
+          "s": 10.45,
+          "e": 11.37
+        }
+      ]
+    },
+    {
+      "text": "Then the rescue swimmer dropped into the sea.",
+      "start": 11.73,
+      "end": 13.97,
+      "words": [
+        {
+          "w": "Then",
+          "s": 11.73,
+          "e": 11.97
+        },
+        {
+          "w": "the",
+          "s": 12.01,
+          "e": 12.09
+        },
+        {
+          "w": "rescue",
+          "s": 12.17,
+          "e": 12.45
+        },
+        {
+          "w": "swimmer",
+          "s": 12.53,
+          "e": 12.85
+        },
+        {
+          "w": "dropped",
+          "s": 12.93,
+          "e": 13.17
+        },
+        {
+          "w": "into",
+          "s": 13.25,
+          "e": 13.41
+        },
+        {
+          "w": "the",
+          "s": 13.49,
+          "e": 13.57
+        },
+        {
+          "w": "sea.",
+          "s": 13.65,
+          "e": 13.97
+        }
+      ]
+    },
+    {
+      "text": "In big seas, people jump one at a time, and the swimmer catches them on the hook.",
+      "start": 14.61,
+      "end": 19.57,
+      "words": [
+        {
+          "w": "In",
+          "s": 14.61,
+          "e": 14.77
+        },
+        {
+          "w": "big",
+          "s": 14.85,
+          "e": 15.01
+        },
+        {
+          "w": "seas,",
+          "s": 15.17,
+          "e": 15.73
+        },
+        {
+          "w": "people",
+          "s": 15.89,
+          "e": 16.05
+        },
+        {
+          "w": "jump",
+          "s": 16.13,
+          "e": 16.37
+        },
+        {
+          "w": "one",
+          "s": 16.45,
+          "e": 16.53
+        },
+        {
+          "w": "at",
+          "s": 16.61,
+          "e": 16.69
+        },
+        {
+          "w": "a",
+          "s": 16.73,
+          "e": 16.81
+        },
+        {
+          "w": "time,",
+          "s": 16.85,
+          "e": 17.57
+        },
+        {
+          "w": "and",
+          "s": 17.61,
+          "e": 17.69
+        },
+        {
+          "w": "the",
+          "s": 17.73,
+          "e": 17.81
+        },
+        {
+          "w": "swimmer",
+          "s": 17.89,
+          "e": 18.21
+        },
+        {
+          "w": "catches",
+          "s": 18.29,
+          "e": 18.61
+        },
+        {
+          "w": "them",
+          "s": 18.69,
+          "e": 18.77
+        },
+        {
+          "w": "on",
+          "s": 18.81,
+          "e": 18.89
+        },
+        {
+          "w": "the",
+          "s": 18.93,
+          "e": 19.01
+        },
+        {
+          "w": "hook.",
+          "s": 19.01,
+          "e": 19.57
+        }
+      ]
+    },
+    {
+      "text": "Fuel was tight, so a second Dolphin came.",
+      "start": 19.89,
+      "end": 22.37,
+      "words": [
+        {
+          "w": "Fuel",
+          "s": 19.89,
+          "e": 20.13
+        },
+        {
+          "w": "was",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "tight,",
+          "s": 20.37,
+          "e": 20.93
+        },
+        {
+          "w": "so",
+          "s": 21.01,
+          "e": 21.09
+        },
+        {
+          "w": "a",
+          "s": 21.17,
+          "e": 21.25
+        },
+        {
+          "w": "second",
+          "s": 21.41,
+          "e": 21.57
+        },
+        {
+          "w": "Dolphin",
+          "s": 21.61,
+          "e": 21.89
+        },
+        {
+          "w": "came.",
+          "s": 21.97,
+          "e": 22.37
+        }
+      ]
+    },
+    {
+      "text": "Between the two helicopter crews, all six people were picked up out of the sea.",
+      "start": 22.85,
+      "end": 27.41,
+      "words": [
+        {
+          "w": "Between",
+          "s": 22.85,
+          "e": 23.17
+        },
+        {
+          "w": "the",
+          "s": 23.25,
+          "e": 23.33
+        },
+        {
+          "w": "two",
+          "s": 23.41,
+          "e": 23.49
+        },
+        {
+          "w": "helicopter",
+          "s": 23.57,
+          "e": 24.05
+        },
+        {
+          "w": "crews,",
+          "s": 24.13,
+          "e": 24.77
+        },
+        {
+          "w": "all",
+          "s": 24.85,
+          "e": 25.09
+        },
+        {
+          "w": "six",
+          "s": 25.25,
+          "e": 25.41
+        },
+        {
+          "w": "people",
+          "s": 25.49,
+          "e": 25.81
+        },
+        {
+          "w": "were",
+          "s": 25.93,
+          "e": 26.05
+        },
+        {
+          "w": "picked",
+          "s": 26.17,
+          "e": 26.29
+        },
+        {
+          "w": "up",
+          "s": 26.37,
+          "e": 26.45
+        },
+        {
+          "w": "out",
+          "s": 26.53,
+          "e": 26.61
+        },
+        {
+          "w": "of",
+          "s": 26.65,
+          "e": 26.73
+        },
+        {
+          "w": "the",
+          "s": 26.73,
+          "e": 26.81
+        },
+        {
+          "w": "sea.",
+          "s": 26.85,
+          "e": 27.41
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 27.63
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.023
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261104-02/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261104-02-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261104-02/ccf-20261104-02.mp4"
 }
