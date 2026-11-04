@@ -26,7 +26,7 @@
   "time_start": 10.0434,
   "aspect_ratio": "16:9",
   "id": "dvids-video-308061",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:18:42Z",
   "duration": 69.61,
   "source_file": {
@@ -150,5 +150,6 @@
     59.88,
     63.57,
     67.26
-  ]
+  ],
+  "pass_reason": "training exercise (dog hoist drill) with interviews, garbled transcript, no real stakes"
 }
