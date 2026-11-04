@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-04T10:43:25Z from 43 Shorts older than 48 hours)
+# Playbook (computed 2026-11-04T15:44:03Z from 45 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.76, 3 Shorts)
-- spacecraft or test story (+0.76, 3 Shorts)
-- lane: aviation_naval (+0.64, 4 Shorts)
-- story: splashdown recovery (+0.53, 1 Shorts)
 - story: capsized boat, people in the water (+0.52, 1 Shorts)
-- story: launch abort test (+0.5, 1 Shorts)
-- music: aviation (+0.45, 2 Shorts)
-- hook names a child (+0.26, 7 Shorts)
+- story: splashdown recovery (+0.49, 1 Shorts)
+- story: launch abort test (+0.45, 1 Shorts)
+- source: nasa (+0.37, 4 Shorts)
+- spacecraft or test story (+0.37, 4 Shorts)
+- hook names a child (+0.32, 7 Shorts)
+- lane: aviation_naval (+0.32, 5 Shorts)
+- music: sea (+0.31, 14 Shorts)
 
 ## Do less of
-- music: hazards (-0.66, 4 Shorts)
-- story: volcano eruption (-0.56, 2 Shorts)
-- source: dvids (-0.56, 34 Shorts)
-- lane: hazards (-0.52, 3 Shorts)
-- story: wildfire rescue (-0.33, 1 Shorts)
-- story: capsized yacht hoist (-0.27, 1 Shorts)
-- length 45 s or more (-0.27, 2 Shorts)
-- story: cliff hoist (-0.26, 1 Shorts)
+- music: hazards (-0.61, 4 Shorts)
+- story: volcano eruption (-0.54, 2 Shorts)
+- lane: hazards (-0.48, 3 Shorts)
+- story: rocket booster camera (-0.38, 1 Shorts)
+- story: stranded on island, sos (-0.34, 1 Shorts)
+- story: wildfire rescue (-0.3, 1 Shorts)
+- source: dvids (-0.3, 35 Shorts)
+- story: cliff hoist (-0.21, 1 Shorts)
 
 ## Best Shorts
-- Orion splashes down after the Moon: 9395 views, 96% watched
-- Boat flipped with a 4-year-old aboard: 18724 views, 78% watched
-- Capsule torn off a rocket at Mach 1: 5249 views, 97% watched
+- Boat flipped with a 4-year-old aboard: 18745 views, 78% watched
+- Orion splashes down after the Moon: 9399 views, 96% watched
+- Capsule torn off a rocket at Mach 1: 5169 views, 97% watched
 - Dog fell off an Oregon sea cliff: 1289 views, 84% watched
-- Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
+- Tug sinking in Harvey, 4 still aboard: 1327 views, 81% watched
 
 ## Weakest Shorts
 - Lava fountains roar out of Kilauea: 444 views, 67% watched
-- Hiker hurt on an Oregon sea cliff: 829 views, 48% watched
-- Yacht broke in two on Lake Erie: 1220 views, 37% watched
 - 214 people trapped by a wildfire: 341 views, 61% watched
-- Mauna Loa erupts after 38 years: 145 views, 66% watched
+- SOS in the sand on a Pacific island: 1401 views, 0% watched
+- Riding a shuttle booster to 2,900 mph: 1131 views, 0% watched
+- Mauna Loa erupts after 38 years: 146 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261028-09: Now 25s, but render 9.3 to 17.5s (source 9.3 to 18.0) is about 8 seconds of riders' legs dangling over palm trees; the riders are above the top edge of the source frame there, so no crop_x can fix it (check 2 and 11 fail). The strong footage (source 0.2 to 9.3 and 18.0 to 28.4) only carries about 19
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261103-03: Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th
 - ccf-20261104-01: Rev 2 render is clean (empty-sky shot gone), but it is interchangeable with ccf-20261102-07, two men on a capsized hull off Florida, which publishes today Nov 4 19:00Z. Hold, do not drop: the footage is strong.
 - ccf-20261104-03: Calm top-down hoist from a riverbank with no visible danger; line 1 says 'This man' over a Coast Guard crewman. Fails the viral bar for a routine hoist.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.3, 'aviation_naval': 0.6, 'hazards': 0.1}
-- query weights for 28 searches
