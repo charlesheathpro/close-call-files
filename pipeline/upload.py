@@ -181,6 +181,7 @@ def post_comments(limit=20):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--quiet-if-idle", action="store_true", help="write no run record when nothing was uploaded")
     args = ap.parse_args()
     cfg = config()
     commented = post_comments()
@@ -208,7 +209,7 @@ def main():
             res = upload_video(path, spec, stamp, cfg)
         except UploadError as e:
             if e.reason in ("uploadLimitExceeded", "quotaExceeded", "rateLimitExceeded"):
-                # the channel limit is a rolling 24 hours, so retry on the next run (every 3 h) rather than idling 12 h
+                # the channel limit is a rolling 24 hours; the workflow's watch loop retries as soon as it reopens
                 until = now_utc() + timedelta(hours=24 if e.reason == "quotaExceeded" else 1)
                 if e.reason == "uploadLimitExceeded":
                     # the cap counts uploads in the last 24 h: room opens when the oldest of them turns 24 h old
@@ -234,8 +235,9 @@ def main():
         print(f"uploaded {d.name} -> {vid} publishing {stamp}")
         n += 1
         path.unlink(missing_ok=True)
-    save_json(DATA / "upload_last.json", {"at": iso(), "uploaded": n, "open_slots": len(slots),
-                                          "waiting": len(queue)})
+    if n or not args.quiet_if_idle:
+        save_json(DATA / "upload_last.json", {"at": iso(), "uploaded": n, "open_slots": len(slots),
+                                              "waiting": len(queue)})
 
 
 if __name__ == "__main__":

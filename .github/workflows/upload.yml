@@ -12,7 +12,7 @@ concurrency: { group: upload, cancel-in-progress: false }
 jobs:
   upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -26,3 +26,19 @@ jobs:
           CCF_WORK: ${{ runner.temp }}/ccf
       - if: always()
         run: bash scripts/commit.sh "Upload $(date -u +%Y-%m-%dT%H:%M)"
+      # GitHub runs scheduled workflows hours late, so each run stays on watch for about 5.5 hours:
+      # every 15 minutes it pulls, and uploads newly passed Shorts or retries once YouTube's 24 h window reopens.
+      - name: Stay on watch
+        if: always()
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          CCF_WORK: ${{ runner.temp }}/ccf
+        run: |
+          for i in $(seq 1 21); do
+            sleep 900
+            git pull -q --rebase -X theirs origin main || { git rebase --abort || true; git pull -q --no-rebase -X ours origin main; }
+            python pipeline/upload.py --quiet-if-idle || true
+            bash scripts/commit.sh "Upload $(date -u +%Y-%m-%dT%H:%M)" || true
+          done
