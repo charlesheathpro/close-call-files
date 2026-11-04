@@ -6,7 +6,7 @@
   "music_mood": "sea",
   "hook": "20-foot seas, 50-knot winds, 90 miles offshore.",
   "narration": [
-    "Twenty-foot seas. Fifty-knot winds. A seventy-nine-foot schooner taking on water, six people aboard.",
+    "Twenty-foot seas, fifty-knot winds, and a schooner taking on water with six aboard.",
     "They were ninety miles out, a long way from home for a Coast Guard Dolphin helicopter.",
     "Then the rescue swimmer dropped into the sea.",
     "In big seas, people jump one at a time, and the swimmer catches them on the hook.",
@@ -20,14 +20,14 @@
   "line_shots": [
     [
       {
-        "start": 116.6,
-        "end": 119.4,
+        "start": 116.4,
+        "end": 119.55,
         "layout": "crop",
         "crop_x": 0.72
       },
       {
-        "start": 40.6,
-        "end": 43.9,
+        "start": 40.7,
+        "end": 44.75,
         "layout": "crop",
         "crop_x": 0.57
       }
@@ -48,8 +48,8 @@
     ],
     [
       {
-        "start": 75.3,
-        "end": 78.7,
+        "start": 75.6,
+        "end": 78.5,
         "layout": "crop",
         "crop_x": 0.25
       }
@@ -132,6 +132,6 @@
     }
   ],
   "priority": 7,
-  "revision": 1,
+  "revision": 2,
   "preview_ok": "L1 shot 2 is the schooner seen from altitude in open sea; the white hull and masts are in frame in every sample, the flag is uniform blue water"
 }

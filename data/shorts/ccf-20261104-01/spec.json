@@ -25,18 +25,18 @@
         "crop_x": 0.4
       },
       {
-        "start": 20.0,
-        "end": 23.4,
+        "start": 34.0,
+        "end": 37.5,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 4.3,
-        "end": 7.8,
+        "start": 20.0,
+        "end": 23.4,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       },
       {
         "start": 24.0,
@@ -51,12 +51,6 @@
         "end": 33.0,
         "layout": "crop",
         "crop_x": 0.55
-      },
-      {
-        "start": 34.0,
-        "end": 37.5,
-        "layout": "crop",
-        "crop_x": 0.5
       },
       {
         "start": 38.0,
@@ -105,8 +99,8 @@
         "crop_x": 0.5
       },
       {
-        "start": 12.6,
-        "end": 15.8,
+        "start": 74.0,
+        "end": 77.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -141,5 +135,5 @@
     }
   ],
   "priority": 6,
-  "revision": 1
+  "revision": 2
 }
