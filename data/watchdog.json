@@ -1,22 +1,21 @@
 {
-  "at": "2026-11-04T00:25:00Z",
+  "at": "2026-11-04T08:24:32Z",
   "healthy": false,
   "numbers": {
-    "dropped": 29,
-    "uploaded": 63,
-    "passed": 5,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_next_36h": 2
+    "dropped": 31,
+    "uploaded": 68,
+    "passed": 4,
+    "rejected": 1,
+    "scheduled_36h": 5
   },
-  "found": [
-    "passed + scheduled in next 36h is 7 (need 15); buffer 5 (need 25)",
-    "YouTube upload limit active until 2026-11-04T04:02Z, so no upload run is due before then; no auth or upload_error alerts",
-    "no build errors; harvest (partial), build and stats runs landing"
+  "problems": [
+    "thin queue: scheduled 36h + passed below 15, buffer below 25",
+    "YouTube uploadLimitExceeded again (limit until 09:40Z; only 5 uploads in the rolling 24 h)"
   ],
   "fixed": [
-    "QA: SLS tank test to failure (ccf-20261103-05) recut to rev 2 and passed",
-    "editor sweep of fresh rescue and aviation candidates: 12 passed over (calm pickups, transit shots, injury story, no person at risk); no new spec cleared the viral bar",
-    "held for a later editor run: SLS Green Run hot fire cut short after about a minute (nasa-NHQ-2021-0106-...), strong footage but too close to the booster test (Nov 2) and the SLS tank test queued now"
+    "QA pass: 2 passed (11, 02 rev 2), 1 dropped (03), 01 held until Nov 8",
+    "Fixed build failure on 02 (line 1 too long for its shots)",
+    "Editor pass: reviewed the new rescue, aviation and NASA supply; none cleared the viral bar without repeating a story type from the last 3 days; 7 passed over, Baton Rouge child hoist left new for after Nov 6 (flood hoists 1101-06, 1101-30, 1102-01)",
+    "Harvest run 20 (archive restart) still in progress since 07:25Z, not restarted"
   ]
 }
