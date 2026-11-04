@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221210-MH-GEB01-0001-Artemis-1-Orion-Recovery-Balloon-Release-3312491",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T16:35:02Z",
   "duration": 69.43,
   "source_file": {
@@ -71,5 +71,6 @@
     58.16,
     62.47,
     66.78
-  ]
+  ],
+  "pass_reason": "Astronaut releasing a weather balloon on a ship deck; calm."
 }

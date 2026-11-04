@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LRC-2018-B701-V-LATL-Ep02-8973-033018-720",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:17:00Z",
   "duration": 116.2,
   "source_file": {
@@ -349,5 +349,6 @@
     97.62,
     104.85,
     112.09
-  ]
+  ],
+  "pass_reason": "Crash-dummy feature led by a presenter; release is a generic feature blurb with no event or outcome."
 }

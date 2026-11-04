@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210114-MH-CMS02-0001-CRS-21-Science-Experiment-Unpacking-3266482",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:49:40Z",
   "duration": 109.23,
   "source_file": {
@@ -338,5 +338,6 @@
     91.74,
     98.54,
     105.34
-  ]
+  ],
+  "pass_reason": "Lab unpacking; no event."
 }

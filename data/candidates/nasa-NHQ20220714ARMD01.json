@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20220714ARMD01",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:18:48Z",
   "duration": 143.59,
   "source_file": {
@@ -206,5 +206,6 @@
     120.74,
     129.68,
     138.62
-  ]
+  ],
+  "pass_reason": "Quiet Crew employee profile; no event on screen."
 }

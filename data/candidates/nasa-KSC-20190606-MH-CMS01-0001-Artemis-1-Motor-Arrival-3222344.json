@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190606-MH-CMS01-0001-Artemis-1-Motor-Arrival-3222344",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:52:15Z",
   "duration": 145.33,
   "source_file": {
@@ -67,5 +67,6 @@
     122.2,
     131.26,
     140.31
-  ]
+  ],
+  "pass_reason": "Hardware arrival and handling; no event."
 }

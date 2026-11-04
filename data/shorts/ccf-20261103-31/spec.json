@@ -1,0 +1,166 @@
+{
+  "short_id": "ccf-20261103-31",
+  "candidate_id": "nasa-SSC-2023-05-10-RS-25-Engine-Test",
+  "lane": "aviation_naval",
+  "story_type": "rocket engine long-duration test",
+  "music_mood": "aviation",
+  "priority": 5,
+  "hook": "This rocket engine fired for 630 seconds straight.",
+  "narration": [
+    "This rocket engine fired for more than ten minutes straight.",
+    "It's an RS-25, the kind that helps launch NASA's Moon rocket, on a test stand in Mississippi.",
+    "Operators ran it for six hundred thirty seconds, longer than the five hundred it must fire at launch.",
+    "[short pause] They also pushed it to one hundred thirteen percent power.",
+    "Four of these fire together at launch, making up to two million pounds of thrust.",
+    "The extra time and power give the engines a margin of safety."
+  ],
+  "outcome": "The engine fired for the full six hundred thirty seconds.",
+  "location_card": {
+    "place": "Stennis Space Center, Mississippi",
+    "date": "May 10, 2023"
+  },
+  "keep_source_audio": true,
+  "title": "Rocket engine fired for 10 minutes straight",
+  "description": "On May 10, 2023, NASA fired an RS-25 certification engine for 630 seconds on the Fred Haise Test Stand at Stennis Space Center in Mississippi, longer than the 500 seconds the engines must fire to help launch the Space Launch System rocket.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/SSC_2023-05-10_RS-25_Engine_Test\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #artemis #rocketengine",
+  "tags": [
+    "nasa",
+    "rs-25",
+    "rocket engine",
+    "engine test",
+    "hot fire",
+    "stennis space center",
+    "artemis",
+    "sls rocket",
+    "real footage"
+  ],
+  "question_comment": "Would you stand on that test stand for all ten minutes?",
+  "facts": [
+    {
+      "claim": "Fired an RS-25 for more than 10 minutes (630 seconds) at Stennis",
+      "source_quote": "fired an RS-25 certification engine for more than 10 minutes (630 seconds)"
+    },
+    {
+      "claim": "Longer than the 500 seconds required for SLS launches",
+      "source_quote": "The test duration is longer than the 500 seconds the engines must fire to help launch the Space Launch System rocket on Artemis missions"
+    },
+    {
+      "claim": "Fired at 113% power",
+      "source_quote": "and at 113%, allowing operators to provide a margin of operational safety"
+    },
+    {
+      "claim": "Four engines produce up to 2 million pounds of thrust",
+      "source_quote": "Four RS-25 engines fire simultaneously, producing up to 2 million pounds of combined thrust"
+    },
+    {
+      "claim": "Date May 10",
+      "source_quote": "NASA conducted another long-duration hot fire of an RS-25 engine May 10"
+    }
+  ],
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 1260.0,
+        "end": 1263.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 1208.0,
+        "end": 1211.5,
+        "layout": "crop",
+        "crop_x": 0.35
+      }
+    ],
+    [
+      {
+        "start": 1151.5,
+        "end": 1155.0,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 980.0,
+        "end": 983.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 862.0,
+        "end": 865.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 1116.0,
+        "end": 1119.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 1012.0,
+        "end": 1015.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 954.0,
+        "end": 957.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 1088.0,
+        "end": 1091.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 1124.0,
+        "end": 1127.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 1300.0,
+        "end": 1303.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 1286.0,
+        "end": 1289.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 1341.0,
+        "end": 1344.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 1376.0,
+        "end": 1379.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 1256.0,
+        "end": 1259.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

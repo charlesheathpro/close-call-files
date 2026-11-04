@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20250612-RV-FMX01-Artemis-II-VALENT-WON-M14256",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:23:52Z",
   "duration": 489.93,
   "source_file": {
@@ -111,5 +111,6 @@
     412.96,
     443.55,
     474.14
-  ]
+  ],
+  "pass_reason": "Rescue rehearsal with no release text: only the title and radio chatter, so no facts or stated outcome."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20211115-MARSf-0001-Hows-the-Weather-on-Mars",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:57:05Z",
   "duration": 155.4,
   "source_file": {
@@ -351,5 +351,6 @@
     130.7,
     140.38,
     150.06
-  ]
+  ],
+  "pass_reason": "Mars report, animation and host."
 }

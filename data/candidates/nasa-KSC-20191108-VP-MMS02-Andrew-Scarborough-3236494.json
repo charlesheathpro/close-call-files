@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191108-VP-MMS02-Andrew-Scarborough-3236494",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:27:15Z",
   "duration": 142.83,
   "source_file": {
@@ -187,5 +187,6 @@
     120.09,
     128.99,
     137.89
-  ]
+  ],
+  "pass_reason": "No event or danger on screen (feature, explainer or calm handling)."
 }

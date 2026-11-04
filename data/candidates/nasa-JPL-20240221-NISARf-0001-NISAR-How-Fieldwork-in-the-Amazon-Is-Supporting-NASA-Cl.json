@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20240221-NISARf-0001-NISAR-How-Fieldwork-in-the-Amazon-Is-Supporting-NASA-Cl",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:28:13Z",
   "duration": 136.51,
   "source_file": {
@@ -323,5 +323,6 @@
     114.76,
     123.26,
     131.76
-  ]
+  ],
+  "pass_reason": "Science fieldwork feature."
 }

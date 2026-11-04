@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20201222LBFD",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T10:01:07Z",
   "duration": 92.6,
   "source_file": {
@@ -80,5 +80,6 @@
     77.71,
     83.47,
     89.22
-  ]
+  ],
+  "pass_reason": "X-59 factory assembly with text cards; no danger or event."
 }

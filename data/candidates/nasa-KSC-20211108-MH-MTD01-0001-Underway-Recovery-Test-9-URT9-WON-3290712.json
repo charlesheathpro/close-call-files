@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20211108-MH-MTD01-0001-Underway-Recovery-Test-9-URT9-WON-3290712",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:19:49Z",
   "duration": 44.46,
   "source_file": {
@@ -120,5 +120,6 @@
     37.09,
     39.84,
     42.58
-  ]
+  ],
+  "pass_reason": "Calm Navy recovery practice with a test capsule; no danger, and Orion recovery already covered."
 }

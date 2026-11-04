@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SpX-22-WOB-Recap",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:44:23Z",
   "duration": 198.4,
   "source_file": {
@@ -320,5 +320,6 @@
     166.98,
     179.35,
     191.72
-  ]
+  ],
+  "pass_reason": "Cargo explainer with graphics."
 }

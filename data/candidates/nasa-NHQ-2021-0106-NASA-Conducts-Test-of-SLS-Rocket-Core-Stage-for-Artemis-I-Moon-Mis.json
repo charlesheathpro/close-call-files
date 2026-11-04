@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2021-0106-NASA-Conducts-Test-of-SLS-Rocket-Core-Stage-for-Artemis-I-Moon-Mis",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-02T09:06:58Z",
   "duration": 121.97,
   "source_file": {
@@ -71,5 +71,6 @@
     110.08,
     117.67
   ],
-  "editor_note": "Good: hot fire stopped early after about a minute (release). Deferred Nov 3 because a rocket test-fire Short (ccf-20261102-09) is just out; use after Nov 6. Nov 4 run: still held (booster Short published Nov 3 19:00Z); write on the Nov 5 run so it publishes Nov 6 or later."
+  "editor_note": "Good: hot fire stopped early after about a minute (release). Deferred Nov 3 because a rocket test-fire Short (ccf-20261102-09) is just out; use after Nov 6. Nov 4 run: still held (booster Short published Nov 3 19:00Z); write on the Nov 5 run so it publishes Nov 6 or later.",
+  "used_by": "ccf-20261103-30"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20171212-ABoVE-m12794-Arctic",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:31:29Z",
   "duration": 128.53,
   "source_file": {
@@ -181,5 +181,6 @@
     108.03,
     116.03,
     124.03
-  ]
+  ],
+  "pass_reason": "Science fieldwork feature."
 }

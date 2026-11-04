@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2026m000090-How-To-Recover-A-Spacecraft-260415",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:18:53Z",
   "duration": 267.9,
   "source_file": {
@@ -562,5 +562,6 @@
     225.62,
     242.33,
     259.04
-  ]
+  ],
+  "pass_reason": "Presenter-led explainer of recovery training; Orion splashdown already covered by ccf-20261030-11."
 }

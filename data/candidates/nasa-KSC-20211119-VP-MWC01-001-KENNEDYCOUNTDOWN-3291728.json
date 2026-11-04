@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20211119-VP-MWC01-001-KENNEDYCOUNTDOWN-3291728",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:41:33Z",
   "duration": 132.2,
   "source_file": {
@@ -76,5 +76,6 @@
     111.12,
     119.35,
     127.59
-  ]
+  ],
+  "pass_reason": "Weekly host-led news show."
 }

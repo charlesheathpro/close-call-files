@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20250330-MH-END01-0001-Underway-Recovery-Test-12-WON-M12874",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:23:12Z",
   "duration": 186.13,
   "source_file": {
@@ -79,5 +79,6 @@
     156.63,
     168.23,
     179.83
-  ]
+  ],
+  "pass_reason": "Calm Navy recovery practice with a test capsule; no danger, and Orion recovery already covered."
 }

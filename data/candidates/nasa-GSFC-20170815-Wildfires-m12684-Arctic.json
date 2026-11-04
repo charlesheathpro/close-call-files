@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20170815-Wildfires-m12684-Arctic",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:40:47Z",
   "duration": 28.37,
   "source_file": {
@@ -56,5 +56,6 @@
     23.51,
     25.25,
     27.0
-  ]
+  ],
+  "pass_reason": "Science expedition feature; no danger on screen."
 }

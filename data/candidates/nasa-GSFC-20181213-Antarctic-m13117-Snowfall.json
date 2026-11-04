@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20181213-Antarctic-m13117-Snowfall",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:45:05Z",
   "duration": 68.48,
   "source_file": {
@@ -68,5 +68,6 @@
     57.36,
     61.61,
     65.86
-  ]
+  ],
+  "pass_reason": "Science visualization."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20220201-NASA-Logo-TL",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:55:27Z",
   "duration": 24.11,
   "source_file": {
@@ -66,5 +66,6 @@
     19.92,
     21.39,
     22.87
-  ]
+  ],
+  "pass_reason": "Logo reinstalled; no event."
 }

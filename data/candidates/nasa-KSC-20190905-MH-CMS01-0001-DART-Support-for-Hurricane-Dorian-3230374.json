@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190905-MH-CMS01-0001-DART-Support-for-Hurricane-Dorian-3230374",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:05:22Z",
   "duration": 169.8,
   "source_file": {
@@ -67,5 +67,6 @@
     142.85,
     153.43,
     164.01
-  ]
+  ],
+  "pass_reason": "Calm aerial survey of KSC and beaches before Dorian; no danger on screen, no outcome."
 }

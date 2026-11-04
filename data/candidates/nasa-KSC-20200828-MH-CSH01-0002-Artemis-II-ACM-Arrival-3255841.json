@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200828-MH-CSH01-0002-Artemis-II-ACM-Arrival-3255841",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:55:28Z",
   "duration": 130.23,
   "source_file": {
@@ -77,5 +77,6 @@
     109.46,
     117.57,
     125.68
-  ]
+  ],
+  "pass_reason": "Hardware arrival and handling; no event."
 }

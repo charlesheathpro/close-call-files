@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20201110-M2020f-0001-Preparing-to-Land-Perseverance",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:21:29Z",
   "duration": 131.35,
   "source_file": {
@@ -261,5 +261,6 @@
     110.4,
     118.58,
     126.76
-  ]
+  ],
+  "pass_reason": "Montage of lab tests with title cards and talking heads; no single event."
 }

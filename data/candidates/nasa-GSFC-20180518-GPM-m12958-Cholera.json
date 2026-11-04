@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180518-GPM-m12958-Cholera",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:42:37Z",
   "duration": 191.55,
   "source_file": {
@@ -232,5 +232,6 @@
     161.2,
     173.14,
     185.08
-  ]
+  ],
+  "pass_reason": "Science feature."
 }

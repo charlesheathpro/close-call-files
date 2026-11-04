@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180710-Puerto-Rico-m12991-Lidar",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:26:55Z",
   "duration": 271.6,
   "source_file": {
@@ -379,5 +379,6 @@
     228.74,
     245.68,
     262.63
-  ]
+  ],
+  "pass_reason": "Lidar science feature."
 }

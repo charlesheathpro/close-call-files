@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20171011-Satellite-m12742-Wildfires",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:39:40Z",
   "duration": 32.07,
   "source_file": {
@@ -58,5 +58,6 @@
     26.63,
     28.61,
     30.58
-  ]
+  ],
+  "pass_reason": "Satellite imagery of wildfires; QA rejects views from space with no one at risk."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210218-VP-MWC01-001-INSIDEKSC-3266355",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:52:04Z",
   "duration": 105.6,
   "source_file": {
@@ -71,5 +71,6 @@
     88.68,
     95.25,
     101.82
-  ]
+  ],
+  "pass_reason": "Weekly host-led news show."
 }
