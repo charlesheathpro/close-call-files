@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261104-04",
   "candidate_id": "nasa-jcs2023m000039-Space-to-Ground-489-230908",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "crew capsule splashdown",
   "music_mood": "aviation",
@@ -9,13 +9,13 @@
   "hook": "Four people rode this capsule down from orbit.",
   "narration": [
     "Four people were inside this capsule as it fell out of orbit.",
-    "SpaceX Crew-6 had lived on the space station for one hundred eighty-six days.",
-    "On September third, 2023, their Dragon undocked and headed home.",
+    "Crew-6 had spent one hundred eighty-six days in space.",
+    "On September third, their Dragon undocked and headed home.",
     "Four minutes out, at three hundred fifty miles an hour, two small drogue chutes opened.",
     "Then the four main parachutes opened, about six thousand feet up.",
     "Drogues steady a falling capsule so the big mains can open safely.",
     "[short pause] It splashed down off Jacksonville, Florida.",
-    "The recovery ship hoisted the capsule onto its main deck with the astronauts still inside."
+    "The recovery ship lifted the capsule aboard with the crew still inside."
   ],
   "outcome": "Then the crew was taken out of the spacecraft, back on Earth at last.",
   "location_card": {
@@ -33,51 +33,44 @@
     ],
     [
       {
-        "start": 18.0,
-        "end": 21.5,
+        "start": 17.2,
+        "end": 20.6,
         "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 14.0,
-        "end": 16.4,
-        "layout": "fit",
         "crop_x": 0.5
       }
     ],
     [
       {
         "start": 22.0,
-        "end": 25.5,
+        "end": 25.6,
         "layout": "crop",
-        "crop_x": 0.4,
-        "speed": 0.9
+        "crop_x": 0.42
       }
     ],
     [
       {
-        "start": 44.0,
-        "end": 46.2,
+        "start": 43.2,
+        "end": 45.6,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.47
       },
       {
-        "start": 46.2,
-        "end": 48.2,
+        "start": 45.6,
+        "end": 47.8,
         "layout": "crop",
-        "crop_x": 0.44
+        "crop_x": 0.48
       }
     ],
     [
       {
         "start": 48.4,
-        "end": 51.6,
+        "end": 51.2,
         "layout": "crop",
         "crop_x": 0.42
       },
       {
-        "start": 51.6,
-        "end": 55.0,
+        "start": 51.2,
+        "end": 53.8,
         "layout": "crop",
         "crop_x": 0.55
       }
@@ -85,51 +78,57 @@
     [
       {
         "start": 55.0,
-        "end": 58.5,
+        "end": 58.0,
         "layout": "crop",
         "crop_x": 0.47
       }
     ],
     [
       {
-        "start": 63.6,
-        "end": 66.2,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 67.0,
-        "end": 70.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 71.0,
-        "end": 74.0,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
-        "start": 75.5,
-        "end": 78.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 79.0,
-        "end": 82.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 58.5,
+        "start": 58.4,
         "end": 61.0,
         "layout": "crop",
         "crop_x": 0.47
+      },
+      {
+        "start": 63.6,
+        "end": 66.1,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 66.7,
+        "end": 69.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 70.0,
+        "end": 73.0,
+        "layout": "crop",
+        "crop_x": 0.58
+      }
+    ],
+    [
+      {
+        "start": 74.8,
+        "end": 77.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 78.0,
+        "end": 81.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 81.0,
+        "end": 84.0,
+        "layout": "crop",
+        "crop_x": 0.52
       }
     ]
   ],
@@ -154,6 +153,10 @@
       "source_quote": "ON SUNDAY, SEPTEMBER 3RD, THE MEMBERS OF NASA’S SPACEX CREW-6,"
     },
     {
+      "claim": "186 days in space",
+      "source_quote": "AFTER 186 DAYS IN SPACE."
+    },
+    {
       "claim": "350 mph four minutes before splashdown when drogues deployed",
       "source_quote": "FOUR MINUTES BEFORE SPLASHDOWN, THE DRAGON WAS TRAVELING"
     },
@@ -162,13 +165,12 @@
       "source_quote": "AND LESS THAN A MINUTE LATER, THE MAIN PARACHUTES DEPLOYED"
     },
     {
-      "claim": "Landed Sept 4 off Jacksonville after 186 days",
+      "claim": "Landed Sept 4 off Jacksonville",
       "source_quote": "OF SEPTEMBER 4TH OFF THE COAST OF JACKSONVILLE, FLORIDA,"
     },
     {
       "claim": "Hoisted onto main deck with astronauts inside, then crew taken out",
       "source_quote": "AND HOIST THE CAPSULE ONTO THE MAIN DECK"
     }
-  ],
-  "preview_ok": "L2 shot 2 is the Dragon against black space; DARK is the background, the capsule is clearly in frame (checked shot_preview.jpg)"
+  ]
 }
