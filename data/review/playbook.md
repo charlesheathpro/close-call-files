@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-04T03:11:08Z from 43 Shorts older than 48 hours)
+# Playbook (computed 2026-11-04T10:43:25Z from 43 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -6,8 +6,8 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - source: nasa (+0.76, 3 Shorts)
 - spacecraft or test story (+0.76, 3 Shorts)
 - lane: aviation_naval (+0.64, 4 Shorts)
-- story: capsized boat, people in the water (+0.53, 1 Shorts)
 - story: splashdown recovery (+0.53, 1 Shorts)
+- story: capsized boat, people in the water (+0.52, 1 Shorts)
 - story: launch abort test (+0.5, 1 Shorts)
 - music: aviation (+0.45, 2 Shorts)
 - hook names a child (+0.26, 7 Shorts)
@@ -23,22 +23,20 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: cliff hoist (-0.26, 1 Shorts)
 
 ## Best Shorts
-- Orion splashes down after the Moon: 9391 views, 96% watched
-- Boat flipped with a 4-year-old aboard: 18626 views, 78% watched
-- Capsule torn off a rocket at Mach 1: 5168 views, 97% watched
-- Dog fell off an Oregon sea cliff: 1288 views, 84% watched
+- Orion splashes down after the Moon: 9395 views, 96% watched
+- Boat flipped with a 4-year-old aboard: 18724 views, 78% watched
+- Capsule torn off a rocket at Mach 1: 5249 views, 97% watched
+- Dog fell off an Oregon sea cliff: 1289 views, 84% watched
 - Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
 
 ## Weakest Shorts
-- Lava fountains roar out of Kilauea: 443 views, 67% watched
-- Hiker hurt on an Oregon sea cliff: 827 views, 48% watched
-- Yacht broke in two on Lake Erie: 1221 views, 37% watched
+- Lava fountains roar out of Kilauea: 444 views, 67% watched
+- Hiker hurt on an Oregon sea cliff: 829 views, 48% watched
+- Yacht broke in two on Lake Erie: 1220 views, 37% watched
 - 214 people trapped by a wildfire: 341 views, 61% watched
 - Mauna Loa erupts after 38 years: 145 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261028-03: The source is a USCG vertical Short with the real picture in a thin middle band and blur filling the rest, so the Short looks small and soft. The opening is a grainy gray FLIR frame, the basket line (7 to 9s) sits on dark blur, and the cabin shots (12 to 15s) are washed out. No visible danger surviv
-- ccf-20261028-04: Calm, routine night hoist from a disabled sailboat with no injuries and no visible danger, shown as a small letterboxed thermal window over a blurred fill; it fails the viral bar and is one more sea hoist in a buffer that is already almost all rescue.
 - ccf-20261028-09: Now 25s, but render 9.3 to 17.5s (source 9.3 to 18.0) is about 8 seconds of riders' legs dangling over palm trees; the riders are above the top edge of the source frame there, so no crop_x can fix it (check 2 and 11 fail). The strong footage (source 0.2 to 9.3 and 18.0 to 28.4) only carries about 19
 - ccf-20261029-04: Best opening flames of the batch, but the payoff is never on screen: 'All seven were pulled from the raft' plays over the cutter and an empty-looking raft, and 8 to 14s is a soft, distant boat half cut off by the crop. It is also the third burning-boat-and-raft story in two days (29-03 and 29-05 cov
 - ccf-20261030-01: Outcome 'to dry ground' is not in the release and is not shown, and the last 4 seconds are empty sky with a helicopter under a line about the truck. Calm wading also reads as the 4th Harvey flood Short this week.
@@ -52,3 +50,9 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261030-10: The hook promises a 3,000 gallon drop that never appears on screen, and the title says it flies into the smoke, which the footage does not show. It is also the same C-130 over a wildfire story as 27-76.
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
 - ccf-20261103-03: Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th
+- ccf-20261104-01: Rev 2 render is clean (empty-sky shot gone), but it is interchangeable with ccf-20261102-07, two men on a capsized hull off Florida, which publishes today Nov 4 19:00Z. Hold, do not drop: the footage is strong.
+- ccf-20261104-03: Calm top-down hoist from a riverbank with no visible danger; line 1 says 'This man' over a Coast Guard crewman. Fails the viral bar for a routine hoist.
+
+## Changed tonight
+- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.3, 'aviation_naval': 0.6, 'hazards': 0.1}
+- query weights for 28 searches

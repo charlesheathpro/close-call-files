@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-04T03:11:08Z",
+  "at": "2026-11-04T10:43:25Z",
   "mature": 43,
   "features": [
     {
@@ -18,14 +18,14 @@
       "effect": 0.64
     },
     {
-      "feature": "story: capsized boat, people in the water",
+      "feature": "story: splashdown recovery",
       "n": 1,
       "effect": 0.53
     },
     {
-      "feature": "story: splashdown recovery",
+      "feature": "story: capsized boat, people in the water",
       "n": 1,
-      "effect": 0.53
+      "effect": 0.52
     },
     {
       "feature": "story: launch abort test",
@@ -93,14 +93,14 @@
       "effect": 0.07
     },
     {
-      "feature": "story: trapped dog",
+      "feature": "story: stranded on jetty",
       "n": 1,
       "effect": 0.07
     },
     {
-      "feature": "story: stranded on jetty",
+      "feature": "story: trapped dog",
       "n": 1,
-      "effect": 0.06
+      "effect": 0.07
     },
     {
       "feature": "hook has a number",
@@ -113,17 +113,12 @@
       "effect": 0.05
     },
     {
-      "feature": "flood or hurricane story",
-      "n": 14,
-      "effect": 0.02
-    },
-    {
       "feature": "length 30 to 45 s",
       "n": 13,
       "effect": 0.02
     },
     {
-      "feature": "story: hoist from water",
+      "feature": "story: car in water",
       "n": 1,
       "effect": 0.02
     },
@@ -133,12 +128,17 @@
       "effect": 0.02
     },
     {
+      "feature": "flood or hurricane story",
+      "n": 14,
+      "effect": 0.01
+    },
+    {
       "feature": "source: commons",
       "n": 6,
       "effect": 0.01
     },
     {
-      "feature": "story: car in water",
+      "feature": "story: hoist from water",
       "n": 1,
       "effect": 0.01
     },
@@ -260,7 +260,7 @@
     {
       "feature": "story: flood hoist from rooftop",
       "n": 1,
-      "effect": -0.16
+      "effect": -0.17
     },
     {
       "feature": "lane: rescue",
@@ -312,74 +312,74 @@
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
-      "views": 9391.0,
+      "views": 9395.0,
       "ret": 95.5,
-      "score": 2.084
+      "score": 2.081
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 18626.0,
+      "views": 18724.0,
       "ret": 78.17,
-      "score": 2.052
+      "score": 2.05
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5168.0,
+      "views": 5249.0,
       "ret": 96.64,
-      "score": 1.934
+      "score": 1.938
     },
     {
       "short_id": "ccf-20261027-58",
       "title": "Dog fell off an Oregon sea cliff",
-      "views": 1288.0,
-      "ret": 83.67,
-      "score": 0.841
+      "views": 1289.0,
+      "ret": 83.77,
+      "score": 0.844
     },
     {
       "short_id": "ccf-20261027-40",
       "title": "Lifted off a roof in Harvey's floodwater",
       "views": 1394.0,
       "ret": 90.97,
-      "score": 0.677
+      "score": 0.676
     }
   ],
   "bottom": [
     {
       "short_id": "ccf-20261030-06",
       "title": "Lava fountains roar out of Kilauea",
-      "views": 443.0,
+      "views": 444.0,
       "ret": 66.79,
-      "score": -0.936
+      "score": -0.934
     },
     {
       "short_id": "ccf-20261030-70",
       "title": "Hiker hurt on an Oregon sea cliff",
-      "views": 827.0,
+      "views": 829.0,
       "ret": 47.98,
-      "score": -1.035
+      "score": -1.033
     },
     {
       "short_id": "ccf-20261030-51",
       "title": "Yacht broke in two on Lake Erie",
-      "views": 1221.0,
+      "views": 1220.0,
       "ret": 37.23,
-      "score": -1.068
+      "score": -1.069
     },
     {
       "short_id": "ccf-20261030-40",
       "title": "214 people trapped by a wildfire",
       "views": 341.0,
       "ret": 60.760000000000005,
-      "score": -1.289
+      "score": -1.288
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 145.0,
       "ret": 65.86,
-      "score": -1.738
+      "score": -1.736
     }
   ],
   "query_weights": {
@@ -414,18 +414,10 @@
   },
   "lane_scores": {
     "rescue": -0.03,
-    "hazards": -0.49,
+    "hazards": -0.48,
     "aviation_naval": 0.58
   },
   "qa_rejections_7d": [
-    {
-      "short_id": "ccf-20261028-03",
-      "notes": "The source is a USCG vertical Short with the real picture in a thin middle band and blur filling the rest, so the Short looks small and soft. The opening is a grainy gray FLIR frame, the basket line (7 to 9s) sits on dark blur, and the cabin shots (12 to 15s) are washed out. No visible danger surviv"
-    },
-    {
-      "short_id": "ccf-20261028-04",
-      "notes": "Calm, routine night hoist from a disabled sailboat with no injuries and no visible danger, shown as a small letterboxed thermal window over a blurred fill; it fails the viral bar and is one more sea hoist in a buffer that is already almost all rescue."
-    },
     {
       "short_id": "ccf-20261028-09",
       "notes": "Now 25s, but render 9.3 to 17.5s (source 9.3 to 18.0) is about 8 seconds of riders' legs dangling over palm trees; the riders are above the top edge of the source frame there, so no crop_x can fix it (check 2 and 11 fail). The strong footage (source 0.2 to 9.3 and 18.0 to 28.4) only carries about 19"
@@ -477,8 +469,19 @@
     {
       "short_id": "ccf-20261103-03",
       "notes": "Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th"
+    },
+    {
+      "short_id": "ccf-20261104-01",
+      "notes": "Rev 2 render is clean (empty-sky shot gone), but it is interchangeable with ccf-20261102-07, two men on a capsized hull off Florida, which publishes today Nov 4 19:00Z. Hold, do not drop: the footage is strong."
+    },
+    {
+      "short_id": "ccf-20261104-03",
+      "notes": "Calm top-down hoist from a riverbank with no visible danger; line 1 says 'This man' over a Coast Guard crewman. Fails the viral bar for a routine hoist."
     }
   ],
-  "config_changed_at": "2026-11-03T10:40:34Z",
-  "changed": []
+  "config_changed_at": "2026-11-04T10:43:25Z",
+  "changed": [
+    "lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.3, 'aviation_naval': 0.6, 'hazards': 0.1}",
+    "query weights for 28 searches"
+  ]
 }
