@@ -248,7 +248,8 @@ HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog
          (r"\b(hurricane|flood)", 2), (r"\b(rescue|rescues|hoist|saves|saved)\b", 2),
          (r"\b(ejection|ejects|crash|arrest|barricade)", 3),
          (r"\b(lava|eruption|erupt|volcan|tornado|wildfire|avalanche|landslide|mudslide|tsunami|waterspout|lightning)", 3),
-         (r"\b(abort|anomaly|failure|explod|impact|splashdown|eye of|hurricane hunter|whiteout|blizzard)", 3)]
+         (r"\b(abort|anomaly|failure|explod|impact|splashdown|eye of|hurricane hunter|whiteout|blizzard)", 3),
+         (r"\b(engine test|hot fire|test fire|drop test|crash test|launch|liftoff|landing|ejection|sled|parachute|booster)", 3)]
 
 
 def title_score(title):
