@@ -1,23 +1,22 @@
 {
-  "at": "2026-11-03T16:54:28Z",
+  "at": "2026-11-04T00:25:00Z",
   "healthy": false,
   "numbers": {
     "dropped": 29,
     "uploaded": 63,
-    "passed": 4,
+    "passed": 5,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_next_36h": 7
+    "scheduled_next_36h": 2
   },
   "found": [
-    "passed + scheduled in next 36h was 9 at start (need 15); buffer 10 (need 25)",
-    "both archive harvests (00:20Z and 08:21Z) were killed by a GitHub runner shutdown about 50 minutes in, after processing 150+ assets, so nothing was committed",
-    "YouTube upload limit active until 2026-11-04T04:02Z (uploadLimitExceeded at 08:23Z); no auth or upload_error alerts",
-    "no build errors; build, upload and stats runs landing"
+    "passed + scheduled in next 36h is 7 (need 15); buffer 5 (need 25)",
+    "YouTube upload limit active until 2026-11-04T04:02Z, so no upload run is due before then; no auth or upload_error alerts",
+    "no build errors; harvest (partial), build and stats runs landing"
   ],
   "fixed": [
-    "harvest.py now commits every 20 new candidates (HARVEST_COMMIT_EVERY in harvest.yml, unbuffered output), and the archive harvest was restarted: partial commits are landing (120 so far)",
-    "editor pass on the fresh harvest: 2 specs written (ccf-20261103-03 diver off Myrtle Beach, later dropped in QA; ccf-20261103-04 Radiant Pride tanker, passed after one recut); about 100 fresh candidates passed over, mostly roundups, ceremonies, drills and calm or murky hoists",
-    "QA: Holloman ejection sled (ccf-20261103-02) recut and passed"
+    "QA: SLS tank test to failure (ccf-20261103-05) recut to rev 2 and passed",
+    "editor sweep of fresh rescue and aviation candidates: 12 passed over (calm pickups, transit shots, injury story, no person at risk); no new spec cleared the viral bar",
+    "held for a later editor run: SLS Green Run hot fire cut short after about a minute (nasa-NHQ-2021-0106-...), strong footage but too close to the booster test (Nov 2) and the SLS tank test queued now"
   ]
 }
