@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-563278",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T17:47:20Z",
   "duration": 81.13,
   "source_file": {
@@ -71,5 +71,6 @@
     68.03,
     73.07,
     78.11
-  ]
+  ],
+  "pass_reason": "helicopter landing after the rescue; no danger on screen"
 }

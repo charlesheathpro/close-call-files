@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-3296595",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:44:44Z",
   "duration": 135.3,
   "source_file": {
@@ -145,5 +145,6 @@
     113.74,
     122.16,
     130.59
-  ]
+  ],
+  "pass_reason": "Artemis I splashdown story already posted"
 }

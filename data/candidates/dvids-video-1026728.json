@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026728",
   "asset_id": "video:1026728",
-  "status": "new",
+  "status": "passed_over",
   "lane": "hazards",
   "matched_query": "wildfire",
   "harvested_at": "2026-10-27T15:50:24Z",
@@ -185,5 +185,6 @@
     87.28,
     93.74,
     100.2
-  ]
+  ],
+  "pass_reason": "incident command post talk; no fire action"
 }

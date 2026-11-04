@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-546908",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:51:25Z",
   "duration": 51.36,
   "source_file": {
@@ -62,5 +62,6 @@
     42.91,
     46.09,
     49.27
-  ]
+  ],
+  "pass_reason": "helicopters taking off; no rescue on screen"
 }
