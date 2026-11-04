@@ -4,8 +4,8 @@
   "lane": "rescue",
   "matched_query": "rescues dog",
   "title": "CDA John Barrett Visits Urban Search and Rescue Site",
-  "description": "On June 30, Chargé d’Affaires John Barrett visited an urban search and rescue site following the devastating earthquakes in Venezuela. USAR teams continue to search for survivors using all available resources, including rescue dogs, DELSAR listening devices, and specialized equipment to assist in the search.\r\n\r\nLocation: La Guaira, Venezuela",
-  "keywords": "State Department, rescue dogs, DART, K-9, VenEarthquake, Chargé d’Affaires John Barrett",
+  "description": "On June 30, Charg\u00e9 d\u2019Affaires John Barrett visited an urban search and rescue site following the devastating earthquakes in Venezuela. USAR teams continue to search for survivors using all available resources, including rescue dogs, DELSAR listening devices, and specialized equipment to assist in the search.\r\n\r\nLocation: La Guaira, Venezuela",
+  "keywords": "State Department, rescue dogs, DART, K-9, VenEarthquake, Charg\u00e9 d\u2019Affaires John Barrett",
   "date": "2026-06-30T00:00:00-04:00",
   "date_published": "2026-07-01T16:26:05-04:00",
   "branch": "Civilian",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1013179",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:42:08Z",
   "duration": 595.44,
   "source_file": {
@@ -853,5 +853,6 @@
     501.98,
     539.17,
     576.35
-  ]
+  ],
+  "pass_reason": "Diplomat visit to an earthquake search site; no rescue on camera"
 }

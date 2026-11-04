@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-907306",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T17:47:10Z",
   "duration": 49.52,
   "source_file": {
@@ -66,5 +66,6 @@
     41.36,
     44.42,
     47.48
-  ]
+  ],
+  "pass_reason": "Story ends with a body recovered; the release leads with the death, not a resolved rescue"
 }

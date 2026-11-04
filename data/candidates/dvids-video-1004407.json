@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1004407",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:52:12Z",
   "duration": 156.06,
   "source_file": {
@@ -461,5 +461,6 @@
     131.25,
     140.97,
     150.69
-  ]
+  ],
+  "pass_reason": "Search suspended for a missing crew, interview only; no resolved rescue"
 }

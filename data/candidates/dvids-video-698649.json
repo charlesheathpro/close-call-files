@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-698649",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:44:51Z",
   "duration": 390.1,
   "source_file": {
@@ -254,5 +254,6 @@
     328.73,
     353.08,
     377.43
-  ]
+  ],
+  "pass_reason": "K-9 profile feature; no event"
 }
