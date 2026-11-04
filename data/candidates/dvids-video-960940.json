@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:960940",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "emergency landing",
+  "title": "JBER performs Controlled Burns",
+  "description": "Joint Base Elmendorf-Richardson Fire and Emergency Services, 11th Airborne Division, and the Air Force Wildland Fire Branch JBER Wildland Support Module conduct multiple controlled burns on JBER training lands beginning May 1.",
+  "keywords": "JBER, firefighters",
+  "date": "2025-05-01T00:00:00-04:00",
+  "date_published": "2025-05-14T18:33:19-04:00",
+  "branch": "Air Force",
+  "unit_name": "Joint Base Elmendorf-Richardson",
+  "credit": "Airman Raina Dale",
+  "category": "B-Roll",
+  "virin": "250501-F-LX394-1001",
+  "location": {
+    "city": "JBER",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/960940/jber-performs-controlled-burns",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-960940",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:19:32Z",
+  "duration": 51.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110967250/DOD_110967250.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 59204628
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.07,
+    3.8,
+    7.64,
+    12.6,
+    16.58,
+    19.74,
+    27.09,
+    31.15,
+    34.77,
+    38.47,
+    40.97,
+    45.31
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-960940.jpg",
+  "sheet_times": [
+    1.58,
+    4.74,
+    7.9,
+    11.05,
+    14.21,
+    17.37,
+    20.53,
+    23.69,
+    26.85,
+    30.0,
+    33.16,
+    36.32,
+    39.48,
+    42.64,
+    45.8,
+    48.96
+  ]
+}

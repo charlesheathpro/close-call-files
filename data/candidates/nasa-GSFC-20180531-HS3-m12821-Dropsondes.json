@@ -1,0 +1,143 @@
+{
+  "asset_id": "nasa:GSFC_20180531_HS3_m12821_Dropsondes",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "parachute",
+  "title": "NASA Studies Hurricane Edouard in HS3 Mission (2014)",
+  "description": "NASA's Global Hawk in 2014 traveled to the middle of the Atlantic and flew over Hurricane Edouard. Remote sensing nstruments on the plane measured temperature, relative humidity, wind speed, wind direction as well as other data. Along with measurements from the aircraft, NASA scientists also collected data from dropsondes that parachuted down through the hurricane.",
+  "keywords": "Atmospheric Science, Natural Hazards, Hurricanes, Wind Profiles, Global Hawk, Earth",
+  "date": "2018-05-31T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20180531_HS3_m12821_Dropsondes",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20180531-HS3-m12821-Dropsondes",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:20:55Z",
+  "duration": 82.13,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20180531_HS3_m12821_Dropsondes/GSFC_20180531_HS3_m12821_Dropsondes~large.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.18,
+      "e": 7.18,
+      "text": "In 2014, NASA sent its Global Hawk aircraft out over the ocean to study hurricane Edward."
+    },
+    {
+      "s": 7.18,
+      "e": 11.88,
+      "text": "This remotely piloted vehicle collects data like temperature, relative humidity, and wind"
+    },
+    {
+      "s": 11.88,
+      "e": 16.78,
+      "text": "speed to better understand how hurricanes intensify."
+    },
+    {
+      "s": 16.78,
+      "e": 21.38,
+      "text": "Sometimes clouds block the measurements taken directly below the aircraft, so the scientists"
+    },
+    {
+      "s": 21.38,
+      "e": 25.82,
+      "text": "drop individual instruments that parachute down to the surface."
+    },
+    {
+      "s": 25.82,
+      "e": 31.54,
+      "text": "These drop psalms also measure the wind speed and direction as they fall."
+    },
+    {
+      "s": 31.54,
+      "e": 36.46,
+      "text": "Near the surface, especially in the center of the storm, the deep red to orange color indicates"
+    },
+    {
+      "s": 36.46,
+      "e": 40.9,
+      "text": "there is plenty of moisture for the storm to draw on to intensify."
+    },
+    {
+      "s": 40.9,
+      "e": 45.9,
+      "text": "The result is a well-defined circulation of winds, which are strongest near the storm's"
+    },
+    {
+      "s": 45.9,
+      "e": 48.82,
+      "text": "center."
+    },
+    {
+      "s": 48.82,
+      "e": 53.74,
+      "text": "During hurricane Edward, dry air near the center slowed intensification."
+    },
+    {
+      "s": 53.74,
+      "e": 58.9,
+      "text": "But then, just before a period of rapid intensification, clouds and precipitation moved into the dry"
+    },
+    {
+      "s": 58.9,
+      "e": 61.9,
+      "text": "region, bringing moisture."
+    },
+    {
+      "s": 61.9,
+      "e": 66.06,
+      "text": "Did the movement of moisture cause the rapid intensification, or did the stronger winds"
+    },
+    {
+      "s": 66.06,
+      "e": 71.22,
+      "text": "at the onset of intensification cause the clouds and precipitation to move?"
+    },
+    {
+      "s": 71.22,
+      "e": 73.46,
+      "text": "Studies like this one will help us learn that easily."
+    }
+  ],
+  "scene_cuts": [
+    74.2
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      76.8,
+      77.7
+    ],
+    "silence_ends": [
+      77.7,
+      82.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20180531-HS3-m12821-Dropsondes.jpg",
+  "sheet_times": [
+    2.55,
+    7.65,
+    12.76,
+    17.86,
+    22.96,
+    28.06,
+    33.16,
+    38.27,
+    43.37,
+    48.47,
+    53.57,
+    58.67,
+    63.78,
+    68.88,
+    73.98,
+    79.08
+  ]
+}

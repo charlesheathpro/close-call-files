@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:GSFC_20141113_Volcanoes_m10183_Degassing_Clouds",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "volcano",
+  "title": "How Do Active Volcanoes Change Clouds: Degassing Clouds",
+  "description": "NASA Goddard Space Flight Center scientist Andrew Sayer talks about how emissions from volcanoes can affect clouds.",
+  "keywords": "Atmospheric Science, Geology, Natural Hazards, Structural Geology, Volcano, Aerosols, Clouds, Aerosol Particle Properties, Albedo, Earth",
+  "date": "2014-11-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141113_Volcanoes_m10183_Degassing_Clouds",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141113-Volcanoes-m10183-Degassing-Clouds",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:19:27Z",
+  "duration": 20.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141113_Volcanoes_m10183_Degassing_Clouds/GSFC_20141113_Volcanoes_m10183_Degassing_Clouds~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 3.17,
+      "e": 9.08,
+      "text": "Around the Kilauea volcano in Hawaii scientists measured a 30 percent in"
+    },
+    {
+      "s": 9.08,
+      "e": 13.39,
+      "text": "aerosol-affected cloud particle size."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      11.6
+    ],
+    "silence_ends": [
+      3.7,
+      20.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141113-Volcanoes-m10183-Degassing-Clouds.jpg",
+  "sheet_times": [
+    0.61,
+    1.83,
+    3.05,
+    4.27,
+    5.49,
+    6.71,
+    7.94,
+    9.16,
+    10.38,
+    11.6,
+    12.82,
+    14.04,
+    15.26,
+    16.48,
+    17.7,
+    18.92
+  ]
+}
