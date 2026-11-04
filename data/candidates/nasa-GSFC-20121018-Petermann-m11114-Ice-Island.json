@@ -1,0 +1,108 @@
+{
+  "asset_id": "nasa:GSFC_20121018_Petermann_m11114_Ice_Island",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "water landing",
+  "title": "Petermann Ice Island 2012",
+  "description": "In the spring and summer of 2012, land- and sea ice thinned in some regions within the Arctic Circle and completely disappeared in others. Satellites watched as a hurricane-force storm hovered over the North Pole, the Northwest Passage was full of open water, and Greenland's Petermann Glacier dropped another city-sized ice cube into the sea. The Arctic Ocean witnessed its lowest area of sea ice since satellite records began in 1979, and nearly the entire surface of Greenland was melting simultaneously for a weekend in July. Some of the phenomena were familiar and natural, if a bit more extreme. Other events lined up with scientists' ideas about how Arctic weather and climate are changing because of warmer ocean and air temperatures and lower albedo (sunlight reflectance).",
+  "keywords": "Earth, Petermann Ice Island, North Pole",
+  "date": "2012-10-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20121018_Petermann_m11114_Ice_Island",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20121018-Petermann-m11114-Ice-Island",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:18:15Z",
+  "duration": 80.02,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20121018_Petermann_m11114_Ice_Island/GSFC_20121018_Petermann_m11114_Ice_Island~orig.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.52,
+      "e": 9.86,
+      "text": "July 16, 2012. The Peterman Glacier in northwest Greenland lost a massive iceberg for the second"
+    },
+    {
+      "s": 9.86,
+      "e": 15.48,
+      "text": "time in three years. As the ice floating in the fjord broke up, the ice island was carried"
+    },
+    {
+      "s": 15.48,
+      "e": 23.22,
+      "text": "by the currents down the glaciers outlet channel and toward the Nares Street. Known as Peterman"
+    },
+    {
+      "s": 23.22,
+      "e": 30.42,
+      "text": "Ice Island 2012, it is bigger than Manhattan Island and floating at one kilometer per day."
+    },
+    {
+      "s": 30.42,
+      "e": 36.5,
+      "text": "NASA's Aqua and Terra satellites make multiple passes each day over the polar regions, which"
+    },
+    {
+      "s": 36.5,
+      "e": 43.82,
+      "text": "allowed scientists to track the island whenever clouds didn't block the view. Scientists have"
+    },
+    {
+      "s": 43.82,
+      "e": 52.54,
+      "text": "been watching this crack develop since 2001. Ocean temperatures are one of the factors determining"
+    },
+    {
+      "s": 52.54,
+      "e": 60.94,
+      "text": "when glaciers will cavern iceberg. The warmer water destabilizes the ice. After two months"
+    },
+    {
+      "s": 60.94,
+      "e": 67.26,
+      "text": "at sea, Peterman Ice Island 2012 had begun to fragment as it floated down the Nares Street."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      58.5,
+      59.4,
+      67.3
+    ],
+    "silence_ends": [
+      59.4,
+      60.2,
+      80.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20121018-Petermann-m11114-Ice-Island.jpg",
+  "sheet_times": [
+    2.49,
+    7.46,
+    12.43,
+    17.4,
+    22.37,
+    27.34,
+    32.31,
+    37.28,
+    42.25,
+    47.22,
+    52.19,
+    57.16,
+    62.13,
+    67.1,
+    72.07,
+    77.04
+  ]
+}

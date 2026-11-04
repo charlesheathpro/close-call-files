@@ -1,0 +1,138 @@
+{
+  "asset_id": "nasa:GSFC_20141113_Volcanoes_m10183_Change_Clouds",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "volcano",
+  "title": "How Do Active Volcanoes Change Clouds?",
+  "description": "NASA Goddard Space Flight Center scientist Andrew Sayer talks about how emissions from volcanoes can affect clouds. This video provides an overview of research published in the Journal of Atmospheric Chemistry and Physics.",
+  "keywords": "Atmospheric Science, Geology, Natural Hazards, Structural Geology, Volcano, Aerosols, Clouds, Volcanoes, Albedo, Earth",
+  "date": "2014-11-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141113_Volcanoes_m10183_Change_Clouds",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141113-Volcanoes-m10183-Change-Clouds",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:18:58Z",
+  "duration": 86.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141113_Volcanoes_m10183_Change_Clouds/GSFC_20141113_Volcanoes_m10183_Change_Clouds~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.18,
+      "e": 8.18,
+      "text": "Volcanoes, you might think of big, loud eruptions, glowing lava and dark volcanic ash entering the sky."
+    },
+    {
+      "s": 8.18,
+      "e": 16.18,
+      "text": "But when volcanoes aren't erupting, they can leak reactive gases into the atmosphere that form tiny particles known as aerosols."
+    },
+    {
+      "s": 16.18,
+      "e": 21.18,
+      "text": "Aerosols are these tiny particles which are suspended in the atmosphere, and they're many times smaller than a human hair."
+    },
+    {
+      "s": 21.18,
+      "e": 25.18,
+      "text": "They can scatter and absorb light and can affect clouds."
+    },
+    {
+      "s": 25.18,
+      "e": 30.18,
+      "text": "Studies have shown that volcanic aerosols can change the properties of water droplets that make up clouds."
+    },
+    {
+      "s": 30.18,
+      "e": 38.18,
+      "text": "To learn more about these changes, scientists analyzed several years of observations from NASA and European-based agency satellites."
+    },
+    {
+      "s": 38.18,
+      "e": 44.18,
+      "text": "They specifically looked at how the properties of water droplets changed around active volcanoes."
+    },
+    {
+      "s": 44.18,
+      "e": 53.18,
+      "text": "To avoid interference from other aerosol sources such as city pollution, recite is compared three isolated islands with volcanic activity."
+    },
+    {
+      "s": 53.18,
+      "e": 56.18,
+      "text": "To three islands without."
+    },
+    {
+      "s": 56.18,
+      "e": 64.18,
+      "text": "Around the islands with no volcanic activity, water droplets were mostly unaffected, but around the islands with volcanic activity."
+    },
+    {
+      "s": 64.18,
+      "e": 68.18,
+      "text": "Water droplets were smaller and the clouds appeared brighter."
+    },
+    {
+      "s": 68.18,
+      "e": 72.18,
+      "text": "Clouds with smaller droplets tend to be brighter and reflect more heat energy back to space."
+    },
+    {
+      "s": 72.18,
+      "e": 77.18,
+      "text": "If the amount of heat reflected into space changes, this can affect things like rainfall and winds."
+    },
+    {
+      "s": 77.18,
+      "e": 84.18,
+      "text": "Learning more about aerosols and how they interact with clouds will help scientists light meat to better understand and predict future weather and climates."
+    }
+  ],
+  "scene_cuts": [
+    4.4,
+    5.43,
+    8.13,
+    17.83,
+    21.57,
+    30.73,
+    38.73,
+    48.77,
+    56.47,
+    72.4,
+    77.5,
+    84.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141113-Volcanoes-m10183-Change-Clouds.jpg",
+  "sheet_times": [
+    2.68,
+    8.04,
+    13.41,
+    18.77,
+    24.13,
+    29.49,
+    34.86,
+    40.22,
+    45.58,
+    50.94,
+    56.31,
+    61.67,
+    67.03,
+    72.39,
+    77.76,
+    83.12
+  ]
+}

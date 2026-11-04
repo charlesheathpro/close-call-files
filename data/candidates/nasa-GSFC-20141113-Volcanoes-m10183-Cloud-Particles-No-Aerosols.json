@@ -1,0 +1,76 @@
+{
+  "asset_id": "nasa:GSFC_20141113_Volcanoes_m10183_Cloud_Particles_No_Aerosols",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "volcano",
+  "title": "How Do Active Volcanoes Change Clouds: Cloud Particles No Aerosols",
+  "description": "NASA Goddard Space Flight Center scientist Andrew Sayer talks about how emissions from volcanoes can affect clouds.",
+  "keywords": "Atmospheric Science, Geology, Natural Hazards, Structural Geology, Volcano, Aerosols, Clouds, Volcanoes, Aerosols Particle Properties, Albedo, Earth",
+  "date": "2014-11-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141113_Volcanoes_m10183_Cloud_Particles_No_Aerosols",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141113-Volcanoes-m10183-Cloud-Particles-No-Aerosols",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:19:18Z",
+  "duration": 20.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141113_Volcanoes_m10183_Cloud_Particles_No_Aerosols/GSFC_20141113_Volcanoes_m10183_Cloud_Particles_No_Aerosols~orig.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.17,
+      "e": 4.41,
+      "text": "Researchers have found that slow-releasing volcanic air particles"
+    },
+    {
+      "s": 4.41,
+      "e": 9.51,
+      "text": "named aerosols, are making surrounding cloud particles smaller but higher in"
+    },
+    {
+      "s": 9.51,
+      "e": 12.23,
+      "text": "concentration."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 58,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.3
+    ],
+    "silence_ends": [
+      0.6,
+      20.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141113-Volcanoes-m10183-Cloud-Particles-No-Aerosols.jpg",
+  "sheet_times": [
+    0.61,
+    1.83,
+    3.05,
+    4.27,
+    5.49,
+    6.71,
+    7.94,
+    9.16,
+    10.38,
+    11.6,
+    12.82,
+    14.04,
+    15.26,
+    16.48,
+    17.7,
+    18.92
+  ]
+}

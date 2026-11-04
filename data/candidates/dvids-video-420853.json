@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:420853",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 2 Divers after Boat Capsizes",
+  "description": "A 45-foot Response Boat-Medium boatcrew from Coast Guard Station Cortez, Florida, rescues two divers after their boat capsized 10 miles west of Bean Point, Anna Maria, Florida, Monday, Aug. 24, 2015. The divers, Davin Brannon and David Frese, were transferred safely to an Eckerd SAR boatcrew with no reported injuries. U.S. Coast Guard video",
+  "keywords": "boatcrew, rb-m, Coast Guard rescue, Cortez, BRANNON, Eckerd SAR, Frese, Coast Guard, Florida, rescue, Divers, USCG",
+  "date": "2015-08-24T00:00:00-04:00",
+  "date_published": "2015-08-24T20:59:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150824-G-ZZ999-801",
+  "location": {
+    "city": "Cortez",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/420853/coast-guard-rescues-2-divers-after-boat-capsizes",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-420853",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:15:39Z",
+  "duration": 81.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102684574/DOD_102684574.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8922,
+    "size": 91618858
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    13.71,
+    13.85,
+    14.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-420853.jpg",
+  "sheet_times": [
+    6.43,
+    11.23,
+    16.04,
+    20.84,
+    25.65,
+    30.45,
+    35.26,
+    40.06,
+    44.87,
+    49.67,
+    54.48,
+    59.29,
+    64.09,
+    68.9,
+    73.7,
+    78.51
+  ]
+}

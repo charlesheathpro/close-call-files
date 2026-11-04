@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:806156",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues four capsized boaters near Destin, Florida",
+  "description": "U.S. Coast Guard boat crew  members with Coast Guard Station Destin rescue four capsized boaters near the Destin Bridge in Destin, Florida, July 7, 2021. The boat crew found the capsized boaters while returning from a previous mission. (U.S. Coast Guard courtesy video)",
+  "keywords": "D8, Destin, CoastGuardNewsWire, Coast Guard, search and rescue, Florida, station",
+  "date": "2021-07-07T00:00:00-04:00",
+  "date_published": "2021-07-08T12:21:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210707-G-G0108-2001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/806156/coast-guard-rescues-four-capsized-boaters-near-destin-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-806156",
+  "status": "new",
+  "harvested_at": "2026-11-04T05:18:07Z",
+  "duration": 66.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108441916/DOD_108441916.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6400,
+    "size": 53217928
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    39.91,
+    42.08
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      66.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-806156.jpg",
+  "sheet_times": [
+    2.06,
+    6.18,
+    10.31,
+    14.43,
+    18.55,
+    22.67,
+    26.79,
+    30.92,
+    35.04,
+    39.16,
+    43.28,
+    47.4,
+    51.53,
+    55.65,
+    59.77,
+    63.89
+  ]
+}
