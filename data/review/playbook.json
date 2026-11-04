@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-03T21:17:01Z",
+  "at": "2026-11-04T03:11:08Z",
   "mature": 43,
   "features": [
     {
@@ -18,14 +18,14 @@
       "effect": 0.64
     },
     {
-      "feature": "story: splashdown recovery",
+      "feature": "story: capsized boat, people in the water",
       "n": 1,
       "effect": 0.53
     },
     {
-      "feature": "story: capsized boat, people in the water",
+      "feature": "story: splashdown recovery",
       "n": 1,
-      "effect": 0.52
+      "effect": 0.53
     },
     {
       "feature": "story: launch abort test",
@@ -143,13 +143,13 @@
       "effect": 0.01
     },
     {
-      "feature": "hook names an animal",
-      "n": 10,
-      "effect": 0.0
-    },
-    {
       "feature": "story: hurricane boat crew rescue with babies",
       "n": 1,
+      "effect": 0.01
+    },
+    {
+      "feature": "hook names an animal",
+      "n": 10,
       "effect": 0.0
     },
     {
@@ -198,14 +198,14 @@
       "effect": -0.04
     },
     {
-      "feature": "story: man overboard open ocean",
+      "feature": "story: life raft rescue",
       "n": 1,
       "effect": -0.04
     },
     {
-      "feature": "story: life raft rescue",
+      "feature": "story: man overboard open ocean",
       "n": 1,
-      "effect": -0.05
+      "effect": -0.04
     },
     {
       "feature": "story: rooftop hoist",
@@ -312,23 +312,23 @@
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
-      "views": 9364.0,
+      "views": 9391.0,
       "ret": 95.5,
-      "score": 2.083
+      "score": 2.084
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 18573.0,
+      "views": 18626.0,
       "ret": 78.17,
-      "score": 2.051
+      "score": 2.052
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5246.0,
+      "views": 5168.0,
       "ret": 96.64,
-      "score": 1.941
+      "score": 1.934
     },
     {
       "short_id": "ccf-20261027-58",
@@ -349,44 +349,44 @@
     {
       "short_id": "ccf-20261030-06",
       "title": "Lava fountains roar out of Kilauea",
-      "views": 446.0,
+      "views": 443.0,
       "ret": 66.79,
-      "score": -0.931
+      "score": -0.936
     },
     {
       "short_id": "ccf-20261030-70",
       "title": "Hiker hurt on an Oregon sea cliff",
       "views": 827.0,
       "ret": 47.98,
-      "score": -1.034
+      "score": -1.035
     },
     {
       "short_id": "ccf-20261030-51",
       "title": "Yacht broke in two on Lake Erie",
       "views": 1221.0,
       "ret": 37.23,
-      "score": -1.067
+      "score": -1.068
     },
     {
       "short_id": "ccf-20261030-40",
       "title": "214 people trapped by a wildfire",
-      "views": 342.0,
+      "views": 341.0,
       "ret": 60.760000000000005,
-      "score": -1.287
+      "score": -1.289
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 145.0,
       "ret": 65.86,
-      "score": -1.739
+      "score": -1.738
     }
   ],
   "query_weights": {
     "rescue infant": 0.99,
     "Hurricane Florence rescue": 0.95,
     "rescues dog": 1.02,
-    "rescue": 1.06,
+    "rescue": 1.05,
     "rooftop rescue": 0.96,
     "Hurricane Helene rescue": 0.98,
     "Hurricane Milton rescue": 0.98,
@@ -414,7 +414,7 @@
   },
   "lane_scores": {
     "rescue": -0.03,
-    "hazards": -0.48,
+    "hazards": -0.49,
     "aviation_naval": 0.58
   },
   "qa_rejections_7d": [

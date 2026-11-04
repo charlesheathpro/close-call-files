@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-03T21:17:01Z from 43 Shorts older than 48 hours)
+# Playbook (computed 2026-11-04T03:11:08Z from 43 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -6,8 +6,8 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - source: nasa (+0.76, 3 Shorts)
 - spacecraft or test story (+0.76, 3 Shorts)
 - lane: aviation_naval (+0.64, 4 Shorts)
+- story: capsized boat, people in the water (+0.53, 1 Shorts)
 - story: splashdown recovery (+0.53, 1 Shorts)
-- story: capsized boat, people in the water (+0.52, 1 Shorts)
 - story: launch abort test (+0.5, 1 Shorts)
 - music: aviation (+0.45, 2 Shorts)
 - hook names a child (+0.26, 7 Shorts)
@@ -23,17 +23,17 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: cliff hoist (-0.26, 1 Shorts)
 
 ## Best Shorts
-- Orion splashes down after the Moon: 9364 views, 96% watched
-- Boat flipped with a 4-year-old aboard: 18573 views, 78% watched
-- Capsule torn off a rocket at Mach 1: 5246 views, 97% watched
+- Orion splashes down after the Moon: 9391 views, 96% watched
+- Boat flipped with a 4-year-old aboard: 18626 views, 78% watched
+- Capsule torn off a rocket at Mach 1: 5168 views, 97% watched
 - Dog fell off an Oregon sea cliff: 1288 views, 84% watched
 - Lifted off a roof in Harvey's floodwater: 1394 views, 91% watched
 
 ## Weakest Shorts
-- Lava fountains roar out of Kilauea: 446 views, 67% watched
+- Lava fountains roar out of Kilauea: 443 views, 67% watched
 - Hiker hurt on an Oregon sea cliff: 827 views, 48% watched
 - Yacht broke in two on Lake Erie: 1221 views, 37% watched
-- 214 people trapped by a wildfire: 342 views, 61% watched
+- 214 people trapped by a wildfire: 341 views, 61% watched
 - Mauna Loa erupts after 38 years: 145 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
