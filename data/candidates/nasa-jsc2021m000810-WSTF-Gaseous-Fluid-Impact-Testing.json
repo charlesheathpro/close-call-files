@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000810-WSTF-Gaseous-Fluid-Impact-Testing",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:18:22Z",
   "duration": 39.79,
   "source_file": {
@@ -167,5 +167,6 @@
     33.15,
     35.6,
     38.06
-  ]
+  ],
+  "pass_reason": "Static lab tour of test equipment; no test or event on screen."
 }

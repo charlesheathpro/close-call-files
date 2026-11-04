@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-421347",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:19:46Z",
   "duration": 47.93,
   "source_file": {
@@ -70,5 +70,6 @@
     40.64,
     43.36,
     46.07
-  ]
+  ],
+  "pass_reason": "Emergency deployment exercise (training), not a real rescue."
 }

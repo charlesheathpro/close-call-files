@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-534698",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:19:23Z",
   "duration": 60.37,
   "source_file": {
@@ -73,5 +73,6 @@
     51.15,
     54.64,
     58.13
-  ]
+  ],
+  "pass_reason": "Washed-out tinted FLIR of a routine hoist from a cruise ship over calm sea; medical medevac, no visible danger."
 }
