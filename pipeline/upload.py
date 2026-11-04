@@ -214,8 +214,12 @@ def main():
                 if e.reason == "uploadLimitExceeded":
                     # the cap counts uploads in the last 24 h: room opens when the oldest of them turns 24 h old
                     recent = sorted(t for t in upload_times() if t > now_utc() - timedelta(hours=24))
-                    if recent:
+                    if len(recent) >= 9:
                         until = max(recent[0] + timedelta(hours=24, minutes=2), now_utc() + timedelta(minutes=30))
+                    else:
+                        # YouTube's real cap is not always 10 per rolling day (it has refused after 5);
+                        # when the count says there should be room, try again in 2 hours instead of idling a day
+                        until = now_utc() + timedelta(hours=2)
                 save_json(DATA / "upload_limit.json", {"at": iso(), "reason": e.reason, "uploaded_this_run": n,
                                                        "until": iso(until)})
                 alert("upload_limit", f"YouTube said {e.reason} after {n} uploads this run")
