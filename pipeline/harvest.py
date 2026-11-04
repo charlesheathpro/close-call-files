@@ -238,14 +238,14 @@ def credit_text(credit):
     return credit or "Courtesy"
 
 
-ROUTINE = re.compile(r"\b(training|exercise|drill|ceremony|change of command|award|memorial|interview|press conference|"
+ROUTINE = re.compile(r"\b(training|exercise|drill|ceremony|change of command|award|memorial|interview|press conference|news conference|q&a|overview|updates on|recertification|maintenance|arrives|delivers|runway|cargo|surges|selects|generators?|personal protection|ppe|"
                      r"briefing|graduation|retirement|visit|tour|promotion|reenlistment|recruit|band|concert|"
                      r"psa|highlights|b-roll package|safety tips|demonstration|demo|lava dogs?|live[- ]fire|fire base|fire engine|fire protection|fire flight|fire in the hole|range \d+|muster|clears?|clean ?up|repairs?|route clearance|debris|monitors?|prepares?|preparation|standby|funding|greets?|invictus|army.navy|noble jump|trident juncture|redeploy\w*|homecoming|satellites?|from space|explainer|blue roof|welcomes|puppy bowl|reunite|volunteer|quiet crew|inside ksc|kennedy countdown|space to ground|nasa minute|this week|worldview|resource reel|trailer|time-?lapse|media day|firing room|animation|visualization|science live|reflections|quarterly|profile|spotlight|highlight reel|recap)\b", re.I)
 HOOKS = [(r"\b(infant|baby|child|children|boy|girl|toddler|teen)", 5), (r"\b(dog|dogs|cat|puppy|pet|horse)\b", 5),
          (r"\b(family|mother|father|elderly|grandmother)\b", 4), (r"rooftop|roof\b", 4),
          (r"\b(surf|waves|heavy seas|storm)\b", 3), (r"\b(on fire|caught fire|catches fire|boat fire|house fire|engine fire|burning|explosion|blaze)\b", 3),
          (r"\b(sinking|sank|capsiz|overturn|rollover)", 3), (r"\b(cliff|ice|stranded|trapped|clinging)\b", 3),
-         (r"\b(hurricane|flood)", 2), (r"\b(rescue|rescues|hoist|saves|saved)\b", 2),
+         (r"\b(hurricane|flood)", 2), (r"\b(rescue|rescues|rescued|hoist|hoists|hoisted|medevac\w*|saves|saved)\b", 2),
          (r"\b(ejection|ejects|crash|arrest|barricade)", 3),
          (r"\b(lava|eruption|erupt|volcan|tornado|wildfire|avalanche|landslide|mudslide|tsunami|waterspout|lightning)", 3),
          (r"\b(abort|anomaly|failure|explod|impact|splashdown|eye of|hurricane hunter|whiteout|blizzard)", 3),
@@ -257,6 +257,25 @@ def title_score(title):
     if ROUTINE.search(t):
         return -1
     return sum(w for rx, w in HOOKS if re.search(rx, t, re.I))
+
+
+def interleave(found):
+    """Mix lanes and sources so each gets a share of the run, weighted by lane_mix."""
+    by_lane = {}
+    for aid, v in found.items():
+        src = aid.split(":", 1)[0] if aid.startswith(("nasa:", "commons:")) else "dvids"
+        by_lane.setdefault((v[0], src), []).append((aid, v))
+    mix = config().get("lane_mix", {})
+    credit = {k: 0.0 for k in by_lane}
+    mixed = []
+    while any(by_lane.values()):
+        live = [k for k in by_lane if by_lane[k]]
+        for k in live:
+            credit[k] += max(mix.get(k[0], 0.1), 0.05) / max(sum(1 for j in live if j[0] == k[0]), 1)
+        k = max(live, key=lambda j: credit[j])
+        credit[k] -= 1
+        mixed.append(by_lane[k].pop(0))
+    return dict(mixed)
 
 
 def analyze(sid, meta, best_src, small_src, best_info=None, srt_text=None):
@@ -411,23 +430,11 @@ def main():
     qw = cfg.get("query_weights", {})
     found = dict(sorted(found.items(), key=lambda kv: -(title_score(kv[1][2]) * qw.get(kv[1][1], 1.0))))
     # interleave lanes and sources so each gets a share of the run
-    by_lane = {}
-    for aid, v in found.items():
-        src = aid.split(":", 1)[0] if aid.startswith(("nasa:", "commons:")) else "dvids"
-        by_lane.setdefault((v[0], src), []).append((aid, v))
-    # weighted by lane_mix: rescue performs best, so it gets the biggest share of each run
-    mix = config().get("lane_mix", {})
-    credit = {k: 0.0 for k in by_lane}
-    mixed = []
-    while any(by_lane.values()):
-        live = [k for k in by_lane if by_lane[k]]
-        for k in live:
-            credit[k] += max(mix.get(k[0], 0.1), 0.05) / max(sum(1 for j in live if j[0] == k[0]), 1)
-        k = max(live, key=lambda j: credit[j])
-        credit[k] -= 1
-        mixed.append(by_lane[k].pop(0))
-    found = dict(mixed)
-    print(f"{len(found)} unseen assets; processing up to {limit}")
+    # titles with a hook go first; plain titles only once those run out
+    hooked = {a: v for a, v in found.items() if title_score(v[2]) > 0}
+    plain = {a: v for a, v in found.items() if a not in hooked}
+    found = {**interleave(hooked), **interleave(plain)}
+    print(f"{len(found)} unseen assets ({len(hooked)} with a hook in the title); processing up to {limit}")
     if args.dry_run:
         for aid, (lane, q, title) in list(found.items())[:limit]:
             print(lane, aid, title)

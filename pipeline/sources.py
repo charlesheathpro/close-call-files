@@ -62,6 +62,9 @@ def _clean(text):
 NASA = "https://images-api.nasa.gov"
 
 
+_NASA_META = {}   # search results carry the full metadata; looking an id up again fails on quotes and ampersands
+
+
 def search_nasa(q, pages=2):
     out = []
     for page in range(1, pages + 1):
@@ -69,6 +72,7 @@ def search_nasa(q, pages=2):
         for it in d.get("items", []):
             meta = (it.get("data") or [{}])[0]
             if meta.get("nasa_id"):
+                _NASA_META[meta["nasa_id"]] = meta
                 out.append(("nasa:" + meta["nasa_id"], meta.get("title") or ""))
         if not any(l.get("rel") == "next" for l in d.get("links", [])):
             break
@@ -77,10 +81,12 @@ def search_nasa(q, pages=2):
 
 def process_nasa(asset_id, lane, query, analyze):
     nid = asset_id.split(":", 1)[1]
-    d = _get(f"{NASA}/search", {"nasa_id": nid}).json()["collection"]["items"]
-    if not d:
-        return None, "nasa item missing"
-    meta = d[0]["data"][0]
+    meta = _NASA_META.get(nid)
+    if not meta:
+        d = _get(f"{NASA}/search", {"nasa_id": nid}).json()["collection"]["items"]
+        if not d:
+            return None, "nasa item missing"
+        meta = d[0]["data"][0]
     desc = meta.get("description") or meta.get("description_508") or ""
     who = " ".join(filter(None, [meta.get("photographer"), meta.get("secondary_creator")]))
     flags = copyright_flags(meta.get("title"), desc, who)
