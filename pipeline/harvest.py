@@ -369,7 +369,8 @@ def main():
         # learn.py raises the depth of searches whose Shorts did well and lowers the ones that did not
         qw = cfg.get("query_weights", {})
         dp = cfg.get("drama_pages", 2)
-        queries = [(q, None, max(1, min(8, round(dp * qw.get(q["q"], 1.0))))) for q in cfg.get("drama_queries", [])] + queries
+        queries = [(q, None, q.get("pages") or max(1, min(8, round(dp * qw.get(q["q"], 1.0)))))
+                   for q in cfg.get("drama_queries", [])] + queries
     else:  # every daily run also takes one page from two rotating drama searches
         dq = cfg.get("drama_queries", [])
         day = int(now_utc().strftime("%j"))
