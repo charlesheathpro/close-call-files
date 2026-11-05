@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:822495",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 from water in Sapelo Sound ",
+  "description": "A Coast Guard Air Station Savannah helicopter aircrew hoists two men from the water in Sapelo Sound, Georgia, Nov. 19, 2021. The men were transported to Hunter Army Airfield with no medical concerns. (U.S. Coast Guard video courtesy of Air Station Savannah)",
+  "keywords": "CoastGuardNewsWire, rescue sar hoist",
+  "date": "2021-11-19T00:00:00-05:00",
+  "date_published": "2021-12-16T11:01:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class David Micallef",
+  "category": "B-Roll",
+  "virin": "201001-G-G0217-1001",
+  "location": {
+    "city": "SAVANNAH",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/822495/coast-guard-rescues-2-water-sapelo-sound",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-822495",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:20:06Z",
+  "duration": 98.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2111/DOD_108694806/DOD_108694806-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 101780289
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.42,
+      "e": 7.88,
+      "text": "We're going to ship our two fleet right after we're back to just watch the quadrant on top."
+    },
+    {
+      "s": 7.88,
+      "e": 10.88,
+      "text": "We've got the forever-server insight to a clock."
+    },
+    {
+      "s": 10.88,
+      "e": 12.88,
+      "text": "60 feet in position."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-822495.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.33,
+    21.46,
+    27.59,
+    33.72,
+    39.85,
+    45.98,
+    52.11,
+    58.25,
+    64.38,
+    70.51,
+    76.64,
+    82.77,
+    88.9,
+    95.03
+  ]
+}

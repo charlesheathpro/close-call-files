@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:497088",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Wildfire Aftermath",
+  "description": "Additional footage of the wild fires in Seviere county that burned parts of Gatlinburg. \r\n\r\nVideo credit: CW4 Nick Atwood",
+  "keywords": "Tennessee National Guard, Gatlinburg, wild fires, Southeastern Wildfires",
+  "date": "2016-11-30T00:00:00-05:00",
+  "date_published": "2016-12-05T10:30:10-05:00",
+  "branch": "Joint",
+  "unit_name": "Tennessee National Guard Joint Public Affairs Office",
+  "credit": "Staff Sgt. William Jones",
+  "category": "B-Roll",
+  "virin": "161201-Z-OJ588-001",
+  "location": {
+    "city": "Gatlinburg",
+    "state": "Tennessee",
+    "country": "United States",
+    "state_abbreviation": "TN",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/497088/wildfire-aftermath",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-497088",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:21:03Z",
+  "duration": 978.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103905270/DOD_103905270.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9893,
+    "size": 1224845529
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    452.59,
+    649.98,
+    930.26,
+    973.57
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      973.6
+    ],
+    "silence_ends": [
+      4.1,
+      978.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-497088.jpg",
+  "sheet_times": [
+    34.5,
+    95.37,
+    156.25,
+    217.13,
+    278.0,
+    338.88,
+    399.76,
+    460.63,
+    521.51,
+    582.39,
+    643.26,
+    704.14,
+    765.01,
+    825.89,
+    886.77,
+    947.64
+  ]
+}

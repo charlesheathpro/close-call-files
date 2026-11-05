@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:497191",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 4 in New River Inlet, NC",
+  "description": "Personnel from Air Station Elizabeth City in Elizabeth City, North Carolina, hoist four people out of the water in New River Inlet on Sunday, Dec. 5, 2016. The helicopter crew responded after it was reported a 27-foot boat had run aground and was taking on water in the New River Inlet.",
+  "keywords": "hoist, Air Station Elizabeth City, New River Inlet, Coast Guard, medevac, USCG",
+  "date": "2016-12-04T00:00:00-05:00",
+  "date_published": "2016-12-05T12:44:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Joshua Canup",
+  "category": "B-Roll",
+  "virin": "161205-G-DN496-001",
+  "location": {
+    "city": "New River",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/497191/coast-guard-rescues-4-new-river-inlet-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-497191",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:20:55Z",
+  "duration": 100.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103906012/DOD_103906012.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9768,
+    "size": 122828545
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      100.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-497191.jpg",
+  "sheet_times": [
+    7.09,
+    13.08,
+    19.08,
+    25.07,
+    31.07,
+    37.06,
+    43.05,
+    49.05,
+    55.04,
+    61.04,
+    67.03,
+    73.02,
+    79.02,
+    85.01,
+    91.01,
+    97.0
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:892470",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues man at sea near Treasure Island",
+  "description": "A Coast Guard Air Station Clearwater Jayhawk aircrew rescued a man after he experienced chest pains on a boat 80 miles west of Johns Pass, Florida, Aug. 2, 2023. The aircrew airlifted the man to Tampa General Hospital for further medical treatment. (U.S. Coast Guard Video)",
+  "keywords": "hoist, Johns Pass, CoastGuardNewsWire",
+  "date": "2023-08-02T00:00:00-04:00",
+  "date_published": "2023-08-03T08:35:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230803-G-ZZ999-1001",
+  "location": {
+    "city": "Treasure Island",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/892470/coast-guard-rescues-man-sea-near-treasure-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-892470",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:18:26Z",
+  "duration": 116.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109804518/DOD_109804518.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 138762485
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      116.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-892470.jpg",
+  "sheet_times": [
+    3.64,
+    10.91,
+    18.18,
+    25.46,
+    32.73,
+    40.01,
+    47.28,
+    54.55,
+    61.83,
+    69.1,
+    76.38,
+    83.65,
+    90.92,
+    98.2,
+    105.47,
+    112.75
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:418975",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Oregon Wildfires",
+  "description": "Oregon Army National Guard aviators support fire suppression efforts at Stouts Fire.",
+  "keywords": "Stouts Fire, Oregon Wildfires",
+  "date": "2015-08-05T00:00:00-04:00",
+  "date_published": "2015-08-11T16:21:09-04:00",
+  "branch": "Joint",
+  "unit_name": "Oregon Military Department Joint Forces Headquarters",
+  "credit": "Staff Sgt. Jason Van Mourik",
+  "category": "B-Roll",
+  "virin": "150805-A-PL933-546",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418975/oregon-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-418975",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:20:28Z",
+  "duration": 106.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102652771/DOD_102652771.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9022,
+    "size": 122016094
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    9.24,
+    14.11,
+    22.12,
+    25.16,
+    33.97,
+    44.18,
+    50.05,
+    67.13,
+    68.64,
+    82.72,
+    89.09,
+    99.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      67.8,
+      70.6
+    ],
+    "silence_ends": [
+      4.1,
+      68.7,
+      71.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418975.jpg",
+  "sheet_times": [
+    7.21,
+    13.59,
+    19.97,
+    26.35,
+    32.73,
+    39.11,
+    45.49,
+    51.86,
+    58.24,
+    64.62,
+    71.0,
+    77.38,
+    83.76,
+    90.13,
+    96.51,
+    102.89
+  ]
+}
