@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:546730",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "KC-135 Refuels a German Air Force Tornado",
+  "description": "Footage of a KC-135 from RAF Mildenhall, UK refueling a German Air Force Tornado over Europe 24 August 2017.",
+  "keywords": "allies, KC135, tornado, refuel, partners, RAF Mildenhall, 100 ARW, Jet. Air Force, Germany, training, mission, flight, German, Refueling",
+  "date": "2017-08-24T00:00:00-04:00",
+  "date_published": "2017-08-30T06:59:39-04:00",
+  "branch": "Air Force",
+  "unit_name": "100th Air Refueling Wing",
+  "credit": "Airman 1st Class Lexie West",
+  "category": "B-Roll",
+  "virin": "170824-F-QJ481-525",
+  "location": {
+    "city": "RAF Mildenhall",
+    "state": "Suffolk",
+    "country": "United Kingdom",
+    "state_abbreviation": "SFK",
+    "country_abbreviation": "GB"
+  },
+  "page_url": "https://www.dvidshub.net/video/546730/kc-135-refuels-german-air-force-tornado",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546730",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:00:42Z",
+  "duration": 76.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104780683/DOD_104780683.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10003,
+    "size": 96731177
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    21.25,
+    38.51,
+    45.05
+  ],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-546730.jpg",
+  "sheet_times": [
+    2.37,
+    7.11,
+    11.85,
+    16.59,
+    21.33,
+    26.07,
+    30.81,
+    35.55,
+    40.29,
+    45.02,
+    49.76,
+    54.5,
+    59.24,
+    63.98,
+    68.72,
+    73.46
+  ]
+}

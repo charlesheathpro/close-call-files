@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:790496",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard, partner agencies, good Samaritan rescue 1, stop runaway vessel off Miami",
+  "description": "Coast Guard Station Miami Beach and Miami-Dade Fire Rescue crews entangling the prop of vessel, April 12, 2021 off Miami. A good Samaritan rescued a man in the water in the vicinity of Fisherman's Channel after he was separated from his vessel. (U.S. Coast Guard video)",
+  "keywords": "Station Miami Beach, dvidsdaily, engine cut off switch, partnerships miami",
+  "date": "2021-04-12T00:00:00-04:00",
+  "date_published": "2021-04-13T10:29:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210412-G-G0107-1001",
+  "location": {
+    "city": "miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/790496/coast-guard-partner-agencies-good-samaritan-rescue-1-stop-runaway-vessel-off-miami",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-790496",
+  "status": "new",
+  "harvested_at": "2026-11-05T17:59:25Z",
+  "duration": 21.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108279915/DOD_108279915.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10292,
+    "size": 27510305
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 7.98,
+      "text": "Well, they put another line out."
+    }
+  ],
+  "scene_cuts": [
+    10.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-790496.jpg",
+  "sheet_times": [
+    0.64,
+    1.93,
+    3.22,
+    4.51,
+    5.8,
+    7.09,
+    8.38,
+    9.67,
+    10.95,
+    12.24,
+    13.53,
+    14.82,
+    16.11,
+    17.4,
+    18.69,
+    19.98
+  ]
+}

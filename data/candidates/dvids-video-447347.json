@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:447347",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "M/Y Serena III Rescue",
+  "description": "Coast Guardsmen aboard the Coast Guard Cutter Margaret Norvell rescue 13 people aboard a 103-foot yacht, Serena III, 13 nautical miles off the coast of Lauderdale-by-the-sea, Florida, Jan. 25, 2016. U.S. Coast Guard video.",
+  "keywords": "Miami, Coast Guard rescue, FRC, Barney, Margaret Norvell, Serena, Coast Guard, Florida, rescue",
+  "date": "2016-01-25T00:00:00-05:00",
+  "date_published": "2016-01-26T08:33:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "160125-G-ZK759-094",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/447347/m-y-serena-iii-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-447347",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:01:22Z",
+  "duration": 117.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_103003589/DOD_103003589.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9107,
+    "size": 135436510
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    100.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-447347.jpg",
+  "sheet_times": [
+    7.55,
+    14.59,
+    21.64,
+    28.69,
+    35.73,
+    42.78,
+    49.82,
+    56.87,
+    63.92,
+    70.96,
+    78.01,
+    85.05,
+    92.1,
+    99.15,
+    106.19,
+    113.24
+  ]
+}
