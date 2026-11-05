@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:379519",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Columbia River Rescue",
+  "description": "Coast Guard crews rescue five fishermen after their fishing vessel Titan grounded on a jetty and began to sink on the Columbia River, off of Ilwaco, Wash. Dec. 5, 2014.\r\n\r\nAll five crewmembers were safely rescued prior to their boat sinking while reportedly carrying up to 50,000 pounds of Dungeness crab on board.\r\n\r\nU.S. Coast Guard video.",
+  "keywords": "Columbia River, December, 2014, Washington, Oregon, rescue",
+  "date": "2014-12-05T00:00:00-05:00",
+  "date_published": "2014-12-05T13:14:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "141205-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/379519/columbia-river-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-379519",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:49:59Z",
+  "duration": 94.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102130138/DOD_102130138.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 7742,
+    "size": 91397102
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    13.81,
+    44.48,
+    56.76,
+    84.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      94.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-379519.jpg",
+  "sheet_times": [
+    6.83,
+    12.44,
+    18.06,
+    23.67,
+    29.28,
+    34.89,
+    40.51,
+    46.12,
+    51.73,
+    57.35,
+    62.96,
+    68.57,
+    74.18,
+    79.8,
+    85.41,
+    91.02
+  ]
+}
