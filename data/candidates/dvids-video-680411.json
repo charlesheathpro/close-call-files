@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:680411",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "volcano eruption",
+  "title": "Aerial Survey of Hawaii Island Volcanos One Year After Leilani Estates Eruption",
+  "description": "Aerial survey of Hawaii Island Volcanos one year after Leilani Estates eruption.\r\n\r\nIncludes the fissure 8 flow, Pu'u O'o  and Hale'mau'mau craters. As well as chain of craters road. \r\n\r\n(U.S. Air National Guard Video by Tech. Sgt. Andrew Jackson)",
+  "keywords": "Hawaii Army National Guard, eruption, kilauea, Hawaii",
+  "date": "2019-05-10T00:00:00-04:00",
+  "date_published": "2019-05-13T17:34:01-04:00",
+  "branch": "Joint",
+  "unit_name": "State of Hawaii, Department of Defense, Public Affairs Office",
+  "credit": "Tech. Sgt. Ret. Andrew Jackson",
+  "category": "B-Roll",
+  "virin": "190510-Z-IX631-535",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/680411/aerial-survey-hawaii-island-volcanos-one-year-after-leilani-estates-eruption",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-680411",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:00:18Z",
+  "duration": 648.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106751168/DOD_106751168-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6390,
+    "size": 517716806
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.91,
+      "e": 2.91,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    15.42,
+    35.74,
+    90.29,
+    488.35,
+    529.1,
+    607.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-680411.jpg",
+  "sheet_times": [
+    20.24,
+    60.71,
+    101.19,
+    141.66,
+    182.13,
+    222.61,
+    263.08,
+    303.56,
+    344.03,
+    384.5,
+    424.98,
+    465.45,
+    505.93,
+    546.4,
+    586.87,
+    627.35
+  ]
+}
