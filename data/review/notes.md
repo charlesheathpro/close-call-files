@@ -1,26 +1,27 @@
-# Editor notes (review of Nov 4, 2026 UTC)
+# Editor notes (review of Nov 5, 2026 UTC)
 
 ## Where we are
-62 subscribers (52 two days ago), 105,649 Shorts views. 63 uploaded, all public and processed. Nothing is scheduled after 02:30 UTC Nov 4 and only 5 have passed QA (02-07, 03-01, 03-02, 03-04, 03-05). 43 Shorts past 48 hours.
+71 subscribers (65 a day ago), 119,781 Shorts views. 68 Shorts uploaded, all public and processed. Nothing is scheduled to publish after 19:00 UTC Nov 4, and only 5 have passed QA (03-06, 03-30, 04-02, 04-04, 04-11). 53 Shorts past 48 hours.
 
 ## What the numbers say
-- Breakouts: boat flipped with a 4-year-old 18,626, Orion splashdown 9,391, capsule torn off a rocket at Mach 1 5,168. Most others 1,100 to 1,600.
-- Aviation and naval: 4 mature, median 3,358 views, 85% watched, 14 subscribers. Rescue: 36 mature, median 1,328, 65%, 43 subscribers. Hazards: 3, median 443, 66%.
-- Median watched of the last 10 mature Shorts: 64, up from 57.
-- Weakest retention: Lake Erie yacht 37, both Oregon sea cliff Shorts 48. Weakest views: Mauna Loa 145, wildfire 214 trapped 341, Kilauea lava 443.
-- Dog hoisted from a sinking catamaran has 4 views after a day; treat dog hoist from a sinking boat as a repeat for now.
+- Breakouts: boat flipped with a 4-year-old 18,784, Orion splashdown 9,418, five abandon a sinking fishing boat 6,419. Most others 1,200 to 1,700.
+- Aviation and naval: 6 mature, median 1,468 views, 77% watched. Rescue: 44 mature, median 1,327, 65%. Hazards: 3, median 445.
+- Median watched of the last 10 mature Shorts: 60 (64 last night).
+- Young and strong: German shepherd fell 300 feet 2,847; adrift 120 miles out with his dog 2,003.
+- Weakest: Lake Erie yacht 37% watched, both Oregon sea cliff hikers 48%. Mauna Loa 146 views. Dog hoisted from a sinking catamaran 6 views.
 
 ## Do more
 - Spacecraft and test drama with one hard number and the event on screen in the first 2 seconds.
-- A child or a count of people in danger in the hook, with the flip, lift or fall shown early.
+- A child, a count of people, or a boat going down in the hook, with the flip, sinking or fall shown early.
+- A dog in real danger (a fall, adrift at sea) still works when the danger is visible.
 
 ## Do less
-- Ground camera or distant views of a person already safe or already lost (cliffs, yachts).
+- Ground or distant views of someone already safe (cliffs, yachts).
 - Lava, volcano and wildfire with no person at risk.
-- Repeats of stories already posted.
+- Calm door-cam basket hoists, and repeats of stories already posted.
 
 ## Supply and pace
-- Buffer is 5, target is 10 a day, and nothing is scheduled for the next 24 hours. The cause is supply that clears the bar: on Nov 3 the editor wrote only 5 specs (QA passed 4, rejected 1) and passed over 12 calm or murky candidates, while 10 a day go out. The next editor run must write at least 10 specs, starting with aviation and NASA clips (634 unused), then rescue (140 unused). Keep the bar; fewer is better than weak.
+Buffer is 5 and the schedule is empty. Causes: harvest was down for 19 hours on Nov 4, the Nov 4 editor run wrote 1 spec (QA dropped it), and 5 duplicate uploads used half of YouTube's daily cap. Harvest is back with 250 new clips. The next editor run must write at least 10 specs from the new harvest, aviation and NASA first (714 unused), then rescue (158). Keep the bar. 04-01 may come back from Nov 8.
 
 ## Lane mix this week
-Rescue 0.4, aviation and naval 0.5, hazards 0.1. The learner set aviation 0.6 from 4 mature Shorts, two of them NASA breakouts; trimmed back to 0.5 so a small sample does not swing the channel.
+Rescue 0.4, aviation and naval 0.5, hazards 0.1. The learner set aviation 0.6 again; trimmed to 0.5 because the lead rests on two NASA breakouts among 6 mature Shorts.
