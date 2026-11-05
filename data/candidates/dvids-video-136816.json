@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:136816",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava",
+  "title": "Lava Viper",
+  "description": "U.S. Marines with Golf Company, 2nd Battalion, 3rd Marine Regiment, conduct fire and support missions during Lava Viper in Pohakuloa Training Area, Hawaii, Jan. 29. 2012. Lava Viper is a battalion level combined arms training exercise to better prepare Marines for upcoming deployments U.S. Marine Corps video by Lance Cpl. Robert Bush. Available in high definition",
+  "keywords": "Mortarmen, 2/3, Lava Viper, USMCCOMCAM, MARFORPAC COMCAM, Marines",
+  "date": "2012-01-29T00:00:00-05:00",
+  "date_published": "2012-02-06T16:10:29-05:00",
+  "branch": "Marines",
+  "unit_name": "U.S. Marine Corps Forces, Pacific",
+  "credit": "Lance Cpl. Robert Bush",
+  "category": "B-Roll",
+  "virin": "120129-M-VB788-111",
+  "location": {
+    "city": "Pohakuloa",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/136816/lava-viper",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-136816",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:05:58Z",
+  "duration": 124.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1202/DOD_100319074/DOD_100319074.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 9332,
+    "size": 149429974
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 83.06,
+      "text": "I want you."
+    },
+    {
+      "s": 83.06,
+      "e": 91.32,
+      "text": "I want you."
+    }
+  ],
+  "scene_cuts": [
+    0.03,
+    7.01,
+    23.99,
+    48.01,
+    57.42,
+    68.23,
+    89.89,
+    110.78
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-136816.jpg",
+  "sheet_times": [
+    3.86,
+    11.58,
+    19.3,
+    27.02,
+    34.74,
+    42.46,
+    50.18,
+    57.91,
+    65.63,
+    73.35,
+    81.07,
+    88.79,
+    96.51,
+    104.23,
+    111.95,
+    119.67
+  ]
+}

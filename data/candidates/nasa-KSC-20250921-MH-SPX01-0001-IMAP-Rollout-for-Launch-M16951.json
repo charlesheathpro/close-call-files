@@ -1,0 +1,61 @@
+{
+  "asset_id": "nasa:KSC-20250921-MH-SPX01-0001-IMAP_Rollout_for_Launch-M16951",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "IMAP Rollout for Launch",
+  "description": "IMAP Rollout for Launch",
+  "keywords": "IMAP, Interstellar Mapping and Acceleration Probe, spacecraft, NASA, KSC, Kennedy Space Center, LSP, Launch Services Program, rideshare, Carruthers Geocorona Observatory, Space Weather Follow On - Lagrange 1, SWFO-L1, SpaceX, LC-39A, Falcon 9",
+  "date": "2025-09-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20250921-MH-SPX01-0001-IMAP_Rollout_for_Launch-M16951",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20250921-MH-SPX01-0001-IMAP-Rollout-for-Launch-M16951",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:04:59Z",
+  "duration": 22.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20250921-MH-SPX01-0001-IMAP_Rollout_for_Launch-M16951/KSC-20250921-MH-SPX01-0001-IMAP_Rollout_for_Launch-M16951~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 22.066667
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.0
+  ],
+  "drama_score": 42,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20250921-MH-SPX01-0001-IMAP-Rollout-for-Launch-M16951.jpg",
+  "sheet_times": [
+    0.67,
+    2.02,
+    3.37,
+    4.72,
+    6.07,
+    7.41,
+    8.76,
+    10.11,
+    11.46,
+    12.81,
+    14.15,
+    15.5,
+    16.85,
+    18.2,
+    19.54,
+    20.89
+  ]
+}

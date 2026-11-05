@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:299944",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Houston rescue",
+  "title": "Coast Guard Launches Helicopter to Search for Missing Man",
+  "description": "A Coast Guard Air Station Houston crew readies and takes off in an MH-65D Dolphin rescue helicopter to search for a missing fisherman off the Bolivar Peninsula Wednesday, Aug. 28, 2013. Available in High Definition",
+  "keywords": "take-off, MH-65D, rescue, search, dolphin",
+  "date": "2013-08-28T00:00:00-04:00",
+  "date_published": "2013-08-28T19:27:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Manda Emery",
+  "category": "Package",
+  "virin": "130828-G-HN234-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/299944/coast-guard-launches-helicopter-search-missing-man",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-299944",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:05:41Z",
+  "duration": 64.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100897501/DOD_100897501.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5723,
+    "size": 47341932
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.84,
+    5.01,
+    9.43,
+    13.95,
+    27.66,
+    37.24,
+    54.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-299944.jpg",
+  "sheet_times": [
+    1.99,
+    5.96,
+    9.93,
+    13.9,
+    17.87,
+    21.84,
+    25.81,
+    29.78,
+    33.75,
+    37.72,
+    41.69,
+    45.66,
+    49.63,
+    53.6,
+    57.57,
+    61.54
+  ]
+}

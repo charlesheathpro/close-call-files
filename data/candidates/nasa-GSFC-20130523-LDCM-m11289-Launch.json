@@ -1,0 +1,105 @@
+{
+  "asset_id": "nasa:GSFC_20130523_LDCM_m11289_Launch",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "LDCM Launch",
+  "description": "The Landsat Data Continuity Mission launched on February 11, 2013, from Vandenberg Air Force Base aboard an Atlas V-401 rocket. LDCM will be renamed Landsat 8 when operations are handed over to the US Geological Survey on May 30, 2013. NASA and the U.S. Department of the Interior through the U.S. Geological Survey (USGS) jointly manage Landsat, and the USGS preserves a 40-year archive of Landsat images that is freely available data over the Internet.",
+  "keywords": "Landsat, Launch, Earth",
+  "date": "2013-05-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20130523_LDCM_m11289_Launch",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20130523-LDCM-m11289-Launch",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:01:48Z",
+  "duration": 100.74,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20130523_LDCM_m11289_Launch/GSFC_20130523_LDCM_m11289_Launch~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 100.736
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.18,
+      "e": 16.46,
+      "text": "T-10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, and ignition, and liftoff of the Atlas V rocket on the Landsat"
+    },
+    {
+      "s": 16.46,
+      "e": 22.66,
+      "text": "Data Continuity Mission, continuing the 40-year legacy of observing Earth's natural resources"
+    },
+    {
+      "s": 22.66,
+      "e": 23.66,
+      "text": "from space."
+    },
+    {
+      "s": 23.66,
+      "e": 73.98,
+      "text": "The war is to impose a free roll on its view, and when it pulls the control,"
+    },
+    {
+      "s": 73.98,
+      "e": 78.42,
+      "text": "the instrument was being controlled as expected, and you continue to operate normally,"
+    },
+    {
+      "s": 78.42,
+      "e": 82.98,
+      "text": "the signal interchanges, the change in the instrument ratio as expected."
+    },
+    {
+      "s": 82.98,
+      "e": 97.13,
+      "text": "Vehicle rates look good, engine is burning normally, and LDCM is now supersonic, coming up on Max-Q."
+    }
+  ],
+  "scene_cuts": [
+    5.4,
+    11.43,
+    15.77,
+    33.9,
+    38.6
+  ],
+  "drama_score": 23,
+  "audio": {
+    "silence_starts": [
+      1.3,
+      94.7,
+      97.1
+    ],
+    "silence_ends": [
+      2.0,
+      95.6,
+      100.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20130523-LDCM-m11289-Launch.jpg",
+  "sheet_times": [
+    3.13,
+    9.4,
+    15.66,
+    21.93,
+    28.19,
+    34.46,
+    40.72,
+    46.99,
+    53.25,
+    59.52,
+    65.78,
+    72.04,
+    78.31,
+    84.57,
+    90.84,
+    97.1
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20260401-MH-NAS01-0001-Artemis_II_Launch_WB57_Raw_Visible_Downlink",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "Artemis II Live Launch Coverage - WB-57 (Raw Visible Downlink)",
+  "description": "NASA’s SLS (Space Launch System) rocket with the Orion spacecraft carrying Artemis II Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, along with Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency), lifts off at 6:35 p.m. EDT on Wednesday, April 1, 2026, from Launch Complex 39B at NASA Kennedy. The Artemis II test flight will take the crew members on a 10-day journey around the Moon and back.",
+  "keywords": "Artemis II, Artemis 2, Kennedy Space Center, KSC, Launch Pad 39B, Launch Control Center, LCC, Firing Room 1, EGS, Exploration Ground Systems, SLS, Space Launch System, Orion",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20260401-MH-NAS01-0001-Artemis_II_Launch_WB57_Raw_Visible_Downlink",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20260401-MH-NAS01-0001-Artemis-II-Launch-WB57-Raw-Visible-Downlink",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:03:21Z",
+  "duration": 686.67,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20260401-MH-NAS01-0001-Artemis_II_Launch_WB57_Raw_Visible_Downlink/KSC-20260401-MH-NAS01-0001-Artemis_II_Launch_WB57_Raw_Visible_Downlink~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 686.652633
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    33.83,
+    34.1,
+    34.8,
+    35.0,
+    130.77,
+    608.8,
+    609.5
+  ],
+  "drama_score": 16,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      686.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20260401-MH-NAS01-0001-Artemis-II-Launch-WB57-Raw-Visible-Downlink.jpg",
+  "sheet_times": [
+    21.44,
+    64.33,
+    107.21,
+    150.1,
+    192.98,
+    235.87,
+    278.76,
+    321.64,
+    364.53,
+    407.41,
+    450.3,
+    493.18,
+    536.07,
+    578.95,
+    621.84,
+    664.72
+  ]
+}

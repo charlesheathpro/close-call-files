@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:KSC-20211228-MH-MTD01-0001-Launch_Complex_49_Area_DRONE-3294138",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "Launch Complex 49 Area Drone Footage.",
+  "description": "Launch Complex 49 Area drone footage.",
+  "keywords": "Drone, LC-49, Launch Complex 49, Development, NASA, Kennedy Space Center",
+  "date": "2021-12-28T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20211228-MH-MTD01-0001-Launch_Complex_49_Area_DRONE-3294138",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20211228-MH-MTD01-0001-Launch-Complex-49-Area-DRONE-3294138",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:05:12Z",
+  "duration": 138.18,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20211228-MH-MTD01-0001-Launch_Complex_49_Area_DRONE-3294138/KSC-20211228-MH-MTD01-0001-Launch_Complex_49_Area_DRONE-3294138~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 138.176
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.0,
+    90.07
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      138.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20211228-MH-MTD01-0001-Launch-Complex-49-Area-DRONE-3294138.jpg",
+  "sheet_times": [
+    4.3,
+    12.91,
+    21.51,
+    30.12,
+    38.72,
+    47.33,
+    55.93,
+    64.54,
+    73.14,
+    81.75,
+    90.35,
+    98.95,
+    107.56,
+    116.16,
+    124.77,
+    133.37
+  ]
+}
