@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:72018",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Man with Injured Leg",
+  "description": "B-roll of the U.S. Coast Guard rescuing a man with an injured leg. Scenes include aerial shots of a small boat and a Coast Guard member lowering down to the boat to pick up an injured man, bringing him back up to the helicopter and returning to the air field. Video by Lt.j.g. Rebecca Fosha. Also available in high definition.",
+  "keywords": "helicopter, US Coast Guard, medevac, boat",
+  "date": "2009-11-03T00:00:00-05:00",
+  "date_published": "2009-11-03T23:45:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "091103-G-5375F-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/72018/coast-guard-rescues-man-with-injured-leg",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-72018",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:56:39Z",
+  "duration": 120.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100056364/DOD_100056364-1280x720-3000k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 3000,
+    "size": 45889078
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    103.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      104.2,
+      105.3,
+      108.4,
+      111.6,
+      112.4,
+      114.3
+    ],
+    "silence_ends": [
+      4.1,
+      105.3,
+      106.0,
+      109.1,
+      112.3,
+      113.4,
+      118.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-72018.jpg",
+  "sheet_times": [
+    7.65,
+    14.88,
+    22.1,
+    29.33,
+    36.55,
+    43.78,
+    51.01,
+    58.23,
+    65.46,
+    72.68,
+    79.91,
+    87.14,
+    94.36,
+    101.59,
+    108.81,
+    116.04
+  ]
+}

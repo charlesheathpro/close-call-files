@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:333262",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "Arkansas Tornado B-roll",
+  "description": "B-Roll footage from the April 27th Tornado that hit Mayflower and Vilonia, AR. Available in high definition. \r\n\r\nMembers of 39th Infantry Brigade Combat Team and 213th Area Support Medical Company, 87th Troop Command of the Arkansas National Guard provide disaster relief for the communities affected by the April 27th Tornados.",
+  "keywords": "tornado, Arkansas National Guard, Vilonia, b-roll, Mayflower, Arkansas",
+  "date": "2014-04-28T00:00:00-04:00",
+  "date_published": "2014-04-28T17:41:29-04:00",
+  "branch": "Joint",
+  "unit_name": "Arkansas National Guard Public Affairs Office",
+  "credit": "Sarah Jones",
+  "category": "B-Roll",
+  "virin": "140428-S-SJ123-001",
+  "location": {
+    "city": "",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/333262/arkansas-tornado-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.17083,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-333262",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:55:32Z",
+  "duration": 156.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1404/DOD_101477341/DOD_101477341.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9184,
+    "size": 186272366
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 89.55,
+      "e": 95.55,
+      "text": "We searched in here last night and down here we had sector 2 and sector 4 last night."
+    }
+  ],
+  "scene_cuts": [
+    4.17,
+    13.18,
+    19.65,
+    23.89,
+    40.71,
+    45.38,
+    49.08,
+    67.2,
+    67.53,
+    68.03,
+    71.27,
+    85.15,
+    89.16,
+    95.73,
+    103.57,
+    109.34,
+    119.25,
+    122.32,
+    126.99,
+    137.1,
+    149.32,
+    153.82
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      85.2,
+      95.8
+    ],
+    "silence_ends": [
+      4.2,
+      89.2,
+      100.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-333262.jpg",
+  "sheet_times": [
+    8.93,
+    18.44,
+    27.96,
+    37.47,
+    46.99,
+    56.5,
+    66.02,
+    75.53,
+    85.05,
+    94.56,
+    104.08,
+    113.59,
+    123.11,
+    132.62,
+    142.13,
+    151.65
+  ]
+}
