@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:125011",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Bastrop Texas Wildfire",
+  "description": "B-Roll of helicopters dropping water on wildfires in Bastrop, Texas. Also available in high definition.",
+  "keywords": "wildfires, Bastrop, Texas",
+  "date": "2011-09-06T00:00:00-04:00",
+  "date_published": "2011-09-07T08:28:53-04:00",
+  "branch": "Joint",
+  "unit_name": "Texas Military Department",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/125011/bastrop-texas-wildfire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-125011",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:22:02Z",
+  "duration": 184.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1109/DOD_100236893/DOD_100236893.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 243503862
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    131.13,
+    150.65,
+    162.66
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-125011.jpg",
+  "sheet_times": [
+    5.76,
+    17.28,
+    28.79,
+    40.31,
+    51.83,
+    63.34,
+    74.86,
+    86.38,
+    97.89,
+    109.41,
+    120.93,
+    132.44,
+    143.96,
+    155.48,
+    166.99,
+    178.51
+  ]
+}

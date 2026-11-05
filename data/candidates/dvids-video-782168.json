@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:782168",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 mariners near Baytown, Texas",
+  "description": "A Coast Guard Sector Houston-Galveston MH-65 Dolphin helicopter crew rescue two mariners on Jan. 31, 2021, near Baytown, Texas. The father and son's vessel became disabled after experiencing an engine failure and were transported to awaiting emergency medical services personnel at Ellington Airport. No injuries were reported.",
+  "keywords": "MH-65 Dolphin, Sector Houston-Galveston, dvidsdaily, CoastGuardNewsWire, rescue",
+  "date": "2021-01-31T00:00:00-05:00",
+  "date_published": "2021-02-01T12:10:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210131-G-G0108-2001",
+  "location": {
+    "city": "Baytown",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/782168/coast-guard-rescues-2-mariners-near-baytown-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-782168",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:22:52Z",
+  "duration": 217.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108165980/DOD_108165980.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10017,
+    "size": 272877246
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      217.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-782168.jpg",
+  "sheet_times": [
+    6.79,
+    20.36,
+    33.94,
+    47.51,
+    61.08,
+    74.66,
+    88.23,
+    101.81,
+    115.38,
+    128.95,
+    142.53,
+    156.1,
+    169.68,
+    183.25,
+    196.82,
+    210.4
+  ]
+}

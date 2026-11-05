@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:824120",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues mariner near Grand Isle, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter rescues mariner from sailing vessel taking on water Dec. 6, 2021 near Grand Isle, Louisiana. The helicopter crew arrived on scene, safely hoisted the mariner, and took him to Harry P. Williams Memorial Airport in Patterson, Louisiana with no reported injuries.  (U.S. Coast Guard video courtesy of Air Station New Orleans)",
+  "keywords": "Nola, D8, Grand Isle, Taking on Water, helicopter, rescue",
+  "date": "2021-12-06T00:00:00-05:00",
+  "date_published": "2021-12-06T18:39:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "211206-G-G0108-1001",
+  "location": {
+    "city": "Grand Isle",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/824120/coast-guard-rescues-mariner-near-grand-isle-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-824120",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:22:46Z",
+  "duration": 21.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2112/DOD_108715562/DOD_108715562-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 21833410
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      21.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-824120.jpg",
+  "sheet_times": [
+    0.64,
+    1.93,
+    3.21,
+    4.5,
+    5.78,
+    7.07,
+    8.35,
+    9.63,
+    10.92,
+    12.2,
+    13.49,
+    14.77,
+    16.06,
+    17.34,
+    18.63,
+    19.91
+  ]
+}
