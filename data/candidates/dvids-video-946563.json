@@ -1,0 +1,97 @@
+{
+  "asset_id": "video:946563",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 in Yolo County",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter aircrew hoist two individuals from a canyon in Yolo County, California on Dec. 30, 2023. The aircrew were able to transfer the two individuals to awaiting emergency medical services nearby. (U.S. Coast Guard video)",
+  "keywords": "California Coast, coast guard california, CoastGuardNewsWire",
+  "date": "2023-12-30T00:00:00-05:00",
+  "date_published": "2024-12-11T17:45:37-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231230-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/946563/coast-guard-rescues-2-yolo-county",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-946563",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:58:11Z",
+  "duration": 75.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2412/DOD_110729500/DOD_110729500-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 74571091
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.0,
+      "text": "I will read out the web."
+    }
+  ],
+  "scene_cuts": [
+    9.41,
+    21.02,
+    27.96,
+    39.27,
+    49.22,
+    56.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      17.6,
+      28.0,
+      33.5,
+      38.5,
+      49.2,
+      55.9,
+      64.4,
+      69.2
+    ],
+    "silence_ends": [
+      18.5,
+      29.5,
+      34.7,
+      39.3,
+      49.8,
+      62.7,
+      66.5,
+      76.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-946563.jpg",
+  "sheet_times": [
+    2.36,
+    7.08,
+    11.79,
+    16.51,
+    21.23,
+    25.94,
+    30.66,
+    35.38,
+    40.1,
+    44.81,
+    49.53,
+    54.25,
+    58.97,
+    63.68,
+    68.4,
+    73.12
+  ]
+}

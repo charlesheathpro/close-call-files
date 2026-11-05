@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:546915",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station Detroit Lake Erie rescue",
+  "description": "An air crew from Coast Guard Air Station Detroit rescues a man Aug. 29, 2017, who had been overdue in Lake Erie since the previous day. The crew rescued the man and transferred him to EMS at Burke Lakefront Airport in Cleveland. (U.S. Coast Guard hoist camera video courtesy of Air Station Detroit)",
+  "keywords": "Air Station Detroit, Detroit, Cleveland",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-30T15:51:38-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170829-G-G0109-1001",
+  "location": {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "country": "United States",
+    "state_abbreviation": "OH",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546915/air-station-detroit-lake-erie-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546915",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:57:54Z",
+  "duration": 102.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104783640/DOD_104783640.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9053,
+    "size": 117861768
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      102.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546915.jpg",
+  "sheet_times": [
+    3.19,
+    9.57,
+    15.96,
+    22.34,
+    28.72,
+    35.1,
+    41.48,
+    47.87,
+    54.25,
+    60.63,
+    67.01,
+    73.39,
+    79.78,
+    86.16,
+    92.54,
+    98.92
+  ]
+}

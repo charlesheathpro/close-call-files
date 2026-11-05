@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:592465",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 4 commercial fishermen",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew hoists four fishermen to safety after their commercial fishing vessel  MT Tamgas capsized 12 miles off the shore of Rockaway Beach, April 1, 2018.\r\n\r\nAll four men were medically cleared to return home after being evaluated by emergency medical technicians.\r\n\r\nU.S. Coast Guard video by Sector Columbia River 6002.",
+  "keywords": "Columbia River, Sector Columbia River, Station Tillamook Bay, MT Tamgas, Coast Guard, search and rescue, Oregon, Astoria, USCG",
+  "date": "2018-04-01T00:00:00-04:00",
+  "date_published": "2018-04-01T22:51:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180401-G-G0213-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/592465/coast-guard-rescues-4-commercial-fishermen",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-592465",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:58:56Z",
+  "duration": 69.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105462667/DOD_105462667.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7964,
+    "size": 70346073
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.13
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      1.1,
+      32.9,
+      41.0,
+      51.9,
+      53.0,
+      58.6,
+      63.1,
+      66.7
+    ],
+    "silence_ends": [
+      28.0,
+      35.1,
+      43.4,
+      52.7,
+      55.9,
+      61.0,
+      65.1,
+      69.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-592465.jpg",
+  "sheet_times": [
+    2.17,
+    6.51,
+    10.84,
+    15.18,
+    19.52,
+    23.85,
+    28.19,
+    32.53,
+    36.86,
+    41.2,
+    45.54,
+    49.88,
+    54.21,
+    58.55,
+    62.89,
+    67.22
+  ]
+}

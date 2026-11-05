@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:601465",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard crew rescues sea turtle",
+  "description": "Crewmembers from Coast Guard Cutter Campbell, a medium-endurance cutter homeported in Kittery, Maine, rescue a sea turtle entangled in abandoned fishing gear May 14, 2018, in the eastern Pacific Ocean.  The Coast Guardsmen were dispatched in the cutter's interceptor boat to rescue the distressed animal spotted by lookouts during a counter-narcotics patrol in the region. (U.S. Coast Guard video/Released)",
+  "keywords": "Sea turtle, Coast Guard Cutter Campbell, rescue",
+  "date": "2018-05-14T00:00:00-04:00",
+  "date_published": "2018-05-18T13:39:00-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "180514-G-MR731-1002",
+  "location": {
+    "city": "Kittery",
+    "state": "Maine",
+    "country": "United States",
+    "state_abbreviation": "ME",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/601465/coast-guard-crew-rescues-sea-turtle",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-601465",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:58:35Z",
+  "duration": 64.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105643699/DOD_105643699.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9398,
+    "size": 76422300
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    58.32,
+    58.89
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      58.3,
+      59.3
+    ],
+    "silence_ends": [
+      59.1,
+      63.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-601465.jpg",
+  "sheet_times": [
+    1.99,
+    5.97,
+    9.94,
+    13.92,
+    17.9,
+    21.87,
+    25.85,
+    29.83,
+    33.81,
+    37.78,
+    41.76,
+    45.74,
+    49.71,
+    53.69,
+    57.67,
+    61.64
+  ]
+}

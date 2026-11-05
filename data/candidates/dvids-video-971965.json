@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:971965",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3 on Lake Michigan",
+  "description": "Coast Guard Air Station Traverse City MH-60 Jayhawk helicopter crew rescues three people from the water In Sturgeon Bay on Lake Michigan July 28 2025. The crew received report of a capsized 16-foot vessel responded and rescued the survivors then transported them to Pellston Regional Airport in Michigan where Emergency Medical Services were awaiting. (Courtesy video by Air Station Traverse City)",
+  "keywords": "search-and-rescue, Coast Guard, SAR",
+  "date": "2025-07-28T00:00:00-04:00",
+  "date_published": "2025-07-29T09:25:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 3rd Class Michael Lauofo",
+  "category": "B-Roll",
+  "virin": "250725-G-NB558-1001",
+  "location": {
+    "city": "Sturgeon Bay",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/971965/coast-guard-rescues-3-lake-michigan",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-971965",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:57:45Z",
+  "duration": 103.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111196480/DOD_111196480-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 89655791
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-971965.jpg",
+  "sheet_times": [
+    3.21,
+    9.64,
+    16.07,
+    22.5,
+    28.92,
+    35.35,
+    41.78,
+    48.2,
+    54.63,
+    61.06,
+    67.49,
+    73.91,
+    80.34,
+    86.77,
+    93.2,
+    99.62
+  ]
+}
