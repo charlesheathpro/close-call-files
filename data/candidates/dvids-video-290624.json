@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-290624",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:49:36Z",
   "duration": 54.23,
   "source_file": {
@@ -71,5 +71,6 @@
     45.96,
     49.07,
     52.18
-  ]
+  ],
+  "pass_reason": "Grayscale FLIR of a ship alongside a sailboat at night, nothing dangerous visible"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-287262",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:56:25Z",
   "duration": 114.38,
   "source_file": {
@@ -177,5 +177,6 @@
     96.09,
     103.21,
     110.32
-  ]
+  ],
+  "pass_reason": "Blurred low-res FLIR raft then airfield arrival; four others still missing, no resolution"
 }

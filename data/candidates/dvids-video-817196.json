@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-817196",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:56:00Z",
   "duration": 25.64,
   "source_file": {
@@ -62,5 +62,6 @@
     21.21,
     22.78,
     24.35
-  ]
+  ],
+  "pass_reason": "25 s silhouettes at a C-130 ramp; the rescue outcome is not stated"
 }

@@ -1,0 +1,188 @@
+{
+  "short_id": "ccf-20261105-20",
+  "revision": 1,
+  "candidate_id": "dvids-video-350417",
+  "lane": "rescue",
+  "story_type": "boat swamped in waves, swimmer and basket hoist",
+  "music_mood": "sea",
+  "hook": "His boat was going down stern first in the waves.",
+  "narration": [
+    "This boat was going down stern first, with waves breaking over the back.",
+    "It was taking on water near Kiawah Island, South Carolina, with its operator still aboard.",
+    "A Coast Guard helicopter from Air Station Savannah came in low over the boat.",
+    "Then a rescue swimmer rode the cable down into the water to reach him.",
+    "Swimmers go in first because a tired person in the water often cannot climb into a rescue basket alone.",
+    "So the basket came down next, and the swimmer guided him inside.",
+    "[short pause] The cable pulled him all the way up to the door.",
+    "Last, the swimmer rode the hook back up on his own."
+  ],
+  "outcome": "He was flown to the Medical University of South Carolina with minor injuries.",
+  "location_card": {
+    "place": "Kiawah Island, South Carolina",
+    "date": "July 19, 2014"
+  },
+  "keep_source_audio": false,
+  "title": "Boat going down off Kiawah Island",
+  "description": "On July 19, 2014, a Coast Guard helicopter crew hoisted the operator of a boat taking on water near Kiawah Island, South Carolina, and flew him to the Medical University of South Carolina.\n\nFootage: U.S. Coast Guard video, Air Station Savannah, released by Coast Guard Public Affairs Detachment Jacksonville, via DVIDS: https://www.dvidshub.net/video/350417\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #boatrescue #southcarolina",
+  "tags": [
+    "coast guard",
+    "boat sinking",
+    "kiawah island",
+    "south carolina",
+    "rescue swimmer",
+    "helicopter hoist",
+    "rescue basket",
+    "real footage"
+  ],
+  "question_comment": "Would you stay with a sinking boat or jump in the water?",
+  "facts": [
+    {
+      "claim": "Vessel taking on water near Kiawah Island",
+      "source_quote": "The Coast Guard responded to the report of a vessel taking on water Saturday in the vicinity of the North Edisto River near Kiawah Island, South Carolina."
+    },
+    {
+      "claim": "Operator hoisted, taken to MUSC with minor injuries",
+      "source_quote": "The operator of the boat was hoisted into a Coast Guard helicopter and was taken to Medical University of South Carolina after sustaining minor injuries."
+    }
+  ],
+  "on_screen_facts": [
+    {
+      "claim": "Air Station Savannah and date July 19, 2014 (title card at source 0 to 4 s)",
+      "on_screen_text": "Coast Guard Responds to Vessel Taking on Water ... Released: 19 July 2014 Produced by: Coast Guard Air Station Savannah"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Boat low at the stern with waves breaking over it",
+      "seen_at": "source 5 to 14 s"
+    },
+    {
+      "claim": "Swimmer on the cable, basket, hoist, swimmer comes up last",
+      "seen_at": "source 20 to 74 s"
+    }
+  ],
+  "priority": 3,
+  "line_shots": [
+    [
+      {
+        "start": 5.2,
+        "end": 7.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 7.8,
+        "end": 10.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 14.8,
+        "end": 17.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 10.0,
+        "end": 12.2,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 12.2,
+        "end": 14.3,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 17.0,
+        "end": 19.3,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 20.2,
+        "end": 22.6,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 22.6,
+        "end": 25.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 36.0,
+        "end": 38.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 38.4,
+        "end": 40.6,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 40.8,
+        "end": 43.2,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 43.2,
+        "end": 45.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 45.6,
+        "end": 48.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 48.0,
+        "end": 50.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 66.0,
+        "end": 68.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 68.6,
+        "end": 71.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 71.2,
+        "end": 74.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ],
+  "preview_ok": "L4 to L7 are top-down hoist-cam views over flat brown river water: the swimmer on the cable, the basket and the man are in frame in every sampled frame, so EMPTY is the uniform water background"
+}

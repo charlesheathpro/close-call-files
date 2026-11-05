@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-603935",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:58:51Z",
   "duration": 64.13,
   "source_file": {
@@ -68,5 +68,6 @@
     53.69,
     57.67,
     61.64
-  ]
+  ],
+  "pass_reason": "Small 4:3 boat-crew footage of a canoeist, hypothermia, calm"
 }
