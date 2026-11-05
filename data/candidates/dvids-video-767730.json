@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:767730",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues 1 man 12 miles east of Government Cut",
+  "description": "A Coast Guard Station Miami Beach 45-foot Response Boat—Medium crew rescue a man after his 25-foot pleasure craft, Vita Beata, capsized approximately 12 miles east of Government Cut, Florida, Sept. 25, 2020. The boat crew arrived on scene, safely embarked the man and took him ashore. Coast Guard Video by Petty Officer 3rd Class Sonya Alcocer.",
+  "keywords": "D7, Station Miami Beach, Government Cut, Coast Guard, search and rescue, Florida",
+  "date": "2020-09-25T00:00:00-04:00",
+  "date_published": "2020-09-29T16:58:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200925-G-G0107-1003",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/767730/coast-guard-rescues-1-man-12-miles-east-government-cut",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-767730",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:07:05Z",
+  "duration": 26.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2009/DOD_108002411/DOD_108002411.mp4",
+    "width": 720,
+    "height": 1280,
+    "bitrate": 7858,
+    "size": 25896614
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.77,
+    23.13
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      23.0
+    ],
+    "silence_ends": [
+      26.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-767730.jpg",
+  "sheet_times": [
+    0.8,
+    2.39,
+    3.99,
+    5.58,
+    7.17,
+    8.77,
+    10.36,
+    11.96,
+    13.55,
+    15.14,
+    16.74,
+    18.33,
+    19.93,
+    21.52,
+    23.11,
+    24.71
+  ]
+}

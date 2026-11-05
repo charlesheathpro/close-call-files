@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:885751",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues man from vessel taking on water offshore Little St. Simons Island",
+  "description": "A Coast Guard Air Station Savannah MH-65 Dolphin helicopter aircrew rescued a man from a 45-foot vessel taking on water 3 miles offshore Little St. Simons Island, Georgia, June 04, 2023. The captain aboard the 45-foot sailing vessel was hoisted off the beach and taken to Little St. Simons Island airport with no medical concerns. (U.S. Coast Guard photo courtesy of Air Station Savannah)",
+  "keywords": "Air Station Savannah, Coast Guard, SAR, Georgia, USCG",
+  "date": "2023-06-04T00:00:00-04:00",
+  "date_published": "2023-06-05T11:26:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Joe Perez",
+  "category": "B-Roll",
+  "virin": "230605-G-GO107-0071",
+  "location": {
+    "city": "",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/885751/coast-guard-rescues-man-vessel-taking-water-offshore-little-st-simons-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-885751",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:13:25Z",
+  "duration": 25.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109681853/DOD_109681853.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 30235665
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-885751.jpg",
+  "sheet_times": [
+    0.78,
+    2.33,
+    3.88,
+    5.44,
+    6.99,
+    8.55,
+    10.1,
+    11.65,
+    13.21,
+    14.76,
+    16.31,
+    17.87,
+    19.42,
+    20.97,
+    22.53,
+    24.08
+  ]
+}
