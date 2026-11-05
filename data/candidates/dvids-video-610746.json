@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:610746",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "Eureka, Kansas Tornado Aftermath",
+  "description": "Residents of Eureka, Kansas were hit with an F-3 tornado on the evening of June 26, 2018.",
+  "keywords": "Kansas National Guard, Kansas, Eureka, Kansas Division of Emergency Management",
+  "date": "2018-06-27T00:00:00-04:00",
+  "date_published": "2018-06-28T14:37:18-04:00",
+  "branch": "Joint",
+  "unit_name": "Kansas Adjutant General's Department",
+  "credit": "Staff Sgt. Mark Nussbaumer",
+  "category": "B-Roll",
+  "virin": "180627-A-QI464-001",
+  "location": {
+    "city": "Eureka",
+    "state": "Kansas",
+    "country": "United States",
+    "state_abbreviation": "KS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/610746/eureka-kansas-tornado-aftermath",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-610746",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:55:14Z",
+  "duration": 37.87,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105784674/DOD_105784674.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 7650,
+    "size": 36693962
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    27.33,
+    29.63,
+    36.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      29.7
+    ],
+    "silence_ends": [
+      4.0,
+      36.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-610746.jpg",
+  "sheet_times": [
+    5.04,
+    7.13,
+    9.21,
+    11.3,
+    13.38,
+    15.47,
+    17.56,
+    19.64,
+    21.73,
+    23.81,
+    25.9,
+    27.98,
+    30.07,
+    32.15,
+    34.24,
+    36.32
+  ]
+}
