@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:KSC-20230507-MH-RLS01-TROPICS_Rocket_Launch-Rocket_Lab-WON_3330130",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "TROPICS Rocket Launch",
+  "description": "TROPICS Rocket Launch",
+  "keywords": "TROPICS, Rocket Launch, Rocket, New Zealand, Rocket Lab, NASA",
+  "date": "2023-05-07T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20230507-MH-RLS01-TROPICS_Rocket_Launch-Rocket_Lab-WON_3330130",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20230507-MH-RLS01-TROPICS-Rocket-Launch-Rocket-Lab-WON-3330130",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:18:25Z",
+  "duration": 30.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20230507-MH-RLS01-TROPICS_Rocket_Launch-Rocket_Lab-WON_3330130/KSC-20230507-MH-RLS01-TROPICS_Rocket_Launch-Rocket_Lab-WON_3330130~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 30.04
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.07,
+    30.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      12.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20230507-MH-RLS01-TROPICS-Rocket-Launch-Rocket-Lab-WON-3330130.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.62,
+    6.48,
+    8.33,
+    10.18,
+    12.03,
+    13.88,
+    15.73,
+    17.57,
+    19.43,
+    21.28,
+    23.12,
+    24.98,
+    26.83,
+    28.68
+  ]
+}

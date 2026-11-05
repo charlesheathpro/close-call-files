@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:135005",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "lava",
+  "title": "Lava Viper",
+  "description": "U.S. Marines with 2nd Battalion, 3rd Marine Regiment are conducting a live fire range during Lava Viper in Pohakuloa Training Area, Jan. 12, 2012. Lava Viper is a battalion level combined arms training exercise to better prepare Marines for upcoming deployments. Produced by Lance Cpl. Robert Bush. Available in high definition.",
+  "keywords": "live fire range, 3rd Marine Regiment, Pohakuloa Training Area, Lava Viper, USMCCOMCAM, MARFORPAC COMCAM, Marines, 2nd Battalion",
+  "date": "2012-01-12T00:00:00-05:00",
+  "date_published": "2012-01-16T03:39:36-05:00",
+  "branch": "Marines",
+  "unit_name": "U.S. Marine Corps Forces, Pacific",
+  "credit": "Lance Cpl. Robert Bush",
+  "category": "B-Roll",
+  "virin": "120112-M-VB788-056",
+  "location": {
+    "city": "Pohakuloa Training Area",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/135005/lava-viper",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-135005",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:21:01Z",
+  "duration": 125.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1201/DOD_100307224/DOD_100307224.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9147,
+    "size": 148246351
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.24,
+      "e": 5.24,
+      "text": "They can."
+    },
+    {
+      "s": 5.24,
+      "e": 7.24,
+      "text": "You always want to know what water is."
+    },
+    {
+      "s": 7.24,
+      "e": 120.28,
+      "text": "Right down here."
+    },
+    {
+      "s": 120.28,
+      "e": 121.28,
+      "text": "Roger, drink to the north."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    14.88,
+    19.82,
+    24.69,
+    29.8,
+    38.57,
+    48.18,
+    58.66,
+    65.7,
+    73.61,
+    83.95,
+    94.66,
+    101.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-135005.jpg",
+  "sheet_times": [
+    7.78,
+    15.33,
+    22.88,
+    30.44,
+    37.99,
+    45.54,
+    53.09,
+    60.64,
+    68.19,
+    75.75,
+    83.3,
+    90.85,
+    98.4,
+    105.95,
+    113.51,
+    121.06
+  ]
+}

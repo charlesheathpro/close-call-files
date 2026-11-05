@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:409187",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Rescue",
+  "description": "An aircrew with Coast Guard Air Station Clearwater, Florida, rescues a man in the vicinity of Lake Rosa, Bahamas, June 12, 2015. The man was reported missing during a fishing trip in the Bahamas. U.S. Coast Guard video.",
+  "keywords": "Bahamas, Clearwater, air crew, GI-60, Coast Guard, rescue",
+  "date": "2015-06-12T00:00:00-04:00",
+  "date_published": "2015-06-12T13:20:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "150612-G-ZK759-802",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/409187/air-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.33333,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-409187",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:23:00Z",
+  "duration": 37.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102511643/DOD_102511643.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8612,
+    "size": 39798609
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.38,
+    19.17,
+    34.42
+  ],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-409187.jpg",
+  "sheet_times": [
+    5.34,
+    7.35,
+    9.36,
+    11.37,
+    13.38,
+    15.39,
+    17.4,
+    19.41,
+    21.42,
+    23.43,
+    25.44,
+    27.45,
+    29.46,
+    31.47,
+    33.48,
+    35.49
+  ]
+}
