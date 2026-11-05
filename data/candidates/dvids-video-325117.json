@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:325117",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "mudslide",
+  "title": "Oso Mudslide",
+  "description": "Soldiers from the 141st Civil Engineering Squadron, Washington National Guard, assist local civilian authorities in the search and rescue operations in support of the Oso mudslide.(Video by Sgt. M Koleen Elsberry, 122nd PAOC)",
+  "keywords": "mudslide, Washington National Guard, Darrington, search and extraction, homeland response force, Humanitarian News, OSO Mudslide, Snohomish County",
+  "date": "2014-03-27T00:00:00-04:00",
+  "date_published": "2014-03-28T09:47:39-04:00",
+  "branch": "Army",
+  "unit_name": "122nd Theater Public Affairs Support Element",
+  "credit": "Sgt. Koleen Elsberry",
+  "category": "B-Roll",
+  "virin": "140327-Z-RI264-015",
+  "location": {
+    "city": "Oso",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/325117/oso-mudslide",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 7.04037,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-325117",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:09:29Z",
+  "duration": 236.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1403/DOD_101213476/DOD_101213476.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7912,
+    "size": 239970678
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 18.26,
+      "e": 63.55,
+      "text": "Search field."
+    }
+  ],
+  "scene_cuts": [
+    7.01,
+    33.1,
+    48.52,
+    68.54,
+    104.4,
+    123.36,
+    160.93,
+    176.88,
+    186.85,
+    201.13,
+    211.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-325117.jpg",
+  "sheet_times": [
+    14.21,
+    28.54,
+    42.87,
+    57.2,
+    71.53,
+    85.86,
+    100.19,
+    114.53,
+    128.86,
+    143.19,
+    157.52,
+    171.85,
+    186.18,
+    200.51,
+    214.85,
+    229.18
+  ]
+}

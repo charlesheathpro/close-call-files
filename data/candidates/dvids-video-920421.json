@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:920421",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 aground on Horn Cay",
+  "description": "A Coast Guard Air Station Clearwater Operation Bahamas Turks and Caicos aircrew rescued two people after their 73ft vessel ran aground due to inclement weather, at the north end of Horn Cay, BS, April 11, 2024. The mariners were airlifted to Lynden Pindling Airport with no medical concerns, and are coordinating vessel recovery with commercial salvage. (U.S. Coast Guard video)",
+  "keywords": "Bahamas, Coast Guard",
+  "date": "2024-04-11T00:00:00-04:00",
+  "date_published": "2024-04-23T10:02:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240411-G-G0107-1001",
+  "location": {
+    "city": "Horn Cay",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/920421/coast-guard-rescues-2-aground-horn-cay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-920421",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:10:08Z",
+  "duration": 49.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110254594/DOD_110254594.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 57351623
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.05,
+    25.26,
+    39.94
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      49.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-920421.jpg",
+  "sheet_times": [
+    1.52,
+    4.56,
+    7.61,
+    10.65,
+    13.69,
+    16.73,
+    19.78,
+    22.82,
+    25.86,
+    28.91,
+    31.95,
+    34.99,
+    38.03,
+    41.08,
+    44.12,
+    47.16
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "asset_id": "video:291197",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "May 20th Tornado in Moore, Okla. - Securing Plaza Tower Elementary School BROLL",
+  "description": "Soldiers from 700 Brigade Support Battalion, 45th Infantry Brigade Combat Team secure a perimeter around the Plaza Tower Elementary School which was devastated by the May 20th tornado. BROLL includes shots of rescue teams digging to find survivors. Also available in high definition.",
+  "keywords": "Oklahoma National Guard, May 20th Tornado, Moore Tornado, oklahoma tornado, disaster",
+  "date": "2013-05-20T00:00:00-04:00",
+  "date_published": "2013-05-21T04:50:46-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Sgt. Christopher Bruce",
+  "category": "B-Roll",
+  "virin": "130520-A-KJ752-001",
+  "location": {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/291197/may-20th-tornado-moore-okla-securing-plaza-tower-elementary-school-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-291197",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:07:32Z",
+  "duration": 55.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100819923/DOD_100819923.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 9022,
+    "size": 65078559
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 18.9,
+      "e": 22.26,
+      "text": "and back towards where we were standing and spread out every about 10 or 15 meters."
+    },
+    {
+      "s": 22.26,
+      "e": 23.86,
+      "text": "It just was."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    8.07,
+    11.01,
+    15.75,
+    26.03,
+    32.6,
+    35.64,
+    37.04,
+    41.34,
+    44.84,
+    47.11,
+    48.95,
+    54.05
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      24.5
+    ],
+    "silence_ends": [
+      4.1,
+      25.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-291197.jpg",
+  "sheet_times": [
+    5.61,
+    8.81,
+    12.02,
+    15.23,
+    18.43,
+    21.64,
+    24.85,
+    28.05,
+    31.26,
+    34.47,
+    37.67,
+    40.88,
+    44.09,
+    47.29,
+    50.5,
+    53.7
+  ]
+}

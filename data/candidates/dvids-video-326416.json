@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:326416",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "mudslide",
+  "title": "Oso Mudslide - Broll",
+  "description": "Broll of Oso mudslide.",
+  "keywords": "mudslide, Washington National Guard, OSO Mudslide, Oso Wa",
+  "date": "2014-04-01T00:00:00-04:00",
+  "date_published": "2014-04-02T02:01:05-04:00",
+  "branch": "Army",
+  "unit_name": "122nd Theater Public Affairs Support Element",
+  "credit": "Greg Mason",
+  "category": "B-Roll",
+  "virin": "140401-D-VQ984-881",
+  "location": {
+    "city": "Oso",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/326416/oso-mudslide-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-326416",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:10:13Z",
+  "duration": 97.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1404/DOD_101255815/DOD_101255815.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7777,
+    "size": 96871075
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.97,
+    17.42,
+    36.04,
+    45.05,
+    61.06,
+    67.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-326416.jpg",
+  "sheet_times": [
+    3.02,
+    9.07,
+    15.12,
+    21.17,
+    27.22,
+    33.27,
+    39.32,
+    45.37,
+    51.41,
+    57.46,
+    63.51,
+    69.56,
+    75.61,
+    81.66,
+    87.71,
+    93.76
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:350250",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard mountain rescue west of Portland",
+  "description": "Coast Guard crews, working with Washington County rescue personnel, rescued an injured 58-year-old man from a ravine near Gale Creek Campground, approximately 28 miles west of Portland, Ore., July 17, 2014.\r\n\r\nThe Astoria-based Coast Guard MH-60 Jayhawk helicopter crew safely transferred the man, who reportedly suffered multiple broken ribs and a punctured lung from a 25 to 30 foot fall into the ravine, to medical personnel at Providence St. Vincent Hospital in Portland.\r\n\r\nU.S. Coast Guard video",
+  "keywords": "July, Jayhawk, 2014, helicopter, Coast Guard, mountain, Oregon, rescue, Astoria, Portland",
+  "date": "2014-07-17T00:00:00-04:00",
+  "date_published": "2014-07-18T12:14:01-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140717-G-ZZ999-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/350250/coast-guard-mountain-rescue-west-portland",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 7.14047,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-350250",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:06:52Z",
+  "duration": 248.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101817573/DOD_101817573.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8727,
+    "size": 271182935
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.14,
+    135.0,
+    171.4,
+    201.67,
+    241.44
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      248.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-350250.jpg",
+  "sheet_times": [
+    14.67,
+    29.72,
+    44.77,
+    59.82,
+    74.87,
+    89.92,
+    104.97,
+    120.02,
+    135.07,
+    150.12,
+    165.17,
+    180.22,
+    195.27,
+    210.32,
+    225.37,
+    240.42
+  ]
+}
