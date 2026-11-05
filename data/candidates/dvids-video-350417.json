@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:350417",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues mariner",
+  "description": "The Coast Guard responded to the report of a vessel taking on water Saturday in the vicinity of the North Edisto River near Kiawah Island, South Carolina. The operator of the boat was hoisted into a Coast Guard helicopter and was taken to Medical University of South Carolina after sustaining minor injuries. (U.S. Coast Guard video)",
+  "keywords": "Medical University of South Carolina, Air Facility Charleston, vessel taking on water, Coast Guard Sector Charleston, North Edisto River, Kiawah Island, US Coast Guard, South Carolina, rescue, Water rescue",
+  "date": "2014-07-19T00:00:00-04:00",
+  "date_published": "2014-07-19T18:07:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140719-G-AB001-001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/350417/coast-guard-rescues-mariner",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.63797,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-350417",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:50:42Z",
+  "duration": 77.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101819003/DOD_101819003.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 101607680
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      20.0,
+      56.2
+    ],
+    "silence_ends": [
+      4.6,
+      51.5,
+      75.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-350417.jpg",
+  "sheet_times": [
+    6.91,
+    11.45,
+    15.99,
+    20.53,
+    25.07,
+    29.61,
+    34.15,
+    38.69,
+    43.23,
+    47.77,
+    52.31,
+    56.85,
+    61.39,
+    65.93,
+    70.47,
+    75.01
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:317935",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "USCG Rescue Jet Footage",
+  "description": "B-roll of arrival of rescued man as Coast Guard crews search for four others",
+  "keywords": "CGVI, rescue jet, Coast Guard, USCG",
+  "date": "2013-04-19T00:00:00-04:00",
+  "date_published": "2013-12-22T21:49:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317935/uscg-rescue-jet-footage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317935",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:50:18Z",
+  "duration": 114.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062903/DOD_101062903.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7994,
+    "size": 130982332
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.2,
+      "e": 7.2,
+      "text": "I"
+    }
+  ],
+  "scene_cuts": [
+    4.5,
+    33.77,
+    33.87,
+    34.5,
+    41.91,
+    42.48,
+    72.84,
+    99.37,
+    114.31
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      42.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317935.jpg",
+  "sheet_times": [
+    3.56,
+    10.68,
+    17.8,
+    24.92,
+    32.04,
+    39.15,
+    46.27,
+    53.39,
+    60.51,
+    67.63,
+    74.75,
+    81.87,
+    88.99,
+    96.11,
+    103.23,
+    110.35
+  ]
+}
