@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: { group: upload, cancel-in-progress: false }
+concurrency: { group: dupes, cancel-in-progress: false }
 jobs:
   dupes:
     runs-on: ubuntu-latest
