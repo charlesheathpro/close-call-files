@@ -1,24 +1,14 @@
 {
-  "at": "2026-11-05T09:00:07Z",
+  "at": "2026-11-05T16:20:00Z",
   "healthy": false,
-  "numbers": {
-    "dropped": 34,
-    "uploaded": 76,
-    "passed": 2,
-    "rejected": 1,
-    "needs_qa": 0,
-    "scheduled_36h": 8
-  },
+  "numbers": {"dropped": 34, "uploaded": 78, "passed": 0, "rejected": 1, "needs_qa": 0, "build_failed": 2, "scheduled_36h": 7},
   "problems": [
-    "thin queue: scheduled 36h + passed = 10 (target 15), buffer 2 plus 8 scheduled (target 25)",
-    "DVIDS rescue pool exhausted (all 138 passed over, 3 strong ones held only as 3-day repeats: 327601 Rebel Heart jump, 790252 Pine Key catamaran, 547567 Harvey girl), DVIDS aviation and hazards had nothing at the viral bar (85 passed over)",
-    "Wikimedia Commons returns 429 to this session, so 74 Commons candidates were not reviewed and the Milton page could not be opened",
-    "upload limit hit repeatedly Nov 4 (now cleared, 08:26 upload ran)"
+    "ElevenLabs quota exhausted: builds of ccf-20261105-20 and -21 failed at 12:52Z with 401 quota_exceeded (6 credits left of 208835). Needs Charles: top up or wait for the quota reset. No new Short can build until then.",
+    "thin queue: scheduled 36h + passed = 7 (target 15), buffer 7 (target 25)"
   ],
-  "fixed": [
-    "editor pass: 2 NASA specs written (Falcon Heavy booster landings passed at rev 2; shuttle landing dropped, single fixed camera)",
-    "archive harvest restarted (triggers/harvest)",
-    "QA: 4 passed (05-01, 05-02, 05-03, 05-05 rev 2), 05-04 and 05-11 dropped"
-  ],
-  "next": "Next editor run: NASA held items become usable Nov 7+ (DM-1 booster test anomaly, Soyuz MS-19 landing); retry Commons candidates; new harvest supply."
+  "fixed": [],
+  "not_done": [
+    "No editor pass: new specs would fail the same way at build. Did not switch the voice engine to Kokoro, since that changes the channel voice and is Charles's call.",
+    "After quota is restored: put ccf-20261105-20 and ccf-20261105-21 in triggers/build-ids and push date > triggers/build."
+  ]
 }
