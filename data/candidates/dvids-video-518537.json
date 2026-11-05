@@ -1,0 +1,111 @@
+{
+  "asset_id": "video:518537",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Hug Point Rescue",
+  "description": "A Coast Guard Sector Columbia River MH-60 Jayhawk helicopter crew rescues a man who became stranded on the rock due to incoming surf near Hug Point, Ore., April 10, 2017. The man was transferred back to Sector Columbia River with no medical concerns. U.S. Coast Guard video by Sector Columbia River.",
+  "keywords": "Hug Point, Coast Guard, search and rescue, Oregon",
+  "date": "2017-04-10T00:00:00-04:00",
+  "date_published": "2017-04-10T18:58:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Jonathan Klingenberg",
+  "category": "B-Roll",
+  "virin": "170410-G-KL864-735",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/518537/hug-point-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-518537",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:49:54Z",
+  "duration": 66.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1704/DOD_104263754/DOD_104263754.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4381,
+    "size": 36962522
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 20.4,
+      "e": 42.98,
+      "text": "that Lewis is going to help"
+    },
+    {
+      "s": 42.98,
+      "e": 44.62,
+      "text": "fixes"
+    },
+    {
+      "s": 44.62,
+      "e": 50.82,
+      "text": "roger"
+    },
+    {
+      "s": 50.82,
+      "e": 52.12,
+      "text": "uh..."
+    }
+  ],
+  "scene_cuts": [
+    4.38,
+    16.42,
+    30.96,
+    38.79,
+    61.38
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9,
+      22.3,
+      25.8,
+      28.8,
+      47.8,
+      52.4,
+      56.3,
+      60.9
+    ],
+    "silence_ends": [
+      19.5,
+      23.6,
+      26.9,
+      33.6,
+      49.2,
+      53.5,
+      59.3,
+      66.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-518537.jpg",
+  "sheet_times": [
+    2.06,
+    6.18,
+    10.3,
+    14.42,
+    18.54,
+    22.66,
+    26.78,
+    30.89,
+    35.01,
+    39.13,
+    43.25,
+    47.37,
+    51.49,
+    55.61,
+    59.73,
+    63.85
+  ]
+}
