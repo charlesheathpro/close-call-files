@@ -1,0 +1,112 @@
+{
+  "asset_id": "nasa:KSC_20260117_A2_to_39B",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket launch",
+  "title": "NASA's SLS Rocket and Orion Spacecraft Rollout to Launch Pad 39B",
+  "description": "This image shows NASA’s SLS (Space Launch System) and Orion spacecraft rolling out of the Vehicle Assembly Building at NASA’s Kennedy Space Center. NASA's massive Crawler-Transporter, upgraded for the Artemis program, carries the powerful SLS rocket and Orion spacecraft on the Mobile Launcher from the Vehicle Assembly Building to Launch Pad 39B at Kennedy Space Center in preparation for the Artemis II mission.",
+  "keywords": "SLS, Space Launch System, Artemis II, Kennedy Space Center, KSC, Rollout",
+  "date": "2026-01-17T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC_20260117_A2_to_39B",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20260117-A2-to-39B",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:28:08Z",
+  "duration": 91.83,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC_20260117_A2_to_39B/KSC_20260117_A2_to_39B~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 91.833333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 10.89,
+      "text": "[wind, car passes]"
+    },
+    {
+      "s": 10.89,
+      "e": 21.69,
+      "text": "[camera focus beeps]"
+    },
+    {
+      "s": 21.69,
+      "e": 40.76,
+      "text": "[truck engine sounds]"
+    },
+    {
+      "s": 40.76,
+      "e": 61.36,
+      "text": "[wind]"
+    },
+    {
+      "s": 61.36,
+      "e": 71.35,
+      "text": "[wind, footsteps on gravel]"
+    },
+    {
+      "s": 71.35,
+      "e": 78.5,
+      "text": "[wind, camera focus beeps]"
+    },
+    {
+      "s": 78.5,
+      "e": 91.83,
+      "text": "[no audio]"
+    }
+  ],
+  "scene_cuts": [
+    10.9,
+    30.37,
+    51.57,
+    61.37
+  ],
+  "drama_score": 37,
+  "audio": {
+    "silence_starts": [
+      10.9,
+      14.7,
+      18.3,
+      31.7,
+      40.8,
+      43.3,
+      73.8
+    ],
+    "silence_ends": [
+      14.7,
+      18.3,
+      31.3,
+      32.6,
+      43.3,
+      73.8,
+      91.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20260117-A2-to-39B.jpg",
+  "sheet_times": [
+    2.85,
+    8.56,
+    14.27,
+    19.98,
+    25.69,
+    31.4,
+    37.1,
+    42.81,
+    48.52,
+    54.23,
+    59.94,
+    65.65,
+    71.35,
+    77.06,
+    82.77,
+    88.48
+  ]
+}

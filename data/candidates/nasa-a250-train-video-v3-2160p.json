@@ -1,0 +1,95 @@
+{
+  "asset_id": "nasa:a250_train_video_v3 (2160p)",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket launch",
+  "title": "Booster Segments for Artemis III Journey from Utah to Florida",
+  "description": "This video follows the cross-country journey of eight of the 10 solid rocket booster segments that will help power NASA’s SLS (Space Launch System) rocket for the Artemis III mission. Transported by rail from Northrop Grumman’s facility in Corinne, Utah, to NASA’s Kennedy Space Center in Florida, the shipment marked the first trip for Union Pacific Railroad’s newest commemorative locomotive, No. 4547. Midway through the journey, the booster segments were transferred to another rail carrier, Norfolk Southern, to complete their trip to Florida. The 10 booster motor segments will be assembled into the SLS rocket’s twin solid rocket boosters, which provide more than 75% of the vehicle’s thrust at liftoff.  For more information about SLS, visit https://www.nasa.gov/sls.",
+  "keywords": "Artemis, NASA, SLS, Space Launch System, NASASLS, Astronauts, Moon, Rocket Science, Boosters, Marshall Space Flight Center",
+  "date": "2026-06-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/a250_train_video_v3%20%282160p%29",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-a250-train-video-v3-2160p",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:29:27Z",
+  "duration": 68.43,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/a250_train_video_v3%20(2160p)/a250_train_video_v3%20(2160p)~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 68.433333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 19.99,
+      "text": "[music]"
+    },
+    {
+      "s": 19.99,
+      "e": 27.36,
+      "text": "[train horn]"
+    },
+    {
+      "s": 27.36,
+      "e": 68.4,
+      "text": "[music]"
+    }
+  ],
+  "scene_cuts": [
+    2.6,
+    4.27,
+    5.8,
+    7.53,
+    11.03,
+    13.63,
+    30.77,
+    34.13,
+    35.77,
+    37.57,
+    40.13,
+    41.83,
+    43.6,
+    48.67,
+    52.17,
+    57.33,
+    59.0,
+    60.73,
+    63.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.4
+    ],
+    "silence_ends": [
+      2.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-a250-train-video-v3-2160p.jpg",
+  "sheet_times": [
+    2.12,
+    6.37,
+    10.61,
+    14.86,
+    19.11,
+    23.35,
+    27.6,
+    31.84,
+    36.09,
+    40.34,
+    44.58,
+    48.83,
+    53.07,
+    57.32,
+    61.56,
+    65.81
+  ]
+}
