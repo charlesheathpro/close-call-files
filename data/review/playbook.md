@@ -1,39 +1,39 @@
-# Playbook (computed 2026-11-05T10:39:24Z from 53 Shorts older than 48 hours)
+# Playbook (computed 2026-11-05T15:45:49Z from 55 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.46, 5 Shorts)
-- spacecraft or test story (+0.46, 5 Shorts)
-- story: splashdown recovery (+0.42, 1 Shorts)
-- lane: aviation_naval (+0.41, 6 Shorts)
-- story: launch abort test (+0.41, 1 Shorts)
+- source: nasa (+0.43, 5 Shorts)
+- spacecraft or test story (+0.43, 5 Shorts)
 - story: capsized boat, people in the water (+0.4, 1 Shorts)
-- hook names a child (+0.3, 8 Shorts)
-- music: aviation (+0.26, 4 Shorts)
+- lane: aviation_naval (+0.39, 6 Shorts)
+- story: launch abort test (+0.39, 1 Shorts)
+- story: splashdown recovery (+0.39, 1 Shorts)
+- hook names a child (+0.32, 8 Shorts)
+- music: aviation (+0.25, 4 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-1.07, 1 Shorts)
-- source: dvids (-0.44, 42 Shorts)
-- music: hazards (-0.41, 4 Shorts)
-- story: volcano eruption (-0.37, 2 Shorts)
-- lane: hazards (-0.33, 3 Shorts)
-- hook names an animal (-0.27, 11 Shorts)
-- story: sinking sailboat, boat crew (-0.24, 1 Shorts)
-- story: wildfire rescue (-0.2, 1 Shorts)
+- story: dog hoist from sinking boat (-0.98, 1 Shorts)
+- source: dvids (-0.42, 44 Shorts)
+- music: hazards (-0.38, 4 Shorts)
+- story: volcano eruption (-0.35, 2 Shorts)
+- story: crevasse rescue on a glacier (-0.33, 1 Shorts)
+- lane: hazards (-0.31, 3 Shorts)
+- story: sinking sailboat, boat crew (-0.23, 1 Shorts)
+- story: dog cliff fall, basket hoist (-0.2, 1 Shorts)
 
 ## Best Shorts
-- Orion splashes down after the Moon: 9428 views, 95% watched
+- Boat flipped with a 4-year-old aboard: 18790 views, 78% watched
+- Orion splashes down after the Moon: 9429 views, 95% watched
 - Capsule torn off a rocket at Mach 1: 5174 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 18785 views, 78% watched
+- Five abandon a sinking fishing boat: 7151 views, 67% watched
 - Dog fell off an Oregon sea cliff: 1290 views, 84% watched
-- Five abandon a sinking fishing boat: 7063 views, 67% watched
 
 ## Weakest Shorts
-- 214 people trapped by a wildfire: 341 views, 64% watched
-- Yacht broke in two on Lake Erie: 1221 views, 37% watched
-- Sailboat sinking 25 miles off Michigan: 295 views, 60% watched
+- German shepherd fell 300 feet: 3424 views, 0% watched
+- Sailboat sinking 25 miles off Michigan: 297 views, 60% watched
 - Mauna Loa erupts after 38 years: 146 views, 65% watched
+- Skier fell 60 feet into a crevasse: 1205 views, 0% watched
 - Dog hoisted from a sinking catamaran: 6 views, 0% watched
 
 ## QA rejections this week (do not repeat these)
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261104-05: Well cut and accurate, with real flames under the bucket, but it is a calm repeated work loop with no person in danger and no turn; the third aerial-firefighting Short in a week. Dropped.
 - ccf-20261105-04: Grainy 720p door-cam: the stranded man on the rock is never clearly shown, half the Short is noisy surf and orange-suit close-ups that do not match their lines, and it repeats the sea-cliff stranding already scheduled today (04-11) in a format that tested weak (Oregon cliff hikers 48% watched).
 - ccf-20261105-11: The source is one fixed camera on one landing for its full 3 minutes, so render 12 to 44 s is the same rear view of the orbiter shrinking into the distance with no new angle; nothing on screen looks dangerous and the crosswind line is not in any source.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.58, 'hazards': 0.1}
-- query weights for 35 searches
