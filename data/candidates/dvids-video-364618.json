@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-364618",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:23:57Z",
   "duration": 58.0,
   "source_file": {
@@ -76,5 +76,6 @@
     48.52,
     52.11,
     55.71
-  ]
+  ],
+  "pass_reason": "Blurry FLIR of the bubble and airfield b-roll; the hoist is never clearly seen."
 }

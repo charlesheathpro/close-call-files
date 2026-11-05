@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Final-Out-CRF35",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:38:23Z",
   "duration": 40.11,
   "source_file": {
@@ -75,5 +75,6 @@
     33.42,
     35.89,
     38.37
-  ]
+  ],
+  "pass_reason": "Four-camera mosaic, each panel well under 480p."
 }

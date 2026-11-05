@@ -26,7 +26,7 @@
   "time_start": 18.5732,
   "aspect_ratio": "16:9",
   "id": "dvids-video-476177",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:55:29Z",
   "duration": 161.15,
   "source_file": {
@@ -300,5 +300,6 @@
     138.45,
     147.33,
     156.21
-  ]
+  ],
+  "pass_reason": "Mostly interviews and near-black night hoist footage."
 }

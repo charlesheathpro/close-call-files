@@ -1,0 +1,182 @@
+{
+  "short_id": "ccf-20261105-03",
+  "revision": 1,
+  "candidate_id": "nasa-NHQ-2021-0222-VF-NASA-Provides-First-Front-Row-Seat-to-Perseverance-Rover-s-Land",
+  "lane": "aviation_naval",
+  "story_type": "Mars landing from onboard cameras",
+  "music_mood": "aviation",
+  "hook": "Filmed from a rover being lowered onto Mars on cables.",
+  "narration": [
+    "This camera rode a rover down to Mars, dangling on cables under a rocket-powered crane.",
+    "The footage starts seven miles above Jezero Crater, the moment the parachute opened.",
+    "It was the most massive parachute ever sent to another world, and it opened at supersonic speed.",
+    "Then the heat shield fell away, and the rover saw the ground for the first time.",
+    "Mars was so far away that radio signals took minutes to reach Earth, so every step of this landing ran on its own.",
+    "Near the surface, the descent stage fired its rockets and lowered the rover on cables.",
+    "[short pause] Its engines blasted a cloud of dust up around the wheels."
+  ],
+  "outcome": "Perseverance touched down in Jezero Crater, the fifth rover NASA has landed on Mars.",
+  "location_card": {
+    "place": "Jezero Crater, Mars",
+    "date": "Feb. 18, 2021"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 228.0,
+        "end": 231.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 266.0,
+        "end": 269.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 207.5,
+        "end": 210.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 212.0,
+        "end": 215.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 287.5,
+        "end": 290.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 291.0,
+        "end": 294.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 47.6,
+        "end": 50.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 92.5,
+        "end": 95.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 145.0,
+        "end": 148.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 152.0,
+        "end": 155.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 180.0,
+        "end": 183.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 231.5,
+        "end": 234.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 260.5,
+        "end": 263.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 235.0,
+        "end": 238.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 238.5,
+        "end": 241.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 303.2,
+        "end": 306.2,
+        "layout": "crop",
+        "crop_x": 0.65
+      },
+      {
+        "start": 318.0,
+        "end": 321.0,
+        "layout": "crop",
+        "crop_x": 0.85
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "Landing on Mars, filmed from the rover",
+  "description": "Cameras aboard NASA's Perseverance rover and its descent stage filmed the final minutes of its landing in Jezero Crater on Mars on Feb. 18, 2021, from parachute inflation to touchdown.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/NHQ_2021_0222_VF_NASA%20Provides%20First%20Front-Row%20Seat%20to%20Perseverance%20Rover%E2%80%99s%20Landing%20on%20Mars\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #mars #perseverance",
+  "tags": [
+    "nasa",
+    "mars",
+    "perseverance",
+    "mars landing",
+    "sky crane",
+    "jezero crater",
+    "supersonic parachute",
+    "space",
+    "real footage"
+  ],
+  "question_comment": "Would you trust a landing you could not touch for minutes at a time?",
+  "facts": [
+    {
+      "claim": "Footage starts 7 miles above Jezero Crater",
+      "source_quote": "starts 7 miles (11 kilometers) above Jezero Crater"
+    },
+    {
+      "claim": "Most massive parachute ever sent to another world, supersonic deployment",
+      "source_quote": "shows the supersonic deployment of the most massive parachute ever sent to another world"
+    },
+    {
+      "claim": "Covers descent from parachute inflation, ends with touchdown in Jezero Crater",
+      "source_quote": "ends with the rover’s touch down in Jezero Crater"
+    },
+    {
+      "claim": "Fifth rover NASA has landed on Mars",
+      "source_quote": "the fifth rover the agency has landed on the Red Planet"
+    },
+    {
+      "claim": "Plummeted, parachuted and rocketed to the surface",
+      "source_quote": "the spacecraft plummeted, parachuted, and rocketed toward its landing on the surface of Mars"
+    }
+  ],
+  "priority": 2,
+  "preview_ok": "L4 shot 2 and L5 are the rover's down-look camera over the Martian surface: ridges, a cliff edge and a crater are in frame in every sample, but the ground is one orange colour, so the EMPTY check misfires"
+}

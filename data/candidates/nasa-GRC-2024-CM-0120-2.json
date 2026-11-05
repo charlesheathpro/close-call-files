@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2024-CM-0120-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:36:23Z",
   "duration": 111.25,
   "source_file": {
@@ -140,5 +140,6 @@
     93.45,
     100.37,
     107.29
-  ]
+  ],
+  "pass_reason": "Interview about a fuel gauge, no landing footage."
 }

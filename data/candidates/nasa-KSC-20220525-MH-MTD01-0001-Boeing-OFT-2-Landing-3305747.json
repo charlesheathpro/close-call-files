@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220525-MH-MTD01-0001-Boeing-OFT-2-Landing-3305747",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:36:06Z",
   "duration": 268.17,
   "source_file": {
@@ -57,5 +57,6 @@
     225.84,
     242.57,
     259.3
-  ]
+  ],
+  "pass_reason": "Four minutes of calm parachute descent; a test with no failure."
 }

@@ -1,0 +1,171 @@
+{
+  "short_id": "ccf-20261105-01",
+  "revision": 1,
+  "candidate_id": "dvids-video-664732",
+  "lane": "rescue",
+  "story_type": "elderly sailor, sailboat aground in breaking waves",
+  "music_mood": "storm",
+  "hook": "Waves broke over his sailboat. He was 73 and stuck on the rocks.",
+  "narration": [
+    "Waves were breaking right over this sailboat, pinned on the rocks in Lake Superior.",
+    "The man aboard was seventy-three years old, aground off Manitou Island, Michigan.",
+    "A Coast Guard Jayhawk from Air Station Traverse City came in low over the wreck.",
+    "Its rescue swimmer was lowered onto the deck as the boat rocked against the shore.",
+    "A sailboat's mast can snag a hoist cable, so crews often pick people up from the water beside the boat.",
+    "[short pause] Then the basket came down."
+  ],
+  "outcome": "The 73-year-old was hoisted into the Jayhawk and flown safely to Houghton, Michigan.",
+  "location_card": {
+    "place": "Manitou Island, Lake Superior",
+    "date": "Sept. 29, 2018"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 52.5,
+        "end": 55.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 18.0,
+        "end": 21.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 46.0,
+        "end": 49.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 56.0,
+        "end": 59.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 4.0,
+        "end": 7.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 21.5,
+        "end": 24.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 32.0,
+        "end": 35.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 40.0,
+        "end": 43.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 60.0,
+        "end": 63.0,
+        "layout": "crop",
+        "crop_x": 0.7
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 95.0,
+        "end": 98.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 99.5,
+        "end": 102.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 109.5,
+        "end": 113.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 124.0,
+        "end": 127.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 49.5,
+        "end": 52.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ],
+  "keep_source_audio": false,
+  "title": "73 and aground in Lake Superior waves",
+  "description": "On Sept. 29, 2018, a Coast Guard Air Station Traverse City MH-60 Jayhawk crew hoisted a 73-year-old man off a sailboat aground near Manitou Island in Lake Superior and flew him to Houghton, Michigan.\n\nFootage: U.S. Coast Guard video courtesy of Air Station Traverse City, via DVIDS: https://www.dvidshub.net/video/664732/lake-superior-rescue\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #lakesuperior #sailboat",
+  "tags": [
+    "coast guard",
+    "lake superior",
+    "sailboat aground",
+    "mh-60 jayhawk",
+    "rescue swimmer",
+    "helicopter hoist",
+    "manitou island",
+    "great lakes",
+    "real footage"
+  ],
+  "question_comment": "Would you sail Lake Superior alone in late September?",
+  "facts": [
+    {
+      "claim": "Air Station Traverse City Jayhawk crew did the rescue",
+      "source_quote": "A Coast Guard Air Station Traverse City MH-60 Jayhawk helicopter crew rescues"
+    },
+    {
+      "claim": "73-year-old man, aground sailboat, Lake Superior, Sept. 29, 2018",
+      "source_quote": "rescues a 73-year-old man from an aground sailboat in Lake Superior, Sept. 29, 2018."
+    }
+  ],
+  "priority": 3,
+  "on_screen_facts": [
+    {
+      "claim": "Location Manitou Island, Michigan (title card at source 0 to 3 s)",
+      "on_screen_text": "SAILBOAT AGROUND! MANITOU ISLAND, MI IN LAKE SUPERIOR"
+    },
+    {
+      "claim": "Flown safely to Houghton (closing card at source 176 to 182 s)",
+      "on_screen_text": "The 73 year old man was safely transport to Houghton, MI."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Waves breaking over the aground sailboat",
+      "seen_at": "source 52 to 55 s"
+    }
+  ],
+  "preview_ok": "L6 and outcome shot 1 are top-down hoist-cam views over gray-green lake water: the basket, the swimmer and the man in the orange suit are in frame in every sampled frame, so EMPTY is the flat water background"
+}

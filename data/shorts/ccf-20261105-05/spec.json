@@ -1,0 +1,180 @@
+{
+  "short_id": "ccf-20261105-05",
+  "revision": 1,
+  "candidate_id": "commons-Hurricane-Milton-on-a-NOAA-WP-3D-Orion",
+  "lane": "aviation_naval",
+  "story_type": "hurricane hunter turbulence inside the cabin",
+  "music_mood": "storm",
+  "hook": "Gear flew across the cabin inside Hurricane Milton.",
+  "narration": [
+    "Gear flew across the cabin as this plane punched into Hurricane Milton.",
+    "It was NOAA's WP-3D Orion, nicknamed Miss Piggy, flying into the storm on purpose.",
+    "On October eighth, Milton strengthened again to Category 5 winds.",
+    "The crew rode it out strapped to their seats as the plane bucked and dropped.",
+    "Hurricane hunters fly through the storm to collect data that sharpens the forecast for people on the coast.",
+    "[short pause] Then the ride finally smoothed out."
+  ],
+  "outcome": "Miss Piggy rode out the turbulence and flew on above the clouds, crew and data aboard.",
+  "location_card": {
+    "place": "Hurricane Milton, Gulf of Mexico",
+    "date": "Oct. 8, 2024"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 29.5,
+        "end": 32.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33.0,
+        "end": 36.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 0.5,
+        "end": 3.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 65.2,
+        "end": 68.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 15.0,
+        "end": 18.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 9.2,
+        "end": 12.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 24.0,
+        "end": 27.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 36.5,
+        "end": 39.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 44.0,
+        "end": 47.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 55.0,
+        "end": 58.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 86.0,
+        "end": 89.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 90.0,
+        "end": 93.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 124.5,
+        "end": 127.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 131.0,
+        "end": 134.0,
+        "layout": "crop",
+        "crop_x": 0.82
+      },
+      {
+        "start": 127.8,
+        "end": 130.8,
+        "layout": "crop",
+        "crop_x": 0.65
+      }
+    ]
+  ],
+  "keep_source_audio": true,
+  "title": "Hurricane hunter rides into Milton",
+  "description": "On Oct. 8, 2024, NOAA's WP-3D Orion hurricane hunter \"Miss Piggy\" took a bumpy ride into Hurricane Milton in the Gulf of Mexico to collect data for forecasts.\n\nFootage: NOAA Hurricane Hunters video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Hurricane_Milton_on_a_NOAA_WP-3D_Orion.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #hurricane #noaa #hurricanehunters",
+  "tags": [
+    "hurricane milton",
+    "hurricane hunters",
+    "noaa",
+    "wp-3d orion",
+    "miss piggy",
+    "turbulence",
+    "hurricane",
+    "storm",
+    "real footage"
+  ],
+  "question_comment": "Would you volunteer to fly into a Category 5 hurricane?",
+  "extra_sources": [
+    {
+      "url": "https://www.nhc.noaa.gov/data/tcr/AL142024_Milton.pdf",
+      "excerpt": "it re-intensified from 125 kt to 145 kt between 1200–2205 UTC 8 October."
+    }
+  ],
+  "facts": [
+    {
+      "claim": "Bumpy ride into Milton on NOAA WP-3D Orion Miss Piggy",
+      "source_quote": "Bumpy ride into Hurricane #Milton on National Oceanic and Atmospheric Administration (NOAA) WP-3D Orion #NOAA43 \"Miss Piggy\""
+    },
+    {
+      "claim": "Flights collect data to improve forecasts",
+      "source_quote": "to collect critical data to help improve forecasts"
+    },
+    {
+      "claim": "On Oct. 8 Milton re-intensified to 145 kt, Category 5 strength (137 kt and up)",
+      "source_quote": "it re-intensified from 125 kt to 145 kt between 1200–2205 UTC 8 October."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Gear and crew thrown around the cabin",
+      "seen_at": "source 9 to 41 s"
+    },
+    {
+      "claim": "Aircraft flying level above the clouds afterwards",
+      "seen_at": "source 117 to 140 s"
+    }
+  ],
+  "priority": 1
+}

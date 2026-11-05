@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20261001-MH-AJN01-0001-SpaceX-Crew-13-Isolated-Launch-and-Landing-Views-M261",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:20:06Z",
   "duration": 957.0,
   "source_file": {
@@ -1012,5 +1012,6 @@
     807.05,
     866.83,
     926.61
-  ]
+  ],
+  "pass_reason": "Booster landing views include SpaceX onboard camera feeds; federal authorship of those shots is unclear."
 }

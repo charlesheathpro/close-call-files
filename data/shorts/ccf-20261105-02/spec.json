@@ -1,0 +1,180 @@
+{
+  "short_id": "ccf-20261105-02",
+  "revision": 1,
+  "candidate_id": "nasa-Ultimate-Saturn-V-Launch-w-Enhanced-Sound",
+  "lane": "aviation_naval",
+  "story_type": "moon rocket launch, close-up slow motion",
+  "music_mood": "aviation",
+  "hook": "7.5 million pounds of thrust, filmed right next to the fire.",
+  "narration": [
+    "Seven and a half million pounds of thrust, filmed right next to the fire.",
+    "This is a Saturn V, the Moon rocket, three hundred sixty-three feet tall.",
+    "Five F-1 engines at its base roared to life together.",
+    "As they lit, sheets of ice shook loose and rained down past the cameras.",
+    "The tanks held liquid oxygen near three hundred degrees below zero, cold enough to freeze the humid air onto the rocket's skin.",
+    "[short pause] Then the giant began to rise past the tower."
+  ],
+  "outcome": "The Saturn V cleared the tower and climbed away on a column of fire.",
+  "location_card": {
+    "place": "Kennedy Space Center, Florida",
+    "date": "Apollo era"
+  },
+  "line_shots": [
+    [
+      {
+        "start": 34.0,
+        "end": 37.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 71.6,
+        "end": 74.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 24.0,
+        "end": 27.5,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 62.5,
+        "end": 64.7,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 100.2,
+        "end": 103.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 118.5,
+        "end": 121.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 74.6,
+        "end": 77.6,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 78.4,
+        "end": 80.7,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 84.5,
+        "end": 87.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 91.0,
+        "end": 93.8,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 122.0,
+        "end": 125.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 138.0,
+        "end": 141.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 158.0,
+        "end": 161.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 145.0,
+        "end": 148.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 161.0,
+        "end": 164.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "keep_source_audio": true,
+  "title": "Saturn V liftoff from inside the fire",
+  "description": "Slow-motion film from cameras around the launch tower shows a Saturn V Moon rocket igniting its five F-1 engines, shedding ice and lifting off from Kennedy Space Center.\n\nFootage: NASA Marshall Space Flight Center video, via the NASA Image and Video Library: https://images.nasa.gov/details/Ultimate%20Saturn%20V%20Launch%20w%20Enhanced%20Sound\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #saturnv #apollo",
+  "tags": [
+    "saturn v",
+    "apollo",
+    "nasa",
+    "moon rocket",
+    "rocket launch",
+    "f-1 engine",
+    "slow motion",
+    "kennedy space center",
+    "real footage"
+  ],
+  "question_comment": "Would you have stood at the press site for this, or watched from farther away?",
+  "extra_sources": [
+    {
+      "url": "https://www.nasa.gov/history/55-years-ago-apollo-4-the-first-flight-of-the-saturn-v/",
+      "excerpt": "the Saturn V rocket's five F-1 first stage engines roared to life, generating 7.5 million pounds of thrust"
+    },
+    {
+      "url": "https://www.nasa.gov/history/55-years-ago-apollo-4-the-first-flight-of-the-saturn-v/",
+      "excerpt": "the 363-foot tall Saturn V"
+    }
+  ],
+  "facts": [
+    {
+      "claim": "Five F-1 engines, 7.5 million pounds of thrust",
+      "source_quote": "the Saturn V rocket's five F-1 first stage engines roared to life, generating 7.5 million pounds of thrust"
+    },
+    {
+      "claim": "363 feet tall",
+      "source_quote": "the 363-foot tall Saturn V"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Ice falling past the cameras at ignition",
+      "seen_at": "source 58 to 60 s and 74 to 80 s"
+    },
+    {
+      "claim": "Rocket rises past the tower and climbs away",
+      "seen_at": "source 138 to 164 s"
+    }
+  ],
+  "priority": 4
+}
