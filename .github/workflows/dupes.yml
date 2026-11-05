@@ -16,7 +16,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests tzdata
-      - run: python pipeline/upload.py --report-duplicates
+      - run: |
+          python pipeline/upload.py --report-duplicates
+          if grep -q fix triggers/dupes; then python pipeline/fix_dupes.py && python pipeline/upload.py --report-duplicates; fi
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
