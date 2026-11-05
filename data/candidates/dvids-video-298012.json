@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:298012",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Two From Sinking Boat",
+  "description": "A Coast Guard aircrew hoists two men from a sinking boat off the coast of Port Aransas, Texas, Aug. 2, 2013. U.S. Coast Guard video.",
+  "keywords": "hoist, MH-65, Port Aransas, helicopter, Coast Guard, Texas, High Definition, rescue, helo, dolphin",
+  "date": "2013-08-02T00:00:00-04:00",
+  "date_published": "2013-08-05T15:06:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 2nd Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "130802-G-ZZ999-001",
+  "location": {
+    "city": "Port Aransas",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/298012/coast-guard-hoists-two-sinking-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-298012",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:33:35Z",
+  "duration": 55.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100879307/DOD_100879307.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5997,
+    "size": 43073867
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      55.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-298012.jpg",
+  "sheet_times": [
+    1.73,
+    5.18,
+    8.63,
+    12.08,
+    15.53,
+    18.98,
+    22.43,
+    25.89,
+    29.34,
+    32.79,
+    36.24,
+    39.69,
+    43.14,
+    46.59,
+    50.05,
+    53.5
+  ]
+}

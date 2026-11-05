@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:297367",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Plane Crash Survivors on Prince of Wales Island, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew hoists the survivors of a small plane crash on Prince of Wales Island, Alaska, July 24, 2013. The aircrew safely transported the injured pilot and passengers to emergency medical services in Ketchikan for further care. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "Ketchikan, Air Station Sitka, Prince of Wales Island, medevac",
+  "date": "2013-07-24T00:00:00-04:00",
+  "date_published": "2013-07-26T18:04:41-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130724-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/297367/coast-guard-medevacs-plane-crash-survivors-prince-wales-island-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-297367",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:35:03Z",
+  "duration": 106.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100871621/DOD_100871621.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4035,
+    "size": 56353589
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      106.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-297367.jpg",
+  "sheet_times": [
+    3.3,
+    9.89,
+    16.49,
+    23.08,
+    29.67,
+    36.27,
+    42.86,
+    49.46,
+    56.05,
+    62.64,
+    69.24,
+    75.83,
+    82.43,
+    89.02,
+    95.61,
+    102.21
+  ]
+}
