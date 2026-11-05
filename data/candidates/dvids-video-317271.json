@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317271",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Chincoteague rescue",
+  "description": "CHINCOTEAGUE, Va. - Shown is b-roll of a rescue of a boater who reportedly ran aground, Oct. 17, 2011. A boatcrew from Coast Guard Station Chincoteague located the man near Chincoteague and an MH-60 Jayhawk helicopter crew from Coast Guard Air Station Elizabeth City, N.C., hoisted him. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-10-17T00:00:00-04:00",
+  "date_published": "2013-12-21T16:40:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "111017-G-NO411-001",
+  "location": {
+    "city": "Chincoteague",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317271/chincoteague-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317271",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:25:13Z",
+  "duration": 90.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062180/DOD_101062180.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 111221945
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    68.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      90.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317271.jpg",
+  "sheet_times": [
+    2.81,
+    8.43,
+    14.05,
+    19.67,
+    25.29,
+    30.91,
+    36.53,
+    42.15,
+    47.77,
+    53.39,
+    59.01,
+    64.63,
+    70.25,
+    75.87,
+    81.49,
+    87.11
+  ]
+}
