@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:625744",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "storm surge",
+  "title": "Peterfield Landing Damage Assessment",
+  "description": "Damage from Hurricane Florence on Marine Corps Air Station New River, Sept. 15, 2018. Hurricane Florence impacted Marine Corps Base Camp Lejeune and MCAS New River with periods of strong winds, heavy rains, flooding of urban and low lying areas, flash floods and coastal storm surges. (U.S. Marine Corps video by Staff Sgt. Albert J. Carls)",
+  "keywords": "II Marine Expeditionary Force, II MEF, Marine Corps Installations, Two MEF, hurricaneflorence, North Carolina, Jacksonville",
+  "date": "2018-09-15T00:00:00-04:00",
+  "date_published": "2018-09-15T17:31:32-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Installations East",
+  "credit": "Staff Sgt. Albert Carls",
+  "category": "B-Roll",
+  "virin": "180915-M-UH432-002",
+  "location": {
+    "city": "MCAS New River",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625744/peterfield-landing-damage-assessment",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625744",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:41:08Z",
+  "duration": 190.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106026250/DOD_106026250.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9037,
+    "size": 217993728
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 14.86,
+      "e": 15.86,
+      "text": "I'm just bouncing."
+    }
+  ],
+  "scene_cuts": [
+    2.64,
+    27.93,
+    33.93,
+    36.67,
+    52.45,
+    62.9,
+    70.2,
+    80.91,
+    98.23,
+    102.84,
+    113.31,
+    115.48,
+    118.85,
+    123.89,
+    129.2,
+    148.05,
+    157.02,
+    174.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625744.jpg",
+  "sheet_times": [
+    5.92,
+    17.77,
+    29.62,
+    41.47,
+    53.32,
+    65.17,
+    77.02,
+    88.87,
+    100.72,
+    112.57,
+    124.42,
+    136.27,
+    148.12,
+    159.97,
+    171.82,
+    183.67
+  ]
+}
