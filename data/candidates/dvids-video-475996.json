@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:475996",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "COAST GUARD RESCUES MISSING MEN IN GULF OF MEXICO",
+  "description": "Coast Guard crews located and rescued two men after hours of searching about 125 miles southeast of Galveston Saturday July 23, 2016. U.S. Coast Guard video.",
+  "keywords": "missing, Sabine, Pompano, Manta, 2 boaters, rescue, Air Station Houston, Freeport",
+  "date": "2016-07-23T00:00:00-04:00",
+  "date_published": "2016-07-24T04:21:54-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Jennifer Nease",
+  "category": "B-Roll",
+  "virin": "160723-G-XX999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/475996/coast-guard-rescues-missing-men-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-475996",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:14:36Z",
+  "duration": 261.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103495237/DOD_103495237.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8642,
+    "size": 284938529
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.73,
+      "e": 15.09,
+      "text": "Face on the lens to do the other way so we're gonna drop the pump."
+    },
+    {
+      "s": 15.09,
+      "e": 28.86,
+      "text": "We'll be alright."
+    }
+  ],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    10.68,
+    63.76,
+    200.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      63.8
+    ],
+    "silence_ends": [
+      10.7,
+      200.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-475996.jpg",
+  "sheet_times": [
+    12.05,
+    28.1,
+    44.14,
+    60.19,
+    76.24,
+    92.28,
+    108.33,
+    124.37,
+    140.42,
+    156.47,
+    172.51,
+    188.56,
+    204.61,
+    220.65,
+    236.7,
+    252.75
+  ]
+}

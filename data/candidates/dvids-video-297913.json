@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:297913",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Woman in Little Harbor, Mass.",
+  "description": "At 5:32 p.m. Aug. 2, 2013 crew members from Coast Guard Cutter Tybee witnessed a woman overturn her 10-foot sailboat in Little Harbor in Woods Hole, Mass. A Coast Guard Station Woods Hole 45-foot Response Boat-Medium crew launched and safely rescued the woman.",
+  "keywords": "Woods Hole, tybee, Massachusetts",
+  "date": "2013-08-02T00:00:00-04:00",
+  "date_published": "2013-08-03T00:40:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class MyeongHi Clegg",
+  "category": "B-Roll",
+  "virin": "130802-G-VV362-001",
+  "location": {
+    "city": "Woods Hole",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/297913/coast-guard-rescues-woman-little-harbor-mass",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-297913",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:13:33Z",
+  "duration": 103.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100878075/DOD_100878075.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9489,
+    "size": 122262939
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-297913.jpg",
+  "sheet_times": [
+    7.08,
+    13.24,
+    19.4,
+    25.56,
+    31.72,
+    37.88,
+    44.03,
+    50.19,
+    56.35,
+    62.51,
+    68.67,
+    74.83,
+    80.99,
+    87.14,
+    93.3,
+    99.46
+  ]
+}

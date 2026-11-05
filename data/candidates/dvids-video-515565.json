@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:515565",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues fisherman moments before boat sinks",
+  "description": "Seen here is footage taken aboard a Coast Guard Air Clearwater MH-60 Jayhawk helicopter Thursday, March 23, 2017,  as the crew rescues a fisherman moments before his 12-foot dinghy sank less than a mile west of Fort De Soto, Florida. The initial mayday call from the fisherman can be heard as well.  (U.S. Coast Guard video)",
+  "keywords": "hoist, MH-60 Jayhawk helicopter, Coast Guard Air Clearwater, SAR, rescue",
+  "date": "2017-03-24T00:00:00-04:00",
+  "date_published": "2017-03-24T10:42:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170323-G-G0107-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/515565/coast-guard-rescues-fisherman-moments-before-boat-sinks",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-515565",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:16:29Z",
+  "duration": 64.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104203029/DOD_104203029.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8586,
+    "size": 69092134
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.53,
+      "e": 3.93,
+      "text": "Hello, Mayday, Mayday."
+    }
+  ],
+  "scene_cuts": [
+    7.74,
+    21.55,
+    35.27,
+    60.26
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      5.3
+    ],
+    "silence_ends": [
+      64.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-515565.jpg",
+  "sheet_times": [
+    1.99,
+    5.98,
+    9.96,
+    13.95,
+    17.94,
+    21.92,
+    25.91,
+    29.89,
+    33.88,
+    37.87,
+    41.85,
+    45.84,
+    49.82,
+    53.81,
+    57.79,
+    61.78
+  ]
+}
