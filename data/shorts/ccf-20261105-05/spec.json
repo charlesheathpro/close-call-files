@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261105-05",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "commons-Hurricane-Milton-on-a-NOAA-WP-3D-Orion",
   "lane": "aviation_naval",
   "story_type": "hurricane hunter turbulence inside the cabin",
@@ -36,16 +36,16 @@
     ],
     [
       {
-        "start": 0.5,
-        "end": 3.5,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
         "start": 65.2,
-        "end": 68.0,
+        "end": 68.5,
         "layout": "crop",
         "crop_x": 0.6
+      },
+      {
+        "start": 73.0,
+        "end": 76.0,
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
