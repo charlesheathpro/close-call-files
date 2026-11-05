@@ -1,22 +1,22 @@
 {
-  "at": "2026-11-04T16:25:22Z",
+  "at": "2026-11-05T00:39:00Z",
   "healthy": false,
   "numbers": {
-    "dropped": 31,
+    "dropped": 32,
     "uploaded": 68,
     "passed": 5,
     "rejected": 1,
     "needs_qa": 0,
-    "scheduled_36h": 2
+    "scheduled_36h": 0
   },
   "problems": [
-    "thin queue: scheduled 36h + passed = 7, below 15; buffer below 25",
-    "YouTube uploadLimitExceeded on every upload run today (limit until 16:25Z), 2 Shorts scheduled in the next 36 h",
-    "last harvest (05:21Z) was partial and no harvest has landed since"
+    "thin queue: scheduled 36h + passed = 5, buffer 5 (targets 15 and 25)",
+    "harvest failed three runs in a row (07:25Z, 16:22Z, 17:53Z Nov 4): runner shut down while downloading and transcribing multi-hour NASA broadcasts (Crew-10 re-entry 8,188 s, Green Run 4,470 s) that were only rejected for length afterwards; skips were never committed so every restart hit the same files",
+    "YouTube uploadLimitExceeded since the 5 uploads at 05:07Z Nov 4; the upload run is on watch and retries every 15 min, rolling window reopens about 05:08Z Nov 5"
   ],
   "fixed": [
-    "Restarted harvest with an archive trigger",
-    "QA: recut and passed Crew-6 splashdown (04 rev 2, score 7)",
-    "Editor pass not repeated: no new candidates since the 08:24Z and 12:50Z editor triage, which found none clearing the viral bar; Baton Rouge child hoist still held until after Nov 6 (flood hoist variety)"
+    "harvest.py/sources.py: NASA duration probed before download, any clip outside 15 to 1200 s rejected before whisper, seen list committed every 10 minutes; archive harvest restarted 00:15Z and has already landed a partial commit of 20 candidates (first harvest in 19 hours)",
+    "QA: dropped Maui Chinook bucket drops (04-05, score 6)",
+    "Editor pass: no clip in the remaining new pool clears the viral bar (looked at Baton Rouge child hoist, Port Aransas night hoist, Prince of Wales crash medevac, Moonachie Sandy flood; all passed over). Rest of the pool is NASA talk shows, RS-25 repeats and training b-roll. Next editor run should work through the new harvest."
   ]
 }
