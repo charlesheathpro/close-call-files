@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-425266",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:14:42Z",
   "duration": 97.34,
   "source_file": {
@@ -70,5 +70,6 @@
     82.34,
     88.14,
     93.94
-  ]
+  ],
+  "pass_reason": "calm door-cam hoist with color noise"
 }

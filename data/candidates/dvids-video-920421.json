@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-920421",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:10:08Z",
   "duration": 49.18,
   "source_file": {
@@ -70,5 +70,6 @@
     41.08,
     44.12,
     47.16
-  ]
+  ],
+  "pass_reason": "small letterboxed FLIR, no visible danger"
 }

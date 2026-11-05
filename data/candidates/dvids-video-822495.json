@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-822495",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:20:06Z",
   "duration": 98.6,
   "source_file": {
@@ -78,5 +78,6 @@
     82.77,
     88.9,
     95.03
-  ]
+  ],
+  "pass_reason": "calm door-cam basket hoist with color noise"
 }
