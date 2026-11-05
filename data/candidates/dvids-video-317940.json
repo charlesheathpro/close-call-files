@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:317940",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue Kaena Point, Oahu",
+  "description": "HONOULULU - Coast Guard crews rescue two children and three adults after their 17-foot vessel capsizes off Kaena Point, Oahu June, 8, 2013. Official Coast Guard video by Air Station Barbers Point.",
+  "keywords": "CGVI",
+  "date": "2013-06-08T00:00:00-04:00",
+  "date_published": "2013-12-22T22:03:56-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 2nd Class Eric J. Chandler",
+  "category": "B-Roll",
+  "virin": "130608-G-ZQ587-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317940/coast-guard-rescue-kaena-point-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317940",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:04:45Z",
+  "duration": 174.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062908/DOD_101062908.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 1000,
+    "size": 23629324
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      174.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317940.jpg",
+  "sheet_times": [
+    5.44,
+    16.31,
+    27.18,
+    38.06,
+    48.93,
+    59.8,
+    70.68,
+    81.55,
+    92.42,
+    103.3,
+    114.17,
+    125.04,
+    135.92,
+    146.79,
+    157.66,
+    168.54
+  ]
+}

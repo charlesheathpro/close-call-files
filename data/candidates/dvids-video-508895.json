@@ -1,0 +1,107 @@
+{
+  "asset_id": "video:508895",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "Louisiana National Guard Adjutant General visits Guardsmen supporting the tornado response",
+  "description": "Video B-Roll of Maj. Gen. Glenn H. Curtis, the adjutant general of the LANG, visiting Soldiers with the 1st Battalion, 141st Field Artillery Regiment, 256th Brigade Combat Team who were providing security checkpoints in New Orleans East following a tornado that touched down on Feb 7.",
+  "keywords": "SouthernTornado17, Louisiana National Guard",
+  "date": "2017-02-08T00:00:00-05:00",
+  "date_published": "2017-02-08T20:06:08-05:00",
+  "branch": "Joint",
+  "unit_name": "Louisiana National Guard",
+  "credit": "Staff Sgt. David Kirtland",
+  "category": "B-Roll",
+  "virin": "170208-Z-NG364-001",
+  "location": {
+    "city": "New Orle",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/508895/louisiana-national-guard-adjutant-general-visits-guardsmen-supporting-tornado-response",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.09307,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-508895",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:06:20Z",
+  "duration": 57.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1702/DOD_104061122/DOD_104061122.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8724,
+    "size": 63439635
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 8.14,
+      "e": 11.81,
+      "text": "We'll get some more."
+    },
+    {
+      "s": 11.81,
+      "e": 12.81,
+      "text": "Let's begin."
+    }
+  ],
+  "scene_cuts": [
+    5.07,
+    8.61,
+    14.15,
+    20.55,
+    27.89,
+    39.14,
+    57.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.9,
+      8.0,
+      23.2,
+      25.2,
+      26.3,
+      35.4,
+      37.7,
+      41.1,
+      45.8
+    ],
+    "silence_ends": [
+      6.9,
+      8.0,
+      8.6,
+      24.3,
+      26.3,
+      27.8,
+      37.2,
+      40.8,
+      41.7,
+      50.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-508895.jpg",
+  "sheet_times": [
+    6.71,
+    9.94,
+    13.17,
+    16.41,
+    19.64,
+    22.87,
+    26.1,
+    29.33,
+    32.57,
+    35.8,
+    39.03,
+    42.26,
+    45.49,
+    48.73,
+    51.96,
+    55.19
+  ]
+}

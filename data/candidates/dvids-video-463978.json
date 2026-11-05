@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:463978",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues man, searches for brother",
+  "description": "A Coast Guard aircrew from Air Station Savannah hoist a man clinging to his overturned boat in Altamaha Sound, Georgia, May 15, 2016. The search for his brother continues. U.S. Coast Guard video.",
+  "keywords": "Brothers, hoist, missing, Coast Guard rescue, brunswick, overdue, Altamaha, Coast Guard, SAR, Georgia, rescue, search, USCG",
+  "date": "2016-05-15T00:00:00-04:00",
+  "date_published": "2016-05-16T14:37:34-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 2nd Class Anthony Soto",
+  "category": "B-Roll",
+  "virin": "160515-G-ZZ999-001",
+  "location": {
+    "city": "Brunswick",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/463978/coast-guard-rescues-man-searches-brother",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-463978",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:05:49Z",
+  "duration": 168.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103306957/DOD_103306957.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9162,
+    "size": 195778881
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    28.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      168.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-463978.jpg",
+  "sheet_times": [
+    9.15,
+    19.4,
+    29.64,
+    39.89,
+    50.14,
+    60.39,
+    70.63,
+    80.88,
+    91.13,
+    101.38,
+    111.62,
+    121.87,
+    132.12,
+    142.37,
+    152.61,
+    162.86
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:503500",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "KC-10 Extender Refuels a German GR4 Tornado over Iraq",
+  "description": "A U.S. Air Force KC-10A Extender refuels a German GR4 Tornado over Iraq in support of Operation Inherent Resolve.",
+  "keywords": "KC-10, tornado, air refueling, Extender, AFCENT, Syria, refueler, GR4, Operation Inherent Resolve, U.S.-led Coalition, Iraq, Germany, support, Mosul, coalition",
+  "date": "2016-11-20T00:00:00-05:00",
+  "date_published": "2016-12-29T08:15:20-05:00",
+  "branch": "Air Force",
+  "unit_name": "United States Air Forces Central",
+  "credit": "Staff Sgt. Patrick Cole",
+  "category": "B-Roll",
+  "virin": "161120-F-KZ900-002",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Iraq",
+    "state_abbreviation": null,
+    "country_abbreviation": "IQ"
+  },
+  "page_url": "https://www.dvidshub.net/video/503500/kc-10-extender-refuels-german-gr4-tornado-over-iraq",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 9.03033,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-503500",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:05:53Z",
+  "duration": 67.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103971241/DOD_103971241.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8741,
+    "size": 74127530
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.01,
+    12.55,
+    66.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      66.1
+    ],
+    "silence_ends": [
+      9.1,
+      67.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-503500.jpg",
+  "sheet_times": [
+    10.83,
+    14.43,
+    18.03,
+    21.64,
+    25.24,
+    28.84,
+    32.44,
+    36.04,
+    39.64,
+    43.24,
+    46.84,
+    50.45,
+    54.05,
+    57.65,
+    61.25,
+    64.85
+  ]
+}
