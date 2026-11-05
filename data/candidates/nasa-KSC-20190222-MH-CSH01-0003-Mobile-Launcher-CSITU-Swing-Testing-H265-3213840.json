@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20190222-MH-CSH01_0003-Mobile_Launcher_CSITU_Swing_Testing_H265-3213840",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "Mobile Launcher CSITU Swing Testing",
+  "description": "Mobile Launcher CSITU Swing Testing in VAB",
+  "keywords": "ML, mobile launcher, VAB, umbilical, swing test, Vehicle Assembly Building, EM-1",
+  "date": "2019-02-22T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190222-MH-CSH01_0003-Mobile_Launcher_CSITU_Swing_Testing_H265-3213840",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190222-MH-CSH01-0003-Mobile-Launcher-CSITU-Swing-Testing-H265-3213840",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:50:58Z",
+  "duration": 87.17,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190222-MH-CSH01_0003-Mobile_Launcher_CSITU_Swing_Testing_H265-3213840/KSC-20190222-MH-CSH01_0003-Mobile_Launcher_CSITU_Swing_Testing_H265-3213840~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 87.166667
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.07,
+    26.7,
+    32.73,
+    39.17,
+    44.23,
+    50.53,
+    87.13
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      13.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190222-MH-CSH01-0003-Mobile-Launcher-CSITU-Swing-Testing-H265-3213840.jpg",
+  "sheet_times": [
+    2.71,
+    8.13,
+    13.54,
+    18.96,
+    24.38,
+    29.79,
+    35.21,
+    40.63,
+    46.04,
+    51.46,
+    56.88,
+    62.29,
+    67.71,
+    73.13,
+    78.54,
+    83.96
+  ]
+}

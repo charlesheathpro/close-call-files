@@ -1,0 +1,73 @@
+{
+  "asset_id": "nasa:KSC-20210819-MH-FMX01-0001-Umbilical_Retract_and_Release_Test-3285584",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "Artemis I Mobile Launcher Umbilical Retract and Release Test (URRT)",
+  "description": "The umbilical retract and release test for the Artemis I mission inside the Vehicle Assembly Builiding.",
+  "keywords": "URRT, VAB, Artemis I, EGS, umbillcal test, ML, Mobile Launcher, Artemis, Vehicle Assembly Building, Exploration Ground System, Umbilical Retract and Release Test",
+  "date": "2021-08-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20210819-MH-FMX01-0001-Umbilical_Retract_and_Release_Test-3285584",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210819-MH-FMX01-0001-Umbilical-Retract-and-Release-Test-3285584",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:52:03Z",
+  "duration": 118.03,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20210819-MH-FMX01-0001-Umbilical_Retract_and_Release_Test-3285584/KSC-20210819-MH-FMX01-0001-Umbilical_Retract_and_Release_Test-3285584~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 117.984542
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.07,
+    25.03,
+    36.43,
+    42.1,
+    52.1,
+    62.1,
+    72.13,
+    82.13,
+    92.13,
+    102.13,
+    112.13
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      36.4
+    ],
+    "silence_ends": [
+      11.0,
+      118.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210819-MH-FMX01-0001-Umbilical-Retract-and-Release-Test-3285584.jpg",
+  "sheet_times": [
+    3.67,
+    11.02,
+    18.36,
+    25.71,
+    33.06,
+    40.4,
+    47.75,
+    55.09,
+    62.44,
+    69.79,
+    77.13,
+    84.48,
+    91.82,
+    99.17,
+    106.51,
+    113.86
+  ]
+}

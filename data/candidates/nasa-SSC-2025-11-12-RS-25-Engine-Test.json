@@ -1,0 +1,101 @@
+{
+  "asset_id": "nasa:SSC_2025-11-12_RS-25_Engine_Test",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "RS-25 Engine Test 2025-11-12",
+  "description": "Teams at NASA’s Stennis Space Center tested a new production RS-25 engine on Nov. 12, 2025, on the Fred Haise Test Stand in south Mississippi. The test of RS-25 engine #20002 had a duration of 500 seconds with a maximum 111% power level. Four RS-25 engines are used to help launch NASA’s SLS (Space Launch System) rocket on Artemis missions to return astronauts to the Moon in preparation for future human journeys to Mars.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
+  "date": "2025-11-12T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2025-11-12_RS-25_Engine_Test",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2025-11-12-RS-25-Engine-Test",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:50:29Z",
+  "duration": 528.0,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2025-11-12_RS-25_Engine_Test/SSC_2025-11-12_RS-25_Engine_Test~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 527.994133
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 11.54,
+      "e": 516.98,
+      "text": "(engine rumbling)"
+    }
+  ],
+  "scene_cuts": [
+    7.0,
+    25.43,
+    33.3,
+    40.0,
+    50.03,
+    64.9,
+    86.33,
+    96.07,
+    106.9,
+    135.5,
+    146.1,
+    164.2,
+    195.6,
+    210.1,
+    223.23,
+    243.43,
+    251.47,
+    262.03,
+    277.33,
+    283.93,
+    296.0,
+    304.97,
+    319.07,
+    329.33,
+    346.1,
+    359.8,
+    380.27,
+    403.77,
+    418.03,
+    452.27,
+    479.13,
+    497.43,
+    520.67
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      516.6
+    ],
+    "silence_ends": [
+      11.4,
+      528.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2025-11-12-RS-25-Engine-Test.jpg",
+  "sheet_times": [
+    16.48,
+    49.45,
+    82.42,
+    115.39,
+    148.36,
+    181.33,
+    214.3,
+    247.27,
+    280.23,
+    313.2,
+    346.17,
+    379.14,
+    412.11,
+    445.08,
+    478.05,
+    511.02
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "asset_id": "nasa:A1Launch",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch",
+  "title": "Artemis I Launch Collage",
+  "description": "This is a collage of various views during the Artemis launch at Kennedy Space Center.",
+  "keywords": "KSC, Launch, Moon, Artemis, MSFC",
+  "date": "2022-12-08T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/A1Launch",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-A1Launch",
+  "status": "new",
+  "harvested_at": "2026-11-05T00:54:33Z",
+  "duration": 59.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/A1Launch/A1Launch~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 59.592875
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    2.37,
+    5.07,
+    7.77,
+    10.37,
+    14.93,
+    30.93,
+    36.63
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      1.8,
+      58.7
+    ],
+    "silence_ends": [
+      1.1,
+      2.5,
+      59.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-A1Launch.jpg",
+  "sheet_times": [
+    1.85,
+    5.54,
+    9.24,
+    12.93,
+    16.62,
+    20.32,
+    24.01,
+    27.71,
+    31.4,
+    35.09,
+    38.79,
+    42.48,
+    46.18,
+    49.87,
+    53.56,
+    57.26
+  ]
+}
