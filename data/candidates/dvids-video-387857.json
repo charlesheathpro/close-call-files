@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:387857",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "11 Rescued After Ship Sinks Off Oahu",
+  "description": "Coast Guard crewmembers help offload 11 survivors of the towing vessel Nalani at Coast Guard Station Honolulu Jan. 22, 2015. The towing vessel sank approximately two and a half miles off of Barbers Point Harbor, Oahu and all 11 people were rescued. U.S. Coast Guard video by Lt. Kevin Cooper",
+  "keywords": "tug, survivor, Coast Guard rescue, Oahu, Barbers Point, crewmember, Coast Guard, Hawaii, rescue, vessel, Honolulu",
+  "date": "2015-01-22T00:00:00-05:00",
+  "date_published": "2015-01-23T01:22:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Lt. Kevin Cooper",
+  "category": "B-Roll",
+  "virin": "150122-G-FH029-341",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/387857/11-rescued-after-ship-sinks-off-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-387857",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:11:41Z",
+  "duration": 47.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102190571/DOD_102190571.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9087,
+    "size": 54241362
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.25,
+      "e": 5.25,
+      "text": "See you guys tomorrow."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-387857.jpg",
+  "sheet_times": [
+    1.46,
+    4.38,
+    7.3,
+    10.23,
+    13.15,
+    16.07,
+    18.99,
+    21.91,
+    24.83,
+    27.76,
+    30.68,
+    33.6,
+    36.52,
+    39.44,
+    42.36,
+    45.29
+  ]
+}

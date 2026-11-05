@@ -1,0 +1,138 @@
+{
+  "asset_id": "video:876558",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues migrants near Juno Beach",
+  "description": "A Coast Guard Station Lake Worth Inlet crew rescues four migrants from a capsizing 20-foot vessel, 3 miles east of Juno Beach, Florida, March, 10, 2023. The people were taken into U.S. Border Patrol Custody after one of the migrants required a medevac to St Mary's Hospital due to chest pain. (U.S. Coast Guard video by Station Lake Worth Inlet's crew)",
+  "keywords": "SAR #Safety #USCG #DistrictSeven #OVS #LE",
+  "date": "2023-03-10T00:00:00-05:00",
+  "date_published": "2023-03-15T15:07:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230310-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/876558/coast-guard-rescues-migrants-near-juno-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-876558",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:11:03Z",
+  "duration": 76.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109512160/DOD_109512160-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 58463586
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 4.0,
+      "text": "Don't climb, just hold!"
+    },
+    {
+      "s": 4.0,
+      "e": 6.0,
+      "text": "Just hold!"
+    },
+    {
+      "s": 6.0,
+      "e": 8.0,
+      "text": "That baby's head's a little water."
+    },
+    {
+      "s": 8.0,
+      "e": 35.12,
+      "text": "Give me the kick!"
+    },
+    {
+      "s": 35.12,
+      "e": 40.61,
+      "text": "Yeah baby!"
+    },
+    {
+      "s": 40.61,
+      "e": 44.61,
+      "text": "Stay right here buddy, okay?"
+    },
+    {
+      "s": 44.61,
+      "e": 50.14,
+      "text": "I got him, I got him!"
+    },
+    {
+      "s": 50.14,
+      "e": 52.14,
+      "text": "It's okay bud!"
+    },
+    {
+      "s": 52.14,
+      "e": 56.14,
+      "text": "You can probably just pull it right here."
+    },
+    {
+      "s": 56.14,
+      "e": 57.14,
+      "text": "Okay bud."
+    },
+    {
+      "s": 57.14,
+      "e": 62.38,
+      "text": "You can probably just pull it right here."
+    },
+    {
+      "s": 62.38,
+      "e": 63.38,
+      "text": "Alright, you gotcha."
+    },
+    {
+      "s": 63.38,
+      "e": 73.65,
+      "text": "I'm going to help poor some porters."
+    }
+  ],
+  "scene_cuts": [
+    48.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      73.7
+    ],
+    "silence_ends": [
+      76.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-876558.jpg",
+  "sheet_times": [
+    2.37,
+    7.1,
+    11.83,
+    16.56,
+    21.29,
+    26.03,
+    30.76,
+    35.49,
+    40.22,
+    44.95,
+    49.68,
+    54.42,
+    59.15,
+    63.88,
+    68.61,
+    73.34
+  ]
+}

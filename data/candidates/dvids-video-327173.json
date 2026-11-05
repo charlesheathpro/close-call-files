@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:327173",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "mudslide",
+  "title": "176th Enginners at Oso Mudslide",
+  "description": "Washington National Guard soldiers from the 176th Engineer Company continue to assist with search and recovery at the Oso mudslide. Staff Sergeant Jerry Rodriquez talks about how the guard is helping establish a grid squares that can be used to make a map.",
+  "keywords": "mudslide, Washington National Guard, First Responder News, OSO Mudslide, Oso Wa, 176th Enginners",
+  "date": "2014-04-03T00:00:00-04:00",
+  "date_published": "2014-04-04T12:05:20-04:00",
+  "branch": "Army",
+  "unit_name": "122nd Theater Public Affairs Support Element",
+  "credit": "Greg Mason",
+  "category": "B-Roll",
+  "virin": "140403-D-VQ984-224",
+  "location": {
+    "city": "Oso",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/327173/176th-enginners-oso-mudslide",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.33867,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-327173",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:10:35Z",
+  "duration": 154.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1404/DOD_101272675/DOD_101272675.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9164,
+    "size": 182893628
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 92.69,
+      "e": 98.77,
+      "text": "out there every 40 feet so as you line up I've got another guy on the other end"
+    },
+    {
+      "s": 98.77,
+      "e": 104.75,
+      "text": "with one of these marked as well to give me a reference point so I can allow you"
+    },
+    {
+      "s": 104.75,
+      "e": 111.73,
+      "text": "follow these states until we get to the other end so they can mark out bridge"
+    },
+    {
+      "s": 111.73,
+      "e": 116.85,
+      "text": "squares and GPS map it and have a good map"
+    }
+  ],
+  "scene_cuts": [
+    5.34,
+    21.09,
+    30.93,
+    35.57,
+    65.47,
+    76.91,
+    90.52,
+    128.46,
+    135.87,
+    143.91,
+    153.62
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      153.7
+    ],
+    "silence_ends": [
+      5.3,
+      154.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-327173.jpg",
+  "sheet_times": [
+    9.98,
+    19.27,
+    28.56,
+    37.84,
+    47.13,
+    56.42,
+    65.7,
+    74.99,
+    84.28,
+    93.57,
+    102.85,
+    112.14,
+    121.43,
+    130.71,
+    140.0,
+    149.29
+  ]
+}

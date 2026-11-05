@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:464192",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues fishermen northwest of Sitka, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew hoist two fishermen who abandoned ship northwest of Sitka, Alaska, May 17, 2016. The fishermen sent out a mayday call after losing steering and taking on water while underway on fishing vessel Rosalyn. U.S. Coast Guard video.",
+  "keywords": "Sitka, hoist, Coast Guard rescue, Air Station Sitka, rosalyn, SAR, rescue, Alaska",
+  "date": "2016-05-17T00:00:00-04:00",
+  "date_published": "2016-05-17T20:15:01-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Kodiak",
+  "credit": "Petty Officer 3rd Class Lauren Steenson",
+  "category": "B-Roll",
+  "virin": "160517-G-MV622-060",
+  "location": {
+    "city": "Sitka",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/464192/coast-guard-rescues-fishermen-northwest-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-464192",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:11:35Z",
+  "duration": 179.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103310846/DOD_103310846.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8731,
+    "size": 195761092
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    174.17
+  ],
+  "drama_score": 46,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      179.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-464192.jpg",
+  "sheet_times": [
+    9.48,
+    20.39,
+    31.31,
+    42.22,
+    53.13,
+    64.04,
+    74.95,
+    85.87,
+    96.78,
+    107.69,
+    118.6,
+    129.51,
+    140.43,
+    151.34,
+    162.25,
+    173.16
+  ]
+}

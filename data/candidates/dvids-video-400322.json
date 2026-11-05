@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:400322",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3 from grounded vessel",
+  "description": "A Coast Guard aircrew hoists three young men when their sailboat became grounded and buffeted by the sea state near Fripp Island, South Carolina, April 22, 2015. All three men aboard were wearing life jackets. U.S. Coast Guard photo.",
+  "keywords": "hoist, aircrew, savannah, sailboat, grounded, helicopter, Coast Guard, South Carolina, rescue, USCG",
+  "date": "2015-04-22T00:00:00-04:00",
+  "date_published": "2015-04-23T13:32:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150422-G-ZZ999-003",
+  "location": {
+    "city": "Savannah",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/400322/coast-guard-rescues-3-grounded-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.02733,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-400322",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:13:08Z",
+  "duration": 52.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102387626/DOD_102387626.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8029,
+    "size": 53516082
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.04,
+    9.44,
+    28.36,
+    37.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      52.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-400322.jpg",
+  "sheet_times": [
+    7.47,
+    10.36,
+    13.26,
+    16.15,
+    19.04,
+    21.93,
+    24.82,
+    27.71,
+    30.6,
+    33.49,
+    36.38,
+    39.28,
+    42.17,
+    45.06,
+    47.95,
+    50.84
+  ]
+}

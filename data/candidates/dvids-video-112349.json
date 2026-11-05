@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:112349",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Tsunami Disaster Montage",
+  "description": "Package of the Tsunami Damage in Higashi Matsushima, Japan. Also available in high definition.",
+  "keywords": "tsunami, earthquake, relief, U.S. Army Japan, jpearthquake11, Operation Tomodachi, U.S. Forces Japan, III MEB, Higashi Matsushima, soldier, Japan, High Definition, HD, disaster",
+  "date": "2011-03-19T00:00:00-04:00",
+  "date_published": "2011-04-09T08:54:59-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Japan",
+  "credit": "Jose Sanchez Alonso",
+  "category": "B-Roll",
+  "virin": "110319-A-0968S-048",
+  "location": {
+    "city": "Higashi Matsushima",
+    "state": "Miyagi",
+    "country": "Japan",
+    "state_abbreviation": "Miyagi",
+    "country_abbreviation": "JP"
+  },
+  "page_url": "https://www.dvidshub.net/video/112349/tsunami-disaster-montage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.47113,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-112349",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:13:03Z",
+  "duration": 64.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1104/DOD_100155868/DOD_100155868.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 81514577
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.27,
+    10.68,
+    16.82,
+    23.59,
+    26.79,
+    29.16,
+    41.37,
+    48.45,
+    54.42,
+    56.36,
+    58.63,
+    61.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-112349.jpg",
+  "sheet_times": [
+    6.33,
+    10.04,
+    13.75,
+    17.46,
+    21.17,
+    24.88,
+    28.59,
+    32.3,
+    36.01,
+    39.72,
+    43.43,
+    47.14,
+    50.85,
+    54.56,
+    58.28,
+    61.99
+  ]
+}

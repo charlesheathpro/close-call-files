@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:313785",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "AIRSTA SF Rescue of M/V Giant Feet",
+  "description": "SAN FRANCISCO- Coast Guard Air Station San Francisco assists local agencies with the rescue of 26 people after the vessel Giant Feet ran aground near Coyote Point in the San Francisco Bay.",
+  "keywords": "CGVI",
+  "date": "2008-12-15T16:53:43-05:00",
+  "date_published": "2013-12-17T01:43:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313785/airsta-sf-rescue-m-v-giant-feet",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 8.8088,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313785",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:12:13Z",
+  "duration": 220.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054419/DOD_101054419.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 4476,
+    "size": 125201648
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      9.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313785.jpg",
+  "sheet_times": [
+    15.4,
+    28.57,
+    41.74,
+    54.91,
+    68.09,
+    81.26,
+    94.43,
+    107.61,
+    120.78,
+    133.95,
+    147.13,
+    160.3,
+    173.47,
+    186.65,
+    199.82,
+    212.99
+  ]
+}
