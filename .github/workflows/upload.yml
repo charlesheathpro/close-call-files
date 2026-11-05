@@ -14,11 +14,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     steps:
+      # always the newest main, never the commit that triggered the run: a queued run must see the
+      # upload records of the run before it, or it uploads the same Shorts again
       - uses: actions/checkout@v4
+        with: { ref: main }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests tzdata
-      - run: python pipeline/upload.py
+      - run: git pull -q --rebase origin main && python pipeline/upload.py
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}

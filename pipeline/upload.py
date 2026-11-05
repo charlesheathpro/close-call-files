@@ -95,6 +95,33 @@ def ready_shorts():
     return [r[2] for r in rows]
 
 
+def norm_title(t):
+    return " ".join((t or "").lower().split())
+
+
+def channel_titles(max_items=400):
+    """Titles of every video already on the channel (scheduled and private included), read from YouTube itself.
+
+    This is the guard against double uploads: whatever the repo says, a title YouTube already has is never sent again.
+    Raises if YouTube cannot be read, so the run uploads nothing rather than risk a duplicate.
+    """
+    ch = yt.api("GET", "/channels", params={"part": "contentDetails", "mine": "true"})["items"][0]
+    pl = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+    out, token = {}, None
+    while len(out) < max_items:
+        params = {"part": "snippet,status", "playlistId": pl, "maxResults": 50}
+        if token:
+            params["pageToken"] = token
+        j = yt.api("GET", "/playlistItems", params=params)
+        for it in j.get("items", []):
+            vid = it["snippet"]["resourceId"]["videoId"]
+            out.setdefault(norm_title(it["snippet"]["title"]), []).append(vid)
+        token = j.get("nextPageToken")
+        if not token:
+            break
+    return out
+
+
 def download_render(url, dest):
     dest.parent.mkdir(parents=True, exist_ok=True)
     with requests.get(url, stream=True, timeout=300) as r:
@@ -182,7 +209,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--quiet-if-idle", action="store_true", help="write no run record when nothing was uploaded")
+    ap.add_argument("--report-duplicates", action="store_true", help="write data/duplicates.json and exit")
     args = ap.parse_args()
+    if args.report_duplicates:
+        dupes = {t: v for t, v in channel_titles().items() if len(v) > 1}
+        save_json(DATA / "duplicates.json", {"at": iso(), "duplicates": dupes})
+        print(json.dumps(dupes, indent=1))
+        return
     cfg = config()
     commented = post_comments()
     if not cfg.get("uploads_enabled"):
@@ -194,6 +227,18 @@ def main():
         return
     slots = open_slots(cfg)
     queue = ready_shorts()
+    on_youtube = channel_titles() if (slots and queue and not args.dry_run) else {}
+    fresh = []
+    for d in queue:
+        spec = load_json(d / "spec.json")
+        if norm_title(spec["title"]) in on_youtube:
+            alert("duplicate_blocked", f"{d.name}: '{spec['title']}' is already on the channel "
+                                       f"({', '.join(on_youtube[norm_title(spec['title'])])}); not uploading it again")
+            save_json(d / "upload.json", {"short_id": d.name, "video_id": on_youtube[norm_title(spec["title"])][0],
+                                          "recovered": True, "at": iso(), "title": spec["title"]})
+            continue
+        fresh.append(d)
+    queue = fresh
     print(f"{len(slots)} open slots, {len(queue)} passed Shorts waiting, {commented} comments posted")
     n = 0
     for (stamp, day), d in zip(slots, queue):
@@ -233,6 +278,7 @@ def main():
             alert("upload_error", f"{d.name}: {e}")
             continue
         vid = res["id"]
+        on_youtube.setdefault(norm_title(spec["title"]), []).append(vid)
         save_json(d / "upload.json", {"short_id": d.name, "video_id": vid, "url": f"https://youtube.com/shorts/{vid}",
                                       "publish_at": stamp, "slot_day": day, "uploaded_at": iso(),
                                       "title": spec["title"], "revision": spec.get("revision", 1)})
