@@ -1,0 +1,77 @@
+{
+  "asset_id": "nasa:KSC-20210826-MH-ILW01_0001-Vulcan_Rocket_on_SLC-41-3283987",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket launch",
+  "title": "United Launch Alliance (ULA) Vulcan Rocket on SLC-41 at CCSFS",
+  "description": "The ULA Vulcan rocket is unveiled at the Cape Canaveral Space Force Station.",
+  "keywords": "ULA Vulcan, LSP Vulcan, Vulcan Core, CCSFS LSP Vulcan, Vulcan Rocket, ULA Vulcan Rocket, Vulcan",
+  "date": "2021-08-26T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20210826-MH-ILW01_0001-Vulcan_Rocket_on_SLC-41-3283987",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210826-MH-ILW01-0001-Vulcan-Rocket-on-SLC-41-3283987",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:33:22Z",
+  "duration": 104.4,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20210826-MH-ILW01_0001-Vulcan_Rocket_on_SLC-41-3283987/KSC-20210826-MH-ILW01_0001-Vulcan_Rocket_on_SLC-41-3283987~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 104.4
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.07,
+    17.03,
+    23.8,
+    29.2,
+    34.4,
+    39.5,
+    44.73,
+    50.53,
+    55.67,
+    61.5,
+    67.63,
+    72.3,
+    78.2,
+    83.37,
+    88.37,
+    93.47,
+    98.6
+  ],
+  "drama_score": 36,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      11.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210826-MH-ILW01-0001-Vulcan-Rocket-on-SLC-41-3283987.jpg",
+  "sheet_times": [
+    3.25,
+    9.74,
+    16.23,
+    22.73,
+    29.22,
+    35.72,
+    42.21,
+    48.7,
+    55.2,
+    61.69,
+    68.18,
+    74.68,
+    81.17,
+    87.67,
+    94.16,
+    100.65
+  ]
+}

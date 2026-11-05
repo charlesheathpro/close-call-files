@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:art002m1200912222_Liftoff_1",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket launch",
+  "title": "Orion Camera View of Artemis II Liftoff",
+  "description": "Launch pad 39B at NASA’s Kennedy Space Center in Florida falls away as Artemis II lifts off of Earth, as seen from a camera on the exterior of the Orion spacecraft. Artemis II launched at 6:35 p.m. EDT on April 1, 2026, with the SLS (Space Launch System) rocket setting Orion and its crew of four on their way for an approximately 10-day journey around the Moon and back.",
+  "keywords": "Artemis II, Artemis II mission, Artemis 2 mission, Orion, liftoff",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/art002m1200912222_Liftoff_1",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-art002m1200912222-Liftoff-1",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:34:35Z",
+  "duration": 53.8,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/art002m1200912222_Liftoff_1/art002m1200912222_Liftoff_1~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 53.8
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      53.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-art002m1200912222-Liftoff-1.jpg",
+  "sheet_times": [
+    1.67,
+    5.0,
+    8.33,
+    11.66,
+    14.99,
+    18.32,
+    21.65,
+    24.98,
+    28.32,
+    31.65,
+    34.98,
+    38.31,
+    41.64,
+    44.97,
+    48.3,
+    51.63
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:Final_Out_CRF35",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage ",
+  "description": "This compressed, resolution-limited video features a preliminary sequence of the Blue Ghost final descent and landing that NASA researchers stitched together from SCALPSS 1.1’s four short-focal-length cameras, which were capturing photos at 8 frames per second. Altitude data is approximate.",
+  "keywords": "Stereo Cameras for Lunar-Plume Surface Studies, SCALPSS, SCALPSS 1.1, Mare Crisium, Moon, Lunar, Surface, Artemis, Commercial Lunar Payload Services, CLPS",
+  "date": "2025-03-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA LRC",
+  "credit": "NASA LRC video",
+  "page_url": "https://images.nasa.gov/details/Final_Out_CRF35",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Final-Out-CRF35",
+  "status": "new",
+  "harvested_at": "2026-11-05T01:38:23Z",
+  "duration": 40.11,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Final_Out_CRF35/Final_Out_CRF35~orig.mp4",
+    "width": 1024,
+    "height": 768,
+    "duration": 40.1
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    23.3,
+    23.8,
+    24.1,
+    24.2,
+    24.9,
+    25.0,
+    25.1,
+    25.3,
+    25.4,
+    25.5,
+    25.7,
+    25.8,
+    25.9,
+    26.0,
+    26.2,
+    26.3,
+    26.4,
+    26.6,
+    26.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-Final-Out-CRF35.jpg",
+  "sheet_times": [
+    1.24,
+    3.71,
+    6.19,
+    8.66,
+    11.14,
+    13.61,
+    16.09,
+    18.57,
+    21.04,
+    23.52,
+    25.99,
+    28.47,
+    30.94,
+    33.42,
+    35.89,
+    38.37
+  ]
+}
