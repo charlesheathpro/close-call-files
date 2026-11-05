@@ -292,6 +292,12 @@ def analyze(sid, meta, best_src, small_src, best_info=None, srt_text=None):
             return None, f"low resolution ({best_info['width']}x{best_info['height']})"
     vid = download(small_src, work / "analysis.mp4")
     duration = media_duration(vid)
+    h = config()["harvest"]
+    lo, hi = h.get("min_duration", 15), h.get("max_duration", 1200)
+    if not lo <= duration <= hi:  # before whisper: hours of audio stalled runs and left stray candidate files
+        for f in work.glob("*"):
+            f.unlink()
+        return None, f"duration {duration:.0f}s outside limits"
     dark = dark_share(vid)
     if dark > 0.6:
         for f in work.glob("*"):
@@ -442,6 +448,7 @@ def main():
 
     done = errors = streak = 0
     t0, budget = time.time(), float(os.environ.get("HARVEST_MINUTES", 0)) * 60
+    last_commit = t0
     for aid, (lane, q, title) in found.items():
         if done >= limit:
             break
@@ -466,7 +473,9 @@ def main():
         save_json(SEEN, seen)
         # commit as we go: GitHub runners have shut down mid-run and lost a whole archive harvest
         every = int(os.environ.get("HARVEST_COMMIT_EVERY", 0) or 0)
-        if every and cand and done % every == 0:
+        # also every 10 minutes, so skips are remembered even when few candidates come out
+        if every and ((cand and done % every == 0) or time.time() - last_commit > 600):
+            last_commit = time.time()
             save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors,
                                                    "unseen_found": len(found), "partial": True})
             subprocess.run(["bash", "scripts/commit.sh", f"Harvest {now_utc():%Y-%m-%d} (partial, {done})"], check=False)

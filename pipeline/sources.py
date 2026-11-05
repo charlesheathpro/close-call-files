@@ -43,11 +43,17 @@ def _limits():
 
 def probe_url(url):
     """Width, height and size of a remote video without downloading it."""
-    res = run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height",
+    res = run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height:format=duration",
                "-of", "json", "-user_agent", UA["User-Agent"], url], check=False)
     try:
-        st = json.loads(res.stdout)["streams"][0]
-        return {"src": url, "width": int(st["width"]), "height": int(st["height"])}
+        j = json.loads(res.stdout)
+        st = j["streams"][0]
+        info = {"src": url, "width": int(st["width"]), "height": int(st["height"])}
+        try:
+            info["duration"] = float(j.get("format", {}).get("duration"))
+        except (TypeError, ValueError):
+            pass
+        return info
     except (ValueError, KeyError, IndexError):
         return None
 
@@ -111,6 +117,10 @@ def process_nasa(asset_id, lane, query, analyze):
             break
     if not best:
         return None, "no usable mp4 files"
+    lo, hi = _limits()
+    if best_info.get("duration") and not lo <= best_info["duration"] <= hi:
+        # check before downloading: multi-hour broadcasts filled the runner and got it shut down
+        return None, f"duration {best_info['duration']:.0f}s outside limits"
     srt = next((h for h in hrefs if h.endswith(".srt")), None)
     srt_text = None
     if srt:
