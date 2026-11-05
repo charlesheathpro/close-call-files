@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:580324",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "ice storm",
+  "title": "Winter storm brings snow to base community",
+  "description": "A rare winter storm covered base and the surrounding community with ice, sleet and snow creating hazardous driving conditions on area roadways, Jan. 18, 2018. Holcomb Boulevard, one of the major roadways on base, is seen here after the recent winter weather. (U.S. Marine Corps video by PFC Antonio Garcia)",
+  "keywords": "Camp Lejeune, N.C.",
+  "date": "2018-01-18T00:00:00-05:00",
+  "date_published": "2018-01-18T18:18:53-05:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Installations East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180118-M-MO243-001",
+  "location": {
+    "city": "Marine Corps Base Camp Lejeune",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/580324/winter-storm-brings-snow-base-community",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-580324",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:18:03Z",
+  "duration": 57.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105246868/DOD_105246868.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9744,
+    "size": 71059173
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.98,
+    24.62,
+    41.44,
+    49.72
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-580324.jpg",
+  "sheet_times": [
+    1.78,
+    5.35,
+    8.91,
+    12.48,
+    16.04,
+    19.61,
+    23.17,
+    26.74,
+    30.3,
+    33.87,
+    37.43,
+    40.99,
+    44.56,
+    48.12,
+    51.69,
+    55.25
+  ]
+}

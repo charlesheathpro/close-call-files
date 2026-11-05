@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:994361",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "ice storm",
+  "title": "USACE lock personnel keep barges moving during Winter Storm Fern",
+  "description": "WARSAW, Ky. — U.S. Army Corps of Engineers Louisville District lock operators flush ice through the secondary lock chamber at Markland Locks and Dam on the Ohio River, Jan. 29, 2026. Utilizing the secondary chamber for ice management allows the district to clear hazardous buildup and protect gate machinery without interrupting the flow of commercial navigation through the primary chamber. (U.S. Army Corps of Engineers video by Charles Delano)",
+  "keywords": "Ohio River, ice mitigation, Markland Locks and Dam, Winter Storm Fern",
+  "date": "2026-01-29T00:00:00-05:00",
+  "date_published": "2026-01-29T19:03:43-05:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Louisville District",
+  "credit": "Charles Delano",
+  "category": "B-Roll",
+  "virin": "260129-A-PA223-8172",
+  "location": {
+    "city": "Warsaw",
+    "state": "Kentucky",
+    "country": "United States",
+    "state_abbreviation": "KY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/994361/usace-lock-personnel-keep-barges-moving-during-winter-storm-fern",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-994361",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:18:20Z",
+  "duration": 90.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111502032/DOD_111502032-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 81264046
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    20.52,
+    21.15,
+    35.03,
+    35.7,
+    51.25,
+    52.05,
+    74.41,
+    75.38
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      20.5,
+      35.0,
+      51.3,
+      74.4
+    ],
+    "silence_ends": [
+      2.0,
+      21.2,
+      35.7,
+      52.1,
+      75.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-994361.jpg",
+  "sheet_times": [
+    2.81,
+    8.43,
+    14.05,
+    19.67,
+    25.29,
+    30.91,
+    36.53,
+    42.15,
+    47.77,
+    53.39,
+    59.01,
+    64.63,
+    70.25,
+    75.87,
+    81.49,
+    87.11
+  ]
+}

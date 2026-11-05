@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:893731",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, Navy rescue 4 missing male divers",
+  "description": "The Coast Guard and Navy rescued four missing male divers 46 miles southeast of Cape Fear River, North Carolina on Aug. 14, 2023. A Coast Guard Air Station Elizabeth City HC-130 Hercules airplane crew spotted an SOS-strobe light and, using their FLIR system (Forward-Looking Infrared), were able to record the divers' being brought aboard the U.S. Navy Destroyer USS Porter (DDG 78). (U.S. Coast Guard Video by Air Station Elizabeth City)",
+  "keywords": "Carolinas, d5, missing divers, CoastGuardNewsWire",
+  "date": "2023-08-14T00:00:00-04:00",
+  "date_published": "2023-08-14T12:59:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 2nd Class Ryan Noel",
+  "category": "Video Productions",
+  "virin": "230814-G-G0105-1001",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/893731/coast-guard-navy-rescue-4-missing-male-divers",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-893731",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:18:17Z",
+  "duration": 58.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109826702/DOD_109826702-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 60821623
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.94,
+    10.51,
+    14.18,
+    22.59,
+    34.43,
+    48.05,
+    50.05
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      58.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-893731.jpg",
+  "sheet_times": [
+    1.8,
+    5.4,
+    9.0,
+    12.6,
+    16.2,
+    19.8,
+    23.4,
+    27.0,
+    30.6,
+    34.19,
+    37.79,
+    41.39,
+    44.99,
+    48.59,
+    52.19,
+    55.79
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "asset_id": "video:784033",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "ice storm",
+  "title": "W.Va. Guard Winter Storm Response",
+  "description": "Members of the West Virginia National Guard conduct chainsaw and road clearing operations in Putnam County, West Virginia after an ice storm impacted the region. More than 90,000 West Virginians have faced multiple days without power in subfreezing temperatures. (U.S. Air National Guard video by MSgt. Eugene Crist)",
+  "keywords": "West Virginia National Guard, WVNG",
+  "date": "2021-02-19T00:00:00-05:00",
+  "date_published": "2021-02-19T00:11:10-05:00",
+  "branch": "Joint",
+  "unit_name": "West Virginia National Guard",
+  "credit": "Master Sgt. Eugene Crist",
+  "category": "B-Roll",
+  "virin": "210218-Z-QM802-0012",
+  "location": {
+    "city": "Eleanor",
+    "state": "West Virginia",
+    "country": "United States",
+    "state_abbreviation": "WV",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/784033/wva-guard-winter-storm-response",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-784033",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:17:53Z",
+  "duration": 388.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108191681/DOD_108191681.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9799,
+    "size": 483071267
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.37,
+      "e": 136.49,
+      "text": "Keeps you all a bit more warm than mine."
+    },
+    {
+      "s": 136.49,
+      "e": 159.83,
+      "text": "You get these o-facials."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    9.11,
+    13.45,
+    26.23,
+    30.36,
+    41.91,
+    53.42,
+    56.52,
+    59.36,
+    93.33,
+    101.4,
+    130.2,
+    155.22,
+    174.14,
+    232.83,
+    247.11,
+    279.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      59.4,
+      103.9,
+      110.1,
+      112.5,
+      118.5,
+      121.6,
+      122.6,
+      123.2,
+      124.3,
+      137.2,
+      140.7,
+      143.8,
+      144.8
+    ],
+    "silence_ends": [
+      60.1,
+      104.6,
+      110.8,
+      113.1,
+      119.2,
+      122.6,
+      123.2,
+      124.2,
+      125.5,
+      138.5,
+      141.6,
+      144.5,
+      145.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-784033.jpg",
+  "sheet_times": [
+    12.14,
+    36.42,
+    60.7,
+    84.98,
+    109.26,
+    133.54,
+    157.82,
+    182.1,
+    206.38,
+    230.65,
+    254.93,
+    279.21,
+    303.49,
+    327.77,
+    352.05,
+    376.33
+  ]
+}

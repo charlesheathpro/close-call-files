@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:914330",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "18th Annual Search and Rescue Forum held in Hampton, Virginia",
+  "description": "Coast Guard and partner agencies participate in the 18th Annual Search and Rescue Forum in Hampton, Virginia, Feb. 29, 2024. More than 150 students, 35 agencies and 30 boats from law enforcement and fire departments across the Commonwealth of Virginia came together and participated in the weeklong event.(U.S. Coast Guard video by Petty Officer 3rd Class Mikaela McGee.)",
+  "keywords": "McGee, d5, SAR Forum, Sector Virginia",
+  "date": "2024-02-29T00:00:00-05:00",
+  "date_published": "2024-03-01T12:17:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Mikaela McGee",
+  "category": "B-Roll",
+  "virin": "240301-G-DV874-1002",
+  "location": {
+    "city": "Hampton",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/914330/18th-annual-search-and-rescue-forum-held-hampton-virginia",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-914330",
+  "status": "new",
+  "harvested_at": "2026-11-05T18:18:00Z",
+  "duration": 28.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2403/DOD_110154097/DOD_110154097.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 28982226
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 4.96,
+      "text": "right there and this is just to kind of give you an idea of how long it takes us to get a"
+    },
+    {
+      "s": 6.16,
+      "e": 10.4,
+      "text": "for too long so that's something that we would just keep in mind as a crew before we launch"
+    }
+  ],
+  "scene_cuts": [
+    5.02,
+    5.96,
+    10.91,
+    11.8,
+    18.3,
+    19.14
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      5.0,
+      10.9,
+      18.3
+    ],
+    "silence_ends": [
+      6.0,
+      11.8,
+      19.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-914330.jpg",
+  "sheet_times": [
+    0.88,
+    2.64,
+    4.4,
+    6.16,
+    7.92,
+    9.67,
+    11.43,
+    13.19,
+    14.95,
+    16.71,
+    18.47,
+    20.23,
+    21.99,
+    23.75,
+    25.51,
+    27.27
+  ]
+}
