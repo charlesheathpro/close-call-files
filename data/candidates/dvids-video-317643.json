@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:317643",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Stone Harbor Kayaker Rescue",
+  "description": "ATLANTIC CITY, N.J. - A Coast Guard MH-65 Dolphin helicopter crew from Coast Guard Air Station Atlantic City here responds to a woman and her 9-year-old child who were kayaking through a marsh and became stranded near Stone Harbor, June 20, 2012. The two kayakers were hoisted to safety and transported to the Cape May County Airport in Cape May where they were met by emergency medical personnel. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-06-20T00:00:00-04:00",
+  "date_published": "2013-12-22T16:02:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Nick Ameen",
+  "category": "B-Roll",
+  "virin": "120620-G-ZE884-001",
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317643/stone-harbor-kayaker-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317643",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:51:02Z",
+  "duration": 65.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062597/DOD_101062597.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 6000,
+    "size": 48231886
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    59.0
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      59.1
+    ],
+    "silence_ends": [
+      4.1,
+      65.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317643.jpg",
+  "sheet_times": [
+    2.02,
+    6.05,
+    10.08,
+    14.11,
+    18.14,
+    22.17,
+    26.2,
+    30.23,
+    34.27,
+    38.3,
+    42.33,
+    46.36,
+    50.39,
+    54.42,
+    58.45,
+    62.48
+  ]
+}

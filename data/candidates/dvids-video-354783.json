@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:354783",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Mount St. Helens Rescue",
+  "description": "A Coast Guard Air Station Astoria MH-60 Jayhawk helicopter crew rescued a 40-year-old man, who suffered a leg injury while hiking 4,100-feet up Mount St. Helens, Wash., Aug. 11, 2014. The man was successfully hoisted and transported to Long View, Wash., where he was met by local emergency medical services for further transport to advanced medical care. U.S. Coast Guard video by Air Station Astoria. Available in high definition.",
+  "keywords": "Coast Guard rescue, Air Station Astoria, Mount St Helens, Coast Guard, search and rescue, Washington, Oregon",
+  "date": "2014-08-11T00:00:00-04:00",
+  "date_published": "2014-08-11T16:22:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Jonathan Klingenberg",
+  "category": "B-Roll",
+  "virin": "140811-G-ZZ999-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/354783/mount-st-helens-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-354783",
+  "status": "new",
+  "harvested_at": "2026-11-05T08:52:18Z",
+  "duration": 72.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101874507/DOD_101874507.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8545,
+    "size": 78214595
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.78,
+      "e": 15.5,
+      "text": "So again, at least above the clear line, clear E."
+    },
+    {
+      "s": 15.5,
+      "e": 25.36,
+      "text": "Roger."
+    },
+    {
+      "s": 25.36,
+      "e": 29.81,
+      "text": "South side cap door, I'm bringing a basket into the cap."
+    },
+    {
+      "s": 29.81,
+      "e": 40.78,
+      "text": "Thank you, come up."
+    },
+    {
+      "s": 40.78,
+      "e": 42.72,
+      "text": "And trailing is clear of all obstacles."
+    },
+    {
+      "s": 42.72,
+      "e": 44.1,
+      "text": "If you're clear to move back and left,"
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    30.33,
+    44.48,
+    53.12,
+    60.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.4,
+      13.1,
+      16.0,
+      20.4,
+      29.4,
+      44.5
+    ],
+    "silence_ends": [
+      4.2,
+      9.3,
+      15.7,
+      16.9,
+      22.7,
+      34.2,
+      72.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-354783.jpg",
+  "sheet_times": [
+    6.18,
+    10.43,
+    14.67,
+    18.92,
+    23.16,
+    27.41,
+    31.66,
+    35.9,
+    40.15,
+    44.39,
+    48.64,
+    52.88,
+    57.13,
+    61.38,
+    65.62,
+    69.87
+  ]
+}
