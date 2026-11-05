@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260910-MH-JBS01-0001-Artemis-III-Terminal-Count-Sim-Firing-Room-1-2-LCC-M2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:25:37Z",
   "duration": 238.57,
   "source_file": {
@@ -90,5 +90,6 @@
     200.87,
     215.75,
     230.63
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

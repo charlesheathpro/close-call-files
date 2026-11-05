@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ARC-20200109-AAV3245-Orion-EscapeAbortViz-NASAWeb",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:39:05Z",
   "duration": 37.3,
   "source_file": {
@@ -60,5 +60,6 @@
     31.05,
     33.35,
     35.65
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

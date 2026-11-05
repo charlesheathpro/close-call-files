@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240530-MH-GEB01-0001-Boeing-CFT-Atlas-V-Roll-To-Pad-M6993",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:36:11Z",
   "duration": 361.0,
   "source_file": {
@@ -93,5 +93,6 @@
     304.17,
     326.7,
     349.23
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

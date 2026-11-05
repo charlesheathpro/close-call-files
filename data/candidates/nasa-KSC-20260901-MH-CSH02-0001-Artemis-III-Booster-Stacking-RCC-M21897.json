@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260901-MH-CSH02-0001-Artemis-III-Booster-Stacking-RCC-M21897",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:40:51Z",
   "duration": 123.33,
   "source_file": {
@@ -68,5 +68,6 @@
     103.64,
     111.32,
     118.99
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss073m262202144-Crew-10-Astronauts-Undock-From-International-Space-Station-2508",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:38:26Z",
   "duration": 3259.2,
   "source_file": {
@@ -7349,5 +7349,6 @@
     2749.53,
     2953.2,
     3156.87
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

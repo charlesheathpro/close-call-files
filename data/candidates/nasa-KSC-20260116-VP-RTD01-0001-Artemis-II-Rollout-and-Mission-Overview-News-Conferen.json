@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260116-VP-RTD01-0001-Artemis-II-Rollout-and-Mission-Overview-News-Conferen",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:38:17Z",
   "duration": 3365.43,
   "source_file": {
@@ -6419,5 +6419,6 @@
     2839.16,
     3049.47,
     3259.78
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

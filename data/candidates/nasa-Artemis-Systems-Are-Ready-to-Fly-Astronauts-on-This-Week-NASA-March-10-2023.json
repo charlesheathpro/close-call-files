@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Artemis-Systems-Are-Ready-to-Fly-Astronauts-on-This-Week-NASA-March-10-2023",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:53:41Z",
   "duration": 131.65,
   "source_file": {
@@ -247,5 +247,6 @@
     110.66,
     118.85,
     127.05
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

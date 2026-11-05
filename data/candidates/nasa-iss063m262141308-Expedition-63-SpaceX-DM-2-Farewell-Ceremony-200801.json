@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss063m262141308-Expedition-63-SpaceX-DM-2-Farewell-Ceremony-200801",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:30:53Z",
   "duration": 682.47,
   "source_file": {
@@ -1240,5 +1240,6 @@
     575.41,
     618.03,
     660.66
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

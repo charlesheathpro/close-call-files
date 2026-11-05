@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-899461",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:32:30Z",
   "duration": 156.76,
   "source_file": {
@@ -463,5 +463,6 @@
     131.84,
     141.61,
     151.37
-  ]
+  ],
+  "pass_reason": "routine parachute jump training or demo"
 }

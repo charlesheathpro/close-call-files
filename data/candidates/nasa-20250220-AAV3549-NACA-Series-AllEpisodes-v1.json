@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-20250220-AAV3549-NACA-Series-AllEpisodes-v1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:52:32Z",
   "duration": 542.27,
   "source_file": {
@@ -778,5 +778,6 @@
     457.12,
     490.98,
     524.84
-  ]
+  ],
+  "pass_reason": "Historical montage, no single event with an outcome"
 }

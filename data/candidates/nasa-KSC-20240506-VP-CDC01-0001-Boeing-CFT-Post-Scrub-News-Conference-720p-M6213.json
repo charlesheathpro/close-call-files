@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240506-VP-CDC01-0001-Boeing-CFT-Post-Scrub-News-Conference-720p-M6213",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:53:28Z",
   "duration": 2043.13,
   "source_file": {
@@ -5242,5 +5242,6 @@
     1723.47,
     1851.14,
     1978.8
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-871123",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:20:41Z",
   "duration": 15.42,
   "source_file": {
@@ -62,5 +62,6 @@
     12.58,
     13.52,
     14.45
-  ]
+  ],
+  "pass_reason": "Only 15 s; Monito Island repeats ccf-20261104-11."
 }

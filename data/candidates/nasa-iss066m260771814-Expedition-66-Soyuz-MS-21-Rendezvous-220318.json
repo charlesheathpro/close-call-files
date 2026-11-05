@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss066m260771814-Expedition-66-Soyuz-MS-21-Rendezvous-220318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:29:17Z",
   "duration": 3919.13,
   "source_file": {
@@ -1919,5 +1919,6 @@
     3306.35,
     3551.26,
     3796.18
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

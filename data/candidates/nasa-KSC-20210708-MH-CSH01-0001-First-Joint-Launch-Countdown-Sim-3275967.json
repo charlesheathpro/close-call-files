@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210708-MH-CSH01-0001-First-Joint-Launch-Countdown-Sim-3275967",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:41:22Z",
   "duration": 361.2,
   "source_file": {
@@ -268,5 +268,6 @@
     304.34,
     326.88,
     349.43
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

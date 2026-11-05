@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220804-MH-GEB01-0002-Artemis-1-Last-Launch-Sim-3310052",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:24:34Z",
   "duration": 287.81,
   "source_file": {
@@ -369,5 +369,6 @@
     242.42,
     260.37,
     278.33
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

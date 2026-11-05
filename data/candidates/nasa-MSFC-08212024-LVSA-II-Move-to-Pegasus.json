@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-08212024-LVSA-II-Move-to-Pegasus",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:53:41Z",
   "duration": 63.81,
   "source_file": {
@@ -79,5 +79,6 @@
     53.42,
     57.37,
     61.33
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

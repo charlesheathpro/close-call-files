@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-The-Second-All-Private-Astronaut-Mission-to-the-Space-Station-on-This-Week-NASA-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:02:17Z",
   "duration": 131.01,
   "source_file": {
@@ -230,5 +230,6 @@
     110.12,
     118.27,
     126.43
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

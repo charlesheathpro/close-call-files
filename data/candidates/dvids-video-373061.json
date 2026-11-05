@@ -26,7 +26,7 @@
   "time_start": 4.32563,
   "aspect_ratio": "16:9",
   "id": "dvids-video-373061",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:49:12Z",
   "duration": 372.45,
   "source_file": {
@@ -291,5 +291,6 @@
     314.51,
     337.48,
     360.46
-  ]
+  ],
+  "pass_reason": "lava/volcano with no one at risk; playbook says do less of volcano"
 }

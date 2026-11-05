@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2022m000154-Boeing-OFT-2-Hatch-Closure-220524",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:58:16Z",
   "duration": 6024.0,
   "source_file": {
@@ -5697,5 +5697,6 @@
     5082.33,
     5458.8,
     5835.27
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

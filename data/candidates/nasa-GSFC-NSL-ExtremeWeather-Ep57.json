@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-NSL-ExtremeWeather-Ep57",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:38:46Z",
   "duration": 3498.81,
   "source_file": {
@@ -7202,5 +7202,6 @@
     2951.7,
     3170.34,
     3388.98
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

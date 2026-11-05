@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-311768",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:47:28Z",
   "duration": 70.57,
   "source_file": {
@@ -81,5 +81,6 @@
     59.75,
     63.88,
     68.01
-  ]
+  ],
+  "pass_reason": "routine flight deck operations in calm seas"
 }

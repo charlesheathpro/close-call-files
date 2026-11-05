@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss071m262071531-NASA-s-Boeing-Crew-Flight-Test-Status-News-Conference-240725",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-03T16:48:29Z",
   "duration": 3595.57,
   "source_file": {
@@ -317,5 +317,6 @@
     3033.34,
     3258.03,
     3482.72
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

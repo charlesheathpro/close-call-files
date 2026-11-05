@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SLS-KSC-01282026-ART-II-at-Pad-sunset-timelapse",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:14:32Z",
   "duration": 24.07,
   "source_file": {
@@ -61,5 +61,6 @@
     19.88,
     21.36,
     22.83
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

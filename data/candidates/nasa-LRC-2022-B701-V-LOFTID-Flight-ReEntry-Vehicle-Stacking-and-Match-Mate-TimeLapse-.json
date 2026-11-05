@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LRC-2022-B701-V-LOFTID-Flight-ReEntry-Vehicle-Stacking-and-Match-Mate-TimeLapse-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:32:59Z",
   "duration": 167.25,
   "source_file": {
@@ -68,5 +68,6 @@
     140.7,
     151.12,
     161.54
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

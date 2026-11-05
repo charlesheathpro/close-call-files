@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss074m260142159-NASA-SpaceX-Crew-11-Undocking-260114-2297400",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:58:18Z",
   "duration": 2574.1,
   "source_file": {
@@ -298,5 +298,6 @@
     2171.47,
     2332.32,
     2493.17
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss075m262801144-Expedition75-Crew12-Undocking-261007-2430813",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:49:15Z",
   "duration": 2616.4,
   "source_file": {
@@ -351,5 +351,6 @@
     2207.17,
     2370.66,
     2534.15
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

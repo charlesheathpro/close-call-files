@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SLS-5520-December-2025-Resource-Reel",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:16:36Z",
   "duration": 1310.4,
   "source_file": {
@@ -324,5 +324,6 @@
     1105.23,
     1187.1,
     1268.97
-  ]
+  ],
+  "pass_reason": "Assembly and shipping b-roll"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200123-VP-MMS01-IKSC-Bianca-Ryhms",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:01:44Z",
   "duration": 137.67,
   "source_file": {
@@ -117,5 +117,6 @@
     115.73,
     124.31,
     132.88
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

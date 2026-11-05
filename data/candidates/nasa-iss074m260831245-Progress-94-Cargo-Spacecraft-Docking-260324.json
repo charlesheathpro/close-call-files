@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss074m260831245-Progress-94-Cargo-Spacecraft-Docking-260324",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:17:29Z",
   "duration": 3818.47,
   "source_file": {
@@ -310,5 +310,6 @@
     3221.41,
     3460.03,
     3698.66
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

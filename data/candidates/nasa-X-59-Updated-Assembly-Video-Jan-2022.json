@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-X-59-Updated-Assembly-Video-Jan-2022",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:55:38Z",
   "duration": 216.97,
   "source_file": {
@@ -87,5 +87,6 @@
     182.64,
     196.17,
     209.7
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

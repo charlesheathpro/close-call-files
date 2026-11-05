@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210710-MH-CSH01-0001-Orion-Move-to-LASF-TIMELAPSE-3279376",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:19:36Z",
   "duration": 160.5,
   "source_file": {
@@ -63,5 +63,6 @@
     135.0,
     145.0,
     155.0
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

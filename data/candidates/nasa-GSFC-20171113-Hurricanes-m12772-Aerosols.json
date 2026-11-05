@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20171113-Hurricanes-m12772-Aerosols",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:07:23Z",
   "duration": 132.03,
   "source_file": {
@@ -179,5 +179,6 @@
     110.98,
     119.2,
     127.42
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss068m262841556-Expedition-68-Crew-4-News-Conference-221011",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:34:54Z",
   "duration": 1873.8,
   "source_file": {
@@ -4259,5 +4259,6 @@
     1580.6,
     1697.68,
     1814.76
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

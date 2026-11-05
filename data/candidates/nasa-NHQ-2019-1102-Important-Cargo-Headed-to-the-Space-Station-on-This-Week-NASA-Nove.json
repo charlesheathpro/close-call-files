@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2019-1102-Important-Cargo-Headed-to-the-Space-Station-on-This-Week-NASA-Nove",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:32:03Z",
   "duration": 225.67,
   "source_file": {
@@ -290,5 +290,6 @@
     189.98,
     204.06,
     218.13
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

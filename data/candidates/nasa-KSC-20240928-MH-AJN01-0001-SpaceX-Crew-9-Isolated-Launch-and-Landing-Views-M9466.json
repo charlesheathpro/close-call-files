@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240928-MH-AJN01-0001-SpaceX-Crew-9-Isolated-Launch-and-Landing-Views-M9466",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:48:01Z",
   "duration": 1107.4,
   "source_file": {
@@ -1275,5 +1275,6 @@
     933.95,
     1003.13,
     1072.31
-  ]
+  ],
+  "pass_reason": "Booster landing is the same story type as ccf-20261105-10 (Roman Falcon Heavy); much of the reel is SpaceX rocket-cam feed"
 }

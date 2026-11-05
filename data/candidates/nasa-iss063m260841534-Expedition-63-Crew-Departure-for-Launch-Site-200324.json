@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss063m260841534-Expedition-63-Crew-Departure-for-Launch-Site-200324",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:13:35Z",
   "duration": 293.33,
   "source_file": {
@@ -132,5 +132,6 @@
     247.08,
     265.38,
     283.68
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

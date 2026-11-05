@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2021-13626-10-AFRC75th-Episode10FlightLoads",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:40:13Z",
   "duration": 365.67,
   "source_file": {
@@ -721,5 +721,6 @@
     308.12,
     330.94,
     353.76
-  ]
+  ],
+  "pass_reason": "Anniversary montage with interviews, no single event"
 }

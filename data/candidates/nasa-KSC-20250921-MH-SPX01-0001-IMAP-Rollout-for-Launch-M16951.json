@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20250921-MH-SPX01-0001-IMAP-Rollout-for-Launch-M16951",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:04:59Z",
   "duration": 22.07,
   "source_file": {
@@ -57,5 +57,6 @@
     18.2,
     19.54,
     20.89
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

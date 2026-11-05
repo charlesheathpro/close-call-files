@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss063m262061434-Expedition-63-Inflight-interview-with-Yahoo-Finance-KPRC-TV-200",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:40:12Z",
   "duration": 1047.37,
   "source_file": {
@@ -2560,5 +2560,6 @@
     883.29,
     948.72,
     1014.15
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

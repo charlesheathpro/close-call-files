@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1026823",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:14:39Z",
   "duration": 152.84,
   "source_file": {
@@ -81,5 +81,6 @@
     128.53,
     138.05,
     147.58
-  ]
+  ],
+  "pass_reason": "routine exercise or b-roll, no danger on screen"
 }

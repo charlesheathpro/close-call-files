@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210624-RV-GEB01-0001-Terminal-Count-Launch-SIM-Firing-Room-1-2-3277934",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:57:49Z",
   "duration": 237.1,
   "source_file": {
@@ -341,5 +341,6 @@
     199.63,
     214.42,
     229.21
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

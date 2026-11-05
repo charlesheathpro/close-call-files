@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-870693",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:37:07Z",
   "duration": 44.88,
   "source_file": {
@@ -168,5 +168,6 @@
     37.44,
     40.22,
     42.99
-  ]
+  ],
+  "pass_reason": "Training or exercise with no real emergency on screen."
 }

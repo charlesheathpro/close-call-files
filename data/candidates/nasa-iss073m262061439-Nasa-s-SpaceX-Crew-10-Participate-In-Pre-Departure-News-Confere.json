@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss073m262061439-Nasa-s-SpaceX-Crew-10-Participate-In-Pre-Departure-News-Confere",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:25:36Z",
   "duration": 1360.1,
   "source_file": {
@@ -3462,5 +3462,6 @@
     1147.16,
     1232.14,
     1317.11
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

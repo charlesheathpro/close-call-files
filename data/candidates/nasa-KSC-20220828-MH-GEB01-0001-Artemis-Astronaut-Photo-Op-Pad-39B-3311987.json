@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220828-MH-GEB01-0001-Artemis-Astronaut-Photo-Op-Pad-39B-3311987",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:58:20Z",
   "duration": 187.6,
   "source_file": {
@@ -321,5 +321,6 @@
     157.87,
     169.56,
     181.25
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

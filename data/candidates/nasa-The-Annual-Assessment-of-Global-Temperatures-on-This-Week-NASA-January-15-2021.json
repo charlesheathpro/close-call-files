@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-The-Annual-Assessment-of-Global-Temperatures-on-This-Week-NASA-January-15-2021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:46:55Z",
   "duration": 237.91,
   "source_file": {
@@ -349,5 +349,6 @@
     200.32,
     215.15,
     229.99
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

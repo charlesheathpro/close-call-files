@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180912-Yellowstone-m11029-timelapse",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:51:49Z",
   "duration": 40.87,
   "source_file": {
@@ -96,5 +96,6 @@
     34.06,
     36.58,
     39.11
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

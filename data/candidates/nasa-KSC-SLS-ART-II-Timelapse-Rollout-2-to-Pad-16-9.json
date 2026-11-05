@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-SLS-ART-II-Timelapse-Rollout-2-to-Pad-16-9",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:27:58Z",
   "duration": 78.2,
   "source_file": {
@@ -69,5 +69,6 @@
     65.56,
     70.42,
     75.27
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

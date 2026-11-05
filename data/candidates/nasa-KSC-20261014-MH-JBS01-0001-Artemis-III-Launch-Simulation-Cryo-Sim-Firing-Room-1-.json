@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20261014-MH-JBS01-0001-Artemis-III-Launch-Simulation-Cryo-Sim-Firing-Room-1-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:43:37Z",
   "duration": 240.07,
   "source_file": {
@@ -215,5 +215,6 @@
     202.13,
     217.11,
     232.08
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

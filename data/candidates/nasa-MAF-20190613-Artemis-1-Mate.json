@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20190613-Artemis-1-Mate",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:27:37Z",
   "duration": 222.77,
   "source_file": {
@@ -98,5 +98,6 @@
     187.54,
     201.43,
     215.32
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

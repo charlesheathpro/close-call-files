@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260612-MH-CSH01-0001-Artemis-III-Launch-Sim-2-LCC-M21434",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:23:29Z",
   "duration": 556.63,
   "source_file": {
@@ -211,5 +211,6 @@
     469.24,
     504.0,
     538.75
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

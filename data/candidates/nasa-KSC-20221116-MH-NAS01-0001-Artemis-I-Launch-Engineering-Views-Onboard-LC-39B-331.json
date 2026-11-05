@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221116-MH-NAS01-0001-Artemis-I-Launch-Engineering-Views-Onboard-LC-39B-331",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:00:56Z",
   "duration": 448.28,
   "source_file": {
@@ -123,5 +123,6 @@
     377.81,
     405.8,
     433.78
-  ]
+  ],
+  "pass_reason": "Night onboard views are murky with lens flare; no description to source facts"
 }

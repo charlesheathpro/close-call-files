@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss061m263430944-Expedition-61-Progress-74-Docking-12-9-19-1279943",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:56:12Z",
   "duration": 3854.77,
   "source_file": {
@@ -2625,5 +2625,6 @@
     3252.04,
     3492.93,
     3733.82
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

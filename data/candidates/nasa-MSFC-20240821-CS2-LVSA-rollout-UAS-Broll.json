@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-20240821-CS2-LVSA-rollout-UAS-Broll",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:53:31Z",
   "duration": 164.9,
   "source_file": {
@@ -80,5 +80,6 @@
     138.71,
     148.99,
     159.26
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

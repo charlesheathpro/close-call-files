@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-NSL-Climate-Ep60",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:46:27Z",
   "duration": 3152.69,
   "source_file": {
@@ -6468,5 +6468,6 @@
     2659.66,
     2856.67,
     3053.68
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

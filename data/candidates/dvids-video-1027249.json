@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1027249",
   "asset_id": "video:1027249",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "flight operations",
   "harvested_at": "2026-10-27T15:52:38Z",
@@ -158,5 +158,6 @@
     366.69,
     393.86,
     421.02
-  ]
+  ],
+  "pass_reason": "training drill presented as training, no real rescue or outcome"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2020m000182-BTS-in-Space-During-Historic-DM2-Launch-and-Docking",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:02:25Z",
   "duration": 762.33,
   "source_file": {
@@ -2028,5 +2028,6 @@
     642.8,
     690.41,
     738.03
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

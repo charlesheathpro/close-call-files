@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20120926-GPM-m11099-ESW2012-Janel",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:24:24Z",
   "duration": 140.84,
   "source_file": {
@@ -157,5 +157,6 @@
     118.41,
     127.18,
     135.96
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

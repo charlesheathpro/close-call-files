@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss063m262051659-Expedition-63-Progress-76-Docking-200723",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:09:37Z",
   "duration": 3316.53,
   "source_file": {
@@ -4002,5 +4002,6 @@
     2797.9,
     3005.16,
     3212.41
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

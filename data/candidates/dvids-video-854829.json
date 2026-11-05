@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-854829",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:01:55Z",
   "duration": 194.99,
   "source_file": {
@@ -62,5 +62,6 @@
     164.1,
     176.26,
     188.42
-  ]
+  ],
+  "pass_reason": "Air show demonstration jumps; no emergency."
 }

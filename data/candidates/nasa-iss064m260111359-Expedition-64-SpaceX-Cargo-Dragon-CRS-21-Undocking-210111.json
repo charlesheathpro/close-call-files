@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss064m260111359-Expedition-64-SpaceX-Cargo-Dragon-CRS-21-Undocking-210111",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:56:31Z",
   "duration": 3376.63,
   "source_file": {
@@ -2447,5 +2447,6 @@
     2848.61,
     3059.62,
     3270.63
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

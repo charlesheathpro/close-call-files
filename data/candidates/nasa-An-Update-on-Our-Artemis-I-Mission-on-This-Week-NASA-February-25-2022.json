@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-An-Update-on-Our-Artemis-I-Mission-on-This-Week-NASA-February-25-2022",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:52:40Z",
   "duration": 215.27,
   "source_file": {
@@ -317,5 +317,6 @@
     181.22,
     194.64,
     208.06
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

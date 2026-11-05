@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-694293",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:19:18Z",
   "duration": 60.09,
   "source_file": {
@@ -212,5 +212,6 @@
     50.28,
     54.01,
     57.73
-  ]
+  ],
+  "pass_reason": "routine ops or air show, no danger or close call"
 }

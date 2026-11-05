@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-556148",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:40:04Z",
   "duration": 113.32,
   "source_file": {
@@ -300,5 +300,6 @@
     95.19,
     102.25,
     109.3
-  ]
+  ],
+  "pass_reason": "No rescue or close call on screen (prep, ceremony, interview, relief logistics or b-roll)."
 }

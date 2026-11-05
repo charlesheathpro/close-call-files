@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m262431728-Expedition-69-Crew-6-Farewell-230831",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:43:27Z",
   "duration": 652.33,
   "source_file": {
@@ -1145,5 +1145,6 @@
     549.98,
     590.72,
     631.46
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

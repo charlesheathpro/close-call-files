@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss068m260601728-Expedition-68-InFlight-Crew-5-Pre-departure-Conference-230301",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:45:59Z",
   "duration": 1981.67,
   "source_file": {
@@ -4458,5 +4458,6 @@
     1671.61,
     1795.43,
     1919.26
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss060m262491743-2019-06-Soyuz-MS-14-Undocking",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:24:35Z",
   "duration": 3996.0,
   "source_file": {
@@ -5096,5 +5096,6 @@
     3371.2,
     3620.92,
     3870.64
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190701-VP-MMS01-0001-Orion-Ascent-Abort-2-Pretest-News-Conference",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:16:20Z",
   "duration": 1625.43,
   "source_file": {
@@ -3727,5 +3727,6 @@
     1371.04,
     1472.6,
     1574.15
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

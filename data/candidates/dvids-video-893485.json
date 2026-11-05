@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-893485",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:31:04Z",
   "duration": 131.4,
   "source_file": {
@@ -89,5 +89,6 @@
     110.45,
     118.63,
     126.81
-  ]
+  ],
+  "pass_reason": "cargo airlift loading, no danger"
 }

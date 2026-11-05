@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss074m261671544-NASA-s-SpaceX-34th-Commercial-Resupply-Services-Undocking-26061",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:33:43Z",
   "duration": 3862.07,
   "source_file": {
@@ -313,5 +313,6 @@
     3258.2,
     3499.54,
     3740.89
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Our-First-Asteroid-Sample-Return-Mission-is-Back-on-Earth-on-This-Week-NASA-Sept",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:45:39Z",
   "duration": 138.0,
   "source_file": {
@@ -236,5 +236,6 @@
     116.02,
     124.61,
     133.21
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

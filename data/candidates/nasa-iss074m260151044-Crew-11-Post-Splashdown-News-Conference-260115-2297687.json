@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss074m260151044-Crew-11-Post-Splashdown-News-Conference-260115-2297687",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:28:56Z",
   "duration": 1976.77,
   "source_file": {
@@ -315,5 +315,6 @@
     1667.48,
     1790.99,
     1914.51
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

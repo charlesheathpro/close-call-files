@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2026m000087-ArtemisIIPostSplashdownNewsConference",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:56:56Z",
   "duration": 3115.53,
   "source_file": {
@@ -3323,5 +3323,6 @@
     2628.31,
     2823.0,
     3017.69
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

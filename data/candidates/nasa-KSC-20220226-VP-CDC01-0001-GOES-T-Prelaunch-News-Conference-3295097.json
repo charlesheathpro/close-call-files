@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220226-VP-CDC01-0001-GOES-T-Prelaunch-News-Conference-3295097",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:15:42Z",
   "duration": 3301.13,
   "source_file": {
@@ -6911,5 +6911,6 @@
     2784.91,
     2991.2,
     3197.49
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

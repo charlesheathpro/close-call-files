@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200403-MH-JPL01-0001-Mars-2020-Parachute-Integration-ATLO-PDS-Assembly-and",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:43:35Z",
   "duration": 663.87,
   "source_file": {
@@ -70,5 +70,6 @@
     559.72,
     601.18,
     642.64
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

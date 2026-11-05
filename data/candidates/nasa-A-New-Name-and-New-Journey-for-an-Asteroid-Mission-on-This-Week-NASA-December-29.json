@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-A-New-Name-and-New-Journey-for-an-Asteroid-Mission-on-This-Week-NASA-December-29",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:13:27Z",
   "duration": 135.15,
   "source_file": {
@@ -211,5 +211,6 @@
     113.61,
     122.02,
     130.44
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

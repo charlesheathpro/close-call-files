@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20251105-MH-CSH01-0002-Artemis-II-Launch-Simulation-LCC-M17495",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:22:35Z",
   "duration": 501.03,
   "source_file": {
@@ -602,5 +602,6 @@
     422.32,
     453.61,
     484.89
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

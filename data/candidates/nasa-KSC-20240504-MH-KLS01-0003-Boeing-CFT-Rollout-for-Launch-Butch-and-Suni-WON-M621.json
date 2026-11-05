@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240504-MH-KLS01-0003-Boeing-CFT-Rollout-for-Launch-Butch-and-Suni-WON-M621",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:39:37Z",
   "duration": 88.7,
   "source_file": {
@@ -64,5 +64,6 @@
     74.42,
     79.93,
     85.44
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

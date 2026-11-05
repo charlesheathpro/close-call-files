@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss065m261830013-Expedition-65-Progress-78-Docking-210701",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:27:42Z",
   "duration": 3337.83,
   "source_file": {
@@ -2905,5 +2905,6 @@
     2815.87,
     3024.46,
     3233.04
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

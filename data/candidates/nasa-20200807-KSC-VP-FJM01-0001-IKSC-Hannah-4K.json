@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-20200807-KSC-VP-FJM01-0001-IKSC-Hannah-4K",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:36:19Z",
   "duration": 140.37,
   "source_file": {
@@ -76,5 +76,6 @@
     118.02,
     126.76,
     135.5
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

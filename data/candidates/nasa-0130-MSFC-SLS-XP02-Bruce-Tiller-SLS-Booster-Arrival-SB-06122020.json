@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-0130-MSFC-SLS-XP02-Bruce-Tiller-SLS-Booster-Arrival-SB-06122020",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:40:39Z",
   "duration": 162.82,
   "source_file": {
@@ -358,5 +358,6 @@
     136.95,
     147.1,
     157.24
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

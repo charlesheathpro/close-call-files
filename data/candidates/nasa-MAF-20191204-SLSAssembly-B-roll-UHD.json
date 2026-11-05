@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20191204-SLSAssembly-B-roll-UHD",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:53:07Z",
   "duration": 68.48,
   "source_file": {
@@ -100,5 +100,6 @@
     57.36,
     61.61,
     65.86
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

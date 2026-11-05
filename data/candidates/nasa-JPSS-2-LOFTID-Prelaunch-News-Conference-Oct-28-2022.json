@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPSS-2-LOFTID-Prelaunch-News-Conference-Oct-28-2022",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:07:44Z",
   "duration": 2439.07,
   "source_file": {
@@ -355,5 +355,6 @@
     2057.54,
     2209.95,
     2362.36
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

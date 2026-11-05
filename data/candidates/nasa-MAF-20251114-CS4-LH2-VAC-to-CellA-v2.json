@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20251114-CS4-LH2-VAC-to-CellA-v2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:29:50Z",
   "duration": 311.9,
   "source_file": {
@@ -99,5 +99,6 @@
     262.74,
     282.21,
     301.67
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

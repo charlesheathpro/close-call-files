@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-February-2021-SLS-Resource-Reel-V2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:38:22Z",
   "duration": 1856.37,
   "source_file": {
@@ -262,5 +262,6 @@
     1565.89,
     1681.88,
     1797.87
-  ]
+  ],
+  "pass_reason": "Assembly b-roll with animation"
 }

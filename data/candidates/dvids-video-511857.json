@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-511857",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:50:21Z",
   "duration": 235.05,
   "source_file": {
@@ -543,5 +543,6 @@
     198.53,
     212.94,
     227.35
-  ]
+  ],
+  "pass_reason": "carrier milestone or firsts, rejected story type (3b)"
 }

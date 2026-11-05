@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss063m262111933-Expedition-63-Post-Flight-Readiness-Review-Briefing-200729",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:02:21Z",
   "duration": 2818.23,
   "source_file": {
@@ -6782,5 +6782,6 @@
     2377.46,
     2553.57,
     2729.68
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

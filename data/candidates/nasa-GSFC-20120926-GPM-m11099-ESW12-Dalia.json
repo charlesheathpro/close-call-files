@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20120926-GPM-m11099-ESW12-Dalia",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:11:39Z",
   "duration": 164.61,
   "source_file": {
@@ -202,5 +202,6 @@
     138.47,
     148.72,
     158.98
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

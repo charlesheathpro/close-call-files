@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20121001-GPM-m11102-Steve-Nesbitt",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:53:56Z",
   "duration": 168.57,
   "source_file": {
@@ -247,5 +247,6 @@
     141.81,
     152.31,
     162.81
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

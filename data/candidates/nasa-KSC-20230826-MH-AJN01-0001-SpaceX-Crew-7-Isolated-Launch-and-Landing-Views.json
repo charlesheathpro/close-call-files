@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20230826-MH-AJN01-0001-SpaceX-Crew-7-Isolated-Launch-and-Landing-Views",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:49:24Z",
   "duration": 929.43,
   "source_file": {
@@ -1043,5 +1043,6 @@
     783.79,
     841.85,
     899.9
-  ]
+  ],
+  "pass_reason": "Same booster-landing story type as ccf-20261105-10; night launch"
 }

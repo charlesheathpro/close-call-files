@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20131108-MAVEN-m11403-NASM",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:20:11Z",
   "duration": 461.94,
   "source_file": {
@@ -625,5 +625,6 @@
     389.34,
     418.18,
     447.02
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

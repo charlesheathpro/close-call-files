@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m261570814-Expedition-69-CRS-28-Docking-230606",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T16:53:20Z",
   "duration": 7008.67,
   "source_file": {
@@ -6159,5 +6159,6 @@
     5913.14,
     6351.15,
     6789.16
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-SLS-ART-II-Rollout-2-to-Pad-broll-16-9",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:29:08Z",
   "duration": 297.57,
   "source_file": {
@@ -79,5 +79,6 @@
     250.65,
     269.22,
     287.78
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-The-Artemis-II-Astronauts-Check-Out-Their-Ride-to-the-Moon-on-This-Week-NASA-Aug",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:40:52Z",
   "duration": 163.84,
   "source_file": {
@@ -275,5 +275,6 @@
     137.82,
     148.03,
     158.24
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

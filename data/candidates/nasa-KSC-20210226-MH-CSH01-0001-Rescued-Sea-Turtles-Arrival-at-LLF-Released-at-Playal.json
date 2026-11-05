@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210226-MH-CSH01-0001-Rescued-Sea-Turtles-Arrival-at-LLF-Released-at-Playal",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:45:15Z",
   "duration": 195.23,
   "source_file": {
@@ -196,5 +196,6 @@
     164.31,
     176.48,
     188.65
-  ]
+  ],
+  "pass_reason": "Calm animal transport and release, no visible danger"
 }

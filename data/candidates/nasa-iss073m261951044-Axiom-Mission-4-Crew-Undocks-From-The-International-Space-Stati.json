@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss073m261951044-Axiom-Mission-4-Crew-Undocks-From-The-International-Space-Stati",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T16:52:08Z",
   "duration": 3347.2,
   "source_file": {
@@ -6738,5 +6738,6 @@
     2823.78,
     3032.95,
     3242.12
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GR-SLSCST-5-Gimbal-Test-4Eng-Longer-with-cut",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:32:25Z",
   "duration": 114.47,
   "source_file": {
@@ -94,5 +94,6 @@
     96.17,
     103.29,
     110.41
-  ]
+  ],
+  "pass_reason": "Engine gimbal test with no firing, no danger on screen"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-815137",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:37:03Z",
   "duration": 71.01,
   "source_file": {
@@ -100,5 +100,6 @@
     59.49,
     63.9,
     68.3
-  ]
+  ],
+  "pass_reason": "USACE study video with graphics, no event"
 }

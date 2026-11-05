@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m262351839-Expedition-69-Crew-6-Talks-with-Media-Before-Departure-230823",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:41:24Z",
   "duration": 1756.3,
   "source_file": {
@@ -4959,5 +4959,6 @@
     1481.46,
     1591.19,
     1700.93
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

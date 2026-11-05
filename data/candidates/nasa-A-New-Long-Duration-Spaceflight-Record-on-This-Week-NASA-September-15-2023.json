@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-A-New-Long-Duration-Spaceflight-Record-on-This-Week-NASA-September-15-2023",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:51:26Z",
   "duration": 145.36,
   "source_file": {
@@ -258,5 +258,6 @@
     122.23,
     131.28,
     140.34
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

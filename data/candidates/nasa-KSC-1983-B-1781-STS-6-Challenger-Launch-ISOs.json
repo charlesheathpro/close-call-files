@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-1983-B-1781-STS-6-Challenger-Launch-ISOs",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:52:21Z",
   "duration": 4129.34,
   "source_file": {
@@ -1790,5 +1790,6 @@
     3483.71,
     3741.76,
     3999.82
-  ]
+  ],
+  "pass_reason": "1983 SD video, soft and pillarboxed; booster splashdown distant"
 }

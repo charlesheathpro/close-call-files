@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss067m261150029-Axiom-Mission-1-Undocking-220424",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:19:07Z",
   "duration": 3982.1,
   "source_file": {
@@ -7144,5 +7144,6 @@
     3359.47,
     3608.32,
     3857.17
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

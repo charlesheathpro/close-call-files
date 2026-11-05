@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20190602-LOXSQA-SimStacking-UHD",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:36:49Z",
   "duration": 392.13,
   "source_file": {
@@ -105,5 +105,6 @@
     330.44,
     354.92,
     379.39
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

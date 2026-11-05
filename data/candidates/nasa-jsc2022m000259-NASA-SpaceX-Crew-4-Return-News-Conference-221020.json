@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2022m000259-NASA-SpaceX-Crew-4-Return-News-Conference-221020",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:04:48Z",
   "duration": 3138.73,
   "source_file": {
@@ -9211,5 +9211,6 @@
     2647.88,
     2844.02,
     3040.16
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

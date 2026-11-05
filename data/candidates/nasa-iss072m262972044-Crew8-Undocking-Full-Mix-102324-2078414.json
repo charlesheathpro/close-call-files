@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss072m262972044-Crew8-Undocking-Full-Mix-102324-2078414",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:55:12Z",
   "duration": 2758.83,
   "source_file": {
@@ -285,5 +285,6 @@
     2327.34,
     2499.74,
     2672.14
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

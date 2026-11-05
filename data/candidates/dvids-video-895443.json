@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-895443",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:48:38Z",
   "duration": 15.35,
   "source_file": {
@@ -64,5 +64,6 @@
     12.53,
     13.46,
     14.38
-  ]
+  ],
+  "pass_reason": "15 s static station cam during Idalia; dark half and nothing happens."
 }

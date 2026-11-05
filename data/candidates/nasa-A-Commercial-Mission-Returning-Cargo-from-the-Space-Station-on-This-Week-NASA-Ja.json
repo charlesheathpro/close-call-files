@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-A-Commercial-Mission-Returning-Cargo-from-the-Space-Station-on-This-Week-NASA-Ja",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:41:00Z",
   "duration": 168.64,
   "source_file": {
@@ -228,5 +228,6 @@
     141.87,
     152.38,
     162.89
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

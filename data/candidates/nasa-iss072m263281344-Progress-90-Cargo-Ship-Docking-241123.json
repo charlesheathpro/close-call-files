@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss072m263281344-Progress-90-Cargo-Ship-Docking-241123",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:05:06Z",
   "duration": 3179.53,
   "source_file": {
@@ -6803,5 +6803,6 @@
     2682.31,
     2881.0,
     3079.69
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

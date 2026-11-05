@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260830-MH-AJN01-0001-Roman-Space-Telescope-Isolated-Launch-and-Landing-Vie",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T01:32:08Z",
   "duration": 1139.53,
   "source_file": {
@@ -1311,5 +1311,6 @@
     961.06,
     1032.25,
     1103.44
-  ]
+  ],
+  "used_by": "ccf-20261105-10"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-310888",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:26:54Z",
   "duration": 209.0,
   "source_file": {
@@ -92,5 +92,6 @@
     175.92,
     188.96,
     201.99
-  ]
+  ],
+  "pass_reason": "training drill presented as training, no real rescue or outcome"
 }

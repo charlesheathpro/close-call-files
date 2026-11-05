@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss060m262391414-SpaceX-Dragon-undocking-2019-0827",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:16:39Z",
   "duration": 4508.3,
   "source_file": {
@@ -3586,5 +3586,6 @@
     3803.46,
     4085.19,
     4366.93
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

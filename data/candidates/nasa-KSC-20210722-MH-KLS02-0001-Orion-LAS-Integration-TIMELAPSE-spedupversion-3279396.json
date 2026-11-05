@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210722-MH-KLS02-0001-Orion-LAS-Integration-TIMELAPSE-spedupversion-3279396",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:18:54Z",
   "duration": 168.07,
   "source_file": {
@@ -61,5 +61,6 @@
     141.38,
     151.86,
     162.33
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

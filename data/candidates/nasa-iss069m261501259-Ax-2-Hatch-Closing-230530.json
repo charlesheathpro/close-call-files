@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m261501259-Ax-2-Hatch-Closing-230530",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:09:31Z",
   "duration": 3347.67,
   "source_file": {
@@ -4899,5 +4899,6 @@
     2824.17,
     3033.37,
     3242.57
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

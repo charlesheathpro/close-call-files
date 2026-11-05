@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-295022",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:35:48Z",
   "duration": 52.52,
   "source_file": {
@@ -73,5 +73,6 @@
     43.89,
     47.15,
     50.4
-  ]
+  ],
+  "pass_reason": "Launch only: helicopter on the ramp and taking off, no rescue on screen."
 }

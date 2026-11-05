@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220816-MH-GEB01-0001-Artemis-I-Rollout-for-Launch-LCC-311906",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:40:56Z",
   "duration": 261.9,
   "source_file": {
@@ -298,5 +298,6 @@
     220.56,
     236.89,
     253.23
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

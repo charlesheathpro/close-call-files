@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss072m262841859-NASA-SpaceX-Crew8-Farewell-Remarks-241010",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-01T17:24:39Z",
   "duration": 277.87,
   "source_file": {
@@ -134,5 +134,6 @@
     234.03,
     251.36,
     268.7
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

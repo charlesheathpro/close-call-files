@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss065m262071028-Expedition-65-Progress-77-and-Pirs-Undocking-210726",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:21:12Z",
   "duration": 2631.87,
   "source_file": {
@@ -2568,5 +2568,6 @@
     2220.22,
     2384.68,
     2549.14
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

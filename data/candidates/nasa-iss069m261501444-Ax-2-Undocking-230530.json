@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m261501444-Ax-2-Undocking-230530",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:23:58Z",
   "duration": 2577.9,
   "source_file": {
@@ -4247,5 +4247,6 @@
     2174.68,
     2335.77,
     2496.86
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

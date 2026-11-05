@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2023-CM-0249",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T01:34:50Z",
   "duration": 205.25,
   "source_file": {
@@ -496,5 +496,6 @@
     172.76,
     185.55,
     198.35
-  ]
+  ],
+  "used_by": "ccf-20261105-11"
 }

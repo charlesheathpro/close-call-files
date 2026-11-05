@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss067m261311553-Crew-3-Post-Mission-News-Conference-220511",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:47:21Z",
   "duration": 1540.87,
   "source_file": {
@@ -3959,5 +3959,6 @@
     1299.68,
     1395.96,
     1492.23
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260117-A2-to-39B",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:28:08Z",
   "duration": 91.83,
   "source_file": {
@@ -108,5 +108,6 @@
     77.06,
     82.77,
     88.48
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

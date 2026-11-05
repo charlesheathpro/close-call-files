@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20191023-PC-FJM001-0001-3235178-Rocket-Rach-Podcast-Episode-17",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:08:49Z",
   "duration": 2486.13,
   "source_file": {
@@ -3058,5 +3058,6 @@
     2097.25,
     2252.61,
     2407.96
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

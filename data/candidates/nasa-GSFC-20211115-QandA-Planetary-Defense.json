@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20211115-QandA-Planetary-Defense",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:42:31Z",
   "duration": 1755.33,
   "source_file": {
@@ -3638,5 +3638,6 @@
     1480.64,
     1590.32,
     1699.99
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

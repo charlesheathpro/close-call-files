@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20211214-MH-FMX01-0001-Launch-Team-Sim-3292486",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:25:02Z",
   "duration": 236.95,
   "source_file": {
@@ -132,5 +132,6 @@
     199.5,
     214.28,
     229.06
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20121221-GPM-m11165-Landslide-Model",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:29:18Z",
   "duration": 20.73,
   "source_file": {
@@ -50,5 +50,6 @@
     17.07,
     18.34,
     19.6
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

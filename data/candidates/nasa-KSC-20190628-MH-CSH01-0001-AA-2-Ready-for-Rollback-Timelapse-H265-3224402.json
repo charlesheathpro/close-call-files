@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190628-MH-CSH01-0001-AA-2-Ready-for-Rollback-Timelapse-H265-3224402",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:44:47Z",
   "duration": 48.73,
   "source_file": {
@@ -56,5 +56,6 @@
     40.7,
     43.71,
     46.73
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

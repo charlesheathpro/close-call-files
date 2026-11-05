@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260810-MH-JBS01-0001-Artemis-III-Booster-Stacking-LAC-Mated-VAB-M21897",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:40:25Z",
   "duration": 81.63,
   "source_file": {
@@ -96,5 +96,6 @@
     68.46,
     73.53,
     78.6
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

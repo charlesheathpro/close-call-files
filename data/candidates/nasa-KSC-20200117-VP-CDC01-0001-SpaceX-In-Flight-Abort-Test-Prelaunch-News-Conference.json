@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200117-VP-CDC01-0001-SpaceX-In-Flight-Abort-Test-Prelaunch-News-Conference",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:22:46Z",
   "duration": 3215.9,
   "source_file": {
@@ -6755,5 +6755,6 @@
     2712.99,
     2913.96,
     3114.92
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260506-MH-GEB01-0001-Artemis-III-Firing-Room-1-Launch-Sim-M20700",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:41:58Z",
   "duration": 246.5,
   "source_file": {
@@ -120,5 +120,6 @@
     207.56,
     222.94,
     238.31
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

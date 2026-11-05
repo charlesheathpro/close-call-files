@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2020-0902-NASA-CONDUCTS-SPACE-LAUNCH-SYSTEM-ROCKET-FULL-SCALE-BOOSTER-TEST-F",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:51:10Z",
   "duration": 339.63,
   "source_file": {
@@ -96,5 +96,6 @@
     286.14,
     307.34,
     328.54
-  ]
+  ],
+  "pass_reason": "Same booster test story as ccf-20261102-09; 720p"
 }

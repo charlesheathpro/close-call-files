@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-717886",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:26:01Z",
   "duration": 165.42,
   "source_file": {
@@ -218,5 +218,6 @@
     139.15,
     149.46,
     159.77
-  ]
+  ],
+  "pass_reason": "crash-site cleanup in a forest after the pilot ejected; aftermath only, no danger on screen"
 }

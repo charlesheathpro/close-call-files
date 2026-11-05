@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-20240821-CS2-LVSA-rollout-UAS-30s",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:53:14Z",
   "duration": 37.43,
   "source_file": {
@@ -70,5 +70,6 @@
     31.16,
     33.47,
     35.78
-  ]
+  ],
+  "pass_reason": "Title: talking heads, docking feed, simulation, animation or assembly, no danger on screen"
 }

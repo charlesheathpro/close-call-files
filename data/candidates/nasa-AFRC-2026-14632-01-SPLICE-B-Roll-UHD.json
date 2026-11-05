@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14632-01-SPLICE-B-Roll-UHD",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:35:52Z",
   "duration": 123.9,
   "source_file": {
@@ -91,5 +91,6 @@
     104.12,
     111.83,
     119.54
-  ]
+  ],
+  "pass_reason": "Calm drone hover test, no danger on screen"
 }
