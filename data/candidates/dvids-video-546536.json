@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:546536",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Conducts Search and Rescue in Response to Hurricane Harvey",
+  "description": "The Coast Guard responds to search and rescue requests in response to Hurricane Harvey in greater Houston Metro Area Aug. 28, 2017. The Coast Guard is working closely with all federal, state and local emergency operations centers and has established incident command posts to manage search and rescue operations. (U.S. Coast Guard video)",
+  "keywords": "Hurricane Harvey, Coast Guard, Houston",
+  "date": "2017-08-28T00:00:00-04:00",
+  "date_published": "2017-08-29T12:05:37-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Brandon Giles",
+  "category": "B-Roll",
+  "virin": "170828-G-LB502-000",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546536/coast-guard-conducts-search-and-rescue-response-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-546536",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:30:39Z",
+  "duration": 98.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104776910/DOD_104776910.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10069,
+    "size": 125783514
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546536.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.33,
+    21.46,
+    27.59,
+    33.72,
+    39.85,
+    45.99,
+    52.12,
+    58.25,
+    64.38,
+    70.51,
+    76.64,
+    82.77,
+    88.9,
+    95.04
+  ]
+}

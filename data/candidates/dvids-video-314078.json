@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:314078",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Man from Flooded Home",
+  "description": "FARGO, N.D. - An HH-65 Dolphin helicopter crew, from Air Station Traverse City, Mich., rescued a 78-year-old man March 26, 2009, from his flooded home during the Red River Valley floods. (Coast Guard video by Air Station Traverse City)",
+  "keywords": "CGVI",
+  "date": "2009-03-27T00:00:00-04:00",
+  "date_published": "2013-12-17T05:49:18-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090326-G-5394S-001",
+  "location": {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314078/coast-guard-rescues-man-flooded-home",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314078",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:30:07Z",
+  "duration": 83.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054751/DOD_101054751-640x480-3000k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 35960748
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314078.jpg",
+  "sheet_times": [
+    2.6,
+    7.79,
+    12.99,
+    18.19,
+    23.38,
+    28.58,
+    33.77,
+    38.97,
+    44.17,
+    49.36,
+    54.56,
+    59.76,
+    64.95,
+    70.15,
+    75.34,
+    80.54
+  ]
+}

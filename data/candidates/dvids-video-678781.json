@@ -1,0 +1,102 @@
+{
+  "asset_id": "video:678781",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue swimmer",
+  "title": "Coast Guard Air Station Sitka Rescue Swimmer Assists in Dewatering Sinking Vessel Near Kake, Alaska",
+  "description": "A Coast Guard Air Station Sitka rescue swimmer assists in dewatering a sinking vessel near Kake, Alaska, May 7, 2019. The rescuer swam to the vessel, was lowered a dewatering pump and helped mitigate the flooding until members of the Coast Guard Cutter Anacapa arrived to assist. Video courtesy of U.S. Coast Guard.",
+  "keywords": "rescue swimmer, flooding, sinking, Petersburg, Anacapa, Kake, Coast Guard, SAR, search and rescue, rescue, Alaska",
+  "date": "2019-05-07T00:00:00-04:00",
+  "date_published": "2019-05-08T19:51:21-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190507-G-G0217-0002",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/678781/coast-guard-air-station-sitka-rescue-swimmer-assists-dewatering-sinking-vessel-near-kake-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-678781",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:31:00Z",
+  "duration": 58.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106728701/DOD_106728701.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10124,
+    "size": 74573223
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.58,
+      "e": 12.51,
+      "text": "We're making way to the vessel."
+    },
+    {
+      "s": 12.51,
+      "e": 49.57,
+      "text": "Maybe if we want to initially, I'd like to stay until Doug gets on board."
+    },
+    {
+      "s": 49.57,
+      "e": 50.57,
+      "text": "That's okay."
+    },
+    {
+      "s": 50.57,
+      "e": 52.57,
+      "text": "We'll be right back in less 35."
+    }
+  ],
+  "scene_cuts": [
+    34.57,
+    44.21
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      4.9,
+      18.0,
+      47.1,
+      55.3
+    ],
+    "silence_ends": [
+      1.5,
+      8.6,
+      45.7,
+      47.8,
+      58.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-678781.jpg",
+  "sheet_times": [
+    1.81,
+    5.44,
+    9.06,
+    12.68,
+    16.31,
+    19.93,
+    23.55,
+    27.18,
+    30.8,
+    34.42,
+    38.05,
+    41.67,
+    45.29,
+    48.92,
+    52.54,
+    56.16
+  ]
+}

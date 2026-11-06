@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:546889",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard conducts search and rescue in response to Hurricane Harvey",
+  "description": "The Coast Guard conducts search and rescue in response to Hurricane Harvey in the greater Houston metro area Aug. 29, 2017. The Coast Guard is working closely with federal, state and local emergency operations centers and has established incident command posts to manage search and rescue operations. (U.S. Coast Guard video by Air Station Houston/Released)",
+  "keywords": "rescue swimmer, hoist, D8, Hurricane Harvey, Coast Guard, SAR, Texas, rescue, USCG, Hurricane, Houston",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-30T14:52:42-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170829-G-G0108-2001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546889/coast-guard-conducts-search-and-rescue-response-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-546889",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:30:21Z",
+  "duration": 62.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104783341/DOD_104783341.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8712,
+    "size": 69239342
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.8,
+    9.77,
+    29.47,
+    36.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      62.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546889.jpg",
+  "sheet_times": [
+    1.94,
+    5.82,
+    9.71,
+    13.59,
+    17.47,
+    21.35,
+    25.23,
+    29.12,
+    33.0,
+    36.88,
+    40.76,
+    44.64,
+    48.53,
+    52.41,
+    56.29,
+    60.17
+  ]
+}

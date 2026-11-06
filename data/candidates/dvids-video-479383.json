@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:479383",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard crews respond to Baton Rouge flooding- medevac B-roll",
+  "description": "Crewmembers from Coast Guard Air Station New Orleans, medevac a man in distress in Baton Rouge, Louisiana, Aug. 15, 2016. The Coast Guard is assisting local, state and federal agencies in flood rescues. U.S. Coast Guard video",
+  "keywords": "floods, Southern Floods 2016, Coast Guard, medevac, SAR, Louisiana, helo, Baton Rouge",
+  "date": "2016-08-15T00:00:00-04:00",
+  "date_published": "2016-08-16T00:31:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 1st Class Melissa Leake",
+  "category": "B-Roll",
+  "virin": "160815-G-BX086-010",
+  "location": {
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/479383/coast-guard-crews-respond-baton-rouge-flooding-medevac-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-479383",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:31:55Z",
+  "duration": 154.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103576198/DOD_103576198.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8923,
+    "size": 172593037
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    5.51,
+    6.54,
+    10.44,
+    18.89,
+    22.36,
+    25.13,
+    40.51,
+    43.34,
+    45.88,
+    52.09,
+    60.23,
+    60.29,
+    62.6,
+    65.3,
+    74.34,
+    97.53,
+    151.68
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      154.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-479383.jpg",
+  "sheet_times": [
+    8.71,
+    18.09,
+    27.47,
+    36.85,
+    46.23,
+    55.61,
+    64.99,
+    74.36,
+    83.74,
+    93.12,
+    102.5,
+    111.88,
+    121.26,
+    130.63,
+    140.01,
+    149.39
+  ]
+}

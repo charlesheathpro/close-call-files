@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:641262",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "POTUS Stops at Beale En Route to Wildfires",
+  "description": "POTUS Stops at Beale En Route to Wildfires",
+  "keywords": "Beale Air Force Base, Beale, 9th reconnaissance wing, Trump, Donald J. Trump, TSgt Shawn Bryant, Col. Andy Clark, president, POTUS",
+  "date": "2018-11-17T00:00:00-05:00",
+  "date_published": "2018-11-17T16:17:07-05:00",
+  "branch": "Air Force",
+  "unit_name": "9th Reconnaissance Wing",
+  "credit": "Tech. Sgt. Shawn Bryant",
+  "category": "B-Roll",
+  "virin": "181117-F-DF621-001",
+  "location": {
+    "city": "Beale Air Force Base",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/641262/potus-stops-beale-en-route-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 10.01,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-641262",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:31:13Z",
+  "duration": 267.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1811/DOD_106226436/DOD_106226436-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6264,
+    "size": 214873418
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    104.98,
+    207.67,
+    244.33,
+    250.38,
+    261.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      266.6
+    ],
+    "silence_ends": [
+      10.0,
+      267.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-641262.jpg",
+  "sheet_times": [
+    18.04,
+    34.11,
+    50.17,
+    66.24,
+    82.31,
+    98.37,
+    114.44,
+    130.5,
+    146.57,
+    162.64,
+    178.7,
+    194.77,
+    210.83,
+    226.9,
+    242.96,
+    259.03
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "asset_id": "video:57164",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "U.S. Coast Guard Rescues Six Red Rivers Floods",
+  "description": "B-Roll of a helicopter rescue during heavy flooding in Fargo, N.D. Scenes include people being lifted by way of a rescue basket from a flooded river into a Coast Guard helicopter.",
+  "keywords": null,
+  "date": "2009-03-25T00:00:00-04:00",
+  "date_published": "2009-03-27T12:48:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/57164/us-coast-guard-rescues-six-red-rivers-floods",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-57164",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:30:17Z",
+  "duration": 106.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0903/DOD_100038781/DOD_100038781.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.68,
+      "e": 6.88,
+      "text": "Looks like we laid out."
+    },
+    {
+      "s": 6.88,
+      "e": 8.68,
+      "text": "So we're just pulling aircraft?"
+    },
+    {
+      "s": 8.68,
+      "e": 72.06,
+      "text": "Hey, think of."
+    },
+    {
+      "s": 72.06,
+      "e": 73.06,
+      "text": "Got fuel, a little going."
+    },
+    {
+      "s": 73.06,
+      "e": 86.78,
+      "text": "If you're in a basket if you want,"
+    },
+    {
+      "s": 86.78,
+      "e": 88.78,
+      "text": "and you have bare hook recovery of the swimmer,"
+    },
+    {
+      "s": 88.78,
+      "e": 93.94,
+      "text": "I don't know if that hooks in a full of your choice."
+    },
+    {
+      "s": 93.94,
+      "e": 94.94,
+      "text": "Would you bare hook?"
+    }
+  ],
+  "scene_cuts": [
+    3.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-57164.jpg",
+  "sheet_times": [
+    3.32,
+    9.95,
+    16.58,
+    23.22,
+    29.85,
+    36.49,
+    43.12,
+    49.75,
+    56.39,
+    63.02,
+    69.65,
+    76.29,
+    82.92,
+    89.56,
+    96.19,
+    102.82
+  ]
+}

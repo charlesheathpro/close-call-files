@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:563284",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue swimmer",
+  "title": "Coast Guard rescues boater from sinking vessel near San Onofre State Beach",
+  "description": "A Sector San Diego MH-60T Jayhawk helicopter crew rescues a man from a sinking vessel approximately 12 miles west of San Onofre State Beach, San Clemente, California, Novermber 6, 2017. The man required rescue after his boat began rapidly sinking while awaiting commercial assistance. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "rescue swimmer, Jayhawk, sinking boat, helicopter, Coast Guard, SAR, rescue, San Diego",
+  "date": "2017-11-06T00:00:00-05:00",
+  "date_published": "2017-11-06T18:06:41-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171106-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/563284/coast-guard-rescues-boater-sinking-vessel-near-san-onofre-state-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-563284",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:31:48Z",
+  "duration": 124.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105050149/DOD_105050149.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9839,
+    "size": 152700587
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    37.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      124.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-563284.jpg",
+  "sheet_times": [
+    3.86,
+    11.59,
+    19.31,
+    27.03,
+    34.76,
+    42.48,
+    50.2,
+    57.93,
+    65.65,
+    73.37,
+    81.1,
+    88.82,
+    96.54,
+    104.27,
+    111.99,
+    119.71
+  ]
+}
