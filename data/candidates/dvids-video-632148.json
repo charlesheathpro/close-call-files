@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:632148",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MH-65 Dolphin Helicopter Rescue Crew Medevacs a survivor of Hurricane Michael",
+  "description": "An MH-65 Dolphin helicopter rescue crew medevacs a survivor of Hurricane Michael in Panama City, Oct. 10, 2018.\r\n\r\nOfficial Coast Guard video.",
+  "keywords": "hurricanemichael, hurricanemichael18",
+  "date": "2018-10-11T00:00:00-04:00",
+  "date_published": "2018-10-11T15:30:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Training Center Cape May",
+  "credit": "Petty Officer 2nd Class Richard Brahm",
+  "category": "B-Roll",
+  "virin": "181011-G-EK967-854",
+  "location": {
+    "city": "Panama City",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/632148/mh-65-dolphin-helicopter-rescue-crew-medevacs-survivor-hurricane-michael",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-632148",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:32:05Z",
+  "duration": 267.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106111716/DOD_106111716.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9017,
+    "size": 305575405
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    214.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      267.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-632148.jpg",
+  "sheet_times": [
+    8.33,
+    24.99,
+    41.64,
+    58.3,
+    74.96,
+    91.61,
+    108.27,
+    124.93,
+    141.58,
+    158.24,
+    174.9,
+    191.55,
+    208.21,
+    224.87,
+    241.52,
+    258.18
+  ]
+}
