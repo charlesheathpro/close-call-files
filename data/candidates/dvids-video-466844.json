@@ -26,7 +26,7 @@
   "time_start": 4.13747,
   "aspect_ratio": "16:9",
   "id": "dvids-video-466844",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:07:28Z",
   "duration": 57.79,
   "source_file": {
@@ -64,5 +64,6 @@
     48.99,
     52.31,
     55.63
-  ]
+  ],
+  "pass_reason": "Strong 20-hour number, but grayscale aircraft-sensor footage: the man is a speck for most of it and the hoist is distant and soft (murky source, danger not visible)."
 }
