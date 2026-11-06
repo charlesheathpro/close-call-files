@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-488007",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:15:43Z",
   "duration": 36.41,
   "source_file": {
@@ -96,5 +96,6 @@
     30.3,
     32.54,
     34.79
-  ]
+  ],
+  "pass_reason": "Fisheye boat-cam on moderate water; no visible danger to the kite surfer"
 }

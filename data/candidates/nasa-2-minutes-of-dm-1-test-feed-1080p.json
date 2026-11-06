@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2-minutes-of-dm-1-test-feed-1080p",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T00:52:12Z",
   "duration": 179.48,
   "source_file": {
@@ -429,5 +429,6 @@
     151.01,
     162.2,
     173.38
-  ]
+  ],
+  "used_by": "ccf-20261105-40"
 }

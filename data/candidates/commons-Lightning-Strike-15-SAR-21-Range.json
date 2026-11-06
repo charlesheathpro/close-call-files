@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Lightning-Strike-15-SAR-21-Range",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:53:23Z",
   "duration": 99.07,
   "source_file": {
@@ -172,5 +172,6 @@
     83.17,
     89.33,
     95.49
-  ]
+  ],
+  "pass_reason": "Training exercise and interviews"
 }

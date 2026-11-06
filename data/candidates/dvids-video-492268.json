@@ -26,7 +26,7 @@
   "time_start": 4.2042,
   "aspect_ratio": "16:9",
   "id": "dvids-video-492268",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:01:12Z",
   "duration": 39.97,
   "source_file": {
@@ -64,5 +64,6 @@
     33.96,
     36.17,
     38.37
-  ]
+  ],
+  "pass_reason": "Calm-water door-cam hoist"
 }

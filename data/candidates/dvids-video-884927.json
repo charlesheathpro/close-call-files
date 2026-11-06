@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-884927",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:10:28Z",
   "duration": 58.63,
   "source_file": {
@@ -62,5 +62,6 @@
     49.05,
     52.68,
     56.32
-  ]
+  ],
+  "pass_reason": "Overhead of a capsized hull with the response boat, people barely visible; capsized-hull story already queued and QA flagged it as interchangeable"
 }

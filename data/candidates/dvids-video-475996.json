@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-475996",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:14:36Z",
   "duration": 261.27,
   "source_file": {
@@ -85,5 +85,6 @@
     220.65,
     236.7,
     252.75
-  ]
+  ],
+  "pass_reason": "Routine door-cam hoist from a calm boat deck with color noise"
 }
