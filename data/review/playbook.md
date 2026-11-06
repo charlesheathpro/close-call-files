@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-05T15:45:49Z from 55 Shorts older than 48 hours)
+# Playbook (computed 2026-11-06T03:37:20Z from 63 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.43, 5 Shorts)
-- spacecraft or test story (+0.43, 5 Shorts)
-- story: capsized boat, people in the water (+0.4, 1 Shorts)
-- lane: aviation_naval (+0.39, 6 Shorts)
-- story: launch abort test (+0.39, 1 Shorts)
-- story: splashdown recovery (+0.39, 1 Shorts)
-- hook names a child (+0.32, 8 Shorts)
-- music: aviation (+0.25, 4 Shorts)
+- source: nasa (+0.53, 6 Shorts)
+- spacecraft or test story (+0.53, 6 Shorts)
+- lane: aviation_naval (+0.46, 8 Shorts)
+- story: splashdown recovery (+0.45, 1 Shorts)
+- story: launch abort test (+0.44, 1 Shorts)
+- story: capsized boat, people in the water (+0.42, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.41, 1 Shorts)
+- music: aviation (+0.34, 6 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.98, 1 Shorts)
-- source: dvids (-0.42, 44 Shorts)
-- music: hazards (-0.38, 4 Shorts)
-- story: volcano eruption (-0.35, 2 Shorts)
-- story: crevasse rescue on a glacier (-0.33, 1 Shorts)
-- lane: hazards (-0.31, 3 Shorts)
-- story: sinking sailboat, boat crew (-0.23, 1 Shorts)
-- story: dog cliff fall, basket hoist (-0.2, 1 Shorts)
+- story: dog hoist from sinking boat (-0.69, 1 Shorts)
+- source: dvids (-0.48, 51 Shorts)
+- music: hazards (-0.45, 4 Shorts)
+- story: volcano eruption (-0.4, 2 Shorts)
+- story: attic flood hoist (-0.37, 1 Shorts)
+- lane: hazards (-0.36, 3 Shorts)
+- story: sinking sailboat, boat crew (-0.26, 1 Shorts)
+- lane: rescue (-0.25, 52 Shorts)
 
 ## Best Shorts
-- Boat flipped with a 4-year-old aboard: 18790 views, 78% watched
-- Orion splashes down after the Moon: 9429 views, 95% watched
-- Capsule torn off a rocket at Mach 1: 5174 views, 97% watched
-- Five abandon a sinking fishing boat: 7151 views, 67% watched
-- Dog fell off an Oregon sea cliff: 1290 views, 84% watched
+- Orion splashes down after the Moon: 9434 views, 95% watched
+- Capsule torn off a rocket at Mach 1: 5175 views, 97% watched
+- Boat flipped with a 4-year-old aboard: 18824 views, 78% watched
+- Five abandon a sinking fishing boat: 7642 views, 92% watched
+- Moon rocket booster fired on its side: 1543 views, 110% watched
 
 ## Weakest Shorts
-- German shepherd fell 300 feet: 3424 views, 0% watched
-- Sailboat sinking 25 miles off Michigan: 297 views, 60% watched
-- Mauna Loa erupts after 38 years: 146 views, 65% watched
-- Skier fell 60 feet into a crevasse: 1205 views, 0% watched
-- Dog hoisted from a sinking catamaran: 6 views, 0% watched
+- Hurricane Irma seas, a boat and a dog: 1005 views, 40% watched
+- Sailboat sinking 25 miles off Michigan: 297 views, 61% watched
+- Mauna Loa erupts after 38 years: 147 views, 65% watched
+- Trapped in the attic as the flood rose: 284 views, 46% watched
+- Dog hoisted from a sinking catamaran: 8 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261030-02: Handheld cabin footage is shaky and hard to read: 14 to 23s is mostly the basket rail and crew backs, and the roof shot (10 to 13s) is a pixelated digital zoom. Third Harvey Short in two days (29-02 uploaded, 30-01 and 30-03 queued).
