@@ -1,15 +1,22 @@
 {
-  "at": "2026-11-06T00:15:00Z",
+  "at": "2026-11-06T08:47:31Z",
   "healthy": false,
-  "numbers": {"dropped": 34, "uploaded": 78, "passed": 0, "rejected": 1, "needs_qa": 0, "needs_build": 0, "build_failed": 7, "scheduled_36h": 2},
-  "problems": [
-    "ElevenLabs quota still exhausted (6 credits left of 208835): all 7 builds since 12:52Z failed with 401 quota_exceeded (ccf-20261105-20, -21, -30, -31, -32, -33, -34). Needs Charles: top up or wait for the quota reset. No new Short can build until then.",
-    "thin queue: scheduled 36h + passed = 2 (target 15). Only 2 Shorts remain scheduled; the channel goes quiet after them."
+  "numbers": {
+    "dropped": 37,
+    "uploaded": 82,
+    "rejected": 1,
+    "passed": 2,
+    "scheduled_36h": 4
+  },
+  "found": [
+    "buffer thin: scheduled+passed well under 15, pipeline under 25",
+    "build run hung 18 min in apt install ffmpeg",
+    "archive harvest died on a mid-run DVIDS 403"
   ],
-  "fixed": [],
-  "not_done": [
-    "No editor pass: 7 specs are already waiting on the voice quota, and new specs would fail the same way.",
-    "Did not switch the voice engine, since that changes the channel voice and is Charles's call.",
-    "After quota is restored: list ccf-20261105-20, -21, -30, -31, -32, -33, -34 in triggers/build-ids and push date > triggers/build."
+  "fixed": [
+    "QA'd all 9 waiting Shorts: 6 passed (2 after QA fixes), 3 dropped",
+    "cancelled hung build and restarted it",
+    "harvest.py now retries a DVIDS 403 with backoff; archive harvest restarted",
+    "editor pass: 10 more candidates reviewed, none clear the viral bar (DVIDS rescue pool exhausted)"
   ]
 }
