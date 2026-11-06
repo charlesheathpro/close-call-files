@@ -1,9 +1,11 @@
 {
  "short_id": "ccf-20261106-31",
- "revision": 1,
+ "revision": 2,
  "verdict": "pass",
- "at": "2026-11-06T17:11:05Z",
+ "at": "2026-11-06T17:29:24Z",
  "score": 8,
- "notes": "A jet sitting in the lagoon with people standing on the wing is an instant stop, and the inflatable shuttling passengers off it is shown, not told. Shaky handheld in places (render 18 to 21 s) but nothing contradicts the release, and it is unlike anything else in the queue.",
- "fixes": []
+ "notes": "Opens on the wing of the sinking airliner with people wading out, Air Niugini livery in frame; divers load passengers into the inflatable while the jet settles. All facts match the DVIDS release and Navy news story; build checks pass.",
+ "fixes": [
+  "rev 2: 'Local boats came out to help' replaced with 'They were helping local authorities', which the release supports"
+ ]
 }
