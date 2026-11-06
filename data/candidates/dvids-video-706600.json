@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:706600",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard Responds to Conception Boat Fire Near Santa Cruz Island",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew responds to the vessel Conception boat fire Sept. 2, 2019, off Santa Cruz Santa Barbara, California. The Coast Guard and partner agencies responded to the fire in the early morning of September 2 and searched approximately 160 square miles over the next 23 hours. (U.S. Coast Guard video)",
+  "keywords": "Sector Los Angeles, Conception, search area, D11, search pattern, commercial dive boat, Coast Guard, SAR, search and rescue, California, rescue, search, USCG, CA",
+  "date": "2019-09-02T00:00:00-04:00",
+  "date_published": "2019-09-03T15:38:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190903-G-G0211-1002",
+  "location": {
+    "city": "Santa Cruz Island",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/706600/coast-guard-responds-conception-boat-fire-near-santa-cruz-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-706600",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:42:04Z",
+  "duration": 65.8,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107181586/DOD_107181586-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 925,
+    "size": 7698937
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      65.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-706600.jpg",
+  "sheet_times": [
+    2.04,
+    6.12,
+    10.2,
+    14.28,
+    18.37,
+    22.45,
+    26.53,
+    30.61,
+    34.69,
+    38.77,
+    42.85,
+    46.93,
+    51.01,
+    55.1,
+    59.18,
+    63.26
+  ]
+}

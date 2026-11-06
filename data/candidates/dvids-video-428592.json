@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:428592",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Texas Army National Guard Aircrews Battle Wildfire",
+  "description": "B-roll footage of Texas Army National Guard UH-60 Blackhawks and CH-47 Chinooks helping to fight wildfires threatening homes and property near Bastrop, Texas, Oct. 15, 2015. (U.S. Army National Guard video by Mr. John Thibodeau).",
+  "keywords": "Texas Army National Guard, Wildfire, Texas wildfires, Bastrop, Hidden Pines Wildfire, Texas Wildfire",
+  "date": "2015-10-15T00:00:00-04:00",
+  "date_published": "2015-10-15T16:11:42-04:00",
+  "branch": "Joint",
+  "unit_name": "Texas Military Department",
+  "credit": "John Thibodeau",
+  "category": "B-Roll",
+  "virin": "151015-Z-XX999-001",
+  "location": {
+    "city": "Bastrop",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/428592/texas-army-national-guard-aircrews-battle-wildfire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-428592",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:41:07Z",
+  "duration": 172.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102806700/DOD_102806700.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9131,
+    "size": 199875308
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    78.75,
+    110.04,
+    160.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-428592.jpg",
+  "sheet_times": [
+    9.28,
+    19.78,
+    30.28,
+    40.79,
+    51.29,
+    61.79,
+    72.29,
+    82.8,
+    93.3,
+    103.8,
+    114.31,
+    124.81,
+    135.31,
+    145.81,
+    156.32,
+    166.82
+  ]
+}

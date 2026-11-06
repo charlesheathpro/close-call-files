@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:68219",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coos Bay Explosion Response",
+  "description": "B-roll of a U.S. Coast Guard vessel spraying a boat with water in attempting to fight a fire on the boat.",
+  "keywords": null,
+  "date": "2009-09-09T00:00:00-04:00",
+  "date_published": "2009-09-09T13:06:08-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/68219/coos-bay-explosion-response",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-68219",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:42:23Z",
+  "duration": 115.85,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0909/DOD_100052333/DOD_100052333.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    78.55,
+    106.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-68219.jpg",
+  "sheet_times": [
+    3.6,
+    10.81,
+    18.02,
+    25.23,
+    32.44,
+    39.65,
+    46.86,
+    54.07,
+    61.28,
+    68.49,
+    75.7,
+    82.91,
+    90.12,
+    97.33,
+    104.54,
+    111.74
+  ]
+}

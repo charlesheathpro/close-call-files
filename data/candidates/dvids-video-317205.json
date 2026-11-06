@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317205",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Boat fire",
+  "description": "PORTSMOUTH, Va. - Shown is b-roll of boaters sitting on the bow of their anchored vessel; a good Samaritan assisting in transferring the boaters to his vessel the Janie B; crews responding from Ponzer Volunteer Fire and Rescue from Belhaven, N.C. and Bath Fire Department; and a crew from Coast Guard Station Hobucken, N.C., aboard a 25-foot Response Boat - Small responding to a report of a boat fire in the Pungo River near Belhaven, N.C., Sept. 4, 2011. The boaters were transferred safely to shore. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-09-04T00:00:00-04:00",
+  "date_published": "2013-12-21T14:53:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110904-G-NO411-001",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317205/boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317205",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:40:17Z",
+  "duration": 59.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062114/DOD_101062114.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 72074244
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    53.95
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317205.jpg",
+  "sheet_times": [
+    1.83,
+    5.49,
+    9.15,
+    12.81,
+    16.47,
+    20.13,
+    23.79,
+    27.46,
+    31.12,
+    34.78,
+    38.44,
+    42.1,
+    45.76,
+    49.42,
+    53.08,
+    56.74
+  ]
+}
