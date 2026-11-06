@@ -1,7 +1,504 @@
 {
   "short_id": "ccf-20261106-32",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-06T17:08:45Z",
-  "error": "line 1: shots are 2.4, 2.3s even after extending, but the line needs 5.3s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-06T17:13:08Z",
+  "duration": 27.69,
+  "source_resolution": "640x480",
+  "timeline": [
+    {
+      "text": "This gambling ship lost power in heavy seas off Florida.",
+      "start": 0.05,
+      "end": 3.61,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "gambling",
+          "s": 0.37,
+          "e": 0.77
+        },
+        {
+          "w": "ship",
+          "s": 0.85,
+          "e": 1.09
+        },
+        {
+          "w": "lost",
+          "s": 1.25,
+          "e": 1.41
+        },
+        {
+          "w": "power",
+          "s": 1.49,
+          "e": 1.81
+        },
+        {
+          "w": "in",
+          "s": 1.89,
+          "e": 1.97
+        },
+        {
+          "w": "heavy",
+          "s": 2.05,
+          "e": 2.29
+        },
+        {
+          "w": "seas",
+          "s": 2.37,
+          "e": 2.61
+        },
+        {
+          "w": "off",
+          "s": 2.69,
+          "e": 2.85
+        },
+        {
+          "w": "Florida.",
+          "s": 2.93,
+          "e": 3.61
+        }
+      ]
+    },
+    {
+      "text": "Another boat took it in tow, but the line parted during the night.",
+      "start": 3.89,
+      "end": 7.49,
+      "words": [
+        {
+          "w": "Another",
+          "s": 3.89,
+          "e": 4.21
+        },
+        {
+          "w": "boat",
+          "s": 4.29,
+          "e": 4.53
+        },
+        {
+          "w": "took",
+          "s": 4.61,
+          "e": 4.69
+        },
+        {
+          "w": "it",
+          "s": 4.77,
+          "e": 4.85
+        },
+        {
+          "w": "in",
+          "s": 4.85,
+          "e": 4.93
+        },
+        {
+          "w": "tow,",
+          "s": 5.01,
+          "e": 5.65
+        },
+        {
+          "w": "but",
+          "s": 5.73,
+          "e": 5.81
+        },
+        {
+          "w": "the",
+          "s": 5.89,
+          "e": 5.97
+        },
+        {
+          "w": "line",
+          "s": 6.05,
+          "e": 6.29
+        },
+        {
+          "w": "parted",
+          "s": 6.37,
+          "e": 6.77
+        },
+        {
+          "w": "during",
+          "s": 6.89,
+          "e": 7.01
+        },
+        {
+          "w": "the",
+          "s": 7.05,
+          "e": 7.13
+        },
+        {
+          "w": "night.",
+          "s": 7.17,
+          "e": 7.49
+        }
+      ]
+    },
+    {
+      "text": "The next day, a Coast Guard helicopter from Savannah came for the five men aboard.",
+      "start": 7.97,
+      "end": 12.37,
+      "words": [
+        {
+          "w": "The",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "next",
+          "s": 8.13,
+          "e": 8.37
+        },
+        {
+          "w": "day,",
+          "s": 8.45,
+          "e": 8.85
+        },
+        {
+          "w": "a",
+          "s": 8.93,
+          "e": 9.01
+        },
+        {
+          "w": "Coast",
+          "s": 9.05,
+          "e": 9.25
+        },
+        {
+          "w": "Guard",
+          "s": 9.33,
+          "e": 9.49
+        },
+        {
+          "w": "helicopter",
+          "s": 9.57,
+          "e": 10.13
+        },
+        {
+          "w": "from",
+          "s": 10.21,
+          "e": 10.29
+        },
+        {
+          "w": "Savannah",
+          "s": 10.37,
+          "e": 10.93
+        },
+        {
+          "w": "came",
+          "s": 11.01,
+          "e": 11.17
+        },
+        {
+          "w": "for",
+          "s": 11.25,
+          "e": 11.33
+        },
+        {
+          "w": "the",
+          "s": 11.37,
+          "e": 11.45
+        },
+        {
+          "w": "five",
+          "s": 11.49,
+          "e": 11.73
+        },
+        {
+          "w": "men",
+          "s": 11.81,
+          "e": 11.89
+        },
+        {
+          "w": "aboard.",
+          "s": 11.97,
+          "e": 12.37
+        }
+      ]
+    },
+    {
+      "text": "The flight mechanic runs the hoist and talks the pilot into place, because the pilot can't see below.",
+      "start": 12.93,
+      "end": 18.45,
+      "words": [
+        {
+          "w": "The",
+          "s": 12.93,
+          "e": 13.01
+        },
+        {
+          "w": "flight",
+          "s": 13.09,
+          "e": 13.33
+        },
+        {
+          "w": "mechanic",
+          "s": 13.41,
+          "e": 13.89
+        },
+        {
+          "w": "runs",
+          "s": 14.05,
+          "e": 14.21
+        },
+        {
+          "w": "the",
+          "s": 14.25,
+          "e": 14.33
+        },
+        {
+          "w": "hoist",
+          "s": 14.37,
+          "e": 14.77
+        },
+        {
+          "w": "and",
+          "s": 14.85,
+          "e": 15.01
+        },
+        {
+          "w": "talks",
+          "s": 15.13,
+          "e": 15.33
+        },
+        {
+          "w": "the",
+          "s": 15.37,
+          "e": 15.45
+        },
+        {
+          "w": "pilot",
+          "s": 15.49,
+          "e": 15.81
+        },
+        {
+          "w": "into",
+          "s": 15.93,
+          "e": 16.05
+        },
+        {
+          "w": "place,",
+          "s": 16.25,
+          "e": 16.77
+        },
+        {
+          "w": "because",
+          "s": 16.89,
+          "e": 17.01
+        },
+        {
+          "w": "the",
+          "s": 17.05,
+          "e": 17.13
+        },
+        {
+          "w": "pilot",
+          "s": 17.17,
+          "e": 17.49
+        },
+        {
+          "w": "can't",
+          "s": 17.57,
+          "e": 17.77
+        },
+        {
+          "w": "see",
+          "s": 17.81,
+          "e": 17.97
+        },
+        {
+          "w": "below.",
+          "s": 18.17,
+          "e": 18.45
+        }
+      ]
+    },
+    {
+      "text": "One by one, they rode the basket up off the rolling deck.",
+      "start": 19.17,
+      "end": 22.45,
+      "words": [
+        {
+          "w": "One",
+          "s": 19.17,
+          "e": 19.33
+        },
+        {
+          "w": "by",
+          "s": 19.41,
+          "e": 19.65
+        },
+        {
+          "w": "one,",
+          "s": 19.73,
+          "e": 20.13
+        },
+        {
+          "w": "they",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "rode",
+          "s": 20.37,
+          "e": 20.53
+        },
+        {
+          "w": "the",
+          "s": 20.61,
+          "e": 20.69
+        },
+        {
+          "w": "basket",
+          "s": 20.69,
+          "e": 21.17
+        },
+        {
+          "w": "up",
+          "s": 21.25,
+          "e": 21.41
+        },
+        {
+          "w": "off",
+          "s": 21.49,
+          "e": 21.57
+        },
+        {
+          "w": "the",
+          "s": 21.65,
+          "e": 21.73
+        },
+        {
+          "w": "rolling",
+          "s": 21.89,
+          "e": 22.05
+        },
+        {
+          "w": "deck.",
+          "s": 22.13,
+          "e": 22.45
+        }
+      ]
+    },
+    {
+      "text": "The Savannah helicopter crew rescued all five men from the Sun Cruz 9.",
+      "start": 22.93,
+      "end": 27.49,
+      "words": [
+        {
+          "w": "The",
+          "s": 22.93,
+          "e": 23.01
+        },
+        {
+          "w": "Savannah",
+          "s": 23.09,
+          "e": 23.49
+        },
+        {
+          "w": "helicopter",
+          "s": 23.57,
+          "e": 24.13
+        },
+        {
+          "w": "crew",
+          "s": 24.21,
+          "e": 24.45
+        },
+        {
+          "w": "rescued",
+          "s": 24.53,
+          "e": 25.01
+        },
+        {
+          "w": "all",
+          "s": 25.13,
+          "e": 25.25
+        },
+        {
+          "w": "five",
+          "s": 25.33,
+          "e": 25.57
+        },
+        {
+          "w": "men",
+          "s": 25.73,
+          "e": 25.89
+        },
+        {
+          "w": "from",
+          "s": 25.97,
+          "e": 26.13
+        },
+        {
+          "w": "the",
+          "s": 26.17,
+          "e": 26.25
+        },
+        {
+          "w": "Sun",
+          "s": 26.29,
+          "e": 26.45
+        },
+        {
+          "w": "Cruz",
+          "s": 26.53,
+          "e": 26.77
+        },
+        {
+          "w": "9.",
+          "s": 26.85,
+          "e": 27.49
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 27.7
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.21
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261106-32/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261106-32-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261106-32/ccf-20261106-32.mp4"
 }
