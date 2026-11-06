@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:318420",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard First Rescue Flood Footage",
+  "description": "Coast Guard first rescue from flood.",
+  "keywords": "Coast Guard, rescue, flood",
+  "date": "2013-12-28T00:00:00-05:00",
+  "date_published": "2013-12-28T16:17:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/318420/coast-guard-first-rescue-flood-footage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-318420",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:29:34Z",
+  "duration": 120.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101064684/DOD_101064684-640x480-2522k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2522,
+    "size": 40054297
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 116.38,
+      "e": 118.38,
+      "text": "That's bad, that's good."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-318420.jpg",
+  "sheet_times": [
+    3.75,
+    11.26,
+    18.77,
+    26.28,
+    33.78,
+    41.29,
+    48.8,
+    56.31,
+    63.81,
+    71.32,
+    78.83,
+    86.34,
+    93.84,
+    101.35,
+    108.86,
+    116.36
+  ]
+}

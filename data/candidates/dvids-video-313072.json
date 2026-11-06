@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:313072",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Washington state flood rescue",
+  "description": "SEATTLE - Coast Guard helicopter crews conducted rescue missions for people in need of medevac in remote or unaccessible locations in Washington and Oregon today.",
+  "keywords": "CGVI",
+  "date": "2007-12-04T23:34:38-05:00",
+  "date_published": "2013-12-16T17:39:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Washington",
+    "state": "District of Columbia",
+    "country": "United States",
+    "state_abbreviation": "DC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313072/washington-state-flood-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313072",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:29:15Z",
+  "duration": 130.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053361/DOD_101053361-720x480-1601k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1601,
+    "size": 27724215
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    94.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      129.5
+    ],
+    "silence_ends": [
+      3.7,
+      130.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313072.jpg",
+  "sheet_times": [
+    4.05,
+    12.15,
+    20.25,
+    28.36,
+    36.46,
+    44.56,
+    52.66,
+    60.76,
+    68.86,
+    76.96,
+    85.07,
+    93.17,
+    101.27,
+    109.37,
+    117.47,
+    125.57
+  ]
+}

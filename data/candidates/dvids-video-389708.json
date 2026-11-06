@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:389708",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "Coast Guard Rescues 5 People from Sinking Sail Boat off the Coast of Monterey",
+  "description": "ALAMEDA, Calif. - The Coast Guard rescued five people from a sinking 65-foot sailing vessel approximately 120 miles off the Monterey coast Jan. 31, 2015. U.S. Coast Guard video.",
+  "keywords": "sail, Air Station, sinking, Coast Guard rescue, Monterey Bay, search and rescue, airlift, rescue, San Francisco, vessel",
+  "date": "2015-01-31T00:00:00-05:00",
+  "date_published": "2015-02-02T17:34:08-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Adam Stanton",
+  "category": "B-Roll",
+  "virin": "150131-G-XX113-001",
+  "location": {
+    "city": "Monterey Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/389708/coast-guard-rescues-5-people-sinking-sail-boat-off-coast-monterey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 18.6399,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-389708",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:26:53Z",
+  "duration": 133.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1502/DOD_102211949/DOD_102211949.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8368,
+    "size": 139387768
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    16.88,
+    18.65,
+    53.09,
+    54.85,
+    88.05,
+    88.99,
+    127.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      133.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-389708.jpg",
+  "sheet_times": [
+    22.2,
+    29.32,
+    36.45,
+    43.57,
+    50.69,
+    57.81,
+    64.94,
+    72.06,
+    79.18,
+    86.3,
+    93.43,
+    100.55,
+    107.67,
+    114.79,
+    121.92,
+    129.04
+  ]
+}

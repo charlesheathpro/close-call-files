@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:314071",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Red River Flood Rescue - Abercrombie ND",
+  "description": "U.S. Coast Guard HH-6575 \"Dolphin\" rescues six during the Red River flood in Fargo, N.D., March 25, 2009. The crew, Lt. David Ober, Lt. Brendan Evans, Petty Officer 2nd Class Kevin Davis and Petty Officer 3rd Class Christopher Wheeler, was deployed March 24 from Coast Guard Air Station Traverse City, Mich., in response to the Red River flood.",
+  "keywords": "CGVI",
+  "date": "2009-03-25T18:59:42-04:00",
+  "date_published": "2013-12-17T05:46:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/314071/red-river-flood-rescue-abercrombie-nd",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-314071",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:29:51Z",
+  "duration": 106.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054744/DOD_101054744-640x480-1143k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1143,
+    "size": 16784637
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.9,
+      "e": 84.62,
+      "text": "Just to think of, is that Air Force got fuel that was on."
+    },
+    {
+      "s": 84.62,
+      "e": 88.62,
+      "text": "You can leave him in the basket if you want and do a bare hook recovery of the swimmer."
+    },
+    {
+      "s": 88.62,
+      "e": 93.75,
+      "text": "I don't know if that hooks in your choice."
+    },
+    {
+      "s": 93.75,
+      "e": 106.7,
+      "text": "Would you bare hook, Carter's forward air taxi here?"
+    }
+  ],
+  "scene_cuts": [
+    3.74
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314071.jpg",
+  "sheet_times": [
+    3.32,
+    9.97,
+    16.62,
+    23.27,
+    29.91,
+    36.56,
+    43.21,
+    49.86,
+    56.5,
+    63.15,
+    69.8,
+    76.44,
+    83.09,
+    89.74,
+    96.39,
+    103.03
+  ]
+}

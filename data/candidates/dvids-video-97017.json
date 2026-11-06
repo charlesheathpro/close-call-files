@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:97017",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard Rescues 2 After Vessel Capsizes Crossing Tillamook Bar",
+  "description": "Coast Guard Station Tillamook Bay, Ore., rescues two crewmembers in the water after their 56-foot fishing vessel, Double Eagle, capsized while attempting to cross the Tillamook bar entrance, Oct. 3, 2010. Captured on video are the vessel capsizing and the subsequent recovery of one of the two crewman rescued. U.S. Coast Guard Video by Petty Officer 1st Class Donald Lanham.",
+  "keywords": "Tillamook Bay, 47-foot Motor Lifeboat, Coast Guard, rescue",
+  "date": "2010-10-03T00:00:00-04:00",
+  "date_published": "2010-10-04T17:12:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101003-G-0000X-001",
+  "location": {
+    "city": "Tillamook",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/97017/coast-guard-rescues-2-after-vessel-capsizes-crossing-tillamook-bar",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-97017",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:28:04Z",
+  "duration": 75.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1010/DOD_100088380/DOD_100088380.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    70.57
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      9.0
+    ],
+    "silence_ends": [
+      4.0,
+      75.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-97017.jpg",
+  "sheet_times": [
+    6.22,
+    10.66,
+    15.11,
+    19.55,
+    23.99,
+    28.43,
+    32.87,
+    37.31,
+    41.75,
+    46.19,
+    50.63,
+    55.07,
+    59.51,
+    63.95,
+    68.39,
+    72.83
+  ]
+}

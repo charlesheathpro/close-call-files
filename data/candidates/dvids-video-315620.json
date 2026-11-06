@@ -1,0 +1,96 @@
+{
+  "asset_id": "video:315620",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "cliff rescue",
+  "title": "Coast Guard rescues kayaker stranded on Trinidad Head",
+  "description": "MCKINLEYVILLE, Calif. - A Coast Guard MH-65C Dolphin helicopter crew from Air Station Humboldt Bay rescues a kayaker stranded on Trinidad Head July 4, 2010. The man was kayaking with his wife when his boat overturned, and he could not right himself.  He elected to separate from the kayak while submerged and swam towards the Trinidad Head cliffs of where he was rescued. U.S. Coast Guard video by Air Station Humboldt Bay Dolphin helicopter crew",
+  "keywords": "CGVI",
+  "date": "2010-07-04T17:27:01-04:00",
+  "date_published": "2013-12-19T12:09:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "McKinleyville",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315620/coast-guard-rescues-kayaker-stranded-trinidad-head",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315620",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:28:29Z",
+  "duration": 100.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058592/DOD_101058592.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3072,
+    "size": 42651810
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 64.77,
+      "e": 74.71,
+      "text": "by 9 o'clock, you're just looking for a driver just below the cabin."
+    },
+    {
+      "s": 74.71,
+      "e": 80.26,
+      "text": "So it's a risk of a driver."
+    },
+    {
+      "s": 80.26,
+      "e": 84.26,
+      "text": "Well, I bet you, that's an actual aid. If he's good to go, the air station will take him there."
+    },
+    {
+      "s": 84.26,
+      "e": 87.26,
+      "text": "Oh, there's an other day or the hospital. Okay."
+    }
+  ],
+  "scene_cuts": [
+    10.01,
+    90.59
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      90.7
+    ],
+    "silence_ends": [
+      10.1,
+      100.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315620.jpg",
+  "sheet_times": [
+    3.13,
+    9.4,
+    15.66,
+    21.92,
+    28.19,
+    34.45,
+    40.72,
+    46.98,
+    53.25,
+    59.51,
+    65.77,
+    72.04,
+    78.3,
+    84.57,
+    90.83,
+    97.1
+  ]
+}
