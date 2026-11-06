@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-76377",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:32:46Z",
   "duration": 363.86,
   "source_file": {
@@ -445,5 +445,6 @@
     307.21,
     329.67,
     352.13
-  ]
+  ],
+  "pass_reason": "fogged, washed-out door-cam for the whole clip (murky source)"
 }
