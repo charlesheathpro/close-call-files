@@ -25,6 +25,10 @@ API = "https://api.dvidshub.net"
 SEEN = DATA / "seen.json"
 
 
+class DvidsBlocked(Exception):
+    """DVIDS keeps answering 403; skip the rest of DVIDS this run instead of losing the whole harvest."""
+
+
 def api_get(path, params):
     key = os.environ.get("DVIDS_API_KEY")
     if not key:
@@ -45,7 +49,7 @@ def api_get(path, params):
             time.sleep(30 * (attempt + 1))
             continue
         if r.status_code == 403:
-            sys.exit("DVIDS returned 403: the API key is missing, invalid, or tied to another origin")
+            raise DvidsBlocked("DVIDS returned 403: the API key is missing, invalid, or tied to another origin")
         r.raise_for_status()
         return r.json()
     r.raise_for_status()
@@ -406,9 +410,14 @@ def main():
         day = int(now_utc().strftime("%j"))
         n = min(cfg.get("daily_drama_queries", 12), len(dq))
         queries = [(dq[(day * n + k) % len(dq)], None, 2) for k in range(n)] + queries
+    dvids_blocked = False
     for q, q_since, pages in queries:
         try:
             results = search(q, q_since, cfg, max_pages=pages)
+        except DvidsBlocked as e:
+            print(f"{e}; skipping the remaining DVIDS searches")
+            dvids_blocked = True
+            break
         except Exception as e:  # keep going on one bad query
             print(f"query {q['q']!r} failed: {e}")
             continue
@@ -459,9 +468,17 @@ def main():
         if budget and time.time() - t0 > budget:
             print("time budget used up; the rest waits for the next run")
             break
+        is_dvids = not aid.startswith(("nasa:", "commons:"))
+        if dvids_blocked and is_dvids:
+            continue  # left unseen, retried next run
         try:
             cand, why = process(aid, lane, q)
             streak = 0
+        except DvidsBlocked as e:
+            print(f"{e}; skipping the remaining DVIDS assets, NASA and Commons continue")
+            dvids_blocked = True
+            errors += 1
+            continue
         except Exception as e:
             errors += 1
             streak += 1
@@ -484,7 +501,8 @@ def main():
                                                    "unseen_found": len(found), "partial": True})
             subprocess.run(["bash", "scripts/commit.sh", f"Harvest {now_utc():%Y-%m-%d} (partial, {done})"], check=False)
     prune()
-    save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors, "unseen_found": len(found)})
+    save_json(DATA / "harvest_last.json", {"at": iso(), "new_candidates": done, "errors": errors, "unseen_found": len(found),
+                                           **({"dvids_blocked": True} if dvids_blocked else {})})
 
 
 if __name__ == "__main__":
