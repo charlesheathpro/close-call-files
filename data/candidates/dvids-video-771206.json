@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "rescue swimmer",
   "title": "Coast Guard rescues 2 adults, child from stranded boat in marsh near Fremont",
-  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew rescues two adults and a child who were stranded in a marsh near Fremont, California \r\nOct. 28, 2020. The aircrew transported the three people to San Francisco International Airport with no reported medical concerns. (U.S. Coast Guard courtesy video/released)",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew rescues two adults and a child who were stranded in a marsh near Fremont, California\u00a0\r\nOct. 28, 2020. The aircrew transported the three people to San Francisco International Airport with no reported medical concerns. (U.S. Coast Guard courtesy video/released)",
   "keywords": "marsh, swimmer, helicopter, California, rescue, San Francisco, dolphin",
   "date": "2020-10-28T00:00:00-04:00",
   "date_published": "2020-10-29T23:41:10-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-771206",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:31:50Z",
   "duration": 148.69,
   "source_file": {
@@ -65,5 +65,6 @@
     125.04,
     134.3,
     143.56
-  ]
+  ],
+  "pass_reason": "Night FLIR thermal with HUD text throughout; murky, people hard to read, calm marsh"
 }
