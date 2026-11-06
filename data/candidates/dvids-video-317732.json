@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:317732",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Rescue 4 from sinking boat",
+  "description": "SOUTH PADRE ISLAND, Texas - Four people were rescued by a Coast Guard boat crew about 12 miles east of Port Isabel, Sunday afternoon, Sept 2, 2012.\n\nA Coast Guard Station South Padre Island 33-foot Law Enforcement Special Purpose Craft and crew located and rescued them from their sinking 24-foot Sea Ray, which lost power amidst four to five-foot seas. U.S. Coast Guard video",
+  "keywords": "CGVI",
+  "date": "2012-09-03T11:46:31-04:00",
+  "date_published": "2013-12-22T17:32:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "South Padre Island",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317732/rescue-4-sinking-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317732",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:50:40Z",
+  "duration": 24.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062699/DOD_101062699.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 4645,
+    "size": 20812409
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.26,
+      "e": 8.26,
+      "text": "And that's probably the boss."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.0,
+      15.3,
+      17.8,
+      21.7
+    ],
+    "silence_ends": [
+      6.6,
+      14.8,
+      17.8,
+      21.7,
+      24.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317732.jpg",
+  "sheet_times": [
+    0.75,
+    2.25,
+    3.75,
+    5.24,
+    6.74,
+    8.24,
+    9.74,
+    11.24,
+    12.74,
+    14.23,
+    15.73,
+    17.23,
+    18.73,
+    20.23,
+    21.73,
+    23.22
+  ]
+}

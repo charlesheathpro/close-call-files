@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:317746",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "MH-60-overturned-vessel-rescue",
+  "description": "CLEARWATER, Fla. - Three people were rescued by a Coast Guard MH-60 Jayhawk helicopter crew seven miles west of Tarpon Spring, Fla., Sept. 14, 2012. The three men were rescued after their boat took on water and capsized. U.S. Coast Guard video by Petty Officer 3rd Class Tara Molle.",
+  "keywords": "CGVI",
+  "date": "2012-09-14T00:00:00-04:00",
+  "date_published": "2013-12-22T17:40:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Tara Molle",
+  "category": "B-Roll",
+  "virin": "120914-G-XD768-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317746/mh-60-overturned-vessel-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317746",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:50:16Z",
+  "duration": 79.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062713/DOD_101062713-640x480-633k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 633,
+    "size": 7161415
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      74.1
+    ],
+    "silence_ends": [
+      5.1,
+      79.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317746.jpg",
+  "sheet_times": [
+    2.46,
+    7.37,
+    12.29,
+    17.21,
+    22.12,
+    27.04,
+    31.95,
+    36.87,
+    41.79,
+    46.7,
+    51.62,
+    56.53,
+    61.45,
+    66.37,
+    71.28,
+    76.2
+  ]
+}

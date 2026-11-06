@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:352545",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Two Rescued from Boat Fire",
+  "description": "U.S. Navy and Coast Guard crews, as well as other boaters in the area, worked together to rescue two people from a burning boat approximately 17 miles west of Point Loma. The fire was extinguished and the two people were transported safely back to San Diego. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "boaters, Coast Guard, navy, rescue, San Diego",
+  "date": "2014-07-30T00:00:00-04:00",
+  "date_published": "2014-07-30T13:08:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": "140729-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/352545/two-rescued-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-352545",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:51:13Z",
+  "duration": 71.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101841204/DOD_101841204.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8439,
+    "size": 75768392
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    65.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      71.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-352545.jpg",
+  "sheet_times": [
+    6.11,
+    10.31,
+    14.52,
+    18.73,
+    22.93,
+    27.14,
+    31.35,
+    35.55,
+    39.76,
+    43.97,
+    48.17,
+    52.38,
+    56.59,
+    60.79,
+    65.0,
+    69.2
+  ]
+}

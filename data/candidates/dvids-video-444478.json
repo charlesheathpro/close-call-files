@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:444478",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Crew of Sinking Vessel Rescued in Cuban Waters",
+  "description": "A Coast Guard helicopter rescues one of twelve crewmembers who abandoned ship in Cuban territorial seas Dec. 26, 2015. Two U.S. Coast Guard helicopter crews responded and subsequently rescued all 12 crewmembers from the sinking 120-ft coastal freighter. (U.S. Coast Guard video)",
+  "keywords": "Miami, Rios, Coast Guard, Cuba, Florida",
+  "date": "2015-12-26T00:00:00-05:00",
+  "date_published": "2015-12-28T11:29:48-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Jon-Paul Rios",
+  "category": "B-Roll",
+  "virin": "151226-G-KZ985-982",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/444478/crew-sinking-vessel-rescued-cuban-waters",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-444478",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:51:22Z",
+  "duration": 45.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102969139/DOD_102969139.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8731,
+    "size": 50564526
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      45.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-444478.jpg",
+  "sheet_times": [
+    5.31,
+    7.88,
+    10.45,
+    13.03,
+    15.6,
+    18.17,
+    20.74,
+    23.31,
+    25.89,
+    28.46,
+    31.03,
+    33.6,
+    36.17,
+    38.74,
+    41.32,
+    43.89
+  ]
+}
