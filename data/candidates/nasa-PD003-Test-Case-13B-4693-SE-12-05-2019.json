@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-PD003-Test-Case-13B-4693-SE-12-05-2019",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:50:10Z",
   "duration": 45.1,
   "source_file": {
@@ -63,5 +63,6 @@
     37.63,
     40.42,
     43.21
-  ]
+  ],
+  "pass_reason": "same tank-to-failure story as ccf-20261103-05 (LOX tank) three days ago"
 }
