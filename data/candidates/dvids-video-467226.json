@@ -1,0 +1,150 @@
+{
+  "asset_id": "video:467226",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Wilmette Harbor rescues 3 from capsized vessel",
+  "description": "A rescue boat crew from Coast Guard Station Wilmette Harbor, Illinois, rescues three men from a capsized vessel 11 nautical miles east of Lake Forest, Illinois, in Lake Michigan, June 5, 2016. The men were recovered in good health and will salvage the boat at a later date. (U.S. Coast Guard video by Coast Guard Station Wilmette Harbor)",
+  "keywords": "Coast Guard rescue, capsize, Lake Michigan, Wilmette Harbor",
+  "date": "2016-06-05T00:00:00-04:00",
+  "date_published": "2016-06-05T17:11:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 3rd Class Lauren Laughlin",
+  "category": "B-Roll",
+  "virin": "160605-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Illinois",
+    "country": "United States",
+    "state_abbreviation": "IL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/467226/wilmette-harbor-rescues-3-capsized-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-467226",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:22:50Z",
+  "duration": 80.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1606/DOD_103366128/DOD_103366128.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7692,
+    "size": 77895219
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.4,
+      "e": 6.04,
+      "text": "I see coolers over there."
+    },
+    {
+      "s": 6.04,
+      "e": 7.04,
+      "text": "Can we go back in?"
+    },
+    {
+      "s": 7.04,
+      "e": 8.04,
+      "text": "Yeah, go ahead."
+    },
+    {
+      "s": 8.04,
+      "e": 11.54,
+      "text": "You're good now."
+    },
+    {
+      "s": 11.54,
+      "e": 17.26,
+      "text": "Okay, alright, heads up."
+    },
+    {
+      "s": 17.26,
+      "e": 26.11,
+      "text": "Go ahead and grab under that life ring."
+    },
+    {
+      "s": 26.11,
+      "e": 28.55,
+      "text": "Hold on tight."
+    },
+    {
+      "s": 28.55,
+      "e": 29.55,
+      "text": "Okay, hold on."
+    },
+    {
+      "s": 29.55,
+      "e": 42.55,
+      "text": "Come on, come on."
+    },
+    {
+      "s": 42.55,
+      "e": 43.55,
+      "text": "Pull him up."
+    },
+    {
+      "s": 43.55,
+      "e": 54.22,
+      "text": "Alright, circle right and hold on to that."
+    },
+    {
+      "s": 54.22,
+      "e": 56.5,
+      "text": "Keep it back to us and it will be easier for us to pull you up."
+    },
+    {
+      "s": 56.5,
+      "e": 60.66,
+      "text": "Got him?"
+    },
+    {
+      "s": 60.66,
+      "e": 62.66,
+      "text": "Hold on to that life ring."
+    }
+  ],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    8.04,
+    15.28,
+    47.11,
+    61.56
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      75.1
+    ],
+    "silence_ends": [
+      4.0,
+      80.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-467226.jpg",
+  "sheet_times": [
+    6.39,
+    11.11,
+    15.83,
+    20.55,
+    25.27,
+    29.99,
+    34.71,
+    39.43,
+    44.16,
+    48.88,
+    53.6,
+    58.32,
+    63.04,
+    67.76,
+    72.48,
+    77.2
+  ]
+}

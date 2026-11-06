@@ -1,0 +1,98 @@
+{
+  "asset_id": "video:337616",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Camp Pendleton wildfire B-roll",
+  "description": "Marines, Sailors, families and civilians evacuate certain portions of Marine Corps Base Camp Pendleton, Calif., as Marines and fire fighters continue to battle wildfires aboard the installation, May 16. (U.S. Marine Corps video by Lance Cpl. Christopher Johns)",
+  "keywords": "MCAS Miramar, 3rd MAW, CalFire, Camp Pendleton Fire, CALFIRE 14, San Diego County Fire, CA Fire, 3MAWPAO, Marines, Marine Corps, aviation, USMC, San Diego",
+  "date": "2014-05-16T00:00:00-04:00",
+  "date_published": "2014-05-17T08:35:50-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Station Miramar",
+  "credit": "Lance Cpl. Christopher Johns",
+  "category": "B-Roll",
+  "virin": "140516-M-OB827-001",
+  "location": {
+    "city": "Marine Corps Base Camp Pendleton",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/337616/camp-pendleton-wildfire-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-337616",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:24:34Z",
+  "duration": 71.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101654150/DOD_101654150.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9222,
+    "size": 85118519
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 49.81,
+      "e": 51.81,
+      "text": "I was going to do a thing with his or anything."
+    },
+    {
+      "s": 51.81,
+      "e": 52.81,
+      "text": "No sorry."
+    },
+    {
+      "s": 52.81,
+      "e": 54.81,
+      "text": "So hopefully I don't have any life stuff."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    14.01,
+    27.09,
+    32.0,
+    35.27,
+    37.7,
+    42.01,
+    49.55,
+    54.55,
+    65.43,
+    66.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-337616.jpg",
+  "sheet_times": [
+    6.1,
+    10.28,
+    14.46,
+    18.65,
+    22.83,
+    27.02,
+    31.2,
+    35.38,
+    39.57,
+    43.75,
+    47.93,
+    52.12,
+    56.3,
+    60.49,
+    64.67,
+    68.85
+  ]
+}

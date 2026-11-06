@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:714777",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "heavy weather",
+  "title": "Coast Guard Air Station Traverse City Helicopter Rescue",
+  "description": "A Coast Guard Air Station Traverse City air crew rescued four people from their vessel during heavy weather on Lake Huron near Rogers City, Michigan, Oct. 5, 2019. There were 40 mph winds and seven to 15-foot swells on scene. (U.S. Coast Guard video)",
+  "keywords": "Coast Guard rescue, MH-60 Jayhawk helicopter, basket hoist, Air Station Traverse City, Lake Huron, helicopter hoist",
+  "date": "2019-10-05T00:00:00-04:00",
+  "date_published": "2019-10-11T15:00:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191005-G-G0109-1001",
+  "location": {
+    "city": "Rogers City",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/714777/coast-guard-air-station-traverse-city-helicopter-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-714777",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:22:21Z",
+  "duration": 406.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107330865/DOD_107330865.mp4",
+    "width": 704,
+    "height": 480,
+    "bitrate": 9603,
+    "size": 488469740
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    24.32,
+    105.61,
+    129.13,
+    227.93,
+    264.73,
+    357.16
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      406.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-714777.jpg",
+  "sheet_times": [
+    12.69,
+    38.06,
+    63.44,
+    88.81,
+    114.18,
+    139.56,
+    164.93,
+    190.31,
+    215.68,
+    241.05,
+    266.43,
+    291.8,
+    317.18,
+    342.55,
+    367.92,
+    393.3
+  ]
+}

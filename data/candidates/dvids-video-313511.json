@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:313511",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "pilot rescue",
+  "title": "Distressed boater rescued 140 miles west of San Diego",
+  "description": "SAN DIEGO -- July 16, 2008 -- A Coast Guard helicopter crew hoisted a man from his 34-foot sailing vessel, Dreamweaver, 140 miles west of San Diego today just after 10 a.m. \n\nJames O'Connor, 61, left Catalina Island, Calif., for La Haina, Hawaii, July 9, but after battling seas, vessel problems and exhaustion, radioed the Coast Guard for help. The Sector San Diego Coast Guard command center received the call and dispatched an MH-60 Jayhawk helicopter crew and C-130 aircraft crew to the scene. \n\nThe man told the pilots he had been awake for more than 48 hours and was in danger of falling off the vessel. \n\n\"He did the right thing,\" said Lt. j. g. Amanda Sardone, a pilot on the case. \"His difficult decision to leave his vessel and call us before it turned into a major search-and-rescue case probably saved his own life.\" Coast Guard video by Petty Officer 1st Class Anastasia Devlin.\nVIRIN - 080716-G-3827D-001",
+  "keywords": "CGVI",
+  "date": "2008-07-16T00:00:00-04:00",
+  "date_published": "2013-12-16T22:13:31-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 1st Class Anastasia Devlin",
+  "category": "B-Roll",
+  "virin": "080716-G-3827D-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313511/distressed-boater-rescued-140-miles-west-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.57123,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313511",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:22:33Z",
+  "duration": 83.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053988/DOD_101053988.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4136,
+    "size": 45813322
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.81,
+    29.26,
+    44.81,
+    74.17
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313511.jpg",
+  "sheet_times": [
+    7.01,
+    11.88,
+    16.75,
+    21.63,
+    26.5,
+    31.37,
+    36.24,
+    41.12,
+    45.99,
+    50.86,
+    55.73,
+    60.61,
+    65.48,
+    70.35,
+    75.23,
+    80.1
+  ]
+}

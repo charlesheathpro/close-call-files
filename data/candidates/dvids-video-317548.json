@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:317548",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "AirSta Cape Cod rescues two from overturned vessel",
+  "description": "BOSTON - Coast Guard crews rescued two mariners from a sinking vessel in Nasketucket Bay, four miles southeast of Fairhaven, Mass., April 22, 2012.  Both men  were in good condition. Video by Air Station Cape Cod",
+  "keywords": "CGVI",
+  "date": "2012-04-23T11:28:36-04:00",
+  "date_published": "2013-12-22T13:59:11-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317548/airsta-cape-cod-rescues-two-overturned-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.08942,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317548",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:23:05Z",
+  "duration": 305.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062501/DOD_101062501.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6045,
+    "size": 221690126
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.02,
+    6.09,
+    38.12,
+    92.54,
+    249.4,
+    300.18
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      305.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317548.jpg",
+  "sheet_times": [
+    15.42,
+    34.09,
+    52.76,
+    71.42,
+    90.09,
+    108.75,
+    127.42,
+    146.09,
+    164.75,
+    183.42,
+    202.09,
+    220.75,
+    239.42,
+    258.08,
+    276.75,
+    295.42
+  ]
+}
