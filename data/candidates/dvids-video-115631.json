@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:115631",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "USACE Tuscaloosa Footage After Tornadoes, Part 3",
+  "description": "U.S. Army Corps of Engineers (USACE) footage from Tuscaloosa, Ala., after tornadoes devastated the area recently. Part 3 of 3.",
+  "keywords": "Tuscaloosa, USACOE, tornadoes, alatornado11, tornado11, USACE, Alabama",
+  "date": "2011-05-18T00:00:00-04:00",
+  "date_published": "2011-05-18T20:42:51-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers Headquarters",
+  "credit": "Mary Cochran, Chris Paul",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "country": "United States",
+    "state_abbreviation": "AL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/115631/usace-tuscaloosa-footage-after-tornadoes-part-3",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-115631",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:53:24Z",
+  "duration": 560.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1105/DOD_100176416/DOD_100176416.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.86,
+    76.78,
+    108.88,
+    131.53,
+    151.42,
+    169.44,
+    182.72,
+    190.19,
+    201.2,
+    204.14,
+    212.08,
+    227.96,
+    229.16,
+    267.47,
+    306.64
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      76.3
+    ],
+    "silence_ends": [
+      78.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-115631.jpg",
+  "sheet_times": [
+    17.49,
+    52.46,
+    87.44,
+    122.42,
+    157.39,
+    192.37,
+    227.34,
+    262.32,
+    297.29,
+    332.27,
+    367.25,
+    402.22,
+    437.2,
+    472.17,
+    507.15,
+    542.12
+  ]
+}

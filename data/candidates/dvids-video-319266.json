@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:319266",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Hunter After Skiff Overturns",
+  "description": "The Coast Guard rescued one hunter after a skiff overturned with three people aboard near Westport, Mass.,Tuesday. He was transported to Rhode Island Hospital for further treatment. U.S. Coast Guard video by Coast Guard Air Station Cape Cod, Mass.",
+  "keywords": "Duck, Jayhawk, Hunter, D1, helicopter",
+  "date": "2014-01-07T00:00:00-05:00",
+  "date_published": "2014-01-07T15:49:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "120107-G-GV559-001",
+  "location": {
+    "city": "",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/319266/coast-guard-rescues-hunter-after-skiff-overturns",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-319266",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:55:16Z",
+  "duration": 218.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101071457/DOD_101071457.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9211,
+    "size": 252155166
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    116.22
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      218.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-319266.jpg",
+  "sheet_times": [
+    10.7,
+    24.1,
+    37.5,
+    50.9,
+    64.3,
+    77.7,
+    91.1,
+    104.5,
+    117.9,
+    131.3,
+    144.7,
+    158.1,
+    171.5,
+    184.9,
+    198.3,
+    211.7
+  ]
+}

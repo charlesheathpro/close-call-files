@@ -1,0 +1,106 @@
+{
+  "asset_id": "video:115630",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "USACE Tuscaloosa Footage After Tornadoes, Part 2",
+  "description": "U.S. Army Corps of Engineers (USACE) footage from Tuscaloosa, Ala., after tornadoes devastated the area. Part 2 of 3.",
+  "keywords": "Tuscaloosa, USACOE, tornadoes, alatornado11, tornado11, USACE, Alabama",
+  "date": "2011-05-18T00:00:00-04:00",
+  "date_published": "2011-05-18T20:42:02-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers Headquarters",
+  "credit": "Mary Cochran, Chris Paul",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "country": "United States",
+    "state_abbreviation": "AL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/115630/usace-tuscaloosa-footage-after-tornadoes-part-2",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-115630",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:54:11Z",
+  "duration": 577.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1105/DOD_100176415/DOD_100176415.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 63.83,
+      "text": "Final schedule for tomorrow."
+    }
+  ],
+  "scene_cuts": [
+    18.28,
+    18.32,
+    38.37,
+    48.65,
+    63.86,
+    72.54,
+    148.62,
+    205.1,
+    225.73,
+    259.09,
+    288.59,
+    297.8,
+    320.49,
+    323.39,
+    372.0,
+    389.89,
+    408.88,
+    415.55,
+    421.72,
+    459.93,
+    514.18,
+    532.87,
+    533.33,
+    549.08,
+    577.28
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      133.1,
+      147.6,
+      421.2
+    ],
+    "silence_ends": [
+      135.5,
+      149.9,
+      422.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-115630.jpg",
+  "sheet_times": [
+    18.03,
+    54.1,
+    90.17,
+    126.24,
+    162.31,
+    198.38,
+    234.45,
+    270.52,
+    306.59,
+    342.66,
+    378.73,
+    414.8,
+    450.87,
+    486.93,
+    523.0,
+    559.07
+  ]
+}

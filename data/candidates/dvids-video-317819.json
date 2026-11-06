@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317819",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Rescue from sinking boat off South Padre Island",
+  "description": "A Coast Guard Station South Padre Island, Texas, crew, aboard a 24-foot Special Purpose Craft - Shallow Water, come alongside a man in a sinking jon boat and provide assistance about 4 miles north of Port Isabel. He was taken back to Port Isabel. U.S. Coast Guard video by Air Station Corpus Christi",
+  "keywords": "CGVI",
+  "date": "2012-11-11T15:56:51-05:00",
+  "date_published": "2013-12-22T19:48:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317819/rescue-sinking-boat-off-south-padre-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317819",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:56:26Z",
+  "duration": 33.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062787/DOD_101062787.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 3975,
+    "size": 23166232
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317819.jpg",
+  "sheet_times": [
+    1.04,
+    3.12,
+    5.2,
+    7.28,
+    9.35,
+    11.43,
+    13.51,
+    15.59,
+    17.67,
+    19.75,
+    21.83,
+    23.91,
+    25.99,
+    28.06,
+    30.14,
+    32.22
+  ]
+}

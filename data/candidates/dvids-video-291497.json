@@ -1,0 +1,98 @@
+{
+  "asset_id": "video:291497",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado",
+  "title": "May 20th Tornado - Army Guardsmen Working Security BROLL",
+  "description": "Soldiers from the Headquarters Company, 1st of the 179th Infantry Regiment, 45th Infantry Brigade Combat Team in the Oklahoma National Guard. They operate as a checkpoint security during tornado disaster relief efforts.",
+  "keywords": "tornado, Oklahoma, Oklahoma National Guard, Moore, oklahoma tornado",
+  "date": "2013-05-22T00:00:00-04:00",
+  "date_published": "2013-05-23T15:35:57-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Sgt. 1st Class Kendall James",
+  "category": "B-Roll",
+  "virin": "130522-Z-IF821-002",
+  "location": {
+    "city": "Moore",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/291497/may-20th-tornado-army-guardsmen-working-security-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-291497",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:55:36Z",
+  "duration": 86.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100822642/DOD_100822642.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 113438269
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.08,
+      "e": 14.11,
+      "text": "around mind."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    10.51,
+    15.28,
+    20.42,
+    32.03,
+    36.14,
+    41.14,
+    46.45,
+    49.22,
+    52.59,
+    57.72,
+    61.76,
+    67.0,
+    72.34,
+    78.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      41.2,
+      42.0,
+      67.1
+    ],
+    "silence_ends": [
+      4.1,
+      42.0,
+      42.7,
+      72.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-291497.jpg",
+  "sheet_times": [
+    6.6,
+    11.73,
+    16.86,
+    21.99,
+    27.12,
+    32.24,
+    37.37,
+    42.5,
+    47.63,
+    52.76,
+    57.89,
+    63.01,
+    68.14,
+    73.27,
+    78.4,
+    83.53
+  ]
+}
