@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:771206",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue swimmer",
+  "title": "Coast Guard rescues 2 adults, child from stranded boat in marsh near Fremont",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew rescues two adults and a child who were stranded in a marsh near Fremont, California \r\nOct. 28, 2020. The aircrew transported the three people to San Francisco International Airport with no reported medical concerns. (U.S. Coast Guard courtesy video/released)",
+  "keywords": "marsh, swimmer, helicopter, California, rescue, San Francisco, dolphin",
+  "date": "2020-10-28T00:00:00-04:00",
+  "date_published": "2020-10-29T23:41:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "201028-G-G0211-957",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/771206/coast-guard-rescues-2-adults-child-stranded-boat-marsh-near-fremont",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-771206",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:31:50Z",
+  "duration": 148.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2010/DOD_108042818/DOD_108042818.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10028,
+    "size": 188924923
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    59.69,
+    73.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-771206.jpg",
+  "sheet_times": [
+    4.63,
+    13.89,
+    23.16,
+    32.42,
+    41.68,
+    50.94,
+    60.2,
+    69.47,
+    78.73,
+    87.99,
+    97.25,
+    106.51,
+    115.78,
+    125.04,
+    134.3,
+    143.56
+  ]
+}

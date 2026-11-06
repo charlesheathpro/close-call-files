@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:756085",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Elizabeth City rescue",
+  "title": "Coast Guard rescues 2 people, 1 cat from sinking houseboat",
+  "description": "Coast Guard members aboard a helicopter and small boat rescued two people and their cat from a sinking houseboat on the Scuppernong River in Albemarle Sound, N.C., June 13, 2020. No injuries were reported and the cat was later reunited with its owners. U.S. Coast Guard video.",
+  "keywords": "Cat, Air Station, sinking, ELIZABETH CITY, Albemarle, Taking on Water, Houseboat, kealy, Andrada, Coast Guard, rescue, USCG, small boat",
+  "date": "2020-06-13T00:00:00-04:00",
+  "date_published": "2020-06-13T16:45:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200613-G-ZZ999-010",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/756085/coast-guard-rescues-2-people-1-cat-sinking-houseboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-756085",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:31:05Z",
+  "duration": 89.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107853271/DOD_107853271.mp4",
+    "width": 654,
+    "height": 480,
+    "bitrate": 8090,
+    "size": 91822945
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 83.66,
+      "e": 85.66,
+      "text": "He's got his own little jacket."
+    },
+    {
+      "s": 85.66,
+      "e": 88.66,
+      "text": "Thank you so much."
+    },
+    {
+      "s": 88.66,
+      "e": 89.66,
+      "text": "You're welcome."
+    }
+  ],
+  "scene_cuts": [
+    10.88,
+    25.73,
+    42.51,
+    59.16,
+    77.48
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-756085.jpg",
+  "sheet_times": [
+    2.78,
+    8.33,
+    13.88,
+    19.43,
+    24.98,
+    30.53,
+    36.08,
+    41.63,
+    47.18,
+    52.73,
+    58.28,
+    63.83,
+    69.38,
+    74.93,
+    80.48,
+    86.03
+  ]
+}
