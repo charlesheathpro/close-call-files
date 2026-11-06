@@ -20,7 +20,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
       - name: Install ffmpeg
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg libsndfile1 >/dev/null
+        timeout-minutes: 15
+        run: EXTRA_PKGS=libsndfile1 bash scripts/install_ffmpeg.sh
       - uses: actions/cache@v4
         id: kokoro
         with: { path: ~/.cache/kokoro, key: kokoro-v1.0 }
