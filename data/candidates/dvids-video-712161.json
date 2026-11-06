@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:712161",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "U.S. Coast Guard Station Point Allerton rescues overdue boater and family",
+  "description": "A boat crew from Coast Guard Station Point Allerton rescued a man and his two sons after they were reported overdue near Scituate, Massachusetts. Coast Guard Air Station Cape Cod was able to capture video of the family being taken off of their boat. (Video by Air Station Cape Cod)",
+  "keywords": "D1, Point Allerton, SAR, rescue, USCG, Boston",
+  "date": "2019-09-30T00:00:00-04:00",
+  "date_published": "2019-09-30T11:25:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Ryan Noel",
+  "category": "B-Roll",
+  "virin": "190930-G-G0101-001",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/712161/us-coast-guard-station-point-allerton-rescues-overdue-boater-and-family",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-712161",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:46:49Z",
+  "duration": 40.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107288946/DOD_107288946.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9508,
+    "size": 48277789
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-712161.jpg",
+  "sheet_times": [
+    1.25,
+    3.76,
+    6.26,
+    8.77,
+    11.27,
+    13.78,
+    16.28,
+    18.79,
+    21.29,
+    23.8,
+    26.3,
+    28.8,
+    31.31,
+    33.81,
+    36.32,
+    38.82
+  ]
+}
