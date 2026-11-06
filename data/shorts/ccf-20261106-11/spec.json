@@ -1,44 +1,153 @@
 {
- "short_id": "ccf-20261106-11",
- "revision": 1,
- "candidate_id": "dvids-video-89764",
- "lane": "rescue",
- "story_type": "children stranded on rocks by the tide, helicopter basket hoist",
- "music_mood": "rescue",
- "hook": "Three kids were stuck on the rocks as the tide came in.",
- "narration": [
-  "Three kids were stuck on a pile of rocks, and the tide was coming in.",
-  "High tide had cut them off near Fleming Point, by Golden Gate Fields in California.",
-  "A Coast Guard helicopter came in low over the bay.",
-  "It can't land on wet rocks, so the crew holds a hover and sends a rescue basket down on a cable.",
-  "[short pause] Then the kids were lifted up off the rocks, into the dusk."
- ],
- "outcome": "The crew hoisted all three children aboard and flew them away from the rocks.",
- "location_card": {
-  "place": "Fleming Point, California",
-  "date": "July 2010"
- },
- "keep_source_audio": false,
- "title": "Three kids stranded on rocks by the tide",
- "description": "In July 2010, a Coast Guard helicopter crew hoisted three children who were stranded on rocks by high tide near Fleming Point and Golden Gate Fields, California, and flew them away.\n\nFootage: U.S. Coast Guard video by Ricky Allen, via DVIDS: https://www.dvidshub.net/video/89764\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #california",
- "tags": ["coast guard", "kids rescued", "stranded by the tide", "helicopter hoist", "rescue basket", "san francisco bay", "real footage"],
- "question_comment": "Did you ever get caught out by the tide as a kid?",
- "facts": [
-  {"claim": "Three children stranded on rocks by high tide", "source_quote": "US Coast Guard Rescues Three Children Stranded On Rocks By High Tide"},
-  {"claim": "Location near Golden Gate Fields and Fleming Point", "source_quote": "B-roll of the Coast Guard rescuing three children stranded on rocks near Golden Gate Fields near Fleming Point in Alameda, California."},
-  {"claim": "Helicopter hovered, hoisted the children and flew away", "source_quote": "Scenes include them hovering over the rocks, hoisting the children up and flying away."}
- ],
- "visible_facts": [
-  {"claim": "Helicopter hovering low over a rock outcrop with water and breaking waves around it, at dusk", "seen_at": "source 9 to 34 s"},
-  {"claim": "Basket under the helicopter rising from the rocks", "seen_at": "source 37 to 45 s"}
- ],
- "priority": 3,
- "line_shots": [
-  [{"start": 24.5, "end": 27.5, "layout": "fit", "crop_x": 0.5}, {"start": 27.5, "end": 30.5, "layout": "fit", "crop_x": 0.5}],
-  [{"start": 30.5, "end": 33.0, "layout": "fit", "crop_x": 0.5}, {"start": 33.0, "end": 35.5, "layout": "fit", "crop_x": 0.5}],
-  [{"start": 8.4, "end": 11.0, "layout": "fit", "crop_x": 0.5}, {"start": 11.0, "end": 13.8, "layout": "fit", "crop_x": 0.5}],
-  [{"start": 13.8, "end": 16.6, "layout": "fit", "crop_x": 0.5}, {"start": 16.6, "end": 19.4, "layout": "fit", "crop_x": 0.5}, {"start": 19.4, "end": 22.0, "layout": "fit", "crop_x": 0.5}],
-  [{"start": 35.5, "end": 38.5, "layout": "fit", "crop_x": 0.5}, {"start": 38.5, "end": 41.5, "layout": "fit", "crop_x": 0.5}],
-  [{"start": 41.5, "end": 44.5, "layout": "fit", "crop_x": 0.5}, {"start": 22.0, "end": 24.5, "layout": "fit", "crop_x": 0.5}]
- ]
+  "short_id": "ccf-20261106-11",
+  "revision": 1,
+  "candidate_id": "dvids-video-89764",
+  "lane": "rescue",
+  "story_type": "children stranded on rocks by the tide, helicopter basket hoist",
+  "music_mood": "rescue",
+  "hook": "Three kids were stuck on the rocks as the tide came in.",
+  "narration": [
+    "Three kids were stuck on a pile of rocks, and the tide was coming in.",
+    "High tide had cut them off near Fleming Point, by Golden Gate Fields in California.",
+    "A Coast Guard helicopter came in low over the bay.",
+    "It can't land on wet rocks, so the crew holds a hover and sends a rescue basket down on a cable.",
+    "[short pause] Then the kids were lifted up off the rocks, into the dusk."
+  ],
+  "outcome": "The crew hoisted all three children aboard and flew them away from the rocks.",
+  "location_card": {
+    "place": "Fleming Point, California",
+    "date": "July 2010"
+  },
+  "keep_source_audio": false,
+  "title": "Three kids stranded on rocks by the tide",
+  "description": "In July 2010, a Coast Guard helicopter crew hoisted three children who were stranded on rocks by high tide near Fleming Point and Golden Gate Fields, California, and flew them away.\n\nFootage: U.S. Coast Guard video by Ricky Allen, via DVIDS: https://www.dvidshub.net/video/89764\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #california",
+  "tags": [
+    "coast guard",
+    "kids rescued",
+    "stranded by the tide",
+    "helicopter hoist",
+    "rescue basket",
+    "san francisco bay",
+    "real footage"
+  ],
+  "question_comment": "Did you ever get caught out by the tide as a kid?",
+  "facts": [
+    {
+      "claim": "Three children stranded on rocks by high tide",
+      "source_quote": "US Coast Guard Rescues Three Children Stranded On Rocks By High Tide"
+    },
+    {
+      "claim": "Location near Golden Gate Fields and Fleming Point",
+      "source_quote": "B-roll of the Coast Guard rescuing three children stranded on rocks near Golden Gate Fields near Fleming Point in Alameda, California."
+    },
+    {
+      "claim": "Helicopter hovered, hoisted the children and flew away",
+      "source_quote": "Scenes include them hovering over the rocks, hoisting the children up and flying away."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Helicopter hovering low over a rock outcrop with water and breaking waves around it, at dusk",
+      "seen_at": "source 9 to 34 s"
+    },
+    {
+      "claim": "Basket under the helicopter rising from the rocks",
+      "seen_at": "source 37 to 45 s"
+    }
+  ],
+  "priority": 3,
+  "line_shots": [
+    [
+      {
+        "start": 24.5,
+        "end": 27.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 27.5,
+        "end": 30.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 30.5,
+        "end": 33.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33.0,
+        "end": 35.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 8.4,
+        "end": 11.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 11.0,
+        "end": 13.8,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 13.8,
+        "end": 16.6,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 16.6,
+        "end": 19.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 19.4,
+        "end": 22.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 35.5,
+        "end": 38.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 38.5,
+        "end": 41.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 41.5,
+        "end": 44.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 22.0,
+        "end": 24.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "status": "dropped",
+  "drop_reason": "QA Nov 6: children never visible, one distant dusk angle of a calm hover for 28 s; no closer footage in the source"
 }
