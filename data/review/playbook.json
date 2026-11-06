@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-06T03:37:20Z",
+  "at": "2026-11-06T10:39:11Z",
   "mature": 63,
   "features": [
     {
@@ -45,7 +45,7 @@
     {
       "feature": "hook names a child",
       "n": 10,
-      "effect": 0.28
+      "effect": 0.29
     },
     {
       "feature": "story: rocket booster test fire",
@@ -108,24 +108,24 @@
       "effect": 0.1
     },
     {
-      "feature": "story: trapped dog",
-      "n": 1,
-      "effect": 0.1
-    },
-    {
       "feature": "music: sea",
       "n": 19,
-      "effect": 0.09
-    },
-    {
-      "feature": "source: commons",
-      "n": 6,
       "effect": 0.09
     },
     {
       "feature": "story: flood hoist",
       "n": 1,
       "effect": 0.09
+    },
+    {
+      "feature": "story: trapped dog",
+      "n": 1,
+      "effect": 0.09
+    },
+    {
+      "feature": "source: commons",
+      "n": 6,
+      "effect": 0.08
     },
     {
       "feature": "story: cruise ship medevac hoist",
@@ -208,22 +208,22 @@
       "effect": -0.01
     },
     {
-      "feature": "story: flood vehicle hoist",
-      "n": 1,
-      "effect": -0.01
-    },
-    {
-      "feature": "story: man overboard open ocean",
-      "n": 1,
-      "effect": -0.01
-    },
-    {
       "feature": "story: aircraft emergency",
       "n": 1,
       "effect": -0.02
     },
     {
+      "feature": "story: flood vehicle hoist",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
       "feature": "story: life raft rescue",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
+      "feature": "story: man overboard open ocean",
       "n": 1,
       "effect": -0.02
     },
@@ -270,7 +270,7 @@
     {
       "feature": "story: pad abort test",
       "n": 1,
-      "effect": -0.05
+      "effect": -0.06
     },
     {
       "feature": "story: dog rescue flood",
@@ -323,6 +323,11 @@
       "effect": -0.15
     },
     {
+      "feature": "length 30 to 45 s",
+      "n": 28,
+      "effect": -0.17
+    },
+    {
       "feature": "story: storm sailboat hoist",
       "n": 1,
       "effect": -0.17
@@ -330,11 +335,6 @@
     {
       "feature": "hook names an animal",
       "n": 15,
-      "effect": -0.18
-    },
-    {
-      "feature": "length 30 to 45 s",
-      "n": 28,
       "effect": -0.18
     },
     {
@@ -407,35 +407,35 @@
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
-      "views": 9434.0,
+      "views": 9436.0,
       "ret": 95.15,
-      "score": 1.765
+      "score": 1.761
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5175.0,
+      "views": 5176.0,
       "ret": 96.57,
-      "score": 1.723
+      "score": 1.72
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 18824.0,
+      "views": 19039.0,
       "ret": 78.16,
-      "score": 1.66
+      "score": 1.661
     },
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 7642.0,
+      "views": 7739.0,
       "ret": 91.71,
-      "score": 1.617
+      "score": 1.618
     },
     {
       "short_id": "ccf-20261102-09",
       "title": "Moon rocket booster fired on its side",
-      "views": 1543.0,
+      "views": 1549.0,
       "ret": 110.07000000000001,
       "score": 1.098
     }
@@ -444,9 +444,9 @@
     {
       "short_id": "ccf-20261102-02",
       "title": "Hurricane Irma seas, a boat and a dog",
-      "views": 1005.0,
+      "views": 1006.0,
       "ret": 40.1,
-      "score": -0.918
+      "score": -0.919
     },
     {
       "short_id": "ccf-20261101-02",
@@ -460,7 +460,7 @@
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 65.4,
-      "score": -1.272
+      "score": -1.271
     },
     {
       "short_id": "ccf-20261102-01",
@@ -474,7 +474,7 @@
       "title": "Dog hoisted from a sinking catamaran",
       "views": 8.0,
       "ret": 66.22,
-      "score": -2.715
+      "score": -2.711
     }
   ],
   "query_weights": {
@@ -524,18 +524,6 @@
   },
   "qa_rejections_7d": [
     {
-      "short_id": "ccf-20261030-02",
-      "notes": "Handheld cabin footage is shaky and hard to read: 14 to 23s is mostly the basket rail and crew backs, and the roof shot (10 to 13s) is a pixelated digital zoom. Third Harvey Short in two days (29-02 uploaded, 30-01 and 30-03 queued)."
-    },
-    {
-      "short_id": "ccf-20261030-03",
-      "notes": "The hoist-camera angle is novel, but the footage is low resolution with fisheye blur and color artifacts, and all 30 seconds are the same overhead roof view, so nothing new happens after the first 5 seconds. Also another Harvey hoist beside 29-02 and 30-01."
-    },
-    {
-      "short_id": "ccf-20261030-04",
-      "notes": "Beautiful footage, but it is the third lava Short in four days and the same 2018 Kilauea eruption as ccf-20261030-06, which publishes Nov 1, so it looks interchangeable. The script also has no stakes: line 2 just repeats the location card and nothing says what was at risk."
-    },
-    {
       "short_id": "ccf-20261030-05",
       "notes": "First jets on a new carrier is a milestone with no danger and no close call, and three shots are empty or wrong: blank sky at 8.5s, a jet cut off the left edge at 13.5s, an empty deck at 23.7s under 'Then a Super Hornet landed next.'"
     },
@@ -582,8 +570,23 @@
     {
       "short_id": "ccf-20261105-11",
       "notes": "The source is one fixed camera on one landing for its full 3 minutes, so render 12 to 44 s is the same rear view of the orbiter shrinking into the distance with no new angle; nothing on screen looks dangerous and the crosswind line is not in any source."
+    },
+    {
+      "short_id": "ccf-20261105-21",
+      "notes": "Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable."
+    },
+    {
+      "short_id": "ccf-20261105-31",
+      "notes": "After the opening, most of the Short is distant figures walking slowly across flat ice, the same shot for about 15 seconds; no visible peril, and the 'helped him up the side' line plays over empty ice."
+    },
+    {
+      "short_id": "ccf-20261105-34",
+      "notes": "Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown."
     }
   ],
-  "config_changed_at": "2026-11-05T10:39:24Z",
-  "changed": []
+  "config_changed_at": "2026-11-06T10:39:11Z",
+  "changed": [
+    "lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.31, 'aviation_naval': 0.59, 'hazards': 0.1}",
+    "query weights for 38 searches"
+  ]
 }
