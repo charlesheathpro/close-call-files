@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:67539",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard Responds to 60-foot Vessel on Fire",
+  "description": "B-roll of the U.S. Coast Guard responding to a 60-foot vessel that is on fire. Scenes include footage of the vessel on fire, the crew in a life raft and Coast Guardsmen rescuing the crew. Video by Petty Officer 3rd Class Kelly Parker. Produced by PADET Astoria, Oregon.",
+  "keywords": "Astoria, Kelly Parker",
+  "date": "2009-08-31T00:00:00-04:00",
+  "date_published": "2009-09-01T10:15:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 2nd Class Katrina Parker",
+  "category": "B-Roll",
+  "virin": "090831-G-3392P-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/67539/coast-guard-responds-60-foot-vessel-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.5045,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-67539",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:40:01Z",
+  "duration": 139.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0909/DOD_100051607/DOD_100051607.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-67539.jpg",
+  "sheet_times": [
+    8.7,
+    17.1,
+    25.49,
+    33.89,
+    42.28,
+    50.68,
+    59.07,
+    67.46,
+    75.86,
+    84.25,
+    92.65,
+    101.04,
+    109.44,
+    117.83,
+    126.23,
+    134.62
+  ]
+}

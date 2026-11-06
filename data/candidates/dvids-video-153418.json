@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:153418",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Mississippi National Guard Special Forces rescue residents post-Hurricane Isaac",
+  "description": "B-Roll of members of Support Company, 2nd Battalion, 20th Special Forces Group, Mississippi Army National Guard.  The troops have been searching through flooded areas for stranded residents following Hurricane Isaac.  These Soldiers and other Mississippi National Guardsmen have rescued more than 350 individuals over the past several days in Jackson, Hancock, and Harrison counties along the Miss. Gulf Coast.",
+  "keywords": "mississippi national guard, Isaac, Hurricane Isaac",
+  "date": "2012-08-30T00:00:00-04:00",
+  "date_published": "2012-08-30T21:17:49-04:00",
+  "branch": "Army",
+  "unit_name": "102d Public Affairs Detachment",
+  "credit": "Spc. Michael Needham",
+  "category": "B-Roll",
+  "virin": "120830-A-5067N-815",
+  "location": {
+    "city": "",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/153418/mississippi-national-guard-special-forces-rescue-residents-post-hurricane-isaac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.07073,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-153418",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:38:43Z",
+  "duration": 92.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1208/DOD_100478683/DOD_100478683.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8520,
+    "size": 101991134
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 47.63,
+      "e": 49.63,
+      "text": "I'll be working on the boat."
+    }
+  ],
+  "scene_cuts": [
+    4.07,
+    22.99,
+    26.86,
+    33.33,
+    39.51,
+    43.54,
+    47.11,
+    50.12,
+    54.39,
+    57.52,
+    80.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      23.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-153418.jpg",
+  "sheet_times": [
+    6.82,
+    12.33,
+    17.83,
+    23.33,
+    28.84,
+    34.34,
+    39.84,
+    45.35,
+    50.85,
+    56.36,
+    61.86,
+    67.36,
+    72.87,
+    78.37,
+    83.87,
+    89.38
+  ]
+}

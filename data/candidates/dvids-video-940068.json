@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:940068",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "North Dakota National Guard responds to wildfires",
+  "description": "North Dakota Army National Guard air crews fight wildland fires North of Bismarck, North Dakota, Oct. 12, 2024. (U.S. Army National Guard video by Staff Sgt. Samuel J. Kroll, Visual Information photographer)",
+  "keywords": "NDFire2024, ndwildfires24",
+  "date": "2024-10-12T00:00:00-04:00",
+  "date_published": "2024-10-12T21:39:51-04:00",
+  "branch": "Joint",
+  "unit_name": "North Dakota National Guard Public Affairs",
+  "credit": "Staff Sgt. Samuel Kroll",
+  "category": "B-Roll",
+  "virin": "241012-Z-FB647-6669",
+  "location": {
+    "city": "",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/940068/north-dakota-national-guard-responds-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-940068",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:39:29Z",
+  "duration": 223.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110620894/DOD_110620894-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 90559871
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.0,
+    49.33,
+    150.63
+  ],
+  "drama_score": 27,
+  "audio": {
+    "silence_starts": [
+      49.3,
+      187.8
+    ],
+    "silence_ends": [
+      86.6,
+      223.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-940068.jpg",
+  "sheet_times": [
+    6.97,
+    20.92,
+    34.86,
+    48.8,
+    62.75,
+    76.69,
+    90.63,
+    104.58,
+    118.52,
+    132.47,
+    146.41,
+    160.35,
+    174.3,
+    188.24,
+    202.18,
+    216.13
+  ]
+}

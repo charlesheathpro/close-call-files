@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:707571",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Dorian",
+  "title": "B-roll of medevac in Elizabeth City after Hurricane Dorian",
+  "description": "B-roll of medevac aftermath in Elizabeth City, North Carolina. (U.S. Coast Guard video)",
+  "keywords": "Traverse City, Outer Banks, obx, Dorian, helicopter, Coast Guard, rescue, transport, North Carolina, storm, USCG, Hurricane, helo",
+  "date": "2019-09-06T00:00:00-04:00",
+  "date_published": "2019-09-06T20:19:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "190906-G-BD687-978",
+  "location": {
+    "city": "Ocracoke",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/707571/b-roll-medevac-elizabeth-city-after-hurricane-dorian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-707571",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:39:26Z",
+  "duration": 29.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107193561/DOD_107193561.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 4767,
+    "size": 18106127
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    19.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      8.1,
+      9.0,
+      10.3,
+      12.4,
+      17.0,
+      18.4
+    ],
+    "silence_ends": [
+      8.8,
+      10.3,
+      12.3,
+      13.1,
+      18.1,
+      19.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-707571.jpg",
+  "sheet_times": [
+    0.91,
+    2.74,
+    4.56,
+    6.38,
+    8.21,
+    10.03,
+    11.85,
+    13.68,
+    15.5,
+    17.32,
+    19.15,
+    20.97,
+    22.79,
+    24.62,
+    26.44,
+    28.26
+  ]
+}

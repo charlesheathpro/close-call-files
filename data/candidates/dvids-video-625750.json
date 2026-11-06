@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:625750",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Coast Guard rescues flooding victims in North Carolina after Hurricane Florence",
+  "description": "An MH-60T Jayhawk helicopter crew from Coast Guard Air Station Elizabeth City, North Carolina, rescues multiple victims from flooding caused by Hurricane Florence in Onslow County, North Carolina Sept. 15, 2018. Hurricane Florence caused catastrophic flooding along the coast of North and South Carolina. (U.S. Coast Guard video by Coast Guard Air Station Elizabeth City/released)",
+  "keywords": "flooding, florence, onslow, rescue, Jacksonville",
+  "date": "2018-09-15T00:00:00-04:00",
+  "date_published": "2018-09-15T17:40:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180915-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625750/coast-guard-rescues-flooding-victims-north-carolina-after-hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-625750",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:38:58Z",
+  "duration": 246.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106026331/DOD_106026331.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9019,
+    "size": 278136707
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      246.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-625750.jpg",
+  "sheet_times": [
+    7.68,
+    23.05,
+    38.42,
+    53.79,
+    69.16,
+    84.53,
+    99.9,
+    115.27,
+    130.64,
+    146.01,
+    161.38,
+    176.75,
+    192.12,
+    207.49,
+    222.86,
+    238.23
+  ]
+}

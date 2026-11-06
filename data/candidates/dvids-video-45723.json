@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:45723",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Ike Damage Assessments And Search And Rescue Missions",
+  "description": "B-roll of Louisiana Gov. Bobby Jindal and Maj. Gen. Bennett C. Landreneau, the Adjutant General of the Louisiana National Guard, fly over several towns including Delcambre, Erath and Lake Charles observing search and rescue. Soldiers from the 256th Infantry Brigade Combat Team and Louisiana Wildlife Enforcement Agency rescued nearly 250 people on Sept. 13. Scenes include aerial footage  of the damage below caused by Hurricane Ike. Produced by Sfc.Thomas Benoit.",
+  "keywords": null,
+  "date": "2008-09-14T00:00:00-04:00",
+  "date_published": "2008-09-14T17:50:17-04:00",
+  "branch": "Joint",
+  "unit_name": "Louisiana National Guard",
+  "credit": "Sgt. 1st Class Thomas Benoit",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Carville",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/45723/hurricane-ike-damage-assessments-and-search-and-rescue-missions",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.2042,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-45723",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:38:26Z",
+  "duration": 42.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0809/DOD_100026502/DOD_100026502.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    26.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-45723.jpg",
+  "sheet_times": [
+    5.38,
+    7.72,
+    10.06,
+    12.4,
+    14.75,
+    17.09,
+    19.43,
+    21.78,
+    24.12,
+    26.46,
+    28.81,
+    31.15,
+    33.49,
+    35.83,
+    38.18,
+    40.52
+  ]
+}
