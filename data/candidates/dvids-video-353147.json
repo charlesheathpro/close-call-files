@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:353147",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard rescues man from burning boat near Neah Bay, Wash.",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station/Sector Field Office Port Angeles hoists a man from his life raft after he abandoned his 25-foot pleasure craft Dawn Trader following an engine fire three miles north of Neah Bay. The aircrew transported the man to Olympic Medical Center in Port Angeles, Wash., for treatment for hypothermia. U.S. Coast Guard video by Coast Guard Air Station Port Angeles.",
+  "keywords": "Port Angeles, Coast Guard rescue, Neah Bay, dawn trader, august 3 2014, olympic medical center, dolphin",
+  "date": "2014-08-03T00:00:00-04:00",
+  "date_published": "2014-08-03T20:11:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140308-G-ZZ999-001",
+  "location": {
+    "city": "Neah Bay",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/353147/coast-guard-rescues-man-burning-boat-near-neah-bay-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.005,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-353147",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:13:54Z",
+  "duration": 146.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101852615/DOD_101852615.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8942,
+    "size": 168245690
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    141.57
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      146.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-353147.jpg",
+  "sheet_times": [
+    9.42,
+    18.24,
+    27.06,
+    35.88,
+    44.71,
+    53.53,
+    62.35,
+    71.17,
+    80.0,
+    88.82,
+    97.64,
+    106.46,
+    115.29,
+    124.11,
+    132.93,
+    141.75
+  ]
+}
