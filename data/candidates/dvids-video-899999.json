@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-899999",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:18:05Z",
   "duration": 24.12,
   "source_file": {
@@ -62,5 +62,6 @@
     19.93,
     21.41,
     22.89
-  ]
+  ],
+  "pass_reason": "tiny vertical clip of a boat underway; the diver is never seen"
 }

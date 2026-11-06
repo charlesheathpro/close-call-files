@@ -26,7 +26,7 @@
   "time_start": 4.09207,
   "aspect_ratio": "16:9",
   "id": "dvids-video-354902",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:01:29Z",
   "duration": 72.02,
   "source_file": {
@@ -168,5 +168,6 @@
     60.99,
     65.2,
     69.41
-  ]
+  ],
+  "pass_reason": "same Aug 9 2014 leatherback event as ccf-20261106-01"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-446505",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:04:04Z",
   "duration": 43.09,
   "source_file": {
@@ -69,5 +69,6 @@
     36.57,
     38.98,
     41.39
-  ]
+  ],
+  "pass_reason": "fatal CH-53E mishap search; not a rescue story"
 }

@@ -3,7 +3,7 @@
   "source": "dvids",
   "lane": "rescue",
   "matched_query": "rescue",
-  "title": "Hope in the harbor - a kayaker's fight for rescue ",
+  "title": "Hope in the harbor - a kayaker's fight for rescue\u00a0",
   "description": "Gary Pierce, a kayaker from Winthrop, Massachusetts, tells his story of being rescued by the Coast Guard in October of 2017 in Boston Harbor. (U.S Coast Guard video by Petty Officer Andrew Barresi)",
   "keywords": "kayak, life jackets, boston harbor, canoe, Wear It, Safe Boating, Paddle Board, Coast Guard, rescue, USCG, Boston",
   "date": "2018-05-07T00:00:00-04:00",
@@ -26,7 +26,7 @@
   "time_start": 3.26993,
   "aspect_ratio": "16:9",
   "id": "dvids-video-598673",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:55:17Z",
   "duration": 252.33,
   "source_file": {
@@ -607,5 +607,6 @@
     212.99,
     228.53,
     244.06
-  ]
+  ],
+  "pass_reason": "interviews and b-roll, no rescue footage"
 }

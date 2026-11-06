@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-782168",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:22:52Z",
   "duration": 217.68,
   "source_file": {
@@ -66,5 +66,6 @@
     183.25,
     196.82,
     210.4
-  ]
+  ],
+  "pass_reason": "murky night door-cam, no readable action"
 }

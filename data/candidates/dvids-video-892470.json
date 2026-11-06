@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-892470",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:18:26Z",
   "duration": 116.88,
   "source_file": {
@@ -66,5 +66,6 @@
     98.2,
     105.47,
     112.75
-  ]
+  ],
+  "pass_reason": "routine medevac for chest pains, calm"
 }
