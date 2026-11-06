@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:584232",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues two men stranded on Pewetole Island",
+  "description": "A Coast Guard Sector Humboldt Bay helicopter crew hoists two individuals who were stranded on Pewetole Island off the coast of Trinidad, Calif., Feb. 11, 2018. A good Samaritan contacted watchstanders at Sector Humboldt Bay reporting that two people had become stranded after walking to the island at low tide and were believed to have been there overnight. (U.S. Coast Guard video/Released)",
+  "keywords": "hoist, Humboldt Bay, Coast Guard, SAR, California, rescue",
+  "date": "2018-02-11T00:00:00-05:00",
+  "date_published": "2018-02-11T17:56:18-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "180211-G-MR731-1001",
+  "location": {
+    "city": "Eureka",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/584232/coast-guard-rescues-two-men-stranded-pewetole-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-584232",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:57:38Z",
+  "duration": 235.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1802/DOD_105309726/DOD_105309726.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9963,
+    "size": 293653078
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    68.5,
+    70.04,
+    120.35,
+    121.45,
+    184.22,
+    185.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      235.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-584232.jpg",
+  "sheet_times": [
+    7.35,
+    22.04,
+    36.73,
+    51.42,
+    66.11,
+    80.8,
+    95.49,
+    110.18,
+    124.87,
+    139.56,
+    154.25,
+    168.94,
+    183.63,
+    198.32,
+    213.01,
+    227.7
+  ]
+}

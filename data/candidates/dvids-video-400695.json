@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:400695",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Aids in Rescue of Two People After Sailboat Capsizes",
+  "description": "A 29-foot Response Boat-Small II boatcrew from Coast Guard Station Cortez, Florida, re-right a 16-foot sailboat northeast of Anna Maria Island, Florida, Sunday, April 26, 2015. The boatcrew along with a Manatee County Sheriff's Office boatcrew rescued two people after their sailboat capsized. U.S. Coast Guard video",
+  "keywords": "Cortez, 29-foot RBS II, Manatee County Sheriff's Office, Coast Guard, Florida, FL",
+  "date": "2015-04-26T00:00:00-04:00",
+  "date_published": "2015-04-26T13:01:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150426-G-ZZ999-301",
+  "location": {
+    "city": "Cortez",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/400695/coast-guard-aids-rescue-two-people-after-sailboat-capsizes",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-400695",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:59:36Z",
+  "duration": 28.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102394311/DOD_102394311.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1019,
+    "size": 3838570
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.06,
+      "e": 13.16,
+      "text": "There she glows. Watch that line."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      22.7
+    ],
+    "silence_ends": [
+      23.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-400695.jpg",
+  "sheet_times": [
+    0.86,
+    2.58,
+    4.31,
+    6.03,
+    7.75,
+    9.47,
+    11.19,
+    12.92,
+    14.64,
+    16.36,
+    18.08,
+    19.8,
+    21.53,
+    23.25,
+    24.97,
+    26.69
+  ]
+}

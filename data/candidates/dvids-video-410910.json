@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:410910",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Swimmer Stranded on Kissing Rock in Oregon",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station North Bend, Ore., hoists a man stranded on Kissing Rock by the rising tide near Gold Beach, Ore., June 19, 2015. The man was safely transported to the nearby beach with no reported injuries. U.S. Coast Guard video by Air Station North Bend.",
+  "keywords": "hoist, Gold Beach, North Bend, MH-65, katelyn shearer, kissing rock, june 19 2015, Oregon, rescue, helo, dolphin",
+  "date": "2015-06-19T00:00:00-04:00",
+  "date_published": "2015-06-20T13:44:38-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150619-G-ZZ999-001",
+  "location": {
+    "city": "Gold Beach",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/410910/coast-guard-rescues-swimmer-stranded-kissing-rock-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.1588,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-410910",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:58:13Z",
+  "duration": 138.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102537720/DOD_102537720.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8816,
+    "size": 155488794
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    136.97
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      137.0
+    ],
+    "silence_ends": [
+      4.1,
+      139.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-410910.jpg",
+  "sheet_times": [
+    8.36,
+    16.75,
+    25.15,
+    33.54,
+    41.94,
+    50.33,
+    58.73,
+    67.12,
+    75.52,
+    83.92,
+    92.31,
+    100.71,
+    109.1,
+    117.5,
+    125.89,
+    134.29
+  ]
+}

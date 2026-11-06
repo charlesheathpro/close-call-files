@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:609654",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues a stranded hiker near the Klamath River",
+  "description": "A Coast Guard Sector Humboldt Bay MH-65 Dolphin helicopter crew hoists a stranded hiker near the Klamath River mouth in Northern California, June 24, 2018. The hoist was conducted next to a 300-foot cliff, utilizing the entire length of the helicopter hoist cable. (U.S. Coast Guard video/Released)",
+  "keywords": "hoist, Humboldt Bay, Coast Guard, California, rescue",
+  "date": "2018-06-24T00:00:00-04:00",
+  "date_published": "2018-06-25T12:34:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "180624-G-MR731-1001",
+  "location": {
+    "city": "Eureka",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/609654/coast-guard-rescues-stranded-hiker-near-klamath-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-609654",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:57:16Z",
+  "duration": 191.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105771417/DOD_105771417.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10016,
+    "size": 239423427
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    115.18,
+    116.22
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      191.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-609654.jpg",
+  "sheet_times": [
+    5.95,
+    17.86,
+    29.77,
+    41.68,
+    53.59,
+    65.5,
+    77.41,
+    89.32,
+    101.22,
+    113.13,
+    125.04,
+    136.95,
+    148.86,
+    160.77,
+    172.68,
+    184.59
+  ]
+}

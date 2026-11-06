@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:383889",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Man in Bahamas after Plane Crashes in Ocean",
+  "description": "A man is hoisted by a Coast Guard Air Station Miami MH-65 Dolphin helicopter crew after his plane crashed five miles east of South Bimini, Bahamas, Monday, Dec. 22, 2014. The man was taken to the air station where he was transferred to emergency medical services for further treatment. U.S. Coast Guard video by Air Station Clearwater, Fla.",
+  "keywords": "Coast Guard rescue, Coast Guard Air Station Miami, MH-65 Dolphin Helicopter crew, C-130 Hercules aircraft Coast Guard Air Station Clearwater, Florida",
+  "date": "2014-12-22T00:00:00-05:00",
+  "date_published": "2014-12-22T19:02:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Crystalynn Kneen",
+  "category": "B-Roll",
+  "virin": "141222-G-KY418-001",
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/383889/coast-guard-rescues-man-bahamas-after-plane-crashes-ocean",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.92523,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-383889",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:00:04Z",
+  "duration": 68.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102157923/DOD_102157923.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2667,
+    "size": 23794935
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.94,
+    11.68,
+    11.78,
+    12.11,
+    62.03
+  ],
+  "drama_score": 75,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-383889.jpg",
+  "sheet_times": [
+    5.92,
+    9.9,
+    13.89,
+    17.88,
+    21.86,
+    25.85,
+    29.83,
+    33.82,
+    37.81,
+    41.79,
+    45.78,
+    49.76,
+    53.75,
+    57.74,
+    61.72,
+    65.71
+  ]
+}

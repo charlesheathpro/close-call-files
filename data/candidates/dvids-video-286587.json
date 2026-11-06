@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:286587",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Good Samaritan Rescues Three From Shrimp Boat Fire",
+  "description": "Three men were rescued from the burning 55-foot shrimp boat, Capt. Hunter, by a good Samaritan a few hundred yards off Galveston, April 12, 2013.  Coast Guard crews arrived shortly thereafter with a response boat and the Coast Guard Cutter Manta.  U.S. Coast Guard video by Vessel Traffic Service Houston",
+  "keywords": "Galveston, Seabrook, jetties, Ship Channel, shrimp boat, US Coast Guard, Fire, rescue, fishing",
+  "date": "2013-04-12T00:00:00-04:00",
+  "date_published": "2013-04-12T14:18:48-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 1st Class Andrew Kendrick",
+  "category": "B-Roll",
+  "virin": "130412-G-LP265-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/286587/good-samaritan-rescues-three-shrimp-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.7047,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-286587",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:57:03Z",
+  "duration": 59.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1304/DOD_100784089/DOD_100784089-640x480-1031k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1031,
+    "size": 7240217
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.27,
+    4.7,
+    29.93,
+    30.3,
+    46.15,
+    46.61,
+    58.99
+  ],
+  "drama_score": 37,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-286587.jpg",
+  "sheet_times": [
+    6.41,
+    9.82,
+    13.22,
+    16.63,
+    20.04,
+    23.45,
+    26.86,
+    30.26,
+    33.67,
+    37.08,
+    40.49,
+    43.9,
+    47.31,
+    50.71,
+    54.12,
+    57.53
+  ]
+}
