@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-06T10:39:11Z from 63 Shorts older than 48 hours)
+# Playbook (computed 2026-11-06T15:20:33Z from 65 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.53, 6 Shorts)
-- spacecraft or test story (+0.53, 6 Shorts)
-- lane: aviation_naval (+0.46, 8 Shorts)
-- story: splashdown recovery (+0.45, 1 Shorts)
-- story: launch abort test (+0.44, 1 Shorts)
 - story: capsized boat, people in the water (+0.42, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.41, 1 Shorts)
-- music: aviation (+0.34, 6 Shorts)
+- story: splashdown recovery (+0.42, 1 Shorts)
+- story: launch abort test (+0.41, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.39, 1 Shorts)
+- hook names a child (+0.33, 10 Shorts)
+- source: nasa (+0.24, 7 Shorts)
+- spacecraft or test story (+0.24, 7 Shorts)
+- lane: aviation_naval (+0.23, 9 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.69, 1 Shorts)
-- source: dvids (-0.48, 51 Shorts)
-- music: hazards (-0.45, 4 Shorts)
-- story: volcano eruption (-0.4, 2 Shorts)
-- story: attic flood hoist (-0.37, 1 Shorts)
-- lane: hazards (-0.36, 3 Shorts)
-- story: sinking sailboat, boat crew (-0.26, 1 Shorts)
-- lane: rescue (-0.25, 52 Shorts)
+- story: dog hoist from sinking boat (-0.67, 1 Shorts)
+- story: rocket tank test to failure (-0.46, 1 Shorts)
+- music: hazards (-0.41, 4 Shorts)
+- story: volcano eruption (-0.38, 2 Shorts)
+- story: surf drills in hurricane seas (training) (-0.33, 1 Shorts)
+- story: attic flood hoist (-0.33, 1 Shorts)
+- lane: hazards (-0.33, 3 Shorts)
+- source: dvids (-0.27, 52 Shorts)
 
 ## Best Shorts
+- Boat flipped with a 4-year-old aboard: 19179 views, 78% watched
 - Orion splashes down after the Moon: 9436 views, 95% watched
-- Capsule torn off a rocket at Mach 1: 5176 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 19039 views, 78% watched
-- Five abandon a sinking fishing boat: 7739 views, 92% watched
+- Capsule torn off a rocket at Mach 1: 5177 views, 97% watched
+- Five abandon a sinking fishing boat: 7782 views, 92% watched
 - Moon rocket booster fired on its side: 1549 views, 110% watched
 
 ## Weakest Shorts
-- Hurricane Irma seas, a boat and a dog: 1006 views, 40% watched
-- Sailboat sinking 25 miles off Michigan: 297 views, 61% watched
 - Mauna Loa erupts after 38 years: 147 views, 65% watched
 - Trapped in the attic as the flood rose: 284 views, 46% watched
-- Dog hoisted from a sinking catamaran: 8 views, 66% watched
+- Lifeboat vs Hurricane Maria's surf: 1451 views, 0% watched
+- Moon rocket tank crushed until it burst: 566 views, 0% watched
+- Dog hoisted from a sinking catamaran: 9 views, 66% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261030-05: First jets on a new carrier is a milestone with no danger and no close call, and three shots are empty or wrong: blank sky at 8.5s, a jet cut off the left edge at 13.5s, an empty deck at 23.7s under 'Then a Super Hornet landed next.'
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261105-21: Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable.
 - ccf-20261105-31: After the opening, most of the Short is distant figures walking slowly across flat ice, the same shot for about 15 seconds; no visible peril, and the 'helped him up the side' line plays over empty ice.
 - ccf-20261105-34: Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.31, 'aviation_naval': 0.59, 'hazards': 0.1}
-- query weights for 38 searches
