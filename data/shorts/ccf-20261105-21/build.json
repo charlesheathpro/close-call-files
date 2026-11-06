@@ -1,7 +1,688 @@
 {
   "short_id": "ccf-20261105-21",
   "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-05T12:52:29Z",
-  "error": "ElevenLabs 401: {\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 208835. You have 6 credits remaining, while 296 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"721b6490dccbb96f866085fb91b05846\"}}"
+  "status": "ok",
+  "built_at": "2026-11-06T04:46:40Z",
+  "duration": 42.01,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Three men had been missing in this sixteen foot skiff for four days.",
+      "start": 0.05,
+      "end": 4.61,
+      "words": [
+        {
+          "w": "Three",
+          "s": 0.05,
+          "e": 0.338
+        },
+        {
+          "w": "men",
+          "s": 0.37,
+          "e": 0.637
+        },
+        {
+          "w": "had",
+          "s": 0.69,
+          "e": 0.877
+        },
+        {
+          "w": "been",
+          "s": 0.93,
+          "e": 1.07
+        },
+        {
+          "w": "missing",
+          "s": 1.09,
+          "e": 1.49
+        },
+        {
+          "w": "in",
+          "s": 1.53,
+          "e": 1.61
+        },
+        {
+          "w": "this",
+          "s": 1.65,
+          "e": 1.81
+        },
+        {
+          "w": "sixteen",
+          "s": 1.89,
+          "e": 2.29
+        },
+        {
+          "w": "foot",
+          "s": 2.45,
+          "e": 2.61
+        },
+        {
+          "w": "skiff",
+          "s": 2.69,
+          "e": 3.09
+        },
+        {
+          "w": "for",
+          "s": 3.17,
+          "e": 3.41
+        },
+        {
+          "w": "four",
+          "s": 3.53,
+          "e": 3.65
+        },
+        {
+          "w": "days.",
+          "s": 3.85,
+          "e": 4.61
+        }
+      ]
+    },
+    {
+      "text": "They were about a hundred and ten miles southwest of Tarawa, in the Pacific nation of Kiribati.",
+      "start": 4.69,
+      "end": 10.21,
+      "words": [
+        {
+          "w": "They",
+          "s": 4.69,
+          "e": 4.77
+        },
+        {
+          "w": "were",
+          "s": 4.85,
+          "e": 4.93
+        },
+        {
+          "w": "about",
+          "s": 5.05,
+          "e": 5.17
+        },
+        {
+          "w": "a",
+          "s": 5.25,
+          "e": 5.33
+        },
+        {
+          "w": "hundred",
+          "s": 5.37,
+          "e": 5.57
+        },
+        {
+          "w": "and",
+          "s": 5.65,
+          "e": 5.81
+        },
+        {
+          "w": "ten",
+          "s": 5.89,
+          "e": 5.97
+        },
+        {
+          "w": "miles",
+          "s": 6.13,
+          "e": 6.45
+        },
+        {
+          "w": "southwest",
+          "s": 6.53,
+          "e": 7.01
+        },
+        {
+          "w": "of",
+          "s": 7.09,
+          "e": 7.17
+        },
+        {
+          "w": "Tarawa,",
+          "s": 7.17,
+          "e": 7.97
+        },
+        {
+          "w": "in",
+          "s": 8.05,
+          "e": 8.13
+        },
+        {
+          "w": "the",
+          "s": 8.17,
+          "e": 8.25
+        },
+        {
+          "w": "Pacific",
+          "s": 8.29,
+          "e": 8.69
+        },
+        {
+          "w": "nation",
+          "s": 8.77,
+          "e": 9.09
+        },
+        {
+          "w": "of",
+          "s": 9.13,
+          "e": 9.21
+        },
+        {
+          "w": "Kiribati.",
+          "s": 9.25,
+          "e": 10.21
+        }
+      ]
+    },
+    {
+      "text": "One of them was twenty. The other two were fifty-five.",
+      "start": 10.53,
+      "end": 14.05,
+      "words": [
+        {
+          "w": "One",
+          "s": 10.53,
+          "e": 10.69
+        },
+        {
+          "w": "of",
+          "s": 10.73,
+          "e": 10.81
+        },
+        {
+          "w": "them",
+          "s": 10.85,
+          "e": 10.93
+        },
+        {
+          "w": "was",
+          "s": 11.01,
+          "e": 11.17
+        },
+        {
+          "w": "twenty.",
+          "s": 11.37,
+          "e": 11.97
+        },
+        {
+          "w": "The",
+          "s": 12.01,
+          "e": 12.09
+        },
+        {
+          "w": "other",
+          "s": 12.13,
+          "e": 12.29
+        },
+        {
+          "w": "two",
+          "s": 12.37,
+          "e": 12.45
+        },
+        {
+          "w": "were",
+          "s": 12.53,
+          "e": 12.69
+        },
+        {
+          "w": "fifty-five.",
+          "s": 12.73,
+          "e": 14.05
+        }
+      ]
+    },
+    {
+      "text": "On October fifth, a Coast Guard Hercules from Air Station Barbers Point, Hawaii, found them.",
+      "start": 14.13,
+      "end": 19.97,
+      "words": [
+        {
+          "w": "On",
+          "s": 14.13,
+          "e": 14.21
+        },
+        {
+          "w": "October",
+          "s": 14.29,
+          "e": 14.69
+        },
+        {
+          "w": "fifth,",
+          "s": 14.85,
+          "e": 15.33
+        },
+        {
+          "w": "a",
+          "s": 15.41,
+          "e": 15.49
+        },
+        {
+          "w": "Coast",
+          "s": 15.57,
+          "e": 15.73
+        },
+        {
+          "w": "Guard",
+          "s": 15.81,
+          "e": 16.05
+        },
+        {
+          "w": "Hercules",
+          "s": 16.13,
+          "e": 16.69
+        },
+        {
+          "w": "from",
+          "s": 16.77,
+          "e": 16.85
+        },
+        {
+          "w": "Air",
+          "s": 16.93,
+          "e": 17.01
+        },
+        {
+          "w": "Station",
+          "s": 17.17,
+          "e": 17.49
+        },
+        {
+          "w": "Barbers",
+          "s": 17.57,
+          "e": 17.89
+        },
+        {
+          "w": "Point,",
+          "s": 17.97,
+          "e": 18.21
+        },
+        {
+          "w": "Hawaii,",
+          "s": 18.37,
+          "e": 18.85
+        },
+        {
+          "w": "found",
+          "s": 18.97,
+          "e": 19.09
+        },
+        {
+          "w": "them.",
+          "s": 19.17,
+          "e": 19.97
+        }
+      ]
+    },
+    {
+      "text": "A Hercules can search huge stretches of ocean, but it cannot land on water, so crews call the nearest ships for help.",
+      "start": 20.01,
+      "end": 27.01,
+      "words": [
+        {
+          "w": "A",
+          "s": 20.01,
+          "e": 20.09
+        },
+        {
+          "w": "Hercules",
+          "s": 20.13,
+          "e": 20.69
+        },
+        {
+          "w": "can",
+          "s": 20.77,
+          "e": 20.85
+        },
+        {
+          "w": "search",
+          "s": 20.93,
+          "e": 21.17
+        },
+        {
+          "w": "huge",
+          "s": 21.33,
+          "e": 21.65
+        },
+        {
+          "w": "stretches",
+          "s": 21.69,
+          "e": 22.05
+        },
+        {
+          "w": "of",
+          "s": 22.09,
+          "e": 22.17
+        },
+        {
+          "w": "ocean,",
+          "s": 22.21,
+          "e": 22.93
+        },
+        {
+          "w": "but",
+          "s": 23.01,
+          "e": 23.09
+        },
+        {
+          "w": "it",
+          "s": 23.17,
+          "e": 23.25
+        },
+        {
+          "w": "cannot",
+          "s": 23.33,
+          "e": 23.65
+        },
+        {
+          "w": "land",
+          "s": 23.73,
+          "e": 23.89
+        },
+        {
+          "w": "on",
+          "s": 23.97,
+          "e": 24.05
+        },
+        {
+          "w": "water,",
+          "s": 24.13,
+          "e": 24.85
+        },
+        {
+          "w": "so",
+          "s": 24.97,
+          "e": 25.09
+        },
+        {
+          "w": "crews",
+          "s": 25.17,
+          "e": 25.41
+        },
+        {
+          "w": "call",
+          "s": 25.49,
+          "e": 25.65
+        },
+        {
+          "w": "the",
+          "s": 25.69,
+          "e": 25.77
+        },
+        {
+          "w": "nearest",
+          "s": 25.81,
+          "e": 26.13
+        },
+        {
+          "w": "ships",
+          "s": 26.25,
+          "e": 26.37
+        },
+        {
+          "w": "for",
+          "s": 26.45,
+          "e": 26.53
+        },
+        {
+          "w": "help.",
+          "s": 26.61,
+          "e": 27.01
+        }
+      ]
+    },
+    {
+      "text": "A South Korean fishing vessel, the Universe Kim, answered and turned toward them.",
+      "start": 27.959,
+      "end": 33.09,
+      "words": [
+        {
+          "w": "A",
+          "s": 27.959,
+          "e": 28.039
+        },
+        {
+          "w": "South",
+          "s": 28.09,
+          "e": 28.21
+        },
+        {
+          "w": "Korean",
+          "s": 28.29,
+          "e": 28.61
+        },
+        {
+          "w": "fishing",
+          "s": 28.77,
+          "e": 29.01
+        },
+        {
+          "w": "vessel,",
+          "s": 29.09,
+          "e": 29.65
+        },
+        {
+          "w": "the",
+          "s": 29.73,
+          "e": 29.81
+        },
+        {
+          "w": "Universe",
+          "s": 29.89,
+          "e": 30.29
+        },
+        {
+          "w": "Kim,",
+          "s": 30.37,
+          "e": 31.09
+        },
+        {
+          "w": "answered",
+          "s": 31.33,
+          "e": 31.57
+        },
+        {
+          "w": "and",
+          "s": 31.65,
+          "e": 31.73
+        },
+        {
+          "w": "turned",
+          "s": 31.81,
+          "e": 32.05
+        },
+        {
+          "w": "toward",
+          "s": 32.13,
+          "e": 32.37
+        },
+        {
+          "w": "them.",
+          "s": 32.45,
+          "e": 33.09
+        }
+      ]
+    },
+    {
+      "text": "Its crew brought all three aboard, then lifted their skiff up with a crane.",
+      "start": 33.21,
+      "end": 37.73,
+      "words": [
+        {
+          "w": "Its",
+          "s": 33.21,
+          "e": 33.33
+        },
+        {
+          "w": "crew",
+          "s": 33.45,
+          "e": 33.57
+        },
+        {
+          "w": "brought",
+          "s": 33.65,
+          "e": 33.89
+        },
+        {
+          "w": "all",
+          "s": 33.97,
+          "e": 34.13
+        },
+        {
+          "w": "three",
+          "s": 34.21,
+          "e": 34.37
+        },
+        {
+          "w": "aboard,",
+          "s": 34.45,
+          "e": 35.17
+        },
+        {
+          "w": "then",
+          "s": 35.29,
+          "e": 35.41
+        },
+        {
+          "w": "lifted",
+          "s": 35.49,
+          "e": 35.81
+        },
+        {
+          "w": "their",
+          "s": 35.89,
+          "e": 35.97
+        },
+        {
+          "w": "skiff",
+          "s": 36.05,
+          "e": 36.29
+        },
+        {
+          "w": "up",
+          "s": 36.37,
+          "e": 36.45
+        },
+        {
+          "w": "with",
+          "s": 36.49,
+          "e": 36.57
+        },
+        {
+          "w": "a",
+          "s": 36.61,
+          "e": 36.69
+        },
+        {
+          "w": "crane.",
+          "s": 36.77,
+          "e": 37.73
+        }
+      ]
+    },
+    {
+      "text": "All three mariners were reported in good condition, with no injuries.",
+      "start": 37.85,
+      "end": 41.81,
+      "words": [
+        {
+          "w": "All",
+          "s": 37.85,
+          "e": 37.97
+        },
+        {
+          "w": "three",
+          "s": 38.09,
+          "e": 38.21
+        },
+        {
+          "w": "mariners",
+          "s": 38.29,
+          "e": 38.77
+        },
+        {
+          "w": "were",
+          "s": 38.85,
+          "e": 38.93
+        },
+        {
+          "w": "reported",
+          "s": 39.17,
+          "e": 39.41
+        },
+        {
+          "w": "in",
+          "s": 39.49,
+          "e": 39.57
+        },
+        {
+          "w": "good",
+          "s": 39.65,
+          "e": 39.81
+        },
+        {
+          "w": "condition,",
+          "s": 39.89,
+          "e": 40.61
+        },
+        {
+          "w": "with",
+          "s": 40.69,
+          "e": 40.77
+        },
+        {
+          "w": "no",
+          "s": 40.85,
+          "e": 41.01
+        },
+        {
+          "w": "injuries.",
+          "s": 41.09,
+          "e": 41.81
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 42.03
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.023
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.0
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261105-21/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261105-21-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261105-21/ccf-20261105-21.mp4"
 }

@@ -1,7 +1,548 @@
 {
   "short_id": "ccf-20261105-32",
   "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-05T20:57:53Z",
-  "error": "ElevenLabs 401: {\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 208835. You have 6 credits remaining, while 225 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"3a331ae14f52445441da93145536ddbf\"}}"
+  "status": "ok",
+  "built_at": "2026-11-06T04:51:44Z",
+  "duration": 32.33,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Four divers were missing, forty six miles out at sea off North Carolina.",
+      "start": 0.05,
+      "end": 4.93,
+      "words": [
+        {
+          "w": "Four",
+          "s": 0.05,
+          "e": 0.37
+        },
+        {
+          "w": "divers",
+          "s": 0.45,
+          "e": 0.85
+        },
+        {
+          "w": "were",
+          "s": 0.93,
+          "e": 1.01
+        },
+        {
+          "w": "missing,",
+          "s": 1.09,
+          "e": 1.81
+        },
+        {
+          "w": "forty",
+          "s": 1.97,
+          "e": 2.21
+        },
+        {
+          "w": "six",
+          "s": 2.29,
+          "e": 2.45
+        },
+        {
+          "w": "miles",
+          "s": 2.61,
+          "e": 2.93
+        },
+        {
+          "w": "out",
+          "s": 3.01,
+          "e": 3.09
+        },
+        {
+          "w": "at",
+          "s": 3.17,
+          "e": 3.25
+        },
+        {
+          "w": "sea",
+          "s": 3.33,
+          "e": 3.57
+        },
+        {
+          "w": "off",
+          "s": 3.65,
+          "e": 3.73
+        },
+        {
+          "w": "North",
+          "s": 3.81,
+          "e": 3.97
+        },
+        {
+          "w": "Carolina.",
+          "s": 4.05,
+          "e": 4.93
+        }
+      ]
+    },
+    {
+      "text": "A Coast Guard HC-130 crew from Elizabeth City was searching from above.",
+      "start": 5.25,
+      "end": 9.97,
+      "words": [
+        {
+          "w": "A",
+          "s": 5.25,
+          "e": 5.405
+        },
+        {
+          "w": "Coast",
+          "s": 5.405,
+          "e": 5.792
+        },
+        {
+          "w": "Guard",
+          "s": 5.792,
+          "e": 6.179
+        },
+        {
+          "w": "HC-130",
+          "s": 6.179,
+          "e": 6.643
+        },
+        {
+          "w": "crew",
+          "s": 6.643,
+          "e": 6.952
+        },
+        {
+          "w": "from",
+          "s": 6.952,
+          "e": 7.262
+        },
+        {
+          "w": "Elizabeth",
+          "s": 7.262,
+          "e": 7.958
+        },
+        {
+          "w": "City",
+          "s": 7.958,
+          "e": 8.268
+        },
+        {
+          "w": "was",
+          "s": 8.268,
+          "e": 8.5
+        },
+        {
+          "w": "searching",
+          "s": 8.5,
+          "e": 9.196
+        },
+        {
+          "w": "from",
+          "s": 9.196,
+          "e": 9.506
+        },
+        {
+          "w": "above.",
+          "s": 9.506,
+          "e": 9.97
+        }
+      ]
+    },
+    {
+      "text": "Then they spotted an SOS strobe light flashing in the water.",
+      "start": 10.29,
+      "end": 13.97,
+      "words": [
+        {
+          "w": "Then",
+          "s": 10.29,
+          "e": 10.53
+        },
+        {
+          "w": "they",
+          "s": 10.61,
+          "e": 10.69
+        },
+        {
+          "w": "spotted",
+          "s": 10.77,
+          "e": 11.09
+        },
+        {
+          "w": "an",
+          "s": 11.17,
+          "e": 11.41
+        },
+        {
+          "w": "SOS",
+          "s": 11.49,
+          "e": 11.97
+        },
+        {
+          "w": "strobe",
+          "s": 12.05,
+          "e": 12.37
+        },
+        {
+          "w": "light",
+          "s": 12.49,
+          "e": 12.61
+        },
+        {
+          "w": "flashing",
+          "s": 12.69,
+          "e": 13.09
+        },
+        {
+          "w": "in",
+          "s": 13.13,
+          "e": 13.21
+        },
+        {
+          "w": "the",
+          "s": 13.21,
+          "e": 13.29
+        },
+        {
+          "w": "water.",
+          "s": 13.33,
+          "e": 13.97
+        }
+      ]
+    },
+    {
+      "text": "The plane's infrared camera reads heat, so a head in the water stands out against the waves.",
+      "start": 14.29,
+      "end": 20.13,
+      "words": [
+        {
+          "w": "The",
+          "s": 14.29,
+          "e": 14.45
+        },
+        {
+          "w": "plane's",
+          "s": 14.61,
+          "e": 14.93
+        },
+        {
+          "w": "infrared",
+          "s": 15.01,
+          "e": 15.41
+        },
+        {
+          "w": "camera",
+          "s": 15.49,
+          "e": 15.89
+        },
+        {
+          "w": "reads",
+          "s": 15.97,
+          "e": 16.21
+        },
+        {
+          "w": "heat,",
+          "s": 16.29,
+          "e": 17.01
+        },
+        {
+          "w": "so",
+          "s": 17.09,
+          "e": 17.17
+        },
+        {
+          "w": "a",
+          "s": 17.25,
+          "e": 17.33
+        },
+        {
+          "w": "head",
+          "s": 17.41,
+          "e": 17.49
+        },
+        {
+          "w": "in",
+          "s": 17.57,
+          "e": 17.65
+        },
+        {
+          "w": "the",
+          "s": 17.69,
+          "e": 17.77
+        },
+        {
+          "w": "water",
+          "s": 17.81,
+          "e": 18.05
+        },
+        {
+          "w": "stands",
+          "s": 18.13,
+          "e": 18.45
+        },
+        {
+          "w": "out",
+          "s": 18.53,
+          "e": 18.61
+        },
+        {
+          "w": "against",
+          "s": 18.69,
+          "e": 18.93
+        },
+        {
+          "w": "the",
+          "s": 18.97,
+          "e": 19.05
+        },
+        {
+          "w": "waves.",
+          "s": 19.09,
+          "e": 20.13
+        }
+      ]
+    },
+    {
+      "text": "The nearest ship was a Navy destroyer, the USS Porter.",
+      "start": 20.21,
+      "end": 24.05,
+      "words": [
+        {
+          "w": "The",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "nearest",
+          "s": 20.37,
+          "e": 20.69
+        },
+        {
+          "w": "ship",
+          "s": 20.81,
+          "e": 20.93
+        },
+        {
+          "w": "was",
+          "s": 21.01,
+          "e": 21.09
+        },
+        {
+          "w": "a",
+          "s": 21.17,
+          "e": 21.25
+        },
+        {
+          "w": "Navy",
+          "s": 21.33,
+          "e": 21.57
+        },
+        {
+          "w": "destroyer,",
+          "s": 21.81,
+          "e": 22.45
+        },
+        {
+          "w": "the",
+          "s": 22.53,
+          "e": 22.61
+        },
+        {
+          "w": "USS",
+          "s": 22.69,
+          "e": 23.09
+        },
+        {
+          "w": "Porter.",
+          "s": 23.17,
+          "e": 24.05
+        }
+      ]
+    },
+    {
+      "text": "Her small boat crew pulled the divers out of the sea.",
+      "start": 24.17,
+      "end": 27.13,
+      "words": [
+        {
+          "w": "Her",
+          "s": 24.17,
+          "e": 24.29
+        },
+        {
+          "w": "small",
+          "s": 24.45,
+          "e": 24.61
+        },
+        {
+          "w": "boat",
+          "s": 24.69,
+          "e": 24.93
+        },
+        {
+          "w": "crew",
+          "s": 25.01,
+          "e": 25.25
+        },
+        {
+          "w": "pulled",
+          "s": 25.33,
+          "e": 25.49
+        },
+        {
+          "w": "the",
+          "s": 25.57,
+          "e": 25.65
+        },
+        {
+          "w": "divers",
+          "s": 25.77,
+          "e": 26.05
+        },
+        {
+          "w": "out",
+          "s": 26.09,
+          "e": 26.17
+        },
+        {
+          "w": "of",
+          "s": 26.17,
+          "e": 26.25
+        },
+        {
+          "w": "the",
+          "s": 26.29,
+          "e": 26.37
+        },
+        {
+          "w": "sea.",
+          "s": 26.45,
+          "e": 27.13
+        }
+      ]
+    },
+    {
+      "text": "Then they brought them back alongside the destroyer.",
+      "start": 27.707,
+      "end": 30.21,
+      "words": [
+        {
+          "w": "Then",
+          "s": 27.707,
+          "e": 27.787
+        },
+        {
+          "w": "they",
+          "s": 27.81,
+          "e": 27.89
+        },
+        {
+          "w": "brought",
+          "s": 27.943,
+          "e": 28.05
+        },
+        {
+          "w": "them",
+          "s": 28.17,
+          "e": 28.29
+        },
+        {
+          "w": "back",
+          "s": 28.41,
+          "e": 28.53
+        },
+        {
+          "w": "alongside",
+          "s": 28.73,
+          "e": 29.09
+        },
+        {
+          "w": "the",
+          "s": 29.13,
+          "e": 29.21
+        },
+        {
+          "w": "destroyer.",
+          "s": 29.41,
+          "e": 30.21
+        }
+      ]
+    },
+    {
+      "text": "All four divers were rescued.",
+      "start": 30.37,
+      "end": 32.13,
+      "words": [
+        {
+          "w": "All",
+          "s": 30.37,
+          "e": 30.53
+        },
+        {
+          "w": "four",
+          "s": 30.65,
+          "e": 30.77
+        },
+        {
+          "w": "divers",
+          "s": 30.85,
+          "e": 31.25
+        },
+        {
+          "w": "were",
+          "s": 31.33,
+          "e": 31.41
+        },
+        {
+          "w": "rescued.",
+          "s": 31.53,
+          "e": 32.13
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 32.33
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.003
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.2
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261105-32/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261105-32-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261105-32/ccf-20261105-32.mp4"
 }

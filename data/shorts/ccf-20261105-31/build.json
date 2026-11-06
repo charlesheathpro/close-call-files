@@ -1,7 +1,620 @@
 {
   "short_id": "ccf-20261105-31",
   "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-05T20:57:52Z",
-  "error": "ElevenLabs 401: {\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 208835. You have 6 credits remaining, while 242 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"1f43779e8a0a446896283b8d96bd16c8\"}}"
+  "status": "checks_failed",
+  "built_at": "2026-11-06T04:49:55Z",
+  "duration": 33.69,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "This man tried to walk across frozen Lake Saint Clair, between Michigan and Ontario.",
+      "start": 0.05,
+      "end": 5.37,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "man",
+          "s": 0.37,
+          "e": 0.53
+        },
+        {
+          "w": "tried",
+          "s": 0.61,
+          "e": 0.85
+        },
+        {
+          "w": "to",
+          "s": 0.93,
+          "e": 1.01
+        },
+        {
+          "w": "walk",
+          "s": 1.13,
+          "e": 1.25
+        },
+        {
+          "w": "across",
+          "s": 1.33,
+          "e": 1.65
+        },
+        {
+          "w": "frozen",
+          "s": 1.73,
+          "e": 2.13
+        },
+        {
+          "w": "Lake",
+          "s": 2.21,
+          "e": 2.37
+        },
+        {
+          "w": "Saint",
+          "s": 2.45,
+          "e": 2.69
+        },
+        {
+          "w": "Clair,",
+          "s": 2.77,
+          "e": 3.33
+        },
+        {
+          "w": "between",
+          "s": 3.49,
+          "e": 3.65
+        },
+        {
+          "w": "Michigan",
+          "s": 3.81,
+          "e": 4.29
+        },
+        {
+          "w": "and",
+          "s": 4.37,
+          "e": 4.45
+        },
+        {
+          "w": "Ontario.",
+          "s": 4.53,
+          "e": 5.37
+        }
+      ]
+    },
+    {
+      "text": "He was twenty five years old, and he was far out on the ice.",
+      "start": 5.65,
+      "end": 9.41,
+      "words": [
+        {
+          "w": "He",
+          "s": 5.65,
+          "e": 5.73
+        },
+        {
+          "w": "was",
+          "s": 5.81,
+          "e": 5.97
+        },
+        {
+          "w": "twenty",
+          "s": 6.13,
+          "e": 6.29
+        },
+        {
+          "w": "five",
+          "s": 6.37,
+          "e": 6.53
+        },
+        {
+          "w": "years",
+          "s": 6.61,
+          "e": 6.85
+        },
+        {
+          "w": "old,",
+          "s": 6.93,
+          "e": 7.41
+        },
+        {
+          "w": "and",
+          "s": 7.45,
+          "e": 7.53
+        },
+        {
+          "w": "he",
+          "s": 7.57,
+          "e": 7.65
+        },
+        {
+          "w": "was",
+          "s": 7.73,
+          "e": 7.89
+        },
+        {
+          "w": "far",
+          "s": 8.05,
+          "e": 8.29
+        },
+        {
+          "w": "out",
+          "s": 8.37,
+          "e": 8.45
+        },
+        {
+          "w": "on",
+          "s": 8.53,
+          "e": 8.61
+        },
+        {
+          "w": "the",
+          "s": 8.65,
+          "e": 8.73
+        },
+        {
+          "w": "ice.",
+          "s": 8.77,
+          "e": 9.41
+        }
+      ]
+    },
+    {
+      "text": "The Coast Guard Cutter Neah Bay, home-ported in Cleveland, came for him.",
+      "start": 9.73,
+      "end": 14.37,
+      "words": [
+        {
+          "w": "The",
+          "s": 9.73,
+          "e": 9.89
+        },
+        {
+          "w": "Coast",
+          "s": 9.93,
+          "e": 10.13
+        },
+        {
+          "w": "Guard",
+          "s": 10.21,
+          "e": 10.37
+        },
+        {
+          "w": "Cutter",
+          "s": 10.45,
+          "e": 10.77
+        },
+        {
+          "w": "Neah",
+          "s": 10.85,
+          "e": 11.09
+        },
+        {
+          "w": "Bay,",
+          "s": 11.17,
+          "e": 11.73
+        },
+        {
+          "w": "home-ported",
+          "s": 11.85,
+          "e": 12.29
+        },
+        {
+          "w": "in",
+          "s": 12.37,
+          "e": 12.45
+        },
+        {
+          "w": "Cleveland,",
+          "s": 12.53,
+          "e": 13.17
+        },
+        {
+          "w": "came",
+          "s": 13.29,
+          "e": 13.41
+        },
+        {
+          "w": "for",
+          "s": 13.49,
+          "e": 13.57
+        },
+        {
+          "w": "him.",
+          "s": 13.65,
+          "e": 14.37
+        }
+      ]
+    },
+    {
+      "text": "Neah Bay is an icebreaking tug, built to keep the Great Lakes open in winter.",
+      "start": 14.45,
+      "end": 19.33,
+      "words": [
+        {
+          "w": "Neah",
+          "s": 14.45,
+          "e": 14.69
+        },
+        {
+          "w": "Bay",
+          "s": 14.77,
+          "e": 14.93
+        },
+        {
+          "w": "is",
+          "s": 15.01,
+          "e": 15.09
+        },
+        {
+          "w": "an",
+          "s": 15.17,
+          "e": 15.25
+        },
+        {
+          "w": "icebreaking",
+          "s": 15.33,
+          "e": 15.89
+        },
+        {
+          "w": "tug,",
+          "s": 15.97,
+          "e": 16.53
+        },
+        {
+          "w": "built",
+          "s": 16.61,
+          "e": 16.85
+        },
+        {
+          "w": "to",
+          "s": 16.89,
+          "e": 16.97
+        },
+        {
+          "w": "keep",
+          "s": 17.01,
+          "e": 17.17
+        },
+        {
+          "w": "the",
+          "s": 17.21,
+          "e": 17.29
+        },
+        {
+          "w": "Great",
+          "s": 17.33,
+          "e": 17.57
+        },
+        {
+          "w": "Lakes",
+          "s": 17.65,
+          "e": 17.89
+        },
+        {
+          "w": "open",
+          "s": 17.97,
+          "e": 18.21
+        },
+        {
+          "w": "in",
+          "s": 18.25,
+          "e": 18.33
+        },
+        {
+          "w": "winter.",
+          "s": 18.37,
+          "e": 19.33
+        }
+      ]
+    },
+    {
+      "text": "Her crew climbed down and walked out across the broken ice.",
+      "start": 19.45,
+      "end": 22.477,
+      "words": [
+        {
+          "w": "Her",
+          "s": 19.45,
+          "e": 19.57
+        },
+        {
+          "w": "crew",
+          "s": 19.69,
+          "e": 19.81
+        },
+        {
+          "w": "climbed",
+          "s": 19.89,
+          "e": 20.21
+        },
+        {
+          "w": "down",
+          "s": 20.41,
+          "e": 20.61
+        },
+        {
+          "w": "and",
+          "s": 20.69,
+          "e": 20.85
+        },
+        {
+          "w": "walked",
+          "s": 20.97,
+          "e": 21.17
+        },
+        {
+          "w": "out",
+          "s": 21.25,
+          "e": 21.33
+        },
+        {
+          "w": "across",
+          "s": 21.41,
+          "e": 21.65
+        },
+        {
+          "w": "the",
+          "s": 21.73,
+          "e": 21.81
+        },
+        {
+          "w": "broken",
+          "s": 21.81,
+          "e": 22.05
+        },
+        {
+          "w": "ice.",
+          "s": 22.13,
+          "e": 22.477
+        }
+      ]
+    },
+    {
+      "text": "By the time they reached him, he was hypothermic.",
+      "start": 23.61,
+      "end": 26.61,
+      "words": [
+        {
+          "w": "By",
+          "s": 23.61,
+          "e": 23.69
+        },
+        {
+          "w": "the",
+          "s": 23.73,
+          "e": 23.81
+        },
+        {
+          "w": "time",
+          "s": 23.89,
+          "e": 24.05
+        },
+        {
+          "w": "they",
+          "s": 24.13,
+          "e": 24.29
+        },
+        {
+          "w": "reached",
+          "s": 24.33,
+          "e": 24.61
+        },
+        {
+          "w": "him,",
+          "s": 24.69,
+          "e": 25.01
+        },
+        {
+          "w": "he",
+          "s": 25.09,
+          "e": 25.17
+        },
+        {
+          "w": "was",
+          "s": 25.25,
+          "e": 25.33
+        },
+        {
+          "w": "hypothermic.",
+          "s": 25.45,
+          "e": 26.61
+        }
+      ]
+    },
+    {
+      "text": "They walked him back to the cutter and helped him up the side.",
+      "start": 26.69,
+      "end": 29.89,
+      "words": [
+        {
+          "w": "They",
+          "s": 26.69,
+          "e": 26.77
+        },
+        {
+          "w": "walked",
+          "s": 26.85,
+          "e": 27.09
+        },
+        {
+          "w": "him",
+          "s": 27.17,
+          "e": 27.25
+        },
+        {
+          "w": "back",
+          "s": 27.37,
+          "e": 27.49
+        },
+        {
+          "w": "to",
+          "s": 27.53,
+          "e": 27.61
+        },
+        {
+          "w": "the",
+          "s": 27.65,
+          "e": 27.73
+        },
+        {
+          "w": "cutter",
+          "s": 27.77,
+          "e": 28.13
+        },
+        {
+          "w": "and",
+          "s": 28.21,
+          "e": 28.37
+        },
+        {
+          "w": "helped",
+          "s": 28.45,
+          "e": 28.61
+        },
+        {
+          "w": "him",
+          "s": 28.65,
+          "e": 28.73
+        },
+        {
+          "w": "up",
+          "s": 28.77,
+          "e": 28.85
+        },
+        {
+          "w": "the",
+          "s": 28.93,
+          "e": 29.01
+        },
+        {
+          "w": "side.",
+          "s": 29.17,
+          "e": 29.89
+        }
+      ]
+    },
+    {
+      "text": "The Neah Bay crew brought him back to shore in Algonac, Michigan.",
+      "start": 29.93,
+      "end": 33.49,
+      "words": [
+        {
+          "w": "The",
+          "s": 29.93,
+          "e": 30.01
+        },
+        {
+          "w": "Neah",
+          "s": 30.05,
+          "e": 30.29
+        },
+        {
+          "w": "Bay",
+          "s": 30.37,
+          "e": 30.53
+        },
+        {
+          "w": "crew",
+          "s": 30.61,
+          "e": 30.85
+        },
+        {
+          "w": "brought",
+          "s": 30.93,
+          "e": 31.09
+        },
+        {
+          "w": "him",
+          "s": 31.17,
+          "e": 31.25
+        },
+        {
+          "w": "back",
+          "s": 31.33,
+          "e": 31.49
+        },
+        {
+          "w": "to",
+          "s": 31.53,
+          "e": 31.61
+        },
+        {
+          "w": "shore",
+          "s": 31.65,
+          "e": 31.97
+        },
+        {
+          "w": "in",
+          "s": 32.05,
+          "e": 32.21
+        },
+        {
+          "w": "Algonac,",
+          "s": 32.29,
+          "e": 32.81
+        },
+        {
+          "w": "Michigan.",
+          "s": 32.85,
+          "e": 33.49
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 33.7
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.21
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.0
+    },
+    "dead_air": {
+      "ok": false,
+      "value": [
+        [
+          22.57,
+          23.58
+        ]
+      ]
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [
+    "dead_air"
+  ],
+  "render_sheet": "data/shorts/ccf-20261105-31/render_sheet.jpg",
+  "asset_url": null,
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261105-31/ccf-20261105-31.mp4"
 }

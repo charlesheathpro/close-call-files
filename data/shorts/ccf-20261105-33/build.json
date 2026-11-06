@@ -1,7 +1,563 @@
 {
   "short_id": "ccf-20261105-33",
   "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-05T20:57:54Z",
-  "error": "ElevenLabs 401: {\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 208835. You have 6 credits remaining, while 253 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"a0d511f2be0cc04b4975c9611a5bd4f0\"}}"
+  "status": "ok",
+  "built_at": "2026-11-06T04:53:27Z",
+  "duration": 36.65,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "This yacht was going under off the Florida coast.",
+      "start": 0.05,
+      "end": 2.61,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "yacht",
+          "s": 0.37,
+          "e": 0.61
+        },
+        {
+          "w": "was",
+          "s": 0.69,
+          "e": 0.77
+        },
+        {
+          "w": "going",
+          "s": 0.85,
+          "e": 1.09
+        },
+        {
+          "w": "under",
+          "s": 1.17,
+          "e": 1.49
+        },
+        {
+          "w": "off",
+          "s": 1.57,
+          "e": 1.65
+        },
+        {
+          "w": "the",
+          "s": 1.69,
+          "e": 1.77
+        },
+        {
+          "w": "Florida",
+          "s": 1.81,
+          "e": 2.05
+        },
+        {
+          "w": "coast.",
+          "s": 2.13,
+          "e": 2.61
+        }
+      ]
+    },
+    {
+      "text": "Thirteen people were aboard the Serena III, thirteen nautical miles off Lauderdale-by-the-Sea.",
+      "start": 3.17,
+      "end": 9.09,
+      "words": [
+        {
+          "w": "Thirteen",
+          "s": 3.17,
+          "e": 3.65
+        },
+        {
+          "w": "people",
+          "s": 3.73,
+          "e": 4.05
+        },
+        {
+          "w": "were",
+          "s": 4.13,
+          "e": 4.21
+        },
+        {
+          "w": "aboard",
+          "s": 4.29,
+          "e": 4.61
+        },
+        {
+          "w": "the",
+          "s": 4.65,
+          "e": 4.73
+        },
+        {
+          "w": "Serena",
+          "s": 4.77,
+          "e": 5.17
+        },
+        {
+          "w": "III,",
+          "s": 5.25,
+          "e": 5.97
+        },
+        {
+          "w": "thirteen",
+          "s": 6.01,
+          "e": 6.45
+        },
+        {
+          "w": "nautical",
+          "s": 6.53,
+          "e": 6.93
+        },
+        {
+          "w": "miles",
+          "s": 7.01,
+          "e": 7.33
+        },
+        {
+          "w": "off",
+          "s": 7.49,
+          "e": 7.65
+        },
+        {
+          "w": "Lauderdale-by-the-Sea.",
+          "s": 7.73,
+          "e": 9.09
+        }
+      ]
+    },
+    {
+      "text": "The Coast Guard Cutter Margaret Norvell came alongside.",
+      "start": 9.41,
+      "end": 12.45,
+      "words": [
+        {
+          "w": "The",
+          "s": 9.41,
+          "e": 9.49
+        },
+        {
+          "w": "Coast",
+          "s": 9.57,
+          "e": 9.81
+        },
+        {
+          "w": "Guard",
+          "s": 9.93,
+          "e": 10.05
+        },
+        {
+          "w": "Cutter",
+          "s": 10.13,
+          "e": 10.37
+        },
+        {
+          "w": "Margaret",
+          "s": 10.45,
+          "e": 10.85
+        },
+        {
+          "w": "Norvell",
+          "s": 10.97,
+          "e": 11.25
+        },
+        {
+          "w": "came",
+          "s": 11.33,
+          "e": 11.41
+        },
+        {
+          "w": "alongside.",
+          "s": 11.49,
+          "e": 12.45
+        }
+      ]
+    },
+    {
+      "text": "This is infrared footage. It shows heat, so engines, hulls and people stand out from the cooler sea.",
+      "start": 12.77,
+      "end": 19.41,
+      "words": [
+        {
+          "w": "This",
+          "s": 12.77,
+          "e": 12.93
+        },
+        {
+          "w": "is",
+          "s": 13.01,
+          "e": 13.09
+        },
+        {
+          "w": "infrared",
+          "s": 13.17,
+          "e": 13.65
+        },
+        {
+          "w": "footage.",
+          "s": 13.81,
+          "e": 14.41
+        },
+        {
+          "w": "It",
+          "s": 14.61,
+          "e": 14.77
+        },
+        {
+          "w": "shows",
+          "s": 14.93,
+          "e": 15.09
+        },
+        {
+          "w": "heat,",
+          "s": 15.17,
+          "e": 15.73
+        },
+        {
+          "w": "so",
+          "s": 15.81,
+          "e": 15.97
+        },
+        {
+          "w": "engines,",
+          "s": 16.05,
+          "e": 16.77
+        },
+        {
+          "w": "hulls",
+          "s": 16.81,
+          "e": 17.25
+        },
+        {
+          "w": "and",
+          "s": 17.33,
+          "e": 17.49
+        },
+        {
+          "w": "people",
+          "s": 17.57,
+          "e": 17.89
+        },
+        {
+          "w": "stand",
+          "s": 17.97,
+          "e": 18.29
+        },
+        {
+          "w": "out",
+          "s": 18.37,
+          "e": 18.45
+        },
+        {
+          "w": "from",
+          "s": 18.53,
+          "e": 18.61
+        },
+        {
+          "w": "the",
+          "s": 18.65,
+          "e": 18.73
+        },
+        {
+          "w": "cooler",
+          "s": 18.77,
+          "e": 19.01
+        },
+        {
+          "w": "sea.",
+          "s": 19.09,
+          "e": 19.41
+        }
+      ]
+    },
+    {
+      "text": "The cutter launched its small boat crew beside the listing yacht.",
+      "start": 20.05,
+      "end": 23.17,
+      "words": [
+        {
+          "w": "The",
+          "s": 20.05,
+          "e": 20.13
+        },
+        {
+          "w": "cutter",
+          "s": 20.21,
+          "e": 20.53
+        },
+        {
+          "w": "launched",
+          "s": 20.57,
+          "e": 20.85
+        },
+        {
+          "w": "its",
+          "s": 20.93,
+          "e": 21.01
+        },
+        {
+          "w": "small",
+          "s": 21.09,
+          "e": 21.33
+        },
+        {
+          "w": "boat",
+          "s": 21.41,
+          "e": 21.65
+        },
+        {
+          "w": "crew",
+          "s": 21.73,
+          "e": 21.89
+        },
+        {
+          "w": "beside",
+          "s": 21.97,
+          "e": 22.29
+        },
+        {
+          "w": "the",
+          "s": 22.33,
+          "e": 22.41
+        },
+        {
+          "w": "listing",
+          "s": 22.45,
+          "e": 22.69
+        },
+        {
+          "w": "yacht.",
+          "s": 22.77,
+          "e": 23.17
+        }
+      ]
+    },
+    {
+      "text": "They took all thirteen people off.",
+      "start": 23.57,
+      "end": 25.49,
+      "words": [
+        {
+          "w": "They",
+          "s": 23.57,
+          "e": 23.73
+        },
+        {
+          "w": "took",
+          "s": 23.85,
+          "e": 23.97
+        },
+        {
+          "w": "all",
+          "s": 24.05,
+          "e": 24.29
+        },
+        {
+          "w": "thirteen",
+          "s": 24.37,
+          "e": 24.77
+        },
+        {
+          "w": "people",
+          "s": 24.85,
+          "e": 25.09
+        },
+        {
+          "w": "off.",
+          "s": 25.17,
+          "e": 25.49
+        }
+      ]
+    },
+    {
+      "text": "About twenty five minutes later, the yacht slid under, stern first.",
+      "start": 26.576,
+      "end": 30.53,
+      "words": [
+        {
+          "w": "About",
+          "s": 26.576,
+          "e": 26.656
+        },
+        {
+          "w": "twenty",
+          "s": 26.69,
+          "e": 26.93
+        },
+        {
+          "w": "five",
+          "s": 27.01,
+          "e": 27.17
+        },
+        {
+          "w": "minutes",
+          "s": 27.25,
+          "e": 27.49
+        },
+        {
+          "w": "later,",
+          "s": 27.57,
+          "e": 28.13
+        },
+        {
+          "w": "the",
+          "s": 28.21,
+          "e": 28.29
+        },
+        {
+          "w": "yacht",
+          "s": 28.37,
+          "e": 28.61
+        },
+        {
+          "w": "slid",
+          "s": 28.69,
+          "e": 29.01
+        },
+        {
+          "w": "under,",
+          "s": 29.17,
+          "e": 29.57
+        },
+        {
+          "w": "stern",
+          "s": 29.65,
+          "e": 29.97
+        },
+        {
+          "w": "first.",
+          "s": 30.05,
+          "e": 30.53
+        }
+      ]
+    },
+    {
+      "text": "The Margaret Norvell crew rescued all thirteen people from the Serena III before she sank.",
+      "start": 31.01,
+      "end": 36.45,
+      "words": [
+        {
+          "w": "The",
+          "s": 31.01,
+          "e": 31.09
+        },
+        {
+          "w": "Margaret",
+          "s": 31.17,
+          "e": 31.49
+        },
+        {
+          "w": "Norvell",
+          "s": 31.57,
+          "e": 31.89
+        },
+        {
+          "w": "crew",
+          "s": 31.97,
+          "e": 32.21
+        },
+        {
+          "w": "rescued",
+          "s": 32.29,
+          "e": 32.69
+        },
+        {
+          "w": "all",
+          "s": 32.77,
+          "e": 32.93
+        },
+        {
+          "w": "thirteen",
+          "s": 33.09,
+          "e": 33.49
+        },
+        {
+          "w": "people",
+          "s": 33.57,
+          "e": 33.81
+        },
+        {
+          "w": "from",
+          "s": 33.89,
+          "e": 34.05
+        },
+        {
+          "w": "the",
+          "s": 34.09,
+          "e": 34.17
+        },
+        {
+          "w": "Serena",
+          "s": 34.21,
+          "e": 34.53
+        },
+        {
+          "w": "III",
+          "s": 34.61,
+          "e": 35.09
+        },
+        {
+          "w": "before",
+          "s": 35.25,
+          "e": 35.57
+        },
+        {
+          "w": "she",
+          "s": 35.69,
+          "e": 35.81
+        },
+        {
+          "w": "sank.",
+          "s": 35.85,
+          "e": 36.45
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 36.67
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.016
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.6
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261105-33/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261105-33-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261105-33/ccf-20261105-33.mp4"
 }
