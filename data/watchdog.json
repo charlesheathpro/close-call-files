@@ -1,22 +1,23 @@
 {
-  "at": "2026-11-06T08:47:31Z",
+  "at": "2026-11-06T17:12:48Z",
   "healthy": false,
   "numbers": {
-    "dropped": 37,
-    "uploaded": 82,
+    "dropped": 39,
+    "uploaded": 85,
     "rejected": 1,
-    "passed": 2,
+    "passed": 3,
+    "needs_build": 1,
     "scheduled_36h": 4
   },
   "found": [
-    "buffer thin: scheduled+passed well under 15, pipeline under 25",
-    "build run hung 18 min in apt install ffmpeg",
-    "archive harvest died on a mid-run DVIDS 403"
+    "buffer thin at start: 3 scheduled in 36 h, 0 passed, 0 in the pipeline",
+    "two archive harvests (08:23, 08:32Z) died on a persistent DVIDS 403 via sys.exit and lost all progress",
+    "build hung 20 min in apt install ffmpeg again (third time in a day)"
   ],
   "fixed": [
-    "QA'd all 9 waiting Shorts: 6 passed (2 after QA fixes), 3 dropped",
-    "cancelled hung build and restarted it",
-    "harvest.py now retries a DVIDS 403 with backoff; archive harvest restarted",
-    "editor pass: 10 more candidates reviewed, none clear the viral bar (DVIDS rescue pool exhausted)"
+    "harvest.py: a persistent DVIDS 403 now skips remaining DVIDS assets (NASA and Commons continue) instead of exiting; archive harvest restarted and committing partials",
+    "build.yml and harvest.yml: ffmpeg install time-boxed, man-db trigger off, static build fallback; next build installed in 24 s",
+    "editor pass: 1 new spec (06-01 leatherback), 14 candidates passed over; DVIDS rescue lane nearly exhausted",
+    "QA: passed 06-01, 06-12, 06-13, 06-31; dropped 06-11 and 06-21"
   ]
 }
