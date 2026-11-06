@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261105-30",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-304274",
   "lane": "rescue",
   "story_type": "fishing boat fire, crew abandons ship to a life raft",
@@ -57,7 +57,7 @@
       {
         "start": 21.1,
         "end": 23.4,
-        "layout": "crop",
+        "layout": "fit",
         "crop_x": 0.5
       },
       {
@@ -99,21 +99,23 @@
         "end": 37.4,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 58.8,
-        "end": 61.0,
-        "layout": "crop",
-        "crop_x": 0.42
       }
     ],
     [
+      {
+        "start": 52.0,
+        "end": 54.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
       {
         "start": 4.6,
         "end": 6.8,
         "layout": "crop",
         "crop_x": 0.45
-      },
+      }
+    ],
+    [
       {
         "start": 7.0,
         "end": 9.2,
@@ -121,24 +123,10 @@
         "crop_x": 0.55
       },
       {
-        "start": 9.2,
-        "end": 11.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
         "start": 11.6,
         "end": 13.8,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 13.8,
-        "end": 16.0,
-        "layout": "crop",
-        "crop_x": 0.45
       }
     ],
     [
@@ -175,8 +163,8 @@
         "crop_x": 0.4
       },
       {
-        "start": 50.4,
-        "end": 52.6,
+        "start": 49.8,
+        "end": 51.9,
         "layout": "crop",
         "crop_x": 0.6
       }
@@ -222,5 +210,5 @@
       "seen_at": "source 4 to 73 s"
     }
   ],
-  "preview_ok": "L4, L5 and OUT are the wide aerial view of the burning boat and its smoke plume over open sea; the boat and smoke are in frame in every sampled frame, so EMPTY is the uniform sea. L8 is the infrared pickup alongside Aleutian Beauty: dark gray but the crew on deck and the raft are clearly visible."
+  "preview_ok": "L0 opens on the infrared close-up of the burning Western Venture (first shot fit so the whole burning hull reads). L3 is the infrared close view of the raft in the swells. L4 and OUT are the wide aerial view of the burning boat and its smoke plume over open sea; boat and smoke are in frame in every sampled frame, so EMPTY is the uniform sea. L7 is the infrared pickup alongside Aleutian Beauty: dark gray but the crew on deck and the raft are clearly visible."
 }

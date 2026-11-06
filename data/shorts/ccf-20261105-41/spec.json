@@ -9,6 +9,7 @@
   "narration": [
     "Nobody was driving this boat, and it would not stop circling.",
     "Its driver was in the water.",
+    "Boaters call this the circle of death.",
     "Crews off Miami found it still running.",
     "A new rule, eleven days old, says small boats need a cut-off switch on a lanyard."
   ],
@@ -58,62 +59,76 @@
     [
       {
         "start": 11.0,
-        "end": 13.3,
+        "end": 13.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 13.4,
-        "end": 15.6,
+        "start": 13.0,
+        "end": 15.0,
         "layout": "crop",
         "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 1.2,
-        "end": 3.5,
+        "start": 2.0,
+        "end": 4.0,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.45,
+        "speed": 0.9
       }
     ],
     [
       {
-        "start": 5.8,
-        "end": 8.2,
+        "start": 4.0,
+        "end": 6.2,
+        "layout": "crop",
+        "crop_x": 0.5,
+        "speed": 0.9
+      }
+    ],
+    [
+      {
+        "start": 6.2,
+        "end": 8.6,
+        "layout": "crop",
+        "crop_x": 0.45,
+        "speed": 0.9
+      }
+    ],
+    [
+      {
+        "start": 15.0,
+        "end": 17.8,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 17.8,
+        "end": 21.0,
         "layout": "crop",
         "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 15.7,
-        "end": 17.9,
+        "start": 0.0,
+        "end": 2.0,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.6,
+        "speed": 0.9
       },
       {
-        "start": 18.0,
-        "end": 20.9,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
-        "start": 3.6,
-        "end": 5.7,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 8.3,
+        "start": 8.6,
         "end": 10.7,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.45,
+        "speed": 0.9
       }
     ]
   ],
   "description": "On April 12, 2021, a man was separated from his boat near Fisherman's Channel off Miami and a good Samaritan pulled him from the water. Coast Guard Station Miami Beach and Miami-Dade Fire Rescue crews found the boat still running and stopped it by entangling its propeller.\n\nFootage: U.S. Coast Guard video, Coast Guard District Seven, via DVIDS: https://www.dvidshub.net/video/790496/coast-guard-partner-agencies-good-samaritan-rescue-1-stop-runaway-vessel-off-miami\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #boating #miami",
-  "revision": 1
+  "revision": 2,
+  "preview_ok": "Every shot is the same circling inflatable in Fisherman's Channel; source is only 21 s, so every second is used once at 0.9x where needed."
 }
