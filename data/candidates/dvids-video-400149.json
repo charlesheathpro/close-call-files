@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:400149",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "B-Roll of a UH-60 Blackhawk Fighting a Wildfire",
+  "description": "B-Roll of a UH-60 Blackhawk fighting a wildfire south of Bismarck, N.D. Video includes scenes of the helicopter flying with a water bucket and dipping it into the Missouri River",
+  "keywords": "UH-60 Blackhawk, Wildfire, North Dakota National Guard, firefighting",
+  "date": "2015-04-13T00:00:00-04:00",
+  "date_published": "2015-04-22T11:13:03-04:00",
+  "branch": "Joint",
+  "unit_name": "North Dakota National Guard Public Affairs",
+  "credit": "Jonathan Haugen",
+  "category": "B-Roll",
+  "virin": "150413-O-LS639-664",
+  "location": {
+    "city": "Bismarck",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/400149/b-roll-uh-60-blackhawk-fighting-wildfire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-400149",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:43:21Z",
+  "duration": 155.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102384033/DOD_102384033.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9099,
+    "size": 179015573
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.1
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-400149.jpg",
+  "sheet_times": [
+    8.8,
+    18.2,
+    27.61,
+    37.02,
+    46.42,
+    55.83,
+    65.24,
+    74.65,
+    84.05,
+    93.46,
+    102.87,
+    112.28,
+    121.68,
+    131.09,
+    140.5,
+    149.91
+  ]
+}

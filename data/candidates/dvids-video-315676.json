@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:315676",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "SinkingVessel",
+  "description": "ASTORIA, Ore. - A Coast Guard rescue helicopter crew from Air Station Astoria, Ore., hoists a 53-year-old fisherman from a sinking vessel approximately 20 miles west of the Columbia River entrance, Tuesday, July 20, 2010. \r\n\r\nCoast Guard Group Astoria issued an urgent marine information broadcast (UMIB) and launched a 47-foot motor lifeboat crew from Station Cape Disappointment, Wash., and an MH-60 Jayhawk helicopter crew from Air Station Astoria. \r\n\r\nThe helicopter crew hoisted and transported the fisherman to awaiting emergency medical services at Air Station Astoria. \r\n\r\nU.S. Coast Guard video by Air Station Astoria, Ore.",
+  "keywords": "CGVI",
+  "date": "2010-07-20T00:00:00-04:00",
+  "date_published": "2013-12-19T13:00:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100720-G-6562L-002",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315676/sinkingvessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315676",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:43:24Z",
+  "duration": 40.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058712/DOD_101058712-640x480-3000k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 16068302
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.03,
+    40.0
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315676.jpg",
+  "sheet_times": [
+    1.24,
+    3.71,
+    6.19,
+    8.67,
+    11.14,
+    13.62,
+    16.1,
+    18.57,
+    21.05,
+    23.53,
+    26.0,
+    28.48,
+    30.96,
+    33.43,
+    35.91,
+    38.39
+  ]
+}
