@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:109514",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "First Boats Enter Honolulu Harbor After Tsunami",
+  "description": "B-Roll of first boats enter Honolulu Harbor after tsunami. jpearthquake11",
+  "keywords": "Honolulu Harbor, jpearthquake11",
+  "date": "2011-03-11T00:00:00-05:00",
+  "date_published": "2011-03-11T20:33:07-05:00",
+  "branch": "Joint",
+  "unit_name": "DMA Pacific - Hawaii Media Bureau",
+  "credit": "Cpl. Kevin Beebe",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/109514/first-boats-enter-honolulu-harbor-after-tsunami",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-109514",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:04:36Z",
+  "duration": 183.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1103/DOD_100140347/DOD_100140347.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.87,
+      "e": 6.87,
+      "text": "I don't."
+    }
+  ],
+  "scene_cuts": [
+    3.5,
+    9.44,
+    17.12,
+    38.04,
+    45.65,
+    52.72,
+    60.29,
+    70.24,
+    79.45,
+    107.87,
+    126.56,
+    135.4,
+    180.88
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      180.9
+    ],
+    "silence_ends": [
+      183.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-109514.jpg",
+  "sheet_times": [
+    5.72,
+    17.15,
+    28.59,
+    40.03,
+    51.46,
+    62.9,
+    74.34,
+    85.77,
+    97.21,
+    108.65,
+    120.08,
+    131.52,
+    142.96,
+    154.39,
+    165.83,
+    177.27
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:316769",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Tsunami damage to shorelines at Crescent City, Calif.",
+  "description": "MCKINLEYVILLE, Calif. -- Coast Guard Air Station Humboldt Bay air crew scans the Crescent City area shorelines noting damage to docks and piers Friday, March 11, 2011. Northern California Coast Guard response crews are assessing and responding to any and all impacts to area shorelines as a result of the West Coast tsunami caused by an 8.9 earthquake that struck Japan, Thursday. Video by Coast Guard Air Station Humboldt Bay.",
+  "keywords": "CGVI",
+  "date": "2011-03-11T00:00:00-05:00",
+  "date_published": "2013-12-20T15:13:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "McKinleyville",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316769/tsunami-damage-shorelines-crescent-city-calif",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316769",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:03:10Z",
+  "duration": 51.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061014/DOD_101061014.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4443,
+    "size": 31200514
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.21,
+    46.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      46.5
+    ],
+    "silence_ends": [
+      5.3,
+      51.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316769.jpg",
+  "sheet_times": [
+    1.6,
+    4.79,
+    7.99,
+    11.19,
+    14.38,
+    17.58,
+    20.78,
+    23.97,
+    27.17,
+    30.37,
+    33.56,
+    36.76,
+    39.95,
+    43.15,
+    46.35,
+    49.54
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:710611",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard aircrew hoists stranded hiker in Boardman State Park, Oregon",
+  "description": "An MH-65 Dolphin helicopter aircrew hoists a stranded hiker off a cliff in Boardman State Park near Brookings, Oregon, Sept. 20, 2019. The woman was transported to Brookings Airport where she was evaluated by emergency medical services. (U.S. Coast Guard video by Sector North Bend)",
+  "keywords": "MH-65 Dolphin helicopter, Sector North Bend, Curry County Sheriff's Office, Curry County, Boardman State Park, Coast Guard, USCG",
+  "date": "2019-09-20T00:00:00-04:00",
+  "date_published": "2019-09-21T00:16:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Levi Read",
+  "category": "B-Roll",
+  "virin": "190920-G-G0213-1001",
+  "location": {
+    "city": "Brookings",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/710611/coast-guard-aircrew-hoists-stranded-hiker-boardman-state-park-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-710611",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:03:06Z",
+  "duration": 78.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107255851/DOD_107255851.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3565,
+    "size": 36228880
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.07,
+      "e": 2.07,
+      "text": "Perfectly."
+    }
+  ],
+  "scene_cuts": [
+    43.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-710611.jpg",
+  "sheet_times": [
+    2.43,
+    7.29,
+    12.15,
+    17.01,
+    21.88,
+    26.74,
+    31.6,
+    36.46,
+    41.32,
+    46.18,
+    51.04,
+    55.9,
+    60.76,
+    65.63,
+    70.49,
+    75.35
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:579608",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard MH-65 Dolphin helicopter crew hoists mudslide victims in Santa Barbara County",
+  "description": "The crew of a Coast Guard MH-65 Dolphin helicopter crew from Forward Operating Base Point Mugu, rescue an adult male, a female child and a dog, in Santa Barbara County, California after their house was overtaken by a mudslide, Jan. 9, 2018. The family was transported to a staging area with Santa Barbara County emergency crews. (U.S. Coast Guard video by Coast Guard Forward Operating Base Point Mugu/released)",
+  "keywords": "mudslide, Santa Barbara, MH-65, Coast Guard",
+  "date": "2018-01-09T00:00:00-05:00",
+  "date_published": "2018-01-11T18:38:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "170111-G-LS785-001",
+  "location": {
+    "city": "Santa Barbara",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/579608/coast-guard-mh-65-dolphin-helicopter-crew-hoists-mudslide-victims-santa-barbara-county",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-579608",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:04:43Z",
+  "duration": 288.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105235697/DOD_105235697.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9936,
+    "size": 359226316
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    98.47,
+    101.13,
+    199.6,
+    201.97
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      288.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-579608.jpg",
+  "sheet_times": [
+    9.01,
+    27.04,
+    45.07,
+    63.1,
+    81.12,
+    99.15,
+    117.18,
+    135.21,
+    153.23,
+    171.26,
+    189.29,
+    207.31,
+    225.34,
+    243.37,
+    261.4,
+    279.42
+  ]
+}

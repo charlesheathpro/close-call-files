@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:69971",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Officials Survey Tsunami Damage in American Samoa",
+  "description": "B-roll of officials surveying tsunami damage in American Samoa. Scenes include aerial footage of the island shot from a C-130 out of Barber's Point Hawaii, officials landing in a plane, a grounded boat and damaged buildings and roads with local people walking around. Video by Petty Officer Luke Clayton. pacificrelief",
+  "keywords": "tsunami, American Samoa, storm damage, Coas Guard, US 14th Coast Guard District External Affairs, Coast Guard, C-130, PACAF, Pacific",
+  "date": "2009-09-30T00:00:00-04:00",
+  "date_published": "2009-10-01T20:07:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "American Samoa",
+    "state_abbreviation": null,
+    "country_abbreviation": "AS"
+  },
+  "page_url": "https://www.dvidshub.net/video/69971/officials-survey-tsunami-damage-american-samoa",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-69971",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:03:27Z",
+  "duration": 155.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100054196/DOD_100054196.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 8.05,
+      "e": 9.05,
+      "text": "There you go."
+    },
+    {
+      "s": 9.05,
+      "e": 10.05,
+      "text": "Put it up."
+    }
+  ],
+  "scene_cuts": [
+    3.54,
+    17.75,
+    28.16,
+    38.64,
+    49.52,
+    61.13,
+    70.94,
+    76.94,
+    85.49,
+    89.76,
+    96.63,
+    106.01,
+    116.68,
+    127.56,
+    137.37,
+    146.18,
+    152.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      38.6,
+      105.8,
+      152.5
+    ],
+    "silence_ends": [
+      3.5,
+      49.5,
+      115.9,
+      156.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-69971.jpg",
+  "sheet_times": [
+    4.86,
+    14.57,
+    24.29,
+    34.0,
+    43.71,
+    53.43,
+    63.14,
+    72.86,
+    82.57,
+    92.29,
+    102.0,
+    111.71,
+    121.43,
+    131.14,
+    140.86,
+    150.57
+  ]
+}
