@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:494480",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues dog",
+  "title": "Duck Hunter, dog rescued from marshy area near Indian River",
+  "description": "The Coast Guard rescued a duck hunter and his dog from a marsh near Indian River, Delaware, Monday, Nov. 21, 2016.\r\n\r\nA passer-by spotted the man trapped in the marsh, who alerted a local fire department. The marsh proved too shallow for fire department boats, so Coast Guard Sector Delaware Bay dispatched an MH-65 Dolphin rescue helicopter crew to hoist the man and his dog to safety.\r\n\r\nU.S. Coast Guard video by Air Station Atlantic City",
+  "keywords": "Atlantic City, pet, Coast Guard rescue, Duck hunter, dog",
+  "date": "2016-11-21T00:00:00-05:00",
+  "date_published": "2016-11-21T16:00:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Seth Johnson",
+  "category": "B-Roll",
+  "virin": "161121-G-SQ620-414",
+  "location": {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "state_abbreviation": "PA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/494480/duck-hunter-dog-rescued-marshy-area-near-indian-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-494480",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:44:57Z",
+  "duration": 98.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1611/DOD_103870451/DOD_103870451.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8071,
+    "size": 100914199
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    59.46,
+    62.46,
+    93.46
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-494480.jpg",
+  "sheet_times": [
+    6.96,
+    12.84,
+    18.71,
+    24.58,
+    30.45,
+    36.33,
+    42.2,
+    48.07,
+    53.95,
+    59.82,
+    65.69,
+    71.57,
+    77.44,
+    83.31,
+    89.19,
+    95.06
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:464891",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard Rescues 2 Boaters Six Miles South of Sea Horse Key, Florida",
+  "description": "An aircrew from Coast Guard Air Station Clearwater, Florida, rescued two boaters, May 21, 2016, approximately six miles south of Sea Horse Key, Florida. The Coast Guard and members of other agencies are searching for a third missing boater. U.S. Coast Guard video by Air Station Clearwater.",
+  "keywords": "boaters, hoist, Clearwater, AIR STATION CLEARWATER, TAMPA, SAR, search and rescue",
+  "date": "2016-05-21T00:00:00-04:00",
+  "date_published": "2016-05-21T15:37:41-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 2nd Class Anthony Soto",
+  "category": "B-Roll",
+  "virin": "160521-G-ZZ999-001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/464891/coast-guard-rescues-2-boaters-six-miles-south-sea-horse-key-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-464891",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:44:02Z",
+  "duration": 143.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103323611/DOD_103323611.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7712,
+    "size": 138106103
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 58,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      143.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-464891.jpg",
+  "sheet_times": [
+    8.35,
+    17.01,
+    25.67,
+    34.33,
+    42.99,
+    51.65,
+    60.31,
+    68.96,
+    77.62,
+    86.28,
+    94.94,
+    103.6,
+    112.26,
+    120.91,
+    129.57,
+    138.23
+  ]
+}
