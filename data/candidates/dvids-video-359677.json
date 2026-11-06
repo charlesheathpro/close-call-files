@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:359677",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard aircrew rescues stranded boaters near Willapa Bay, Wash.",
+  "description": "A Coast Guard Air Station Astoria, Ore., MH-60 Jayhawk helicopter crew rescues two boaters stranded in a mud flat near Willapa Bay, Wash., Sept. 7, 2014. The two people became stuck in the mud while attempting to walk to shore after their 12-foot skiff ran aground. U.S. Coast Guard video by Coast Guard Air Station Astoria.",
+  "keywords": "MH-60, Jayhawk, Coast Guard rescue, Air Station Astoria, willapa bay, sept 7 2014, Astoria",
+  "date": "2014-09-07T00:00:00-04:00",
+  "date_published": "2014-09-08T18:25:53-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140907-G-ZZ999-001",
+  "location": {
+    "city": "Willapa",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/359677/coast-guard-aircrew-rescues-stranded-boaters-near-willapa-bay-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.89187,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-359677",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:12:28Z",
+  "duration": 96.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101933146/DOD_101933146.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8177,
+    "size": 99717974
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.87,
+    91.12
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      48.3,
+      55.6,
+      56.5,
+      65.1,
+      72.4,
+      78.8
+    ],
+    "silence_ends": [
+      48.1,
+      55.6,
+      56.5,
+      65.1,
+      72.1,
+      78.8,
+      96.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-359677.jpg",
+  "sheet_times": [
+    6.76,
+    12.5,
+    18.24,
+    23.98,
+    29.72,
+    35.46,
+    41.19,
+    46.93,
+    52.67,
+    58.41,
+    64.15,
+    69.89,
+    75.63,
+    81.37,
+    87.1,
+    92.84
+  ]
+}

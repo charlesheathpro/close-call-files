@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:582140",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "survivors",
+  "title": "Coast Guard rescues 4 from water after boat capsizes near Eastport, Maine",
+  "description": "A Coast Guard 45-foot rescue boat crew from Station Eastport transfers four survivors to Emergency Medical Services personnel, Tuesday, January 30, 2018, in Eastport, Maine. The Coast Guard crew rescued the four people after their 14-foot skiff capsized in Deep Cove near Eastport. (U.S Coast Guard video)",
+  "keywords": "Eastport, SAR, USCG",
+  "date": "2018-01-30T00:00:00-05:00",
+  "date_published": "2018-01-30T15:26:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180130-G-G0101-1004",
+  "location": {
+    "city": "Eastport",
+    "state": "Maine",
+    "country": "United States",
+    "state_abbreviation": "ME",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/582140/coast-guard-rescues-4-water-after-boat-capsizes-near-eastport-maine",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-582140",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:11:32Z",
+  "duration": 36.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105281105/DOD_105281105.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9940,
+    "size": 46359817
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.38,
+      "e": 6.69,
+      "text": "Get out of my hands, dog."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-582140.jpg",
+  "sheet_times": [
+    1.14,
+    3.41,
+    5.68,
+    7.95,
+    10.22,
+    12.49,
+    14.76,
+    17.03,
+    19.3,
+    21.57,
+    23.84,
+    26.11,
+    28.38,
+    30.65,
+    32.92,
+    35.19
+  ]
+}

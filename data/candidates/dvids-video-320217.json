@@ -1,0 +1,109 @@
+{
+  "asset_id": "video:320217",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "aircrew rescues",
+  "title": "Coast Guard rescues man stranded on ice in Mitchell's Bay, Lake St. Clair, Ontario, Canada",
+  "description": "An aircrew from Coast Guard Air Station Detroit rescues a man stranded on the ice in Mitchell's Bay on Lake St. Clair, Ontario, Canada Jan. 24, 2014.\r\nThe aircrew battled wind gusts of up to 30 knots and temperatures near 0 degrees fahrenheit.",
+  "keywords": "Ice, Lake St. Clair, Air Station Detroit, Yaw, Coast Guard 9th District, Kuffel, Lippert, Pietschmann, hoist cam, Falce",
+  "date": "2014-01-24T00:00:00-05:00",
+  "date_published": "2014-01-24T19:05:12-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140124-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Ontario",
+    "country": "Canada",
+    "state_abbreviation": "ON",
+    "country_abbreviation": "CA"
+  },
+  "page_url": "https://www.dvidshub.net/video/320217/coast-guard-rescues-man-stranded-ice-mitchells-bay-lake-st-clair-ontario-canada",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-320217",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:12:57Z",
+  "duration": 39.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101093006/DOD_101093006-640x480-2650k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2650,
+    "size": 13592916
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.21,
+      "e": 8.1,
+      "text": "Alright, five. Easy right."
+    },
+    {
+      "s": 8.1,
+      "e": 11.1,
+      "text": "Alright, alright, alright. Old critic mode. Ready?"
+    },
+    {
+      "s": 11.1,
+      "e": 16.14,
+      "text": "Take a load. Alright, just a little bit."
+    },
+    {
+      "s": 16.14,
+      "e": 22.26,
+      "text": "Alright, open up. Can I slide left Chris? You can slide anywhere you need to."
+    },
+    {
+      "s": 22.26,
+      "e": 25.26,
+      "text": "Alright, slide. Easy left. Just to get the fly out here."
+    },
+    {
+      "s": 25.26,
+      "e": 27.26,
+      "text": "Alright, right here left."
+    },
+    {
+      "s": 27.26,
+      "e": 33.16,
+      "text": "Alright, so you are clear off. Close."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    35.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-320217.jpg",
+  "sheet_times": [
+    1.22,
+    3.66,
+    6.1,
+    8.54,
+    10.98,
+    13.42,
+    15.86,
+    18.3,
+    20.74,
+    23.18,
+    25.62,
+    28.06,
+    30.5,
+    32.94,
+    35.38,
+    37.82
+  ]
+}

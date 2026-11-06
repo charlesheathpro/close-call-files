@@ -1,0 +1,94 @@
+{
+  "asset_id": "video:813882",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "National Guard Wildfire Mission",
+  "description": "Package highlighting the impact of National Guard members in combating wildfires. Today, more than 1,350 National Guard Soldiers and Airmen from 14 states continue to support federal, local and state partners battle wildfires in the U.S.(U.S. Air National Guard video by Master Sgt. Thomas Sobczyk)",
+  "keywords": "wildfires, MAFFS, National Guard",
+  "date": "2021-09-14T00:00:00-04:00",
+  "date_published": "2021-09-15T18:52:04-04:00",
+  "branch": "Joint",
+  "unit_name": "National Guard Bureau",
+  "credit": "Master Sgt. Thomas Sobczyk",
+  "category": "Package",
+  "virin": "210914-Z-BV541-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/813882/national-guard-wildfire-mission",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 1.29167,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-813882",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:11:34Z",
+  "duration": 64.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2109/DOD_108570712/DOD_108570712.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8498,
+    "size": 69520661
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 58.04,
+      "e": 58.25,
+      "text": "Mhm ."
+    }
+  ],
+  "scene_cuts": [
+    1.29,
+    8.88,
+    16.42,
+    18.96,
+    24.0,
+    26.54,
+    34.17,
+    34.21,
+    36.71,
+    39.21,
+    41.71,
+    46.75,
+    49.29,
+    51.79,
+    54.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      60.7
+    ],
+    "silence_ends": [
+      0.8,
+      64.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-813882.jpg",
+  "sheet_times": [
+    3.25,
+    7.16,
+    11.08,
+    14.99,
+    18.91,
+    22.82,
+    26.74,
+    30.65,
+    34.57,
+    38.48,
+    42.4,
+    46.31,
+    50.22,
+    54.14,
+    58.05,
+    61.97
+  ]
+}
