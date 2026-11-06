@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:842969",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "New Mexico Wildfires: Calf Canyon/Hermits Peak Wildfire Footage",
+  "description": "Las Vegas, NM – B-Roll video of wildfires and active fire suppression in Calf Canyon/Hermits Peak.",
+  "keywords": "FEMA, wildfires, new mexico, firefighters, Las Vegas",
+  "date": "2022-05-11T00:00:00-04:00",
+  "date_published": "2022-05-12T12:29:49-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Daniel Rojas",
+  "category": "B-Roll",
+  "virin": "220511-D-DR336-419",
+  "location": {
+    "city": "Las Vegas",
+    "state": "New Mexico",
+    "country": "United States",
+    "state_abbreviation": "NM",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/842969/new-mexico-wildfires-calf-canyon-hermits-peak-wildfire-footage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-842969",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:18:57Z",
+  "duration": 154.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2205/DOD_108971588/DOD_108971588.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 146070899
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.99,
+    17.17,
+    33.18,
+    43.19,
+    148.55,
+    154.55
+  ],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      126.1
+    ],
+    "silence_ends": [
+      43.2,
+      127.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-842969.jpg",
+  "sheet_times": [
+    4.81,
+    14.44,
+    24.07,
+    33.7,
+    43.33,
+    52.96,
+    62.59,
+    72.22,
+    81.85,
+    91.48,
+    101.11,
+    110.74,
+    120.37,
+    130.0,
+    139.63,
+    149.26
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:148142",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Colorado Wildfire - B-roll",
+  "description": "B-Roll from SSgt Brad Sisson and Sra Zach Lopez. Shots from local area and of Vandenberg AFB firefighters.  Also available in High Definition.",
+  "keywords": "fires, Colorado, Wildfire, Zach Lopez, Coloradofire, High Definition, Brad Sisson, fire fighters",
+  "date": "2012-06-28T00:00:00-04:00",
+  "date_published": "2012-06-29T05:29:01-04:00",
+  "branch": "Joint",
+  "unit_name": "Defense Media Activity - Air Force",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "120628-F-0203W-002",
+  "location": {
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "country": "United States",
+    "state_abbreviation": "CO",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/148142/colorado-wildfire-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-148142",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:19:45Z",
+  "duration": 113.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1206/DOD_100430857/DOD_100430857.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9323,
+    "size": 137096230
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.83,
+    7.21,
+    15.48,
+    24.22,
+    46.45,
+    54.92,
+    58.83,
+    62.6,
+    76.84,
+    86.52,
+    96.4,
+    107.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      54.9,
+      57.6
+    ],
+    "silence_ends": [
+      0.8,
+      55.6,
+      58.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-148142.jpg",
+  "sheet_times": [
+    3.54,
+    10.63,
+    17.72,
+    24.81,
+    31.9,
+    38.99,
+    46.08,
+    53.17,
+    60.25,
+    67.34,
+    74.43,
+    81.52,
+    88.61,
+    95.7,
+    102.79,
+    109.88
+  ]
+}

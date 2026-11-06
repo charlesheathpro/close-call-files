@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:999708",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Cutter rescues 1 on Lake Huron",
+  "description": "U.S. Coast Guard Cutter Mackinaw (WLBB 30) utilizes its crane to hoist a snowmobile from ice near Mackinac island, Michigan, March 15, 2026. The vehicle was being recovered after its operator became lost and stranded while on Lake Huron, deploying the cutter's ice rescue team to recover the person and their vehicle. (U.S. Coast Guard video by Lt. William Erekson)",
+  "keywords": "Ice Rescue, ice safety, Great Lakes District",
+  "date": "2026-03-15T00:00:00-04:00",
+  "date_published": "2026-03-17T08:50:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "260315-G-G0109-1004",
+  "location": {
+    "city": "Mackinac Island",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/999708/coast-guard-cutter-rescues-1-lake-huron",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-999708",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:20:00Z",
+  "duration": 29.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111577843/DOD_111577843.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 12623239
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      29.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-999708.jpg",
+  "sheet_times": [
+    0.91,
+    2.73,
+    4.56,
+    6.38,
+    8.2,
+    10.02,
+    11.85,
+    13.67,
+    15.49,
+    17.32,
+    19.14,
+    20.96,
+    22.78,
+    24.61,
+    26.43,
+    28.25
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:850645",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "OKLAHOMA WILDFIRE B-ROLL",
+  "description": "B-roll of wildfire in Blaine County, Oklahoma, July 16, 2022. ( National Guard video by Pfc. Haden Tolbert)",
+  "keywords": "Oklahoma National Guard, 702OKFire, OKNG",
+  "date": "2022-07-16T00:00:00-04:00",
+  "date_published": "2022-07-18T14:44:32-04:00",
+  "branch": "Army",
+  "unit_name": "145th Mobile Public Affairs Detachment",
+  "credit": "Pfc. Haden Tolbert",
+  "category": "B-Roll",
+  "virin": "220718-Z-DX255-1001",
+  "location": {
+    "city": "",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/850645/oklahoma-wildfire-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-850645",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:20:04Z",
+  "duration": 53.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109112720/DOD_109112720.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 53064768
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    41.09,
+    53.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-850645.jpg",
+  "sheet_times": [
+    1.66,
+    4.98,
+    8.3,
+    11.62,
+    14.94,
+    18.26,
+    21.58,
+    24.9,
+    28.22,
+    31.54,
+    34.86,
+    38.18,
+    41.5,
+    44.82,
+    48.14,
+    51.46
+  ]
+}

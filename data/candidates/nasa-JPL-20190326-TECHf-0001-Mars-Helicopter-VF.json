@@ -1,0 +1,195 @@
+{
+  "asset_id": "nasa:JPL-20190326-TECHf-0001-Mars Helicopter VF",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "JPL-20190326-TECHf-0001-Mars Helicopter VF",
+  "description": "In January 2019, NASA's Mars Helicopter technology demonstration was put through  rigorous tests to verify it is ready for the Red Planet. While flying helicopters is  commonplace here on Earth, flying one, hundreds of millions of miles (kilometers)  away in the thin Martian atmosphere, is something else entirely. The team recreated  the gravity and flying conditions at Mars in JPL's Space Simulator, a 25-foot wide  vacuum chamber. The helicopter hovered 2 inches (its target height) to fulfill its flight  readiness requirement for Mars.  The Mars Helicopter is scheduled to launch with the agency’s Mars 2020 rover mission  in July 2020 to demonstrate the viability and potential of heavier-than-air vehicles on  the Red Planet.",
+  "keywords": "Mars, Mars 2020, helicopter, flight test",
+  "date": "2019-03-26T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JPL",
+  "credit": "NASA JPL video",
+  "page_url": "https://images.nasa.gov/details/JPL-20190326-TECHf-0001-Mars%20Helicopter%20VF",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-JPL-20190326-TECHf-0001-Mars-Helicopter-VF",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:23:44Z",
+  "duration": 306.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/JPL-20190326-TECHf-0001-Mars%20Helicopter%20VF/JPL-20190326-TECHf-0001-Mars%20Helicopter%20VF~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 306.255958
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 200.24,
+      "e": 207.76,
+      "text": "It's a huge milestone for us. To have built this Mars helicopter that's to the quality that's needed"
+    },
+    {
+      "s": 208.56,
+      "e": 217.6,
+      "text": "to be launched, to travel to Mars on board the Mars 2020 rover, and to have met the really"
+    },
+    {
+      "s": 217.6,
+      "e": 224.56,
+      "text": "stringent mass constraint coming under two kilograms. In fact, we weighed in under 1.8 kilograms."
+    },
+    {
+      "s": 225.2,
+      "e": 236.86,
+      "text": "We have to be light to fly at Mars. We built the Mars helicopter, the helicopter that will go to"
+    },
+    {
+      "s": 236.86,
+      "e": 243.9,
+      "text": "Mars, and at this time we've shown that it can fly. We've done the flight test in the chamber"
+    },
+    {
+      "s": 244.62,
+      "e": 251.34,
+      "text": "with the thin atmosphere representative of Mars. Very important. And secondly, we've tested it"
+    },
+    {
+      "s": 251.34,
+      "e": 258.22,
+      "text": "through the thermal environment. The environment at Mars, it gets very cold at night, down to like"
+    },
+    {
+      "s": 258.22,
+      "e": 265.34,
+      "text": "minus degrees Celsius. That's like temperature of dry ice. And we have cycled the temperature"
+    },
+    {
+      "s": 266.22,
+      "e": 271.66,
+      "text": "on this helicopter, the extreme temperatures that it's going to see. And very importantly,"
+    },
+    {
+      "s": 271.66,
+      "e": 281.06,
+      "text": "we've shown that it can survive autonomously. You know, we want to get to Mars. We're not done"
+    },
+    {
+      "s": 281.06,
+      "e": 286.66,
+      "text": "yet. The job is certainly not done yet. This is the test, the last test that we can do,"
+    },
+    {
+      "s": 286.66,
+      "e": 291.78,
+      "text": "the last flight test that we can do on Earth. But really, our job isn't done until we see the same"
+    },
+    {
+      "s": 292.42,
+      "e": 297.06,
+      "text": "test flight being performed at Mars. So next time we fly, it'll be at Mars. But that's our"
+    },
+    {
+      "s": 297.06,
+      "e": 300.1,
+      "text": "ultimate goal. That's when we'll go, yes."
+    }
+  ],
+  "scene_cuts": [
+    20.07,
+    22.07,
+    32.1,
+    33.1,
+    91.73,
+    92.73,
+    96.77,
+    101.73,
+    111.63,
+    115.63,
+    116.63,
+    119.23,
+    123.7,
+    126.0,
+    129.2,
+    131.83,
+    143.07,
+    144.07,
+    153.17,
+    154.17,
+    156.67,
+    157.67,
+    161.1,
+    163.43,
+    175.4,
+    186.43
+  ],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      91.7,
+      115.6,
+      143.0,
+      153.2,
+      156.7,
+      186.4,
+      205.0,
+      208.0,
+      213.4,
+      219.5,
+      224.7,
+      227.3,
+      242.5,
+      244.0,
+      247.4,
+      253.3,
+      270.0,
+      273.6,
+      300.1
+    ],
+    "silence_ends": [
+      33.1,
+      92.7,
+      116.6,
+      144.0,
+      154.2,
+      157.7,
+      200.4,
+      205.6,
+      208.7,
+      214.4,
+      220.4,
+      225.4,
+      232.9,
+      243.3,
+      244.8,
+      248.1,
+      253.9,
+      270.8,
+      279.2,
+      306.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-JPL-20190326-TECHf-0001-Mars-Helicopter-VF.jpg",
+  "sheet_times": [
+    9.56,
+    28.67,
+    47.78,
+    66.89,
+    86.01,
+    105.12,
+    124.23,
+    143.34,
+    162.46,
+    181.57,
+    200.68,
+    219.79,
+    238.91,
+    258.02,
+    277.13,
+    296.24
+  ]
+}
