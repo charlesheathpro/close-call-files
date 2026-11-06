@@ -1,14 +1,15 @@
 {
-  "at": "2026-11-05T16:20:00Z",
+  "at": "2026-11-06T00:15:00Z",
   "healthy": false,
-  "numbers": {"dropped": 34, "uploaded": 78, "passed": 0, "rejected": 1, "needs_qa": 0, "build_failed": 2, "scheduled_36h": 7},
+  "numbers": {"dropped": 34, "uploaded": 78, "passed": 0, "rejected": 1, "needs_qa": 0, "needs_build": 0, "build_failed": 7, "scheduled_36h": 2},
   "problems": [
-    "ElevenLabs quota exhausted: builds of ccf-20261105-20 and -21 failed at 12:52Z with 401 quota_exceeded (6 credits left of 208835). Needs Charles: top up or wait for the quota reset. No new Short can build until then.",
-    "thin queue: scheduled 36h + passed = 7 (target 15), buffer 7 (target 25)"
+    "ElevenLabs quota still exhausted (6 credits left of 208835): all 7 builds since 12:52Z failed with 401 quota_exceeded (ccf-20261105-20, -21, -30, -31, -32, -33, -34). Needs Charles: top up or wait for the quota reset. No new Short can build until then.",
+    "thin queue: scheduled 36h + passed = 2 (target 15). Only 2 Shorts remain scheduled; the channel goes quiet after them."
   ],
   "fixed": [],
   "not_done": [
-    "No editor pass: new specs would fail the same way at build. Did not switch the voice engine to Kokoro, since that changes the channel voice and is Charles's call.",
-    "After quota is restored: put ccf-20261105-20 and ccf-20261105-21 in triggers/build-ids and push date > triggers/build."
+    "No editor pass: 7 specs are already waiting on the voice quota, and new specs would fail the same way.",
+    "Did not switch the voice engine, since that changes the channel voice and is Charles's call.",
+    "After quota is restored: list ccf-20261105-20, -21, -30, -31, -32, -33, -34 in triggers/build-ids and push date > triggers/build."
   ]
 }
