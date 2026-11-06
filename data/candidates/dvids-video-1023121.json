@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:1023121",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "Arkansas National Guard Wildfire Response",
+  "description": "Arkansas National Guard Wildfire Response Update\r\nOperations are fully underway near Camden, Arkansas. \r\nAs of 11:30 AM, the Arkansas National Guard's 77th Expeditionary Combat Aviation Brigade has dropped 16,800 gallons of water on the wildfire.",
+  "keywords": "Arkansas National Guard, Wildfire response",
+  "date": "2026-09-15T00:00:00-04:00",
+  "date_published": "2026-09-15T15:29:04-04:00",
+  "branch": "Joint",
+  "unit_name": "Arkansas National Guard Public Affairs Office",
+  "credit": "Staff Sgt. Israel Sanchez",
+  "category": "B-Roll",
+  "virin": "260915-O-KC284-7719",
+  "location": {
+    "city": "Camden",
+    "state": "Arkansas",
+    "country": "United States",
+    "state_abbreviation": "AR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1023121/arkansas-national-guard-wildfire-response",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1023121",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:26:24Z",
+  "duration": 54.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111979342/DOD_111979342.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 65356123
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1023121.jpg",
+  "sheet_times": [
+    1.7,
+    5.1,
+    8.51,
+    11.91,
+    15.31,
+    18.71,
+    22.11,
+    25.52,
+    28.92,
+    32.32,
+    35.72,
+    39.12,
+    42.53,
+    45.93,
+    49.33,
+    52.73
+  ]
+}

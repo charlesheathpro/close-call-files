@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:316470",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "life raft",
+  "title": "101026-G-0000-002 Coast Guard rescues three fishermen after boat fire",
+  "description": "CHATHAM, Mass. - A Coast Guard 42-foot boat crew from Station Chatham pull three fishermen from a life raft after they abandoned their boat, Joanne H, that caught fire approximately 17 miles east of Chatham, Tues., Oct. 26, 2010. The fishermen were transported back to the station where they were met by EMS. (Coast Guard video by Petty Officer 2nd Class Tye Conklin)",
+  "keywords": "CGVI",
+  "date": "2010-10-26T12:28:25-04:00",
+  "date_published": "2013-12-20T06:39:26-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Chatham",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316470/101026-g-0000-002-coast-guard-rescues-three-fishermen-after-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316470",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:25:08Z",
+  "duration": 23.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060200/DOD_101060200-640x480-1706k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1706,
+    "size": 6094679
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    8.04
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      8.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316470.jpg",
+  "sheet_times": [
+    0.73,
+    2.2,
+    3.67,
+    5.13,
+    6.6,
+    8.07,
+    9.53,
+    11.0,
+    12.46,
+    13.93,
+    15.4,
+    16.86,
+    18.33,
+    19.8,
+    21.26,
+    22.73
+  ]
+}

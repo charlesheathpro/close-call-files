@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:704087",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station San Francisco rescue",
+  "title": "Coast Guard rescues 2 from plane crash near Half Moon Bay",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew rescues two people Tuesday after their plane went down approximately nine miles south of Pillar Point Harbor, Calif., Aug. 20, 2019. The Dolphin crew arrived on scene at approximately 6:20 p.m., hoisted a man and a woman into the helicopter and after they refused medical treatment, they were taken to Air Station San Francisco where they were seen by San Francisco International Airport fire department personnel. (U.S. Coast Guard video)",
+  "keywords": "Air Station, plane crash, Half Moon Bay, Coast Guard, rescue, San Francisco",
+  "date": "2019-08-20T00:00:00-04:00",
+  "date_published": "2019-08-21T15:34:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190820-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/704087/coast-guard-rescues-2-plane-crash-near-half-moon-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-704087",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:26:15Z",
+  "duration": 40.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107146328/DOD_107146328.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2983,
+    "size": 15580645
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.03,
+      "e": 3.03,
+      "text": "That's it."
+    }
+  ],
+  "scene_cuts": [
+    32.66,
+    34.48,
+    35.73,
+    37.28
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-704087.jpg",
+  "sheet_times": [
+    1.25,
+    3.74,
+    6.23,
+    8.72,
+    11.21,
+    13.7,
+    16.19,
+    18.68,
+    21.17,
+    23.66,
+    26.15,
+    28.64,
+    31.13,
+    33.62,
+    36.11,
+    38.6
+  ]
+}

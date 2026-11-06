@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:456431",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "Coast Guard dewaters 2 sinking fishing boats, rescues crews off Massachusetts",
+  "description": "The fishing vessel Silver Fox uses a pump to dewater after it began taking on water south of Monomoy Island, Massachusetts, Wednesday. Silver Fox was one of two fishing boats rescued by Coast Guard crews off the Massachusetts coast Wednesday morning.",
+  "keywords": "Coast Guard rescue, Station Chatham, USCG",
+  "date": "2016-03-30T00:00:00-04:00",
+  "date_published": "2016-03-30T16:05:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160330-G-ZZ999-002",
+  "location": {
+    "city": "Chatham",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/456431/coast-guard-dewaters-2-sinking-fishing-boats-rescues-crews-off-massachusetts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.99197,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-456431",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:26:39Z",
+  "duration": 30.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103168475/DOD_103168475.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5934,
+    "size": 22695299
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.97,
+    25.56
+  ],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-456431.jpg",
+  "sheet_times": [
+    4.81,
+    6.44,
+    8.07,
+    9.7,
+    11.33,
+    12.96,
+    14.6,
+    16.23,
+    17.86,
+    19.49,
+    21.12,
+    22.75,
+    24.38,
+    26.01,
+    27.65,
+    29.28
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:347982",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rip current",
+  "title": "Coast Guard searches for missing girl near Long Beach, Wash.",
+  "description": "An MH-60 Jayhawk helicopter crew from Coast Guard Air Station Astoria, Ore., and a 47-foot Motor Life Boat crew from Coast Guard Station Cape Disappointment, Wash., search the waters near Long Beach, Wash., for a girl that was reportedly pulled out to sea by a rip current, July 3, 2014. The girl and her brother were pulled out to sea; however, local county sheriffs who also responded to the call rescued the brother. U.S. Coast Guard video Lt. Scott McGrew.",
+  "keywords": "Long Beach, Air Station Astoria, July 3, 2014, Station Cape Disappointment, Lt. Scott McGrew, Washington, Oregon",
+  "date": "2014-07-03T00:00:00-04:00",
+  "date_published": "2014-07-03T22:35:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Jordan Akiyama",
+  "category": "B-Roll",
+  "virin": "140703-G-ED165-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/347982/coast-guard-searches-missing-girl-near-long-beach-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-347982",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:25:46Z",
+  "duration": 67.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101786925/DOD_101786925-720x480-1607k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1607,
+    "size": 13478511
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.11,
+    56.46
+  ],
+  "drama_score": 45,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      56.5
+    ],
+    "silence_ends": [
+      11.1,
+      67.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-347982.jpg",
+  "sheet_times": [
+    2.1,
+    6.29,
+    10.49,
+    14.68,
+    18.87,
+    23.07,
+    27.26,
+    31.46,
+    35.65,
+    39.84,
+    44.04,
+    48.23,
+    52.43,
+    56.62,
+    60.81,
+    65.01
+  ]
+}

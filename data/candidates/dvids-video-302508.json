@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:302508",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "man overboard",
+  "title": "Coast Guard makes teen hero for a day",
+  "description": "13-year-old Donovan Lindo mans the helm of a 45-foot Response Boat-Medium from Coast Guard Station Honolulu during a man overboard drill Sept. 20, 2013. Make-a-Wish Foundation partnered with the Coast Guard to make Lindo a hero for the day. U.S. Coast Guard video by Petty Officer 3rd Class Melissa E. McKenzie.",
+  "keywords": "Make-a-Wish, 45-foot Response Boat-Medium, Lindo, Melissa E. McKenzie, Coast Guard, Hawaii, Honolulu",
+  "date": "2013-09-20T00:00:00-04:00",
+  "date_published": "2013-10-01T15:43:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Melissa McKenzie",
+  "category": "B-Roll",
+  "virin": "131001-G-MT091-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302508/coast-guard-makes-teen-hero-day",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-302508",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:25:18Z",
+  "duration": 262.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1310/DOD_100924851/DOD_100924851.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 5809,
+    "size": 200803833
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    25.99,
+    65.06,
+    71.34,
+    85.05,
+    94.29,
+    109.71,
+    123.89,
+    257.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      257.4
+    ],
+    "silence_ends": [
+      5.1,
+      262.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302508.jpg",
+  "sheet_times": [
+    8.18,
+    24.55,
+    40.91,
+    57.28,
+    73.64,
+    90.01,
+    106.37,
+    122.74,
+    139.1,
+    155.47,
+    171.83,
+    188.19,
+    204.56,
+    220.92,
+    237.29,
+    253.65
+  ]
+}
