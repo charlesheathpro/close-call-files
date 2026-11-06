@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:317929",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "1 dead, 5 rescued from surf after sailboat accident",
+  "description": "SAN DIEGO - A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew hoist six sailors off San Clemente Island, Saturday, after their 30-foot sailboat's rudder failed and they drifted toward the island. The 30-foot sailboat Uncontrollable Urge crew issued a mayday call and activated their Digital Selective Calling feature on their VHF marine radio around 9:26 p.m., Friday, after the sailboat's rudder failed and they began drifting toward San Clemente Island during the Islands Race. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "CGVI",
+  "date": "2013-03-09T09:28:32-05:00",
+  "date_published": "2013-12-22T21:41:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317929/1-dead-5-rescued-surf-after-sailboat-accident",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317929",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:00:44Z",
+  "duration": 134.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062897/DOD_101062897.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 162217711
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.04,
+    31.5,
+    31.93,
+    56.59,
+    127.09
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      134.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317929.jpg",
+  "sheet_times": [
+    4.18,
+    12.53,
+    20.89,
+    29.24,
+    37.59,
+    45.95,
+    54.3,
+    62.66,
+    71.01,
+    79.36,
+    87.72,
+    96.07,
+    104.43,
+    112.78,
+    121.13,
+    129.49
+  ]
+}

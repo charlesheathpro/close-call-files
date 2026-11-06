@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:109867",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Governor Abercrombie Tsunami Relief",
+  "description": "B-roll of Hawaii officials and Hawaii Air National Guard toured Maui and the Big Island of Hawaii to assess damages after a Tsunami that hit the Aloha State.  Governor Neil Abercrombie spoke about relief efforts at Joint Base Pearl Harbor-Hickam. Estimates for damage throughout the state of Hawaii are about three-million dolalrs. Produced by Cpl. Kevin Beebe.",
+  "keywords": "tsunami, Governor, Kevin Beebe, aloha, Big Island, Maui, Neil Abercrombie, Hawaii, Air National Guard, Joint Base Pearl Harbor-Hickam",
+  "date": "2011-03-15T00:00:00-04:00",
+  "date_published": "2011-03-16T03:51:47-04:00",
+  "branch": "Joint",
+  "unit_name": "DMA Pacific - Hawaii Media Bureau",
+  "credit": "Cpl. Kevin Beebe",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Joint Base Pearl Harbor-Hickam",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/109867/governor-abercrombie-tsunami-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-109867",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:01:43Z",
+  "duration": 17.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1103/DOD_100142553/DOD_100142553.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.21,
+      "e": 6.21,
+      "text": "I can't thank the people of Hawaii for showing the cooperation and coordination and collaboration"
+    },
+    {
+      "s": 6.21,
+      "e": 11.21,
+      "text": "that was necessary to turn this into something that could have been a lot worse into something"
+    },
+    {
+      "s": 11.21,
+      "e": 17.21,
+      "text": "that we can actually learn some things from about the success of all working together."
+    }
+  ],
+  "scene_cuts": [
+    0.4,
+    16.78
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-109867.jpg",
+  "sheet_times": [
+    0.52,
+    1.55,
+    2.59,
+    3.62,
+    4.65,
+    5.69,
+    6.72,
+    7.76,
+    8.79,
+    9.83,
+    10.86,
+    11.9,
+    12.93,
+    13.96,
+    15.0,
+    16.03
+  ]
+}

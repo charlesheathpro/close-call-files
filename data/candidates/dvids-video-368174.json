@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:368174",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, Good Samaritan Rescue Boater from Boat on Fire",
+  "description": "Coast Guard crews and a good Samaritan respond to a distressed boater who's boat had caught on fire in the Chesapeake Bay.",
+  "keywords": "Coast Guard rescue, samaritan, Coast Guard, Fire, boat, Chesapeake",
+  "date": "2014-10-20T00:00:00-04:00",
+  "date_published": "2014-10-20T18:43:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Weydert",
+  "category": "B-Roll",
+  "virin": "141020-G-ZV557-229",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/368174/coast-guard-good-samaritan-rescue-boater-boat-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-368174",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:01:09Z",
+  "duration": 51.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1410/DOD_102042185/DOD_102042185.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8669,
+    "size": 55802240
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-368174.jpg",
+  "sheet_times": [
+    5.49,
+    8.42,
+    11.35,
+    14.29,
+    17.22,
+    20.15,
+    23.08,
+    26.01,
+    28.95,
+    31.88,
+    34.81,
+    37.74,
+    40.67,
+    43.6,
+    46.54,
+    49.47
+  ]
+}

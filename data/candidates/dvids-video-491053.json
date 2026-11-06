@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:491053",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists stranded boater near Humboldt Bay",
+  "description": "EUREKA, Calif. -- A rescue helicopter crew from Coast Guard Air Station Humboldt Bay hoists a stranded boater from mud near Daby Island Nov. 2, 2016. U.S. Coast Guard video.",
+  "keywords": "Air Station, Humboldt Bay, Coast Guard",
+  "date": "2016-11-02T00:00:00-04:00",
+  "date_published": "2016-11-04T15:07:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "161104-G-MR731-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/491053/coast-guard-hoists-stranded-boater-near-humboldt-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 7.7624,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-491053",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:01:45Z",
+  "duration": 127.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1611/DOD_103819174/DOD_103819174.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8189,
+    "size": 131670500
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    70.24
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      127.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-491053.jpg",
+  "sheet_times": [
+    11.48,
+    18.91,
+    26.35,
+    33.78,
+    41.22,
+    48.65,
+    56.08,
+    63.52,
+    70.95,
+    78.39,
+    85.82,
+    93.26,
+    100.69,
+    108.12,
+    115.56,
+    122.99
+  ]
+}

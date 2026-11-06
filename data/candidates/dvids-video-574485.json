@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:574485",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues stranded boaters from old Berkeley pier",
+  "description": "An MH-65 Dolphin rescue helicopter crew from Coast Guard Air Station San Francisco rescues two boaters after their vessel was beset by high winds along the old Berkeley pier, west of Berkeley, California, Dec. 16, 2017. After hoisting the stranded mariners, the helicopter crew transported them to Air Station San Francisco with no reported injuries. (U.S. Coast Guard video)",
+  "keywords": "hoist, Coast Guard, SAR, San Francisco",
+  "date": "2017-12-16T00:00:00-05:00",
+  "date_published": "2017-12-16T20:39:12-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "171216-G-MR731-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/574485/coast-guard-rescues-stranded-boaters-old-berkeley-pier",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-574485",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:00:36Z",
+  "duration": 277.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105186321/DOD_105186321.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9928,
+    "size": 344393042
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    136.44,
+    139.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      277.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-574485.jpg",
+  "sheet_times": [
+    8.65,
+    25.94,
+    43.24,
+    60.53,
+    77.83,
+    95.12,
+    112.42,
+    129.72,
+    147.01,
+    164.31,
+    181.6,
+    198.9,
+    216.19,
+    233.49,
+    250.78,
+    268.08
+  ]
+}
