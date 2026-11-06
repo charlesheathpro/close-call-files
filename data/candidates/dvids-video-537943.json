@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:537943",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "emergency landing",
+  "title": "Coast Guard medevacs cruise ship passenger 150 miles off Cape Cod",
+  "description": "A Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter aircrew medevaced a 56-year-old woman suffering from abdominal pains off a cruise ship 150 miles off the coast of Cape Cod, Massachusetts, Thursday, July 13, 2017. The aircrew landed at Air Station Cape Cod where Emergency Medical Services took the patient to Cape Cod Hospital. (U.S. Coast Guard video)",
+  "keywords": "MH-60, Jayhawk, Air Station Cape Cod, ASCC, helicopter, Cruise Ship",
+  "date": "2017-07-13T00:00:00-04:00",
+  "date_published": "2017-07-13T15:57:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Nicole Groll",
+  "category": "B-Roll",
+  "virin": "171307-G-OS599-1002",
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/537943/coast-guard-medevacs-cruise-ship-passenger-150-miles-off-cape-cod",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-537943",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:37:27Z",
+  "duration": 175.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104590168/DOD_104590168.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9235,
+    "size": 203080525
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.83
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      175.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-537943.jpg",
+  "sheet_times": [
+    5.48,
+    16.43,
+    27.39,
+    38.34,
+    49.29,
+    60.25,
+    71.2,
+    82.16,
+    93.11,
+    104.06,
+    115.02,
+    125.97,
+    136.93,
+    147.88,
+    158.83,
+    169.79
+  ]
+}

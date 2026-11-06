@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:53056",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "crash recovery",
+  "title": "Hudson River Plane Crash Recovery Efforts",
+  "description": "B-roll of recovery efforts surrounding the downed aircraft in the Hudson River. Scenes include footage of the aircraft floating in the water and multiple water vehicles surrounding the aircraft to assist pushing it to shore.",
+  "keywords": null,
+  "date": "2009-01-15T00:00:00-05:00",
+  "date_published": "2009-01-16T09:23:51-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Lt.Cmdr. Robert Wyman",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/53056/hudson-river-plane-crash-recovery-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-53056",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:33:45Z",
+  "duration": 254.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0901/DOD_100034316/DOD_100034316.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 34,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      254.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-53056.jpg",
+  "sheet_times": [
+    7.94,
+    23.83,
+    39.71,
+    55.6,
+    71.48,
+    87.37,
+    103.25,
+    119.13,
+    135.02,
+    150.9,
+    166.79,
+    182.67,
+    198.56,
+    214.44,
+    230.33,
+    246.21
+  ]
+}

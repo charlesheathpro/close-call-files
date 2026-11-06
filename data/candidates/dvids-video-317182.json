@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:317182",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "heavy weather",
+  "title": "Coast Guard weathers Hurricane Irene in Fairhaven Harbor",
+  "description": "NEW BEDFORD, Mass. - U.S. Coast Guard Sector Southeastern New England units ride out Hurricane Irene behind the New Bedford hurricane barrier Aug. 28, 2011. Numerous Coast Guard units from Sector Southeastern New England relocated behind the barrier to avoid heavy weather from the storm. U.S. Coast Guard video by Chief Petty Officer Jeff Hall.",
+  "keywords": "CGVI",
+  "date": "2011-08-28T00:00:00-04:00",
+  "date_published": "2013-12-21T14:32:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Chief Petty Officer Jeff Hall",
+  "category": "B-Roll",
+  "virin": "110828-G-FM193-002",
+  "location": {
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317182/coast-guard-weathers-hurricane-irene-fairhaven-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 8.00801,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317182",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:37:37Z",
+  "duration": 77.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062089/DOD_101062089.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 3690,
+    "size": 38624465
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.01,
+    26.09,
+    37.64,
+    52.19,
+    63.96,
+    73.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      8.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317182.jpg",
+  "sheet_times": [
+    10.15,
+    14.45,
+    18.74,
+    23.03,
+    27.32,
+    31.61,
+    35.9,
+    40.2,
+    44.49,
+    48.78,
+    53.07,
+    57.36,
+    61.66,
+    65.95,
+    70.24,
+    74.53
+  ]
+}

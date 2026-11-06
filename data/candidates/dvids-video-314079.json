@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:314079",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Three Teenagers and Three Adults",
+  "description": "FARGO, N.D. - An HH-65 Dolphin helicopter crew, from Air Station Traverse City, Mich., rescued three teenagers and three adults March 26, 2009, from a flooded building during the Red River floods. The people were taken to the Stanley High School football field where Fargo Police Department deputies assisted their transportation needs. (Coast Guard video by Air Station Traverse City)",
+  "keywords": "CGVI",
+  "date": "2009-03-27T00:00:00-04:00",
+  "date_published": "2013-12-17T05:50:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090326-G-5394S-001",
+  "location": {
+    "city": "Fargo",
+    "state": "North Dakota",
+    "country": "United States",
+    "state_abbreviation": "ND",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314079/coast-guard-rescues-three-teenagers-and-three-adults",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314079",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:36:45Z",
+  "duration": 244.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054752/DOD_101054752-640x480-2682k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2682,
+    "size": 84496296
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.02,
+    74.04,
+    112.05,
+    145.45,
+    177.61,
+    212.61
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      244.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314079.jpg",
+  "sheet_times": [
+    7.64,
+    22.91,
+    38.18,
+    53.46,
+    68.73,
+    84.0,
+    99.28,
+    114.55,
+    129.83,
+    145.1,
+    160.37,
+    175.65,
+    190.92,
+    206.19,
+    221.47,
+    236.74
+  ]
+}

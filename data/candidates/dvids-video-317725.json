@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:317725",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues LaPlace Couple and Cat",
+  "description": "B-roll of Coast Guard rescues LaPlace couple and a cat",
+  "keywords": "Laplace, CGVI",
+  "date": "2012-08-30T00:00:00-04:00",
+  "date_published": "2013-12-22T17:01:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/317725/coast-guard-rescues-laplace-couple-and-cat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317725",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:34:11Z",
+  "duration": 99.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062690/DOD_101062690-960x540-1362k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1362,
+    "size": 17536043
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    31.56,
+    95.96
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      96.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317725.jpg",
+  "sheet_times": [
+    3.11,
+    9.32,
+    15.54,
+    21.76,
+    27.97,
+    34.19,
+    40.41,
+    46.62,
+    52.84,
+    59.06,
+    65.27,
+    71.49,
+    77.71,
+    83.92,
+    90.14,
+    96.36
+  ]
+}

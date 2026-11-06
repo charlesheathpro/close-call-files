@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:74268",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 3-Year-Old Boy",
+  "description": "B-roll of the U.S. Coast guard rescuing a 3-year-old boy who was abducted by his father aboard a sailboat heading toward Mexico. Produced by Coast Guard Air Station Clearwater.",
+  "keywords": "boy, missing, 3-year-old, kidnapped, abducted, mexico",
+  "date": "2009-12-01T00:00:00-05:00",
+  "date_published": "2009-12-02T11:04:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Tampa Bay",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/74268/coast-guard-rescues-3-year-old-boy",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-74268",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:35:47Z",
+  "duration": 93.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0912/DOD_100058732/DOD_100058732.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.9,
+    55.22,
+    89.16
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      93.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-74268.jpg",
+  "sheet_times": [
+    2.92,
+    8.76,
+    14.6,
+    20.43,
+    26.27,
+    32.11,
+    37.95,
+    43.79,
+    49.63,
+    55.46,
+    61.3,
+    67.14,
+    72.98,
+    78.82,
+    84.65,
+    90.49
+  ]
+}
