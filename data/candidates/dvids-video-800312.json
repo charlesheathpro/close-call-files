@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-800312",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:40:27Z",
   "duration": 132.4,
   "source_file": {
@@ -69,5 +69,6 @@
     111.29,
     119.53,
     127.78
-  ]
+  ],
+  "pass_reason": "noisy door-cam, flamingo raft and rocks hard to read"
 }

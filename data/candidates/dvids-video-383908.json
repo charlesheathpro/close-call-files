@@ -26,7 +26,7 @@
   "time_start": 4.0587,
   "aspect_ratio": "4:3",
   "id": "dvids-video-383908",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:52:41Z",
   "duration": 153.69,
   "source_file": {
@@ -141,5 +141,6 @@
     129.89,
     139.21,
     148.53
-  ]
+  ],
+  "pass_reason": "same event as 383889, interview-led"
 }

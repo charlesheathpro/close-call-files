@@ -26,7 +26,7 @@
   "time_start": 12.6793,
   "aspect_ratio": "4:3",
   "id": "dvids-video-763580",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:13:01Z",
   "duration": 193.11,
   "source_file": {
@@ -66,5 +66,6 @@
     164.49,
     175.74,
     186.99
-  ]
+  ],
+  "pass_reason": "night door-cam with heavy color noise; overturned hull not clearly seen"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313106",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:55:28Z",
   "duration": 26.98,
   "source_file": {
@@ -68,5 +68,6 @@
     22.34,
     24.0,
     25.65
-  ]
+  ],
+  "pass_reason": "only 23 s of the same floating wreck, too thin"
 }

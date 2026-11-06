@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-346738",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:26:20Z",
   "duration": 62.38,
   "source_file": {
@@ -62,5 +62,6 @@
     52.21,
     56.08,
     59.94
-  ]
+  ],
+  "pass_reason": "letterboxed small shaky deck footage"
 }

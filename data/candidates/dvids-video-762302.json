@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-762302",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:44:11Z",
   "duration": 50.03,
   "source_file": {
@@ -62,5 +62,6 @@
     41.79,
     44.88,
     47.98
-  ]
+  ],
+  "pass_reason": "small distant response boat, nothing dangerous on screen"
 }

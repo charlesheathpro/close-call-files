@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-352464",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:23:21Z",
   "duration": 84.74,
   "source_file": {
@@ -70,5 +70,6 @@
     71.7,
     76.71,
     81.73
-  ]
+  ],
+  "pass_reason": "dewatering hoist, same type as ccf-20261106-41 this run"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.1041,
   "aspect_ratio": "4:3",
   "id": "dvids-video-88910",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:52:25Z",
   "duration": 83.08,
   "source_file": {
@@ -140,5 +140,6 @@
     70.32,
     75.23,
     80.13
-  ]
+  ],
+  "pass_reason": "mostly an interview"
 }

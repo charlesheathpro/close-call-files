@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-704087",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:26:15Z",
   "duration": 40.35,
   "source_file": {
@@ -73,5 +73,6 @@
     33.62,
     36.11,
     38.6
-  ]
+  ],
+  "pass_reason": "calm-water hoist, the crashed plane is never seen"
 }

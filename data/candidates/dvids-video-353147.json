@@ -26,7 +26,7 @@
   "time_start": 5.005,
   "aspect_ratio": "4:3",
   "id": "dvids-video-353147",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:13:54Z",
   "duration": 146.67,
   "source_file": {
@@ -69,5 +69,6 @@
     124.11,
     132.93,
     141.75
-  ]
+  ],
+  "pass_reason": "washed-out door-cam; fire type queued this week"
 }

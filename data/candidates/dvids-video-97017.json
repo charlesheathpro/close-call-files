@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-97017",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:28:04Z",
   "duration": 75.55,
   "source_file": {
@@ -71,5 +71,6 @@
     63.95,
     68.39,
     72.83
-  ]
+  ],
+  "pass_reason": "capsize is a tiny distant shape; payoff not visible"
 }

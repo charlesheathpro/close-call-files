@@ -26,7 +26,7 @@
   "time_start": 6.27293,
   "aspect_ratio": "4:3",
   "id": "dvids-video-63851",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:50:10Z",
   "duration": 199.49,
   "source_file": {
@@ -68,5 +68,6 @@
     168.88,
     180.92,
     192.97
-  ]
+  ],
+  "pass_reason": "cliff hoist, faded, type tested weak"
 }

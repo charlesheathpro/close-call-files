@@ -26,7 +26,7 @@
   "time_start": 3.92523,
   "aspect_ratio": "4:3",
   "id": "dvids-video-383889",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:00:04Z",
   "duration": 68.2,
   "source_file": {
@@ -72,5 +72,6 @@
     57.74,
     61.72,
     65.71
-  ]
+  ],
+  "pass_reason": "grainy infrared, small distant hoist"
 }

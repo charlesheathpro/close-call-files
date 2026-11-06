@@ -26,7 +26,7 @@
   "time_start": 4.19217,
   "aspect_ratio": "4:3",
   "id": "dvids-video-459409",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:26:33Z",
   "duration": 35.56,
   "source_file": {
@@ -109,5 +109,6 @@
     30.24,
     32.17,
     34.1
-  ]
+  ],
+  "pass_reason": "30 s distant transfer between fishing boats"
 }

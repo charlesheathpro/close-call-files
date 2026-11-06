@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-582140",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:11:32Z",
   "duration": 36.82,
   "source_file": {
@@ -68,5 +68,6 @@
     30.65,
     32.92,
     35.19
-  ]
+  ],
+  "pass_reason": "shaky dockside transfer to EMS, no danger"
 }

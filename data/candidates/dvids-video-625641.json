@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-625641",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:54:24Z",
   "duration": 25.71,
   "source_file": {
@@ -85,5 +85,6 @@
     21.27,
     22.84,
     24.42
-  ]
+  ],
+  "pass_reason": "26 s, distant rafts; boat fire type already queued this week"
 }

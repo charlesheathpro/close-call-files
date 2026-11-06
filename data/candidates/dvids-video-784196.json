@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-784196",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:18:33Z",
   "duration": 95.57,
   "source_file": {
@@ -102,5 +102,6 @@
     80.22,
     86.16,
     92.1
-  ]
+  ],
+  "pass_reason": "medevac b-roll on the ramp, no rescue footage"
 }

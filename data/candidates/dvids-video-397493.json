@@ -26,7 +26,7 @@
   "time_start": 4.22553,
   "aspect_ratio": "4:3",
   "id": "dvids-video-397493",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:43:33Z",
   "duration": 98.33,
   "source_file": {
@@ -205,5 +205,6 @@
     83.2,
     89.05,
     94.9
-  ]
+  ],
+  "pass_reason": "grainy infrared"
 }
