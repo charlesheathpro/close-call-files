@@ -40,6 +40,10 @@ def api_get(path, params):
         if r.status_code == 503:
             time.sleep(5 * (attempt + 1))
             continue
+        if r.status_code == 403 and attempt < 3:
+            # DVIDS sometimes answers 403 mid-run after many good calls (rate limiting); back off before giving up
+            time.sleep(30 * (attempt + 1))
+            continue
         if r.status_code == 403:
             sys.exit("DVIDS returned 403: the API key is missing, invalid, or tied to another origin")
         r.raise_for_status()
