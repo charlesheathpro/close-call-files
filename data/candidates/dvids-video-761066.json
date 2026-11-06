@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:761066",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard assists two people and two dogs in Kah Sheets Bay",
+  "description": "The Coast Guard assisted two people, July 26, 2020, in Kah Sheets Bay approximately 18 miles from Petersburg, Alaska.\r\n\r\nAn Air Station Sitka MH-60 Jayhawk helicopter crew hoisted two people from their 20-foot skiff and were transported to Petersburg.",
+  "keywords": "MH-60, Coast Guard Air Station Sitka, rescue",
+  "date": "2020-07-26T00:00:00-04:00",
+  "date_published": "2020-07-26T22:31:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Alexandria Obrien",
+  "category": "B-Roll",
+  "virin": "202607-G-QU455-001",
+  "location": {
+    "city": "Petersburg",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/761066/coast-guard-assists-two-people-and-two-dogs-kah-sheets-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-761066",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:06:27Z",
+  "duration": 92.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107911141/DOD_107911141.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3017,
+    "size": 36139935
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    39.07,
+    68.7,
+    82.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      92.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-761066.jpg",
+  "sheet_times": [
+    2.86,
+    8.58,
+    14.31,
+    20.03,
+    25.75,
+    31.47,
+    37.2,
+    42.92,
+    48.64,
+    54.36,
+    60.09,
+    65.81,
+    71.53,
+    77.25,
+    82.98,
+    88.7
+  ]
+}

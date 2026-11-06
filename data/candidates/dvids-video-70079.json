@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:70079",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "14th Coast Guard District External Affairs: American Samoa Tsunami Relief",
+  "description": "B-roll of relief efforts in American Samoa to help tsunami and earthquake victims. Scenes include volunteers arriving by aircraft, surveying the affected area, and various views of the devastated areas. Part 2 of 2. pacificrelief",
+  "keywords": "earthquake, rescue, Volunteers, victims, boats",
+  "date": "2009-10-01T00:00:00-04:00",
+  "date_published": "2009-10-02T19:22:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "American Samoa",
+    "state_abbreviation": null,
+    "country_abbreviation": "AS"
+  },
+  "page_url": "https://www.dvidshub.net/video/70079/14th-coast-guard-district-external-affairs-american-samoa-tsunami-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-70079",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:06:33Z",
+  "duration": 63.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100054306/DOD_100054306.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.47,
+      "e": 12.31,
+      "text": "Okay."
+    }
+  ],
+  "scene_cuts": [
+    13.15,
+    32.4,
+    41.04,
+    51.25,
+    56.72,
+    56.79,
+    56.99,
+    57.09,
+    57.29,
+    57.36,
+    57.86
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-70079.jpg",
+  "sheet_times": [
+    1.97,
+    5.91,
+    9.85,
+    13.79,
+    17.73,
+    21.67,
+    25.61,
+    29.56,
+    33.5,
+    37.44,
+    41.38,
+    45.32,
+    49.26,
+    53.2,
+    57.14,
+    61.08
+  ]
+}

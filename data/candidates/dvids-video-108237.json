@@ -1,0 +1,116 @@
+{
+  "asset_id": "video:108237",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Two from a Cliff near Tillamook Head, Ore.",
+  "description": "Astoria, Ore. - An MH-60 Jayhawk helicopter crew, from Air Station Astoria, lowers a rescue swimmer and hoists a woman into the helicopter. She and one other person (also rescued) were reported stranded on a cliff face in an area known as Tillamook Head, Ore. U.S. Coast Guard video by Air Station Astoria.\r\n\r\n",
+  "keywords": "MH-60 Jayhawk, Air Station Astoria, Tillamook Head, Coast Guard, Oregon, Astoria",
+  "date": "2011-02-20T00:00:00-05:00",
+  "date_published": "2011-02-22T09:14:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110220-G-6562L-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/108237/coast-guard-rescues-two-cliff-near-tillamook-head-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-108237",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:07:10Z",
+  "duration": 55.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1102/DOD_100131721/DOD_100131721.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.04,
+      "e": 28.06,
+      "text": "You can come down big time outside of cabin door coming in."
+    },
+    {
+      "s": 28.06,
+      "e": 29.06,
+      "text": "Yeah."
+    },
+    {
+      "s": 29.06,
+      "e": 34.24,
+      "text": "Alright, it should look pretty good standing."
+    },
+    {
+      "s": 34.24,
+      "e": 53.84,
+      "text": "Is this next to the swimmer?"
+    },
+    {
+      "s": 53.84,
+      "e": 55.84,
+      "text": "Is it connected or is it complete?"
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.3,
+      9.7,
+      12.8,
+      17.4,
+      19.2,
+      21.0,
+      25.4,
+      34.3,
+      39.2
+    ],
+    "silence_ends": [
+      4.0,
+      9.1,
+      11.1,
+      16.3,
+      18.9,
+      20.1,
+      23.1,
+      27.3,
+      36.7,
+      51.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-108237.jpg",
+  "sheet_times": [
+    5.6,
+    8.79,
+    11.98,
+    15.17,
+    18.36,
+    21.55,
+    24.75,
+    27.94,
+    31.13,
+    34.32,
+    37.51,
+    40.7,
+    43.89,
+    47.08,
+    50.27,
+    53.46
+  ]
+}

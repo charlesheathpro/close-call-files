@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:316797",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "Tsunami Unified Command responders conduct operations in Crescent City Harbor",
+  "description": "CRESCENT CITY, Calf. - Responders with the 2011 Northern California Tsunami Unified Command work to salvage sunken boats and clean debris in the Crescent City Harbor following tsunami destruction Tuesday, March 15, 2011. U.S. Coast Guard video by Petty Officer 3rd Class Erik Swanson.",
+  "keywords": "CGVI",
+  "date": "2011-03-17T12:45:59-04:00",
+  "date_published": "2013-12-20T15:25:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Erik Swanson",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Crescent City",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316797/tsunami-unified-command-responders-conduct-operations-crescent-city-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316797",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:06:23Z",
+  "duration": 60.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061060/DOD_101061060-720x480-2210k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2210,
+    "size": 19501317
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.64,
+    14.85,
+    25.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316797.jpg",
+  "sheet_times": [
+    1.87,
+    5.61,
+    9.34,
+    13.08,
+    16.82,
+    20.55,
+    24.29,
+    28.03,
+    31.76,
+    35.5,
+    39.24,
+    42.97,
+    46.71,
+    50.45,
+    54.18,
+    57.92
+  ]
+}

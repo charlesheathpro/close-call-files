@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:497315",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Sector Humboldt Bay rescues man who fell from a cliff",
+  "description": "The Coast Guard rescued a man who fell from a beachside bluff in vicinity of Trinidad Calif., Dec. 5, 2016. The survivor was then hoisted from the base of the cliff and transported to a local hospital where he was treated for injuries. U.S. Coast Guard video.",
+  "keywords": "hoist, cliff, Humbolt bay, rescue",
+  "date": "2016-12-05T00:00:00-05:00",
+  "date_published": "2016-12-06T00:09:53-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Adam Stanton",
+  "category": "B-Roll",
+  "virin": "161205-G-XX113-607",
+  "location": {
+    "city": "McKinleyville",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/497315/coast-guard-sector-humboldt-bay-rescues-man-who-fell-cliff",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-497315",
+  "status": "new",
+  "harvested_at": "2026-11-06T17:05:59Z",
+  "duration": 114.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103908413/DOD_103908413.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8807,
+    "size": 128298965
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.97,
+    109.11
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      114.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-497315.jpg",
+  "sheet_times": [
+    3.57,
+    10.72,
+    17.87,
+    25.02,
+    32.17,
+    39.32,
+    46.47,
+    53.62,
+    60.76,
+    67.91,
+    75.06,
+    82.21,
+    89.36,
+    96.51,
+    103.66,
+    110.81
+  ]
+}
