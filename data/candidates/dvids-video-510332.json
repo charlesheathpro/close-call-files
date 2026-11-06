@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:510332",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 13 Year-Old Boy",
+  "description": "The Coast Guard responded to a distress call from three males aboard an overturned vessel in the vicinity of Little Lake near Galliano, Louisiana, February 16, 2017. One of the males, a 13-year-old boy, was reported to have sustained an injury and was transported to Lady of the Sea General Hospital in Cut Off, Louisiana. (U.S. Coast Guard video)",
+  "keywords": "D8, District 8, MH-65, Coast Guard, medevac, Louisiana, New Orleans",
+  "date": "2017-02-15T00:00:00-05:00",
+  "date_published": "2017-02-17T14:29:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Brandon Giles",
+  "category": "B-Roll",
+  "virin": "170217-G-LB502-000",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/510332/coast-guard-medevacs-13-year-old-boy",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-510332",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:42:14Z",
+  "duration": 30.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1702/DOD_104091020/DOD_104091020.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10061,
+    "size": 38577905
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-510332.jpg",
+  "sheet_times": [
+    0.93,
+    2.8,
+    4.66,
+    6.52,
+    8.39,
+    10.25,
+    12.11,
+    13.98,
+    15.84,
+    17.7,
+    19.57,
+    21.43,
+    23.29,
+    25.16,
+    27.02,
+    28.88
+  ]
+}

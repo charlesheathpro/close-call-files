@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:730905",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Station San Juan Crew medevacs 13-month old baby from Disney Fantasy cruise ship in San Juan Harbor",
+  "description": "A Coast Guard Station San Juan boatcrew medically evacuated a 13-month-old girl from a Disney Fantasy cruise ship Dec. 18, 2019 just inside the entrance of San Juan Harbor, Puerto Rico. The child, her parents and the cruise ship doctor were transported to Coast Guard Sector San Juan, where they were received by awaiting emergency medical service personnel, who transported the child to the Centro Medico Hospital. (U.S. Coast Guard Video)",
+  "keywords": "baby, San Juan, 7th district, Disney Fantasy, Coast Guard, medevac, Cruise Ship, station, Puerto Rico",
+  "date": "2019-12-18T00:00:00-05:00",
+  "date_published": "2019-12-19T12:38:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191218-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/730905/coast-guard-station-san-juan-crew-medevacs-13-month-old-baby-disney-fantasy-cruise-ship-san-juan-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-730905",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:39:19Z",
+  "duration": 44.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107543127/DOD_107543127.mp4",
+    "width": 848,
+    "height": 480,
+    "bitrate": 5565,
+    "size": 31194033
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.93,
+    15.57,
+    23.03,
+    33.23,
+    38.2,
+    43.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      33.3
+    ],
+    "silence_ends": [
+      44.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-730905.jpg",
+  "sheet_times": [
+    1.36,
+    4.08,
+    6.8,
+    9.52,
+    12.24,
+    14.96,
+    17.68,
+    20.4,
+    23.11,
+    25.83,
+    28.55,
+    31.27,
+    33.99,
+    36.71,
+    39.43,
+    42.15
+  ]
+}

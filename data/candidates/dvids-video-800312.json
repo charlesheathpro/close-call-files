@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:800312",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Flamingo raft rescue: Coast Guard hoists 3 people, 2 dogs near Kodiak, Alaska",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Kodiak, Alaska, hoists three people and two dogs Saturday, June 5, 2021, after their flamingo-shaped raft drifted across Monashka Bay and up against offshore rocks. Alaska State Troopers and the Coast Guard worked together to determine that due to the treacherous circumstances, a helicopter hoist was the safest rescue option. U.S. Coast Guard video by Air Station Kodiak",
+  "keywords": "Air Station Kodiak, MH-60 Jayhawk helicopter, D17, CoastGuardNewsWire, Flamingo raft rescue, Alaska",
+  "date": "2021-06-05T00:00:00-04:00",
+  "date_published": "2021-06-08T20:14:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210605-G-G0217-1001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/800312/flamingo-raft-rescue-coast-guard-hoists-3-people-2-dogs-near-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-800312",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:40:27Z",
+  "duration": 132.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108388388/DOD_108388388.mp4",
+    "width": 720,
+    "height": 540,
+    "bitrate": 9886,
+    "size": 163795390
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    75.31,
+    115.25
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      132.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-800312.jpg",
+  "sheet_times": [
+    4.12,
+    12.37,
+    20.61,
+    28.85,
+    37.1,
+    45.34,
+    53.58,
+    61.83,
+    70.07,
+    78.31,
+    86.56,
+    94.8,
+    103.05,
+    111.29,
+    119.53,
+    127.78
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:116446",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tornado damage",
+  "title": "Joplin Tornado Damage",
+  "description": "B-roll of Aerial Footage of Joplin Tornado Damage captured during a Missouri National Guard Recon flight in a UH-60.\n",
+  "keywords": "Missouri National Guard, tornado, Joplin, blackhawk, Missouri",
+  "date": "2011-05-26T00:00:00-04:00",
+  "date_published": "2011-05-27T14:50:29-04:00",
+  "branch": "Army",
+  "unit_name": "70th Mobile Public Affairs Detachment",
+  "credit": "Spc. Adam Winters",
+  "category": "B-Roll",
+  "virin": "678594-A-5621W-678",
+  "location": {
+    "city": "Joplin",
+    "state": "Missouri",
+    "country": "United States",
+    "state_abbreviation": "MO",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/116446/joplin-tornado-damage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-116446",
+  "status": "new",
+  "harvested_at": "2026-11-06T16:40:18Z",
+  "duration": 240.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1105/DOD_100181397/DOD_100181397.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      163.2,
+      164.8
+    ],
+    "silence_ends": [
+      164.2,
+      167.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-116446.jpg",
+  "sheet_times": [
+    7.49,
+    22.46,
+    37.44,
+    52.41,
+    67.39,
+    82.36,
+    97.34,
+    112.31,
+    127.29,
+    142.26,
+    157.23,
+    172.21,
+    187.18,
+    202.16,
+    217.13,
+    232.11
+  ]
+}
