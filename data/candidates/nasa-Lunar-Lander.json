@@ -1,0 +1,86 @@
+{
+  "asset_id": "nasa:Lunar Lander",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket landing",
+  "title": "NASA Marshall To Lead Artemis Program’s Human Lunar Lander Development",
+  "description": "On Aug. 16, NASA Administrator Jim Bridenstine announced the agency’s Marshall Space Flight Center in Huntsville, Alabama, will lead the Human Landing System Program. NASA will rapidly develop the lander for safely carrying the first woman and the next man to the Moon’s surface in 2024. The Artemis missions will start with launch by the world’s most powerful rocket, NASA’s Space Launch System, also managed by Marshall. Bridenstine made the announcement in front of the 149-foot-tall SLS liquid hydrogen structural test article, currently being tested to help ensure the structure can safely launch astronauts on the Artemis lunar missions. Bridenstine was joined by Representatives Mo Brooks and Robert Aderholt of Alabama and Representative Scott DesJarlais of Tennessee. On August 15, Bridenstine visited the Michoud Assembly Facility where he saw progress on the SLS rocket.  For more information: https://www.nasa.gov/artemis-1",
+  "keywords": "Artemis Program, Human Landing System Program, lunar landers, NASA Marshall Space Flight Center, Administrator Jim Bridenstine, Space Launch System, SLS, Orion, Artemis 1, Moon, launch",
+  "date": "2019-08-16T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/Lunar%20Lander",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Lunar-Lander",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:46:15Z",
+  "duration": 154.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Lunar%20Lander/Lunar%20Lander~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 154.537729
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    13.17,
+    31.53,
+    38.43,
+    66.63,
+    77.93,
+    85.07,
+    90.4,
+    97.23,
+    102.83,
+    108.13,
+    120.7,
+    129.53,
+    137.93,
+    146.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      36.0,
+      67.6,
+      69.6,
+      90.3
+    ],
+    "silence_ends": [
+      36.8,
+      68.5,
+      70.3,
+      154.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-Lunar-Lander.jpg",
+  "sheet_times": [
+    4.82,
+    14.45,
+    24.08,
+    33.71,
+    43.34,
+    52.97,
+    62.6,
+    72.23,
+    81.87,
+    91.5,
+    101.13,
+    110.76,
+    120.39,
+    130.02,
+    139.65,
+    149.28
+  ]
+}
