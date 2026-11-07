@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:487213",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Two Boaters with EPIRB Rescued by Coast Guard",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew rescues two boaters October 12, 2016 after their 37-foot capsized approximately 35 miles northwest of Dry Tortugas. Watch standers from Coast Guard 7th District command center received a report of an activated Electronic Position Indicating Radio Beacon from their vessel.",
+  "keywords": "hoist, 65, rescue, USCG, helo",
+  "date": "2016-10-12T00:00:00-04:00",
+  "date_published": "2016-10-12T15:18:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Eric Woodall",
+  "category": "B-Roll",
+  "virin": "161012-G-GY119-003",
+  "location": {
+    "city": "Dry Tortugas",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/487213/two-boaters-with-epirb-rescued-coast-guard",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-487213",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:02:59Z",
+  "duration": 114.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1610/DOD_103748092/DOD_103748092.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9751,
+    "size": 140144734
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    53.32,
+    101.7,
+    110.68
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      101.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-487213.jpg",
+  "sheet_times": [
+    7.53,
+    14.42,
+    21.3,
+    28.19,
+    35.07,
+    41.96,
+    48.84,
+    55.73,
+    62.61,
+    69.5,
+    76.38,
+    83.27,
+    90.15,
+    97.04,
+    103.92,
+    110.81
+  ]
+}

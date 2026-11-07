@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:317163",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station San Diego rescues fishermen",
+  "description": "SAN DIEGO - The Coast Guard rescued eight fishermen from a sinking fishing boat 30 miles south of Point Loma at around 12:04 p.m., August 20, 2011.",
+  "keywords": "CGVI",
+  "date": "2011-08-20T20:51:11-04:00",
+  "date_published": "2013-12-21T14:16:35-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317163/air-station-san-diego-rescues-fishermen",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317163",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:02:52Z",
+  "duration": 67.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062065/DOD_101062065.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 10000,
+    "size": 86343701
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    17.28,
+    24.52,
+    37.37,
+    51.25,
+    63.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317163.jpg",
+  "sheet_times": [
+    2.1,
+    6.3,
+    10.51,
+    14.71,
+    18.91,
+    23.11,
+    27.31,
+    31.52,
+    35.72,
+    39.92,
+    44.12,
+    48.32,
+    52.53,
+    56.73,
+    60.93,
+    65.13
+  ]
+}

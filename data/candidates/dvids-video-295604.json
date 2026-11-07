@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:295604",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station Clearwater HC-130 Rescue",
+  "description": "An Air Station Clearwater HC-130 rescue crew found eight missing boaters off the coast of Honduras on July 3 after the boaters failed to arrive at their intended destination June 29. U.S. Coast Guard video",
+  "keywords": "boaters, HC-130, July 3, An Air Station Clearwater, coast of Honduras, rescue",
+  "date": "2013-07-03T00:00:00-04:00",
+  "date_published": "2013-07-03T17:51:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Michael De Nyse",
+  "category": "B-Roll",
+  "virin": "130703-G-XO423-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/295604/air-station-clearwater-hc-130-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-295604",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:03:54Z",
+  "duration": 47.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100853086/DOD_100853086-640x480-2675k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2675,
+    "size": 17454300
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      47.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-295604.jpg",
+  "sheet_times": [
+    1.47,
+    4.42,
+    7.36,
+    10.3,
+    13.25,
+    16.19,
+    19.13,
+    22.08,
+    25.02,
+    27.96,
+    30.91,
+    33.85,
+    36.79,
+    39.74,
+    42.68,
+    45.62
+  ]
+}

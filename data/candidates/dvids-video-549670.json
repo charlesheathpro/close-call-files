@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:549670",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Man in Oakland Estuary",
+  "description": "A 32-foot sailing vessel lists to starboard in the Oakland Estuary, Calif., Sep. 9, 2017. A Coast Guard aircrew from Air Station San Francisco rescued a 61-year-old man from the vessel, who reported he missed a buoy and the vessel ran aground.",
+  "keywords": "aground, sailing vessel, Oakland Estuary, search and rescue",
+  "date": "2017-09-09T00:00:00-04:00",
+  "date_published": "2017-09-10T01:41:54-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "170909-G-LS785-002",
+  "location": {
+    "city": "SAN FRANCISCO",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/549670/coast-guard-rescues-man-oakland-estuary",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-549670",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:02:21Z",
+  "duration": 30.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104820742/DOD_104820742.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9163,
+    "size": 34629842
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-549670.jpg",
+  "sheet_times": [
+    0.93,
+    2.79,
+    4.64,
+    6.5,
+    8.36,
+    10.21,
+    12.07,
+    13.93,
+    15.78,
+    17.64,
+    19.5,
+    21.35,
+    23.21,
+    25.07,
+    26.92,
+    28.78
+  ]
+}

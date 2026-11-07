@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:314239",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "CG Rescues 4 18 May 09",
+  "description": "Coast Guard rescues four, 15-miles south of Pascagoula, Miss.",
+  "keywords": "CGVI",
+  "date": "2009-05-18T21:00:19-04:00",
+  "date_published": "2013-12-17T07:35:48-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/314239/cg-rescues-4-18-may-09",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314239",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:00:58Z",
+  "duration": 79.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054925/DOD_101054925.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8315,
+    "size": 86994330
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      79.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314239.jpg",
+  "sheet_times": [
+    2.46,
+    7.39,
+    12.32,
+    17.24,
+    22.17,
+    27.09,
+    32.02,
+    36.95,
+    41.87,
+    46.8,
+    51.73,
+    56.65,
+    61.58,
+    66.5,
+    71.43,
+    76.36
+  ]
+}
