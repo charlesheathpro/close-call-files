@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:314786",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "heavy surf",
+  "title": "Station Bodega Bay MLB 47257 trains in the surf",
+  "description": "BODEGA BAY, Calif. -- Crewmembers aboard Motor Lifeboat 47257, from Coast Guard Station Bodega Bay train in the surf near Dillon Beach in Northern California Jan. 13, 2010. Station Bodega Bay is one of 20 designated surf stations, who's crew is specializes in conducting search and rescue missions in heavy weather and seas. U.S. Coast Guard video by Station Bodega Bay.",
+  "keywords": "CGVI",
+  "date": "2010-01-15T17:22:19-05:00",
+  "date_published": "2013-12-17T15:41:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Bodega Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314786/station-bodega-bay-mlb-47257-trains-surf",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314786",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:22:55Z",
+  "duration": 279.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055904/DOD_101055904-640x480-1957k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1957,
+    "size": 68663176
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    21.45,
+    30.96,
+    64.9,
+    86.39,
+    86.45,
+    107.77,
+    118.62,
+    137.87,
+    137.94,
+    144.21,
+    168.47,
+    268.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      269.1
+    ],
+    "silence_ends": [
+      10.1,
+      279.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314786.jpg",
+  "sheet_times": [
+    8.7,
+    26.11,
+    43.52,
+    60.93,
+    78.34,
+    95.75,
+    113.16,
+    130.57,
+    147.98,
+    165.39,
+    182.8,
+    200.21,
+    217.62,
+    235.03,
+    252.44,
+    269.85
+  ]
+}

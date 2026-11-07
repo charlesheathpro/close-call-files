@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314788",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "heavy surf",
+  "title": "Station Bodega Bay MLBs train in the surf",
+  "description": "BODEGA BAY, Calif. -- Motor Lifeboats from Coast Guard Station Bodega Bay train in the surf near Dillon Beach in Northern California Dec. 27, 2009.  Station Bodega Bay is one of 20 designated surf stations who's crew specializes in operating in heavy weather and sea conditions. U.S. Coast Guard video by Station Bodega Bay.",
+  "keywords": "CGVI",
+  "date": "2010-01-15T20:09:08-05:00",
+  "date_published": "2013-12-17T15:43:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Bodega Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314788/station-bodega-bay-mlbs-train-surf",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314788",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:22:30Z",
+  "duration": 382.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055907/DOD_101055907-640x480-545k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 545,
+    "size": 29600517
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    372.04
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      229.2,
+      372.1
+    ],
+    "silence_ends": [
+      10.1,
+      233.3,
+      382.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314788.jpg",
+  "sheet_times": [
+    11.92,
+    35.77,
+    59.62,
+    83.47,
+    107.32,
+    131.17,
+    155.02,
+    178.87,
+    202.72,
+    226.56,
+    250.41,
+    274.26,
+    298.11,
+    321.96,
+    345.81,
+    369.66
+  ]
+}

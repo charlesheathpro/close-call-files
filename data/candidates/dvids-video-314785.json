@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:314785",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "heavy surf",
+  "title": "Station Bodega Bay MLB 47305 trains in the surf",
+  "description": "BODEGA BAY, Calif. -- Crewmembers aboard Motor Lifeboat 47305, from Coast Guard Station Bodega Bay train in the surf near Dillon Beach in Northern California Jan. 13, 2010. Station Bodega Bay is one of 20 designated surf stations, who's crew is specializes in conducting search and rescue missions in heavy weather and seas. U.S. Coast Guard video by Station Bodega Bay.",
+  "keywords": "CGVI",
+  "date": "2010-01-15T17:22:15-05:00",
+  "date_published": "2013-12-17T15:40:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Bodega Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314785/station-bodega-bay-mlb-47305-trains-surf",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314785",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:23:18Z",
+  "duration": 572.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055903/DOD_101055903-640x480-1688k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1688,
+    "size": 122617139
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    39.31,
+    52.82,
+    189.62,
+    216.98,
+    234.73,
+    234.9,
+    234.97,
+    271.77,
+    298.83,
+    309.01,
+    352.22,
+    511.51,
+    523.72,
+    562.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      562.2
+    ],
+    "silence_ends": [
+      10.1,
+      572.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314785.jpg",
+  "sheet_times": [
+    17.87,
+    53.6,
+    89.33,
+    125.06,
+    160.79,
+    196.52,
+    232.25,
+    267.98,
+    303.71,
+    339.44,
+    375.17,
+    410.9,
+    446.63,
+    482.36,
+    518.09,
+    553.82
+  ]
+}

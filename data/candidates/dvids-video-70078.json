@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:70078",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "tsunami",
+  "title": "14th Coast Guard District External Affairs: American Samoa Tsunami Relief,",
+  "description": "B-roll of relief efforts in American Samoa to help tsunami and earthquake victims. Scenes include volunteers arriving by aircraft, surveying the affected area, and various views of the devastated areas. Part 1 of 2.",
+  "keywords": "refugee, palm trees, wreckage, earthquake, disaster",
+  "date": "2009-09-30T00:00:00-04:00",
+  "date_published": "2009-10-02T19:23:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "American Samoa",
+    "state_abbreviation": null,
+    "country_abbreviation": "AS"
+  },
+  "page_url": "https://www.dvidshub.net/video/70078/14th-coast-guard-district-external-affairs-american-samoa-tsunami-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-70078",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:21:40Z",
+  "duration": 155.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100054305/DOD_100054305.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 8.05,
+      "e": 9.05,
+      "text": "There you go."
+    },
+    {
+      "s": 9.05,
+      "e": 10.05,
+      "text": "Put it up."
+    }
+  ],
+  "scene_cuts": [
+    3.54,
+    17.75,
+    28.16,
+    38.64,
+    49.52,
+    61.13,
+    70.94,
+    76.94,
+    85.49,
+    89.76,
+    96.63,
+    106.01,
+    116.68,
+    127.56,
+    137.37,
+    146.18,
+    152.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      38.6,
+      105.8,
+      152.5
+    ],
+    "silence_ends": [
+      3.5,
+      49.5,
+      115.9,
+      155.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-70078.jpg",
+  "sheet_times": [
+    4.86,
+    14.57,
+    24.28,
+    33.99,
+    43.71,
+    53.42,
+    63.13,
+    72.85,
+    82.56,
+    92.27,
+    101.98,
+    111.7,
+    121.41,
+    131.12,
+    140.83,
+    150.55
+  ]
+}

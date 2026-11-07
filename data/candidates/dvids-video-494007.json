@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:494007",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "survivors",
+  "title": "COAST GUARD, LOCALS SAVE 6 FROM BOAT SINKING OFF NEW BEDFORD, MA",
+  "description": "B-Roll of the Coast Guard and local responders rescuing six people from a 72-foot scallop boat sinking five miles off New Bedford Sunday, November 20, 2016. The survivors were taken into New Bedford harbor to be evaluated by awaiting emergency services personnel. (U.S. Coast Guard video by Coast Guard Air Station Cape Cod)",
+  "keywords": "SAR",
+  "date": "2016-11-20T00:00:00-05:00",
+  "date_published": "2016-11-20T17:26:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "161120-G-ZZ999-001",
+  "location": {
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/494007/coast-guard-locals-save-6-boat-sinking-off-new-bedford-ma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-494007",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:21:58Z",
+  "duration": 77.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1611/DOD_103868208/DOD_103868208.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8902,
+    "size": 87008554
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.44,
+      "e": 26.5,
+      "text": "I'm gonna get one more guy off of here and I'll check the water and at that point I'll make sounds good."
+    },
+    {
+      "s": 26.5,
+      "e": 33.33,
+      "text": "Big wave coming."
+    }
+  ],
+  "scene_cuts": [
+    72.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.7,
+      47.9
+    ],
+    "silence_ends": [
+      7.9,
+      9.3,
+      77.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-494007.jpg",
+  "sheet_times": [
+    2.39,
+    7.18,
+    11.97,
+    16.75,
+    21.54,
+    26.32,
+    31.11,
+    35.9,
+    40.68,
+    45.47,
+    50.25,
+    55.04,
+    59.83,
+    64.61,
+    69.4,
+    74.18
+  ]
+}
