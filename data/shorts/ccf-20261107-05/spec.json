@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261107-05",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-99751",
  "lane": "rescue",
  "story_type": "boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
@@ -80,8 +80,8 @@
    {
     "start": 6.8,
     "end": 8.9,
-    "layout": "crop",
-    "crop_x": 0.85
+    "layout": "fit",
+    "crop_x": 0.5
    }
   ],
   [
@@ -122,8 +122,8 @@
    {
     "start": 22.0,
     "end": 23.6,
-    "layout": "crop",
-    "crop_x": 0.9
+    "layout": "fit",
+    "crop_x": 0.5
    }
   ],
   [

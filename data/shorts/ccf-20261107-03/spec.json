@@ -1,16 +1,16 @@
 {
  "short_id": "ccf-20261107-03",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-313238",
  "lane": "rescue",
  "story_type": "crew abandons a sinking ship into the Bering Sea, helicopter hoists to a cutter in heavy seas",
  "music_mood": "storm",
  "hook": "47 people went into the Bering Sea in survival suits.",
  "narration": [
-  "Forty seven people abandoned a sinking fishing ship in the Bering Sea, straight into the water.",
+  "In seas like these, forty seven people abandoned a sinking fishing ship, straight into the Bering Sea.",
   "The Alaska Ranger radioed for help at two fifty two in the morning, a hundred and twenty miles west of Dutch Harbor.",
   "When the first rescue helicopter arrived two and a half hours later, the ship had already sunk.",
-  "Every one of them wore a survival suit. It is sealed and insulated, so it floats you and slows how fast freezing water steals your body heat.",
+  "Every one of them wore a survival suit, sealed and insulated to keep them floating and slow the deadly cold.",
   "Through high winds, heavy seas and ice, helicopter crews lowered survivors to the pitching deck of the cutter Munro."
  ],
  "outcome": "Forty two of the Alaska Ranger's forty seven crew members survived.",
@@ -89,8 +89,8 @@
     "crop_x": 0.5
    },
    {
-    "start": 17.0,
-    "end": 19.4,
+    "start": 29.0,
+    "end": 31.5,
     "layout": "crop",
     "crop_x": 0.5
    }
@@ -117,14 +117,14 @@
   ],
   [
    {
-    "start": 8.4,
-    "end": 10.8,
+    "start": 20.0,
+    "end": 22.5,
     "layout": "crop",
-    "crop_x": 0.5
+    "crop_x": 0.4
    },
    {
-    "start": 10.9,
-    "end": 12.9,
+    "start": 23.0,
+    "end": 25.5,
     "layout": "crop",
     "crop_x": 0.5
    }
@@ -143,42 +143,36 @@
     "crop_x": 0.45
    },
    {
-    "start": 29.0,
-    "end": 31.5,
+    "start": 32.0,
+    "end": 35.0,
     "layout": "crop",
-    "crop_x": 0.5
+    "crop_x": 0.45
    }
   ],
   [
-   {
-    "start": 20.0,
-    "end": 22.5,
-    "layout": "crop",
-    "crop_x": 0.4
-   },
-   {
-    "start": 23.0,
-    "end": 25.5,
-    "layout": "crop",
-    "crop_x": 0.5
-   },
    {
     "start": 26.0,
     "end": 28.5,
     "layout": "crop",
     "crop_x": 0.55
+   },
+   {
+    "start": 17.0,
+    "end": 19.4,
+    "layout": "crop",
+    "crop_x": 0.5
    }
   ],
   [
    {
-    "start": 32.0,
-    "end": 35.0,
+    "start": 8.4,
+    "end": 10.8,
     "layout": "crop",
-    "crop_x": 0.45
+    "crop_x": 0.5
    },
    {
-    "start": 15.6,
-    "end": 16.9,
+    "start": 10.9,
+    "end": 12.9,
     "layout": "crop",
     "crop_x": 0.5
    }
