@@ -1,43 +1,42 @@
-# Playbook (computed 2026-11-07T14:19:09Z from 70 Shorts older than 48 hours)
+# Playbook (computed 2026-11-07T19:35:08Z from 73 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: abandon ship, boat crew pickup (+0.43, 1 Shorts)
-- story: capsized boat, people in the water (+0.4, 1 Shorts)
-- story: splashdown recovery (+0.4, 1 Shorts)
-- story: launch abort test (+0.39, 1 Shorts)
-- hook names a child (+0.34, 10 Shorts)
+- story: abandon ship, boat crew pickup (+0.42, 1 Shorts)
+- story: capsized boat, people in the water (+0.41, 1 Shorts)
+- story: splashdown recovery (+0.39, 1 Shorts)
+- hook names a child (+0.38, 10 Shorts)
+- story: launch abort test (+0.38, 1 Shorts)
+- music: rescue (+0.24, 12 Shorts)
 - story: dog cliff rescue (+0.22, 1 Shorts)
-- story: rocket booster test fire (+0.22, 1 Shorts)
 - story: elderly sailor and dog, disabled sailboat far offshore (+0.21, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.54, 1 Shorts)
-- story: rocket engine test cut short (-0.51, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.51, 1 Shorts)
-- story: boat fire rescue in winter (-0.38, 1 Shorts)
-- music: hazards (-0.38, 4 Shorts)
-- story: volcano eruption (-0.35, 2 Shorts)
-- story: attic flood hoist (-0.31, 1 Shorts)
-- lane: hazards (-0.3, 3 Shorts)
+- story: dog hoist from sinking boat (-0.55, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.5, 1 Shorts)
+- story: rocket engine test cut short (-0.44, 1 Shorts)
+- music: hazards (-0.35, 4 Shorts)
+- story: volcano eruption (-0.34, 2 Shorts)
+- story: boat fire rescue in winter (-0.31, 1 Shorts)
+- story: stranded on sea cliffs, jump to boat (-0.3, 1 Shorts)
+- story: crew capsule splashdown (-0.3, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 8320 views, 100% watched
-- Boat flipped with a 4-year-old aboard: 20323 views, 79% watched
+- Five abandon a sinking fishing boat: 8361 views, 100% watched
+- Boat flipped with a 4-year-old aboard: 20390 views, 79% watched
 - Orion splashes down after the Moon: 9441 views, 95% watched
 - Capsule torn off a rocket at Mach 1: 5179 views, 97% watched
 - Dog fell off an Oregon sea cliff: 1291 views, 84% watched
 
 ## Weakest Shorts
-- Trapped in the attic as the flood rose: 285 views, 44% watched
-- Boat on fire off South Carolina, 4 aboard: 979 views, 0% watched
-- Moon rocket test stopped after a minute: 332 views, 0% watched
-- Clinging to a flipped boat 12 miles out: 26 views, 62% watched
+- Stranded on cliffs, the way off was a jump: 1023 views, 0% watched
+- Boat on fire off South Carolina, 4 aboard: 987 views, 0% watched
+- Moon rocket test stopped after a minute: 334 views, 0% watched
+- Clinging to a flipped boat 12 miles out: 28 views, 62% watched
 - Dog hoisted from a sinking catamaran: 10 views, 80% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261030-04: Beautiful footage, but it is the third lava Short in four days and the same 2018 Kilauea eruption as ccf-20261030-06, which publishes Nov 1, so it looks interchangeable. The script also has no stakes: line 2 just repeats the location card and nothing says what was at risk.
 - ccf-20261030-08: Better: the impact opener and second angle land. Still a 5-second static wide of the tripod with the craft tiny in the sky (render 16.5 to 21.5s), an empty pad before the second drop (21.7 to 23.5s), and the outcome 'crumpled wreck' plays over spectators behind a fence (33 to 35s).
 - ccf-20261031-04: The footage never shows the danger the narration claims: a small distant sailboat through a rain-spotted window, seas that look moderate, empty water at 8 to 11.5s and 16 to 17.5s, and the hoist is a red blur at 22 to 23.5s. A calm-looking hoist fails the viral bar.
 - ccf-20261103-03: Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th
@@ -50,3 +49,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261105-34: Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown.
 - ccf-20261106-11: The kids are never visible: 28 seconds of one distant helicopter hovering over a dark rock pile at dusk from the same high angle, letterboxed and grainy. Nothing on screen looks dangerous, and the source has no closer shot to fix it.
 - ccf-20261106-21: The sinking houseboat is only a dark 4 s FLIR blob; the rest is the same calm top-down basket hoist from the door for about 25 s, which is the routine hoist the viral bar rules out. The cat payoff is nice but cannot carry it, and the source has no other footage.
+- ccf-20261107-02: Blurry, low-contrast footage of a boat that sits level the whole time; no visible sinking, and line 6 says basket over a pump case. Third sinking-boat Short in days. Dropped.
+- ccf-20261107-06: Clean edit, but it is the routine door-cam basket hoist: the water reads as choppy, not as a sixty-knot gale, and several seconds are near-empty sea. The number in the hook is never visible on screen. Dropped.
+- ccf-20261107-07: Great number, weak picture: grainy black-and-white sensor footage of a calm sea, the sailor is never clearly singled out among the Navy crew, and 45 s of near-identical cockpit angles. Nothing on screen shows the danger. Dropped.
