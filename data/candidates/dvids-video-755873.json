@@ -1,73 +1,74 @@
 {
-  "asset_id": "video:755873",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue swimmer",
-  "title": "Coast Guard rescues mother, son from cliffs near Cape Arago, OR",
-  "description": "Coast Guard aircrews aboard MH-65 Dolphin Helicopters from Sector North Bend rescued a mother and son after they had fallen from the cliffs while hiking at Cape Arago near Coos Bay, Oregon, June 11, 2020. The mother reported no medical concerns, but her 18-year-old son sustained multiple head wounds and required hospitalization. (U.S. Coast Guard video courtesy of Sector North Bend)\r\n ",
-  "keywords": "rescue swimmer, cliff rescue, District 13, MH-65 Dolphin helicopter, Pacific Northwest, Coos Bay, Sector North Bend, AHRS, Coast Guard, SAR, search and rescue, Oregon, USCG",
-  "date": "2020-06-11T00:00:00-04:00",
-  "date_published": "2020-06-12T02:06:39-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northwest",
-  "credit": "Petty Officer 3rd Class Trevor Lilburn",
-  "category": "B-Roll",
-  "virin": "200611-G-GE256-1001",
-  "location": {
-    "city": "North Bend",
-    "state": "Oregon",
-    "country": "United States",
-    "state_abbreviation": "OR",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/755873/coast-guard-rescues-mother-son-cliffs-near-cape-arago",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-755873",
-  "status": "new",
-  "harvested_at": "2026-11-06T17:26:27Z",
-  "duration": 43.63,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107851134/DOD_107851134.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 10074,
-    "size": 55650254
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    3.64,
-    18.22
+ "asset_id": "video:755873",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue swimmer",
+ "title": "Coast Guard rescues mother, son from cliffs near Cape Arago, OR",
+ "description": "Coast Guard aircrews aboard MH-65 Dolphin Helicopters from Sector North Bend rescued a mother and son after they had fallen from the cliffs while hiking at Cape Arago near Coos Bay, Oregon, June 11, 2020. The mother reported no medical concerns, but her 18-year-old son sustained multiple head wounds and required hospitalization. (U.S. Coast Guard video courtesy of Sector North Bend)\r\n ",
+ "keywords": "rescue swimmer, cliff rescue, District 13, MH-65 Dolphin helicopter, Pacific Northwest, Coos Bay, Sector North Bend, AHRS, Coast Guard, SAR, search and rescue, Oregon, USCG",
+ "date": "2020-06-11T00:00:00-04:00",
+ "date_published": "2020-06-12T02:06:39-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northwest",
+ "credit": "Petty Officer 3rd Class Trevor Lilburn",
+ "category": "B-Roll",
+ "virin": "200611-G-GE256-1001",
+ "location": {
+  "city": "North Bend",
+  "state": "Oregon",
+  "country": "United States",
+  "state_abbreviation": "OR",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/755873/coast-guard-rescues-mother-son-cliffs-near-cape-arago",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-755873",
+ "status": "passed_over",
+ "harvested_at": "2026-11-06T17:26:27Z",
+ "duration": 43.63,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107851134/DOD_107851134.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 10074,
+  "size": 55650254
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  3.64,
+  18.22
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   1.9
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      1.9
-    ],
-    "silence_ends": [
-      3.7
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-755873.jpg",
-  "sheet_times": [
-    1.35,
-    4.04,
-    6.74,
-    9.43,
-    12.13,
-    14.82,
-    17.52,
-    20.22,
-    22.91,
-    25.61,
-    28.3,
-    31.0,
-    33.69,
-    36.39,
-    39.08,
-    41.78
+  "silence_ends": [
+   3.7
   ]
+ },
+ "sheet": "data/candidates/dvids-video-755873.jpg",
+ "sheet_times": [
+  1.35,
+  4.04,
+  6.74,
+  9.43,
+  12.13,
+  14.82,
+  17.52,
+  20.22,
+  22.91,
+  25.61,
+  28.3,
+  31.0,
+  33.69,
+  36.39,
+  39.08,
+  41.78
+ ],
+ "pass_reason": "son had head wounds requiring hospitalization; injury risk on screen, small 43 s clip"
 }

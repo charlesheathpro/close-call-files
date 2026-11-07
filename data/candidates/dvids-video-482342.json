@@ -1,76 +1,77 @@
 {
-  "asset_id": "video:482342",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "Alaska rescue",
-  "title": "Coast Guard rescues 3 from float plane crash at Uganik Lake on Kodiak Island, Alaska",
-  "description": "Two Coast Guard Air Station Kodiak helicopter aircrews rescue three people after their float plane crashed in the vicinity of Uganik Lake on Kodiak Island, Alaska, Sept. 9, 2016.\r\n\r\nWatchstanders at the 17th Coast Guard District command center received an electronic locator beacon alert from a De Havilland DHC-2 float plane at 12:20 p.m., which prompted the launch of the two rescue helicopters.\r\n\r\nU.S. Coast Guard video.",
-  "keywords": "Air Station Kodiak, Kodiak Island, plane crash, Uganik Lake, float plane, De Havilland DHC-2, electronic locator beacon",
-  "date": "2016-09-09T00:00:00-04:00",
-  "date_published": "2016-09-09T23:15:14-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Arctic",
-  "credit": "Petty Officer 1st Class Kelly Parker",
-  "category": "B-Roll",
-  "virin": "160909-G-ZZ999-501",
-  "location": {
-    "city": "",
-    "state": "Alaska",
-    "country": "United States",
-    "state_abbreviation": "AK",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/482342/coast-guard-rescues-3-float-plane-crash-uganik-lake-kodiak-island-alaska",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.29227,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-482342",
-  "status": "new",
-  "harvested_at": "2026-11-06T17:25:04Z",
-  "duration": 115.2,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103645253/DOD_103645253.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 8975,
-    "size": 129358267
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.27,
-    27.09,
-    53.59,
-    69.34,
-    96.7
+ "asset_id": "video:482342",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "Alaska rescue",
+ "title": "Coast Guard rescues 3 from float plane crash at Uganik Lake on Kodiak Island, Alaska",
+ "description": "Two Coast Guard Air Station Kodiak helicopter aircrews rescue three people after their float plane crashed in the vicinity of Uganik Lake on Kodiak Island, Alaska, Sept. 9, 2016.\r\n\r\nWatchstanders at the 17th Coast Guard District command center received an electronic locator beacon alert from a De Havilland DHC-2 float plane at 12:20 p.m., which prompted the launch of the two rescue helicopters.\r\n\r\nU.S. Coast Guard video.",
+ "keywords": "Air Station Kodiak, Kodiak Island, plane crash, Uganik Lake, float plane, De Havilland DHC-2, electronic locator beacon",
+ "date": "2016-09-09T00:00:00-04:00",
+ "date_published": "2016-09-09T23:15:14-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Arctic",
+ "credit": "Petty Officer 1st Class Kelly Parker",
+ "category": "B-Roll",
+ "virin": "160909-G-ZZ999-501",
+ "location": {
+  "city": "",
+  "state": "Alaska",
+  "country": "United States",
+  "state_abbreviation": "AK",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/482342/coast-guard-rescues-3-float-plane-crash-uganik-lake-kodiak-island-alaska",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.29227,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-482342",
+ "status": "passed_over",
+ "harvested_at": "2026-11-06T17:25:04Z",
+ "duration": 115.2,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103645253/DOD_103645253.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 8975,
+  "size": 129358267
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.27,
+  27.09,
+  53.59,
+  69.34,
+  96.7
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      115.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-482342.jpg",
-  "sheet_times": [
-    7.74,
-    14.64,
-    21.54,
-    28.44,
-    35.34,
-    42.24,
-    49.15,
-    56.05,
-    62.95,
-    69.85,
-    76.75,
-    83.65,
-    90.55,
-    97.45,
-    104.35,
-    111.25
+  "silence_ends": [
+   115.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-482342.jpg",
+ "sheet_times": [
+  7.74,
+  14.64,
+  21.54,
+  28.44,
+  35.34,
+  42.24,
+  49.15,
+  56.05,
+  62.95,
+  69.85,
+  76.75,
+  83.65,
+  90.55,
+  97.45,
+  104.35,
+  111.25
+ ],
+ "pass_reason": "floatplane crash repeats 06-43 queued today"
 }
