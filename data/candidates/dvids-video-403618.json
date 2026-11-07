@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-403618",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:04:49Z",
   "duration": 228.56,
   "source_file": {
@@ -90,5 +90,6 @@
     193.06,
     207.06,
     221.06
-  ]
+  ],
+  "pass_reason": "Distant grey infrared; subjects are specks."
 }

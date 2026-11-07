@@ -26,7 +26,7 @@
   "time_start": 6.7067,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317740",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:40:28Z",
   "duration": 312.54,
   "source_file": {
@@ -769,5 +769,6 @@
     264.33,
     283.42,
     302.5
-  ]
+  ],
+  "pass_reason": "Night door-cam, washed-out blue murk; plane barely readable."
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-457461",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:02:29Z",
   "duration": 289.0,
   "source_file": {
@@ -67,5 +67,6 @@
     243.42,
     261.45,
     279.49
-  ]
+  ],
+  "pass_reason": "Calm mud-flat hoist, grainy."
 }

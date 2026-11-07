@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-539740",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:31:43Z",
   "duration": 52.22,
   "source_file": {
@@ -69,5 +69,6 @@
     44.27,
     47.25,
     50.23
-  ]
+  ],
+  "pass_reason": "Good opening, but most of the clip is distant small figures that fail the empty-frame check and the boat crew pickup is never shown (payoff told, not shown)."
 }

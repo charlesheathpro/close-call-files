@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-183148",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:48:23Z",
   "duration": 646.53,
   "source_file": {
@@ -543,5 +543,6 @@
     545.09,
     585.46,
     625.84
-  ]
+  ],
+  "pass_reason": "Long mostly door-cam hoist with thin release; offshore sailboat type already covered recently."
 }

@@ -26,7 +26,7 @@
   "time_start": 5.005,
   "aspect_ratio": "4:3",
   "id": "dvids-video-147159",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:04:59Z",
   "duration": 99.84,
   "source_file": {
@@ -95,5 +95,6 @@
     84.6,
     90.5,
     96.39
-  ]
+  ],
+  "pass_reason": "Door-cam with heavy colour noise; calm basket hoist."
 }

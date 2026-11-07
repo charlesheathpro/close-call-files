@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-494004",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:32:56Z",
   "duration": 77.08,
   "source_file": {
@@ -83,5 +83,6 @@
     64.61,
     69.4,
     74.18
-  ]
+  ],
+  "pass_reason": "Mostly one faded HUD shot of a crowded deck; the sinking is never clearly shown."
 }

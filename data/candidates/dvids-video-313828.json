@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313828",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:01:32Z",
   "duration": 205.38,
   "source_file": {
@@ -389,5 +389,6 @@
     172.87,
     185.67,
     198.48
-  ]
+  ],
+  "pass_reason": "Smeared, foggy door-cam; subjects unreadable."
 }

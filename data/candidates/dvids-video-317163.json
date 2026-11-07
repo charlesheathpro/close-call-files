@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-317163",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:02:52Z",
   "duration": 67.73,
   "source_file": {
@@ -73,5 +73,6 @@
     56.73,
     60.93,
     65.13
-  ]
+  ],
+  "pass_reason": "Mostly shaky cabin interior; no visible danger."
 }

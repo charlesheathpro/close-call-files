@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-87419",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:50:47Z",
   "duration": 142.94,
   "source_file": {
@@ -205,5 +205,6 @@
     120.81,
     129.47,
     138.12
-  ]
+  ],
+  "pass_reason": "Calm shallow-water basket hoist."
 }

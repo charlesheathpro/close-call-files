@@ -26,7 +26,7 @@
   "time_start": 15.3487,
   "aspect_ratio": "4:3",
   "id": "dvids-video-316501",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:28:19Z",
   "duration": 111.36,
   "source_file": {
@@ -123,5 +123,6 @@
     95.94,
     101.91,
     107.88
-  ]
+  ],
+  "pass_reason": "Same No Problem rescue as dvids-video-101072 (used)."
 }
