@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:317183",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard rescues woman swept from rocks",
-  "description": "BOSTON - The U.S. Coast Guard rescued a woman from the water after she was swept from the rocks at Narragansett Beach, R.I., at approximately 3:30 a.m. Monday. A Coast Guard Air Station Cape Cod MH-60T Jayhawk helicopter crew and a Coast Guard Station Point Judith 47-foot Motor Life Boat crew immediately launched to assist. The Jayhawk crew arrived onscene, located and safely hoisted the woman from the water approximately 500 yards from shore. U.S. Coast Guard video by Air Station Cape Cod.",
-  "keywords": "CGVI",
-  "date": "2011-08-29T00:00:00-04:00",
-  "date_published": "2013-12-21T14:33:57-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northeast",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "",
-  "location": {
-    "city": "Boston",
-    "state": "Massachusetts",
-    "country": "United States",
-    "state_abbreviation": "MA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/317183/coast-guard-rescues-woman-swept-rocks",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-317183",
-  "status": "new",
-  "harvested_at": "2026-11-07T16:24:39Z",
-  "duration": 203.34,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062090/DOD_101062090.mp4",
-    "width": 640,
-    "height": 480,
-    "bitrate": 643,
-    "size": 16360225
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    5.0
-  ],
-  "drama_score": 57,
-  "audio": {
-    "silence_starts": [],
-    "silence_ends": [
-      203.3
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-317183.jpg",
-  "sheet_times": [
-    6.34,
-    19.02,
-    31.69,
-    44.37,
-    57.05,
-    69.72,
-    82.4,
-    95.08,
-    107.76,
-    120.43,
-    133.11,
-    145.79,
-    158.47,
-    171.14,
-    183.82,
-    196.5
+ "asset_id": "video:317183",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard rescues woman swept from rocks",
+ "description": "BOSTON - The U.S. Coast Guard rescued a woman from the water after she was swept from the rocks at Narragansett Beach, R.I., at approximately 3:30 a.m. Monday. A Coast Guard Air Station Cape Cod MH-60T Jayhawk helicopter crew and a Coast Guard Station Point Judith 47-foot Motor Life Boat crew immediately launched to assist. The Jayhawk crew arrived onscene, located and safely hoisted the woman from the water approximately 500 yards from shore. U.S. Coast Guard video by Air Station Cape Cod.",
+ "keywords": "CGVI",
+ "date": "2011-08-29T00:00:00-04:00",
+ "date_published": "2013-12-21T14:33:57-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northeast",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "",
+ "location": {
+  "city": "Boston",
+  "state": "Massachusetts",
+  "country": "United States",
+  "state_abbreviation": "MA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/317183/coast-guard-rescues-woman-swept-rocks",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-317183",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T16:24:39Z",
+ "duration": 203.34,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062090/DOD_101062090.mp4",
+  "width": 640,
+  "height": 480,
+  "bitrate": 643,
+  "size": 16360225
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  5.0
+ ],
+ "drama_score": 57,
+ "audio": {
+  "silence_starts": [],
+  "silence_ends": [
+   203.3
   ]
+ },
+ "sheet": "data/candidates/dvids-video-317183.jpg",
+ "sheet_times": [
+  6.34,
+  19.02,
+  31.69,
+  44.37,
+  57.05,
+  69.72,
+  82.4,
+  95.08,
+  107.76,
+  120.43,
+  133.11,
+  145.79,
+  158.47,
+  171.14,
+  183.82,
+  196.5
+ ],
+ "pass_reason": "night, nearly black"
 }

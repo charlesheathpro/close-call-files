@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:315465",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard rescues two after boat sinks",
-  "description": "BOSTON - A Jayhawk helicopter crew from Coast Guard Air Station Cape Cod hoists one of two men rescued from 57-degree water by a 47-foot boat from Coast Guard Station Gloucester about nine miles north of Rockport, Mass., Sat., May 29, 2010. Coast Guard Station Gloucester received a cell phone call at 1:35 p.m., from the men reporting their boat, the 30-foot Happy Days, was taking on water. Coast Guard video.",
-  "keywords": "CGVI",
-  "date": "2010-05-30T10:54:50-04:00",
-  "date_published": "2013-12-19T10:35:11-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northeast",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Boston",
-    "state": "Massachusetts",
-    "country": "United States",
-    "state_abbreviation": "MA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/315465/coast-guard-rescues-two-after-boat-sinks",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-315465",
-  "status": "new",
-  "harvested_at": "2026-11-07T16:25:05Z",
-  "duration": 34.5,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058371/DOD_101058371-960x540-2768k.mp4",
-    "width": 960,
-    "height": 540,
-    "bitrate": 2768,
-    "size": 13490885
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.04
+ "asset_id": "video:315465",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard rescues two after boat sinks",
+ "description": "BOSTON - A Jayhawk helicopter crew from Coast Guard Air Station Cape Cod hoists one of two men rescued from 57-degree water by a 47-foot boat from Coast Guard Station Gloucester about nine miles north of Rockport, Mass., Sat., May 29, 2010. Coast Guard Station Gloucester received a cell phone call at 1:35 p.m., from the men reporting their boat, the 30-foot Happy Days, was taking on water. Coast Guard video.",
+ "keywords": "CGVI",
+ "date": "2010-05-30T10:54:50-04:00",
+ "date_published": "2013-12-19T10:35:11-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northeast",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Boston",
+  "state": "Massachusetts",
+  "country": "United States",
+  "state_abbreviation": "MA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/315465/coast-guard-rescues-two-after-boat-sinks",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-315465",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T16:25:05Z",
+ "duration": 34.5,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058371/DOD_101058371-960x540-2768k.mp4",
+  "width": 960,
+  "height": 540,
+  "bitrate": 2768,
+  "size": 13490885
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.04
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      34.5
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-315465.jpg",
-  "sheet_times": [
-    1.06,
-    3.19,
-    5.31,
-    7.44,
-    9.56,
-    11.69,
-    13.81,
-    15.94,
-    18.07,
-    20.19,
-    22.32,
-    24.44,
-    26.57,
-    28.69,
-    30.82,
-    32.94
+  "silence_ends": [
+   34.5
   ]
+ },
+ "sheet": "data/candidates/dvids-video-315465.jpg",
+ "sheet_times": [
+  1.06,
+  3.19,
+  5.31,
+  7.44,
+  9.56,
+  11.69,
+  13.81,
+  15.94,
+  18.07,
+  20.19,
+  22.32,
+  24.44,
+  26.57,
+  28.69,
+  30.82,
+  32.94
+ ],
+ "pass_reason": "heavy blue color artifacts, one static angle"
 }
