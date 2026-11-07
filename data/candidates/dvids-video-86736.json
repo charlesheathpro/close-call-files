@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:86736",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue",
+  "description": "B-roll of members of the U.S. Coast Guard in Cape Cod rescuing a person from a boat at sea. Scenes include the person being lifted up into the helicopter. Produce by Air Station Cape Cod.",
+  "keywords": "U.S. Coast GuardAir Station Cape Cod, rescue, boat",
+  "date": "2010-05-29T00:00:00-04:00",
+  "date_published": "2010-05-30T17:47:44-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/86736/coast-guard-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-86736",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:18:50Z",
+  "duration": 32.95,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1005/DOD_100072077/DOD_100072077.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.8
+  ],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-86736.jpg",
+  "sheet_times": [
+    1.01,
+    3.04,
+    5.07,
+    7.1,
+    9.13,
+    11.16,
+    13.18,
+    15.21,
+    17.24,
+    19.27,
+    21.3,
+    23.32,
+    25.35,
+    27.38,
+    29.41,
+    31.44
+  ]
+}

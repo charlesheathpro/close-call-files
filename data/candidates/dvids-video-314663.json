@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:314663",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station Houston rescues three",
+  "description": "HOUSTON - In this video released by the U.S. Coast Guard, three men, who were rescued after their 24-foot boat began taking on water, arrive at Air Station Houston Nov. 13, 2009.  The men were in good condition when they reached the air station.  U.S. Coast Guard video by Petty Officer 2nd Class Prentice Danner.",
+  "keywords": "CGVI",
+  "date": "2009-11-13T00:00:00-05:00",
+  "date_published": "2013-12-17T13:25:39-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Prentice Danner",
+  "category": "B-Roll",
+  "virin": "091113-G-5682D-001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314663/air-station-houston-rescues-three",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314663",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:47Z",
+  "duration": 87.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055668/DOD_101055668-640x480-704k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 704,
+    "size": 8469010
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    82.98
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      83.1
+    ],
+    "silence_ends": [
+      4.1,
+      87.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314663.jpg",
+  "sheet_times": [
+    2.7,
+    8.11,
+    13.52,
+    18.93,
+    24.34,
+    29.75,
+    35.16,
+    40.57,
+    45.98,
+    51.39,
+    56.8,
+    62.21,
+    67.62,
+    73.03,
+    78.44,
+    83.85
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:543539",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Fisherman on Pier",
+  "description": "A Coast Guard Air Station Traverse City rescue swimmer stands on the Frankfort North Pier Head and secures a fisherman in the hoist-basket and the MH-60 jayhawk helicopter hoists the man to safety, Frankfort, Michigan, August 11, 2017. The individual was taken to a nearby airport where local EMS were standing by. (U.S. Coast Guard video)",
+  "keywords": "MH-60 Jayhawk, Lake Michigan, Coast Guard helicopter rescue",
+  "date": "2017-08-11T00:00:00-04:00",
+  "date_published": "2017-08-12T11:51:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170811-G-ZV999-1002",
+  "location": {
+    "city": "Frankfort",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/543539/coast-guard-rescues-fisherman-pier",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-543539",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:25Z",
+  "duration": 98.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104715977/DOD_104715977.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9085,
+    "size": 112105738
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-543539.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.33,
+    21.46,
+    27.59,
+    33.72,
+    39.85,
+    45.99,
+    52.12,
+    58.25,
+    64.38,
+    70.51,
+    76.64,
+    82.77,
+    88.9,
+    95.04
+  ]
+}

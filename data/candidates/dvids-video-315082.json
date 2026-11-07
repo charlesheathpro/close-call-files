@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:315082",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "100423-G-5352B-Freeport Rescue",
+  "description": "HOUSTON - Coast Guard Air Station Houston rescued two men from a capsized boat in Christmas Bay, near Freeport, Texas, April 23, 2010 at 3:45 p.m.\n\nCoast Guard Station Freeport received a call at approximately 2:07 p.m. from the Brazoria County Police Department, stating that two men in a small boat had overturned in Christmas Bay. \n\nA 25-foot Response Boat - small was launched from Coast Guard Station Freeport and an MH-65 Dolphin rescue helicopter and crew were launched from Coast Guard Air Station Houston.\n\nThe rescue crew found the two men sitting on top of their overturned vessel and safely hoisted them at approximately 3:45 p.m., and transported them to Coast Guard Air Station Houston, where they were met by local emergency medical technicians. There condition is currently unknown.",
+  "keywords": "CGVI",
+  "date": "2010-04-23T19:04:43-04:00",
+  "date_published": "2013-12-17T19:47:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315082/100423-g-5352b-freeport-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 15.3487,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315082",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:38Z",
+  "duration": 138.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056325/DOD_101056325-720x480-1735k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1735,
+    "size": 29723814
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 104.96,
+      "e": 114.86,
+      "text": "So I think it's not large so much ever."
+    }
+  ],
+  "scene_cuts": [
+    15.35,
+    122.66
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      122.8
+    ],
+    "silence_ends": [
+      15.5,
+      138.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315082.jpg",
+  "sheet_times": [
+    19.17,
+    26.82,
+    34.46,
+    42.1,
+    49.75,
+    57.39,
+    65.04,
+    72.68,
+    80.33,
+    87.97,
+    95.61,
+    103.26,
+    110.9,
+    118.55,
+    126.19,
+    133.84
+  ]
+}

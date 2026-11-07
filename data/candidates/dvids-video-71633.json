@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:71633",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Five Sailors",
+  "description": "B-roll of the Coast Guard rescuing five sailors. Scenes include aerial footage of the rescue helicopter hovering above the sailors, a Coast Guardsman testing a rescue cage, and the sailors being hoisted into the helicopter.",
+  "keywords": "hoist, hovering, drowning",
+  "date": "2009-10-28T00:00:00-04:00",
+  "date_published": "2009-10-29T01:00:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/71633/coast-guard-rescues-five-sailors",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-71633",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:02Z",
+  "duration": 253.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100055953/DOD_100055953.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    49.35,
+    252.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-71633.jpg",
+  "sheet_times": [
+    11.77,
+    27.31,
+    42.84,
+    58.37,
+    73.91,
+    89.44,
+    104.98,
+    120.51,
+    136.05,
+    151.58,
+    167.11,
+    182.65,
+    198.18,
+    213.72,
+    229.25,
+    244.79
+  ]
+}

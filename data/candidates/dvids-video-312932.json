@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:312932",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station Houston Rescue Hoist",
+  "description": "HOUSTON - Coast Guard Air Station Houston crews rescue a man who was trapped after his sailboat was pushed aground south of Sabine, Texas, by Hurricane Humberto Aug. 13, 2007.",
+  "keywords": "CGVI",
+  "date": "2007-09-13T11:45:37-04:00",
+  "date_published": "2013-12-16T16:04:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/312932/air-station-houston-rescue-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-312932",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:59Z",
+  "duration": 278.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053133/DOD_101053133.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4323,
+    "size": 155717027
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.9,
+    258.32,
+    272.11
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      258.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-312932.jpg",
+  "sheet_times": [
+    8.69,
+    26.08,
+    43.46,
+    60.84,
+    78.23,
+    95.61,
+    112.99,
+    130.38,
+    147.76,
+    165.15,
+    182.53,
+    199.91,
+    217.3,
+    234.68,
+    252.06,
+    269.45
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:413116",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Helicopter Pilot",
+  "description": "Crew members from Coast Guard Air Station New Orleans hoist an injured pilot aboard an MH-65 Dolphin rescue helicopter, after the pilot's helicopter crashed in the Gulf of Mexico approximately 20 miles south of Timbalier Island June 28, 2015.",
+  "keywords": "crash, Coast Guard rescue, Coast Guard, medevac, Gulf of Mexico",
+  "date": "2015-06-28T00:00:00-04:00",
+  "date_published": "2015-06-30T18:32:21-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Seth Johnson",
+  "category": "B-Roll",
+  "virin": "150628-G-SQ620-001",
+  "location": {
+    "city": "NEW ORLEANS",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/413116/coast-guard-rescues-helicopter-pilot",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-413116",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:30Z",
+  "duration": 45.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102562174/DOD_102562174-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 915,
+    "size": 5949479
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      45.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-413116.jpg",
+  "sheet_times": [
+    1.4,
+    4.19,
+    6.99,
+    9.79,
+    12.58,
+    15.38,
+    18.18,
+    20.97,
+    23.77,
+    26.57,
+    29.36,
+    32.16,
+    34.96,
+    37.75,
+    40.55,
+    43.35
+  ]
+}

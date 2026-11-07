@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:75954",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "U.S. Coast Guardsmen Rescue Survivors",
+  "description": "B-roll of U.S. Coast Guardsmen air lifting survivors from the water after their ship catches fire off the coast of Corpus Christi, Texas.",
+  "keywords": "survivors, ship fire",
+  "date": "2009-09-12T00:00:00-04:00",
+  "date_published": "2009-12-26T15:29:48-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090912-G-2897B-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/75954/us-coast-guardsmen-rescue-survivors",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.07073,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-75954",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:19:16Z",
+  "duration": 154.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0912/DOD_100060557/DOD_100060557.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      80.4,
+      100.2,
+      104.3,
+      116.3,
+      142.9
+    ],
+    "silence_ends": [
+      4.1,
+      81.3,
+      101.4,
+      105.8,
+      117.9,
+      149.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-75954.jpg",
+  "sheet_times": [
+    8.74,
+    18.09,
+    27.44,
+    36.78,
+    46.13,
+    55.47,
+    64.82,
+    74.16,
+    83.51,
+    92.86,
+    102.2,
+    111.55,
+    120.89,
+    130.24,
+    139.59,
+    148.93
+  ]
+}
