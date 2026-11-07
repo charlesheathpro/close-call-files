@@ -1,23 +1,21 @@
 {
- "at": "2026-11-07T08:21:04Z",
+ "at": "2026-11-07T16:55:41Z",
  "healthy": false,
  "numbers": {
-  "passed": 7,
-  "uploaded": 88,
-  "dropped": 40,
-  "rejected": 0,
-  "scheduled_36h": 0,
+  "passed": 1,
+  "uploaded": 98,
+  "dropped": 43,
   "needs_build": 0,
-  "needs_qa": 0
+  "needs_qa": 0,
+  "scheduled_36h": 7
  },
  "found": [
-  "buffer thin: 0 scheduled in 36 h, 6 passed, nothing in build or QA",
-  "YouTube uploadLimitExceeded until 08:38Z; an upload run is in progress/queued for the window, no auth errors",
-  "harvest, build, upload and stats all landed in the last 30 h; no repeated build errors",
-  "rescue supply nearly exhausted: remaining strong clips are on deliberate holds (Rose Marie sinking to Nov 10, boat fire to Nov 9, Lake Michigan hull to Nov 12); aviation and hazards 'new' pools are mostly briefings and b-roll"
+  "buffer thin at start: 4 scheduled in 36 h, 0 passed, 2 in QA",
+  "harvest, build, upload and stats all landed in the last 30 h; archive harvest completed this run; no repeated build errors; last upload_limit alert Nov 6, no auth errors"
  ],
  "fixed": [
-  "repaired and passed ccf-20261104-01 rev 3 (divers on a flipped hull) per its Nov 4 QA fixes",
-  "pushed an archive harvest to triggers/harvest for fresh supply"
+  "QA: passed 07-01 (rev 2), dropped 07-02",
+  "editor pass: wrote 07-03 to 07-07 from about 45 candidates looked at; passed 07-03, 07-04, 07-05 after one repair round each, dropped 07-06 and 07-07 on the viral bar",
+  "held strong but repetitive clips with dated notes (boat fires to Nov 11, capsized hull 317788 and Honolulu 937303 to Nov 10)"
  ]
 }
