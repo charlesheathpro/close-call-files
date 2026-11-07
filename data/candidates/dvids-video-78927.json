@@ -26,7 +26,7 @@
   "time_start": 4.07073,
   "aspect_ratio": "4:3",
   "id": "dvids-video-78927",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:09:26Z",
   "duration": 730.78,
   "source_file": {
@@ -335,5 +335,6 @@
     616.81,
     662.19,
     707.58
-  ]
+  ],
+  "pass_reason": "b-roll of patients being treated; medical scenes"
 }

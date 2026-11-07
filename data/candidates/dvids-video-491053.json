@@ -26,7 +26,7 @@
   "time_start": 7.7624,
   "aspect_ratio": "4:3",
   "id": "dvids-video-491053",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:01:45Z",
   "duration": 127.21,
   "source_file": {
@@ -68,5 +68,6 @@
     108.12,
     115.56,
     122.99
-  ]
+  ],
+  "pass_reason": "night grayscale door-cam, murky"
 }

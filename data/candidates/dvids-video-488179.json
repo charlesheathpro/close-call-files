@@ -26,7 +26,7 @@
   "time_start": 4.1588,
   "aspect_ratio": "16:9",
   "id": "dvids-video-488179",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:16:02Z",
   "duration": 112.01,
   "source_file": {
@@ -167,5 +167,6 @@
     94.74,
     101.45,
     108.16
-  ]
+  ],
+  "pass_reason": "manatee transport on a runway; no danger on screen"
 }
