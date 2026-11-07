@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:315823",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "100907-G-0694D-Bodega-Rescue",
+  "description": "BODEGA BAY, Calif. - A Coast Guard crew from Station Bodega Bay, in a joint effort with rescuers from the Calif. State Parks Service, Sonoma County Sheriff's Department, and Bodega Bay Fire Department, medically evacuate an injured woman from a rock jetty wall at the entrance of Bodega Bay, Tuesday, Sept. 7, 2010. The patient was placed on a backboard and medically evacuated to paramedics waiting on shore. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2010-09-08T16:13:29-04:00",
+  "date_published": "2013-12-19T14:55:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Bodega Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315823/100907-g-0694d-bodega-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315823",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:00:00Z",
+  "duration": 388.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058927/DOD_101058927.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 817,
+    "size": 9646177
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    78.51
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      78.6
+    ],
+    "silence_ends": [
+      5.1,
+      388.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315823.jpg",
+  "sheet_times": [
+    12.11,
+    36.34,
+    60.56,
+    84.79,
+    109.01,
+    133.24,
+    157.46,
+    181.69,
+    205.91,
+    230.14,
+    254.36,
+    278.59,
+    302.81,
+    327.04,
+    351.26,
+    375.49
+  ]
+}

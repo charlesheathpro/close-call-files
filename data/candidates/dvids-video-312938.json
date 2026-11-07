@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:312938",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "CGC SPAR rescue in Puget Sound",
+  "description": "The Coast Guard Cutter SPAR, homeported in Kodiak, Alaska, rescues boaters in Puget Sound, Wash. April 20, 2007.",
+  "keywords": "CGVI",
+  "date": "2007-09-24T14:15:51-04:00",
+  "date_published": "2013-12-16T16:10:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/312938/cgc-spar-rescue-puget-sound",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 8.4084,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-312938",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:57:28Z",
+  "duration": 135.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053175/DOD_101053175-640x480-420k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 420,
+    "size": 8634813
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.41
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      8.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-312938.jpg",
+  "sheet_times": [
+    12.35,
+    20.24,
+    28.13,
+    36.02,
+    43.9,
+    51.79,
+    59.68,
+    67.57,
+    75.46,
+    83.34,
+    91.23,
+    99.12,
+    107.01,
+    114.9,
+    122.78,
+    130.67
+  ]
+}

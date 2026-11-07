@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:63584",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues French Kayaker",
+  "description": "B-roll of a Coast Guard helicopter rescuing a kayaker.",
+  "keywords": null,
+  "date": "2009-07-05T00:00:00-04:00",
+  "date_published": "2009-07-05T03:50:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/63584/coast-guard-rescues-french-kayaker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.03937,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-63584",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:57:40Z",
+  "duration": 170.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0907/DOD_100047338/DOD_100047338.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.62,
+      "e": 8.62,
+      "text": "Okay, we're at Oyster altitude, we got the Oyster."
+    },
+    {
+      "s": 8.62,
+      "e": 26.96,
+      "text": "Looks like he's a..."
+    }
+  ],
+  "scene_cuts": [
+    6.04,
+    162.3
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      162.3
+    ],
+    "silence_ends": [
+      6.0,
+      170.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-63584.jpg",
+  "sheet_times": [
+    11.18,
+    21.45,
+    31.72,
+    41.99,
+    52.26,
+    62.53,
+    72.8,
+    83.07,
+    93.35,
+    103.62,
+    113.89,
+    124.16,
+    134.43,
+    144.7,
+    154.97,
+    165.24
+  ]
+}

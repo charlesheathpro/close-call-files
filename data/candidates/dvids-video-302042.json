@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:302042",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Three Mariners",
+  "description": "The Coast Guard, along with members of the North Charleston Fire Department, rescued three mariners from a sailing vessel Monday, Sept. 23, 2013, in the vicinity of the Stono River entrance. The report stated they had run aground and were stranded in the breakers near the north shore of Kiawah Island. (U.S. Coast Guard video)",
+  "keywords": "distress, Sector Charleston, sailing vessel, Station Charleston, search and rescue",
+  "date": "2013-09-23T00:00:00-04:00",
+  "date_published": "2013-09-24T11:40:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130923-G-AA001-001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302042/coast-guard-rescues-three-mariners",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-302042",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:58:14Z",
+  "duration": 26.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100920304/DOD_100920304.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9153,
+    "size": 30655412
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    15.18
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      26.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302042.jpg",
+  "sheet_times": [
+    4.68,
+    6.04,
+    7.4,
+    8.76,
+    10.12,
+    11.48,
+    12.83,
+    14.19,
+    15.55,
+    16.91,
+    18.27,
+    19.63,
+    20.99,
+    22.34,
+    23.7,
+    25.06
+  ]
+}

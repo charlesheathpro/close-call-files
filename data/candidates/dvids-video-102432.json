@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:102432",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Sailing Vessel Raw Faith Rescue",
+  "description": "BOSTON - A Coast Guard rescue helicopter crew from Air Station Cape Cod, Mass., rescued two men Tues., Dec. 7, after their sailing vessel the Raw Faith became disabled 100 miles off the coast of Nantucket, Mass., Dec. 6, 2010. The Raw Faith sank in approximately 6,000 feet of water at 7:36 a.m., Wed., Dec. 8, 2010. Produced by Petty Officer 3rd Class Luke Clayton",
+  "keywords": "Nantucket, Air Station Cape Cod, Raw Faith, Luke Clayton, Coast Guard, Massachusetts, Boston",
+  "date": "2010-12-07T00:00:00-05:00",
+  "date_published": "2010-12-08T20:27:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101207-G-6567C-001",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/102432/sailing-vessel-raw-faith-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.006,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-102432",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:58:56Z",
+  "duration": 192.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1012/DOD_100104864/DOD_100104864.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.01,
+    156.89,
+    169.9
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      70.7,
+      169.9
+    ],
+    "silence_ends": [
+      70.7,
+      156.9,
+      192.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-102432.jpg",
+  "sheet_times": [
+    11.83,
+    23.48,
+    35.13,
+    46.78,
+    58.43,
+    70.07,
+    81.72,
+    93.37,
+    105.02,
+    116.67,
+    128.32,
+    139.97,
+    151.62,
+    163.27,
+    174.91,
+    186.56
+  ]
+}
