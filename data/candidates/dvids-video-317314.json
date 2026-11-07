@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:317314",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "111111-G- -001-three missing rescued",
-  "description": "CLEARWATER, Fla. - Coast Guard crews rescue three overdue boaters aboard their disabled 22-foot pleasure craft approximately 55-miles west of Tampa Bay, Fla., Nov. 11, 2011. \n\nThe boaters were found by the Coast Guard after being overdue for more than 24 hours. \n\nMultiple assets from Coast Guard Air Station Clearwater and Coast Guard Sector St. Petersburg searched for more than 10 hours.\n\nCoast Guard video by Coast Guard Air Station Clearwater.",
-  "keywords": "CGVI",
-  "date": "2011-11-11T23:01:48-05:00",
-  "date_published": "2013-12-21T17:19:59-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Southeast",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Clearwater",
-    "state": "Florida",
-    "country": "United States",
-    "state_abbreviation": "FL",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/317314/111111-g-001-three-missing-rescued",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-317314",
-  "status": "new",
-  "harvested_at": "2026-11-07T09:03:24Z",
-  "duration": 99.52,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062223/DOD_101062223-720x480-2147k.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 2147,
-    "size": 29140641
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.84
+ "asset_id": "video:317314",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "111111-G- -001-three missing rescued",
+ "description": "CLEARWATER, Fla. - Coast Guard crews rescue three overdue boaters aboard their disabled 22-foot pleasure craft approximately 55-miles west of Tampa Bay, Fla., Nov. 11, 2011. \n\nThe boaters were found by the Coast Guard after being overdue for more than 24 hours. \n\nMultiple assets from Coast Guard Air Station Clearwater and Coast Guard Sector St. Petersburg searched for more than 10 hours.\n\nCoast Guard video by Coast Guard Air Station Clearwater.",
+ "keywords": "CGVI",
+ "date": "2011-11-11T23:01:48-05:00",
+ "date_published": "2013-12-21T17:19:59-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Southeast",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Clearwater",
+  "state": "Florida",
+  "country": "United States",
+  "state_abbreviation": "FL",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/317314/111111-g-001-three-missing-rescued",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-317314",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T09:03:24Z",
+ "duration": 99.52,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062223/DOD_101062223-720x480-2147k.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 2147,
+  "size": 29140641
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.84
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   32.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      32.0
-    ],
-    "silence_ends": [
-      5.0,
-      99.5
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-317314.jpg",
-  "sheet_times": [
-    3.09,
-    9.28,
-    15.47,
-    21.66,
-    27.85,
-    34.04,
-    40.23,
-    46.42,
-    52.6,
-    58.79,
-    64.98,
-    71.17,
-    77.36,
-    83.55,
-    89.74,
-    95.93
+  "silence_ends": [
+   5.0,
+   99.5
   ]
+ },
+ "sheet": "data/candidates/dvids-video-317314.jpg",
+ "sheet_times": [
+  3.09,
+  9.28,
+  15.47,
+  21.66,
+  27.85,
+  34.04,
+  40.23,
+  46.42,
+  52.6,
+  58.79,
+  64.98,
+  71.17,
+  77.36,
+  83.55,
+  89.74,
+  95.93
+ ],
+ "pass_reason": "distant calm FLIR"
 }

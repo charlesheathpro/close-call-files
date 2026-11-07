@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:400099",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "vessel fire",
-  "title": "Coast Guard Rescues 3 Mariners From Life Raft Near Kodiak, Alaska",
-  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew rescues three mariners after a fire started on board their 82-foot vessel north of Kodiak, Alaska, April 21, 2015. The Jayhawk crew hoisted the mariners from their life raft in Stevenson Entrance and transported them safely to Kodiak. U.S. Coast Guard video by Air Station Kodiak.",
-  "keywords": "Kodiak, hoist, Coast Guard rescue, immersion suits, SAR, Fire, rescue",
-  "date": "2015-04-21T00:00:00-04:00",
-  "date_published": "2015-04-21T22:34:37-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Arctic",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "150421-G-ZZ999-001",
-  "location": {
-    "city": "Kodiak",
-    "state": "Alaska",
-    "country": "United States",
-    "state_abbreviation": "AK",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/400099/coast-guard-rescues-3-mariners-life-raft-near-kodiak-alaska",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.19217,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-400099",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:33:11Z",
-  "duration": 212.93,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102383401/DOD_102383401.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 9851,
-    "size": 262470884
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.2,
-    23.49,
-    138.44
+ "asset_id": "video:400099",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "vessel fire",
+ "title": "Coast Guard Rescues 3 Mariners From Life Raft Near Kodiak, Alaska",
+ "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew rescues three mariners after a fire started on board their 82-foot vessel north of Kodiak, Alaska, April 21, 2015. The Jayhawk crew hoisted the mariners from their life raft in Stevenson Entrance and transported them safely to Kodiak. U.S. Coast Guard video by Air Station Kodiak.",
+ "keywords": "Kodiak, hoist, Coast Guard rescue, immersion suits, SAR, Fire, rescue",
+ "date": "2015-04-21T00:00:00-04:00",
+ "date_published": "2015-04-21T22:34:37-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Arctic",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "150421-G-ZZ999-001",
+ "location": {
+  "city": "Kodiak",
+  "state": "Alaska",
+  "country": "United States",
+  "state_abbreviation": "AK",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/400099/coast-guard-rescues-3-mariners-life-raft-near-kodiak-alaska",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.19217,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-400099",
+ "status": "new",
+ "harvested_at": "2026-11-07T08:33:11Z",
+ "duration": 212.93,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102383401/DOD_102383401.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 9851,
+  "size": 262470884
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.2,
+  23.49,
+  138.44
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      212.9
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-400099.jpg",
-  "sheet_times": [
-    10.7,
-    23.71,
-    36.73,
-    49.74,
-    62.76,
-    75.77,
-    88.79,
-    101.8,
-    114.82,
-    127.83,
-    140.85,
-    153.86,
-    166.88,
-    179.89,
-    192.91,
-    205.92
+  "silence_ends": [
+   212.9
   ]
+ },
+ "sheet": "data/candidates/dvids-video-400099.jpg",
+ "sheet_times": [
+  10.7,
+  23.71,
+  36.73,
+  49.74,
+  62.76,
+  75.77,
+  88.79,
+  101.8,
+  114.82,
+  127.83,
+  140.85,
+  153.86,
+  166.88,
+  179.89,
+  192.91,
+  205.92
+ ],
+ "editor_note": "HOLD until about Nov 11: good fire plus life raft plus hoist (Kodiak, 3 mariners), but ccf-20261107-04 is a boat fire with a raft"
 }

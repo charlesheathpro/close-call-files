@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:297139",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard Rescues Missing Fisherman",
-  "description": "The Coast Guard rescues a missing fisherman approximately 43 miles south of Montauk, N.Y., July 24, 2013. John Aldridge, a crewmember of the commercial fishing vessel Anna Mary, was found after going overboard. A Coast Guard MH-60T Jayhawk helicopter rescue crew from Coast Guard Air Station Cape Cod, Mass., located and rescued the missing fisherman. U.S. Coast Guard video by Air Station Cape Cod.",
-  "keywords": "Mass., MH-60, MMR, lobster, fisheries, lobsterman, rescue, cape cod",
-  "date": "2013-07-24T00:00:00-04:00",
-  "date_published": "2013-07-24T21:31:55-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northeast",
-  "credit": "Petty Officer 2nd Class Robert Simpson",
-  "category": "B-Roll",
-  "virin": "130724-G-GV559-945",
-  "location": {
-    "city": "",
-    "state": "New York",
-    "country": "United States",
-    "state_abbreviation": "NY",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/297139/coast-guard-rescues-missing-fisherman",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-297139",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:58:34Z",
-  "duration": 122.2,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100869328/DOD_100869328.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 6700,
-    "size": 102382293
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    5.0
+ "asset_id": "video:297139",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard Rescues Missing Fisherman",
+ "description": "The Coast Guard rescues a missing fisherman approximately 43 miles south of Montauk, N.Y., July 24, 2013. John Aldridge, a crewmember of the commercial fishing vessel Anna Mary, was found after going overboard. A Coast Guard MH-60T Jayhawk helicopter rescue crew from Coast Guard Air Station Cape Cod, Mass., located and rescued the missing fisherman. U.S. Coast Guard video by Air Station Cape Cod.",
+ "keywords": "Mass., MH-60, MMR, lobster, fisheries, lobsterman, rescue, cape cod",
+ "date": "2013-07-24T00:00:00-04:00",
+ "date_published": "2013-07-24T21:31:55-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northeast",
+ "credit": "Petty Officer 2nd Class Robert Simpson",
+ "category": "B-Roll",
+ "virin": "130724-G-GV559-945",
+ "location": {
+  "city": "",
+  "state": "New York",
+  "country": "United States",
+  "state_abbreviation": "NY",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/297139/coast-guard-rescues-missing-fisherman",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-297139",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T08:58:34Z",
+ "duration": 122.2,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100869328/DOD_100869328.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 6700,
+  "size": 102382293
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  5.0
+ ],
+ "drama_score": 73,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 73,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      122.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-297139.jpg",
-  "sheet_times": [
-    3.8,
-    11.41,
-    19.02,
-    26.62,
-    34.23,
-    41.83,
-    49.44,
-    57.05,
-    64.65,
-    72.26,
-    79.86,
-    87.47,
-    95.08,
-    102.68,
-    110.29,
-    117.89
+  "silence_ends": [
+   122.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-297139.jpg",
+ "sheet_times": [
+  3.8,
+  11.41,
+  19.02,
+  26.62,
+  34.23,
+  41.83,
+  49.44,
+  57.05,
+  64.65,
+  72.26,
+  79.86,
+  87.47,
+  95.08,
+  102.68,
+  110.29,
+  117.89
+ ],
+ "pass_reason": "duplicate of 297129, letterboxed calm door-cam hoist"
 }

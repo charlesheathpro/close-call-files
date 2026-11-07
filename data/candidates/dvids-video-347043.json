@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:347043",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "beach rescue",
-  "title": "Air Station Los Angeles Rescue",
-  "description": "SAN PEDRO, Calif. – The Coast Guard and Baywatch teamed up to rescue a 53-year-old man after his 25-foot sailboat ran aground on the back side of Catalina Island, Calif., Monday morning.\r\n\r\nThe Coast Guard Sector Los Angeles-Long Beach Command Center received a report of a sailboat aground on the northwest tip of Catalina Island from passing vessel around 8 a.m.\r\n\r\nThe Coast Guard launched a MH-65 Dolphin helicopter from Air Station Los Angeles and Baywatch Isthmus dispatched a boat.  The boat and helicopter coordinated to hoist the man from the boat and safely transferred him to a landing pad in Isthmus, Calif.\r\n\r\nThe man is currently being evaluated by medical personnel on Catalina Island, though no injuries have been reported.  A salvage plan is being devised to remove the sailboat from the rocks.",
-  "keywords": "Air Station, LA/LB, rescue, A&S",
-  "date": "2014-06-30T00:00:00-04:00",
-  "date_published": "2014-06-30T17:40:36-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard PADET Los Angeles",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "140630-G-XX999-501",
-  "location": {
-    "city": "Los Angeles",
-    "state": "California",
-    "country": "United States",
-    "state_abbreviation": "CA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/347043/air-station-los-angeles-rescue",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-347043",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:30:46Z",
-  "duration": 98.65,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101777091/DOD_101777091.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 9153,
-    "size": 112912783
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.5
-    ],
-    "silence_ends": [
-      98.6
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-347043.jpg",
-  "sheet_times": [
-    3.07,
-    9.2,
-    15.34,
-    21.47,
-    27.6,
-    33.74,
-    39.87,
-    46.01,
-    52.14,
-    58.27,
-    64.41,
-    70.54,
-    76.68,
-    82.81,
-    88.94,
-    95.08
+ "asset_id": "video:347043",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "beach rescue",
+ "title": "Air Station Los Angeles Rescue",
+ "description": "SAN PEDRO, Calif. – The Coast Guard and Baywatch teamed up to rescue a 53-year-old man after his 25-foot sailboat ran aground on the back side of Catalina Island, Calif., Monday morning.\r\n\r\nThe Coast Guard Sector Los Angeles-Long Beach Command Center received a report of a sailboat aground on the northwest tip of Catalina Island from passing vessel around 8 a.m.\r\n\r\nThe Coast Guard launched a MH-65 Dolphin helicopter from Air Station Los Angeles and Baywatch Isthmus dispatched a boat.  The boat and helicopter coordinated to hoist the man from the boat and safely transferred him to a landing pad in Isthmus, Calif.\r\n\r\nThe man is currently being evaluated by medical personnel on Catalina Island, though no injuries have been reported.  A salvage plan is being devised to remove the sailboat from the rocks.",
+ "keywords": "Air Station, LA/LB, rescue, A&S",
+ "date": "2014-06-30T00:00:00-04:00",
+ "date_published": "2014-06-30T17:40:36-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard PADET Los Angeles",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "140630-G-XX999-501",
+ "location": {
+  "city": "Los Angeles",
+  "state": "California",
+  "country": "United States",
+  "state_abbreviation": "CA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/347043/air-station-los-angeles-rescue",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-347043",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T08:30:46Z",
+ "duration": 98.65,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101777091/DOD_101777091.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 9153,
+  "size": 112912783
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.5
+  ],
+  "silence_ends": [
+   98.6
   ]
+ },
+ "sheet": "data/candidates/dvids-video-347043.jpg",
+ "sheet_times": [
+  3.07,
+  9.2,
+  15.34,
+  21.47,
+  27.6,
+  33.74,
+  39.87,
+  46.01,
+  52.14,
+  58.27,
+  64.41,
+  70.54,
+  76.68,
+  82.81,
+  88.94,
+  95.08
+ ],
+ "pass_reason": "sailboat never on screen; 50 s of the same surf-on-rocks angle"
 }

@@ -1,88 +1,89 @@
 {
-  "asset_id": "video:316485",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "capsized vessel rescue",
-  "title": "Capsized vessel",
-  "description": "POINT PLEASANT BEACH, NJ - A Coast Guard rescue boat crewmember from Station Manasquan Inlet, NJ, pulls in a heaving line while a man from a capsized 17-foot boat holds on, one nautical mile off of Point Pleasant, NJ, Nov. 6, 2010. The four men had on life jackets and used a marine handheld radio to notify the Coast Guard of their location. U.S. Coast Guard video.",
-  "keywords": "CGVI",
-  "date": "2010-11-06T16:09:44-04:00",
-  "date_published": "2013-12-20T06:55:22-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard East",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Point Pleasant Beach",
-    "state": "New Jersey",
-    "country": "United States",
-    "state_abbreviation": "NJ",
-    "country_abbreviation": "US"
+ "asset_id": "video:316485",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "capsized vessel rescue",
+ "title": "Capsized vessel",
+ "description": "POINT PLEASANT BEACH, NJ - A Coast Guard rescue boat crewmember from Station Manasquan Inlet, NJ, pulls in a heaving line while a man from a capsized 17-foot boat holds on, one nautical mile off of Point Pleasant, NJ, Nov. 6, 2010. The four men had on life jackets and used a marine handheld radio to notify the Coast Guard of their location. U.S. Coast Guard video.",
+ "keywords": "CGVI",
+ "date": "2010-11-06T16:09:44-04:00",
+ "date_published": "2013-12-20T06:55:22-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard East",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Point Pleasant Beach",
+  "state": "New Jersey",
+  "country": "United States",
+  "state_abbreviation": "NJ",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/316485/capsized-vessel",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-316485",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T08:29:12Z",
+ "duration": 39.68,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060226/DOD_101060226-720x480-1664k.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 1664,
+  "size": 9534501
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 2.42,
+   "e": 3.42,
+   "text": "I got it."
   },
-  "page_url": "https://www.dvidshub.net/video/316485/capsized-vessel",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-316485",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:29:12Z",
-  "duration": 39.68,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060226/DOD_101060226-720x480-1664k.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 1664,
-    "size": 9534501
+  {
+   "s": 3.42,
+   "e": 14.11,
+   "text": "Got it."
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 2.42,
-      "e": 3.42,
-      "text": "I got it."
-    },
-    {
-      "s": 3.42,
-      "e": 14.11,
-      "text": "Got it."
-    },
-    {
-      "s": 14.11,
-      "e": 22.49,
-      "text": "I don't want the boat hitting handling pipe."
-    }
+  {
+   "s": 14.11,
+   "e": 22.49,
+   "text": "I don't want the boat hitting handling pipe."
+  }
+ ],
+ "scene_cuts": [
+  1.97
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "scene_cuts": [
-    1.97
-  ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      2.1
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-316485.jpg",
-  "sheet_times": [
-    1.22,
-    3.67,
-    6.12,
-    8.57,
-    11.02,
-    13.47,
-    15.92,
-    18.37,
-    20.81,
-    23.26,
-    25.71,
-    28.16,
-    30.61,
-    33.06,
-    35.51,
-    37.96
+  "silence_ends": [
+   2.1
   ]
+ },
+ "sheet": "data/candidates/dvids-video-316485.jpg",
+ "sheet_times": [
+  1.22,
+  3.67,
+  6.12,
+  8.57,
+  11.02,
+  13.47,
+  15.92,
+  18.37,
+  20.81,
+  23.26,
+  25.71,
+  28.16,
+  30.61,
+  33.06,
+  35.51,
+  37.96
+ ],
+ "pass_reason": "duplicate of dvids-video-99751 (ccf-20261107-05)"
 }

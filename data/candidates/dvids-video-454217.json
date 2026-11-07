@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:454217",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard Rescues 4 Missing Boaters",
-  "description": "A 45-foot Response Boat-Medium boat crew from Coast Guard Station Fort Myers Beach, Florida, rescues four missing mariners, after a C-130 Hercules air crew from Air Station Clearwater, Florida, found the men 23 miles southwest of Big Marco Pass, Florida, Monday, March 14, 2016. The men were reported missing after not returning from a deep sea fishing trip. (U.S. Coast Guard video)",
-  "keywords": "Clearwater, Fort Myers Beach, Big Marco Pass, Coast Guard, Florida, FL",
-  "date": "2016-03-14T00:00:00-04:00",
-  "date_published": "2016-03-14T12:44:10-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "150314-G-ZZ999-801",
-  "location": {
-    "city": "Naples",
-    "state": "Florida",
-    "country": "United States",
-    "state_abbreviation": "FL",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/454217/coast-guard-rescues-4-missing-boaters",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.02533,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-454217",
-  "status": "new",
-  "harvested_at": "2026-11-07T09:00:31Z",
-  "duration": 35.56,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103125032/DOD_103125032-640x480-922k.mp4",
-    "width": 640,
-    "height": 480,
-    "bitrate": 937,
-    "size": 4211789
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.0
+ "asset_id": "video:454217",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard Rescues 4 Missing Boaters",
+ "description": "A 45-foot Response Boat-Medium boat crew from Coast Guard Station Fort Myers Beach, Florida, rescues four missing mariners, after a C-130 Hercules air crew from Air Station Clearwater, Florida, found the men 23 miles southwest of Big Marco Pass, Florida, Monday, March 14, 2016. The men were reported missing after not returning from a deep sea fishing trip. (U.S. Coast Guard video)",
+ "keywords": "Clearwater, Fort Myers Beach, Big Marco Pass, Coast Guard, Florida, FL",
+ "date": "2016-03-14T00:00:00-04:00",
+ "date_published": "2016-03-14T12:44:10-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "150314-G-ZZ999-801",
+ "location": {
+  "city": "Naples",
+  "state": "Florida",
+  "country": "United States",
+  "state_abbreviation": "FL",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/454217/coast-guard-rescues-4-missing-boaters",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.02533,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-454217",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T09:00:31Z",
+ "duration": 35.56,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103125032/DOD_103125032-640x480-922k.mp4",
+  "width": 640,
+  "height": 480,
+  "bitrate": 937,
+  "size": 4211789
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.0
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      35.6
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-454217.jpg",
-  "sheet_times": [
-    5.0,
-    6.94,
-    8.87,
-    10.81,
-    12.75,
-    14.69,
-    16.63,
-    18.57,
-    20.51,
-    22.45,
-    24.39,
-    26.33,
-    28.27,
-    30.21,
-    32.15,
-    34.09
+  "silence_ends": [
+   35.6
   ]
+ },
+ "sheet": "data/candidates/dvids-video-454217.jpg",
+ "sheet_times": [
+  5.0,
+  6.94,
+  8.87,
+  10.81,
+  12.75,
+  14.69,
+  16.63,
+  18.57,
+  20.51,
+  22.45,
+  24.39,
+  26.33,
+  28.27,
+  30.21,
+  32.15,
+  34.09
+ ],
+ "pass_reason": "distant calm boats"
 }

@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:313880",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard Rescue - Explorer 1 Hoist",
-  "description": "An Air Station Clearwater, Fla., HH-60 Jayhawk helicopter crew deployed to Providenciales, Turks and Caicos, in support of Operation Bahamas Turks and Caicos. The crew hoisted seven mariners approximately 25 miles north of Puerta Plata, Dominican Republic. The mariners' bulk carrier, Explorer 1, sank Jan. 28, 2009. U.S. Coast Guard video/ Air Station Clearwater, Fla.",
-  "keywords": "CGVI",
-  "date": "2009-01-29T00:00:00-05:00",
-  "date_published": "2013-12-17T02:45:53-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Headquarters",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "",
-    "state_abbreviation": null,
-    "country_abbreviation": null
-  },
-  "page_url": "https://www.dvidshub.net/video/313880/coast-guard-rescue-explorer-1-hoist",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-313880",
-  "status": "new",
-  "harvested_at": "2026-11-07T09:01:04Z",
-  "duration": 30.42,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054540/DOD_101054540.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 10000,
-    "size": 38399051
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      30.4
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-313880.jpg",
-  "sheet_times": [
-    0.93,
-    2.8,
-    4.67,
-    6.54,
-    8.41,
-    10.28,
-    12.15,
-    14.02,
-    15.89,
-    17.76,
-    19.63,
-    21.5,
-    23.37,
-    25.24,
-    27.11,
-    28.98
+ "asset_id": "video:313880",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard Rescue - Explorer 1 Hoist",
+ "description": "An Air Station Clearwater, Fla., HH-60 Jayhawk helicopter crew deployed to Providenciales, Turks and Caicos, in support of Operation Bahamas Turks and Caicos. The crew hoisted seven mariners approximately 25 miles north of Puerta Plata, Dominican Republic. The mariners' bulk carrier, Explorer 1, sank Jan. 28, 2009. U.S. Coast Guard video/ Air Station Clearwater, Fla.",
+ "keywords": "CGVI",
+ "date": "2009-01-29T00:00:00-05:00",
+ "date_published": "2013-12-17T02:45:53-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Headquarters",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "",
+  "state_abbreviation": null,
+  "country_abbreviation": null
+ },
+ "page_url": "https://www.dvidshub.net/video/313880/coast-guard-rescue-explorer-1-hoist",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-313880",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T09:01:04Z",
+ "duration": 30.42,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054540/DOD_101054540.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 10000,
+  "size": 38399051
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   30.4
   ]
+ },
+ "sheet": "data/candidates/dvids-video-313880.jpg",
+ "sheet_times": [
+  0.93,
+  2.8,
+  4.67,
+  6.54,
+  8.41,
+  10.28,
+  12.15,
+  14.02,
+  15.89,
+  17.76,
+  19.63,
+  21.5,
+  23.37,
+  25.24,
+  27.11,
+  28.98
+ ],
+ "pass_reason": "heavy purple scan lines"
 }
