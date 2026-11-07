@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:423598",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Mariners from Disabled Vessel",
+  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew hoists three people from a disabled fishing vessel in Bristol Bay near Togiak, Alaska, Sept. 13, 2015. The helicopter crew safely transported the mariners to Dillingham, Alaska. U.S. Coast Guard video by Air Station Kodiak.",
+  "keywords": "Disabled, hoist, Coast Guard rescue, Bristol Bay, rescue",
+  "date": "2015-09-13T00:00:00-04:00",
+  "date_published": "2015-09-13T21:16:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 2nd Class Grant DeVuyst",
+  "category": "B-Roll",
+  "virin": "150913-G-YE680-329",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/423598/coast-guard-rescues-mariners-disabled-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-423598",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:23:35Z",
+  "duration": 165.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1509/DOD_102726904/DOD_102726904.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9281,
+    "size": 195338749
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    29.36,
+    31.33,
+    37.2,
+    39.17,
+    42.01,
+    47.88,
+    49.85,
+    64.2,
+    66.37,
+    68.3,
+    68.37,
+    101.63,
+    103.6,
+    106.57,
+    117.62
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      166.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-423598.jpg",
+  "sheet_times": [
+    9.07,
+    19.16,
+    29.25,
+    39.34,
+    49.43,
+    59.52,
+    69.61,
+    79.71,
+    89.8,
+    99.89,
+    109.98,
+    120.07,
+    130.16,
+    140.25,
+    150.34,
+    160.43
+  ]
+}
