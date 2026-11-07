@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:317123",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescue swimmer lowered to beach",
+  "description": "EMPIRE, Mich. - A U.S. Coast Guard rescue swimmer from Air Station Traverse City, Mich., is lowered to the beach in Empire, Mich., to help guide passengers to shore from a tour boat after it became damaged in rough weather in Lake Michigan near Empire July 25, 2011. The aircrew, in an MH-65 Dolphin rescue helicopter, also airlifted two people who reported shoulder injuries as a safety precaution. (U.S. Coast Guard video)",
+  "keywords": "CGVI",
+  "date": "2011-07-26T07:16:41-04:00",
+  "date_published": "2013-12-21T11:57:08-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Empire",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317123/coast-guard-rescue-swimmer-lowered-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317123",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:20:54Z",
+  "duration": 101.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062024/DOD_101062024-640x480-1264k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1264,
+    "size": 16451113
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.88,
+      "e": 6.88,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    97.66
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      97.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317123.jpg",
+  "sheet_times": [
+    3.16,
+    9.48,
+    15.81,
+    22.13,
+    28.45,
+    34.78,
+    41.1,
+    47.42,
+    53.75,
+    60.07,
+    66.39,
+    72.71,
+    79.04,
+    85.36,
+    91.68,
+    98.01
+  ]
+}

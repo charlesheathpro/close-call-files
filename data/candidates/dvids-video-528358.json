@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:528358",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3rd kite surfer this month",
+  "description": "The Coast Guard rescued a downed kite surfer near Santa Cruz, Monday afternoon, May 29, 2017.\r\nCoast Guard Sector San Francisco watchstanders received a report from a friend of a distressed kite surfer with broken equipment and was stranded near a rocky shore. Coast Guard video by Air Station San Francisco",
+  "keywords": "Santa Cruz, Sector San Francisco, kite surfer, Coast Guard, search and rescue",
+  "date": "2017-05-29T00:00:00-04:00",
+  "date_published": "2017-05-30T02:15:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": "170529-G-AT057-349",
+  "location": {
+    "city": "Santa Cruz",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/528358/coast-guard-rescues-3rd-kite-surfer-month",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-528358",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:23:07Z",
+  "duration": 105.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104422117/DOD_104422117.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8826,
+    "size": 117869911
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    41.01
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      105.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-528358.jpg",
+  "sheet_times": [
+    3.27,
+    9.82,
+    16.36,
+    22.91,
+    29.46,
+    36.0,
+    42.55,
+    49.09,
+    55.64,
+    62.19,
+    68.73,
+    75.28,
+    81.82,
+    88.37,
+    94.91,
+    101.46
+  ]
+}

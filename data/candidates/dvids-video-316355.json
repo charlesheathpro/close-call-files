@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:316355",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 on Lake Erie",
+  "description": "CLEVELAND - U.S. Coast Guard Petty Officer 2nd Class Michael Huth, a flight mechanic at Coast Guard Air Station Detroit, hoists a boater from the water after a 19-foot vessel began taking on water in Lake Erie, August 3, 2010. Petty Officer 2nd Class Bret Fogle, a rescue swimmer at Air Station Detroit, is in the water and prepares a second boater to be lifted into the helicopter. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2010-08-04T10:42:32-04:00",
+  "date_published": "2013-12-20T04:18:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "country": "United States",
+    "state_abbreviation": "OH",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316355/coast-guard-rescues-2-lake-erie",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316355",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:21:27Z",
+  "duration": 123.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101059911/DOD_101059911.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 0,
+    "size": 9925353
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.13,
+    119.67
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      123.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316355.jpg",
+  "sheet_times": [
+    3.85,
+    11.55,
+    19.24,
+    26.94,
+    34.64,
+    42.34,
+    50.04,
+    57.73,
+    65.43,
+    73.13,
+    80.83,
+    88.53,
+    96.22,
+    103.92,
+    111.62,
+    119.32
+  ]
+}

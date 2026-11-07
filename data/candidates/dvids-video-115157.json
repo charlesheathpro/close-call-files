@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:115157",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Man 50-Miles Offshore",
+  "description": "B-roll of PACIFIC OCEAN - A crew from Coast Guard Air Station San Francisco hoist an injured man from the MSC Maria Elena, a 1,100-foot Panamanian-flagged cargo vessel, Thursday, May 12, 2011. The injured man was medically evacuated to Air Station San Francisco where he was transferred to paramedics. U.S. Coast Guard video. Produced by Lt. Matt Kroll.",
+  "keywords": "Air Station, Maria Elena, Matt Kroll, Coast Guard, medevac, San Francisco",
+  "date": "2011-05-12T00:00:00-04:00",
+  "date_published": "2011-05-13T05:51:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110512-G-AB177-002",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/115157/coast-guard-rescues-man-50-miles-offshore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-115157",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:22:12Z",
+  "duration": 61.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1105/DOD_100172887/DOD_100172887.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    41.61,
+    49.85
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      41.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-115157.jpg",
+  "sheet_times": [
+    5.78,
+    9.34,
+    12.9,
+    16.46,
+    20.02,
+    23.58,
+    27.14,
+    30.7,
+    34.26,
+    37.82,
+    41.38,
+    44.94,
+    48.5,
+    52.06,
+    55.62,
+    59.18
+  ]
+}

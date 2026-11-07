@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:455044",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues woman from Klamath River",
+  "description": "MCKINLEYVILLE, Calif. — The Coast Guard medically evacuated a 79-year-old female near the Klamath River Sunday afternoon.",
+  "keywords": "Coast Guard rescue, Air Station Humboldt Bay, sector humboldt bay, medically evacuate, Klamath River, Coast Guard",
+  "date": "2016-03-20T00:00:00-04:00",
+  "date_published": "2016-03-20T22:13:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": "160320-G-AT057-576",
+  "location": {
+    "city": "Humboldt Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/455044/coast-guard-rescues-woman-klamath-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-455044",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:23:16Z",
+  "duration": 83.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103145686/DOD_103145686.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9089,
+    "size": 95873071
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-455044.jpg",
+  "sheet_times": [
+    6.49,
+    11.41,
+    16.33,
+    21.25,
+    26.17,
+    31.09,
+    36.01,
+    40.94,
+    45.86,
+    50.78,
+    55.7,
+    60.62,
+    65.54,
+    70.46,
+    75.38,
+    80.31
+  ]
+}

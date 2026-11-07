@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:314818",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station San Francisco rescues two boaters",
+  "description": "SAN FRANCISCO-- An MH-65 Helicopter aircrew from Air Station San Francisco rescued two stranded boaters from the Sacramento Delta, Jan. 19, 2009. U.S. Coast Guard video by Air Station San Francisco",
+  "keywords": "CGVI",
+  "date": "2010-01-19T22:06:49-05:00",
+  "date_published": "2013-12-17T16:14:09-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314818/air-station-san-francisco-rescues-two-boaters",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314818",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:23:19Z",
+  "duration": 36.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055940/DOD_101055940-640x480-1676k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1676,
+    "size": 8411601
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    20.85,
+    32.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314818.jpg",
+  "sheet_times": [
+    1.14,
+    3.41,
+    5.68,
+    7.95,
+    10.22,
+    12.49,
+    14.76,
+    17.03,
+    19.3,
+    21.57,
+    23.85,
+    26.12,
+    28.39,
+    30.66,
+    32.93,
+    35.2
+  ]
+}
