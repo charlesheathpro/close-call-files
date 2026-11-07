@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:67802",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue",
+  "description": "B-roll of a the Coast Guard using a helicopter to air lift a person from a boat to safety.",
+  "keywords": null,
+  "date": "2009-09-04T00:00:00-04:00",
+  "date_published": "2009-09-04T11:20:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/67802/coast-guard-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-67802",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:46:30Z",
+  "duration": 30.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0909/DOD_100051900/DOD_100051900.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 40,
+  "audio": {
+    "silence_starts": [
+      0.1
+    ],
+    "silence_ends": [
+      0.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-67802.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.64,
+    6.5,
+    8.35,
+    10.21,
+    12.06,
+    13.92,
+    15.77,
+    17.63,
+    19.49,
+    21.34,
+    23.2,
+    25.05,
+    26.91,
+    28.76
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:297431",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Fishing Boat Rescue",
+  "description": "Coast Guard medevacs man from fishing boat. ",
+  "keywords": "Fishing Boat, Coast Guard, rescue",
+  "date": "2013-07-27T00:00:00-04:00",
+  "date_published": "2013-07-27T21:44:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Connie Terrell",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/297431/fishing-boat-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-297431",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:49:22Z",
+  "duration": 90.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100872496/DOD_100872496.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8819,
+    "size": 99350470
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    42.41,
+    62.03,
+    85.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      90.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-297431.jpg",
+  "sheet_times": [
+    2.8,
+    8.4,
+    13.99,
+    19.59,
+    25.19,
+    30.79,
+    36.38,
+    41.98,
+    47.58,
+    53.17,
+    58.77,
+    64.37,
+    69.97,
+    75.56,
+    81.16,
+    86.76
+  ]
+}

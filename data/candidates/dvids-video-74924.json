@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:74924",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue",
+  "description": "B-roll of a coast guard rescue. Scenes include a basket being dropped and picking up a person and placing them in the helicopter.",
+  "keywords": "Coast Guard rescue",
+  "date": "2009-12-11T00:00:00-05:00",
+  "date_published": "2009-12-11T18:00:53-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/74924/coast-guard-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-74924",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:46:56Z",
+  "duration": 124.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0912/DOD_100059459/DOD_100059459.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-74924.jpg",
+  "sheet_times": [
+    7.77,
+    15.25,
+    22.72,
+    30.2,
+    37.67,
+    45.15,
+    52.62,
+    60.1,
+    67.57,
+    75.04,
+    82.52,
+    89.99,
+    97.47,
+    104.94,
+    112.42,
+    119.89
+  ]
+}

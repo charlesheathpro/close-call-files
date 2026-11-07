@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:312775",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Cape May Rescue",
+  "description": "CAPE MAY, N.J. -- Rescue footage of a medevac 70 miles off the coast of Cape May, N.J.\n\nOwner: U.S. Coast Guard\nVideographer: U.S. Coast Guard\nSize: 18.4 MB wmv\nLength: 1:33\nDate Taken: 04-20-2007",
+  "keywords": "CGVI",
+  "date": "2007-06-07T13:27:38-04:00",
+  "date_published": "2013-12-16T14:49:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/312775/cape-may-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-312775",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:47:59Z",
+  "duration": 92.51,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101052847/DOD_101052847-640x480-1908k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1908,
+    "size": 23825596
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.95,
+    27.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      12.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-312775.jpg",
+  "sheet_times": [
+    2.88,
+    8.63,
+    14.38,
+    20.13,
+    25.88,
+    31.63,
+    37.38,
+    43.13,
+    48.88,
+    54.63,
+    60.38,
+    66.13,
+    71.88,
+    77.63,
+    83.38,
+    89.13
+  ]
+}

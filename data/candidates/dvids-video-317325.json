@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:317325",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Pyramid Mountain rescue",
+  "description": "SEATTLE - An MH-65 Dolphin helicopter crew from Coast Guard Air Station Port Angles, Wash., lowers a rescue swimmer to medevac a 15-year-old boy from Pyramid Mountain near Port Angeles, Monday, Nov. 21, 2011. The boy suffered leg injuries after falling down an embankment while hiking, Sunday. U.S. Coast Guard video by Air Station Port Angeles.",
+  "keywords": "CGVI",
+  "date": "2011-11-21T00:00:00-05:00",
+  "date_published": "2013-12-21T17:39:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Nathan Bradshaw",
+  "category": "B-Roll",
+  "virin": "111121-G-AX010-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317325/pyramid-mountain-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317325",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:49:33Z",
+  "duration": 87.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062234/DOD_101062234-720x480-1593k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1593,
+    "size": 17304188
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 23.57,
+      "e": 77.29,
+      "text": "I know. Halfway down. This is an altitude."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    81.95
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      82.1
+    ],
+    "silence_ends": [
+      5.1,
+      87.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317325.jpg",
+  "sheet_times": [
+    2.7,
+    8.11,
+    13.52,
+    18.93,
+    24.34,
+    29.75,
+    35.16,
+    40.57,
+    45.97,
+    51.38,
+    56.79,
+    62.2,
+    67.61,
+    73.02,
+    78.43,
+    83.84
+  ]
+}
