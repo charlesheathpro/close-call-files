@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313072",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:29:15Z",
   "duration": 130.12,
   "source_file": {
@@ -70,5 +70,6 @@
     109.37,
     117.47,
     125.57
-  ]
+  ],
+  "pass_reason": "rescue not shown or calm offload and transfer footage; nothing dangerous on screen"
 }

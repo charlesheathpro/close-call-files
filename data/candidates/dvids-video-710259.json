@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-710259",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:00:22Z",
   "duration": 135.02,
   "source_file": {
@@ -81,5 +81,6 @@
     113.5,
     121.91,
     130.32
-  ]
+  ],
+  "pass_reason": "medevac or injured person in a litter; medical scene, no visible danger"
 }

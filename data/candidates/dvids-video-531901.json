@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-531901",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:18:32Z",
   "duration": 75.84,
   "source_file": {
@@ -68,5 +68,6 @@
     63.56,
     68.27,
     72.98
-  ]
+  ],
+  "pass_reason": "calm or static door-cam hoist; no danger visible on screen (viral bar)"
 }

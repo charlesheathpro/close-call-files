@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-516522",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:50:49Z",
   "duration": 181.72,
   "source_file": {
@@ -392,5 +392,6 @@
     152.9,
     164.23,
     175.56
-  ]
+  ],
+  "pass_reason": "mostly interviews and title cards"
 }

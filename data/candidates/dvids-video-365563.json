@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-365563",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:02:08Z",
   "duration": 97.57,
   "source_file": {
@@ -70,5 +70,6 @@
     82.53,
     88.35,
     94.16
-  ]
+  ],
+  "pass_reason": "murky night infrared; subjects small and unreadable"
 }
