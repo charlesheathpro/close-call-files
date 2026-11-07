@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-06T21:01:52Z",
+  "at": "2026-11-07T03:08:36Z",
   "mature": 68,
   "features": [
     {
@@ -38,19 +38,19 @@
       "effect": 0.4
     },
     {
+      "feature": "hook names a child",
+      "n": 10,
+      "effect": 0.3
+    },
+    {
       "feature": "music: aviation",
       "n": 8,
       "effect": 0.3
     },
     {
-      "feature": "hook names a child",
-      "n": 10,
-      "effect": 0.29
-    },
-    {
       "feature": "story: rocket booster test fire",
       "n": 1,
-      "effect": 0.25
+      "effect": 0.26
     },
     {
       "feature": "story: dog cliff rescue",
@@ -60,7 +60,7 @@
     {
       "feature": "story: elderly sailor and dog, disabled sailboat far offshore",
       "n": 1,
-      "effect": 0.22
+      "effect": 0.23
     },
     {
       "feature": "story: dog cliff fall, basket hoist",
@@ -88,6 +88,11 @@
       "effect": 0.14
     },
     {
+      "feature": "story: hurricane hoist",
+      "n": 1,
+      "effect": 0.11
+    },
+    {
       "feature": "story: parachute rescue to a ship at sea",
       "n": 1,
       "effect": 0.11
@@ -98,24 +103,19 @@
       "effect": 0.11
     },
     {
-      "feature": "story: hurricane hoist",
-      "n": 1,
-      "effect": 0.1
-    },
-    {
       "feature": "story: mountain hoist",
       "n": 2,
-      "effect": 0.1
-    },
-    {
-      "feature": "source: commons",
-      "n": 6,
       "effect": 0.09
     },
     {
       "feature": "story: trapped dog",
       "n": 1,
       "effect": 0.09
+    },
+    {
+      "feature": "source: commons",
+      "n": 6,
+      "effect": 0.08
     },
     {
       "feature": "story: cruise ship medevac hoist",
@@ -138,13 +138,13 @@
       "effect": 0.07
     },
     {
-      "feature": "length under 30 s",
-      "n": 35,
-      "effect": 0.06
-    },
-    {
       "feature": "story: tanker comes alongside a flooding sailboat far offshore",
       "n": 1,
+      "effect": 0.07
+    },
+    {
+      "feature": "length under 30 s",
+      "n": 35,
       "effect": 0.06
     },
     {
@@ -183,11 +183,6 @@
       "effect": 0.03
     },
     {
-      "feature": "story: flood rooftop family",
-      "n": 1,
-      "effect": 0.02
-    },
-    {
       "feature": "story: rocket tank test to failure",
       "n": 1,
       "effect": 0.02
@@ -204,6 +199,11 @@
     },
     {
       "feature": "story: boat fire evacuation",
+      "n": 1,
+      "effect": 0.01
+    },
+    {
+      "feature": "story: flood rooftop family",
       "n": 1,
       "effect": 0.01
     },
@@ -268,12 +268,12 @@
       "effect": -0.03
     },
     {
-      "feature": "story: aerial firefighting",
+      "feature": "story: surf drills in hurricane seas (training)",
       "n": 1,
-      "effect": -0.04
+      "effect": -0.03
     },
     {
-      "feature": "story: surf drills in hurricane seas (training)",
+      "feature": "story: aerial firefighting",
       "n": 1,
       "effect": -0.04
     },
@@ -303,6 +303,11 @@
       "effect": -0.06
     },
     {
+      "feature": "story: boat to boat family transfer in a storm",
+      "n": 1,
+      "effect": -0.07
+    },
+    {
       "feature": "story: dog rescue flood",
       "n": 2,
       "effect": -0.07
@@ -313,14 +318,9 @@
       "effect": -0.08
     },
     {
-      "feature": "story: boat to boat family transfer in a storm",
-      "n": 1,
-      "effect": -0.08
-    },
-    {
       "feature": "story: rocket booster camera",
       "n": 1,
-      "effect": -0.08
+      "effect": -0.09
     },
     {
       "feature": "hook names an animal",
@@ -333,9 +333,9 @@
       "effect": -0.11
     },
     {
-      "feature": "story: vessel on the rocks, hoist with dog",
-      "n": 1,
-      "effect": -0.11
+      "feature": "hook has a number",
+      "n": 46,
+      "effect": -0.12
     },
     {
       "feature": "story: sinking fishing boat",
@@ -343,9 +343,9 @@
       "effect": -0.12
     },
     {
-      "feature": "hook has a number",
-      "n": 46,
-      "effect": -0.13
+      "feature": "story: vessel on the rocks, hoist with dog",
+      "n": 1,
+      "effect": -0.12
     },
     {
       "feature": "story: flood hoist from rooftop",
@@ -365,7 +365,7 @@
     {
       "feature": "story: cliff hoist",
       "n": 1,
-      "effect": -0.19
+      "effect": -0.2
     },
     {
       "feature": "story: wildfire rescue",
@@ -390,17 +390,17 @@
     {
       "feature": "story: sinking sailboat, boat crew",
       "n": 1,
-      "effect": -0.23
+      "effect": -0.24
     },
     {
       "feature": "lane: hazards",
       "n": 3,
-      "effect": -0.33
+      "effect": -0.34
     },
     {
       "feature": "story: attic flood hoist",
       "n": 1,
-      "effect": -0.35
+      "effect": -0.36
     },
     {
       "feature": "story: volcano eruption",
@@ -410,7 +410,7 @@
     {
       "feature": "music: hazards",
       "n": 4,
-      "effect": -0.41
+      "effect": -0.42
     },
     {
       "feature": "source: dvids",
@@ -425,81 +425,81 @@
     {
       "feature": "story: missing boaters clinging to a capsized hull",
       "n": 1,
-      "effect": -0.56
+      "effect": -0.55
     }
   ],
   "top": [
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 7974.0,
+      "views": 8153.0,
       "ret": 100.07,
-      "score": 1.81
+      "score": 1.822
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9438.0,
       "ret": 95.05,
-      "score": 1.648
+      "score": 1.656
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5177.0,
       "ret": 96.52,
-      "score": 1.636
+      "score": 1.64
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 19629.0,
+      "views": 19865.0,
       "ret": 79.02,
-      "score": 1.563
+      "score": 1.579
     },
     {
       "short_id": "ccf-20261102-09",
       "title": "Moon rocket booster fired on its side",
-      "views": 1564.0,
+      "views": 1588.0,
       "ret": 107.56000000000002,
-      "score": 1.003
+      "score": 1.008
     }
   ],
   "bottom": [
     {
       "short_id": "ccf-20261101-02",
       "title": "Sailboat sinking 25 miles off Michigan",
-      "views": 299.0,
+      "views": 301.0,
       "ret": 61.65999999999999,
-      "score": -0.923
+      "score": -0.931
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 64.66,
-      "score": -1.183
+      "score": -1.199
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
       "views": 286.0,
       "ret": 43.74,
-      "score": -1.389
+      "score": -1.401
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
-      "views": 9.0,
+      "views": 10.0,
       "ret": 79.61,
-      "score": -2.091
+      "score": -2.075
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
-      "views": 19.0,
+      "views": 22.0,
       "ret": 61.68,
-      "score": -2.208
+      "score": -2.167
     }
   ],
   "query_weights": {
@@ -525,9 +525,9 @@
     "vessel fire": 1.07,
     "sinking vessel": 0.93,
     "lava USGS": 0.91,
-    "wildfire": 0.89,
+    "wildfire": 0.88,
     "capsized vessel rescue": 0.72,
-    "beach rescue": 1.24,
+    "beach rescue": 1.25,
     "car in water": 1.02,
     "kayaker rescue": 1.01,
     "MH-65 rescue": 1.07,
@@ -552,16 +552,12 @@
   },
   "qa_rejections_7d": [
     {
+      "short_id": "ccf-20261030-04",
+      "notes": "Beautiful footage, but it is the third lava Short in four days and the same 2018 Kilauea eruption as ccf-20261030-06, which publishes Nov 1, so it looks interchangeable. The script also has no stakes: line 2 just repeats the location card and nothing says what was at risk."
+    },
+    {
       "short_id": "ccf-20261030-08",
       "notes": "Better: the impact opener and second angle land. Still a 5-second static wide of the tripod with the craft tiny in the sky (render 16.5 to 21.5s), an empty pad before the second drop (21.7 to 23.5s), and the outcome 'crumpled wreck' plays over spectators behind a fence (33 to 35s)."
-    },
-    {
-      "short_id": "ccf-20261030-09",
-      "notes": "Strong hook number, but it is one slow, nearly static ISS view for 36 seconds, letterboxed small in the middle of a blurred background, with the solar array cutting into frames at 9.2s and 14.7s."
-    },
-    {
-      "short_id": "ccf-20261030-10",
-      "notes": "The hook promises a 3,000 gallon drop that never appears on screen, and the title says it flies into the smoke, which the footage does not show. It is also the same C-130 over a wildfire story as 27-76."
     },
     {
       "short_id": "ccf-20261031-04",
