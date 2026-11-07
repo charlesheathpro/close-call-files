@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-07T03:08:36Z",
+  "at": "2026-11-07T09:50:19Z",
   "mature": 68,
   "features": [
     {
@@ -88,11 +88,6 @@
       "effect": 0.14
     },
     {
-      "feature": "story: hurricane hoist",
-      "n": 1,
-      "effect": 0.11
-    },
-    {
       "feature": "story: parachute rescue to a ship at sea",
       "n": 1,
       "effect": 0.11
@@ -101,6 +96,11 @@
       "feature": "story: stranded on jetty",
       "n": 1,
       "effect": 0.11
+    },
+    {
+      "feature": "story: hurricane hoist",
+      "n": 1,
+      "effect": 0.1
     },
     {
       "feature": "story: mountain hoist",
@@ -163,14 +163,14 @@
       "effect": 0.04
     },
     {
-      "feature": "story: surf rescue",
+      "feature": "story: car in water",
       "n": 1,
       "effect": 0.04
     },
     {
-      "feature": "story: car in water",
+      "feature": "story: surf rescue",
       "n": 1,
-      "effect": 0.03
+      "effect": 0.04
     },
     {
       "feature": "story: dog flood hoist",
@@ -183,6 +183,11 @@
       "effect": 0.03
     },
     {
+      "feature": "music: sea",
+      "n": 20,
+      "effect": 0.02
+    },
+    {
       "feature": "story: rocket tank test to failure",
       "n": 1,
       "effect": 0.02
@@ -190,11 +195,6 @@
     {
       "feature": "music: night",
       "n": 1,
-      "effect": 0.01
-    },
-    {
-      "feature": "music: sea",
-      "n": 20,
       "effect": 0.01
     },
     {
@@ -355,7 +355,7 @@
     {
       "feature": "music: storm",
       "n": 15,
-      "effect": -0.14
+      "effect": -0.15
     },
     {
       "feature": "story: storm sailboat hoist",
@@ -425,81 +425,81 @@
     {
       "feature": "story: missing boaters clinging to a capsized hull",
       "n": 1,
-      "effect": -0.55
+      "effect": -0.54
     }
   ],
   "top": [
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 8153.0,
+      "views": 8227.0,
       "ret": 100.07,
-      "score": 1.822
+      "score": 1.825
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
-      "views": 9438.0,
-      "ret": 95.05,
-      "score": 1.656
+      "views": 9441.0,
+      "ret": 95.08,
+      "score": 1.657
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5177.0,
-      "ret": 96.52,
+      "views": 5178.0,
+      "ret": 96.51,
       "score": 1.64
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 19865.0,
-      "ret": 79.02,
-      "score": 1.579
+      "views": 20230.0,
+      "ret": 79.01,
+      "score": 1.589
     },
     {
       "short_id": "ccf-20261102-09",
       "title": "Moon rocket booster fired on its side",
-      "views": 1588.0,
+      "views": 1598.0,
       "ret": 107.56000000000002,
-      "score": 1.008
+      "score": 1.009
     }
   ],
   "bottom": [
     {
       "short_id": "ccf-20261101-02",
       "title": "Sailboat sinking 25 miles off Michigan",
-      "views": 301.0,
+      "views": 303.0,
       "ret": 61.65999999999999,
-      "score": -0.931
+      "score": -0.932
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 64.66,
-      "score": -1.199
+      "score": -1.204
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
-      "views": 286.0,
+      "views": 285.0,
       "ret": 43.74,
-      "score": -1.401
+      "score": -1.407
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 79.61,
-      "score": -2.075
+      "score": -2.083
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
-      "views": 22.0,
+      "views": 24.0,
       "ret": 61.68,
-      "score": -2.167
+      "score": -2.134
     }
   ],
   "query_weights": {
@@ -517,7 +517,7 @@
     "flood rescue": 1.11,
     "flight deck fire": 0.98,
     "crash landing": 0.99,
-    "lava flow": 0.84,
+    "lava flow": 0.83,
     "rescues family": 1.01,
     "launch abort": 1.19,
     "splashdown": 1.17,
@@ -526,7 +526,7 @@
     "sinking vessel": 0.93,
     "lava USGS": 0.91,
     "wildfire": 0.88,
-    "capsized vessel rescue": 0.72,
+    "capsized vessel rescue": 0.73,
     "beach rescue": 1.25,
     "car in water": 1.02,
     "kayaker rescue": 1.01,
@@ -547,7 +547,7 @@
   },
   "lane_scores": {
     "rescue": -0.04,
-    "hazards": -0.32,
+    "hazards": -0.33,
     "aviation_naval": 0.34
   },
   "qa_rejections_7d": [
@@ -566,10 +566,6 @@
     {
       "short_id": "ccf-20261103-03",
       "notes": "Strong number, but the diver is never seen alone in the water: render 5 to 17s is twelve seconds of empty sea with the swimmer's fins at the door edge, the basket is a speck for most of 20 to 30s, and the hoist itself is calm. This is the routine door-cam basket hoist the viral bar rules out, and th"
-    },
-    {
-      "short_id": "ccf-20261104-01",
-      "notes": "Rev 2 render is clean (empty-sky shot gone), but it is interchangeable with ccf-20261102-07, two men on a capsized hull off Florida, which publishes today Nov 4 19:00Z. Hold, do not drop: the footage is strong."
     },
     {
       "short_id": "ccf-20261104-03",
@@ -608,6 +604,9 @@
       "notes": "The sinking houseboat is only a dark 4 s FLIR blob; the rest is the same calm top-down basket hoist from the door for about 25 s, which is the routine hoist the viral bar rules out. The cat payoff is nice but cannot carry it, and the source has no other footage."
     }
   ],
-  "config_changed_at": "2026-11-06T10:39:11Z",
-  "changed": []
+  "config_changed_at": "2026-11-07T09:50:19Z",
+  "changed": [
+    "lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.58, 'hazards': 0.1}",
+    "query weights for 41 searches"
+  ]
 }
