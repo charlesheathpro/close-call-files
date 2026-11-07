@@ -1,0 +1,111 @@
+{
+  "asset_id": "nasa:GSFC_20120110_GPM_m10890_DFRC_DC8",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "NASA Airborne Cold Weather Experiment Measures Falling Snow DC8 B-Roll",
+  "description": "Additional b-roll of the DC-8, taken from a test flight with instruments on board.",
+  "keywords": "DC-8, GPM, Snow Cover, Winter, Snow, Canada, Earth",
+  "date": "2012-01-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120110_GPM_m10890_DFRC_DC8",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120110-GPM-m10890-DFRC-DC8",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:30:55Z",
+  "duration": 330.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120110_GPM_m10890_DFRC_DC8/GSFC_20120110_GPM_m10890_DFRC_DC8~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 330.063067
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 6.14,
+      "text": "[no audio content]"
+    },
+    {
+      "s": 6.14,
+      "e": 330.0,
+      "text": "[ambient sound]"
+    }
+  ],
+  "scene_cuts": [
+    5.97,
+    11.9,
+    17.4,
+    23.9,
+    36.27,
+    118.93,
+    127.67,
+    139.03,
+    144.93,
+    154.3,
+    161.93,
+    166.2,
+    171.7,
+    182.6,
+    192.63,
+    202.87,
+    209.8,
+    216.63,
+    223.93,
+    232.5,
+    237.23,
+    245.3,
+    254.23,
+    256.9,
+    264.7,
+    272.13,
+    287.87,
+    309.27,
+    318.37,
+    329.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      36.5,
+      94.8,
+      96.3,
+      98.1,
+      102.4
+    ],
+    "silence_ends": [
+      6.1,
+      66.3,
+      95.4,
+      97.4,
+      102.4,
+      119.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120110-GPM-m10890-DFRC-DC8.jpg",
+  "sheet_times": [
+    10.3,
+    30.9,
+    51.49,
+    72.09,
+    92.69,
+    113.29,
+    133.89,
+    154.48,
+    175.08,
+    195.68,
+    216.28,
+    236.88,
+    257.47,
+    278.07,
+    298.67,
+    319.27
+  ]
+}

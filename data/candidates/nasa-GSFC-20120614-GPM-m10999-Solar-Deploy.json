@@ -1,0 +1,77 @@
+{
+  "asset_id": "nasa:GSFC_20120614_GPM_m10999_Solar_Deploy",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "GPM Core Spacecraft Integration and Testing: Solar Deploy",
+  "description": "Solar array deployment test for the core observatory of the Global Precipitation Measurement (GPM) mission, June 2013. Test conducted at NASA Goddard Space Flight Center.",
+  "keywords": "GPM, Radar, Cleanroom, Earth",
+  "date": "2012-06-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120614_GPM_m10999_Solar_Deploy",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120614-GPM-m10999-Solar-Deploy",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:29:48Z",
+  "duration": 47.59,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120614_GPM_m10999_Solar_Deploy/GSFC_20120614_GPM_m10999_Solar_Deploy~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 47.594667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    2.67,
+    4.8,
+    7.23,
+    30.13,
+    33.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      5.5,
+      7.1,
+      12.4,
+      43.6
+    ],
+    "silence_ends": [
+      7.1,
+      9.8,
+      14.8,
+      47.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120614-GPM-m10999-Solar-Deploy.jpg",
+  "sheet_times": [
+    1.47,
+    4.42,
+    7.36,
+    10.3,
+    13.25,
+    16.19,
+    19.13,
+    22.08,
+    25.02,
+    27.96,
+    30.91,
+    33.85,
+    36.79,
+    39.74,
+    42.68,
+    45.62
+  ]
+}
