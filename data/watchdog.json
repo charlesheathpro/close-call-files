@@ -1,23 +1,21 @@
 {
-  "at": "2026-11-06T17:12:48Z",
-  "healthy": false,
-  "numbers": {
-    "dropped": 39,
-    "uploaded": 85,
-    "rejected": 1,
-    "passed": 3,
-    "needs_build": 1,
-    "scheduled_36h": 4
-  },
-  "found": [
-    "buffer thin at start: 3 scheduled in 36 h, 0 passed, 0 in the pipeline",
-    "two archive harvests (08:23, 08:32Z) died on a persistent DVIDS 403 via sys.exit and lost all progress",
-    "build hung 20 min in apt install ffmpeg again (third time in a day)"
-  ],
-  "fixed": [
-    "harvest.py: a persistent DVIDS 403 now skips remaining DVIDS assets (NASA and Commons continue) instead of exiting; archive harvest restarted and committing partials",
-    "build.yml and harvest.yml: ffmpeg install time-boxed, man-db trigger off, static build fallback; next build installed in 24 s",
-    "editor pass: 1 new spec (06-01 leatherback), 14 candidates passed over; DVIDS rescue lane nearly exhausted",
-    "QA: passed 06-01, 06-12, 06-13, 06-31; dropped 06-11 and 06-21"
-  ]
+ "at": "2026-11-07T00:41:12Z",
+ "healthy": false,
+ "numbers": {
+  "dropped": 40,
+  "uploaded": 88,
+  "rejected": 1,
+  "passed": 6,
+  "scheduled_36h": 2
+ },
+ "found": [
+  "buffer thin at start: 2 scheduled in 36 h, 1 passed, 4 in QA, nothing else in the pipeline",
+  "YouTube uploadLimitExceeded active until 2026-11-07T08:38Z; uploads paused on YouTube's side, no auth errors",
+  "harvest, build, upload and stats runs all landed in the last 30 hours; no repeated build errors"
+ ],
+ "fixed": [
+  "QA: passed 06-41, 06-43, 06-44 (rev 2, reshot opener), dropped 06-42",
+  "editor pass: 2 new specs (06-51 teen adrift at night, 06-52 33 days on Anguilla Cay), built and passed this run; 14 candidates passed over",
+  "DVIDS rescue lane is nearly mined out of clips that clear the viral bar; NASA lane has mostly ceremonies and rollouts left"
+ ]
 }
