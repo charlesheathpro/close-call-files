@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:93003",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Beached Whale",
+  "description": "B-roll of Coast Guardsmen rescuing a beached whale. Scenes include a large group of people on a beach, people in the water, a group of people loading the whale into a truck and the truck being loaded into a cargo plane. Produced by Seaman Stanley Guzman.",
+  "keywords": "beached whale, Stanley Guzman, Coast Guard, truck, airplane, rescue",
+  "date": "2010-08-16T00:00:00-04:00",
+  "date_published": "2010-08-18T08:50:42-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 1st Class Susan Blake",
+  "category": "B-Roll",
+  "virin": "100816-G-3283G-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/93003/coast-guard-rescues-beached-whale",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.4044,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-93003",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:55:47Z",
+  "duration": 129.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1008/DOD_100079577/DOD_100079577.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    18.18,
+    26.23,
+    33.07,
+    40.87,
+    72.67,
+    87.85,
+    103.87,
+    112.45,
+    119.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      2.4
+    ],
+    "silence_ends": [
+      2.4,
+      4.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-93003.jpg",
+  "sheet_times": [
+    8.3,
+    16.1,
+    23.9,
+    31.7,
+    39.5,
+    47.3,
+    55.1,
+    62.9,
+    70.7,
+    78.5,
+    86.3,
+    94.1,
+    101.9,
+    109.7,
+    117.5,
+    125.3
+  ]
+}

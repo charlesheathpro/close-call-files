@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:316802",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "AirSta Los Angeles rescue",
+  "description": "SAN PEDRO, Calif. - The Coast Guard and Santa Barbara Harbor Patrol rescued a family of four, including a six-month-old baby and a dog, after their sailboat broke free from its mooring in Santa Barbara, Calif., early Sunday.\n\nAn MH-65 Dolphin rescue helicopter from Air Station Los Angeles, a 47-foot motor lifeboat from Station Channel Islands Harbor, and a boat from harbor patrol were all sent to help.\n\nA rescue swimmer was lowered from the helicopter onto the deck of the sailboat to check on the conditions of the two adults and two children.  The family was safely transferred to the harbor patrol boat and brought ashore.  No injuries were reported.\n\nWeather conditions at the time were winds gust of 30-40 knots with sea swells between six-eight feet.\n",
+  "keywords": "CGVI",
+  "date": "2011-03-20T19:25:11-04:00",
+  "date_published": "2013-12-20T15:27:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Pedro",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316802/airsta-los-angeles-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316802",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:54:55Z",
+  "duration": 146.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061065/DOD_101061065-640x480-934k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 934,
+    "size": 19402133
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.97,
+    56.82,
+    65.17,
+    82.65,
+    113.88,
+    133.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      114.0,
+      144.8
+    ],
+    "silence_ends": [
+      57.0,
+      133.5,
+      146.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316802.jpg",
+  "sheet_times": [
+    4.55,
+    13.64,
+    22.74,
+    31.83,
+    40.92,
+    50.02,
+    59.11,
+    68.21,
+    77.3,
+    86.39,
+    95.49,
+    104.58,
+    113.68,
+    122.77,
+    131.87,
+    140.96
+  ]
+}

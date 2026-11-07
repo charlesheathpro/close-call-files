@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:71493",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Rescued Birds Flight From Oregon",
+  "description": "B-roll of the Coast Guard rescuing federally protected wildlife and loading the birds onto a Coast Guard HC-130 aircraft. Scenes include the transporting and loading of the birds' cages onto the aircraft.",
+  "keywords": "HC-130, cages, migratory, Hercules, wildlife, Sacramento, federal",
+  "date": "2009-10-26T00:00:00-04:00",
+  "date_published": "2009-10-26T23:21:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/71493/rescued-birds-flight-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-71493",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:56:00Z",
+  "duration": 44.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100055805/DOD_100055805.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    15.52,
+    20.92,
+    27.56,
+    38.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-71493.jpg",
+  "sheet_times": [
+    5.25,
+    7.75,
+    10.24,
+    12.74,
+    15.23,
+    17.73,
+    20.22,
+    22.72,
+    25.21,
+    27.71,
+    30.2,
+    32.7,
+    35.19,
+    37.69,
+    40.18,
+    42.68
+  ]
+}

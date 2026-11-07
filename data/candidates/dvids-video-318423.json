@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:318423",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Forks Hoist Rescue",
+  "description": "Coast Guard forks hoist rescue.",
+  "keywords": "hoist, Coast Guard, rescue",
+  "date": "2013-12-28T00:00:00-05:00",
+  "date_published": "2013-12-28T16:29:54-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/318423/coast-guard-forks-hoist-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-318423",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:57:21Z",
+  "duration": 33.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101064687/DOD_101064687.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3137,
+    "size": 13393510
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.46,
+      "e": 7.06,
+      "text": "It was a bad night, part 4."
+    },
+    {
+      "s": 7.06,
+      "e": 8.3,
+      "text": "Nice and high, the guitar is gone."
+    },
+    {
+      "s": 8.3,
+      "e": 9.0,
+      "text": "It's good."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-318423.jpg",
+  "sheet_times": [
+    1.02,
+    3.06,
+    5.1,
+    7.14,
+    9.18,
+    11.22,
+    13.26,
+    15.31,
+    17.35,
+    19.39,
+    21.43,
+    23.47,
+    25.51,
+    27.55,
+    29.59,
+    31.63
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:314054",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "21 Illegal Migrants Rescued",
+  "description": "SAN DIEGO - The U.S. Coast Guard rescued 21 illegal migrants when their 25-foot panga was disabled and overloaded with 21 people onboard, 28 miles west of Del Mar, Calif., this morning. The Cutter Haddock, an 87-foot patrol boat, safely transferred all 21 people and towed the panga back to Sector San Diego. The migrants were transferred to U.S. Border Patrol agents. (U.S. Coast Guard Video/PA2 Jetta H. Disco)",
+  "keywords": "CGVI",
+  "date": "2009-03-20T00:00:00-04:00",
+  "date_published": "2013-12-17T05:26:53-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090319-G-3421D-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314054/21-illegal-migrants-rescued",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314054",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:55:09Z",
+  "duration": 304.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054727/DOD_101054727-640x480-925k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 925,
+    "size": 35424897
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    112.58,
+    117.85,
+    131.73,
+    145.41,
+    168.43,
+    223.89,
+    232.4,
+    253.69,
+    267.13,
+    285.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      304.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314054.jpg",
+  "sheet_times": [
+    9.49,
+    28.47,
+    47.45,
+    66.43,
+    85.41,
+    104.39,
+    123.37,
+    142.35,
+    161.33,
+    180.31,
+    199.29,
+    218.27,
+    237.25,
+    256.23,
+    275.21,
+    294.19
+  ]
+}

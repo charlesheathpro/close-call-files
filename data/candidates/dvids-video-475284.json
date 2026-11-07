@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:475284",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Olympic Mountains search and rescue",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew rescued an injured hiker on the south slope of the Olympic Mountain in Washington, July 18, 2016. The hiker, who reportedly suffered a broken ankle, was transported to an Olympia, Wash., airport where he was met by emergency medical services for further medical care. U.S. Coast Guard video by Air Station Astoria.",
+  "keywords": "MH-60, Jayhawk, Air Station Astoria, Olympic Mountains, Coast Guard, Washington",
+  "date": "2016-07-18T00:00:00-04:00",
+  "date_published": "2016-07-18T19:29:59-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Jonathan Klingenberg",
+  "category": "B-Roll",
+  "virin": "160718-G-KL864-463",
+  "location": {
+    "city": "",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/475284/olympic-mountains-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-475284",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:54:39Z",
+  "duration": 88.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103477473/DOD_103477473.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8582,
+    "size": 95714008
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 67.74,
+      "e": 69.74,
+      "text": "Right back down. You okay with that sir?"
+    },
+    {
+      "s": 69.74,
+      "e": 70.74,
+      "text": "Yeah, let's do it."
+    },
+    {
+      "s": 70.74,
+      "e": 71.74,
+      "text": "We're going to turn on."
+    },
+    {
+      "s": 71.74,
+      "e": 81.23,
+      "text": "There's the cabin. I'm going to turn down for you."
+    },
+    {
+      "s": 81.23,
+      "e": 82.23,
+      "text": "So no need for the breeze."
+    },
+    {
+      "s": 82.23,
+      "e": 84.23,
+      "text": "All right, sir. Hooked halfway down."
+    }
+  ],
+  "scene_cuts": [
+    4.34,
+    61.33,
+    84.68
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.7,
+      10.3,
+      21.3,
+      32.5,
+      61.6,
+      77.1,
+      82.1,
+      84.7
+    ],
+    "silence_ends": [
+      4.4,
+      11.6,
+      24.9,
+      33.2,
+      63.2,
+      79.0,
+      82.9,
+      88.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-475284.jpg",
+  "sheet_times": [
+    2.74,
+    8.21,
+    13.68,
+    19.15,
+    24.62,
+    30.09,
+    35.56,
+    41.04,
+    46.51,
+    51.98,
+    57.45,
+    62.92,
+    68.39,
+    73.86,
+    79.33,
+    84.81
+  ]
+}

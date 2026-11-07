@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:313178",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Surfer rescued at Depoe Bay, Ore.",
+  "description": "Coast Guard rescue of a surfer Feb. 10, 2008, after he became stranded by strong currents in a cove near Depoe Bay, Ore.",
+  "keywords": "CGVI",
+  "date": "2008-02-11T23:35:02-05:00",
+  "date_published": "2013-12-16T18:47:17-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/313178/surfer-rescued-depoe-bay-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313178",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:57:08Z",
+  "duration": 108.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053496/DOD_101053496-640x480-969k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 969,
+    "size": 13607818
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.0
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      34.3
+    ],
+    "silence_ends": [
+      26.1,
+      108.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313178.jpg",
+  "sheet_times": [
+    3.39,
+    10.16,
+    16.93,
+    23.7,
+    30.47,
+    37.25,
+    44.02,
+    50.79,
+    57.56,
+    64.34,
+    71.11,
+    77.88,
+    84.65,
+    91.42,
+    98.2,
+    104.97
+  ]
+}

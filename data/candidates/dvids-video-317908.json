@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:317908",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station Detroit rescues 5",
+  "description": "A rescue aircrew from Coast Guard Air Station Detroit hoists a man from the iced-over Saginaw Bay, Mich., Feb. 8, 2013. The aircrew rescued five total snowmobilers that night in two separate search-and-rescue cases. U.S. Coast Guard video, courtesy of Air Station Detroit",
+  "keywords": "CGVI",
+  "date": "2013-02-09T19:07:13-05:00",
+  "date_published": "2013-12-22T21:08:59-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317908/air-station-detroit-rescues-5",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317908",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:56:51Z",
+  "duration": 56.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062876/DOD_101062876-960x540-262k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 262,
+    "size": 2508115
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 12.82,
+      "e": 16.54,
+      "text": "Two o'clock hold position. That's halfway up. It's not very good."
+    },
+    {
+      "s": 18.54,
+      "e": 25.86,
+      "text": "That's just for the aircraft. That's just for the aircraft. So we're not a part of that"
+    },
+    {
+      "s": 32.85,
+      "e": 34.85,
+      "text": "We're back in"
+    }
+  ],
+  "scene_cuts": [
+    10.01,
+    46.38
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317908.jpg",
+  "sheet_times": [
+    1.75,
+    5.24,
+    8.73,
+    12.23,
+    15.72,
+    19.21,
+    22.71,
+    26.2,
+    29.69,
+    33.18,
+    36.68,
+    40.17,
+    43.66,
+    47.16,
+    50.65,
+    54.14
+  ]
+}
