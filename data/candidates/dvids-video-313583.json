@@ -1,0 +1,117 @@
+{
+  "asset_id": "video:313583",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue",
+  "description": "B-roll of the Coast Guard airlifting someone from a body of water",
+  "keywords": "CGVI",
+  "date": "2008-08-28T00:00:00-04:00",
+  "date_published": "2013-12-16T23:12:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/313583/coast-guard-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313583",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:45:16Z",
+  "duration": 86.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054135/DOD_101054135-640x480-2035k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2035,
+    "size": 23685947
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.07,
+      "e": 5.07,
+      "text": "We arrived on scene early about 10 miles away or so."
+    },
+    {
+      "s": 5.07,
+      "e": 10.93,
+      "text": "We started to immediately locate the four people in the water."
+    },
+    {
+      "s": 10.93,
+      "e": 16.93,
+      "text": "We were splashing the water and waving their hands and waving their floatation devices."
+    },
+    {
+      "s": 16.93,
+      "e": 26.49,
+      "text": "After about a 50 foot hover so we decided the best thing to do is load the Rusty Swimmer"
+    },
+    {
+      "s": 26.49,
+      "e": 32.09,
+      "text": "because I would see him for Rusty Swimmer."
+    },
+    {
+      "s": 32.09,
+      "e": 39.2,
+      "text": "We backed off and then tried to evaluate what to do from there."
+    },
+    {
+      "s": 39.2,
+      "e": 51.04,
+      "text": "Our Rusty Swimmer basket down to him so we started loading the basket and just hoisted three of the victims on board our helicopter."
+    },
+    {
+      "s": 51.04,
+      "e": 68.66,
+      "text": "The fourth people come look for ya."
+    },
+    {
+      "s": 68.66,
+      "e": 76.66,
+      "text": "You know, stay in the groups, don't separate and try to make yourself as big as possible by standing group."
+    },
+    {
+      "s": 76.66,
+      "e": 86.28,
+      "text": "Or even like they did, they just started splashing and waving their hands to make it easier for a rescuer to see them."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313583.jpg",
+  "sheet_times": [
+    2.68,
+    8.05,
+    13.41,
+    18.78,
+    24.14,
+    29.5,
+    34.87,
+    40.23,
+    45.6,
+    50.96,
+    56.33,
+    61.69,
+    67.06,
+    72.42,
+    77.79,
+    83.15
+  ]
+}

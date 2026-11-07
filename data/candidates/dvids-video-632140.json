@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:632140",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "storm surge",
+  "title": "Coast Guard conducts Hurricane Michael overflight assessment of affected areas near Apalachicola, Fla.",
+  "description": "Coast Guard crew members aboard an HC-130 Hercules airplane from Air Station Clearwater, Florida, conduct an aerial assessment of coastal areas affected by Hurricane Michael near Apalachicola, Florida, Thursday, Oct. 11, 2018. During the flight from Clearwater to Apalachicola, crew members dropped several self-locating datum marker buoys to determine the flow of storm surge.  (U.S. Coast Guard video)",
+  "keywords": "Clearwater, overflight, hurricanemichael, hurricanemichael18, Coast Guard, Florida, assessment",
+  "date": "2018-10-11T00:00:00-04:00",
+  "date_published": "2018-10-11T15:21:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "181011-G-G0107-1001",
+  "location": {
+    "city": "Apalachicola",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/632140/coast-guard-conducts-hurricane-michael-overflight-assessment-affected-areas-near-apalachicola-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-632140",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:44:33Z",
+  "duration": 69.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106111558/DOD_106111558.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8371,
+    "size": 73029269
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.54,
+    14.91,
+    30.4,
+    45.28
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [
+      15.0
+    ],
+    "silence_ends": [
+      69.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-632140.jpg",
+  "sheet_times": [
+    2.16,
+    6.48,
+    10.8,
+    15.11,
+    19.43,
+    23.75,
+    28.07,
+    32.39,
+    36.7,
+    41.02,
+    45.34,
+    49.66,
+    53.98,
+    58.29,
+    62.61,
+    66.93
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:317788",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Station Cortez rescue",
+  "description": "SIESTA BEACH, Fla. - Four people were rescued by the Coast Guard and partner agencies from a 27-foot boat after it began taking on water four miles west of Siesta Key, Oct. 24, 2012. All four people were safely recovered from the water by a Coast Guard Station Cortez boatcrew and were transferred to a Sarasota Police Department Marine Unit boatcrew. U.S. Coast Guard video by Petty Officer 3rd Class Richard Hodgson.",
+  "keywords": "CGVI",
+  "date": "2012-10-25T22:55:39-04:00",
+  "date_published": "2013-12-22T18:42:40-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317788/station-cortez-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317788",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:44:40Z",
+  "duration": 177.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062755/DOD_101062755-640x480-1815k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1815,
+    "size": 40860273
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.0,
+      "e": 8.0,
+      "text": "Will the floor heal?"
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    172.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      172.9
+    ],
+    "silence_ends": [
+      5.2,
+      177.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317788.jpg",
+  "sheet_times": [
+    5.54,
+    16.63,
+    27.71,
+    38.8,
+    49.88,
+    60.97,
+    72.05,
+    83.14,
+    94.23,
+    105.31,
+    116.4,
+    127.48,
+    138.57,
+    149.65,
+    160.74,
+    171.82
+  ]
+}

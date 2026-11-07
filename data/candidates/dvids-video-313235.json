@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:313235",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Alaska Ranger Rescue",
+  "description": "BERING SEA (March 23, 2008) Video of the Alaska Ranger rescue. COAST GUARD VIDEO FOR RELEASE",
+  "keywords": "CGVI",
+  "date": "2008-03-23T00:00:00-04:00",
+  "date_published": "2013-12-16T19:18:40-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Bering Sea",
+    "state": "USNORTHCOM",
+    "country": "At Sea",
+    "state_abbreviation": "USNORTHCOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/313235/alaska-ranger-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313235",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:45:36Z",
+  "duration": 211.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053568/DOD_101053568-640x480-1078k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1078,
+    "size": 29785974
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    83.23,
+    128.1,
+    162.67
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313235.jpg",
+  "sheet_times": [
+    6.58,
+    19.75,
+    32.91,
+    46.07,
+    59.24,
+    72.4,
+    85.56,
+    98.73,
+    111.89,
+    125.05,
+    138.22,
+    151.38,
+    164.54,
+    177.71,
+    190.87,
+    204.03
+  ]
+}

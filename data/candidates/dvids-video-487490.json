@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:487490",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "storm surge",
+  "title": "Space Station Cameras Capture New Views of Hurricane Nicole",
+  "description": "From and altitude of 252 miles, cameras outside the International Space Station captured new views of Hurricane Nicole Oct. 13 at 1:40 p.m. EDT as it passed directly over Bermuda, packing winds of 120 miles per hour. Nicole moved past Bermuda by mid-afternoon, but not before creating eight-foot storm surges and resulting flooding the island.",
+  "keywords": "nasa, Space Station Cameras, NASATV, Hurricane Nicole",
+  "date": "2016-10-13T00:00:00-04:00",
+  "date_published": "2016-10-13T21:12:41-04:00",
+  "branch": "Civilian",
+  "unit_name": "NASA",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/487490/space-station-cameras-capture-new-views-hurricane-nicole",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-487490",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:44:10Z",
+  "duration": 161.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1610/DOD_103752695/DOD_103752695.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9203,
+    "size": 188505565
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    110.74,
+    140.51
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      161.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-487490.jpg",
+  "sheet_times": [
+    8.93,
+    18.74,
+    28.55,
+    38.36,
+    48.17,
+    57.98,
+    67.78,
+    77.59,
+    87.4,
+    97.21,
+    107.02,
+    116.83,
+    126.64,
+    136.45,
+    146.26,
+    156.07
+  ]
+}
