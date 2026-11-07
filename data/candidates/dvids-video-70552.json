@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "4:3",
   "id": "dvids-video-70552",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:08:13Z",
   "duration": 308.42,
   "source_file": {
@@ -569,5 +569,6 @@
     260.44,
     279.43,
     298.43
-  ]
+  ],
+  "pass_reason": "same Missin Link case as 314595: calm seas, medevac, no danger on screen"
 }

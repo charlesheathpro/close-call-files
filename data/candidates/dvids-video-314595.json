@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-314595",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:08:33Z",
   "duration": 308.73,
   "source_file": {
@@ -524,5 +524,6 @@
     260.07,
     279.34,
     298.6
-  ]
+  ],
+  "pass_reason": "calm seas, medevac to a ship helideck, no danger on screen"
 }

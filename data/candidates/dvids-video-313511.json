@@ -26,7 +26,7 @@
   "time_start": 4.57123,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313511",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:22:33Z",
   "duration": 83.03,
   "source_file": {
@@ -71,5 +71,6 @@
     70.35,
     75.23,
     80.1
-  ]
+  ],
+  "pass_reason": "only tarmac offload footage"
 }

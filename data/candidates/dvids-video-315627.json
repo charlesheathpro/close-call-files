@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-315627",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:26:00Z",
   "duration": 266.33,
   "source_file": {
@@ -567,5 +567,6 @@
     224.3,
     240.91,
     257.53
-  ]
+  ],
+  "pass_reason": "smeared old video, survivors a speck in glare"
 }

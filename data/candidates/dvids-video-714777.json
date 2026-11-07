@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-714777",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:22:21Z",
   "duration": 406.49,
   "source_file": {
@@ -73,5 +73,6 @@
     342.55,
     367.92,
     393.3
-  ]
+  ],
+  "pass_reason": "murky white-hot infrared for the whole clip"
 }

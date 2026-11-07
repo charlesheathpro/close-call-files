@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-721246",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:31:39Z",
   "duration": 174.36,
   "source_file": {
@@ -66,5 +66,6 @@
     146.69,
     157.56,
     168.42
-  ]
+  ],
+  "pass_reason": "fourth crew member missing, story does not resolve"
 }

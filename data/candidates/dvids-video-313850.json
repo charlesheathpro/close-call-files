@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313850",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:49:19Z",
   "duration": 389.26,
   "source_file": {
@@ -474,5 +474,6 @@
     328.02,
     352.31,
     376.61
-  ]
+  ],
+  "pass_reason": "smeared old door-cam, subject unreadable"
 }

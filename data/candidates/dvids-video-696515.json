@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-696515",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:03:18Z",
   "duration": 161.64,
   "source_file": {
@@ -202,5 +202,6 @@
     135.96,
     146.03,
     156.11
-  ]
+  ],
+  "pass_reason": "murky color infrared, little visible peril"
 }
