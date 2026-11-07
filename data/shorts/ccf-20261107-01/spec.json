@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261107-01",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-451712",
  "lane": "rescue",
  "story_type": "fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
@@ -76,10 +76,10 @@
   ],
   [
    {
-    "start": 6.0,
-    "end": 9.0,
-    "layout": "crop",
-    "crop_x": 0.25
+    "start": 14.0,
+    "end": 17.0,
+    "layout": "fit",
+    "crop_x": 0.5
    },
    {
     "start": 31.3,
