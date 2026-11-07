@@ -1,0 +1,74 @@
+{
+  "asset_id": "nasa:GSFC_20141015_ATLAS_m11709_Flight_Laser_Int",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "ICESat-2 Testing and Integration B-roll: ATLAS Flight Lasers",
+  "description": "Footage of the integration of the ATLAS flight lasers.",
+  "keywords": "ICESat-2, ATLAS, Earth",
+  "date": "2014-10-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141015_ATLAS_m11709_Flight_Laser_Int",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141015-ATLAS-m11709-Flight-Laser-Int",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:37:54Z",
+  "duration": 58.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141015_ATLAS_m11709_Flight_Laser_Int/GSFC_20141015_ATLAS_m11709_Flight_Laser_Int~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 58.041317
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    4.43,
+    13.87,
+    22.47,
+    37.73,
+    51.3,
+    58.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      2.4
+    ],
+    "silence_ends": [
+      2.4,
+      58.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141015-ATLAS-m11709-Flight-Laser-Int.jpg",
+  "sheet_times": [
+    1.8,
+    5.4,
+    9.0,
+    12.6,
+    16.2,
+    19.8,
+    23.4,
+    27.0,
+    30.6,
+    34.2,
+    37.8,
+    41.4,
+    45.0,
+    48.6,
+    52.2,
+    55.8
+  ]
+}

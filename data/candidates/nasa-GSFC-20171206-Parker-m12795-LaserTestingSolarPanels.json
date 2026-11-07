@@ -1,0 +1,69 @@
+{
+  "asset_id": "nasa:GSFC_20171206_Parker_m12795_LaserTestingSolarPanels",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "Parker Solar Probe: Environmental Testing",
+  "description": "NASA’s Parker Solar Probe passed laser illumination testing the week of Nov. 27, 2017. During this test, each segment of the spacecraft’s solar panels was illuminated with lasers to check that they were still electrically connected after the vigorous vibration and acoustic testing completed earlier this fall. NASA’s Parker Solar Probe is in the midst of intense environmental testing at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, in preparation for its journey to the Sun. These tests have simulated the noise and shaking the spacecraft will experience during its launch from Cape Canaveral, Florida, scheduled for July 31, 2018.  Parker Solar Probe’s integration and testing team must check over the spacecraft and systems to make sure everything is still in optimal working condition after experiencing these rigorous conditions – including a check of the solar arrays, which will provide electrical power to the spacecraft.  Parker Solar Probe will explore the Sun's outer atmosphere and make critical observations that will answer decades-old questions about the physics of stars. The resulting data will also help improve how we forecast major eruptions on the Sun and subsequent space weather events that can impact life on Earth, as well as satellites and astronauts in space. The mission is named for Eugene N. Parker, whose profound insights into solar physics and processes have helped shape the field of heliophysics.",
+  "keywords": "Laser, Solar Wind, Sun, Corona, Parker Solar Probe, Solar Panel",
+  "date": "2017-12-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20171206-Parker-m12795-LaserTestingSolarPanels",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:38:16Z",
+  "duration": 55.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels/GSFC_20171206_Parker_m12795_LaserTestingSolarPanels~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 55.872
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.67,
+    12.8,
+    18.87,
+    24.87,
+    27.6,
+    30.9,
+    36.93,
+    42.97,
+    48.8
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      55.2
+    ],
+    "silence_ends": [
+      56.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20171206-Parker-m12795-LaserTestingSolarPanels.jpg",
+  "sheet_times": [
+    1.73,
+    5.19,
+    8.65,
+    12.11,
+    15.57,
+    19.03,
+    22.49,
+    25.96,
+    29.42,
+    32.88,
+    36.34,
+    39.8,
+    43.26,
+    46.72,
+    50.18,
+    53.64
+  ]
+}
