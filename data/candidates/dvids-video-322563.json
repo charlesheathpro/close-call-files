@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:322563",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard Local Agencies Rescue 3 people Near China Beach ",
+  "description": "Coast Guard Local agencies rescue 3 people Near China Beach on Thursday. ",
+  "keywords": "China Beach, rescue",
+  "date": "2014-02-27T00:00:00-05:00",
+  "date_published": "2014-02-27T22:27:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/322563/coast-guard-local-agencies-rescue-3-people-near-china-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-322563",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:29:40Z",
+  "duration": 21.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101141698/DOD_101141698.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9815,
+    "size": 25799649
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.4,
+    4.77,
+    5.01,
+    5.07,
+    5.44
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-322563.jpg",
+  "sheet_times": [
+    0.64,
+    1.92,
+    3.21,
+    4.49,
+    5.77,
+    7.05,
+    8.34,
+    9.62,
+    10.9,
+    12.18,
+    13.47,
+    14.75,
+    16.03,
+    17.31,
+    18.6,
+    19.88
+  ]
+}

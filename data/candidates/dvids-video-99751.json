@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:99751",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Capsized Vessel",
+  "description": "A Coast Guard rescue boat crewmember from Station Manasquan Inlet, NJ, pulls in a heaving line while a man from a capsized 17-foot boat holds on, one nautical mile off of Point Pleasant, NJ, Nov. 6, 2010. The four men had on life jackets and used a marine hand held radio to notify the Coast Guard of their location. U.S. Coast Guard video. \r\n",
+  "keywords": "capsized boat, Point Pleasant, Coast Guard, search and rescue",
+  "date": "2010-11-05T00:00:00-04:00",
+  "date_published": "2010-11-06T19:23:37-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101106-G-0000A-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/99751/capsized-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-99751",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:29:03Z",
+  "duration": 41.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1011/DOD_100096386/DOD_100096386.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 21.78,
+      "e": 23.78,
+      "text": "I don't want the boat hitting handling flex."
+    },
+    {
+      "s": 23.78,
+      "e": 29.0,
+      "text": "It's there."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      2.0
+    ],
+    "silence_ends": [
+      1.9,
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-99751.jpg",
+  "sheet_times": [
+    5.16,
+    7.48,
+    9.8,
+    12.12,
+    14.44,
+    16.76,
+    19.08,
+    21.4,
+    23.72,
+    26.04,
+    28.36,
+    30.68,
+    33.0,
+    35.32,
+    37.64,
+    39.96
+  ]
+}

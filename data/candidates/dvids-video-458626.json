@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:458626",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard Rescues, Interdicts 17 Migrants",
+  "description": "The Coast Guard and Customs and Border Protection, Air and Marine Operations, rescued 17 suspected illegal migrants from a disabled panga approximately eight miles west of Pacific Beach, San Diego, on April 12, 2016. The Coast Guard Cutter Sea Otter safely embarked all 17 persons and transported them to Shelter Island, San Diego, where they were taken into custody by the Marine Task Force. (US Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "migrants, panga, Coast Guard, SAR, San Diego",
+  "date": "2016-04-12T00:00:00-04:00",
+  "date_published": "2016-04-12T16:46:49-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "160412-G-BT948-213",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/458626/coast-guard-rescues-interdicts-17-migrants",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-458626",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:30:36Z",
+  "duration": 31.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103201399/DOD_103201399.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6010,
+    "size": 23837592
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.92
+  ],
+  "drama_score": 49,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      31.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-458626.jpg",
+  "sheet_times": [
+    4.94,
+    6.64,
+    8.33,
+    10.03,
+    11.72,
+    13.42,
+    15.11,
+    16.81,
+    18.5,
+    20.2,
+    21.9,
+    23.59,
+    25.29,
+    26.98,
+    28.68,
+    30.37
+  ]
+}

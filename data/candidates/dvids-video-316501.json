@@ -1,0 +1,127 @@
+{
+  "asset_id": "video:316501",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "sinking vessel",
+  "title": "101120-G-5352B-SAR 4 POB sinking vessel",
+  "description": "HOUSTON - The Coast Guard and good Samaritans saved a sinking vessel with four passengers approximately 20 miles off the coast of Galveston Island approximately Saturday morning.",
+  "keywords": "CGVI",
+  "date": "2010-11-20T14:20:11-05:00",
+  "date_published": "2013-12-20T07:20:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316501/101120-g-5352b-sar-4-pob-sinking-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 15.3487,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316501",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:28:19Z",
+  "duration": 111.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060260/DOD_101060260.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4061,
+    "size": 57849838
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 35.57,
+      "e": 49.86,
+      "text": "and hold, it's okay for the back left,"
+    },
+    {
+      "s": 49.86,
+      "e": 50.62,
+      "text": "we'll move the back left,"
+    },
+    {
+      "s": 50.62,
+      "e": 54.72,
+      "text": "hold the rail,"
+    },
+    {
+      "s": 54.72,
+      "e": 57.71,
+      "text": "on the rail,"
+    },
+    {
+      "s": 57.71,
+      "e": 58.71,
+      "text": "I have the chair line,"
+    },
+    {
+      "s": 58.71,
+      "e": 64.32,
+      "text": "we're going down,"
+    },
+    {
+      "s": 64.32,
+      "e": 85.2,
+      "text": "so it's five feet left back to the back left."
+    },
+    {
+      "s": 85.2,
+      "e": 92.88,
+      "text": "To the upper left,"
+    },
+    {
+      "s": 92.88,
+      "e": 94.88,
+      "text": "that's the way they are located."
+    },
+    {
+      "s": 94.88,
+      "e": 95.88,
+      "text": "Up is on the deck."
+    }
+  ],
+  "scene_cuts": [
+    15.35,
+    55.16,
+    95.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      96.0
+    ],
+    "silence_ends": [
+      15.5,
+      111.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316501.jpg",
+  "sheet_times": [
+    18.33,
+    24.3,
+    30.27,
+    36.24,
+    42.21,
+    48.18,
+    54.15,
+    60.12,
+    66.09,
+    72.06,
+    78.03,
+    84.0,
+    89.97,
+    95.94,
+    101.91,
+    107.88
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317030",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Capsized",
+  "description": "ASTORIA, Ore. - The Coast Guard rescued three persons after their vessel capsized off Port Orford, Ore., June 18, 2011.\n\nA 47-foot motor lifeboat crew from SARDET Rogue River transported all three persons to Gold Beach, Ore., where they were evaluated by local EMS and released in good condition.\n\nU.S. Coast Guard video by Air Station North Bend",
+  "keywords": "CGVI",
+  "date": "2011-06-18T00:00:00-04:00",
+  "date_published": "2013-12-21T03:59:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "110618-G-LS819-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317030/capsized",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317030",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:29:17Z",
+  "duration": 69.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061841/DOD_101061841-720x480-3000k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 28732408
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.41
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317030.jpg",
+  "sheet_times": [
+    2.16,
+    6.49,
+    10.82,
+    15.15,
+    19.48,
+    23.81,
+    28.13,
+    32.46,
+    36.79,
+    41.12,
+    45.45,
+    49.78,
+    54.1,
+    58.43,
+    62.76,
+    67.09
+  ]
+}

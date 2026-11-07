@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:317525",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "capsized vessel rescue",
+  "title": "Coast Guard responds to capsized vessel near Liberty Island, N.Y.",
+  "description": "NEW YORK - Coast Guard search and rescue and environmental protection personnel from Sector New York and Station New York respond to a capsized vessel near Liberty Island, N.Y., Friday, April 6, 2012. Coast Guard personnel are gathering information to investigate the accident, respond to any pollution and oversee plans for salvage operations. U.S. Coast Guard video by Petty Officer 2nd Class Erik Swanson.",
+  "keywords": "CGVI",
+  "date": "2012-04-06T15:40:30-04:00",
+  "date_published": "2013-12-22T13:22:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Erik Swanson",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317525/coast-guard-responds-capsized-vessel-near-liberty-island-ny",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317525",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:29:31Z",
+  "duration": 102.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062478/DOD_101062478-960x540-1999k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1999,
+    "size": 24582294
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    20.12,
+    52.29,
+    62.43,
+    82.45,
+    97.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      52.3
+    ],
+    "silence_ends": [
+      5.1,
+      82.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317525.jpg",
+  "sheet_times": [
+    3.19,
+    9.57,
+    15.95,
+    22.33,
+    28.71,
+    35.09,
+    41.47,
+    47.85,
+    54.23,
+    60.61,
+    66.99,
+    73.37,
+    79.75,
+    86.13,
+    92.52,
+    98.9
+  ]
+}
