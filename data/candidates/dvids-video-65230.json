@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:65230",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Hiker From Spruce Island",
+  "description": "B-roll of a hiker being airlifted to safety by the U.S. Coast Guard. Produced by Petty Officer 3rd Class Charly Hengen.",
+  "keywords": null,
+  "date": "2009-07-30T00:00:00-04:00",
+  "date_published": "2009-07-31T16:10:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Air Station Kodiak",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/65230/coast-guard-rescues-hiker-spruce-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-65230",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:05:20Z",
+  "duration": 117.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0907/DOD_100049148/DOD_100049148.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    92.89,
+    104.3
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      117.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-65230.jpg",
+  "sheet_times": [
+    3.64,
+    10.93,
+    18.21,
+    25.49,
+    32.78,
+    40.06,
+    47.35,
+    54.63,
+    61.92,
+    69.2,
+    76.48,
+    83.77,
+    91.05,
+    98.34,
+    105.62,
+    112.91
+  ]
+}

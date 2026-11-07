@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:316761",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station New Orleans rescues sail boater",
+  "description": "Coast Guard rescues boater from disabled sail boat in Gulf of Mexico.",
+  "keywords": "CGVI",
+  "date": "2011-03-09T00:00:00-05:00",
+  "date_published": "2013-12-20T15:10:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/316761/air-station-new-orleans-rescues-sail-boater",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316761",
+  "status": "new",
+  "harvested_at": "2026-11-07T09:05:52Z",
+  "duration": 171.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061005/DOD_101061005-960x540-1371k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1371,
+    "size": 32023221
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 65.57,
+      "e": 68.31,
+      "text": "To survivor, do good now, you're good now."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    167.93
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316761.jpg",
+  "sheet_times": [
+    5.36,
+    16.07,
+    26.79,
+    37.5,
+    48.22,
+    58.93,
+    69.65,
+    80.36,
+    91.08,
+    101.79,
+    112.51,
+    123.22,
+    133.94,
+    144.65,
+    155.37,
+    166.08
+  ]
+}
