@@ -1,80 +1,81 @@
 {
-  "asset_id": "video:380385",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Missing Mariner Rescued after 12 Days at Sea",
-  "description": "HONOLULU — This video is of Arleigh Burke-class guided-missile destroyer USS Paul Hamilton (DDG 60) conducting a rescue of sailing vessel Malia Dec. 9, 2014. Ron Ingraham, 67, was last heard from when he placed two mayday calls Nov. 27, saying his vessel was taking on water and in danger of sinking 46 miles west of Kailua-Kona. U.S. Coast Guard courtesy video.",
-  "keywords": "Coast Guard rescue, Malia, Ron Ingraham, Coast Guard",
-  "date": "2014-12-09T00:00:00-05:00",
-  "date_published": "2014-12-09T20:55:20-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Oceania",
-  "credit": "Lt. Dennis Westermann",
-  "category": "B-Roll",
-  "virin": "140912-G-ZZ999-000",
-  "location": {
-    "city": "Honolulu",
-    "state": "Hawaii",
-    "country": "United States",
-    "state_abbreviation": "HI",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/380385/missing-mariner-rescued-after-12-days-sea",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.02533,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-380385",
-  "status": "new",
-  "harvested_at": "2026-11-07T16:23:41Z",
-  "duration": 116.62,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102136962/DOD_102136962.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 4239,
-    "size": 63131725
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.04,
-    15.75,
-    32.4,
-    40.41,
-    96.8,
-    97.73,
-    99.2,
-    100.6,
-    111.61
+ "asset_id": "video:380385",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Missing Mariner Rescued after 12 Days at Sea",
+ "description": "HONOLULU — This video is of Arleigh Burke-class guided-missile destroyer USS Paul Hamilton (DDG 60) conducting a rescue of sailing vessel Malia Dec. 9, 2014. Ron Ingraham, 67, was last heard from when he placed two mayday calls Nov. 27, saying his vessel was taking on water and in danger of sinking 46 miles west of Kailua-Kona. U.S. Coast Guard courtesy video.",
+ "keywords": "Coast Guard rescue, Malia, Ron Ingraham, Coast Guard",
+ "date": "2014-12-09T00:00:00-05:00",
+ "date_published": "2014-12-09T20:55:20-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Oceania",
+ "credit": "Lt. Dennis Westermann",
+ "category": "B-Roll",
+ "virin": "140912-G-ZZ999-000",
+ "location": {
+  "city": "Honolulu",
+  "state": "Hawaii",
+  "country": "United States",
+  "state_abbreviation": "HI",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/380385/missing-mariner-rescued-after-12-days-sea",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.02533,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-380385",
+ "status": "used",
+ "harvested_at": "2026-11-07T16:23:41Z",
+ "duration": 116.62,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102136962/DOD_102136962.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 4239,
+  "size": 63131725
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.04,
+  15.75,
+  32.4,
+  40.41,
+  96.8,
+  97.73,
+  99.2,
+  100.6,
+  111.61
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      116.6
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-380385.jpg",
-  "sheet_times": [
-    7.53,
-    14.53,
-    21.54,
-    28.55,
-    35.55,
-    42.56,
-    49.56,
-    56.57,
-    63.57,
-    70.58,
-    77.59,
-    84.59,
-    91.6,
-    98.6,
-    105.61,
-    112.61
+  "silence_ends": [
+   116.6
   ]
+ },
+ "sheet": "data/candidates/dvids-video-380385.jpg",
+ "sheet_times": [
+  7.53,
+  14.53,
+  21.54,
+  28.55,
+  35.55,
+  42.56,
+  49.56,
+  56.57,
+  63.57,
+  70.58,
+  77.59,
+  84.59,
+  91.6,
+  98.6,
+  105.61,
+  112.61
+ ],
+ "used_by": "ccf-20261107-07"
 }

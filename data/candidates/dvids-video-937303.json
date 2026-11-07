@@ -1,102 +1,103 @@
 {
-  "asset_id": "video:937303",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "vessel fire",
-  "title": "U.S. Coast Guard rescues 3 fishermen after vessel sinks off Honolulu",
-  "description": "U.S. Coast Guard crew members from Air Station Barbers Point hoist three distressed men from the water off Honolulu, Hawaii, Sept. 19. Coast Guard Sector Honolulu received notification from Honolulu Fire Department that 25-foot fishing vessel, Ichiban, was taking on water nine miles offshore of Honolulu Harbor.",
-  "keywords": "ASBP",
-  "date": "2024-09-19T00:00:00-04:00",
-  "date_published": "2024-09-19T22:15:20-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Oceania",
-  "credit": "Petty Officer 3rd Class Jennifer Nilson",
-  "category": "B-Roll",
-  "virin": "240919-G-G0214-1001",
-  "location": {
-    "city": "",
-    "state": "Hawaii",
-    "country": "United States",
-    "state_abbreviation": "HI",
-    "country_abbreviation": "US"
+ "asset_id": "video:937303",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "vessel fire",
+ "title": "U.S. Coast Guard rescues 3 fishermen after vessel sinks off Honolulu",
+ "description": "U.S. Coast Guard crew members from Air Station Barbers Point hoist three distressed men from the water off Honolulu, Hawaii, Sept. 19. Coast Guard Sector Honolulu received notification from Honolulu Fire Department that 25-foot fishing vessel, Ichiban, was taking on water nine miles offshore of Honolulu Harbor.",
+ "keywords": "ASBP",
+ "date": "2024-09-19T00:00:00-04:00",
+ "date_published": "2024-09-19T22:15:20-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Oceania",
+ "credit": "Petty Officer 3rd Class Jennifer Nilson",
+ "category": "B-Roll",
+ "virin": "240919-G-G0214-1001",
+ "location": {
+  "city": "",
+  "state": "Hawaii",
+  "country": "United States",
+  "state_abbreviation": "HI",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/937303/us-coast-guard-rescues-3-fishermen-after-vessel-sinks-off-honolulu",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-937303",
+ "status": "new",
+ "harvested_at": "2026-11-07T16:18:16Z",
+ "duration": 30.93,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110574042/DOD_110574042-1920x1080-9000k.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 0,
+  "size": 33988888
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 0.91,
+   "e": 1.91,
+   "text": "So go ahead."
   },
-  "page_url": "https://www.dvidshub.net/video/937303/us-coast-guard-rescues-3-fishermen-after-vessel-sinks-off-honolulu",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-937303",
-  "status": "new",
-  "harvested_at": "2026-11-07T16:18:16Z",
-  "duration": 30.93,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110574042/DOD_110574042-1920x1080-9000k.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 0,
-    "size": 33988888
+  {
+   "s": 1.91,
+   "e": 16.16,
+   "text": "6-3 o'clock."
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 0.91,
-      "e": 1.91,
-      "text": "So go ahead."
-    },
-    {
-      "s": 1.91,
-      "e": 16.16,
-      "text": "6-3 o'clock."
-    },
-    {
-      "s": 16.16,
-      "e": 17.16,
-      "text": "If you're clear, that's it."
-    },
-    {
-      "s": 17.16,
-      "e": 18.16,
-      "text": "Here, back to last."
-    },
-    {
-      "s": 18.16,
-      "e": 19.16,
-      "text": "Here, back to last."
-    }
+  {
+   "s": 16.16,
+   "e": 17.16,
+   "text": "If you're clear, that's it."
+  },
+  {
+   "s": 17.16,
+   "e": 18.16,
+   "text": "Here, back to last."
+  },
+  {
+   "s": 18.16,
+   "e": 19.16,
+   "text": "Here, back to last."
+  }
+ ],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   12.6,
+   19.8,
+   24.0,
+   30.0
   ],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      12.6,
-      19.8,
-      24.0,
-      30.0
-    ],
-    "silence_ends": [
-      13.7,
-      21.6,
-      24.7,
-      30.9
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-937303.jpg",
-  "sheet_times": [
-    0.95,
-    2.85,
-    4.75,
-    6.66,
-    8.56,
-    10.46,
-    12.36,
-    14.26,
-    16.17,
-    18.07,
-    19.97,
-    21.87,
-    23.77,
-    25.68,
-    27.58,
-    29.48
+  "silence_ends": [
+   13.7,
+   21.6,
+   24.7,
+   30.9
   ]
+ },
+ "sheet": "data/candidates/dvids-video-937303.jpg",
+ "sheet_times": [
+  0.95,
+  2.85,
+  4.75,
+  6.66,
+  8.56,
+  10.46,
+  12.36,
+  14.26,
+  16.17,
+  18.07,
+  19.97,
+  21.87,
+  23.77,
+  25.68,
+  27.58,
+  29.48
+ ],
+ "editor_note": "HOLD until about Nov 10: 3 men in the water off Honolulu, 1080p, 31 s; people-in-water stories queued Nov 7 to 8"
 }

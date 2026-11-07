@@ -1,84 +1,85 @@
 {
-  "asset_id": "video:102968",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "S/V Raw Faith rescue of 2",
-  "description": "BOSTON - Coast Guard crews rescued the crew of the sailing vessel Raw Faith Dec. 7, 2010, 100 miles southeast of Nantucket, Mass. The vessel later sank. \r\n",
-  "keywords": "Mass., Nantucket, Raw Faith, Coast Guard, rescue",
-  "date": "2010-12-07T00:00:00-05:00",
-  "date_published": "2010-12-14T10:08:58-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northeast",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "101207-G-0000X-001",
-  "location": {
-    "city": "",
-    "state": "Massachusetts",
-    "country": "United States",
-    "state_abbreviation": "MA",
-    "country_abbreviation": "US"
+ "asset_id": "video:102968",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "S/V Raw Faith rescue of 2",
+ "description": "BOSTON - Coast Guard crews rescued the crew of the sailing vessel Raw Faith Dec. 7, 2010, 100 miles southeast of Nantucket, Mass. The vessel later sank. \r\n",
+ "keywords": "Mass., Nantucket, Raw Faith, Coast Guard, rescue",
+ "date": "2010-12-07T00:00:00-05:00",
+ "date_published": "2010-12-14T10:08:58-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northeast",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "101207-G-0000X-001",
+ "location": {
+  "city": "",
+  "state": "Massachusetts",
+  "country": "United States",
+  "state_abbreviation": "MA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/102968/s-v-raw-faith-rescue-2",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.004,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-102968",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T16:20:37Z",
+ "duration": 94.8,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1012/DOD_100107043/DOD_100107043.mpg",
+  "width": 720,
+  "height": 480,
+  "bitrate": null,
+  "size": null
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 7.6,
+   "e": 8.6,
+   "text": "Smaller."
   },
-  "page_url": "https://www.dvidshub.net/video/102968/s-v-raw-faith-rescue-2",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.004,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-102968",
-  "status": "new",
-  "harvested_at": "2026-11-07T16:20:37Z",
-  "duration": 94.8,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1012/DOD_100107043/DOD_100107043.mpg",
-    "width": 720,
-    "height": 480,
-    "bitrate": null,
-    "size": null
-  },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 7.6,
-      "e": 8.6,
-      "text": "Smaller."
-    },
-    {
-      "s": 8.6,
-      "e": 57.22,
-      "text": "Basket."
-    }
+  {
+   "s": 8.6,
+   "e": 57.22,
+   "text": "Basket."
+  }
+ ],
+ "scene_cuts": [
+  4.0,
+  94.56
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "scene_cuts": [
-    4.0,
-    94.56
-  ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      4.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-102968.jpg",
-  "sheet_times": [
-    6.83,
-    12.47,
-    18.11,
-    23.76,
-    29.4,
-    35.04,
-    40.69,
-    46.33,
-    51.97,
-    57.62,
-    63.26,
-    68.9,
-    74.55,
-    80.19,
-    85.83,
-    91.48
+  "silence_ends": [
+   4.0
   ]
+ },
+ "sheet": "data/candidates/dvids-video-102968.jpg",
+ "sheet_times": [
+  6.83,
+  12.47,
+  18.11,
+  23.76,
+  29.4,
+  35.04,
+  40.69,
+  46.33,
+  51.97,
+  57.62,
+  63.26,
+  68.9,
+  74.55,
+  80.19,
+  85.83,
+  91.48
+ ],
+ "pass_reason": "shaky handheld from a cutter, helicopter hoist only distant specks"
 }
