@@ -1,0 +1,132 @@
+{
+  "asset_id": "video:88098",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Cascade Rescue",
+  "description": "B-roll of a 16 year old girl being rescued from a cliff in Cascade Hills, Ore. Scenes include a shot of the girl being lifted up to the helicopter. Produced by Monica Leftwich.",
+  "keywords": "rescued, cliff, Cascade Hills, Coast Guard, Ore.",
+  "date": "2010-06-16T00:00:00-04:00",
+  "date_published": "2010-06-17T05:22:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Monica Leftwich",
+  "category": "B-Roll",
+  "virin": "100616-G-6414E-001",
+  "location": {
+    "city": "Cascade Head",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/88098/cascade-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-88098",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:34:39Z",
+  "duration": 77.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1006/DOD_100073552/DOD_100073552.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 14.06,
+      "e": 15.06,
+      "text": "Hey, sister, please."
+    },
+    {
+      "s": 15.06,
+      "e": 16.06,
+      "text": "I heard it."
+    },
+    {
+      "s": 16.06,
+      "e": 17.06,
+      "text": "So I heard it's clear as a..."
+    },
+    {
+      "s": 17.06,
+      "e": 23.66,
+      "text": "No big deal."
+    },
+    {
+      "s": 23.66,
+      "e": 24.66,
+      "text": "Yep."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      4.2,
+      8.3,
+      9.9,
+      16.8,
+      18.7,
+      23.9,
+      25.6,
+      26.9,
+      32.7,
+      37.9,
+      40.1,
+      41.6,
+      46.1,
+      48.1,
+      53.6,
+      58.2,
+      73.4
+    ],
+    "silence_ends": [
+      4.0,
+      5.1,
+      9.0,
+      11.2,
+      18.2,
+      19.6,
+      24.8,
+      26.4,
+      27.7,
+      34.7,
+      39.1,
+      40.7,
+      45.3,
+      47.0,
+      50.1,
+      54.6,
+      58.9,
+      76.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-88098.jpg",
+  "sheet_times": [
+    6.28,
+    10.83,
+    15.39,
+    19.94,
+    24.49,
+    29.05,
+    33.6,
+    38.15,
+    42.7,
+    47.26,
+    51.81,
+    56.36,
+    60.92,
+    65.47,
+    70.02,
+    74.58
+  ]
+}

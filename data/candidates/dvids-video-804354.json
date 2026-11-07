@@ -1,0 +1,118 @@
+{
+  "asset_id": "video:804354",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "River Rescue",
+  "description": "A Coast Guard Air Station Sitka crew assisted the Alaska State Troopers rescue two people, June 19, 2021.\r\nAn Air Station Sitka MH-60 Jayhawk helicopter crew hoisted two people out of Gilkey River, approximately three miles from Gilkey Glacier, and transported them to Alaska State Troopers in Juneau. \r\nThe Alaska State Troopers requested air assistance after they received the report of an overturned skiff in swift water with multiple large rocks downstream. \r\nThe aircrew hoisted one survivor from the overturned boat, and then hoisted the other survivor that was able to swim to shore.",
+  "keywords": "Coast Guard Air Station Sitka, dvidsdaily, CoastGuardNewsWire",
+  "date": "2021-06-19T00:00:00-04:00",
+  "date_published": "2021-06-21T12:40:45-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Alexandria Obrien",
+  "category": "B-Roll",
+  "virin": "210619-G-QU445-229",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/804354/river-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-804354",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:36:42Z",
+  "duration": 108.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108413880/DOD_108413880.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2978,
+    "size": 41755751
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 34.38,
+      "e": 46.65,
+      "text": "going down. As far as our jack has got the, he's dragging the floor over the survivor right now."
+    },
+    {
+      "s": 46.65,
+      "e": 57.93,
+      "text": "Ready for pickup, take the load, take the load, so much survivor are clear of the jack."
+    },
+    {
+      "s": 57.93,
+      "e": 60.69,
+      "text": "Now we'll work out."
+    }
+  ],
+  "scene_cuts": [
+    21.65
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      24.1,
+      31.0,
+      33.2,
+      35.9,
+      39.6,
+      47.7,
+      63.1,
+      69.0,
+      73.0,
+      78.0,
+      80.6,
+      83.1,
+      92.6,
+      96.4,
+      103.8
+    ],
+    "silence_ends": [
+      21.9,
+      29.2,
+      32.1,
+      34.3,
+      37.9,
+      40.6,
+      49.2,
+      64.2,
+      70.1,
+      75.7,
+      78.6,
+      82.6,
+      87.6,
+      94.2,
+      100.8,
+      108.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-804354.jpg",
+  "sheet_times": [
+    3.36,
+    10.09,
+    16.82,
+    23.55,
+    30.28,
+    37.01,
+    43.74,
+    50.47,
+    57.19,
+    63.92,
+    70.65,
+    77.38,
+    84.11,
+    90.84,
+    97.57,
+    104.3
+  ]
+}

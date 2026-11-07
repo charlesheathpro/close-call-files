@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:337220",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "3rd MAW Marines Fight San Diego County Wildfires",
+  "description": "Aircraft with the 3rd Marine Aircraft Wing assist CALFIRE 2014 and local firefighting agencies with Camp Pendleton wildfires, May 15, 2014.",
+  "keywords": "wildfires, MCAS Miramar, 3rd MAW, CalFire, CALFIRE14, 3MAWPAO, Marines",
+  "date": "2014-05-15T00:00:00-04:00",
+  "date_published": "2014-05-15T22:22:53-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Station Miramar",
+  "credit": "Gunnery Sgt. Donald Bohanner",
+  "category": "B-Roll",
+  "virin": "140515-M-VU108-001",
+  "location": {
+    "city": "Camp Pendleton",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/337220/3rd-maw-marines-fight-san-diego-county-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.17083,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-337220",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:34:06Z",
+  "duration": 169.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101637338/DOD_101637338.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 221237313
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    10.48,
+    42.98,
+    52.99,
+    78.45,
+    89.66,
+    95.73,
+    121.86,
+    164.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-337220.jpg",
+  "sheet_times": [
+    9.33,
+    19.64,
+    29.95,
+    40.26,
+    50.57,
+    60.88,
+    71.19,
+    81.5,
+    91.81,
+    102.12,
+    112.43,
+    122.74,
+    133.06,
+    143.37,
+    153.68,
+    163.99
+  ]
+}

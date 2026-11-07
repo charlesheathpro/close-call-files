@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:337222",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "3rd MAW Marines fight San Diego county wildfires",
+  "description": "Aircraft with the 3rd Marine Aircraft Wing assist CALFIRE 2014 and local firefighting agencies with Cocos wildfire in San Marcos, Calif., May 15. Available in high definition.",
+  "keywords": "Wildfire, San Marcos, San Diego County, CalFire, Aviation News, CALFIRE14, San Diego Fire 2014, 3MAWPAO, Marines, Marine, Fire, aviation, support, San Diego",
+  "date": "2014-05-15T00:00:00-04:00",
+  "date_published": "2014-05-15T23:21:45-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Station Miramar",
+  "credit": "Pfc. Maxwell Pennington",
+  "category": "B-Roll",
+  "virin": "140515-M-SO228-258",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/337222/3rd-maw-marines-fight-san-diego-county-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 15.0484,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-337222",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:33:55Z",
+  "duration": 93.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101637394/DOD_101637394.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9160,
+    "size": 110091847
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.05,
+    20.52,
+    25.36,
+    32.57,
+    35.44,
+    40.54,
+    49.58,
+    53.95,
+    61.8,
+    65.3,
+    85.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      15.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-337222.jpg",
+  "sheet_times": [
+    17.47,
+    22.32,
+    27.16,
+    32.01,
+    36.85,
+    41.7,
+    46.54,
+    51.39,
+    56.24,
+    61.08,
+    65.93,
+    70.77,
+    75.62,
+    80.46,
+    85.31,
+    90.15
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:784199",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-65 rescue",
+  "title": "Coast Guard battles weather to rescue injured sailor 46-miles off coast",
+  "description": "An MH-65 Dolphin Helicopter crew from Coast Guard Air Station San Francisco Forward Operating Base medevaced an injured man Friday from a commercial cargo ship more than 46 miles west of San Luis Obispo.",
+  "keywords": "CoastGuardNewsWire",
+  "date": "2021-02-19T00:00:00-05:00",
+  "date_published": "2021-02-20T18:26:15-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Los Angeles",
+  "credit": "Petty Officer 1st Class Richard Brahm",
+  "category": "B-Roll",
+  "virin": "210219-G-EK967-213",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/784199/coast-guard-battles-weather-rescue-injured-sailor-46-miles-off-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-784199",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:33:45Z",
+  "duration": 139.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108194076/DOD_108194076.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3146,
+    "size": 57311919
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    35.5,
+    50.32,
+    98.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      139.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-784199.jpg",
+  "sheet_times": [
+    4.35,
+    13.05,
+    21.74,
+    30.44,
+    39.14,
+    47.84,
+    56.54,
+    65.23,
+    73.93,
+    82.63,
+    91.33,
+    100.03,
+    108.72,
+    117.42,
+    126.12,
+    134.82
+  ]
+}

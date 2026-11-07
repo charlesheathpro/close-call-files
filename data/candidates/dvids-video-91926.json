@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:91926",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Beach Rescue",
+  "description": "B-roll of a person being rescued from a beach by a helicopter. Produced by Petty Officer 1st Class Shawn Eggert.",
+  "keywords": "helicopter rescue, Shawn Eggert, beach",
+  "date": "2010-08-02T00:00:00-04:00",
+  "date_published": "2010-08-03T06:40:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100802-G-6414E-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/91926/beach-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.93727,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-91926",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:34:22Z",
+  "duration": 51.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1008/DOD_100077747/DOD_100077747.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.94,
+    15.52,
+    33.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      20.9,
+      29.5,
+      45.3
+    ],
+    "silence_ends": [
+      3.9,
+      21.7,
+      30.7,
+      46.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-91926.jpg",
+  "sheet_times": [
+    5.41,
+    8.36,
+    11.3,
+    14.25,
+    17.2,
+    20.14,
+    23.09,
+    26.03,
+    28.98,
+    31.93,
+    34.87,
+    37.82,
+    40.76,
+    43.71,
+    46.66,
+    49.6
+  ]
+}
