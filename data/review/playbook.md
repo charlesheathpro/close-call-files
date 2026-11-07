@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-07T09:50:19Z from 68 Shorts older than 48 hours)
+# Playbook (computed 2026-11-07T14:19:09Z from 70 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- source: nasa (+0.46, 7 Shorts)
-- story: abandon ship, boat crew pickup (+0.46, 1 Shorts)
-- spacecraft or test story (+0.42, 8 Shorts)
-- story: launch abort test (+0.42, 1 Shorts)
-- story: splashdown recovery (+0.42, 1 Shorts)
-- lane: aviation_naval (+0.4, 10 Shorts)
+- story: abandon ship, boat crew pickup (+0.43, 1 Shorts)
 - story: capsized boat, people in the water (+0.4, 1 Shorts)
-- hook names a child (+0.3, 10 Shorts)
+- story: splashdown recovery (+0.4, 1 Shorts)
+- story: launch abort test (+0.39, 1 Shorts)
+- hook names a child (+0.34, 10 Shorts)
+- story: dog cliff rescue (+0.22, 1 Shorts)
+- story: rocket booster test fire (+0.22, 1 Shorts)
+- story: elderly sailor and dog, disabled sailboat far offshore (+0.21, 1 Shorts)
 
 ## Do less of
-- story: missing boaters clinging to a capsized hull (-0.54, 1 Shorts)
-- story: dog hoist from sinking boat (-0.53, 1 Shorts)
-- source: dvids (-0.43, 55 Shorts)
-- music: hazards (-0.42, 4 Shorts)
-- story: volcano eruption (-0.37, 2 Shorts)
-- story: attic flood hoist (-0.36, 1 Shorts)
-- lane: hazards (-0.34, 3 Shorts)
-- story: sinking sailboat, boat crew (-0.24, 1 Shorts)
+- story: dog hoist from sinking boat (-0.54, 1 Shorts)
+- story: rocket engine test cut short (-0.51, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.51, 1 Shorts)
+- story: boat fire rescue in winter (-0.38, 1 Shorts)
+- music: hazards (-0.38, 4 Shorts)
+- story: volcano eruption (-0.35, 2 Shorts)
+- story: attic flood hoist (-0.31, 1 Shorts)
+- lane: hazards (-0.3, 3 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 8227 views, 100% watched
+- Five abandon a sinking fishing boat: 8320 views, 100% watched
+- Boat flipped with a 4-year-old aboard: 20323 views, 79% watched
 - Orion splashes down after the Moon: 9441 views, 95% watched
-- Capsule torn off a rocket at Mach 1: 5178 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 20230 views, 79% watched
-- Moon rocket booster fired on its side: 1598 views, 108% watched
+- Capsule torn off a rocket at Mach 1: 5179 views, 97% watched
+- Dog fell off an Oregon sea cliff: 1291 views, 84% watched
 
 ## Weakest Shorts
-- Sailboat sinking 25 miles off Michigan: 303 views, 62% watched
-- Mauna Loa erupts after 38 years: 147 views, 65% watched
 - Trapped in the attic as the flood rose: 285 views, 44% watched
+- Boat on fire off South Carolina, 4 aboard: 979 views, 0% watched
+- Moon rocket test stopped after a minute: 332 views, 0% watched
+- Clinging to a flipped boat 12 miles out: 26 views, 62% watched
 - Dog hoisted from a sinking catamaran: 10 views, 80% watched
-- Clinging to a flipped boat 12 miles out: 24 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261030-04: Beautiful footage, but it is the third lava Short in four days and the same 2018 Kilauea eruption as ccf-20261030-06, which publishes Nov 1, so it looks interchangeable. The script also has no stakes: line 2 just repeats the location card and nothing says what was at risk.
@@ -50,7 +50,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261105-34: Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown.
 - ccf-20261106-11: The kids are never visible: 28 seconds of one distant helicopter hovering over a dark rock pile at dusk from the same high angle, letterboxed and grainy. Nothing on screen looks dangerous, and the source has no closer shot to fix it.
 - ccf-20261106-21: The sinking houseboat is only a dark 4 s FLIR blob; the rest is the same calm top-down basket hoist from the door for about 25 s, which is the routine hoist the viral bar rules out. The cat payoff is nice but cannot carry it, and the source has no other footage.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.32, 'aviation_naval': 0.58, 'hazards': 0.1}
-- query weights for 41 searches
