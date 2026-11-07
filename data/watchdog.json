@@ -1,21 +1,23 @@
 {
- "at": "2026-11-07T00:41:12Z",
+ "at": "2026-11-07T08:21:04Z",
  "healthy": false,
  "numbers": {
-  "dropped": 40,
+  "passed": 7,
   "uploaded": 88,
-  "rejected": 1,
-  "passed": 6,
-  "scheduled_36h": 2
+  "dropped": 40,
+  "rejected": 0,
+  "scheduled_36h": 0,
+  "needs_build": 0,
+  "needs_qa": 0
  },
  "found": [
-  "buffer thin at start: 2 scheduled in 36 h, 1 passed, 4 in QA, nothing else in the pipeline",
-  "YouTube uploadLimitExceeded active until 2026-11-07T08:38Z; uploads paused on YouTube's side, no auth errors",
-  "harvest, build, upload and stats runs all landed in the last 30 hours; no repeated build errors"
+  "buffer thin: 0 scheduled in 36 h, 6 passed, nothing in build or QA",
+  "YouTube uploadLimitExceeded until 08:38Z; an upload run is in progress/queued for the window, no auth errors",
+  "harvest, build, upload and stats all landed in the last 30 h; no repeated build errors",
+  "rescue supply nearly exhausted: remaining strong clips are on deliberate holds (Rose Marie sinking to Nov 10, boat fire to Nov 9, Lake Michigan hull to Nov 12); aviation and hazards 'new' pools are mostly briefings and b-roll"
  ],
  "fixed": [
-  "QA: passed 06-41, 06-43, 06-44 (rev 2, reshot opener), dropped 06-42",
-  "editor pass: 2 new specs (06-51 teen adrift at night, 06-52 33 days on Anguilla Cay), built and passed this run; 14 candidates passed over",
-  "DVIDS rescue lane is nearly mined out of clips that clear the viral bar; NASA lane has mostly ceremonies and rollouts left"
+  "repaired and passed ccf-20261104-01 rev 3 (divers on a flipped hull) per its Nov 4 QA fixes",
+  "pushed an archive harvest to triggers/harvest for fresh supply"
  ]
 }
