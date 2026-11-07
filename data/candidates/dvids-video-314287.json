@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:314287",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac at sea",
+  "title": "Jayhawk Landing",
+  "description": "JUNEAU, Alaska - A Coast Guard MH-60 Jayhawk rescue helicopter lands with a 72-year-old passenger, medevaced from the cruise ship Sea Princess.  090609-G-0503R-1 (Coast Guard Video/ PA3 Jon-Paul Rios)",
+  "keywords": "CGVI",
+  "date": "2009-06-09T00:00:00-04:00",
+  "date_published": "2013-12-17T08:07:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Jon-Paul Rios",
+  "category": "B-Roll",
+  "virin": "090609-G-0503R-001",
+  "location": {
+    "city": "Juneau",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314287/jayhawk-landing",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314287",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:24:59Z",
+  "duration": 39.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054980/DOD_101054980-640x480-703k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 703,
+    "size": 3856469
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.51,
+    13.58,
+    27.76
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-314287.jpg",
+  "sheet_times": [
+    1.23,
+    3.68,
+    6.14,
+    8.59,
+    11.05,
+    13.5,
+    15.95,
+    18.41,
+    20.86,
+    23.32,
+    25.77,
+    28.23,
+    30.68,
+    33.14,
+    35.59,
+    38.05
+  ]
+}
