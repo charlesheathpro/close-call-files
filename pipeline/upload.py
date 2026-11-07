@@ -59,15 +59,33 @@ def upload_times():
     return out
 
 
+def min_lead(cfg, now):
+    """How far ahead a slot must be before we fill it.
+
+    YouTube allows 10 uploads per rolling 24 hours, so a day's batch can only go up once the previous
+    batch is 24 hours old. Filling only slots at least min_lead_hours (24) ahead keeps the whole next
+    day scheduled by the evening before. lead_ramp_start/lead_ramp_hours phase that in gradually so the
+    switch skips as few posts as possible.
+    """
+    full = float(cfg.get("min_lead_hours", 0))
+    start = cfg.get("lead_ramp_start")
+    ramp = float(cfg.get("lead_ramp_hours", 0))
+    if start and ramp:
+        done = (now - datetime.fromisoformat(start.replace("Z", "+00:00"))).total_seconds() / 3600 / ramp
+        full *= max(0.0, min(1.0, done))
+    return max(timedelta(minutes=25), timedelta(hours=full))
+
+
 def open_slots(cfg):
     tz = ZoneInfo(cfg["timezone"])
     now = now_utc()
     horizon = now + timedelta(hours=cfg["upload_lead_hours"])
+    earliest = now + min_lead(cfg, now)
     taken, per_day = scheduled_times()
     target = min(int(cfg["daily_target"]), int(cfg["max_daily"]))
     out = []
     local_today = now.astimezone(tz).date()
-    for offset in range(0, 3):
+    for offset in range(0, 4):
         day = local_today + timedelta(days=offset)
         used = per_day.get(day.isoformat(), 0)
         for hhmm in pick_slots(cfg, target):
@@ -77,7 +95,7 @@ def open_slots(cfg):
             local = datetime(day.year, day.month, day.day, h, m, tzinfo=tz)
             utc = local.astimezone(ZoneInfo("UTC"))
             stamp = utc.strftime("%Y-%m-%dT%H:%M:%SZ")
-            if utc < now + timedelta(minutes=25) or utc > horizon or stamp in taken:
+            if utc < earliest or utc > horizon or stamp in taken:
                 continue
             out.append((stamp, day.isoformat()))
             used += 1

@@ -18,16 +18,16 @@ for d in short_dirs():
     if short_state(d) == 'uploaded':
         u = load_json(d / 'upload.json') or {}
         t = u.get('publish_at')
-        if t and now < datetime.fromisoformat(t.replace('Z', '+00:00')) <= now + timedelta(hours=36):
+        if t and now < datetime.fromisoformat(t.replace('Z', '+00:00')) <= now + timedelta(hours=48):
             sched += 1
-print(dict(c), 'scheduled next 36h:', sched)
+print(dict(c), 'scheduled next 48h:', sched)
 EOF
 ```
 
 Also read `data/upload_last.json`, `data/upload_limit.json`, `data/harvest_last.json`, the last 10 entries of `data/alerts.json`, every `build.json` with status error from the last 24 hours, and `git log --since="30 hours ago" --oneline` (are harvest, build, upload and stats runs still landing?). If GitHub workflow runs are needed, `gh api repos/charlesheathpro/close-call-files/actions/runs?per_page=20` works.
 
 Healthy means all of these hold:
-- scheduled in the next 36 hours + passed >= 15
+- scheduled in the next 48 hours + passed >= 20 (uploads fill slots 24 to 48 hours ahead, so the whole next day is scheduled by the evening before; from Nov 10 on, fewer than 10 scheduled for tomorrow by 6 PM Mountain is unhealthy)
 - needs_build + needs_qa + passed + scheduled >= 25
 - an upload run landed in the last 3 hours, a harvest in the last 30 hours, stats in the last 30 hours
 - no build error repeated on 3 or more Shorts in the last 24 hours
