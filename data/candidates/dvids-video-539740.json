@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:539740",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard rescues 5 from water 8 miles off Topsail Island, NC",
+  "description": "A 29-foot Response Boat-Small crew from Coast Guard Station Wrightsville Beach, North Carolina, rescues five people from the water after their boat capsized eight miles south of Topsail Island, North Carolina, July 23, 2017. Three of the five people were wearing life jackets. (U.S. Coast Guard video by Air Station Elizabeth City/Released)",
+  "keywords": "Atlantic Ocean, capsized, d5, Wrightsville Beach, PIW, Topsail, 29 RBS, persons in the water, SAR, search and rescue, North Carolina, USCG",
+  "date": "2017-07-23T00:00:00-04:00",
+  "date_published": "2017-07-23T14:33:51-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170723-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/539740/coast-guard-rescues-5-water-8-miles-off-topsail-island-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-539740",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:31:43Z",
+  "duration": 52.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104633011/DOD_104633011.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9574,
+    "size": 63352211
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    7.41
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      52.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-539740.jpg",
+  "sheet_times": [
+    5.52,
+    8.5,
+    11.48,
+    14.46,
+    17.44,
+    20.42,
+    23.4,
+    26.38,
+    29.37,
+    32.35,
+    35.33,
+    38.31,
+    41.29,
+    44.27,
+    47.25,
+    50.23
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "asset_id": "video:949333",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "wildfire",
+  "title": "FEMA Administrator visits Los Angeles County Wildfires",
+  "description": "FEMA Administrator Deanne Criswell visits Los Angeles County to see the response efforts and the impact of the wildfires. Criswell also met and talked with Govenor Gavin Newsom.",
+  "keywords": "LAWildfires25",
+  "date": "2025-01-10T00:00:00-05:00",
+  "date_published": "2025-01-11T09:32:34-05:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Alexis Hall",
+  "category": "B-Roll",
+  "virin": "250110-O-AH964-5638",
+  "location": {
+    "city": "Los Angeles County",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/949333/fema-administrator-visits-los-angeles-county-wildfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-949333",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:32:23Z",
+  "duration": 119.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2501/DOD_110765201/DOD_110765201.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 137170873
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 39.6,
+      "e": 46.6,
+      "text": "protection, structure defense and structure firefight. We're also putting in contingency lines and coming up."
+    },
+    {
+      "s": 46.6,
+      "e": 55.35,
+      "text": "Let's see, is burnt. You can see the smoke on the other side of the mower."
+    },
+    {
+      "s": 55.35,
+      "e": 60.88,
+      "text": "Thanks Tom."
+    }
+  ],
+  "scene_cuts": [
+    4.97,
+    10.08,
+    17.28,
+    22.69,
+    29.73,
+    34.83,
+    46.68,
+    62.6,
+    66.0,
+    73.77,
+    82.55,
+    89.59,
+    93.49,
+    110.78
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      58.9,
+      62.5,
+      73.8,
+      106.3,
+      107.4
+    ],
+    "silence_ends": [
+      17.3,
+      60.2,
+      66.0,
+      93.5,
+      107.3,
+      110.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-949333.jpg",
+  "sheet_times": [
+    3.7,
+    11.11,
+    18.52,
+    25.93,
+    33.33,
+    40.74,
+    48.15,
+    55.56,
+    62.96,
+    70.37,
+    77.78,
+    85.19,
+    92.59,
+    100.0,
+    107.41,
+    114.82
+  ]
+}

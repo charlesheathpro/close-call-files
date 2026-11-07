@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:302576",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "MH-65 rescue",
+  "title": "Coast Guard, Local Agency Rescue Two Mariners",
+  "description": "A Coast Guard crew aboard an MH-65 Dolphin helicopter from Air Facility Charleston rescued two mariners Wednesday, Oct. 2, in the vicinity of Murelles Inlet, S.C. The two mariners had grounded their skiff but reported they did not require medical attention. U.S. Coast Guard video.",
+  "keywords": "MH-65 Dolphin helicopter, Sector Charleston, Coast Guard, search and rescue",
+  "date": "2013-10-02T00:00:00-04:00",
+  "date_published": "2013-10-02T17:08:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 3rd Class Anthony Soto",
+  "category": "B-Roll",
+  "virin": "131002-G-AB000-001",
+  "location": {
+    "city": "Murrells Inlet",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302576/coast-guard-local-agency-rescue-two-mariners",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.63897,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-302576",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:33:31Z",
+  "duration": 153.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1310/DOD_100925666/DOD_100925666.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8841,
+    "size": 169590478
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      153.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302576.jpg",
+  "sheet_times": [
+    10.24,
+    19.44,
+    28.65,
+    37.85,
+    47.05,
+    56.26,
+    65.46,
+    74.66,
+    83.86,
+    93.07,
+    102.27,
+    111.47,
+    120.68,
+    129.88,
+    139.08,
+    148.29
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:314961",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue swimmer",
+  "title": "North Bend biplane crash",
+  "description": "ASTORIA, Ore. - A rescue swimmer from the crew of a Coast Guard HH-65 helicopter from Air Station North Bend, Ore., is seen escorting the pilot of a crashed biplane 21 miles southeast of North Bend Feb. 28, 2010. The pilot was taken to Air Station North Bend and transported to Bay Area Hospital by ambulance. Coast Guard video by Air Station North Bend.",
+  "keywords": "CGVI",
+  "date": "2010-03-02T15:47:19-05:00",
+  "date_published": "2013-12-17T18:04:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314961/north-bend-biplane-crash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-314961",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:33:03Z",
+  "duration": 73.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056193/DOD_101056193.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6088,
+    "size": 59527009
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314961.jpg",
+  "sheet_times": [
+    2.27,
+    6.82,
+    11.37,
+    15.92,
+    20.46,
+    25.01,
+    29.56,
+    34.11,
+    38.65,
+    43.2,
+    47.75,
+    52.3,
+    56.84,
+    61.39,
+    65.94,
+    70.48
+  ]
+}

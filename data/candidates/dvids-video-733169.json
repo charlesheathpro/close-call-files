@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:733169",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "Coast Guard rescues 2 mariners 288 miles offshore Corpus Christi, Texas",
+  "description": "U.S. Coast Guard at Air Station Houston MH-65 Dolphin helicopter crew conducts a hoist of two mariners approximately 288 miles east southeast of Corpus Christi, Texas, Jan. 2, 2020. The two sailors were aboard the 37-foot sailing vessel Rhapsody when it became disabled due to an engine room fire and activated their emergency position indicating radio beacon for rescuers to locate them.(U.S. Coast Guard video by Air Station Houston)",
+  "keywords": "MH-65, EPIRB, sailing vessel, rescue",
+  "date": "2020-01-02T00:00:00-05:00",
+  "date_published": "2020-01-02T19:19:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200102-G-G0108-1004",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/733169/coast-guard-rescues-2-mariners-288-miles-offshore-corpus-christi-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-733169",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:33:23Z",
+  "duration": 116.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2001/DOD_107569604/DOD_107569604.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9966,
+    "size": 144690748
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    66.43
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      116.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-733169.jpg",
+  "sheet_times": [
+    3.61,
+    10.83,
+    18.05,
+    25.27,
+    32.49,
+    39.71,
+    46.93,
+    54.16,
+    61.38,
+    68.6,
+    75.82,
+    83.04,
+    90.26,
+    97.48,
+    104.7,
+    111.92
+  ]
+}
