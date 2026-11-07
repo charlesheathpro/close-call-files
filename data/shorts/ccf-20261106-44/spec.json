@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261106-44",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-774326",
  "lane": "rescue",
  "story_type": "boat swamping far offshore, C-130 raft drop, good Samaritan pickup",
@@ -64,16 +64,16 @@
  "line_shots": [
   [
    {
-    "start": 60.3,
-    "end": 62.8,
+    "start": 46.9,
+    "end": 49.9,
     "layout": "crop",
-    "crop_x": 0.4
+    "crop_x": 0.65
    },
    {
-    "start": 45.0,
-    "end": 47.4,
+    "start": 50.0,
+    "end": 52.6,
     "layout": "crop",
-    "crop_x": 0.7
+    "crop_x": 0.6
    }
   ],
   [
@@ -106,44 +106,58 @@
   ],
   [
    {
-    "start": 26.5,
-    "end": 29.5,
+    "start": 20.5,
+    "end": 23.5,
     "layout": "crop",
     "crop_x": 0.45
    },
    {
-    "start": 30.0,
-    "end": 33.0,
+    "start": 23.6,
+    "end": 26.4,
     "layout": "crop",
-    "crop_x": 0.35
+    "crop_x": 0.45
    },
    {
-    "start": 34.0,
-    "end": 37.0,
+    "start": 26.5,
+    "end": 29.5,
     "layout": "crop",
     "crop_x": 0.45
    }
   ],
   [
+   {
+    "start": 30.0,
+    "end": 33.0,
+    "layout": "crop",
+    "crop_x": 0.4
+   },
    {
     "start": 38.0,
     "end": 41.0,
     "layout": "crop",
     "crop_x": 0.45
-   },
-   {
-    "start": 41.5,
-    "end": 44.5,
-    "layout": "crop",
-    "crop_x": 0.6
    }
   ],
   [
+   {
+    "start": 60.2,
+    "end": 62.4,
+    "layout": "crop",
+    "crop_x": 0.4
+   },
    {
     "start": 67.0,
     "end": 70.0,
     "layout": "crop",
     "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 41.2,
+    "end": 44.0,
+    "layout": "crop",
+    "crop_x": 0.65
    },
    {
     "start": 70.5,
@@ -154,39 +168,13 @@
   ],
   [
    {
-    "start": 47.4,
-    "end": 49.6,
-    "layout": "crop",
-    "crop_x": 0.65
-   },
-   {
-    "start": 50.0,
-    "end": 52.4,
-    "layout": "crop",
-    "crop_x": 0.6
-   }
-  ],
-  [
-   {
-    "start": 84.0,
-    "end": 86.0,
-    "layout": "crop",
-    "crop_x": 0.6
-   },
-   {
-    "start": 88.0,
-    "end": 91.0,
-    "layout": "crop",
-    "crop_x": 0.45
-   }
-  ],
-  [
-   {
     "start": 73.2,
     "end": 76.0,
     "layout": "crop",
     "crop_x": 0.45
-   },
+   }
+  ],
+  [
    {
     "start": 76.0,
     "end": 79.0,
