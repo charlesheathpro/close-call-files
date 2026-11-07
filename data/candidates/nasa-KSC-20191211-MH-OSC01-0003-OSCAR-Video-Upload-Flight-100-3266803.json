@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:KSC-20191211-MH-OSC01_0003-OSCAR_Video_Upload_Flight_100-3266803",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "flight test",
+  "title": "OSCAR Video - Flight 100",
+  "description": "Orbital Syngas Commodity Augmentation Reactor (OSCAR) performing a test in microgravity aboard the Blue Origin New Shepard NS-12 flight on Dec. 11, 2019.",
+  "keywords": "NASA, Kennedy Space Center, KSC, exploration, space exploration, deep space exploration, Orbital Syngas Commodity Augmentation Reactor, OSCAR, recycling, logistics reduction, flight test, research, space tech, combustion, microgravity",
+  "date": "2019-12-11T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20191211-MH-OSC01_0003-OSCAR_Video_Upload_Flight_100-3266803",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20191211-MH-OSC01-0003-OSCAR-Video-Upload-Flight-100-3266803",
+  "status": "new",
+  "harvested_at": "2026-11-07T16:33:46Z",
+  "duration": 191.25,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20191211-MH-OSC01_0003-OSCAR_Video_Upload_Flight_100-3266803/KSC-20191211-MH-OSC01_0003-OSCAR_Video_Upload_Flight_100-3266803~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 191.233333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.0,
+    55.13,
+    104.2,
+    104.23,
+    191.2
+  ],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      11.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20191211-MH-OSC01-0003-OSCAR-Video-Upload-Flight-100-3266803.jpg",
+  "sheet_times": [
+    5.96,
+    17.88,
+    29.81,
+    41.73,
+    53.65,
+    65.57,
+    77.49,
+    89.42,
+    101.34,
+    113.26,
+    125.18,
+    137.1,
+    149.03,
+    160.95,
+    172.87,
+    184.79
+  ]
+}
