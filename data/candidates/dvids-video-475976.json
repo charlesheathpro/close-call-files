@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:475976",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "life raft",
-  "title": "Coast Guard, Local Agencies Respond to Boat Fire Near Matanzas",
-  "description": "The tugboat Thomas Dann burns after a fire broke out Friday 8 miles east of Matanzas. A good Samaritan recovered the six crew members from a life raft. U.S. Coast Guard photo courtesy Air Station Clearwater.",
-  "keywords": "tug boat, Thomas Dann, Fire, USCG",
-  "date": "2016-07-22T00:00:00-04:00",
-  "date_published": "2016-07-23T11:15:55-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard PADET Jacksonville",
-  "credit": "Petty Officer 1st Class Luke Clayton",
-  "category": "B-Roll",
-  "virin": "160722-G-AB123-004",
-  "location": {
-    "city": "Matanzas",
-    "state": "Florida",
-    "country": "United States",
-    "state_abbreviation": "FL",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/475976/coast-guard-local-agencies-respond-boat-fire-near-matanzas",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-475976",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:25:32Z",
-  "duration": 30.12,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103494665/DOD_103494665.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 8697,
-    "size": 32764901
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      30.1
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-475976.jpg",
-  "sheet_times": [
-    0.93,
-    2.78,
-    4.63,
-    6.48,
-    8.33,
-    10.18,
-    12.03,
-    13.89,
-    15.74,
-    17.59,
-    19.44,
-    21.29,
-    23.14,
-    24.99,
-    26.84,
-    28.7
+ "asset_id": "video:475976",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "life raft",
+ "title": "Coast Guard, Local Agencies Respond to Boat Fire Near Matanzas",
+ "description": "The tugboat Thomas Dann burns after a fire broke out Friday 8 miles east of Matanzas. A good Samaritan recovered the six crew members from a life raft. U.S. Coast Guard photo courtesy Air Station Clearwater.",
+ "keywords": "tug boat, Thomas Dann, Fire, USCG",
+ "date": "2016-07-22T00:00:00-04:00",
+ "date_published": "2016-07-23T11:15:55-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard PADET Jacksonville",
+ "credit": "Petty Officer 1st Class Luke Clayton",
+ "category": "B-Roll",
+ "virin": "160722-G-AB123-004",
+ "location": {
+  "city": "Matanzas",
+  "state": "Florida",
+  "country": "United States",
+  "state_abbreviation": "FL",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/475976/coast-guard-local-agencies-respond-boat-fire-near-matanzas",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-475976",
+ "status": "new",
+ "harvested_at": "2026-11-07T08:25:32Z",
+ "duration": 30.12,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103494665/DOD_103494665.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 8697,
+  "size": 32764901
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   30.1
   ]
+ },
+ "sheet": "data/candidates/dvids-video-475976.jpg",
+ "sheet_times": [
+  0.93,
+  2.78,
+  4.63,
+  6.48,
+  8.33,
+  10.18,
+  12.03,
+  13.89,
+  15.74,
+  17.59,
+  19.44,
+  21.29,
+  23.14,
+  24.99,
+  26.84,
+  28.7
+ ],
+ "editor_note": "HOLD until about Nov 11: boat fire; ccf-20261107-04 (boat fire, raft) is queued"
 }

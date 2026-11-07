@@ -1,80 +1,81 @@
 {
-  "asset_id": "video:313705",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Rescue Hoists",
-  "description": "In this video released by the Coast Guard, an Air Station Elizabeth City, N.C., MH-60J Jayhawk helicopter crew hoists two people from a disabled sailboat more than 100 miles off the New Jersey coast. (U.S. Coast Guard Video)",
-  "keywords": "CGVI",
-  "date": "2008-10-30T00:00:00-04:00",
-  "date_published": "2013-12-17T00:29:40-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Headquarters",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Elizabeth City",
-    "state": "North Carolina",
-    "country": "United States",
-    "state_abbreviation": "NC",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/313705/rescue-hoists",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-313705",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:36:30Z",
-  "duration": 183.58,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054295/DOD_101054295.mp4",
-    "width": 640,
-    "height": 480,
-    "bitrate": 1061,
-    "size": 23251538
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    3.87,
-    4.0,
-    4.1,
-    36.3,
-    36.5,
-    36.64,
-    98.23,
-    173.51,
-    183.42
+ "asset_id": "video:313705",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Rescue Hoists",
+ "description": "In this video released by the Coast Guard, an Air Station Elizabeth City, N.C., MH-60J Jayhawk helicopter crew hoists two people from a disabled sailboat more than 100 miles off the New Jersey coast. (U.S. Coast Guard Video)",
+ "keywords": "CGVI",
+ "date": "2008-10-30T00:00:00-04:00",
+ "date_published": "2013-12-17T00:29:40-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Headquarters",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Elizabeth City",
+  "state": "North Carolina",
+  "country": "United States",
+  "state_abbreviation": "NC",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/313705/rescue-hoists",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-313705",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T08:36:30Z",
+ "duration": 183.58,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054295/DOD_101054295.mp4",
+  "width": 640,
+  "height": 480,
+  "bitrate": 1061,
+  "size": 23251538
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  3.87,
+  4.0,
+  4.1,
+  36.3,
+  36.5,
+  36.64,
+  98.23,
+  173.51,
+  183.42
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      183.6
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-313705.jpg",
-  "sheet_times": [
-    5.72,
-    17.16,
-    28.61,
-    40.05,
-    51.49,
-    62.93,
-    74.38,
-    85.82,
-    97.26,
-    108.7,
-    120.14,
-    131.59,
-    143.03,
-    154.47,
-    165.91,
-    177.36
+  "silence_ends": [
+   183.6
   ]
+ },
+ "sheet": "data/candidates/dvids-video-313705.jpg",
+ "sheet_times": [
+  5.72,
+  17.16,
+  28.61,
+  40.05,
+  51.49,
+  62.93,
+  74.38,
+  85.82,
+  97.26,
+  108.7,
+  120.14,
+  131.59,
+  143.03,
+  154.47,
+  165.91,
+  177.36
+ ],
+ "pass_reason": "night FLIR, distant"
 }

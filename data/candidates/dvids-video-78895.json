@@ -1,76 +1,77 @@
 {
-  "asset_id": "video:78895",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Hou Chun 11 Crew Rescue",
-  "description": "B-roll of crew members of Hou Chun 11 being rescued. Scenes include an aerial view of the rescue. Produced by Petty Officer 3rd Class Michael De Nyse.",
-  "keywords": "Hou Chun 11, helicopter, medevac, rescue, vessel",
-  "date": "2010-02-09T00:00:00-05:00",
-  "date_published": "2010-02-09T21:22:21-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Atlantic Area",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "100208-G-0000A-001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "",
-    "state_abbreviation": null,
-    "country_abbreviation": null
-  },
-  "page_url": "https://www.dvidshub.net/video/78895/hou-chun-11-crew-rescue",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.004,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-78895",
-  "status": "new",
-  "harvested_at": "2026-11-07T08:55:55Z",
-  "duration": 59.46,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1002/DOD_100063689/DOD_100063689.mpg",
-    "width": 720,
-    "height": 480,
-    "bitrate": null,
-    "size": null
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    2.0,
-    4.0,
-    55.05,
-    55.69,
-    56.96
+ "asset_id": "video:78895",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Hou Chun 11 Crew Rescue",
+ "description": "B-roll of crew members of Hou Chun 11 being rescued. Scenes include an aerial view of the rescue. Produced by Petty Officer 3rd Class Michael De Nyse.",
+ "keywords": "Hou Chun 11, helicopter, medevac, rescue, vessel",
+ "date": "2010-02-09T00:00:00-05:00",
+ "date_published": "2010-02-09T21:22:21-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Atlantic Area",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "100208-G-0000A-001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "",
+  "state_abbreviation": null,
+  "country_abbreviation": null
+ },
+ "page_url": "https://www.dvidshub.net/video/78895/hou-chun-11-crew-rescue",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.004,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-78895",
+ "status": "passed_over",
+ "harvested_at": "2026-11-07T08:55:55Z",
+ "duration": 59.46,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1002/DOD_100063689/DOD_100063689.mpg",
+  "width": 720,
+  "height": 480,
+  "bitrate": null,
+  "size": null
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  2.0,
+  4.0,
+  55.05,
+  55.69,
+  56.96
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      59.5
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-78895.jpg",
-  "sheet_times": [
-    5.72,
-    9.16,
-    12.59,
-    16.03,
-    19.46,
-    22.89,
-    26.33,
-    29.76,
-    33.2,
-    36.63,
-    40.07,
-    43.5,
-    46.94,
-    50.37,
-    53.81,
-    57.24
+  "silence_ends": [
+   59.5
   ]
+ },
+ "sheet": "data/candidates/dvids-video-78895.jpg",
+ "sheet_times": [
+  5.72,
+  9.16,
+  12.59,
+  16.03,
+  19.46,
+  22.89,
+  26.33,
+  29.76,
+  33.2,
+  36.63,
+  40.07,
+  43.5,
+  46.94,
+  50.37,
+  53.81,
+  57.24
+ ],
+ "pass_reason": "grainy grey FLIR blobs"
 }

@@ -1,83 +1,84 @@
 {
-  "asset_id": "video:313765",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "vessel fire",
-  "title": "shrimp boat fire",
-  "description": "The Coast Guard responded to a fire onboard the fishing vessel Master Ryan 10-miles off the coast of Galveston, Texas, Dec. 6, 2008.\n\nCoast Guard Sector Houston-Galveston received a call from the lift boat A.J. Burios around 9 a.m. reporting the fire and that three people were onboard the shrimp boat.\n\nThe Coast Guard dispatched an MH-65 Dolphin rescue helicopter, a 47-foot motor life boat and the Coast Guard Cutter Manowar to assist.\n\n(Coast Guard video/ Air Station Houston)",
-  "keywords": "CGVI",
-  "date": "2008-12-06T00:00:00-05:00",
-  "date_published": "2013-12-17T01:29:31-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Headquarters",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "081206-G-8744K-001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "",
-    "state_abbreviation": null,
-    "country_abbreviation": null
-  },
-  "page_url": "https://www.dvidshub.net/video/313765/shrimp-boat-fire",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-313765",
-  "status": "new",
-  "harvested_at": "2026-11-06T17:41:01Z",
-  "duration": 185.06,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054384/DOD_101054384.mp4",
-    "width": 640,
-    "height": 480,
-    "bitrate": 3187,
-    "size": 77530544
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    13.95,
-    36.74,
-    55.19,
-    88.12,
-    103.77,
-    110.74,
-    119.65,
-    126.63
+ "asset_id": "video:313765",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "vessel fire",
+ "title": "shrimp boat fire",
+ "description": "The Coast Guard responded to a fire onboard the fishing vessel Master Ryan 10-miles off the coast of Galveston, Texas, Dec. 6, 2008.\n\nCoast Guard Sector Houston-Galveston received a call from the lift boat A.J. Burios around 9 a.m. reporting the fire and that three people were onboard the shrimp boat.\n\nThe Coast Guard dispatched an MH-65 Dolphin rescue helicopter, a 47-foot motor life boat and the Coast Guard Cutter Manowar to assist.\n\n(Coast Guard video/ Air Station Houston)",
+ "keywords": "CGVI",
+ "date": "2008-12-06T00:00:00-05:00",
+ "date_published": "2013-12-17T01:29:31-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Headquarters",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "081206-G-8744K-001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "",
+  "state_abbreviation": null,
+  "country_abbreviation": null
+ },
+ "page_url": "https://www.dvidshub.net/video/313765/shrimp-boat-fire",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-313765",
+ "status": "new",
+ "harvested_at": "2026-11-06T17:41:01Z",
+ "duration": 185.06,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054384/DOD_101054384.mp4",
+  "width": 640,
+  "height": 480,
+  "bitrate": 3187,
+  "size": 77530544
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  13.95,
+  36.74,
+  55.19,
+  88.12,
+  103.77,
+  110.74,
+  119.65,
+  126.63
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   103.9,
+   119.8
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      103.9,
-      119.8
-    ],
-    "silence_ends": [
-      14.1,
-      110.9,
-      126.8
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-313765.jpg",
-  "sheet_times": [
-    5.77,
-    17.3,
-    28.84,
-    40.37,
-    51.91,
-    63.44,
-    74.98,
-    86.51,
-    98.05,
-    109.58,
-    121.12,
-    132.65,
-    144.19,
-    155.73,
-    167.26,
-    178.8
+  "silence_ends": [
+   14.1,
+   110.9,
+   126.8
   ]
+ },
+ "sheet": "data/candidates/dvids-video-313765.jpg",
+ "sheet_times": [
+  5.77,
+  17.3,
+  28.84,
+  40.37,
+  51.91,
+  63.44,
+  74.98,
+  86.51,
+  98.05,
+  109.58,
+  121.12,
+  132.65,
+  144.19,
+  155.73,
+  167.26,
+  178.8
+ ],
+ "editor_note": "HOLD until about Nov 11: boat fire; ccf-20261107-04 (boat fire, raft) is queued"
 }

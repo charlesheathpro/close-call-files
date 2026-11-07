@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:606261",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard rescues 2 from overturned boat in Albemarle Sound",
-  "description": "Coast Guard Air Station Elizabeth City rescues two people after their 16-foot boat overturned one mile off Reed Point in the Albemarle Sound, North Carolina June 8, 2018.\r\n\r\nThe boaters were safely brought to a nearby awaiting emergency medical services \r\n\r\nU.S. Coast Guard Video courtesy of Coast Guard Air Station Elizabeth City",
-  "keywords": "Air Station Elizabeth City, jayhawker, SAR, rescue",
-  "date": "2018-06-08T00:00:00-04:00",
-  "date_published": "2018-06-08T19:03:23-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard East",
-  "credit": "Petty Officer 1st Class Seth Johnson",
-  "category": "B-Roll",
-  "virin": "180608-G-SQ620-611",
-  "location": {
-    "city": "Elizabeth City",
-    "state": "North Carolina",
-    "country": "United States",
-    "state_abbreviation": "NC",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/606261/coast-guard-rescues-2-overturned-boat-albemarle-sound",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-606261",
-  "status": "new",
-  "harvested_at": "2026-11-06T17:01:00Z",
-  "duration": 77.53,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105721482/DOD_105721482.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 9055,
-    "size": 87843278
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    23.99,
-    37.5,
-    62.5
+ "asset_id": "video:606261",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard rescues 2 from overturned boat in Albemarle Sound",
+ "description": "Coast Guard Air Station Elizabeth City rescues two people after their 16-foot boat overturned one mile off Reed Point in the Albemarle Sound, North Carolina June 8, 2018.\r\n\r\nThe boaters were safely brought to a nearby awaiting emergency medical services \r\n\r\nU.S. Coast Guard Video courtesy of Coast Guard Air Station Elizabeth City",
+ "keywords": "Air Station Elizabeth City, jayhawker, SAR, rescue",
+ "date": "2018-06-08T00:00:00-04:00",
+ "date_published": "2018-06-08T19:03:23-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard East",
+ "credit": "Petty Officer 1st Class Seth Johnson",
+ "category": "B-Roll",
+ "virin": "180608-G-SQ620-611",
+ "location": {
+  "city": "Elizabeth City",
+  "state": "North Carolina",
+  "country": "United States",
+  "state_abbreviation": "NC",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/606261/coast-guard-rescues-2-overturned-boat-albemarle-sound",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-606261",
+ "status": "passed_over",
+ "harvested_at": "2026-11-06T17:01:00Z",
+ "duration": 77.53,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105721482/DOD_105721482.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 9055,
+  "size": 87843278
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  23.99,
+  37.5,
+  62.5
+ ],
+ "drama_score": 91,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 91,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      77.5
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-606261.jpg",
-  "sheet_times": [
-    2.41,
-    7.22,
-    12.04,
-    16.85,
-    21.66,
-    26.48,
-    31.29,
-    36.11,
-    40.92,
-    45.73,
-    50.55,
-    55.36,
-    60.18,
-    64.99,
-    69.8,
-    74.62
+  "silence_ends": [
+   77.5
   ]
+ },
+ "sheet": "data/candidates/dvids-video-606261.jpg",
+ "sheet_times": [
+  2.41,
+  7.22,
+  12.04,
+  16.85,
+  21.66,
+  26.48,
+  31.29,
+  36.11,
+  40.92,
+  45.73,
+  50.55,
+  55.36,
+  60.18,
+  64.99,
+  69.8,
+  74.62
+ ],
+ "pass_reason": "murky door-cam and fisheye cabin"
 }
