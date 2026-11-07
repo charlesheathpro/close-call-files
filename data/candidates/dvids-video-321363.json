@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:321363",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Jetty Rescue",
+  "description": "Crewmembers from Coast Guard Station Fort Pierce, Fla., rescue two people who were stranded in the vicinity of Fort Pierce, Fla., Feb. 9, 2014. U.S. Coast Guard video by Petty Officer 3rd Class Mark Barney.",
+  "keywords": "Fort Pierce, Coast Guard, Florida, rescue",
+  "date": "2014-02-09T00:00:00-05:00",
+  "date_published": "2014-02-10T16:21:11-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "140209-G-ZK759-365",
+  "location": {
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/321363/jetty-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-321363",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:40:52Z",
+  "duration": 106.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101117014/DOD_101117014-854x480-2220k.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 2220,
+    "size": 32389801
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 51,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-321363.jpg",
+  "sheet_times": [
+    7.19,
+    13.56,
+    19.93,
+    26.31,
+    32.68,
+    39.05,
+    45.42,
+    51.79,
+    58.16,
+    64.54,
+    70.91,
+    77.28,
+    83.65,
+    90.02,
+    96.4,
+    102.77
+  ]
+}

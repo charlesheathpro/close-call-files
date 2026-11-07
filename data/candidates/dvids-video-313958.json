@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:313958",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Whale Rescue",
+  "description": "NEW YORK - An entanglement team from the Center for Coastal Studies attempts to free an entangled humpback whale from a lobster pot and netting eight miles east of Sandy Hook, N.J., Feb. 26, 2009. (U.S. Coast Guard video/PA3 Barbara L. Patton)",
+  "keywords": "CGVI",
+  "date": "2009-02-26T00:00:00-05:00",
+  "date_published": "2013-12-17T03:41:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090226-G-1732P-001",
+  "location": {
+    "city": "New York",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313958/whale-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313958",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:39:36Z",
+  "duration": 77.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054631/DOD_101054631-640x480-2879k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2879,
+    "size": 28376164
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 42.96,
+      "e": 43.96,
+      "text": "it right there."
+    },
+    {
+      "s": 43.96,
+      "e": 44.96,
+      "text": "Yep."
+    }
+  ],
+  "scene_cuts": [
+    9.24,
+    36.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313958.jpg",
+  "sheet_times": [
+    2.41,
+    7.23,
+    12.05,
+    16.87,
+    21.68,
+    26.5,
+    31.32,
+    36.14,
+    40.96,
+    45.78,
+    50.6,
+    55.42,
+    60.24,
+    65.05,
+    69.87,
+    74.69
+  ]
+}

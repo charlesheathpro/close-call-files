@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:315714",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "beach rescue",
+  "description": "ASTORIA, Ore. - An MH-60 Jayawk helicopter crew from Air Station Astoria rescues a man from an isolated beach near Seaside, Ore., August 2, 2010. A 47-foot motor lifeboat crew from Station Cape Disappointment also responded to the scene. Coast Guard video by Air Station Astoria.",
+  "keywords": "CGVI",
+  "date": "2010-08-02T00:00:00-04:00",
+  "date_published": "2013-12-19T13:30:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100802-G-6414E-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315714/beach-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315714",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:41:11Z",
+  "duration": 52.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058766/DOD_101058766-720x480-3000k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 23155823
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.03,
+    16.62,
+    35.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      22.2,
+      30.8
+    ],
+    "silence_ends": [
+      5.1,
+      22.9,
+      31.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315714.jpg",
+  "sheet_times": [
+    1.64,
+    4.91,
+    8.19,
+    11.46,
+    14.74,
+    18.01,
+    21.29,
+    24.56,
+    27.83,
+    31.11,
+    34.38,
+    37.66,
+    40.93,
+    44.21,
+    47.48,
+    50.76
+  ]
+}

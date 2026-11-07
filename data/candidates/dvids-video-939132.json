@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:939132",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "storm surge",
+  "title": "KC-135 aircrew return home following Hurricane Helene",
+  "description": "KC-135 Stratotankers land on the flight line at MacDill Air Force Base, Florida, Oct. 3, 2024, following Hurricane Helene. Aircrew returned after being relocated prior to Hurricane Helene, a Category 4 storm, which carved out a devastating path from Florida's Gulf Coast to Tennessee and brought record breaking storm surge to MacDill AFB. (U.S. Air Force photo by Airman 1st Class Alicia Campbell)",
+  "keywords": "MacDill Air Force Base, KC135, 6th Air Refueling Wing, Hurricane Helene, Hurricane",
+  "date": "2024-10-03T00:00:00-04:00",
+  "date_published": "2024-10-04T18:00:21-04:00",
+  "branch": "Air Force",
+  "unit_name": "6th Air Refueling Wing",
+  "credit": "Airman 1st Class Alicia Campbell",
+  "category": "B-Roll",
+  "virin": "241004-F-SI502-1001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/939132/kc-135-aircrew-return-home-following-hurricane-helene",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-939132",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:40:58Z",
+  "duration": 81.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110603751/DOD_110603751-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 73577981
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.33,
+    52.76
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      1.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-939132.jpg",
+  "sheet_times": [
+    2.54,
+    7.61,
+    12.68,
+    17.75,
+    22.82,
+    27.89,
+    32.96,
+    38.03,
+    43.1,
+    48.17,
+    53.24,
+    58.31,
+    63.38,
+    68.45,
+    73.52,
+    78.59
+  ]
+}

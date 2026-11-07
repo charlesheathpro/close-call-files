@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:83577",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Northern Belle Rescue",
+  "description": "B-roll of a Kodiak HC 130 Hercules air crew and MH 60 Jayhawk air crew rescuing four fishermen from a sunken Seattle-based fishing vessel near Northern Belle, 50 miles south of Montaque Island in the Gulf of Alaska. Produced by Petty Officer 1st Class Sara Francis.",
+  "keywords": "Kodiak, air crew, HC 130 Hercules, MH 60 Jayhawk",
+  "date": "2010-04-20T00:00:00-04:00",
+  "date_published": "2010-04-21T06:02:08-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Monica Leftwich",
+  "category": "B-Roll",
+  "virin": "100420-G-6458F-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/83577/northern-belle-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 7.007,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-83577",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:41:45Z",
+  "duration": 62.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1004/DOD_100068673/DOD_100068673.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.01,
+    15.02,
+    54.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.0
+    ],
+    "silence_ends": [
+      5.0,
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-83577.jpg",
+  "sheet_times": [
+    8.73,
+    12.18,
+    15.63,
+    19.08,
+    22.53,
+    25.98,
+    29.43,
+    32.88,
+    36.33,
+    39.78,
+    43.22,
+    46.67,
+    50.12,
+    53.57,
+    57.02,
+    60.47
+  ]
+}

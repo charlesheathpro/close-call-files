@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:315607",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Beach rescue",
+  "description": "CORPUS CHRISTI, Texas - An Air Station Corpus Christi helicopter crew rescue two men whose truck had been swamped by a higher than usual tide near Port Mansfield, Texas, June 29, 2010.  The aircrew located two other stuck vehicles while on the same patrol. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2010-06-30T14:58:14-04:00",
+  "date_published": "2013-12-19T11:58:17-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315607/beach-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-315607",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:41:03Z",
+  "duration": 112.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058571/DOD_101058571-960x540-1627k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1627,
+    "size": 24622209
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    26.79,
+    33.7,
+    93.96,
+    108.14
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315607.jpg",
+  "sheet_times": [
+    3.49,
+    10.47,
+    17.45,
+    24.43,
+    31.41,
+    38.39,
+    45.37,
+    52.35,
+    59.33,
+    66.31,
+    73.29,
+    80.27,
+    87.25,
+    94.23,
+    101.21,
+    108.19
+  ]
+}
