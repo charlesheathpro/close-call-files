@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:316666",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 6",
+  "description": "JACKSONVILLE, Fla. - The Coast Guard rescued 6 people off a disabled sail boat approximately 30-miles east of Ponce de Leon Inlet, Fla. Sunday. \n\nAn HH-60 Jayhawk rescue helicopter air crew from Air Station Clearwater, Fla., rescued 6 people from the sail boat Karma shortly after 2 p.m. Sunday 30-miles east of Ponce de Leon Inlet after it became disabled due to heavy weather. \nU.S. Coast Guard video by Air Station Clearwater.",
+  "keywords": "CGVI",
+  "date": "2010-12-26T00:00:00-05:00",
+  "date_published": "2013-12-20T13:49:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101226-G-1239S-001",
+  "location": {
+    "city": "Jacksonville",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316666/coast-guard-rescues-6",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316666",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:52:22Z",
+  "duration": 167.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060753/DOD_101060753-640x480-529k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 529,
+    "size": 13369948
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.07,
+    162.43
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      162.5
+    ],
+    "silence_ends": [
+      5.1,
+      167.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316666.jpg",
+  "sheet_times": [
+    5.22,
+    15.66,
+    26.11,
+    36.55,
+    46.99,
+    57.43,
+    67.88,
+    78.32,
+    88.76,
+    99.2,
+    109.64,
+    120.09,
+    130.53,
+    140.97,
+    151.41,
+    161.86
+  ]
+}

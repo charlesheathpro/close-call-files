@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:316767",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue Slate",
+  "description": "ATLANTIC OCEAN - A Coast Guard MH-60 Jayhawk helicopter rescue crew prepares to medevac a 59-year-old woman from the cruise ship Explorer of the Seas 230 miles east of Cape Henry, Va, March 10, 2011. Coast Guard Air Station Elizabeth City, N.C. responded by sending the helicopter crew and a C-130 aircrew. U.S. Coast Guard video by Petty Officer 2nd Class Jason Meredith.",
+  "keywords": "CGVI",
+  "date": "2011-03-10T00:00:00-05:00",
+  "date_published": "2013-12-20T15:12:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110310-G-8834M-001",
+  "location": {
+    "city": "Atlantic Ocean",
+    "state": "USNORTHCOM",
+    "country": "At Sea",
+    "state_abbreviation": "USNORTHCOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/316767/coast-guard-rescue-slate",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316767",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:51:31Z",
+  "duration": 47.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061012/DOD_101061012.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 4837,
+    "size": 37054742
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    15.02,
+    18.12,
+    27.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316767.jpg",
+  "sheet_times": [
+    1.47,
+    4.42,
+    7.37,
+    10.32,
+    13.27,
+    16.22,
+    19.17,
+    22.12,
+    25.07,
+    28.02,
+    30.97,
+    33.92,
+    36.87,
+    39.82,
+    42.77,
+    45.72
+  ]
+}

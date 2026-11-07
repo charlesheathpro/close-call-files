@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:148874",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Tillamook Woods Rescue",
+  "description": "The Coast Guard hoists two injured men from the forest approximately ten miles east of Tillamook, Ore., July 9, 2012. The rescue required two aviation survival technicians and hoists were performed from an approximate 200-foot hover. U.S. Coast Guard video by Sector Columbia River",
+  "keywords": "Columbia River, Tilamook Woods, AST Hoist",
+  "date": "2012-07-09T00:00:00-04:00",
+  "date_published": "2012-07-11T11:32:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "120709-G-LS819-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/148874/tillamook-woods-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-148874",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:49:56Z",
+  "duration": 48.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1207/DOD_100439042/DOD_100439042.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8707,
+    "size": 52845823
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    33.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      48.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-148874.jpg",
+  "sheet_times": [
+    5.38,
+    8.13,
+    10.89,
+    13.64,
+    16.39,
+    19.15,
+    21.9,
+    24.65,
+    27.41,
+    30.16,
+    32.91,
+    35.67,
+    38.42,
+    41.17,
+    43.92,
+    46.68
+  ]
+}

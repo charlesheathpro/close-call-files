@@ -1,0 +1,137 @@
+{
+  "asset_id": "video:315531",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Cascade Head Rescue",
+  "description": "ASTORIA, Ore. - A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Astoria, Ore., rescues a 16-year-old girl from a cliff at Cascade Head near Tillamook Bay, Ore., June 16, 2010.\n\nThe same crew rescued a member of the Cannon Beach, Ore., Fire/Rescue Team from a rip current less than an hour before responding to this case.\n\nVideo by Coast Guard Air Station Astoria",
+  "keywords": "CGVI",
+  "date": "2010-06-16T00:00:00-04:00",
+  "date_published": "2013-12-19T11:16:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100616-G-6414E-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315531/cascade-head-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315531",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:49:50Z",
+  "duration": 78.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058465/DOD_101058465-720x480-3000k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 31540240
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 15.31,
+      "e": 17.31,
+      "text": "Hey, it's just a great"
+    },
+    {
+      "s": 17.31,
+      "e": 64.25,
+      "text": "It's great. It's just a great, you know big deal. Yep. Holding. Alright, let's get me come forward and left"
+    },
+    {
+      "s": 65.25,
+      "e": 67.25,
+      "text": "All the hooks up all the way"
+    },
+    {
+      "s": 67.25,
+      "e": 69.25,
+      "text": "I know the brain's hooked up again"
+    },
+    {
+      "s": 69.25,
+      "e": 71.25,
+      "text": "Hold right here. The quarters are laid up"
+    },
+    {
+      "s": 71.25,
+      "e": 75.25,
+      "text": "Clear the rock. Clear the rock. Okay. Clear forward and left"
+    }
+  ],
+  "scene_cuts": [
+    5.03
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.3,
+      9.5,
+      11.0,
+      18.0,
+      19.9,
+      25.1,
+      26.7,
+      28.1,
+      33.9,
+      39.1,
+      41.3,
+      42.8,
+      47.3,
+      49.3,
+      54.8,
+      59.3,
+      74.6
+    ],
+    "silence_ends": [
+      5.1,
+      6.2,
+      10.2,
+      12.3,
+      19.4,
+      20.7,
+      26.0,
+      27.5,
+      28.9,
+      35.9,
+      40.3,
+      41.9,
+      46.5,
+      48.2,
+      51.3,
+      55.8,
+      60.1,
+      78.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315531.jpg",
+  "sheet_times": [
+    2.44,
+    7.32,
+    12.2,
+    17.08,
+    21.96,
+    26.84,
+    31.72,
+    36.6,
+    41.48,
+    46.36,
+    51.24,
+    56.12,
+    61.0,
+    65.88,
+    70.76,
+    75.64
+  ]
+}

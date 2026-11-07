@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:63512",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Good Samaritan Rescue 3",
+  "description": "B-Roll of a Coast Guard rescue in Fortescue Inlet, New Jersey.",
+  "keywords": null,
+  "date": "2009-07-03T00:00:00-04:00",
+  "date_published": "2009-07-03T15:30:58-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Fortescue Inlet",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/63512/good-samaritan-rescue-3",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-63512",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:51:12Z",
+  "duration": 54.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0907/DOD_100047266/DOD_100047266.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.44
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      18.0
+    ],
+    "silence_ends": [
+      3.3,
+      54.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-63512.jpg",
+  "sheet_times": [
+    1.69,
+    5.07,
+    8.46,
+    11.84,
+    15.22,
+    18.61,
+    21.99,
+    25.37,
+    28.75,
+    32.14,
+    35.52,
+    38.9,
+    42.28,
+    45.67,
+    49.05,
+    52.43
+  ]
+}

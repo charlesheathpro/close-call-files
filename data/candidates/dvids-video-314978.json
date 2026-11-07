@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314978",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Rescue Swimmer B-roll",
+  "description": "MIAMI -- B-roll footage of a Coast Guard rescue swimmer jumping out of an MH-65 Dolphin helicopter from Air Station Miami Feb. 8, 2010. U.S. Coast Guard video by Petty Officer 3rd Class Nick Ameen.",
+  "keywords": "CGVI",
+  "date": "2010-02-08T00:00:00-05:00",
+  "date_published": "2013-12-17T18:26:19-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Nick Ameen",
+  "category": "B-Roll",
+  "virin": "100208-G-2184A-001",
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314978/rescue-swimmer-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 2.002,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314978",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:52:33Z",
+  "duration": 130.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056213/DOD_101056213-720x480-2412k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2412,
+    "size": 41835437
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    52.02,
+    128.03
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      128.2
+    ],
+    "silence_ends": [
+      2.1,
+      130.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314978.jpg",
+  "sheet_times": [
+    5.99,
+    13.97,
+    21.95,
+    29.93,
+    37.91,
+    45.89,
+    53.87,
+    61.85,
+    69.83,
+    77.81,
+    85.78,
+    93.76,
+    101.74,
+    109.72,
+    117.7,
+    125.68
+  ]
+}

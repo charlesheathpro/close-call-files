@@ -1,0 +1,116 @@
+{
+  "asset_id": "video:314432",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Air Station NOLA rescue",
+  "description": "The Coast Guard rescued a man who was left stranded after his vessel capsized in Lake Pontchartrain, La. Monday, Aug. 10, 2009.",
+  "keywords": "CGVI",
+  "date": "2009-08-10T00:00:00-04:00",
+  "date_published": "2013-12-17T09:26:56-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/314432/air-station-nola-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314432",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:51:47Z",
+  "duration": 86.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055175/DOD_101055175-640x480-598k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 598,
+    "size": 7660817
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 23.86,
+      "e": 32.18,
+      "text": "Now, where is that the rail loaded cabin?"
+    },
+    {
+      "s": 32.18,
+      "e": 36.54,
+      "text": "Airwood survivor."
+    },
+    {
+      "s": 36.54,
+      "e": 51.75,
+      "text": "First survivor, halfway out."
+    },
+    {
+      "s": 51.75,
+      "e": 57.48,
+      "text": "All right, good."
+    },
+    {
+      "s": 57.48,
+      "e": 70.3,
+      "text": "For survivor in."
+    },
+    {
+      "s": 70.3,
+      "e": 73.3,
+      "text": "Hey Tony, get on the map, check the nearest airport."
+    },
+    {
+      "s": 73.3,
+      "e": 74.2,
+      "text": "See where that is."
+    },
+    {
+      "s": 74.2,
+      "e": 75.5,
+      "text": "Maybe we can drop the bomb there."
+    },
+    {
+      "s": 75.5,
+      "e": 86.55,
+      "text": "Are you an aircraft?"
+    }
+  ],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314432.jpg",
+  "sheet_times": [
+    2.69,
+    8.06,
+    13.43,
+    18.8,
+    24.17,
+    29.54,
+    34.92,
+    40.29,
+    45.66,
+    51.03,
+    56.4,
+    61.77,
+    67.15,
+    72.52,
+    77.89,
+    83.26
+  ]
+}

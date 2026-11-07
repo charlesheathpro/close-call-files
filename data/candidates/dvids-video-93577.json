@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:93577",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Sperm Whale Calf Rescued",
+  "description": "B-roll of an injured 9-foot sperm whale calf in distress at the Miami Beach Marina Aug. 24, 2010. The Coast Guard established a safety zone, issued an urgent marine information broadcast, and provided transports to National Oceanic and Atmospheric Administration scientists. U.S. Coast Guard video by Petty Officer 2nd Class Nick Ameen.",
+  "keywords": "Miami, whales, Nick Ameen, Coast Guard, NOAA",
+  "date": "2010-08-24T00:00:00-04:00",
+  "date_published": "2010-08-25T05:04:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100824-G-2184A-001",
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/93577/sperm-whale-calf-rescued",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-93577",
+  "status": "new",
+  "harvested_at": "2026-11-07T08:50:09Z",
+  "duration": 57.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1008/DOD_100080509/DOD_100080509.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.84,
+      "e": 6.68,
+      "text": "Never."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    10.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-93577.jpg",
+  "sheet_times": [
+    5.65,
+    8.93,
+    12.21,
+    15.49,
+    18.78,
+    22.06,
+    25.34,
+    28.62,
+    31.91,
+    35.19,
+    38.47,
+    41.75,
+    45.04,
+    48.32,
+    51.6,
+    54.88
+  ]
+}
