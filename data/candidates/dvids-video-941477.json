@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-941477",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:18:09Z",
   "duration": 89.69,
   "source_file": {
@@ -68,5 +68,6 @@
     75.25,
     80.83,
     86.4
-  ]
+  ],
+  "pass_reason": "black-and-white IR then 35 s of dark cabin; the cat is never visible; routine basket hoist (like dropped 06-21)"
 }

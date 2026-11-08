@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-542910",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:22:12Z",
   "duration": 147.08,
   "source_file": {
@@ -70,5 +70,6 @@
     123.68,
     132.84,
     142.0
-  ]
+  ],
+  "pass_reason": "medevac for an injury"
 }
