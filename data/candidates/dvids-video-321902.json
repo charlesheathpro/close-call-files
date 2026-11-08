@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:321902",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists man from charter boat in Gulf of Mexico",
+  "description": "The Coast Guard rescued a 55-year-old man Saturday, Feb. 15, 2014, who was suffering from chest pains while out on a charter boat approximately 22 miles northeast of Port Mansfield, Texas. At approximately 11:20 a.m., watchstanders at Coast Guard Station South Padre Island received a VHF radio call from the captain of the 55-foot charter boat, the Osprey II, requesting assistance. U.S. Coast Guard video by Air Station Corpus Christi. Available in high definition.",
+  "keywords": "hoist, medevac, rescue, USCG",
+  "date": "2014-02-15T00:00:00-05:00",
+  "date_published": "2014-02-18T19:06:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "140215-G-XX000-001",
+  "location": {
+    "city": "Port Mansfield",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/321902/coast-guard-hoists-man-charter-boat-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-321902",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:49:31Z",
+  "duration": 100.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101122904/DOD_101122904.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5996,
+    "size": 77404916
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    5.97,
+    13.18,
+    24.09,
+    43.44,
+    77.38
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      100.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-321902.jpg",
+  "sheet_times": [
+    3.11,
+    9.34,
+    15.56,
+    21.79,
+    28.01,
+    34.24,
+    40.46,
+    46.69,
+    52.91,
+    59.14,
+    65.36,
+    71.58,
+    77.81,
+    84.03,
+    90.26,
+    96.48
+  ]
+}

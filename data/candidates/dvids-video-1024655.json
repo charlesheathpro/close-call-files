@@ -1,10 +1,8 @@
 {
-  "id": "dvids-video-1024655",
   "asset_id": "video:1024655",
-  "status": "passed_over",
+  "source": "dvids",
   "lane": "rescue",
-  "matched_query": "hoist rescue",
-  "harvested_at": "2026-10-27T02:50:11Z",
+  "matched_query": "hoist",
   "title": "Coast Guard hoists injured man from Hammond Marina jetty",
   "description": "A MH-60 Jayhawk helicopter aircrew from U.S. Coast Guard Air Station Astoria conducts a hoist at Hammond Marina in Astoria, Oregon, Sept. 26, 2026. The U.S. Coast Guard hoisted the man after he was pinned under a rock. (Video courtesy U.S. Coast Guard Air Station Astoria)",
   "keywords": "Search and Rescue (SAR), medevac",
@@ -23,8 +21,14 @@
     "country_abbreviation": "US"
   },
   "page_url": "https://www.dvidshub.net/video/1024655/coast-guard-hoists-injured-man-hammond-marina-jetty",
-  "duration": 73.01,
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1024655",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:49:43Z",
+  "duration": 73.01,
   "source_file": {
     "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_112012306/DOD_112012306-1920x1080-9000k.mp4",
     "width": 1920,
@@ -32,12 +36,12 @@
     "bitrate": 0,
     "size": 76459663
   },
-  "aspect_ratio": "4:3",
   "transcript_source": "whisper",
   "transcript": [],
   "scene_cuts": [
     17.05
   ],
+  "drama_score": 72,
   "audio": {
     "silence_starts": [
       17.1,
@@ -74,6 +78,5 @@
     61.18,
     65.71,
     70.24
-  ],
-  "pass_reason": "litter patient hoist over calm water; injury focus"
+  ]
 }

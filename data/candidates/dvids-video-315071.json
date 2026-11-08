@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:315071",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Air Station New Orleans hoists survivor from assist vessel",
+  "description": "NEW ORLEANS - A Coast Guard MH-65C rescue helicopter and crew from Coast Guard Air Station New Orleans hoists a survivor from the mobile offshore drilling unit (MODU) Deepwater Horizon April 21, 2010. Multiple Coast Guard helicopters, planes and cutters are responding to rescue 126 people after the Coast Guard eighth district command center received a report that the Deepwater Horizon had experienced an explosion at approximately 10 p.m. April 20, 2010. U.S. Coast Guard video by Coast Guard Air Station New Orleans.",
+  "keywords": "CGVI",
+  "date": "2010-04-21T00:00:00-04:00",
+  "date_published": "2013-12-17T19:36:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315071/air-station-new-orleans-hoists-survivor-assist-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-315071",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:49:09Z",
+  "duration": 30.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056310/DOD_101056310.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 3118,
+    "size": 18159004
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.83,
+      "e": 12.7,
+      "text": "One, two, five..."
+    },
+    {
+      "s": 12.7,
+      "e": 17.57,
+      "text": "Is that better?"
+    },
+    {
+      "s": 17.57,
+      "e": 21.85,
+      "text": "Eighty-four, eight?"
+    },
+    {
+      "s": 21.85,
+      "e": 22.81,
+      "text": "Not bad?"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 42,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315071.jpg",
+  "sheet_times": [
+    0.92,
+    2.77,
+    4.62,
+    6.47,
+    8.32,
+    10.17,
+    12.02,
+    13.87,
+    15.72,
+    17.57,
+    19.42,
+    21.27,
+    23.12,
+    24.97,
+    26.82,
+    28.67
+  ]
+}

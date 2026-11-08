@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:445650",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Injured Hiker Near Cascade Head, Ore.",
+  "description": "A Coast Guard aircrew from Air Facility Newport, Ore., safely hoists an injured hiker at Roads End State Park near Cascade Head, Ore., Jan. 9, 2016. The aircrew transferred the man to EMS at Chinook Winds Casino. U.S. Coast Guard video courtesy of Air Facility Newport, Ore.",
+  "keywords": "hoist, Coast Guard rescue, hiker, Newport, Coast Guard, SAR, Oregon",
+  "date": "2016-01-09T00:00:00-05:00",
+  "date_published": "2016-01-09T22:08:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class George Degener",
+  "category": "B-Roll",
+  "virin": "160109-G-ZZ999-001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/445650/coast-guard-hoists-injured-hiker-near-cascade-head-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-445650",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:49:18Z",
+  "duration": 167.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_102980694/DOD_102980694.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8825,
+    "size": 187295648
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    49.32,
+    150.08,
+    162.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      167.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-445650.jpg",
+  "sheet_times": [
+    5.21,
+    15.64,
+    26.06,
+    36.48,
+    46.91,
+    57.33,
+    67.75,
+    78.18,
+    88.6,
+    99.02,
+    109.45,
+    119.87,
+    130.29,
+    140.72,
+    151.14,
+    161.56
+  ]
+}
