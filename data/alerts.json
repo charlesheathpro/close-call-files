@@ -133,5 +133,25 @@
     "at": "2026-11-07T17:51:57Z",
     "kind": "upload_limit",
     "message": "YouTube said uploadLimitExceeded after 0 uploads this run"
+  },
+  {
+    "at": "2026-11-08T08:53:50Z",
+    "kind": "upload_error",
+    "message": "ccf-20261107-08: 504 Server Error: Gateway Time-out for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261107-08-r1.mp4"
+  },
+  {
+    "at": "2026-11-08T08:54:01Z",
+    "kind": "upload_error",
+    "message": "ccf-20261107-61: 504 Server Error: Gateway Time-out for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261107-61-r2.mp4"
+  },
+  {
+    "at": "2026-11-08T08:54:12Z",
+    "kind": "upload_error",
+    "message": "ccf-20261107-04: 504 Server Error: Gateway Time-out for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261107-04-r2.mp4"
+  },
+  {
+    "at": "2026-11-08T08:54:23Z",
+    "kind": "upload_error",
+    "message": "ccf-20261107-62: 504 Server Error: Gateway Time-out for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261107-62-r2.mp4"
   }
 ]
