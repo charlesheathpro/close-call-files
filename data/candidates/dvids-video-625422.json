@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:625422",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "Air Station Elizabeth City responds to Hurricane Florence",
+  "description": "B-roll footage of Coast Guard Air Station Elizabeth City, North Carolina, launching for a search and rescue case, Sept. 14, 2018. The aircrew was responding to a case during Hurricane Florence. \r\n(U.S. Coast Guard video by Petty Officer 3rd Class Shannon Kearney)",
+  "keywords": "Air Station Elizabeth City, ELIZABETH CITY, hurricane response, district 5, fifth district, coastguard, Hurricane Florence, SAR, search and rescue, North Carolina, USCG, Hurricane, U.S., CG",
+  "date": "2018-09-14T00:00:00-04:00",
+  "date_published": "2018-09-14T14:29:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Shannon Shepard",
+  "category": "B-Roll",
+  "virin": "180914-G-JW383-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625422/air-station-elizabeth-city-responds-hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625422",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:25:38Z",
+  "duration": 69.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106022337/DOD_106022337.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9705,
+    "size": 85920936
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.04,
+      "e": 4.04,
+      "text": "Does that include the blood muscle?"
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    9.21,
+    14.51,
+    20.72,
+    40.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625422.jpg",
+  "sheet_times": [
+    2.17,
+    6.5,
+    10.84,
+    15.17,
+    19.5,
+    23.84,
+    28.17,
+    32.51,
+    36.84,
+    41.17,
+    45.51,
+    49.84,
+    54.18,
+    58.51,
+    62.84,
+    67.18
+  ]
+}

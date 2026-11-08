@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:628147",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "Coast Guard North Carolina Hurricane Florence Response",
+  "description": "Sector North Carolina Coast Guard coordinated with federal, state and local agencies to respond to flooding from Hurricane Florence.\r\n\r\nSector North Carolina was responsible for the rescues of 258 people and 205 pets via shallow-water response boat teams since Hurricane Florence made landfall Sept. 12, 2018.\r\n\r\nCoast Guard Video by Petty Officer 3rd Class Jim Connor.",
+  "keywords": "FEMA, florence, hurricaneflorence, Hurricane Florence, uscgane",
+  "date": "2018-09-22T00:00:00-04:00",
+  "date_published": "2018-09-22T10:33:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class James Connor",
+  "category": "Package",
+  "virin": "180922-G-SY296-2001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/628147/coast-guard-north-carolina-hurricane-florence-response",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-628147",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:25:47Z",
+  "duration": 117.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106059739/DOD_106059739.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7802,
+    "size": 116044460
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.34,
+    10.64,
+    16.05,
+    19.52,
+    25.63,
+    31.16,
+    34.9,
+    40.87,
+    48.08,
+    53.59,
+    61.09,
+    66.7,
+    76.64,
+    82.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      104.3
+    ],
+    "silence_ends": [
+      4.0,
+      117.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-628147.jpg",
+  "sheet_times": [
+    3.64,
+    10.93,
+    18.22,
+    25.51,
+    32.8,
+    40.09,
+    47.38,
+    54.67,
+    61.95,
+    69.24,
+    76.53,
+    83.82,
+    91.11,
+    98.4,
+    105.69,
+    112.98
+  ]
+}

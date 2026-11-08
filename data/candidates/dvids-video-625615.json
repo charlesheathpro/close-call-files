@@ -1,0 +1,100 @@
+{
+  "asset_id": "video:625615",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "South Carolina National Guard responds to Hurricane Florence",
+  "description": "Members of the South Carolina Army National Guard's 1053rd Transportation Company position unit vehicles in Manning, S.C., after refueling and picking up life jackets in preparation for potential high-water rescue missions in response to Hurricane Florence, Sept. 14, 2018. (U.S. Army National Guard video by South Carolina Army National Guard)",
+  "keywords": "florence, South Carolina National Guard, Hart, Hurricane Florence, tropicalstormflorence, National Guard",
+  "date": "2018-09-15T00:00:00-04:00",
+  "date_published": "2018-09-15T08:09:26-04:00",
+  "branch": "Joint",
+  "unit_name": "National Guard Bureau",
+  "credit": "Tech. Sgt. Karl Schwach",
+  "category": "B-Roll",
+  "virin": "180915-Z-OI910-001",
+  "location": {
+    "city": "Manning",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625615/south-carolina-national-guard-responds-hurricane-florence",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625615",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:25:42Z",
+  "duration": 21.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106025248/DOD_106025248.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10022,
+    "size": 27052797
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.52,
+      "e": 9.52,
+      "text": "We were activated on Sunday to provide traffic control points and support to the Highway Patrol and local law enforcement during the initial phase of the operation"
+    },
+    {
+      "s": 10.52,
+      "e": 12.52,
+      "text": "Hurricane support for Hurricane Florence."
+    },
+    {
+      "s": 12.52,
+      "e": 18.52,
+      "text": "As the hurricane comes through, we're providing high-water rescue assets and personnel to go help people."
+    },
+    {
+      "s": 18.52,
+      "e": 20.52,
+      "text": "As the hurricane comes through, anybody needs help."
+    }
+  ],
+  "scene_cuts": [
+    1.67,
+    3.8,
+    9.94,
+    11.44,
+    12.95,
+    14.45,
+    16.08,
+    19.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      9.7
+    ],
+    "silence_ends": [
+      10.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-625615.jpg",
+  "sheet_times": [
+    0.65,
+    1.95,
+    3.25,
+    4.55,
+    5.85,
+    7.15,
+    8.45,
+    9.75,
+    11.05,
+    12.34,
+    13.64,
+    14.94,
+    16.24,
+    17.54,
+    18.84,
+    20.14
+  ]
+}
