@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-08T02:39:59Z",
+  "at": "2026-11-08T10:03:49Z",
   "mature": 78,
   "features": [
     {
@@ -25,7 +25,7 @@
     {
       "feature": "hook names a child",
       "n": 10,
-      "effect": 0.37
+      "effect": 0.38
     },
     {
       "feature": "story: elderly sailor and dog, disabled sailboat far offshore",
@@ -43,13 +43,13 @@
       "effect": 0.26
     },
     {
-      "feature": "music: rescue",
-      "n": 12,
-      "effect": 0.21
-    },
-    {
       "feature": "story: dog cliff fall, basket hoist",
       "n": 1,
+      "effect": 0.22
+    },
+    {
+      "feature": "music: rescue",
+      "n": 12,
       "effect": 0.21
     },
     {
@@ -108,11 +108,6 @@
       "effect": 0.12
     },
     {
-      "feature": "story: mountain hoist",
-      "n": 2,
-      "effect": 0.12
-    },
-    {
       "feature": "story: trapped dog",
       "n": 1,
       "effect": 0.11
@@ -120,6 +115,11 @@
     {
       "feature": "story: flood hoist",
       "n": 1,
+      "effect": 0.1
+    },
+    {
+      "feature": "story: mountain hoist",
+      "n": 2,
       "effect": 0.1
     },
     {
@@ -218,8 +218,8 @@
       "effect": 0.03
     },
     {
-      "feature": "music: mountain",
-      "n": 8,
+      "feature": "flood or hurricane story",
+      "n": 20,
       "effect": 0.02
     },
     {
@@ -228,8 +228,8 @@
       "effect": 0.02
     },
     {
-      "feature": "flood or hurricane story",
-      "n": 20,
+      "feature": "music: mountain",
+      "n": 8,
       "effect": 0.01
     },
     {
@@ -288,13 +288,13 @@
       "effect": -0.01
     },
     {
-      "feature": "lane: rescue",
-      "n": 59,
-      "effect": -0.03
-    },
-    {
       "feature": "story: aerial firefighting",
       "n": 1,
+      "effect": -0.02
+    },
+    {
+      "feature": "lane: rescue",
+      "n": 59,
       "effect": -0.03
     },
     {
@@ -383,11 +383,6 @@
       "effect": -0.12
     },
     {
-      "feature": "length 30 to 45 s",
-      "n": 36,
-      "effect": -0.13
-    },
-    {
       "feature": "story: crew capsule splashdown",
       "n": 1,
       "effect": -0.13
@@ -395,6 +390,11 @@
     {
       "feature": "hook has a number",
       "n": 54,
+      "effect": -0.14
+    },
+    {
+      "feature": "length 30 to 45 s",
+      "n": 36,
       "effect": -0.14
     },
     {
@@ -482,16 +482,16 @@
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 8489.0,
+      "views": 8557.0,
       "ret": 96.76,
-      "score": 1.899
+      "score": 1.901
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
-      "views": 9441.0,
+      "views": 9442.0,
       "ret": 95.06,
-      "score": 1.8
+      "score": 1.801
     },
     {
       "short_id": "ccf-20261028-08",
@@ -503,16 +503,16 @@
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 20504.0,
+      "views": 20614.0,
       "ret": 78.93,
-      "score": 1.735
+      "score": 1.738
     },
     {
       "short_id": "ccf-20261102-10",
       "title": "Adrift 120 miles out with his dog",
-      "views": 3182.0,
+      "views": 3196.0,
       "ret": 96.27,
-      "score": 1.233
+      "score": 1.236
     }
   ],
   "bottom": [
@@ -521,35 +521,35 @@
       "title": "Sailboat sinking 25 miles off Michigan",
       "views": 303.0,
       "ret": 62.85000000000001,
-      "score": -0.906
+      "score": -0.904
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 63.75999999999999,
-      "score": -1.249
+      "score": -1.248
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
       "views": 285.0,
       "ret": 42.27,
-      "score": -1.476
+      "score": -1.475
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 62.16,
-      "score": -2.073
+      "score": -2.071
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -2.342
+      "score": -2.339
     }
   ],
   "query_weights": {
@@ -558,7 +558,7 @@
     "rescues dog": 0.98,
     "rescue": 0.97,
     "rooftop rescue": 0.98,
-    "Hurricane Helene rescue": 1.02,
+    "Hurricane Helene rescue": 1.03,
     "Hurricane Milton rescue": 1.0,
     "cliff rescue": 0.91,
     "Coast Guard rescue": 1.14,
@@ -587,7 +587,7 @@
     "hospital evacuation": 1.06,
     "MH-60 Jayhawk rescue": 1.0,
     "Air Station Port Angeles rescue": 1.33,
-    "mountain rescue": 1.02,
+    "mountain rescue": 1.0,
     "rescue swimmer": 0.85,
     "parachute rescue": 1.08,
     "hot fire test": 1.18,
@@ -668,6 +668,9 @@
       "notes": "Good number, weak picture: for most of the runtime the raft is a speck on calm open ocean or the frame is the helicopter sponson; survivors smile in the basket. Calm routine hoist, no danger visible, and the source has no closer raft footage to fix it with. Dropped."
     }
   ],
-  "config_changed_at": "2026-11-07T09:50:19Z",
-  "changed": []
+  "config_changed_at": "2026-11-08T10:03:49Z",
+  "changed": [
+    "lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.37, 'aviation_naval': 0.53, 'hazards': 0.1}",
+    "query weights for 47 searches"
+  ]
 }
