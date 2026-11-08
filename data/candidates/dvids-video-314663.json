@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314663",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:19:47Z",
   "duration": 87.05,
   "source_file": {
@@ -70,5 +70,6 @@
     73.03,
     78.44,
     83.85
-  ]
+  ],
+  "pass_reason": "Only shows the men arriving at the air station; no rescue on screen."
 }

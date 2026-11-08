@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-474996",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:21:47Z",
   "duration": 48.67,
   "source_file": {
@@ -68,5 +68,6 @@
     40.64,
     43.65,
     46.66
-  ]
+  ],
+  "pass_reason": "A search with no survivors found in the release; no resolution."
 }

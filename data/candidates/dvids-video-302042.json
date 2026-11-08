@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-302042",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:58:14Z",
   "duration": 26.24,
   "source_file": {
@@ -69,5 +69,6 @@
     22.34,
     23.7,
     25.06
-  ]
+  ],
+  "pass_reason": "Only 10 s of usable day footage (sailboat in breakers), rest is dark night; boat aground in surf ran Nov 5 and Nov 7."
 }
