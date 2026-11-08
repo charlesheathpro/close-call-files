@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:315798",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Air-Station-Clearwater-basket-hoist",
+  "description": "CLEARWATER, Fla. - Crewmembers from Coast Guard Air Station Clearwater rescued an injured 64-year-old woman and her 49-year-old friend from their disabled 65-foot MacGregor sailboat approximately 198 miles West of St. Petersburg, Fla., Sept. 1, 2010. This was Petty Officer 3rd Class Jacob Warner's first rescue as an aviation survival technician. U.S. Coast Guard video by Air Station Clearwater",
+  "keywords": "CGVI",
+  "date": "2010-09-01T19:38:20-04:00",
+  "date_published": "2013-12-19T14:35:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315798/air-station-clearwater-basket-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315798",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:39:45Z",
+  "duration": 140.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058892/DOD_101058892.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3006,
+    "size": 49996987
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    95.3,
+    134.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      135.1
+    ],
+    "silence_ends": [
+      5.1,
+      140.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315798.jpg",
+  "sheet_times": [
+    4.36,
+    13.08,
+    21.8,
+    30.52,
+    39.24,
+    47.96,
+    56.68,
+    65.4,
+    74.12,
+    82.84,
+    91.56,
+    100.28,
+    109.0,
+    117.72,
+    126.44,
+    135.16
+  ]
+}

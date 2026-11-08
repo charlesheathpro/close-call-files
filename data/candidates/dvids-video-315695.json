@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:315695",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "100725-G-9679C-PA-Hoist",
+  "description": "SEATTLE - Crewmembers of a Coast Guard MH-65 Dolphin helicopter hoist the six person crew of the recreational vessel Honey Bee in the Juan De Fuca Strait, Wash., Sunday, July 25, 2010, after it became grounded. All six crewmembers were transported to Bellingham by a Coast Guard Station Bellingham response boat with no reported injuries. U.S. Coast Guard video by Coast Guard Station Bellingham.",
+  "keywords": "CGVI",
+  "date": "2010-07-26T13:22:56-04:00",
+  "date_published": "2013-12-19T13:14:38-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315695/100725-g-9679c-pa-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-315695",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:40:10Z",
+  "duration": 99.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058741/DOD_101058741-720x480-2083k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2083,
+    "size": 26369034
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 56.18,
+      "e": 61.18,
+      "text": "and transferring them over to the tow boat or tow line US boat."
+    },
+    {
+      "s": 61.18,
+      "e": 91.51,
+      "text": "They put 40 angels to the 2-1 over."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    77.51,
+    94.49
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      95.2
+    ],
+    "silence_ends": [
+      15.3,
+      99.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315695.jpg",
+  "sheet_times": [
+    3.1,
+    9.29,
+    15.49,
+    21.68,
+    27.88,
+    34.07,
+    40.27,
+    46.47,
+    52.66,
+    58.86,
+    65.05,
+    71.25,
+    77.44,
+    83.64,
+    89.83,
+    96.03
+  ]
+}

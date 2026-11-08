@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:77414",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Two Boaters to Safety",
+  "description": "B-roll of the Coast Guard rescuing two stranded boaters by hoisting them to safety. Scenes include an aerial shot of the boaters from the helicopter. Video by Air Station San Francisco.",
+  "keywords": "Coast Guard rescue",
+  "date": "2010-01-19T00:00:00-05:00",
+  "date_published": "2010-01-19T23:21:20-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/77414/coast-guard-hoists-two-boaters-safety",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.9039,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-77414",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:41:33Z",
+  "duration": 32.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1001/DOD_100062098/DOD_100062098.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.9,
+    20.42
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-77414.jpg",
+  "sheet_times": [
+    4.77,
+    6.51,
+    8.25,
+    9.99,
+    11.72,
+    13.46,
+    15.2,
+    16.94,
+    18.67,
+    20.41,
+    22.15,
+    23.89,
+    25.63,
+    27.36,
+    29.1,
+    30.84
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:314171",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Medevac from Horizon Tiger Hoist Camera",
+  "description": "B-roll of the Coast Guard participating in a medevac operation from Horizon Tiger",
+  "keywords": "CGVI",
+  "date": "2009-04-23T00:00:00-04:00",
+  "date_published": "2013-12-17T06:47:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/314171/medevac-horizon-tiger-hoist-camera",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314171",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:40:33Z",
+  "duration": 116.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054851/DOD_101054851.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 4592,
+    "size": 68934191
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.37,
+      "e": 1.37,
+      "text": "Easy Ford."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-314171.jpg",
+  "sheet_times": [
+    3.62,
+    10.85,
+    18.08,
+    25.32,
+    32.55,
+    39.79,
+    47.02,
+    54.25,
+    61.49,
+    68.72,
+    75.95,
+    83.19,
+    90.42,
+    97.65,
+    104.89,
+    112.12
+  ]
+}

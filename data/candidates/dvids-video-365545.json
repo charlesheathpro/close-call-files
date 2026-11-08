@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:365545",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists at Whiskeytown Lake",
+  "description": "A helicopter from Coast Guard Sector Humboldt Bay hoists with a Coast Guard Auxiliary vessel at Whiskeytown Lake.",
+  "keywords": "Auxiliary, hoisting, Humboldt, helicopter, Coast Guard",
+  "date": "2014-09-23T00:00:00-04:00",
+  "date_published": "2014-10-09T12:49:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140923-A-AB123-001",
+  "location": {
+    "city": "Whiskeytown",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/365545/coast-guard-hoists-whiskeytown-lake",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-365545",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:40:22Z",
+  "duration": 231.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1410/DOD_102025579/DOD_102025579-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6275,
+    "size": 186297606
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.22,
+    39.67,
+    50.52,
+    108.14,
+    183.25,
+    210.91
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-365545.jpg",
+  "sheet_times": [
+    7.21,
+    21.64,
+    36.06,
+    50.49,
+    64.91,
+    79.34,
+    93.76,
+    108.19,
+    122.61,
+    137.04,
+    151.46,
+    165.89,
+    180.31,
+    194.74,
+    209.17,
+    223.59
+  ]
+}

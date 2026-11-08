@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:316123",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Oil barge DM 932 hoisted",
+  "description": "NEW ORLEANS - The bow section of the oil barge DM 932 is hoisted from the Mississippi River here Saturday, Aug. 9, 2008. Sailors worked Saturday to complete rigging the stern section of the barge for removal. (U.S. Coast Guard video)",
+  "keywords": "CGVI",
+  "date": "2008-08-09T00:00:00-04:00",
+  "date_published": "2013-12-19T17:09:48-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316123/oil-barge-dm-932-hoisted",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316123",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:39:57Z",
+  "duration": 70.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101059349/DOD_101059349-720x480-1649k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1649,
+    "size": 13861860
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.34,
+    17.45,
+    26.76,
+    49.25,
+    69.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-316123.jpg",
+  "sheet_times": [
+    2.19,
+    6.56,
+    10.93,
+    15.3,
+    19.67,
+    24.05,
+    28.42,
+    32.79,
+    37.16,
+    41.53,
+    45.9,
+    50.28,
+    54.65,
+    59.02,
+    63.39,
+    67.76
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317596",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "120527-G-ZR723-pump hoist",
+  "description": "ASTORIA, Ore. - A Coast Guard MH-60 Jayhawk helicopter crew lowers a pump to a vessel taking on water in the Columbia River, Sunday, May 27, 2012.  The vessel's crew was able to successfully dewater the boat and make it safely into port.  Coast Guard video by Air Station Astoria.",
+  "keywords": "CGVI",
+  "date": "2012-05-27T15:56:17-04:00",
+  "date_published": "2013-12-22T15:15:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317596/120527-g-zr723-pump-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317596",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:40:03Z",
+  "duration": 33.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062549/DOD_101062549-720x480-3000k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 15632008
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317596.jpg",
+  "sheet_times": [
+    1.02,
+    3.07,
+    5.12,
+    7.17,
+    9.22,
+    11.27,
+    13.32,
+    15.37,
+    17.42,
+    19.47,
+    21.52,
+    23.57,
+    25.62,
+    27.67,
+    29.72,
+    31.77
+  ]
+}
