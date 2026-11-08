@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:546651",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "CBP Air and Marine Hoist Rescue",
+  "description": "A UH-60 Blackhawk Helicopter and crew from U.S. Customs and Border Protection's Air and Marine Operations rescues residents in areas flooded by Hurricane Harvey on August 29, 2017.",
+  "keywords": "Customs and Border Protection, Hurricane Harvey, cbpharvey",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-29T16:59:45-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Carmen Castro",
+  "category": "B-Roll",
+  "virin": "170111-A-CC123-004-CC",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546651/cbp-air-and-marine-hoist-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 1.001,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-546651",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:38:17Z",
+  "duration": 30.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104778201/DOD_104778201.mp4",
+    "width": 848,
+    "height": 480,
+    "bitrate": 8455,
+    "size": 32550237
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.0,
+    29.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      29.4
+    ],
+    "silence_ends": [
+      1.1,
+      30.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546651.jpg",
+  "sheet_times": [
+    1.9,
+    3.7,
+    5.51,
+    7.31,
+    9.11,
+    10.91,
+    12.72,
+    14.52,
+    16.32,
+    18.12,
+    19.92,
+    21.73,
+    23.53,
+    25.33,
+    27.13,
+    28.93
+  ]
+}
