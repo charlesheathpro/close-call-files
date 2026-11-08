@@ -27,7 +27,7 @@
   "aspect_ratio": "4:3",
   "id": "dvids-video-693964",
   "status": "new",
-  "harvested_at": "2026-11-08T16:46:22Z",
+  "harvested_at": "2026-11-08T17:03:25Z",
   "duration": 205.61,
   "source_file": {
     "src": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106966279/DOD_106966279.mp4",
@@ -37,7 +37,18 @@
     "size": 260820844
   },
   "transcript_source": "whisper",
-  "transcript": [],
+  "transcript": [
+    {
+      "s": 137.74,
+      "e": 156.19,
+      "text": "100 feet. 100 feet. 100 feet. 100 feet. One hundred feet. One hundred feet."
+    },
+    {
+      "s": 156.19,
+      "e": 203.15,
+      "text": "One, One, One."
+    }
+  ],
   "scene_cuts": [
     12.11,
     19.85
