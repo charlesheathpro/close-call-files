@@ -1,7 +1,14 @@
 {
   "at": "2026-11-08T16:22:00Z",
   "healthy": false,
-  "numbers": {"uploaded": 102, "dropped": 44, "passed": 1, "needs_qa": 0, "needs_build": 0, "scheduled_48h": 4},
+  "numbers": {
+    "uploaded": 102,
+    "dropped": 44,
+    "passed": 1,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_48h": 5
+  },
   "found": [
     "buffer thin: 4 scheduled in the next 48 h, 0 passed, nothing in build or QA",
     "no upload run had landed since 09:27Z and today's harvest never ran (GitHub skipped scheduled runs)",
@@ -10,6 +17,6 @@
   ],
   "fixed": [
     "pushed triggers/upload and an archive harvest; upload ran at 16:14Z (nothing waiting), harvest in progress",
-    "editor pass on the remaining rescue pool: wrote ccf-20261108-11 (boat sinking stern first, Puget Sound), built and passed at 7; 11 candidates passed over; 314555 boat fire held to Nov 12 for spacing"
+    "editor pass: wrote ccf-20261108-11 (boat sinking stern first, Puget Sound; passed 7, uploaded for Nov 9 12:00Z) and ccf-20261108-12 (81-year-old swept into a flooded river, Cal Guard hoist; passed 8); 15 candidates passed over; 314555 boat fire held to Nov 12"
   ]
 }
