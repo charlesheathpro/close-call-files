@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-546542",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:39:13Z",
   "duration": 27.67,
   "source_file": {
@@ -62,5 +62,6 @@
     22.92,
     24.62,
     26.32
-  ]
+  ],
+  "pass_reason": "single distant angle through rotor blades, people small, about 17 usable seconds"
 }

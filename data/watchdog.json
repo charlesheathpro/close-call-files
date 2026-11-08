@@ -1,22 +1,15 @@
 {
-  "at": "2026-11-08T08:25:00Z",
+  "at": "2026-11-08T16:40:00Z",
   "healthy": false,
-  "numbers": {
-    "uploaded": 98,
-    "dropped": 44,
-    "passed": 4,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 0
-  },
+  "numbers": {"uploaded": 102, "dropped": 44, "passed": 1, "needs_qa": 0, "needs_build": 0, "scheduled_48h": 4},
   "found": [
-    "buffer thin: 0 scheduled in the next 48 h, 4 passed, nothing in build or QA",
-    "YouTube uploadLimitExceeded blocks uploads until 2026-11-08T08:51Z (alerts Nov 4 to 7, about 2 uploads accepted per day); this channel cap, not supply, is what limits posting",
-    "harvest, build, upload and stats all landed in the last 30 h; no build errors; no auth or upload_error alerts",
-    "3 specs from the 04:57Z editor run are parked on branch editor-hold-20261108 for repeat spacing, merging Nov 9"
+    "buffer thin: 4 scheduled in the next 48 h, 0 passed, nothing in build or QA",
+    "no upload run had landed since 09:27Z and today's harvest never ran (GitHub skipped scheduled runs)",
+    "upload_error alerts 09:09 to 10:12Z were 504s fetching render MP4s from the release; the 4 Shorts went up on retry, so no action",
+    "3 specs still parked on editor-hold-20261108 for repeat spacing (merge Nov 9)"
   ],
   "fixed": [
-    "short editor pass on top rescue candidates: 5 passed over (murky FLIR, medical evacuations, raft repeat with no stated outcome); no spec cleared the viral bar",
-    "no upload trigger pushed: the scheduled upload run after 08:51Z will retry on its own"
+    "pushed triggers/upload and an archive harvest; upload ran at 16:14Z (nothing waiting), harvest in progress",
+    "editor pass on the remaining rescue pool: wrote ccf-20261108-11 (boat sinking stern first, Puget Sound), built and passed at 7; 11 candidates passed over; 314555 boat fire held to Nov 12 for spacing"
   ]
 }
