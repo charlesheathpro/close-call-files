@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:942921",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Barbers Point rescue",
+  "title": "Coast Guard medevacs ailing woman from cruise ship 70 miles off Oahu",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point hoists an ailing 29-year-old woman from a cruise ship approximately 70 miles offshore Kaneohe, Hawaii, Nov. 5, 2024. Joint Rescue Coordination Center Honolulu watchstanders received a phone call from personnel aboard the Grand Princess requesting a medevac for the woman, who was experiencing symptoms of appendicitis approximately 570 miles northeast of Kauai. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "keywords": null,
+  "date": "2024-11-05T00:00:00-05:00",
+  "date_published": "2024-11-06T15:40:41-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "241105-G-G0214-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/942921/coast-guard-medevacs-ailing-woman-cruise-ship-70-miles-off-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-942921",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:22:25Z",
+  "duration": 63.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2411/DOD_110670384/DOD_110670384-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 52869471
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.57,
+    16.18,
+    20.65,
+    27.89,
+    32.23,
+    38.57,
+    58.29,
+    60.66
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      12.5,
+      16.2,
+      27.9,
+      43.5,
+      45.5,
+      50.9,
+      60.7
+    ],
+    "silence_ends": [
+      4.6,
+      14.2,
+      20.6,
+      40.7,
+      44.4,
+      47.4,
+      56.8,
+      63.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-942921.jpg",
+  "sheet_times": [
+    1.97,
+    5.92,
+    9.86,
+    13.8,
+    17.75,
+    21.69,
+    25.63,
+    29.58,
+    33.52,
+    37.46,
+    41.41,
+    45.35,
+    49.29,
+    53.24,
+    57.18,
+    61.13
+  ]
+}
