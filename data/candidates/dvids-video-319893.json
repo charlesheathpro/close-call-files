@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:319893",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Man at Columbia River entrance",
+  "description": "An aircrew from Coast Guard Air Station Astoria, Ore., hoists a man after he became stranded on the north jetty on the Columbia River near Ilwaco, Wash., Jan. 17, 2014.\r\n\r\nThe aircrew successfully hoisted the man aboard the helicopter and transported him to Station Cape Disappointment.\r\n\r\nU.S. Coast Guard video by Sector Columbia River, Ore.",
+  "keywords": "hoist, jetty, Jayhawk, Pacific Northwest, Columbia River, Air Station Astoria, Sector Columbia River, D13",
+  "date": "2014-01-17T00:00:00-05:00",
+  "date_published": "2014-01-17T19:30:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "140117-G-LS819-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/319893/coast-guard-hoists-man-columbia-river-entrance",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-319893",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:43:15Z",
+  "duration": 116.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101088251/DOD_101088251.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 151635375
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.73,
+    35.43,
+    103.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      116.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-319893.jpg",
+  "sheet_times": [
+    3.64,
+    10.92,
+    18.19,
+    25.47,
+    32.75,
+    40.02,
+    47.3,
+    54.58,
+    61.86,
+    69.13,
+    76.41,
+    83.69,
+    90.96,
+    98.24,
+    105.52,
+    112.79
+  ]
+}

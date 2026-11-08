@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:412212",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Air Station San Francisco Hoist",
+  "description": "A Coast Guard Air Station Sacramento HC-130 Hercules aircrew provides cover as an aircrew from Coast Guard Air Station San Francisco medically evacuates the master from the motor vessel Midland Sky in the Pacific Ocean Wednesday, June 24, 2015. The master was safely hoisted and transferred to Kaiser Air at Oakland International Airport. U.S. Coast Guard video",
+  "keywords": "Kaiser, AS SF, Sacramento",
+  "date": "2015-06-24T00:00:00-04:00",
+  "date_published": "2015-06-25T16:48:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Sgt. Jennifer Spiker",
+  "category": "B-Roll",
+  "virin": "150624-G-ZZ000-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/412212/coast-guard-air-station-san-francisco-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-412212",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:42:15Z",
+  "duration": 48.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102550980/DOD_102550980.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5323,
+    "size": 32067168
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      48.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-412212.jpg",
+  "sheet_times": [
+    1.49,
+    4.46,
+    7.44,
+    10.41,
+    13.39,
+    16.36,
+    19.34,
+    22.32,
+    25.29,
+    28.27,
+    31.24,
+    34.22,
+    37.19,
+    40.17,
+    43.14,
+    46.12
+  ]
+}

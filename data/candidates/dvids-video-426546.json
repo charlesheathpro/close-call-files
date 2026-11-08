@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:426546",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Jet Skier in Manasquan Inlet",
+  "description": "A helicopter rescue crew from Coast Guard Air Station Atlantic City hoists a jet skier who fell overboard in Manasquan Inlet, N.J., Sunday, Oct. 4, 2015. The helicopter crew lowered the man to a nearby beach, where local EMS personnel were awaiting. U.S. Coast Guard video",
+  "keywords": "hoist, South Jersey, HEAVY WEATHER, SAR",
+  "date": "2015-10-04T00:00:00-04:00",
+  "date_published": "2015-10-04T16:02:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Chief Petty Officer Nick Ameen",
+  "category": "B-Roll",
+  "virin": "151004-G-ZE884-001",
+  "location": {
+    "city": "Point Pleasant Beach",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/426546/coast-guard-hoists-jet-skier-manasquan-inlet",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-426546",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:42:37Z",
+  "duration": 183.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102776595/DOD_102776595.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8908,
+    "size": 206903617
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    179.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      183.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-426546.jpg",
+  "sheet_times": [
+    9.67,
+    20.82,
+    31.98,
+    43.13,
+    54.29,
+    65.44,
+    76.6,
+    87.75,
+    98.91,
+    110.06,
+    121.22,
+    132.37,
+    143.52,
+    154.68,
+    165.83,
+    176.99
+  ]
+}

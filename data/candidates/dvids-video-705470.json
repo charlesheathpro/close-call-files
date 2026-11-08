@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:705470",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists 2 from Lake Michigan",
+  "description": "A Coast Guard Air Station Traverse City MH-60 Jayhawk helicopter crew hoists two survivors near Waukegan, Illinois, Aug. 28, 2019. Kathleen and Michael Root fell into the water and were separated from their personal watercraft. U.S. Coast Guard video.",
+  "keywords": "hoist, Great Lakes, Traverse City, root, Michael Root, Kathleen root, naval base Great Lakes, helicopter, SAR, rescue, Chicago",
+  "date": "2019-08-27T00:00:00-04:00",
+  "date_published": "2019-08-28T12:33:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 2nd Class Lauren Steenson",
+  "category": "B-Roll",
+  "virin": "190827-G-MV622-0001",
+  "location": {
+    "city": "Chicago",
+    "state": "Illinois",
+    "country": "United States",
+    "state_abbreviation": "IL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/705470/coast-guard-hoists-2-lake-michigan",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-705470",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:42:57Z",
+  "duration": 258.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107168009/DOD_107168009.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5087,
+    "size": 168767928
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    116.15,
+    140.17,
+    177.44,
+    193.63,
+    232.0,
+    253.59
+  ],
+  "drama_score": 53,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      258.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-705470.jpg",
+  "sheet_times": [
+    8.07,
+    24.2,
+    40.34,
+    56.47,
+    72.61,
+    88.74,
+    104.88,
+    121.01,
+    137.15,
+    153.28,
+    169.42,
+    185.56,
+    201.69,
+    217.83,
+    233.96,
+    250.1
+  ]
+}

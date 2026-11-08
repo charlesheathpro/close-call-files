@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:839754",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists two hoists two mariners approximately 86 miles southeast of Cape Fear, North Carolina",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Elizabeth City hoists two mariners from a damaged sailing vessel approximately 86 miles southeast of Cape Fear, North Carolina, April 15, 2021. The two mariners were transported to Coast Guard Air Station Elizabeth City (U.S. Coast Guard courtesy video/Released)",
+  "keywords": "helicopter, SAR, USCG",
+  "date": "2022-04-15T00:00:00-04:00",
+  "date_published": "2022-04-15T19:31:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Breanna Centeno",
+  "category": "B-Roll",
+  "virin": "220415-G-VP451-141",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/839754/coast-guard-hoists-two-hoists-two-mariners-approximately-86-miles-southeast-cape-fear-north-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-839754",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:41:57Z",
+  "duration": 39.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2204/DOD_108920088/DOD_108920088-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 38441050
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.16
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      39.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-839754.jpg",
+  "sheet_times": [
+    1.22,
+    3.65,
+    6.09,
+    8.53,
+    10.96,
+    13.4,
+    15.83,
+    18.27,
+    20.7,
+    23.14,
+    25.58,
+    28.01,
+    30.45,
+    32.88,
+    35.32,
+    37.75
+  ]
+}

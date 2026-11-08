@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:766320",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists 2 in distress in Columbia River",
+  "description": "A Coast Guard crew aboard an MH-60 Jayhawk Helicopter hoists two survivors from a 17-foot vessel in distress near Rooster Rock in the Columbia River, Washington side, Monday, September 7, 2020. The rescue crew experienced adverse weather conditions do to sustained 36 mph winds, 3-5 foot waves, and smokey haze generated from nearby wildfires. (U.S. Coast Guard video courtesy of Sector Columbia River)",
+  "keywords": "rescue swimmer, hoist, District 13, MH-60 Jayhawk helicopter, Pacific Northwest, Multnomah County, Sector Columbia River, agency assist, rescue strop, Coast Guard, SAR, search and rescue, Oregon, USCG",
+  "date": "2020-09-07T00:00:00-04:00",
+  "date_published": "2020-09-08T14:57:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Trevor Lilburn",
+  "category": "B-Roll",
+  "virin": "200907-G-GE256-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/766320/coast-guard-hoists-2-distress-columbia-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-766320",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:43:45Z",
+  "duration": 44.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2009/DOD_107978381/DOD_107978381.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10204,
+    "size": 56768073
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    13.51,
+    18.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9,
+      17.4,
+      21.5,
+      26.7,
+      29.6,
+      33.9,
+      42.7
+    ],
+    "silence_ends": [
+      17.0,
+      18.6,
+      25.3,
+      27.5,
+      32.9,
+      34.8,
+      44.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-766320.jpg",
+  "sheet_times": [
+    1.36,
+    4.08,
+    6.81,
+    9.53,
+    12.25,
+    14.97,
+    17.69,
+    20.42,
+    23.14,
+    25.86,
+    28.58,
+    31.3,
+    34.03,
+    36.75,
+    39.47,
+    42.19
+  ]
+}
