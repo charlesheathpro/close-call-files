@@ -27,7 +27,7 @@
   "aspect_ratio": "16:9",
   "id": "dvids-video-914468",
   "status": "new",
-  "harvested_at": "2026-11-08T16:44:54Z",
+  "harvested_at": "2026-11-08T17:02:24Z",
   "duration": 47.41,
   "source_file": {
     "src": "https://d34w7g4gy10iej.cloudfront.net/video/2403/DOD_110156497/DOD_110156497.mp4",
@@ -37,7 +37,13 @@
     "size": 58924448
   },
   "transcript_source": "whisper",
-  "transcript": [],
+  "transcript": [
+    {
+      "s": 2.67,
+      "e": 4.67,
+      "text": "You"
+    }
+  ],
   "scene_cuts": [
     5.24,
     9.11,

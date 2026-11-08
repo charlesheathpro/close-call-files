@@ -27,7 +27,7 @@
   "aspect_ratio": "16:9",
   "id": "dvids-video-766080",
   "status": "new",
-  "harvested_at": "2026-11-08T16:45:01Z",
+  "harvested_at": "2026-11-08T17:02:20Z",
   "duration": 74.16,
   "source_file": {
     "src": "https://d34w7g4gy10iej.cloudfront.net/video/2009/DOD_107974017/DOD_107974017.mp4",
@@ -37,7 +37,13 @@
     "size": 94743089
   },
   "transcript_source": "whisper",
-  "transcript": [],
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.0,
+      "text": "You"
+    }
+  ],
   "scene_cuts": [],
   "drama_score": 37,
   "audio": {

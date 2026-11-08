@@ -27,7 +27,7 @@
   "aspect_ratio": "4:3",
   "id": "dvids-video-83605",
   "status": "new",
-  "harvested_at": "2026-11-08T16:45:25Z",
+  "harvested_at": "2026-11-08T17:02:57Z",
   "duration": 29.96,
   "source_file": {
     "src": "https://d34w7g4gy10iej.cloudfront.net/video/1004/DOD_100068703/DOD_100068703.mpg",
@@ -37,7 +37,13 @@
     "size": null
   },
   "transcript_source": "whisper",
-  "transcript": [],
+  "transcript": [
+    {
+      "s": 4.11,
+      "e": 13.12,
+      "text": "What right there?"
+    }
+  ],
   "scene_cuts": [],
   "drama_score": 42,
   "audio": {
