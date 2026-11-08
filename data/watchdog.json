@@ -1,21 +1,21 @@
 {
- "at": "2026-11-07T16:55:41Z",
+ "at": "2026-11-08T00:26:35Z",
  "healthy": false,
  "numbers": {
-  "passed": 1,
   "uploaded": 98,
-  "dropped": 43,
-  "needs_build": 0,
+  "dropped": 44,
+  "passed": 4,
   "needs_qa": 0,
-  "scheduled_36h": 7
+  "needs_build": 0,
+  "scheduled_48h": 2
  },
  "found": [
-  "buffer thin at start: 4 scheduled in 36 h, 0 passed, 2 in QA",
-  "harvest, build, upload and stats all landed in the last 30 h; archive harvest completed this run; no repeated build errors; last upload_limit alert Nov 6, no auth errors"
+  "buffer thin: 2 scheduled in 48 h, 1 passed, 4 in QA at start",
+  "YouTube uploadLimitExceeded is blocking uploads until 2026-11-08T08:51Z (alerts Nov 5 to 7); this is a YouTube channel cap, not a pipeline fault",
+  "harvest, build, upload and stats all landed in the last 30 h; no repeated build errors; no auth or upload_error alerts"
  ],
  "fixed": [
-  "QA: passed 07-01 (rev 2), dropped 07-02",
-  "editor pass: wrote 07-03 to 07-07 from about 45 candidates looked at; passed 07-03, 07-04, 07-05 after one repair round each, dropped 07-06 and 07-07 on the viral bar",
-  "held strong but repetitive clips with dated notes (boat fires to Nov 11, capsized hull 317788 and Honolulu 937303 to Nov 10)"
+  "QA: passed 07-08; repaired and passed 07-61 rev 2 and 07-62 rev 2; dropped 07-41",
+  "editor pass: looked at about 20 rescue candidates; none cleared the viral bar without repeating a story type from the last 3 days (Rose Marie sinking 315675/91099 is strong but repeats 06-41, use after Nov 10; Kodiak boat fire raft 400099 held with boat fires to Nov 11); no new specs written"
  ]
 }
