@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:618297",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Injured Man at Rock Creek Falls",
+  "description": "A Coast Guard aircrew from Sector Columbia River medically evacuates a 52-year-old man who was injured at Rock Creek Falls, Wash., July 8, 2018.\r\n\r\nThe MH-60 Jayhawk helicopter crew hoisted the man and transported him to the Oregon Health & Science University Hospital trauma center in Portland, Ore., for further medical care.\r\n\r\nU.S. Coast Guard video courtesy of Sector Columbia River.",
+  "keywords": "MH-60 Jayhawk, Pacific Northwest, Washington State, Sector Columbia River, Airstation Astoria, Rock Creek Falls, Coast Guard, medevac, USCG",
+  "date": "2018-08-08T00:00:00-04:00",
+  "date_published": "2018-08-09T20:01:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180808-G-G0213-0001",
+  "location": {
+    "city": "Rock Creek Falls",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/618297/coast-guard-medevacs-injured-man-rock-creek-falls",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-618297",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:18Z",
+  "duration": 64.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105910719/DOD_105910719.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8979,
+    "size": 71980002
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    64.0
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      64.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-618297.jpg",
+  "sheet_times": [
+    1.99,
+    5.96,
+    9.93,
+    13.9,
+    17.87,
+    21.84,
+    25.81,
+    29.79,
+    33.76,
+    37.73,
+    41.7,
+    45.67,
+    49.64,
+    53.61,
+    57.59,
+    61.56
+  ]
+}

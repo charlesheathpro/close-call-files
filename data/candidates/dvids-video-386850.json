@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:386850",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard crew rescues distressed kayaker off Big Island",
+  "description": "HONOLULU - Crew members aboard Coast Guard Cutter Kiska, a 110-foot Island class patrol boat home ported in Hilo, rescue a distressed kayaker approximately 19 miles northeast of Kohala, Big Island, Jan. 13, 2015. The 38-year-old man left Maui en route Big Island when he became lost and called for assistance using his cell phone. U.S. Coast Guard courtesy video.",
+  "keywords": "Big Island, Melissa McKenzie, Kohala",
+  "date": "2015-01-13T00:00:00-05:00",
+  "date_published": "2015-01-14T16:24:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150114-G-ZZ999-000",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/386850/coast-guard-crew-rescues-distressed-kayaker-off-big-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-386850",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:46Z",
+  "duration": 68.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102180063/DOD_102180063.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4570,
+    "size": 39411368
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.45,
+    18.52,
+    18.55,
+    18.62,
+    18.72,
+    19.09
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-386850.jpg",
+  "sheet_times": [
+    2.11,
+    6.33,
+    10.55,
+    14.77,
+    18.99,
+    23.22,
+    27.44,
+    31.66,
+    35.88,
+    40.1,
+    44.32,
+    48.54,
+    52.76,
+    56.98,
+    61.2,
+    65.42
+  ]
+}

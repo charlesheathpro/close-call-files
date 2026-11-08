@@ -1,0 +1,127 @@
+{
+  "asset_id": "video:462561",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "beach rescue",
+  "title": "Coast Guard medevacs man 110 miles east of Virginia Beach",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew medevacs a man 110 miles east of Virginia Beach, Va., May 7, 2016.\r\n\r\nU.S. Coast Guard video by Air Station Elizabeth City, N.C.",
+  "keywords": "MH-60 Jayhawk, hoist, Air Station Elizabeth City, Coast Guard rescue, Mid-Atlantic, Atlantic Tramp, helicopter, medevac",
+  "date": "2016-05-07T00:00:00-04:00",
+  "date_published": "2016-05-07T15:13:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160507-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/462561/coast-guard-medevacs-man-110-miles-east-virginia-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-462561",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:06Z",
+  "duration": 56.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103289811/DOD_103289811.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8773,
+    "size": 62354468
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.94,
+      "e": 5.94,
+      "text": "We're going down."
+    },
+    {
+      "s": 5.94,
+      "e": 17.4,
+      "text": "Throw in below, cap, door, shoulder, nose."
+    },
+    {
+      "s": 17.4,
+      "e": 18.76,
+      "text": "East on deck."
+    },
+    {
+      "s": 18.76,
+      "e": 20.96,
+      "text": "Clear, back up 30."
+    },
+    {
+      "s": 20.96,
+      "e": 22.6,
+      "text": "Take a load, take a load."
+    },
+    {
+      "s": 22.6,
+      "e": 24.96,
+      "text": "Survivor's coming up."
+    },
+    {
+      "s": 24.96,
+      "e": 26.0,
+      "text": "Hold position."
+    },
+    {
+      "s": 26.0,
+      "e": 32.99,
+      "text": "Every halfway up."
+    },
+    {
+      "s": 32.99,
+      "e": 33.49,
+      "text": "Clear."
+    }
+  ],
+  "scene_cuts": [
+    4.07,
+    43.38
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.7,
+      41.8,
+      43.3,
+      54.7
+    ],
+    "silence_ends": [
+      4.2,
+      12.4,
+      43.0,
+      49.7,
+      56.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-462561.jpg",
+  "sheet_times": [
+    5.7,
+    8.93,
+    12.15,
+    15.37,
+    18.6,
+    21.82,
+    25.05,
+    28.27,
+    31.49,
+    34.72,
+    37.94,
+    41.16,
+    44.39,
+    47.61,
+    50.83,
+    54.06
+  ]
+}

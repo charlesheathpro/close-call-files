@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:449812",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "vessel fire",
+  "title": "American Eagle's Crew is Rescued 1,800 Miles South of Hawaii",
+  "description": "Forty-two crewmembers are safe after abandoning ship 1,800 miles south of Hawaii, Feb. 10, 2016. Crewmembers aboard fishing vessel American Eagle were able to extinguish the fire and dewater the vessel while the remaining crewmembers boarded Fong Seong 888. (U.S. Coast Guard video courtesy of Air Station Barbers Point/Released)",
+  "keywords": "Coast Guard rescue, Air Station Barbers Point, Fong Seong 888",
+  "date": "2016-02-10T00:00:00-05:00",
+  "date_published": "2016-02-12T05:07:54-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160210-G-ZZ999-000",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/449812/american-eagles-crew-rescued-1800-miles-south-hawaii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-449812",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:09Z",
+  "duration": 105.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1602/DOD_103043557/DOD_103043557.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7801,
+    "size": 103428816
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.78,
+    28.43,
+    44.14,
+    70.94,
+    71.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      106.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-449812.jpg",
+  "sheet_times": [
+    3.3,
+    9.89,
+    16.48,
+    23.07,
+    29.66,
+    36.25,
+    42.84,
+    49.44,
+    56.03,
+    62.62,
+    69.21,
+    75.8,
+    82.39,
+    88.98,
+    95.57,
+    102.17
+  ]
+}

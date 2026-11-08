@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:892771",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Coast Guard rescues man 12 miles offshore St. Augustine",
+  "description": "The U.S. Coast Guard rescue Charles Gregory aboard his partially submerged 12-foot jon boat 12 miles offshore of St. Augustine, Florida, Aug. 5, 2023. Charles was reported missing by his family to Coast Guard Sector Jacksonville, Friday. (U.S. Coast Guard video, courtesy Coast Guard Air Station Clearwater)",
+  "keywords": "St. Augustine, Charles Gregory, CoastGuardNewsWire",
+  "date": "2023-08-05T00:00:00-04:00",
+  "date_published": "2023-08-05T13:25:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Joe Perez",
+  "category": "B-Roll",
+  "virin": "230805-G-GO107-1092",
+  "location": {
+    "city": "St. Augustine",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/892771/coast-guard-rescues-man-12-miles-offshore-st-augustine",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-892771",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:43Z",
+  "duration": 40.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109809790/DOD_109809790.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 51364009
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    36.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-892771.jpg",
+  "sheet_times": [
+    1.26,
+    3.79,
+    6.31,
+    8.84,
+    11.36,
+    13.89,
+    16.42,
+    18.94,
+    21.47,
+    23.99,
+    26.52,
+    29.04,
+    31.57,
+    34.09,
+    36.62,
+    39.14
+  ]
+}

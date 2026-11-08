@@ -1,0 +1,102 @@
+{
+  "asset_id": "video:726068",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Port Angeles rescue",
+  "title": "Coast Guard medevacs Sailor from Navy destroyer off Washington coast",
+  "description": "A Coast Guard aircrew medevacs a Sailor from a U.S. Navy destroyer Tuesday, Dec. 3, 2019, off the coast of Washington. Crew members aboard the ship requested Coast Guard assistance after the Sailor had reported experiencing chest pains. (U.S. Coast Guard video by Air Station Port Angeles)",
+  "keywords": "MH-65 Dolphin, assist, Fly Coast Guard, Inter-branch, medevac, SAR, rescue",
+  "date": "2019-12-03T00:00:00-05:00",
+  "date_published": "2019-12-03T20:41:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Michael Clark",
+  "category": "B-Roll",
+  "virin": "191203-G-YE015-1002",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/726068/coast-guard-medevacs-sailor-navy-destroyer-off-washington-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-726068",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:53:38Z",
+  "duration": 73.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107492387/DOD_107492387.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8512,
+    "size": 79187649
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.56,
+      "e": 3.74,
+      "text": "We're going down."
+    },
+    {
+      "s": 3.74,
+      "e": 5.74,
+      "text": "4,9,40."
+    },
+    {
+      "s": 5.74,
+      "e": 7.74,
+      "text": "4,9,30."
+    },
+    {
+      "s": 7.74,
+      "e": 9.74,
+      "text": "4,9,20."
+    },
+    {
+      "s": 9.74,
+      "e": 10.74,
+      "text": "4,9,10."
+    },
+    {
+      "s": 10.74,
+      "e": 14.44,
+      "text": "E, 4,9,10."
+    },
+    {
+      "s": 14.44,
+      "e": 15.44,
+      "text": "OK."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 46,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-726068.jpg",
+  "sheet_times": [
+    2.27,
+    6.82,
+    11.37,
+    15.92,
+    20.46,
+    25.01,
+    29.56,
+    34.11,
+    38.65,
+    43.2,
+    47.75,
+    52.3,
+    56.84,
+    61.39,
+    65.94,
+    70.49
+  ]
+}

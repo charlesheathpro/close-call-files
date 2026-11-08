@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:97938",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Ailing Cruise Ship Passenger",
+  "description": "SAN DIEGO -- An MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego conducts a medical evacuation of a 74-year-old man from a cruise ship 36 miles south of San Diego, Oct. 17, 2010. The man was experiencing symptoms of pancreatitis and was transported to Scripps Memorial Hospital in La Jolla, Calif., for medical attention. U.S. Coast Guard video by Coast Guard Sector San Diego. \r\n",
+  "keywords": "Coast Guard, medevac, Cruise Ship",
+  "date": "2010-10-17T00:00:00-04:00",
+  "date_published": "2010-10-17T16:31:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101017-G-0000X-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/97938/coast-guard-medevacs-ailing-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-97938",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:54:24Z",
+  "duration": 121.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1010/DOD_100091200/DOD_100091200.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.01,
+    14.08,
+    50.65,
+    69.54,
+    115.22
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      115.3
+    ],
+    "silence_ends": [
+      6.0,
+      121.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-97938.jpg",
+  "sheet_times": [
+    3.77,
+    11.32,
+    18.87,
+    26.41,
+    33.96,
+    41.51,
+    49.05,
+    56.6,
+    64.15,
+    71.69,
+    79.24,
+    86.79,
+    94.33,
+    101.88,
+    109.43,
+    116.97
+  ]
+}
