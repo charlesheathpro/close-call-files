@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:625230",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "Alaska Air Guardsmen support Hurricane Florence relief",
+  "description": "Thirty-six Alaska Air National Guardsmen departed in support of the Hurricane Florence humanitarian assistance effort. The governors of North Carolina, South Carolina, Virginia and Maryland declared a state of emergency Sept. 10 as Hurricane Florence approaches the East Coast.",
+  "keywords": "Alaska Air National Guard, 176th Wing, 210th Rescue Squadron, 211th Rescue Squadron, 212th Rescue Squadron, 144th Airlift Squadron, HC-130J Combat King, hurricaneflorence, C-17 Globemaster III",
+  "date": "2018-09-12T00:00:00-04:00",
+  "date_published": "2018-09-13T22:19:50-04:00",
+  "branch": "Air Force",
+  "unit_name": "176th Wing",
+  "credit": "David Bedard",
+  "category": "B-Roll",
+  "virin": "180912-Z-ZY202-2001",
+  "location": {
+    "city": "Joint Base Elmendorf-Richardson",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625230/alaska-air-guardsmen-support-hurricane-florence-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625230",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:26:51Z",
+  "duration": 57.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106018833/DOD_106018833.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9490,
+    "size": 68722043
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 14.61,
+      "e": 21.01,
+      "text": "in there. It's showing four hours."
+    }
+  ],
+  "scene_cuts": [
+    2.47,
+    11.08,
+    18.08,
+    24.12,
+    29.2,
+    31.97,
+    37.8,
+    44.28,
+    52.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-625230.jpg",
+  "sheet_times": [
+    1.77,
+    5.31,
+    8.85,
+    12.39,
+    15.93,
+    19.47,
+    23.01,
+    26.55,
+    30.09,
+    33.62,
+    37.16,
+    40.7,
+    44.24,
+    47.78,
+    51.32,
+    54.86
+  ]
+}

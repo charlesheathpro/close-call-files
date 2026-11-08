@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:627600",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "Raw Video of DoD Hurricane Florence Relief Efforts (Prime Cuts)",
+  "description": "Members of the North Carolina Army National Guard’s 1451st National Guard Transportation Company and volunteers from Indiana Task Force 1 assess conditions after Hurricane Florence in Wilmington, North Carolina, Sept 17, 2018. The 1451st provided deep-water transportation with their light-medium tactical vehicles for the task force to provide rescue and relief operations.",
+  "keywords": "DoD News, DoD News Daily",
+  "date": "2018-09-20T00:00:00-04:00",
+  "date_published": "2018-09-20T13:38:52-04:00",
+  "branch": "Joint",
+  "unit_name": "War.gov",
+  "credit": "Tech. Sgt. Jared Whitecar",
+  "category": "B-Roll",
+  "virin": "180920-D-MU514-001",
+  "location": {
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/627600/raw-video-dod-hurricane-florence-relief-efforts-prime-cuts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-627600",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:26:41Z",
+  "duration": 45.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106050495/DOD_106050495.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9539,
+    "size": 54442222
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.23,
+    6.64,
+    11.58,
+    25.09,
+    32.0,
+    36.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-627600.jpg",
+  "sheet_times": [
+    1.39,
+    4.17,
+    6.96,
+    9.74,
+    12.52,
+    15.3,
+    18.08,
+    20.87,
+    23.65,
+    26.43,
+    29.21,
+    31.99,
+    34.78,
+    37.56,
+    40.34,
+    43.12
+  ]
+}

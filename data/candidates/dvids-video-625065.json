@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:625065",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "A CBP UH-60 Black Hawk Helicopter departs Bellingham, WA to support the Hurricane Florence Relief Efforts.",
+  "description": "An AMO crew of out of Bellingham, Washington, heads to the East Coast to stage in advance of Hurricane Florence. AMO’s UH-60 crews are pre-positioning their aircraft in order to conduct search and rescue, recovery and relief efforts in storm affected areas.",
+  "keywords": "hurricaneflorence, cbpflorence",
+  "date": "2018-09-12T00:00:00-04:00",
+  "date_published": "2018-09-13T15:13:16-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180913-A-AB123-001-RF",
+  "location": {
+    "city": "Bellingham",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/625065/cbp-uh-60-black-hawk-helicopter-departs-bellingham-wa-support-hurricane-florence-relief-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625065",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:27:44Z",
+  "duration": 42.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106016778/DOD_106016778.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8078,
+    "size": 43033641
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    39.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      39.1
+    ],
+    "silence_ends": [
+      4.0,
+      42.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-625065.jpg",
+  "sheet_times": [
+    5.18,
+    7.52,
+    9.87,
+    12.21,
+    14.56,
+    16.9,
+    19.25,
+    21.59,
+    23.94,
+    26.28,
+    28.63,
+    30.97,
+    33.32,
+    35.66,
+    38.01,
+    40.35
+  ]
+}

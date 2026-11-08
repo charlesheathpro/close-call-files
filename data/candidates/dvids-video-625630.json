@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:625630",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "U.S. Navy Helicopters Positioned for Possible Rescue/Relief Missions",
+  "description": "MH-60 Sea Hawk helicopters departing USS Abraham Lincoln (CVN 72) in the Atlantic Ocean. The helicopters are being re-positioned to Naval Station Norfolk for potential rescue/relief missions if tasked for Defense Support of Civil Authorities (DSCA) if required in the aftermath of Hurricane Florence. \r\n\r\nYouTube preview: https://www.youtube.com/watch?v=XHdCfVBWJsU",
+  "keywords": "DSCA, USS Abraham Lincoln, Defense Support of Civil Authorities, MH, hurricaneflorence, Hurricane Florence, Naval Station Norfolk",
+  "date": "2018-09-15T00:00:00-04:00",
+  "date_published": "2018-09-15T11:41:30-04:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Navy",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Atlantic Ocean",
+    "state_abbreviation": null,
+    "country_abbreviation": "A9"
+  },
+  "page_url": "https://www.dvidshub.net/video/625630/us-navy-helicopters-positioned-possible-rescue-relief-missions",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-625630",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:27:47Z",
+  "duration": 85.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106025539/DOD_106025539.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8813,
+    "size": 95938295
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.25,
+      "e": 13.25,
+      "text": "Adios"
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    12.41,
+    16.28,
+    84.85
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      84.9
+    ],
+    "silence_ends": [
+      4.0,
+      85.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-625630.jpg",
+  "sheet_times": [
+    6.55,
+    11.63,
+    16.71,
+    21.79,
+    26.87,
+    31.96,
+    37.04,
+    42.12,
+    47.2,
+    52.29,
+    57.37,
+    62.45,
+    67.53,
+    72.62,
+    77.7,
+    82.78
+  ]
+}
