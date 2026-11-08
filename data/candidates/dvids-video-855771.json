@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:855771",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "413th Flight Test Squadron UH-1 Huey hoist",
+  "description": "The 413th Flight Test Squadron engaged in extraction exercises with Tactical Air Control Party Airmen from the 20th Air Support Operations Squadron at Eglin Air Force Base, Fla, Aug. 23, 2022.",
+  "keywords": "20th Air Support Operations Squadron, 413th Flight Test Squadron",
+  "date": "2022-08-23T00:00:00-04:00",
+  "date_published": "2022-08-30T13:16:05-04:00",
+  "branch": "Air Force",
+  "unit_name": "96th Test Wing",
+  "credit": "Jaime Bishopp",
+  "category": "Package",
+  "virin": "220829-F-RI677-035",
+  "location": {
+    "city": "Eglin Air Force Base",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/855771/413th-flight-test-squadron-uh-1-huey-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-855771",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:44:50Z",
+  "duration": 53.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2208/DOD_109192399/DOD_109192399-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 40077363
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.63,
+    32.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      50.6
+    ],
+    "silence_ends": [
+      53.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-855771.jpg",
+  "sheet_times": [
+    1.64,
+    4.93,
+    8.22,
+    11.5,
+    14.79,
+    18.08,
+    21.36,
+    24.65,
+    27.94,
+    31.22,
+    34.51,
+    37.8,
+    41.08,
+    44.37,
+    47.66,
+    50.94
+  ]
+}

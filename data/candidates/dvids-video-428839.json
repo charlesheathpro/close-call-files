@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:428839",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Two Fishermen Off Brigantine, NJ",
+  "description": "A helicopter crew from Coast Guard Air Station Atlantic City, N.J., hoists two fishermen off Brigantine, N.J., Sunday, Oct. 18, 2015. The fishermen were mildly hypothermic and their 23-foot boat was stuck in shallow waters. U.S. Coast Guard video",
+  "keywords": "ASAC, SAR",
+  "date": "2015-10-18T00:00:00-04:00",
+  "date_published": "2015-10-18T15:06:01-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Chief Petty Officer Nick Ameen",
+  "category": "B-Roll",
+  "virin": "151018-G-ZE884-474",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/428839/coast-guard-hoists-two-fishermen-off-brigantine-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-428839",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:45:08Z",
+  "duration": 159.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102811108/DOD_102811108.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8879,
+    "size": 179145425
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    46.65,
+    91.06,
+    156.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      159.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-428839.jpg",
+  "sheet_times": [
+    8.89,
+    18.54,
+    28.2,
+    37.85,
+    47.51,
+    57.16,
+    66.82,
+    76.47,
+    86.13,
+    95.78,
+    105.44,
+    115.09,
+    124.75,
+    134.4,
+    144.06,
+    153.71
+  ]
+}
