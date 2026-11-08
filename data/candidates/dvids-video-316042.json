@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-316042",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:41:10Z",
   "duration": 57.4,
   "source_file": {
@@ -62,5 +62,6 @@
     48.01,
     51.57,
     55.12
-  ]
+  ],
+  "pass_reason": "boat underway only, no rescue on screen"
 }

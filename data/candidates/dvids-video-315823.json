@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-315823",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T09:00:00Z",
   "duration": 388.1,
   "source_file": {
@@ -71,5 +71,6 @@
     327.04,
     351.26,
     375.49
-  ]
+  ],
+  "pass_reason": "medical evacuation of an injured woman"
 }

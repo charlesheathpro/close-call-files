@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MSFC-Demolition-T-Stand-Dynamic-Test-Stand-Broll-wsound",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-07T16:35:58Z",
   "duration": 153.53,
   "source_file": {
@@ -160,5 +160,6 @@
     129.12,
     138.69,
     148.25
-  ]
+  ],
+  "used_by": "ccf-20261108-24"
 }

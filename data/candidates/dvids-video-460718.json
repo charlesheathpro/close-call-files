@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-460718",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:00:34Z",
   "duration": 88.21,
   "source_file": {
@@ -68,5 +68,6 @@
     74.01,
     79.49,
     84.97
-  ]
+  ],
+  "pass_reason": "routine door-cam basket hoist on open sea"
 }

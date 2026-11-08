@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313583",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:45:16Z",
   "duration": 86.33,
   "source_file": {
@@ -113,5 +113,6 @@
     72.42,
     77.79,
     83.15
-  ]
+  ],
+  "pass_reason": "b-roll with no release details"
 }

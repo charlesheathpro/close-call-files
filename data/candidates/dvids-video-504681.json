@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-504681",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:04:57Z",
   "duration": 140.65,
   "source_file": {
@@ -292,5 +292,6 @@
     118.88,
     127.39,
     135.9
-  ]
+  ],
+  "pass_reason": "mostly routine hoist, murky sensor footage"
 }

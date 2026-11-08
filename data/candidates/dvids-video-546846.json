@@ -26,7 +26,7 @@
   "time_start": 1.001,
   "aspect_ratio": "16:9",
   "id": "dvids-video-546846",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:02:18Z",
   "duration": 49.13,
   "source_file": {
@@ -71,5 +71,6 @@
     41.19,
     44.17,
     47.14
-  ]
+  ],
+  "pass_reason": "raft is a distant speck for 28 s and the release gives no story or outcome"
 }

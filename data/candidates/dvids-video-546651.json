@@ -26,7 +26,7 @@
   "time_start": 1.001,
   "aspect_ratio": "4:3",
   "id": "dvids-video-546651",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:57:55Z",
   "duration": 30.34,
   "source_file": {
@@ -71,5 +71,6 @@
     25.33,
     27.13,
     28.93
-  ]
+  ],
+  "pass_reason": "flood hoist with no visible danger, 480p letterbox"
 }

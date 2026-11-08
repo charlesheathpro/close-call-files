@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-449812",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:09Z",
   "duration": 105.96,
   "source_file": {
@@ -72,5 +72,6 @@
     88.98,
     95.57,
     102.17
-  ]
+  ],
+  "pass_reason": "blurry low-contrast sensor footage, fire already out, no visible danger"
 }

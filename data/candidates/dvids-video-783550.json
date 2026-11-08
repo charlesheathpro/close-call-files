@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-783550",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:32:44Z",
   "duration": 303.81,
   "source_file": {
@@ -238,5 +238,6 @@
     255.92,
     274.87,
     293.83
-  ]
+  ],
+  "pass_reason": "routine door-cam hoists on calm water"
 }
