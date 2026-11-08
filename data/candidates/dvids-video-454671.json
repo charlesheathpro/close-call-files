@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:454671",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard rescues 3 from Banks of River Near Seaside, Ore.",
+  "description": "A crew aboard a Coast Guard MH-60 Jayhawk helicopter rescued three men from the banks of a river near Seaside, Ore., after the men capsized their kayaks, March 16, 2016. The three stranded men were hoisted safely and transported to emergency medical services for treatment of hypothermia related symptoms. U.S. Coast Guard video by Air Station Astoria",
+  "keywords": "Coast Guard rescue, MH-60 Jayhawk helicopter, Seaside, Coast Guard, search and rescue, Oregon, Astoria, USCG",
+  "date": "2016-03-16T00:00:00-04:00",
+  "date_published": "2016-03-17T04:00:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Levi Read",
+  "category": "B-Roll",
+  "virin": "160316-G-ZZ999-001",
+  "location": {
+    "city": "Seaside",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/454671/coast-guard-rescues-3-banks-river-near-seaside-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-454671",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:33:21Z",
+  "duration": 102.53,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103137030/DOD_103137030-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 923,
+    "size": 11982691
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    19.32,
+    25.39,
+    55.52,
+    61.16,
+    61.33,
+    61.49,
+    62.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      102.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-454671.jpg",
+  "sheet_times": [
+    7.09,
+    13.21,
+    19.34,
+    25.46,
+    31.59,
+    37.71,
+    43.84,
+    49.96,
+    56.09,
+    62.21,
+    68.34,
+    74.46,
+    80.59,
+    86.72,
+    92.84,
+    98.97
+  ]
+}

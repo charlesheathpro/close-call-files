@@ -1,0 +1,122 @@
+{
+  "asset_id": "video:907558",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard Station Key West crew members rescue kayaker in distress",
+  "description": "A Coast Guard Station Key West boat crew rescues a man after heavy weather beset him southwest of Sunset Key, Florida, Dec. 12, 2023. The Station Key West crew located the man and his kayak in good condition. (U.S. Coast Guard video)",
+  "keywords": "kayaker, Station Key West",
+  "date": "2023-12-12T00:00:00-05:00",
+  "date_published": "2023-12-13T11:06:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231212-G-G0107-1001",
+  "location": {
+    "city": "Sunset Key",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/907558/coast-guard-station-key-west-crew-members-rescue-kayaker-distress",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-907558",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:33:02Z",
+  "duration": 30.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110044492/DOD_110044492-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 3710889
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.05,
+      "e": 3.05,
+      "text": "I see Green Light."
+    },
+    {
+      "s": 3.05,
+      "e": 6.05,
+      "text": "Green Light?"
+    },
+    {
+      "s": 6.05,
+      "e": 9.33,
+      "text": "Yeah, I see Green Light."
+    },
+    {
+      "s": 9.33,
+      "e": 10.33,
+      "text": "I see Red and Green."
+    },
+    {
+      "s": 10.33,
+      "e": 13.33,
+      "text": "OK, there he is."
+    },
+    {
+      "s": 13.33,
+      "e": 14.33,
+      "text": "Off the bow."
+    },
+    {
+      "s": 14.33,
+      "e": 18.11,
+      "text": "Off the bow."
+    },
+    {
+      "s": 18.11,
+      "e": 23.81,
+      "text": "Poor bow."
+    },
+    {
+      "s": 23.81,
+      "e": 27.54,
+      "text": "Twenty feet for me."
+    },
+    {
+      "s": 27.54,
+      "e": 28.54,
+      "text": "We're going to cover you."
+    },
+    {
+      "s": 28.54,
+      "e": 30.54,
+      "text": "I'm going to hang up."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 19,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-907558.jpg",
+  "sheet_times": [
+    0.92,
+    2.77,
+    4.62,
+    6.47,
+    8.32,
+    10.17,
+    12.02,
+    13.87,
+    15.72,
+    17.57,
+    19.42,
+    21.27,
+    23.12,
+    24.97,
+    26.82,
+    28.67
+  ]
+}

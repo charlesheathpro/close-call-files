@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:299049",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Coast Guard Medevacs 17-year-old Seizure Victim",
+  "description": "Coast Guard crews medevaced a 17-year-old female, Saturday, Aug. 17, 2013, after she suffered a seizure while fishing with her family, approximately eight miles south of Port Mansfield, Texas. U.S Coast Guard video. Available in High Definition.",
+  "keywords": "Air Station Corpus CHristi, medevac, rescue, USCG",
+  "date": "2013-08-17T00:00:00-04:00",
+  "date_published": "2013-08-17T18:52:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130817-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/299049/coast-guard-medevacs-17-year-old-seizure-victim",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-299049",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:32:30Z",
+  "duration": 122.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100889197/DOD_100889197.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 157489964
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    26.43,
+    65.87
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      122.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-299049.jpg",
+  "sheet_times": [
+    3.81,
+    11.44,
+    19.06,
+    26.68,
+    34.31,
+    41.93,
+    49.56,
+    57.18,
+    64.8,
+    72.43,
+    80.05,
+    87.68,
+    95.3,
+    102.93,
+    110.55,
+    118.17
+  ]
+}

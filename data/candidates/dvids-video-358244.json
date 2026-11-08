@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:358244",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard rescues kayaker 30 miles off-shore in Lake Michigan",
+  "description": "Coast Guard Air Facility Muskegon rescued a kayaker 30 miles off-shore in Lake Michigan after he activated his personal locator beacon, Sept. 1, 2014.\r\n\r\nThe man was kayaking from Milwaukee to Muskegon, Michigan, when he became fatigued and seasick.\r\n\r\nU.S Coast Guard video courtesy of Air Facility Muskegon",
+  "keywords": "hoist, Coast Guard rescue, kayak, Lake Michigan, search-and-rescue, dolphin helicopter, Air Station Detroit, Sector Lake Michigan, Air Facility Muskegon, Coast Guard 9th District",
+  "date": "2014-09-01T00:00:00-04:00",
+  "date_published": "2014-09-01T22:54:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140901-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/358244/coast-guard-rescues-kayaker-30-miles-off-shore-lake-michigan",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-358244",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:33:11Z",
+  "duration": 149.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101921600/DOD_101921600.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 8479,
+    "size": 159758087
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 91.6,
+      "e": 95.6,
+      "text": "So we can tell the folks where the kayak is."
+    },
+    {
+      "s": 95.6,
+      "e": 100.29,
+      "text": "They'll just come back to the left a little bit more."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    104.44,
+    148.82
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-358244.jpg",
+  "sheet_times": [
+    8.57,
+    17.6,
+    26.63,
+    35.66,
+    44.69,
+    53.72,
+    62.75,
+    71.78,
+    80.81,
+    89.84,
+    98.87,
+    107.9,
+    116.93,
+    125.96,
+    134.99,
+    144.02
+  ]
+}

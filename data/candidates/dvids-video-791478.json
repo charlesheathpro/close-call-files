@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:791478",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "kayaker rescue",
+  "title": "Coast Guard rescues 1 from the water near Key Largo ",
+  "description": "A Coast Guard Air Station Miami MH-65 helicopter crew rescues a 34-year old male after his Kayak capsized near Key Largo, Florida, Apr. 20, 2021. Chris Hogan, the kayaker in distress was safely transferred ashore with no safety issues. (Coast Guard Video)",
+  "keywords": "hoist, kayaker, Key Largo, Air Station Miami, dvidsdaily, CoastGuardNewsWire, Coast Guard, rescue",
+  "date": "2021-04-19T00:00:00-04:00",
+  "date_published": "2021-04-20T12:01:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210419-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/791478/coast-guard-rescues-1-water-near-key-largo",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-791478",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:33:17Z",
+  "duration": 30.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108293705/DOD_108293705.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9952,
+    "size": 38299280
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 3.08,
+      "text": "6-5-9-1, sector here, 90-0, mention,"
+    },
+    {
+      "s": 3.08,
+      "e": 5.08,
+      "text": "that's how we did coordinate."
+    },
+    {
+      "s": 5.08,
+      "e": 7.08,
+      "text": "And hold, hold down."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      22.5
+    ],
+    "silence_ends": [
+      23.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-791478.jpg",
+  "sheet_times": [
+    0.93,
+    2.8,
+    4.67,
+    6.53,
+    8.4,
+    10.27,
+    12.14,
+    14.0,
+    15.87,
+    17.74,
+    19.6,
+    21.47,
+    23.34,
+    25.2,
+    27.07,
+    28.94
+  ]
+}

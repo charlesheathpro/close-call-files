@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:629895",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues family",
+  "title": "Coast Guard rescues 2 in San Diego Bay Wildlife Refuge",
+  "description": "The Coast Guard rescued two people whose boat ran out of gas and drifted aground in the San Diego Bay National Wildlife Refuge, Sept. 28, 2018. An MH-60 Jayhawk helicopter crew hoisted the people into the helicopter and took them to Coast Guard Sector San Diego, where they were met by family members.  (U.S. Coast Guard video/released)",
+  "keywords": "Coast Guard, rescue, San Diego",
+  "date": "2018-09-27T00:00:00-04:00",
+  "date_published": "2018-09-28T16:06:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "180928-G-XX000-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/629895/coast-guard-rescues-2-san-diego-bay-wildlife-refuge",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-629895",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:31:45Z",
+  "duration": 97.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106079823/DOD_106079823.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 9227,
+    "size": 112053683
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      97.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-629895.jpg",
+  "sheet_times": [
+    3.02,
+    9.05,
+    15.09,
+    21.12,
+    27.15,
+    33.19,
+    39.22,
+    45.26,
+    51.29,
+    57.32,
+    63.36,
+    69.39,
+    75.43,
+    81.46,
+    87.49,
+    93.53
+  ]
+}
