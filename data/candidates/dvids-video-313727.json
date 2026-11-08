@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:313727",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Panache Hoist",
+  "description": "PORTSMOUTH, Va. - A Coast Guard helicopter crew hoisted five adults and one 4-year-old girl to safety Sunday, Nov. 16, 2008, 175 nautical miles west-northwest of Bermuda after their sailboat became disabled.\r\n\r\nThe sailors aboard the 47-foot sailboat, Panache, lost steering and propulsion while transiting to St. Thomas, U.S. Virgin Islands, from Annapolis, Md., and contacted the Coast Guard via satallite phone requesting assistance.  An HC-130J Hercules aircraft crew from Elizabeth City, N.C., marked the position of the sailboat, vectored the Elizabeth City MH-60J Jayhawk helicopter in and used a Forward Looking Infrared camera to capture this video.  After being hoisted to safety the five people were taken to Bermuda.\r\n\r\nDuring the hoist, the winds were more than 30 knots and the seas were 15 feet. (U.S. Coast Guard video/Air Station Elizabeth City, N.C.)",
+  "keywords": "CGVI",
+  "date": "2008-11-17T00:00:00-05:00",
+  "date_published": "2013-12-17T00:45:57-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313727/panache-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-313727",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:34:48Z",
+  "duration": 132.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054317/DOD_101054317-640x480-1164k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1164,
+    "size": 20749729
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 84.11,
+      "e": 87.95,
+      "text": "Well it formed me of that and we are still in a hoist now"
+    }
+  ],
+  "scene_cuts": [
+    21.35,
+    21.39,
+    36.9,
+    61.73,
+    81.82,
+    104.97,
+    132.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313727.jpg",
+  "sheet_times": [
+    4.14,
+    12.41,
+    20.68,
+    28.95,
+    37.23,
+    45.5,
+    53.77,
+    62.05,
+    70.32,
+    78.59,
+    86.86,
+    95.14,
+    103.41,
+    111.68,
+    119.96,
+    128.23
+  ]
+}

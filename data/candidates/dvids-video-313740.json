@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:313740",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "4 POB Hoist",
+  "description": "NAPLES, Fla.- Crewmembers from Coast Guard Air Station Miami hoist four crewmembers from a tug-and-barge that was taking on water Nov. 22, about 30 miles west of Naples.  Crewmembers from the Coast Guard Cutter Pea Island, a 110-foot cutter homeported in Key West, Fla., and Coast Guard Air Station Clearwater, Fla., also assisted.  (U.S. Coast Guard video/Coast Guard Air Station Clearwater)",
+  "keywords": "CGVI",
+  "date": "2008-11-22T14:32:50-05:00",
+  "date_published": "2013-12-17T01:11:08-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Naples",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313740/4-pob-hoist",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-313740",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:36:17Z",
+  "duration": 60.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054344/DOD_101054344.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6912,
+    "size": 52151979
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    20.89,
+    29.03,
+    35.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      14.8
+    ],
+    "silence_ends": [
+      4.3,
+      60.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313740.jpg",
+  "sheet_times": [
+    1.88,
+    5.64,
+    9.41,
+    13.17,
+    16.93,
+    20.69,
+    24.45,
+    28.22,
+    31.98,
+    35.74,
+    39.5,
+    43.26,
+    47.03,
+    50.79,
+    54.55,
+    58.31
+  ]
+}
