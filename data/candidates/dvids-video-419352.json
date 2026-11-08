@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:419352",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Man 100 Miles West of San Diego",
+  "description": "A Coast Guard Sector San Diego MH-60 helicopter crew medically evacuates a 58-year-old man approximately 100 miles west of San Diego, August 10, 2015. The man was transported to a local area hospital after sustaining a shark bite to his right hand. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "medevac, San Diego, USCG",
+  "date": "2015-08-10T00:00:00-04:00",
+  "date_published": "2015-08-13T15:04:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "150810-G-BT948-420",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/419352/coast-guard-medevacs-man-100-miles-west-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-419352",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:20:39Z",
+  "duration": 129.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102657396/DOD_102657396.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8523,
+    "size": 138402292
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      129.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-419352.jpg",
+  "sheet_times": [
+    7.94,
+    15.77,
+    23.6,
+    31.43,
+    39.26,
+    47.09,
+    54.91,
+    62.74,
+    70.57,
+    78.4,
+    86.23,
+    94.06,
+    101.89,
+    109.72,
+    117.55,
+    125.38
+  ]
+}

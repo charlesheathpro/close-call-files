@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:416654",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Man 110 Miles Southeast of Point Loma",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuates a 43-year-old man approximately 110 miles southeast of Point Loma, in San Diego, July 26, 2015. The man was transported to a local San Diego hospital after experiencing heart-attack like symptoms. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "hoist, point loma, 60, medevac, San Diego, USCG, helo",
+  "date": "2015-07-26T00:00:00-04:00",
+  "date_published": "2015-07-26T18:33:58-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "150726-G-GV559-663",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/416654/coast-guard-medevacs-man-110-miles-southeast-point-loma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-416654",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:21:21Z",
+  "duration": 150.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102621110/DOD_102621110.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8374,
+    "size": 157959842
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    10.01,
+    10.48,
+    13.15,
+    14.05,
+    22.26,
+    23.29,
+    25.19,
+    62.76,
+    75.78,
+    76.21,
+    79.38,
+    121.89,
+    145.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      150.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-416654.jpg",
+  "sheet_times": [
+    8.59,
+    17.73,
+    26.87,
+    36.01,
+    45.15,
+    54.29,
+    63.43,
+    72.56,
+    81.7,
+    90.84,
+    99.98,
+    109.12,
+    118.26,
+    127.39,
+    136.53,
+    145.67
+  ]
+}

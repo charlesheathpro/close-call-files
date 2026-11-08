@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:316443",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "101017-G-0000X-CS-medevac",
+  "description": "SAN DIEGO -- An MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego conducts a medical evacuation of a 74-year-old man from a cruise ship 36 miles south of San Diego, Oct. 17, 2010. \nThe man was experiencing symptoms of pancreatitis and was transported to Scripps Memorial Hospital in La Jolla, Calif., for medical attention. U.S. Coast Guard video by Coast Guard Sector San Diego.",
+  "keywords": "CGVI",
+  "date": "2010-10-17T13:48:35-04:00",
+  "date_published": "2013-12-20T06:12:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316443/101017-g-0000x-cs-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316443",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:21:51Z",
+  "duration": 426.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060146/DOD_101060146.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5796,
+    "size": 85883959
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.0,
+    14.08,
+    50.65,
+    69.52,
+    115.21
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      115.4
+    ],
+    "silence_ends": [
+      6.1,
+      426.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316443.jpg",
+  "sheet_times": [
+    13.3,
+    39.9,
+    66.51,
+    93.11,
+    119.71,
+    146.31,
+    172.91,
+    199.52,
+    226.12,
+    252.72,
+    279.32,
+    305.92,
+    332.53,
+    359.13,
+    385.73,
+    412.33
+  ]
+}

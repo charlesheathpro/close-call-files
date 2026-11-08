@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:134414",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Rescues Man from Fishing Vessel Near Port Aransas",
+  "description": "CORPUS CHRISTI, Texas - Coast Guard Air Station Corpus Christi conducts a medical evacuation of a charter fishing vessel passenger. The man was transferred to Spohn Memorial Hospital on Jan. 4 2012.",
+  "keywords": "hoist, helicopter, Coast Guard, Corpus Christi, USCG",
+  "date": "2012-01-04T00:00:00-05:00",
+  "date_published": "2012-01-05T09:46:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "120103-G-NV827-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/134414/coast-guard-rescues-man-fishing-vessel-near-port-aransas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.87354,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-134414",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:18:35Z",
+  "duration": 137.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1201/DOD_100302692/DOD_100302692.mp4",
+    "width": 960,
+    "height": 480,
+    "bitrate": 8831,
+    "size": 156824251
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      130.6
+    ],
+    "silence_ends": [
+      6.9,
+      137.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-134414.jpg",
+  "sheet_times": [
+    10.94,
+    19.07,
+    27.2,
+    35.33,
+    43.46,
+    51.59,
+    59.73,
+    67.86,
+    75.99,
+    84.12,
+    92.25,
+    100.38,
+    108.51,
+    116.64,
+    124.78,
+    132.91
+  ]
+}

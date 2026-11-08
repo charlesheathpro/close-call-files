@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:418538",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Man 50 Miles West of Oceanside Harbor",
+  "description": "A Coast Guard Sector San Diego MH-60 helicopter crew medically evacuates a 66-year-old man approximately 50 miles west of Oceanside Harbor, in San Diego, August 7, 2015. The man was transported to a local area hospital after experiencing stroke-like symptoms. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "Coast Guard rescue, Oceanside Harbor, medevac, San Diego",
+  "date": "2015-08-07T00:00:00-04:00",
+  "date_published": "2015-08-07T20:18:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "150807-G-BT948-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418538/coast-guard-medevacs-man-50-miles-west-oceanside-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.1588,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-418538",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:20:49Z",
+  "duration": 264.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102647318/DOD_102647318.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8948,
+    "size": 296108840
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.14,
+    154.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      264.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418538.jpg",
+  "sheet_times": [
+    12.28,
+    28.51,
+    44.75,
+    60.98,
+    77.22,
+    93.45,
+    109.69,
+    125.92,
+    142.16,
+    158.4,
+    174.63,
+    190.87,
+    207.1,
+    223.34,
+    239.57,
+    255.81
+  ]
+}

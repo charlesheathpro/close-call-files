@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:317064",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "110620-G-JY570-EXCEL-medevac",
+  "description": "SAN DIEGO -- An MH-60 Jayhawk helicopter aircrew from Coast Guard Sector San Diego medically evacuates a man from a fishing boat 60 miles south of San Diego June 20, 2011. \nThe 71-year-old man was experiencing sypmtoms of a possible heart attack and was flown to Scripps Memorial Hospital in La Jolla, Calif. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-06-20T11:53:36-04:00",
+  "date_published": "2013-12-21T07:25:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317064/110620-g-jy570-excel-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317064",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:21:32Z",
+  "duration": 170.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061893/DOD_101061893.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6420,
+    "size": 137467779
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    43.69,
+    145.77,
+    165.36
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      165.5
+    ],
+    "silence_ends": [
+      5.1,
+      170.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317064.jpg",
+  "sheet_times": [
+    5.31,
+    15.94,
+    26.56,
+    37.18,
+    47.81,
+    58.43,
+    69.05,
+    79.68,
+    90.3,
+    100.93,
+    111.55,
+    122.17,
+    132.8,
+    143.42,
+    154.05,
+    164.67
+  ]
+}

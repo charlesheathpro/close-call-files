@@ -1,0 +1,122 @@
+{
+  "asset_id": "video:943445",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard medevacs U.S. passenger from Carnival Vista cruise ship near Puerto Rico",
+  "description": "A Coast Guard MH-60T Jayhawk helicopter aircrew conducts the medical evacuation of a 69-yeal-old woman passenger from the Carnival Vista cruise ship, Nov. 7, 2024, approximately 45 miles southwest of Mona Island, Puerto Rico. The patient is U.S. citizen, who experienced health complications and was transported to the Centro Medico Hospital in San Juan, Puerto Rico to receive a higher level of care. (U.S. Coast Guard video)",
+  "keywords": "Carnival Vista",
+  "date": "2024-11-07T00:00:00-05:00",
+  "date_published": "2024-11-12T11:14:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Ricardo Castrodad",
+  "category": "B-Roll",
+  "virin": "241107-G-G0107-1001",
+  "location": {
+    "city": "N/A",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/943445/coast-guard-medevacs-us-passenger-carnival-vista-cruise-ship-near-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-943445",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:22:00Z",
+  "duration": 65.8,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2411/DOD_110678410/DOD_110678410-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 73698089
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.18,
+      "e": 4.18,
+      "text": "This will be a little recovery with the bear hook and trail line."
+    },
+    {
+      "s": 4.18,
+      "e": 8.18,
+      "text": "I'm now seeing 200 feet heading 270."
+    },
+    {
+      "s": 8.18,
+      "e": 11.18,
+      "text": "Followed by the bear hook."
+    },
+    {
+      "s": 11.18,
+      "e": 13.97,
+      "text": "Any questions?"
+    },
+    {
+      "s": 13.97,
+      "e": 21.41,
+      "text": "So we're going to move as required."
+    },
+    {
+      "s": 21.41,
+      "e": 26.45,
+      "text": "We're at the trail line, so I'll take that again."
+    },
+    {
+      "s": 26.45,
+      "e": 58.94,
+      "text": "Let's head to the category."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      8.7,
+      15.9,
+      17.1,
+      24.0,
+      32.1,
+      37.4,
+      49.9,
+      56.3,
+      59.6
+    ],
+    "silence_ends": [
+      9.4,
+      16.8,
+      18.5,
+      24.6,
+      34.8,
+      45.7,
+      53.9,
+      57.0,
+      64.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-943445.jpg",
+  "sheet_times": [
+    2.04,
+    6.12,
+    10.2,
+    14.28,
+    18.37,
+    22.45,
+    26.53,
+    30.61,
+    34.69,
+    38.77,
+    42.85,
+    46.93,
+    51.01,
+    55.1,
+    59.18,
+    63.26
+  ]
+}

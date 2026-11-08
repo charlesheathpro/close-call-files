@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:864211",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard medevacs U.S. passenger from MS Rotterdam cruise ship near Cabo Rojo, Puerto Rico",
+  "description": "The aircrew of a Coast Guard Air Station Borinquen MH-60T Jayhawk helicopter hoists a 78-year-old man, U.S. citizen, from the MS Rotterdam cruise ship during a medical evacuation Nov. 13, 2022, approximately nine nautical miles southwest of Cabo Rojo, Puerto Rico. Local Emergency Medical Service personnel received and transported the patient to a hospital in San Juan, Puerto Rico.  (U.S. Coast Guard video)",
+  "keywords": "Cabo Rojo, Air Station Borinquen, MS Rotterdam cruise ship, Coast Guard, medevac, Puerto Rico",
+  "date": "2022-11-13T00:00:00-05:00",
+  "date_published": "2022-11-14T09:46:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221113-G-G0107-1001",
+  "location": {
+    "city": "Cabo Rojo",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/864211/coast-guard-medevacs-us-passenger-ms-rotterdam-cruise-ship-near-cabo-rojo-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-864211",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:22:03Z",
+  "duration": 27.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2211/DOD_109322339/DOD_109322339.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 34646501
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.3,
+      6.7,
+      12.4,
+      15.1,
+      24.0,
+      26.5
+    ],
+    "silence_ends": [
+      4.1,
+      11.2,
+      13.4,
+      19.9,
+      24.6,
+      27.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-864211.jpg",
+  "sheet_times": [
+    0.86,
+    2.57,
+    4.28,
+    5.99,
+    7.7,
+    9.41,
+    11.12,
+    12.83,
+    14.54,
+    16.25,
+    17.96,
+    19.67,
+    21.38,
+    23.09,
+    24.8,
+    26.51
+  ]
+}
