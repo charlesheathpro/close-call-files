@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-318596",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:51:18Z",
   "duration": 103.98,
   "source_file": {
@@ -62,5 +62,6 @@
     87.31,
     93.78,
     100.24
-  ]
+  ],
+  "pass_reason": "no release text; calm water and debris only"
 }

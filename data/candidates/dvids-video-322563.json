@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-322563",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:29:40Z",
   "duration": 21.02,
   "source_file": {
@@ -68,5 +68,6 @@
     17.31,
     18.6,
     19.88
-  ]
+  ],
+  "pass_reason": "grainy door-cam, people are specks on the beach"
 }

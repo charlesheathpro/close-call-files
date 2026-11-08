@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-316034",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:51:37Z",
   "duration": 117.65,
   "source_file": {
@@ -64,5 +64,6 @@
     98.85,
     106.17,
     113.49
-  ]
+  ],
+  "pass_reason": "no release text or outcome; boat distant in fog"
 }
