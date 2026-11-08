@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:410242",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists 3 after Fire Engulfs Boat",
+  "description": "Three people were rescued in a cooperative effort between a good Samaritan fishing boat and the U.S. Coast Guard, June 16, 2015, approximately 118 miles east of Brunswick. U.S. Coast Guard video.",
+  "keywords": "hoist, air crew, savannah, brunswick, good samaritan, helicopter, Coast Guard, rescue, USCG, helo",
+  "date": "2015-06-16T00:00:00-04:00",
+  "date_published": "2015-06-17T13:51:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150616-G-ZZ999-001",
+  "location": {
+    "city": "Brunswick",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/410242/coast-guard-hoists-3-after-fire-engulfs-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-410242",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:46:04Z",
+  "duration": 140.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102526351/DOD_102526351.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9192,
+    "size": 163773736
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.89,
+    38.37,
+    45.28,
+    47.58,
+    75.28,
+    88.66,
+    98.1,
+    102.9,
+    117.78,
+    121.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      121.7
+    ],
+    "silence_ends": [
+      117.8,
+      140.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-410242.jpg",
+  "sheet_times": [
+    4.37,
+    13.12,
+    21.87,
+    30.62,
+    39.37,
+    48.12,
+    56.87,
+    65.62,
+    74.36,
+    83.11,
+    91.86,
+    100.61,
+    109.36,
+    118.11,
+    126.86,
+    135.61
+  ]
+}

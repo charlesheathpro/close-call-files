@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:778573",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists 4 boaters from Yamani Islet, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter aircrew hoists a family stranded on Yamani Islets, Alaska, Dec. 25, 2020. The family’s vessel capsized and they made it to shore to wait for assistance. (U.S. Coast Guard video by Air Station Sitka)",
+  "keywords": "capsized vessel, Winter, Coast Guard, SAR, USCG, Alaska",
+  "date": "2020-12-25T00:00:00-05:00",
+  "date_published": "2020-12-25T12:11:19-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "201225-G-G0217-1001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/778573/coast-guard-hoists-4-boaters-yamani-islet-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-778573",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:47:37Z",
+  "duration": 123.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2012/DOD_108119058/DOD_108119058.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10031,
+    "size": 156865251
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    42.08,
+    91.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.6,
+      92.6,
+      99.6
+    ],
+    "silence_ends": [
+      6.2,
+      92.3,
+      99.6,
+      123.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-778573.jpg",
+  "sheet_times": [
+    3.85,
+    11.56,
+    19.26,
+    26.96,
+    34.67,
+    42.37,
+    50.07,
+    57.78,
+    65.48,
+    73.18,
+    80.89,
+    88.59,
+    96.29,
+    104.0,
+    111.7,
+    119.41
+  ]
+}
