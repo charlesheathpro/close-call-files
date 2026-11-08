@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-91099",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-06T16:55:51Z",
   "duration": 46.97,
   "source_file": {
@@ -69,5 +69,6 @@
     42.11,
     45.02
   ],
-  "editor_note": "HOLD until Nov 10: strong sinking footage (Rose Marie, July 20 2010), but too close to ccf-20261106-41 (lone man, sinking boat) publishing Nov 7. Hoist footage of the same case is dvids-video-315676; 91100 is a duplicate."
+  "editor_note": "HOLD until Nov 10: strong sinking footage (Rose Marie, July 20 2010), but too close to ccf-20261106-41 (lone man, sinking boat) publishing Nov 7. Hoist footage of the same case is dvids-video-315676; 91100 is a duplicate. | Nov 8 editor: spec written as ccf-20261108-02 and parked on branch editor-hold-20261108 to honor this hold; it merges to main about 10:00 UTC Nov 9 so it publishes Nov 10 or later. Do not redo.",
+  "used_by": "ccf-20261108-02"
 }

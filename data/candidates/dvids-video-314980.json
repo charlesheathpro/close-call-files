@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314980",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:44:07Z",
   "duration": 22.89,
   "source_file": {
@@ -62,5 +62,6 @@
     18.9,
     20.3,
     21.7
-  ]
+  ],
+  "pass_reason": "distant tiny figures on flat snow, QA rejects this"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.5045,
   "aspect_ratio": "4:3",
   "id": "dvids-video-67539",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-06T17:40:01Z",
   "duration": 139.32,
   "source_file": {
@@ -69,5 +69,6 @@
     126.23,
     134.62
   ],
-  "editor_note": "Strong footage (60-foot vessel ablaze, crew in a raft, rescued). Held back on Nov 7 only because 07-04 (boat on fire, escape in a raft) is queued; use after Nov 11."
+  "editor_note": "Strong footage (60-foot vessel ablaze, crew in a raft, rescued). Held back on Nov 7 only because 07-04 (boat on fire, escape in a raft) is queued; use after Nov 11. | Nov 8 editor: spec written as ccf-20261108-03 and parked on branch editor-hold-20261108 to honor this hold; it merges to main about 10:00 UTC Nov 9 so it publishes Nov 10 to 11 or later. Do not redo.",
+  "used_by": "ccf-20261108-03"
 }

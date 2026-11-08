@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-758320",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:32:33Z",
   "duration": 721.06,
   "source_file": {
@@ -1477,5 +1477,6 @@
     607.98,
     653.01,
     698.05
-  ]
+  ],
+  "pass_reason": "12-minute routine door-cam hoist with no location or date"
 }

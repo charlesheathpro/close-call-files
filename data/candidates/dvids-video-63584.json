@@ -26,7 +26,7 @@
   "time_start": 6.03937,
   "aspect_ratio": "4:3",
   "id": "dvids-video-63584",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:57:40Z",
   "duration": 170.88,
   "source_file": {
@@ -82,5 +82,6 @@
     144.7,
     154.97,
     165.24
-  ]
+  ],
+  "pass_reason": "same kayaker event as 315381, calm routine door-cam hoist"
 }

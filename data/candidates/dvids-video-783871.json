@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-783871",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:31:33Z",
   "duration": 204.85,
   "source_file": {
@@ -88,5 +88,6 @@
     172.42,
     185.19,
     197.96
-  ]
+  ],
+  "pass_reason": "murky green FLIR with burned-in captions"
 }
