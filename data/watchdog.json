@@ -1,21 +1,22 @@
 {
- "at": "2026-11-08T00:26:35Z",
- "healthy": false,
- "numbers": {
-  "uploaded": 98,
-  "dropped": 44,
-  "passed": 4,
-  "needs_qa": 0,
-  "needs_build": 0,
-  "scheduled_48h": 2
- },
- "found": [
-  "buffer thin: 2 scheduled in 48 h, 1 passed, 4 in QA at start",
-  "YouTube uploadLimitExceeded is blocking uploads until 2026-11-08T08:51Z (alerts Nov 5 to 7); this is a YouTube channel cap, not a pipeline fault",
-  "harvest, build, upload and stats all landed in the last 30 h; no repeated build errors; no auth or upload_error alerts"
- ],
- "fixed": [
-  "QA: passed 07-08; repaired and passed 07-61 rev 2 and 07-62 rev 2; dropped 07-41",
-  "editor pass: looked at about 20 rescue candidates; none cleared the viral bar without repeating a story type from the last 3 days (Rose Marie sinking 315675/91099 is strong but repeats 06-41, use after Nov 10; Kodiak boat fire raft 400099 held with boat fires to Nov 11); no new specs written"
- ]
+  "at": "2026-11-08T08:25:00Z",
+  "healthy": false,
+  "numbers": {
+    "uploaded": 98,
+    "dropped": 44,
+    "passed": 4,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_48h": 0
+  },
+  "found": [
+    "buffer thin: 0 scheduled in the next 48 h, 4 passed, nothing in build or QA",
+    "YouTube uploadLimitExceeded blocks uploads until 2026-11-08T08:51Z (alerts Nov 4 to 7, about 2 uploads accepted per day); this channel cap, not supply, is what limits posting",
+    "harvest, build, upload and stats all landed in the last 30 h; no build errors; no auth or upload_error alerts",
+    "3 specs from the 04:57Z editor run are parked on branch editor-hold-20261108 for repeat spacing, merging Nov 9"
+  ],
+  "fixed": [
+    "short editor pass on top rescue candidates: 5 passed over (murky FLIR, medical evacuations, raft repeat with no stated outcome); no spec cleared the viral bar",
+    "no upload trigger pushed: the scheduled upload run after 08:51Z will retry on its own"
+  ]
 }

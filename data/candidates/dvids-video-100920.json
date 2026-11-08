@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-100920",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:26:37Z",
   "duration": 342.61,
   "source_file": {
@@ -610,5 +610,6 @@
     288.65,
     310.04,
     331.42
-  ]
+  ],
+  "pass_reason": "480p b-roll, release truncated with no stated outcome for the crew; life raft story repeats 07-04 and 07-41"
 }
