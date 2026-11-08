@@ -1,38 +1,38 @@
-# Playbook (computed 2026-11-08T10:03:49Z from 78 Shorts older than 48 hours)
+# Playbook (computed 2026-11-08T14:28:55Z from 80 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: abandon ship, boat crew pickup (+0.48, 1 Shorts)
-- story: splashdown recovery (+0.46, 1 Shorts)
-- story: launch abort test (+0.45, 1 Shorts)
-- story: capsized boat, people in the water (+0.44, 1 Shorts)
-- hook names a child (+0.38, 10 Shorts)
-- story: elderly sailor and dog, disabled sailboat far offshore (+0.31, 1 Shorts)
-- story: rocket booster test fire (+0.28, 1 Shorts)
-- story: dog cliff rescue (+0.26, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.45, 1 Shorts)
+- story: capsized boat, people in the water (+0.43, 1 Shorts)
+- story: splashdown recovery (+0.43, 1 Shorts)
+- story: launch abort test (+0.42, 1 Shorts)
+- hook names a child (+0.39, 10 Shorts)
+- story: elderly sailor and dog, disabled sailboat far offshore (+0.28, 1 Shorts)
+- music: rescue (+0.24, 12 Shorts)
+- story: dog cliff rescue (+0.24, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.59, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.52, 1 Shorts)
-- music: hazards (-0.42, 4 Shorts)
-- story: volcano eruption (-0.38, 2 Shorts)
-- story: attic flood hoist (-0.37, 1 Shorts)
-- lane: hazards (-0.34, 3 Shorts)
-- story: sinking sailboat, boat crew (-0.23, 1 Shorts)
-- story: hurricane swimmer rescue with dog (-0.22, 1 Shorts)
+- story: dog hoist from sinking boat (-0.6, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.51, 1 Shorts)
+- story: yacht sinking stern first, 13 people taken off by cutter (-0.4, 1 Shorts)
+- music: hazards (-0.39, 4 Shorts)
+- story: volcano eruption (-0.36, 2 Shorts)
+- story: attic flood hoist (-0.33, 1 Shorts)
+- lane: hazards (-0.31, 3 Shorts)
+- story: rocket booster test with an anomaly (-0.25, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 8557 views, 97% watched
-- Orion splashes down after the Moon: 9442 views, 95% watched
+- Five abandon a sinking fishing boat: 8703 views, 97% watched
+- Boat flipped with a 4-year-old aboard: 20705 views, 79% watched
+- Orion splashes down after the Moon: 9444 views, 95% watched
 - Capsule torn off a rocket at Mach 1: 5179 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 20614 views, 79% watched
-- Adrift 120 miles out with his dog: 3196 views, 96% watched
+- Adrift 120 miles out with his dog: 3212 views, 96% watched
 
 ## Weakest Shorts
-- Sailboat sinking 25 miles off Michigan: 303 views, 63% watched
 - Mauna Loa erupts after 38 years: 147 views, 64% watched
 - Trapped in the attic as the flood rose: 285 views, 42% watched
+- Yacht sank 25 minutes after rescue: 967 views, 0% watched
 - Clinging to a flipped boat 12 miles out: 31 views, 62% watched
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
 
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261107-06: Clean edit, but it is the routine door-cam basket hoist: the water reads as choppy, not as a sixty-knot gale, and several seconds are near-empty sea. The number in the hook is never visible on screen. Dropped.
 - ccf-20261107-07: Great number, weak picture: grainy black-and-white sensor footage of a calm sea, the sailor is never clearly singled out among the Navy crew, and 45 s of near-identical cockpit angles. Nothing on screen shows the danger. Dropped.
 - ccf-20261107-41: Good number, weak picture: for most of the runtime the raft is a speck on calm open ocean or the frame is the helicopter sponson; survivors smile in the basket. Calm routine hoist, no danger visible, and the source has no closer raft footage to fix it with. Dropped.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.5, 'hazards': 0.1} -> {'rescue': 0.37, 'aviation_naval': 0.53, 'hazards': 0.1}
-- query weights for 47 searches
