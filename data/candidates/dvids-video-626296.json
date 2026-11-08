@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:626296",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Florence rescue",
+  "title": "U.S. Coast Guard Medevacs 2 Patients in NC",
+  "description": "A helicopter aircrew from U.S. Coast Guard Air Station Elizabeth City medevacs two patients from Onslow Memorial Hospital, North Carolina, to Duke Hospital, North Carolina, Sept. 16, 2018. The patients were accompanied by flight paramedics who provided care for them during the flight. (U.S. Coast Guard video by Petty Officer 3rd Class Shannon Kearney)",
+  "keywords": "flooding, florence, ELIZABETH CITY, onslow, hurricaneflorence, Coast Guard, medevac, SAR, search and rescue, North Carolina, USCG, Hurricane",
+  "date": "2018-09-16T00:00:00-04:00",
+  "date_published": "2018-09-17T13:09:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Shannon Shepard",
+  "category": "B-Roll",
+  "virin": "180917-G-JW383-1001",
+  "location": {
+    "city": "Jacksonville",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/626296/us-coast-guard-medevacs-2-patients-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-626296",
+  "status": "new",
+  "harvested_at": "2026-11-08T16:29:52Z",
+  "duration": 62.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106033237/DOD_106033237.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9501,
+    "size": 75256947
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    44.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-626296.jpg",
+  "sheet_times": [
+    1.94,
+    5.81,
+    9.68,
+    13.55,
+    17.43,
+    21.3,
+    25.17,
+    29.05,
+    32.92,
+    36.79,
+    40.66,
+    44.54,
+    48.41,
+    52.28,
+    56.15,
+    60.03
+  ]
+}
