@@ -1,33 +1,33 @@
-# Playbook (computed 2026-11-08T14:28:55Z from 80 Shorts older than 48 hours)
+# Playbook (computed 2026-11-08T19:55:25Z from 83 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: abandon ship, boat crew pickup (+0.45, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.43, 1 Shorts)
 - story: capsized boat, people in the water (+0.43, 1 Shorts)
-- story: splashdown recovery (+0.43, 1 Shorts)
-- story: launch abort test (+0.42, 1 Shorts)
-- hook names a child (+0.39, 10 Shorts)
-- story: elderly sailor and dog, disabled sailboat far offshore (+0.28, 1 Shorts)
-- music: rescue (+0.24, 12 Shorts)
-- story: dog cliff rescue (+0.24, 1 Shorts)
+- hook names a child (+0.41, 10 Shorts)
+- story: splashdown recovery (+0.41, 1 Shorts)
+- story: launch abort test (+0.4, 1 Shorts)
+- story: elderly sailor and dog, disabled sailboat far offshore (+0.26, 1 Shorts)
+- story: dog cliff rescue (+0.23, 1 Shorts)
+- story: dog cliff fall, basket hoist (+0.21, 1 Shorts)
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.6, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.51, 1 Shorts)
-- story: yacht sinking stern first, 13 people taken off by cutter (-0.4, 1 Shorts)
-- music: hazards (-0.39, 4 Shorts)
-- story: volcano eruption (-0.36, 2 Shorts)
-- story: attic flood hoist (-0.33, 1 Shorts)
-- lane: hazards (-0.31, 3 Shorts)
-- story: rocket booster test with an anomaly (-0.25, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.5, 1 Shorts)
+- music: hazards (-0.36, 4 Shorts)
+- story: volcano eruption (-0.35, 2 Shorts)
+- story: yacht sinking stern first, 13 people taken off by cutter (-0.33, 1 Shorts)
+- story: missing divers found far offshore by infrared, navy destroyer pickup (-0.3, 1 Shorts)
+- story: attic flood hoist (-0.3, 1 Shorts)
+- music: naval (-0.3, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 8703 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 20705 views, 79% watched
+- Five abandon a sinking fishing boat: 9089 views, 97% watched
+- Boat flipped with a 4-year-old aboard: 20777 views, 79% watched
 - Orion splashes down after the Moon: 9444 views, 95% watched
 - Capsule torn off a rocket at Mach 1: 5179 views, 97% watched
-- Adrift 120 miles out with his dog: 3212 views, 96% watched
+- Adrift 120 miles out with his dog: 3259 views, 96% watched
 
 ## Weakest Shorts
 - Mauna Loa erupts after 38 years: 147 views, 64% watched
