@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:713890",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs person from cruise ship outside New Orleans, Louisiana",
+  "description": "An Air Station New Orleans MH-65 Dolphin helicopter crew conducts a hoist of a 23-year-old man aboard the cruise ship, Carnival Valor, who fell approximately five meters. The patient was transferred to New Orleans University Hospital in critical condition on October 8, 2019. (U.S. Coast Guard courtesy video)",
+  "keywords": "hoist, USCG",
+  "date": "2019-10-08T00:00:00-04:00",
+  "date_published": "2019-10-08T19:05:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Sydney Phoenix",
+  "category": "B-Roll",
+  "virin": "191008-G-ID129-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/713890/coast-guard-medevacs-person-cruise-ship-outside-new-orleans-louisiana",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-713890",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:06:12Z",
+  "duration": 40.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107320480/DOD_107320480.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3218,
+    "size": 16660222
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      38.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-713890.jpg",
+  "sheet_times": [
+    1.24,
+    3.71,
+    6.19,
+    8.66,
+    11.14,
+    13.61,
+    16.09,
+    18.57,
+    21.04,
+    23.52,
+    25.99,
+    28.47,
+    30.94,
+    33.42,
+    35.89,
+    38.37
+  ]
+}

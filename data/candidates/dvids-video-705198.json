@@ -1,0 +1,111 @@
+{
+  "asset_id": "video:705198",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Fishing Master 104 Miles West of Ft. Myers",
+  "description": "Coast Guard Air Station Clearwater medevacs a fishing master 104 miles west of Ft. Myers, Fla., Aug. 27, 2019. The Coast Guard launched an MH-60 Jayhawk helicopter crew who hoisted the man from a fishing vessel and transported him to Tampa General Hospital. U.S. Coast Guard video.",
+  "keywords": "Ft. Myers, Coast Guard, medevac, search and rescue",
+  "date": "2019-08-27T00:00:00-04:00",
+  "date_published": "2019-08-27T14:29:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Ayla Hudson",
+  "category": "B-Roll",
+  "virin": "190827-G-G0107-1001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/705198/coast-guard-medevacs-fishing-master-104-miles-west-ft-myers",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-705198",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:04:06Z",
+  "duration": 30.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107164665/DOD_107164665.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3056,
+    "size": 12202839
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.55,
+      "e": 4.59,
+      "text": "The basket is clear of the vessel. Clear to move. Easy packing left trailing."
+    },
+    {
+      "s": 4.59,
+      "e": 6.59,
+      "text": "Hillward, back on the extended. Roger, thank you."
+    },
+    {
+      "s": 6.59,
+      "e": 9.31,
+      "text": "And basket's halfway up."
+    },
+    {
+      "s": 9.31,
+      "e": 17.09,
+      "text": "Back to the seats, command. Below the aircraft, Roger, trailing, stolen."
+    },
+    {
+      "s": 17.09,
+      "e": 22.07,
+      "text": "That main-ended fiber to come in."
+    },
+    {
+      "s": 22.07,
+      "e": 28.57,
+      "text": "The basket is outside the cabin door."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.1,
+      6.9,
+      10.3,
+      18.8,
+      23.2,
+      29.2
+    ],
+    "silence_ends": [
+      1.5,
+      8.2,
+      14.2,
+      20.3,
+      26.1,
+      30.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-705198.jpg",
+  "sheet_times": [
+    0.94,
+    2.82,
+    4.71,
+    6.59,
+    8.47,
+    10.35,
+    12.23,
+    14.12,
+    16.0,
+    17.88,
+    19.76,
+    21.64,
+    23.53,
+    25.41,
+    27.29,
+    29.17
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:789277",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs 3 people west of Bimini",
+  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter aircrew medevaced three people approximately 16 miles west of Bimini, Bahamas, March 31, 2021. The vessel was sinking quickly so the people jumped into the water and the rescue swimmer hoisted them safely with no medical concerns. (U.S. Coast Guard video)",
+  "keywords": "Miami, Bahamas, MH-65, Air Station Miami, CoastGuardNewsWire",
+  "date": "2021-03-31T00:00:00-04:00",
+  "date_published": "2021-04-01T15:17:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210331-G-G0107-1001",
+  "location": {
+    "city": "Bimini",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/789277/coast-guard-medevacs-3-people-west-bimini",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-789277",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:06:05Z",
+  "duration": 82.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108259647/DOD_108259647.mp4",
+    "width": 1080,
+    "height": 1080,
+    "bitrate": 5567,
+    "size": 58542236
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      79.7
+    ],
+    "silence_ends": [
+      82.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-789277.jpg",
+  "sheet_times": [
+    2.55,
+    7.65,
+    12.76,
+    17.86,
+    22.96,
+    28.06,
+    33.16,
+    38.27,
+    43.37,
+    48.47,
+    53.57,
+    58.67,
+    63.78,
+    68.88,
+    73.98,
+    79.08
+  ]
+}

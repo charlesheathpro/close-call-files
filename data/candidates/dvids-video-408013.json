@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:408013",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs 71-Year-Old Man from Cruise Ship",
+  "description": "A crew aboard an MH-65 Dolphin helicopter from Coast Guard Air Station Miami, Fla., medevacs a 71-year-old man Saturday, June 6, 2015, approximately 22 miles east of Palm Beach, Fla. The passenger was hoisted off the cruise ship Carnival Sensation. U.S. Coast Guard video.",
+  "keywords": "Miami, hoist, Coast Guard rescue, Coast Guard Air Station Miami, Seventh Coast Guard District, medevac",
+  "date": "2015-06-06T00:00:00-04:00",
+  "date_published": "2015-06-06T23:06:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150606-G-AB001-001",
+  "location": {
+    "city": "Palm Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/408013/coast-guard-medevacs-71-year-old-man-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.2589,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-408013",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:05:28Z",
+  "duration": 355.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102493312/DOD_102493312.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9787,
+    "size": 439326290
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.27,
+    102.54,
+    152.99,
+    251.58,
+    350.18
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      355.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-408013.jpg",
+  "sheet_times": [
+    15.21,
+    37.11,
+    59.02,
+    80.92,
+    102.82,
+    124.72,
+    146.63,
+    168.53,
+    190.43,
+    212.33,
+    234.24,
+    256.14,
+    278.04,
+    299.94,
+    321.85,
+    343.75
+  ]
+}

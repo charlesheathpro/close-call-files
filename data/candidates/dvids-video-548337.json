@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:548337",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man from Fishing Vessel 154 Miles East of Kodiak, Alaska",
+  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew medevacs a crewman from the fishing vessel Cape Greig 154 miles east of Kodiak, September 5, 2017. The Jayhawk crew safely hoisted the ill crewman and transferred him to awaiting emergency medical personnel in Kodiak. U.S. Coast Guard video.",
+  "keywords": "Air Station Kodiak, Coast Guard, medevac, SAR, rescue",
+  "date": "2017-09-05T00:00:00-04:00",
+  "date_published": "2017-09-05T22:44:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 2nd Class Meredith Manning",
+  "category": "B-Roll",
+  "virin": "170905-G-EP136-0001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/548337/coast-guard-medevacs-man-fishing-vessel-154-miles-east-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-548337",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:05:02Z",
+  "duration": 25.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104804439/DOD_104804439.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8702,
+    "size": 27510528
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-548337.jpg",
+  "sheet_times": [
+    4.68,
+    5.98,
+    7.28,
+    8.57,
+    9.87,
+    11.16,
+    12.46,
+    13.75,
+    15.05,
+    16.34,
+    17.64,
+    18.93,
+    20.23,
+    21.52,
+    22.82,
+    24.11
+  ]
+}
