@@ -1,75 +1,76 @@
 {
-  "asset_id": "video:920150",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Coast Guard rescues 2 overdue boaters near Hopedale, Louisiana",
-  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station New Orleans hoists overdue boater near Hopedale, Louisiana, April 20, 2024. The helicopter crew transported the two overdue boaters to Hopedale Marina in St Bernard, Louisiana. (U.S. Coast Guard video, courtesy Air Station New Orleans)",
-  "keywords": "MH-60, District 8",
-  "date": "2024-04-20T00:00:00-04:00",
-  "date_published": "2024-04-20T20:52:06-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Heartland",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "240420-G-G0108-1001",
-  "location": {
-    "city": "Hopedale",
-    "state": "Louisiana",
-    "country": "United States",
-    "state_abbreviation": "LA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/920150/coast-guard-rescues-2-overdue-boaters-near-hopedale-louisiana",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-920150",
-  "status": "new",
-  "harvested_at": "2026-11-09T08:33:02Z",
-  "duration": 33.77,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110249980/DOD_110249980-1920x1080-9000k.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 0,
-    "size": 28428139
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    5.31,
-    8.88,
-    15.88,
-    21.39
+ "asset_id": "video:920150",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Coast Guard rescues 2 overdue boaters near Hopedale, Louisiana",
+ "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station New Orleans hoists overdue boater near Hopedale, Louisiana, April 20, 2024. The helicopter crew transported the two overdue boaters to Hopedale Marina in St Bernard, Louisiana. (U.S. Coast Guard video, courtesy Air Station New Orleans)",
+ "keywords": "MH-60, District 8",
+ "date": "2024-04-20T00:00:00-04:00",
+ "date_published": "2024-04-20T20:52:06-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Heartland",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "240420-G-G0108-1001",
+ "location": {
+  "city": "Hopedale",
+  "state": "Louisiana",
+  "country": "United States",
+  "state_abbreviation": "LA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/920150/coast-guard-rescues-2-overdue-boaters-near-hopedale-louisiana",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-920150",
+ "status": "passed_over",
+ "harvested_at": "2026-11-09T08:33:02Z",
+ "duration": 33.77,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110249980/DOD_110249980-1920x1080-9000k.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 0,
+  "size": 28428139
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  5.31,
+  8.88,
+  15.88,
+  21.39
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      33.7
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-920150.jpg",
-  "sheet_times": [
-    1.04,
-    3.12,
-    5.2,
-    7.28,
-    9.36,
-    11.44,
-    13.51,
-    15.59,
-    17.67,
-    19.75,
-    21.83,
-    23.91,
-    25.99,
-    28.07,
-    30.15,
-    32.23
+  "silence_ends": [
+   33.7
   ]
+ },
+ "sheet": "data/candidates/dvids-video-920150.jpg",
+ "sheet_times": [
+  1.04,
+  3.12,
+  5.2,
+  7.28,
+  9.36,
+  11.44,
+  13.51,
+  15.59,
+  17.67,
+  19.75,
+  21.83,
+  23.91,
+  25.99,
+  28.07,
+  30.15,
+  32.23
+ ],
+ "pass_reason": "FLIR sensor footage, calm"
 }

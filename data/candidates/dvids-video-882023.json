@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:882023",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Coast Guard rescues 3 people from sunken vessel off Dry Tortugas National Park",
-  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter crew rescue three men after their vessel sank near Dry Tortugas National Park, April 30, 2023. The aircrew hoisted the men into the aircraft and transferred them to Key West International Airport in good health. (U.S. Coast Guard video, courtesy Air Station Miami)",
-  "keywords": "SAR #Safety #USCG #DistrictSeven #Medevac",
-  "date": "2023-04-30T00:00:00-04:00",
-  "date_published": "2023-05-03T13:16:53-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Southeast",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "230430-G-G0107-1001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "United States",
-    "state_abbreviation": null,
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/882023/coast-guard-rescues-3-people-sunken-vessel-off-dry-tortugas-national-park",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-882023",
-  "status": "new",
-  "harvested_at": "2026-11-09T08:33:23Z",
-  "duration": 37.7,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109613693/DOD_109613693.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 0,
-    "size": 45879567
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      37.7
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-882023.jpg",
-  "sheet_times": [
-    1.16,
-    3.49,
-    5.81,
-    8.14,
-    10.46,
-    12.79,
-    15.11,
-    17.44,
-    19.76,
-    22.09,
-    24.41,
-    26.74,
-    29.06,
-    31.39,
-    33.71,
-    36.04
+ "asset_id": "video:882023",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Coast Guard rescues 3 people from sunken vessel off Dry Tortugas National Park",
+ "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter crew rescue three men after their vessel sank near Dry Tortugas National Park, April 30, 2023. The aircrew hoisted the men into the aircraft and transferred them to Key West International Airport in good health. (U.S. Coast Guard video, courtesy Air Station Miami)",
+ "keywords": "SAR #Safety #USCG #DistrictSeven #Medevac",
+ "date": "2023-04-30T00:00:00-04:00",
+ "date_published": "2023-05-03T13:16:53-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Southeast",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "230430-G-G0107-1001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "United States",
+  "state_abbreviation": null,
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/882023/coast-guard-rescues-3-people-sunken-vessel-off-dry-tortugas-national-park",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-882023",
+ "status": "passed_over",
+ "harvested_at": "2026-11-09T08:33:23Z",
+ "duration": 37.7,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109613693/DOD_109613693.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 0,
+  "size": 45879567
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   37.7
   ]
+ },
+ "sheet": "data/candidates/dvids-video-882023.jpg",
+ "sheet_times": [
+  1.16,
+  3.49,
+  5.81,
+  8.14,
+  10.46,
+  12.79,
+  15.11,
+  17.44,
+  19.76,
+  22.09,
+  24.41,
+  26.74,
+  29.06,
+  31.39,
+  33.71,
+  36.04
+ ],
+ "pass_reason": "washed-out false-colour door-cam, survivors are specks"
 }

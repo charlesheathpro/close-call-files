@@ -1,16 +1,24 @@
 {
-  "at": "2026-11-09T00:42:00Z",
+  "at": "2026-11-09T08:42:56Z",
   "healthy": false,
-  "numbers": {"uploaded": 104, "dropped": 44, "needs_qa": 5, "passed": 0, "needs_build": 0, "scheduled_48h": 4},
+  "numbers": {
+    "uploaded": 108,
+    "dropped": 47,
+    "passed": 2,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_48h": 6
+  },
   "found": [
-    "buffer thin: 4 scheduled in the next 48 h, nothing passed, 5 in QA",
-    "upload, harvest and stats runs all landed on time; upload_error alerts at 09:09 to 10:12Z Nov 8 were transient 504s on release downloads and those Shorts went up on retry",
-    "no repeated build errors",
-    "good new candidates are scarce: the rescue lane's remaining 1080p clips are mostly routine hoists, murky night door-cam or supply drops"
+    "buffer thin: 6 scheduled in the next 48 h, 0 passed, 2 in QA at start",
+    "last upload run 02:47Z, over 3 h ago (nothing was waiting); harvest and stats landed on time",
+    "no repeated build errors; upload_error alerts at 09:09 to 10:12Z Nov 8 were transient 504s, already retried",
+    "strong clips are exhausted: of about 35 rescue candidates looked at, most are medevac litters, night or FLIR door-cam, or routine hoists"
   ],
   "fixed": [
-    "QA: passed 08-22, fixed and passed 08-23 (r2) and 08-24 (r2); dropped 08-21 and 08-25",
-    "merged held spec 08-02 (Rose Marie sinks) from editor-hold-20261108, built and passed; 08-01 (upside down hull) and 08-03 (boat fire, raft) stay on the branch because they repeat Shorts publishing Nov 9",
-    "7 candidates passed over; pushed an archive harvest to dig up more footage"
+    "QA: fixed and passed 09-01 r3 (would-be rescuers, 7); dropped 09-02 (soft 720p door-cam)",
+    "editor pass: wrote, fixed (dead air) and passed 09-03 r2 (capsized 30 mi off Cedar Key, 7); 22 candidates passed over",
+    "pushed an archive harvest and an upload trigger",
+    "08-01 and 08-03 stay on editor-hold-20261108: they repeat the hull and boat-fire Shorts published Nov 9; merge on or after Nov 11 for Nov 12 slots"
   ]
 }
