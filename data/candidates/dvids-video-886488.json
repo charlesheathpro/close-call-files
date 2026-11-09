@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:886488",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs oil platform crewmember near Port Fourchon, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk aircrew hoists an oil platform crewmember experiencing chest pains 23 miles southwest of Port Fourchon, Louisiana, on June 10, 2023. The aircrew transferred the crewmember to University Medical Center New Orleans in stable condition. (U.S. Coast Guard video by Air Station New Orleans)",
+  "keywords": "Air Station, Port Fourchon, CoastGuardNewsWire",
+  "date": "2023-06-10T00:00:00-04:00",
+  "date_published": "2023-06-10T20:31:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230610-G-G0108-1001",
+  "location": {
+    "city": "Port Fourchon",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/886488/coast-guard-medevacs-oil-platform-crewmember-near-port-fourchon-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-886488",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:14:58Z",
+  "duration": 39.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109697677/DOD_109697677-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 37487775
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    34.97
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      39.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-886488.jpg",
+  "sheet_times": [
+    1.2,
+    3.61,
+    6.02,
+    8.42,
+    10.83,
+    13.23,
+    15.64,
+    18.05,
+    20.45,
+    22.86,
+    25.27,
+    27.67,
+    30.08,
+    32.48,
+    34.89,
+    37.3
+  ]
+}

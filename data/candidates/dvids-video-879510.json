@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:879510",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs motor vessel captain 218 miles offshore, Alabama",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter crew hoists a motor vessel captain experiencing heart attack-like symptoms 218 miles offshore Alabama on April 12, 2023. The captain was transferred to University Medical Center New Orleans in stable condition. (U.S. Coast Guard video by Air Station New Orleans)",
+  "keywords": "hoist, Air Station",
+  "date": "2023-04-12T00:00:00-04:00",
+  "date_published": "2023-04-13T14:36:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220413-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/879510/coast-guard-medevacs-motor-vessel-captain-218-miles-offshore-alabama",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-879510",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:15:04Z",
+  "duration": 76.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109572979/DOD_109572979-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 71611476
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    39.14,
+    44.28,
+    70.94
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      76.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-879510.jpg",
+  "sheet_times": [
+    2.36,
+    7.09,
+    11.81,
+    16.54,
+    21.27,
+    25.99,
+    30.72,
+    35.44,
+    40.17,
+    44.89,
+    49.62,
+    54.34,
+    59.07,
+    63.8,
+    68.52,
+    73.25
+  ]
+}

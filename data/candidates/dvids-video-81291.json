@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:81291",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Sabine MEDEVAC",
+  "description": "B-roll of a Coast Guard Air Station Houston MH-65C Dolphin helicopter crew medically evacuating (MEDEVAC) an injured crew member from the 700-foot motor vessel Eurogracht near Sabine Pass. Scenes include the injured individual being hoisted aboard the medical evacuation aircraft. Produced by Petty Officer 3rd Class Richard Brahm.",
+  "keywords": "MH-65C Dolphin, hoist, Sabine, Sabine Pass, Eurogracht",
+  "date": "2010-03-16T00:00:00-04:00",
+  "date_published": "2010-03-17T22:16:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100315-G-0000A-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/81291/sabine-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 12.012,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-81291",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:14:03Z",
+  "duration": 64.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1003/DOD_100066239/DOD_100066239.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 60.13,
+      "e": 63.13,
+      "text": "They get first stay right here."
+    },
+    {
+      "s": 63.13,
+      "e": 64.13,
+      "text": "Okay, correct."
+    },
+    {
+      "s": 64.13,
+      "e": 65.13,
+      "text": "The opening letter, yeah."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      12.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-81291.jpg",
+  "sheet_times": [
+    13.64,
+    16.9,
+    20.17,
+    23.43,
+    26.69,
+    29.95,
+    33.21,
+    36.47,
+    39.74,
+    43.0,
+    46.26,
+    49.52,
+    52.78,
+    56.04,
+    59.31,
+    62.57
+  ]
+}

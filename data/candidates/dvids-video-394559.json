@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:394559",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs 46-Year Old Male 64 Miles Northwest of Venice, Fla.",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, medevacs 46-year old Keith Clancy from the fishing boat Miss Brianna, 64 miles northwest of Venice, Florida, March 13, 2015. The helicopter crew hoisted Clancy and transported him to Sarasota EMS for further medical assistance. U.S. Coast Guard video.",
+  "keywords": "MH-60, Jayhawk, Coast Guard rescue, AIR STATION CLEARWATER, Sarasota, Venice, Keith Clancy, Miss Brianna, Coast Guard, medevac, Florida, USCG",
+  "date": "2015-03-13T00:00:00-04:00",
+  "date_published": "2015-03-13T20:17:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 3rd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "150313-G-ZZ999-001",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/394559/coast-guard-medevacs-46-year-old-male-64-miles-northwest-venice-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.47965,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-394559",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:13:57Z",
+  "duration": 33.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102292292/DOD_102292292-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 938,
+    "size": 3908781
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.5,
+    26.08
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-394559.jpg",
+  "sheet_times": [
+    5.36,
+    7.11,
+    8.86,
+    10.61,
+    12.36,
+    14.11,
+    15.86,
+    17.62,
+    19.37,
+    21.12,
+    22.87,
+    24.62,
+    26.37,
+    28.12,
+    29.87,
+    31.63
+  ]
+}
