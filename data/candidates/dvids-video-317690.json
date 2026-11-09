@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:317690",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs sailor",
+  "description": "BOSTON - A Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter crew medically evacuates an injured sailor 30 miles south of Long Island, N.Y., June 25, 2012. The sailor had suffered back injuries and was safely hoisted then transported to a hospital. U.S. Coast Guard video by Air Station Cape Cod.",
+  "keywords": "CGVI",
+  "date": "2012-08-02T13:07:43-04:00",
+  "date_published": "2013-12-22T16:35:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317690/coast-guard-medevacs-sailor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317690",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:12:58Z",
+  "duration": 125.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062655/DOD_101062655.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3128,
+    "size": 48500316
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    95.13
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-317690.jpg",
+  "sheet_times": [
+    3.9,
+    11.7,
+    19.5,
+    27.3,
+    35.1,
+    42.9,
+    50.7,
+    58.5,
+    66.3,
+    74.1,
+    81.89,
+    89.69,
+    97.49,
+    105.29,
+    113.09,
+    120.89
+  ]
+}

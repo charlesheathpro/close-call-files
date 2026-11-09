@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:900271",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs crewmember 135 miles southwest of Southwest Pass, Louisiana",
+  "description": "U.S. Coast Guard Air Station New Orleans MH-60 Jayhawk aircrew hoist a crewmember from a research vessel October 12, 2023, southwest of Southwest Pass, Louisiana. The crewmember was transferred to awaiting emergency medical services personnel at the University Medical Center in New Orleans. (U.S. Coast Guard video by Air Station New Orleans)",
+  "keywords": "MH-60, District 8",
+  "date": "2023-10-12T00:00:00-04:00",
+  "date_published": "2023-10-12T15:58:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231012-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/900271/coast-guard-medevacs-crewmember-135-miles-southwest-southwest-pass-louisiana",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-900271",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:11:13Z",
+  "duration": 29.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2310/DOD_109935102/DOD_109935102-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 30401538
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      29.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-900271.jpg",
+  "sheet_times": [
+    0.9,
+    2.69,
+    4.48,
+    6.27,
+    8.06,
+    9.85,
+    11.64,
+    13.44,
+    15.23,
+    17.02,
+    18.81,
+    20.6,
+    22.39,
+    24.18,
+    25.98,
+    27.77
+  ]
+}

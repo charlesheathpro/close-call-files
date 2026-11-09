@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:319530",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Distressed Surfer Near Depoe Bay, Ore.",
+  "description": "A U.S. Coast Guard MH-65 Dolphin helicopter crew from Sector North Bend, Ore., hoists a distressed surfer near Depoe Bay, Ore., Dec. 30, 2013.\r\n\r\nThe surfer was transported to Coast Guard Air Facility Newport, Ore., and placed in the care of local EMS.\r\n\r\nU.S. Coast Guard video by Sector North Bend",
+  "keywords": "MH-65 Dolphin helicopter, Pacific Northwest, Depoe Bay, Sector North Bend, Air Facility Newport, D13",
+  "date": "2013-12-30T00:00:00-05:00",
+  "date_published": "2014-01-13T14:57:19-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "131230-G-ZZ999-001",
+  "location": {
+    "city": "Depoe Bay",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/319530/coast-guard-rescues-distressed-surfer-near-depoe-bay-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-319530",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:11:35Z",
+  "duration": 155.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101083345/DOD_101083345.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9208,
+    "size": 179304956
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      155.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-319530.jpg",
+  "sheet_times": [
+    4.84,
+    14.52,
+    24.2,
+    33.88,
+    43.56,
+    53.24,
+    62.92,
+    72.6,
+    82.28,
+    91.95,
+    101.63,
+    111.31,
+    120.99,
+    130.67,
+    140.35,
+    150.03
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:680601",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger 66 Miles Offshore Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston Dolphin helicopter crew hoists a passenger from the cruise ship Carnival Dream approximately 66 miles offshore of Galveston, Texas, May 14, 2019. The passenger, along with a Carnival Dream physician, was transported to awaiting emergency medical services personnel at Scholes International Airport in Galveston. (U.S. Coast Guard video)",
+  "keywords": "hoist, Galveston, Carnival Dream, Scholes International Airport in Galveston, Cruise Ship, Air Station Houston",
+  "date": "2019-05-13T00:00:00-04:00",
+  "date_published": "2019-05-14T15:59:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190514-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/680601/coast-guard-medevacs-cruise-ship-passenger-66-miles-offshore-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-680601",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:10:48Z",
+  "duration": 130.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106754541/DOD_106754541.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7020,
+    "size": 116474747
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    41.94,
+    83.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      130.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-680601.jpg",
+  "sheet_times": [
+    4.05,
+    12.16,
+    20.27,
+    28.37,
+    36.48,
+    44.58,
+    52.69,
+    60.8,
+    68.9,
+    77.01,
+    85.11,
+    93.22,
+    101.33,
+    109.43,
+    117.54,
+    125.64
+  ]
+}

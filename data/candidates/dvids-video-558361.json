@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:558361",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs injured fisherman 25 miles off Nantucket",
+  "description": "A helicopter aircrew from Coast Guard Air Station Cape Cod medevacs a seriously injured fisherman Saturday, October 14, 2017 from a fishing boat 25 miles east of Nantucket, Massachusetts. The aircrew hoisted the man and flew him to Massachusetts General Hospital where his care was transferred to medical personnel. U.S. Coast Guard video.",
+  "keywords": "Nantucket, Air Station Cape Cod, medevac",
+  "date": "2017-10-14T00:00:00-04:00",
+  "date_published": "2017-10-14T21:55:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171014-G-G0101-1001",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/558361/coast-guard-medevacs-injured-fisherman-25-miles-off-nantucket",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-558361",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:12:48Z",
+  "duration": 195.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104964004/DOD_104964004.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9013,
+    "size": 220187712
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      195.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-558361.jpg",
+  "sheet_times": [
+    6.08,
+    18.25,
+    30.42,
+    42.59,
+    54.76,
+    66.93,
+    79.1,
+    91.27,
+    103.43,
+    115.6,
+    127.77,
+    139.94,
+    152.11,
+    164.28,
+    176.45,
+    188.62
+  ]
+}
