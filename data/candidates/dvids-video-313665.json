@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:313665",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "9-24-08 ARAPAHO Medevac",
+  "description": "Port O'Connor, Texas - An HH-65C Helicopter rescue crew medevaced a crewmember aboard the Deck Barge Arapaho, 7 miles east of the Matagorda Jetties.",
+  "keywords": "CGVI",
+  "date": "2008-09-24T18:22:14-04:00",
+  "date_published": "2013-12-17T00:08:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Port O'Connor",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313665/9-24-08-arapaho-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313665",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:54:59Z",
+  "duration": 72.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054249/DOD_101054249-640x480-2679k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2679,
+    "size": 25449118
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    18.18,
+    47.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313665.jpg",
+  "sheet_times": [
+    2.26,
+    6.79,
+    11.31,
+    15.84,
+    20.37,
+    24.89,
+    29.42,
+    33.94,
+    38.47,
+    42.99,
+    47.52,
+    52.05,
+    56.57,
+    61.1,
+    65.62,
+    70.15
+  ]
+}

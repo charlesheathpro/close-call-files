@@ -1,0 +1,58 @@
+{
+  "asset_id": "video:315649",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Zim Haifa medevac, Cold Bay",
+  "description": "KODIAK, Alaska - A Coast Guard Air Station Kodiak HH-65 Dolphin helicopter crew hoists an Israeli crewmember from the 964-foot container ship Zim Haifa about 97 miles east of Cold Bay July 12, 2010.  The 48-year-old male reportedly injured his left hand after a valve dropped on it and the helicopter crew transferred him to the Cold Bay medical clinic.  U.S. Coast Guard video by Air Station Kodiak.",
+  "keywords": "CGVI",
+  "date": "2010-07-12T22:13:47-04:00",
+  "date_published": "2013-12-19T12:34:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315649/zim-haifa-medevac-cold-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 17.5509,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315649",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:45Z",
+  "duration": 17.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058658/DOD_101058658.mp4",
+    "width": 768,
+    "height": 576,
+    "bitrate": 975,
+    "size": 4958270
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.84,
+    16.32
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      16.5
+    ],
+    "silence_ends": [
+      5.0,
+      17.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315649.jpg",
+  "sheet_times": null
+}

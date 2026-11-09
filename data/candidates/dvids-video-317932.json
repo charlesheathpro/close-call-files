@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:317932",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "130322-G-JY570-CS-medevac",
+  "description": "SAN DIEGO - U.S. Coast Guard aircrews from San Diego and Sacramento worked together to airlift a passenger in need of medical attention from a cruise ship approximately 200 miles southwest of San Diego, March 22, 2013. \nThe MH-60 Jayhawk helicopter crew hoisted the 71-year-old woman into the aircraft and transported her to Sector San Diego, where she was transferred to emergency medical personnel for further care. U.S. Coast Guard video by Petty Officer 1st Class Henry G. Dunphy.",
+  "keywords": "CGVI",
+  "date": "2013-03-22T16:13:25-04:00",
+  "date_published": "2013-12-22T21:46:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317932/130322-g-jy570-cs-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317932",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:56:19Z",
+  "duration": 194.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062900/DOD_101062900.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 248117193
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    54.79,
+    116.38,
+    147.11,
+    157.76,
+    165.5,
+    182.05,
+    189.19
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      189.3
+    ],
+    "silence_ends": [
+      116.5,
+      194.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317932.jpg",
+  "sheet_times": [
+    6.06,
+    18.17,
+    30.29,
+    42.4,
+    54.52,
+    66.64,
+    78.75,
+    90.87,
+    102.98,
+    115.1,
+    127.21,
+    139.33,
+    151.45,
+    163.56,
+    175.68,
+    187.79
+  ]
+}

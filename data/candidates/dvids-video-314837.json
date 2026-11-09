@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:314837",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "100122-G-0969N-MEXICO-MEDEVAC",
+  "description": "SAN DIEGO - A helicopter crew from Coast Guard Sector San Diego medically evacuated a U.S. citizen from Mexico, Friday, Jan. 22, 2010. The patient was flown to Yuma Regional Medical Center, Yuma, Ariz. U.S. Coast Guard video by Petty Officer 3rd Class Joseph C. Nelson.",
+  "keywords": "CGVI",
+  "date": "2010-01-23T15:22:23-05:00",
+  "date_published": "2013-12-17T16:35:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314837/100122-g-0969n-mexico-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314837",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:56:47Z",
+  "duration": 92.51,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055990/DOD_101055990.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6365,
+    "size": 73892297
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.05,
+    70.86,
+    87.38
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      92.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314837.jpg",
+  "sheet_times": [
+    2.88,
+    8.63,
+    14.38,
+    20.13,
+    25.88,
+    31.63,
+    37.38,
+    43.13,
+    48.88,
+    54.63,
+    60.38,
+    66.13,
+    71.88,
+    77.63,
+    83.38,
+    89.13
+  ]
+}

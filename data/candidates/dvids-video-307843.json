@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:307843",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ailing crewman",
+  "description": "SAN DIEGO - A U.S. Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuated a 57-year-old Filipino man from an oil tanker approximately 35 miles west of Oceanside, Calif., Nov. 13, 2013. The man was hoisted from the 1,077-foot Front Stratus after he began experiencing stroke-like symptoms. U.S. Coast Guard video.",
+  "keywords": "tanker, stroke, EMS, Oceanside, medically evacuated, Front Stratus, helicopter, US Coast Guard, medevac, airlift, rescue, San Diego, hospital, emergency",
+  "date": "2013-11-13T00:00:00-05:00",
+  "date_published": "2013-11-13T19:45:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "131113-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/307843/coast-guard-medevacs-ailing-crewman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-307843",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:55:56Z",
+  "duration": 141.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1311/DOD_100952817/DOD_100952817.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9584,
+    "size": 173628165
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.01,
+    14.91,
+    52.59,
+    70.87,
+    119.02,
+    134.1
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      141.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-307843.jpg",
+  "sheet_times": [
+    4.39,
+    13.18,
+    21.97,
+    30.76,
+    39.55,
+    48.33,
+    57.12,
+    65.91,
+    74.7,
+    83.49,
+    92.27,
+    101.06,
+    109.85,
+    118.64,
+    127.43,
+    136.21
+  ]
+}

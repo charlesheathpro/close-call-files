@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:316711",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "110208-G-0000X- Medevac SPI",
+  "description": "HOUSTON -The Coast Guard medevaced a man from a cargo tanker 10 miles south of South Padre Island, Tuesday.\nWatchstanders at Sector Corpus Christi received a report at approximately 12 a.m. that a 40-year-old male aboard the motor tanker Ballad was experiencing extreme abdominal pain.",
+  "keywords": "CGVI",
+  "date": "2011-02-08T14:33:13-05:00",
+  "date_published": "2013-12-20T14:18:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316711/110208-g-0000x-medevac-spi",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316711",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:54:46Z",
+  "duration": 76.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060887/DOD_101060887-960x540-2695k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 2695,
+    "size": 26232994
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    14.25,
+    38.97,
+    51.89,
+    72.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316711.jpg",
+  "sheet_times": [
+    2.39,
+    7.17,
+    11.95,
+    16.73,
+    21.51,
+    26.29,
+    31.07,
+    35.85,
+    40.63,
+    45.41,
+    50.19,
+    54.97,
+    59.75,
+    64.53,
+    69.31,
+    74.09
+  ]
+}

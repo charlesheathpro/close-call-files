@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:310889",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Kayaker",
+  "description": "An MH-60 Jayhawk helicopter rescue crew from Coast Guard Station San Francisco medically evacuated a man suffering from stomach pain and dehydration along the shoreline of Tomales Bay, Calif., Monday, December 2, 2013.",
+  "keywords": "Jayhawk, Air Station San Francisco, District 11, Califrornia, helicopter, Coast Guard, San Francisco",
+  "date": "2013-12-02T00:00:00-05:00",
+  "date_published": "2013-12-02T21:01:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": "131202-G-AT057-282",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/310889/coast-guard-medevacs-injured-kayaker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-310889",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:56:55Z",
+  "duration": 40.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_100968085/DOD_100968085.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 64757992
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.13
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-310889.jpg",
+  "sheet_times": [
+    1.24,
+    3.73,
+    6.21,
+    8.7,
+    11.18,
+    13.67,
+    16.15,
+    18.64,
+    21.12,
+    23.61,
+    26.09,
+    28.57,
+    31.06,
+    33.54,
+    36.03,
+    38.51
+  ]
+}

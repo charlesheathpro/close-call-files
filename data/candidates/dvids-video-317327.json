@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:317327",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "111126-G-JY570-CS-medevac",
+  "description": "SAN DIEGO -- A U.S. Coast Guard helicopter crew from San Diego medically evacuates a 77-year-old woman who was experiencing symptoms of a stroke aboard a cruise ship 230 miles southwest of San Diego, Nov. 26, 2011.\nThe woman and the ship's nurse were hoisted to the helicopter and transported to Sector San Diego, where the woman was transferred to emergency medical personnel for further care. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-11-27T02:08:27-05:00",
+  "date_published": "2013-12-21T17:43:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317327/111126-g-jy570-cs-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317327",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:15Z",
+  "duration": 330.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062236/DOD_101062236.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 4528,
+    "size": 184481412
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    132.8,
+    165.63,
+    292.29,
+    303.84,
+    325.02
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      330.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317327.jpg",
+  "sheet_times": [
+    10.3,
+    30.91,
+    51.51,
+    72.12,
+    92.72,
+    113.33,
+    133.94,
+    154.54,
+    175.15,
+    195.75,
+    216.36,
+    236.96,
+    257.57,
+    278.17,
+    298.78,
+    319.39
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:79530",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Mexican Diver",
+  "description": "B-roll of a Mexican diver being evacuated by the crew of an MH-60 Jayhawk helicopter from Coast Guard Sector San Diego, after the diver suffered decompression sickness on Guadalupe Island in Mexico. Scenes include the Coast Guard  crew bringing the man out of a village surrounded by mountains, the MH-60 Jayhawk landing and medical personnel pulling the rescued man out of the helicopter to transfer him to the hospital. Produced by PADET San Diego, Petty Officer 3rd Class Henry G. Dunphy.",
+  "keywords": "mexico, Coast Guard rescue, MH-60 Jayhawk helicopter, Coast Guard Sector San Diego, Guadalupe Island, decompression sickness, Coast Guard",
+  "date": "2010-02-19T00:00:00-05:00",
+  "date_published": "2010-02-19T17:11:57-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100219-G-0694D",
+  "location": {
+    "city": "Guadalupe Island",
+    "state": "",
+    "country": "Mexico",
+    "state_abbreviation": null,
+    "country_abbreviation": "MX"
+  },
+  "page_url": "https://www.dvidshub.net/video/79530/coast-guard-medevacs-mexican-diver",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.13747,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-79530",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:56:09Z",
+  "duration": 129.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1002/DOD_100064367/DOD_100064367.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    16.32,
+    34.77,
+    41.88,
+    81.58,
+    81.65,
+    124.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      113.1,
+      114.2,
+      119.7
+    ],
+    "silence_ends": [
+      4.1,
+      114.2,
+      119.7,
+      129.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-79530.jpg",
+  "sheet_times": [
+    8.04,
+    15.86,
+    23.67,
+    31.48,
+    39.3,
+    47.11,
+    54.92,
+    62.74,
+    70.55,
+    78.36,
+    86.18,
+    93.99,
+    101.8,
+    109.62,
+    117.43,
+    125.24
+  ]
+}

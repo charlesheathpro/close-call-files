@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:349789",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ailing fisherman",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuates an ailing fisherman from a vessel approximately 30 miles south of San Diego, July 15, 2014. The crew of the 56-foot Seeker, a commercial fishing vessel, contacted the Coast Guard at 11:56 a.m., for assistance for the U.S. citizen after he began experiencing heart attack like symptoms and collapsed, possibly suffering an injury. (U.S. Coast Guard photo by Petty Officer 3rd Class Connie Terrell)",
+  "keywords": "heart attack, EMS, Fisherman, seeker, medically evacuated, ailing, Coast Guard, medevac, fishing, injured, Ill.",
+  "date": "2014-07-15T00:00:00-04:00",
+  "date_published": "2014-07-15T20:29:42-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140715-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/349789/coast-guard-medevacs-ailing-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-349789",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:55:44Z",
+  "duration": 147.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101811724/DOD_101811724.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8922,
+    "size": 164248715
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.74,
+    99.27,
+    117.55,
+    141.91
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      147.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-349789.jpg",
+  "sheet_times": [
+    4.59,
+    13.76,
+    22.93,
+    32.1,
+    41.28,
+    50.45,
+    59.62,
+    68.8,
+    77.97,
+    87.14,
+    96.31,
+    105.49,
+    114.66,
+    123.83,
+    133.0,
+    142.18
+  ]
+}

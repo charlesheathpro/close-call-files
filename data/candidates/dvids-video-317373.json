@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317373",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "CGAS medevacs man near Kodiak",
+  "description": "KODIAK, Alaska - A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew medevacs a 27-year-old fisherman from the 57-foot fishing vessel Captain Kidd Jan. 1, 2012.  The man reportedly suffered from a broken arm after it was caught in the anchor line.  U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-01-02T00:33:59-05:00",
+  "date_published": "2013-12-21T18:33:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317373/cgas-medevacs-man-near-kodiak",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317373",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:35Z",
+  "duration": 152.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062284/DOD_101062284.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 6667,
+    "size": 130048958
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0
+  ],
+  "drama_score": 83,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      152.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317373.jpg",
+  "sheet_times": [
+    4.74,
+    14.21,
+    23.69,
+    33.16,
+    42.63,
+    52.11,
+    61.58,
+    71.06,
+    80.53,
+    90.01,
+    99.48,
+    108.96,
+    118.43,
+    127.9,
+    137.38,
+    146.85
+  ]
+}

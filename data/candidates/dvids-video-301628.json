@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:301628",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Person",
+  "description": "A rescue crew from Coast Guard Air Station San Francisco MEDEVAC-ed a cruise worker from the Grand Princess near Half Moon Bay, Tuesday at approximately 6:30 p.m.",
+  "keywords": "Air Station, Indonesian, District 11, grand princess, Stanford Medical Center, helicopter, Coast Guard, medevac, Cruise Ship, San Francisco",
+  "date": "2013-09-17T00:00:00-04:00",
+  "date_published": "2013-09-18T13:10:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": "130917-G-AT057-046",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/301628/coast-guard-medevacs-injured-person",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-301628",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:01Z",
+  "duration": 64.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100915583/DOD_100915583.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8419,
+    "size": 69134534
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    60.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      64.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-301628.jpg",
+  "sheet_times": [
+    1.99,
+    5.96,
+    9.94,
+    13.91,
+    17.89,
+    21.86,
+    25.84,
+    29.82,
+    33.79,
+    37.77,
+    41.74,
+    45.72,
+    49.69,
+    53.67,
+    57.64,
+    61.62
+  ]
+}

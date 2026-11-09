@@ -1,0 +1,131 @@
+{
+  "asset_id": "video:359948",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Ailing Mariner",
+  "description": "An aircrew from U.S. Coast Guard Sector San Diego conducts a medical evacuation of a crewman who was suffering from possible appendicitis aboard a cargo ship approximately 210 miles southwest of San Diego, Sept. 9, 2014.\r\nThe 27-year-old man was transported safely to Sector San Diego and transferred to emergency medical personnel for further care. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "Jayhawk, Coast Guard rescue, medevac, San Diego",
+  "date": "2014-09-09T00:00:00-04:00",
+  "date_published": "2014-09-10T01:48:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140909-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/359948/coast-guard-medevacs-ailing-mariner",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-359948",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:55:36Z",
+  "duration": 88.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101936138/DOD_101936138.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7449,
+    "size": 83519575
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.83,
+      "e": 8.83,
+      "text": "And the front, we're going to go over that."
+    },
+    {
+      "s": 8.83,
+      "e": 10.83,
+      "text": "Actually, we're going to come right, team on or right forward."
+    },
+    {
+      "s": 10.83,
+      "e": 20.14,
+      "text": "We're going to go in between that and the, uh, we're going to come on left now."
+    },
+    {
+      "s": 20.14,
+      "e": 25.17,
+      "text": "100 feet."
+    },
+    {
+      "s": 25.17,
+      "e": 26.17,
+      "text": "100 feet."
+    },
+    {
+      "s": 26.17,
+      "e": 27.17,
+      "text": "Again, let's go."
+    },
+    {
+      "s": 27.17,
+      "e": 49.38,
+      "text": "Again, what's up."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    83.62
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      27.0,
+      32.7,
+      39.0,
+      44.3,
+      50.5,
+      58.6,
+      61.3,
+      72.4,
+      74.5,
+      80.4,
+      83.6
+    ],
+    "silence_ends": [
+      4.8,
+      31.2,
+      36.1,
+      42.0,
+      47.9,
+      56.2,
+      60.2,
+      68.7,
+      73.0,
+      75.7,
+      81.3,
+      88.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-359948.jpg",
+  "sheet_times": [
+    6.66,
+    11.92,
+    17.17,
+    22.43,
+    27.69,
+    32.95,
+    38.21,
+    43.47,
+    48.73,
+    53.99,
+    59.25,
+    64.51,
+    69.77,
+    75.03,
+    80.29,
+    85.55
+  ]
+}
