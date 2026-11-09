@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:707797",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs diver 57 miles offshore Galveston, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter crew medevacs a diver suffering from possible decompression sickness from a recreational vessel 57 miles offshore Galveston, Texas, Sep. 8, 2019. The diver was reported to be in stable condition. (U.S. Coast Guard video by Air Station Houston)",
+  "keywords": "medevac, SAR, search and rescue",
+  "date": "2019-09-08T00:00:00-04:00",
+  "date_published": "2019-09-08T20:44:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190909-G-G0108-1004",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/707797/coast-guard-medevacs-diver-57-miles-offshore-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-707797",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:59:34Z",
+  "duration": 36.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107197012/DOD_107197012.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8356,
+    "size": 38283752
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      36.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-707797.jpg",
+  "sheet_times": [
+    1.13,
+    3.39,
+    5.65,
+    7.91,
+    10.17,
+    12.43,
+    14.69,
+    16.95,
+    19.2,
+    21.46,
+    23.72,
+    25.98,
+    28.24,
+    30.5,
+    32.76,
+    35.02
+  ]
+}

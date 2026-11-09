@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:832554",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise ship passenger near New Orleans",
+  "description": "A Coast Guard Station New Orleans 29-foot Special Purpose Craft-Shallow Water boatcrew medevacs a cruise ship passenger on the Mississippi River near New Orleans on Feb. 26, 2022. The boatcrew transferred the passenger to the New Orleans cruise terminal to awaiting emergency medical services personnel in stable condition. (U.S. Coast Guard courtesy video by Coast Guard Station New Orleans)",
+  "keywords": "Cruise, boatcrew, carnival, valor, CoastGuardNewsWire",
+  "date": "2022-02-26T00:00:00-05:00",
+  "date_published": "2022-02-27T00:36:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220226-G-G0108-1001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/832554/coast-guard-medevacs-cruise-ship-passenger-near-new-orleans",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-832554",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:58:34Z",
+  "duration": 34.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108832858/DOD_108832858-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 28134382
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.39,
+    29.3,
+    29.8
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      34.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-832554.jpg",
+  "sheet_times": [
+    1.06,
+    3.18,
+    5.3,
+    7.42,
+    9.54,
+    11.66,
+    13.79,
+    15.91,
+    18.03,
+    20.15,
+    22.27,
+    24.39,
+    26.51,
+    28.63,
+    30.75,
+    32.87
+  ]
+}
