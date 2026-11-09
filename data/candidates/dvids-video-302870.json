@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:302870",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard conducts medevac of man with severed leg",
+  "description": "Coast Guard Air Station New Orleans conducts a medevac of a 57-year-old man from a 75-foot fishing vessel 92 miles south of Marsh Island, La., October 7, 2013.",
+  "keywords": "medical evacuation, Coast Guard Air Station New Orleans, marsh island, Severed Leg, Coast Guard, medevac, rescue, New Orleans",
+  "date": "2013-10-07T00:00:00-04:00",
+  "date_published": "2013-10-07T20:02:43-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "071013-G-ZZ999-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302870/coast-guard-conducts-medevac-man-with-severed-leg",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-302870",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:42:35Z",
+  "duration": 68.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1310/DOD_100928346/DOD_100928346.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8636,
+    "size": 75822949
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.17,
+    5.0,
+    65.53
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302870.jpg",
+  "sheet_times": [
+    2.13,
+    6.38,
+    10.63,
+    14.88,
+    19.14,
+    23.39,
+    27.64,
+    31.9,
+    36.15,
+    40.4,
+    44.65,
+    48.91,
+    53.16,
+    57.41,
+    61.66,
+    65.92
+  ]
+}

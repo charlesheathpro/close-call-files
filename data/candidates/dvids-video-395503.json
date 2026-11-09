@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:395503",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man off Recreational Boat",
+  "description": "Air Station Corpus Christi and Station Port Aransas coordinate a medevac of a 70-year-old man from a recreational boat near Port Aransas, Texas, March 19, 2015. Coast Guard video by Air Station Corpus Christi.",
+  "keywords": "Coast Guard rescue, MH-65, Port Aransas, 45-foot RB-M, Coast Guard, medevac, rescue, Corpus Christi, USCG",
+  "date": "2015-03-19T00:00:00-04:00",
+  "date_published": "2015-03-20T16:33:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Dustin Williams",
+  "category": "B-Roll",
+  "virin": "150319-G-xx999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/395503/coast-guard-medevacs-man-off-recreational-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.22553,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-395503",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:43:20Z",
+  "duration": 52.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102306925/DOD_102306925.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9219,
+    "size": 60527030
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.24,
+    4.24,
+    11.85,
+    33.07,
+    36.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      33.0
+    ],
+    "silence_ends": [
+      4.2,
+      52.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-395503.jpg",
+  "sheet_times": [
+    5.71,
+    8.67,
+    11.64,
+    14.61,
+    17.57,
+    20.54,
+    23.5,
+    26.47,
+    29.44,
+    32.4,
+    35.37,
+    38.33,
+    41.3,
+    44.27,
+    47.23,
+    50.2
+  ]
+}

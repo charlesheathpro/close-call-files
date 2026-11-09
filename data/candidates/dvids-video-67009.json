@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:67009",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Woman From Cruise Ship",
+  "description": "B-roll of the U.S. Coast Guard evacuating someone from a cruise ship. Produced by Lt. John Filipowicz.",
+  "keywords": "US Coast Guard, medevac",
+  "date": "2009-08-23T00:00:00-04:00",
+  "date_published": "2009-08-24T03:10:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090823-G-0694D-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/67009/coast-guard-medevacs-woman-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-67009",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:43:15Z",
+  "duration": 89.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0908/DOD_100051039/DOD_100051039.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    9.64,
+    15.88,
+    20.89,
+    33.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      54.0
+    ],
+    "silence_ends": [
+      4.0,
+      89.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-67009.jpg",
+  "sheet_times": [
+    6.66,
+    11.96,
+    17.26,
+    22.56,
+    27.87,
+    33.17,
+    38.47,
+    43.78,
+    49.08,
+    54.38,
+    59.69,
+    64.99,
+    70.29,
+    75.59,
+    80.9,
+    86.2
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:315819",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "100907-G-9551A Air Station Houston Medevac",
+  "description": "HOUSTON - An Air Station Houston MH-65C Dolphin helicopter and crew medevaced a 34-year old man from a tank ship off the Galveston coast, Sept. 7, 2010.  The man was reported to be suffering from acute abnominal pain.  U.S. Coast Guard video courtesy Air Station Houston",
+  "keywords": "CGVI",
+  "date": "2010-09-07T12:45:15-04:00",
+  "date_published": "2013-12-19T14:53:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315819/100907-g-9551a-air-station-houston-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315819",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:42:30Z",
+  "duration": 35.87,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058922/DOD_101058922-640x480-557k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 557,
+    "size": 3056748
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 9.78,
+      "e": 10.98,
+      "text": "Alright, pedal."
+    }
+  ],
+  "scene_cuts": [
+    4.3,
+    31.5
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      31.6
+    ],
+    "silence_ends": [
+      4.4,
+      35.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315819.jpg",
+  "sheet_times": [
+    1.11,
+    3.32,
+    5.53,
+    7.74,
+    9.95,
+    12.16,
+    14.37,
+    16.58,
+    18.79,
+    21.0,
+    23.21,
+    25.43,
+    27.64,
+    29.85,
+    32.06,
+    34.27
+  ]
+}

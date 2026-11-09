@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:857773",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard, Navy medevac distressed mariner off Hawaii",
+  "description": "October 2, 2021 - 115 nautical miles from the Hawaii coastline, the crews of U.S. Coast Guard Cutter Joseph Gerczak (WPC 1126) and a U.S. Navy Helicopter Maritime Strike Squadron 37 MH-60 Sea Hawk helicopter medevac a distressed mariner.",
+  "keywords": "navy, medevac",
+  "date": "2021-10-02T00:00:00-04:00",
+  "date_published": "2022-09-19T01:26:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "USCGC Joseph Gerczak (WPC 1126)",
+  "credit": "Courtesy",
+  "category": "Package",
+  "virin": "211002-G-G2014-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/857773/coast-guard-navy-medevac-distressed-mariner-off-hawaii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-857773",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:45:33Z",
+  "duration": 69.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109224048/DOD_109224048-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 58198647
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.13,
+    9.01,
+    25.09,
+    32.83,
+    37.17,
+    40.77,
+    45.18,
+    49.28,
+    53.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      0.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-857773.jpg",
+  "sheet_times": [
+    2.15,
+    6.46,
+    10.77,
+    15.07,
+    19.38,
+    23.69,
+    27.99,
+    32.3,
+    36.6,
+    40.91,
+    45.22,
+    49.52,
+    53.83,
+    58.14,
+    62.44,
+    66.75
+  ]
+}

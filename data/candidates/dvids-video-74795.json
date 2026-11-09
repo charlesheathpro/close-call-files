@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:74795",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Filipino Man Medevaced by Coast Guard 150 Miles Offshore",
+  "description": "B-roll of a Filipino man being medically evacuated (MEDEVAC) by the U.S. Coast Guard. Scenes include an aerial view of the medical evacuation aircraft hovering over the ship, Luna Spirit, where the man was extracted, the man being lifted by the helicopter (helo) from the ship, and the helo leaving the ship toward its destination.",
+  "keywords": "hover, Filipino, Luna Spirit, helicopter, Coast Guard, medevac",
+  "date": "2009-12-09T00:00:00-05:00",
+  "date_published": "2009-12-09T20:28:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/74795/filipino-man-medevaced-coast-guard-150-miles-offshore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-74795",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:43:31Z",
+  "duration": 106.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0912/DOD_100059319/DOD_100059319.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 26.13,
+      "e": 28.13,
+      "text": "See if he lands on his rear."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    78.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-74795.jpg",
+  "sheet_times": [
+    7.19,
+    13.57,
+    19.95,
+    26.33,
+    32.71,
+    39.09,
+    45.46,
+    51.84,
+    58.22,
+    64.6,
+    70.98,
+    77.36,
+    83.74,
+    90.11,
+    96.49,
+    102.87
+  ]
+}

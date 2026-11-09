@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:953971",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station Barbers Point Conducts Medevac",
+  "description": "A Coast Guard Air Station Barbers Point MH-65 Dolphin helicopter aircrew conducts a medevac for a cruise ship passenger offshore the Island of Hawaii Feb. 27, 2025. The Coast Guard received a report of a man suffering multiple strokes on a cruise ship 300 miles off the coast of Hawaii. (Coast Guard video, courtesy by Air Station Barbers Point)",
+  "keywords": "MH-65",
+  "date": "2025-02-27T00:00:00-05:00",
+  "date_published": "2025-02-28T16:19:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 2nd Class Tyler Robertson",
+  "category": "B-Roll",
+  "virin": "250227-G-G0214-1001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/953971/coast-guard-air-station-barbers-point-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-953971",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:46:12Z",
+  "duration": 212.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2502/DOD_110836884/DOD_110836884-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 175548173
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    130.2,
+    175.28
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      212.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-953971.jpg",
+  "sheet_times": [
+    6.62,
+    19.86,
+    33.11,
+    46.35,
+    59.59,
+    72.83,
+    86.08,
+    99.32,
+    112.56,
+    125.8,
+    139.05,
+    152.29,
+    165.53,
+    178.77,
+    192.02,
+    205.26
+  ]
+}

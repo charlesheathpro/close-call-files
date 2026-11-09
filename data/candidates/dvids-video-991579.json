@@ -1,0 +1,141 @@
+{
+  "asset_id": "video:991579",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise ship passenger offshore Kauai",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point medevacs a 61-year-old passenger from the Pacific World, a Japan-based cruise ship, 92 miles offshore Kauai. The crew transported the woman to Queen’s Medical Center in Honolulu to receive medical treatment for septic shock. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "keywords": "hoist, MH-65, Medical evacuation (MEDEVAC), helicopter, Hawaii, Cruise Ship",
+  "date": "2025-12-23T05:00:00-05:00",
+  "date_published": "2025-12-23T19:39:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "251223-G-G0214-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/991579/coast-guard-medevacs-cruise-ship-passenger-offshore-kauai",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-991579",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:46:00Z",
+  "duration": 106.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111458310/DOD_111458310-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 95684372
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.1,
+      "e": 4.1,
+      "text": "Roger, back to the rundown, back to the real."
+    },
+    {
+      "s": 4.1,
+      "e": 5.1,
+      "text": "Super's brief."
+    },
+    {
+      "s": 5.1,
+      "e": 7.1,
+      "text": "Survivor, back to the..."
+    },
+    {
+      "s": 7.1,
+      "e": 45.06,
+      "text": "Traffic, one o'clock."
+    },
+    {
+      "s": 45.06,
+      "e": 46.06,
+      "text": "High, left."
+    },
+    {
+      "s": 46.06,
+      "e": 48.06,
+      "text": "Forward, right, 30."
+    },
+    {
+      "s": 48.06,
+      "e": 50.06,
+      "text": "Okay, send me a billie or that."
+    },
+    {
+      "s": 50.06,
+      "e": 55.71,
+      "text": "Less than one mile."
+    },
+    {
+      "s": 55.71,
+      "e": 57.71,
+      "text": "I'm going to push halfway up."
+    }
+  ],
+  "scene_cuts": [
+    12.25,
+    17.15,
+    25.39,
+    30.76,
+    39.07,
+    46.35,
+    52.72,
+    59.03,
+    71.44,
+    91.12
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      9.6,
+      26.5,
+      30.8,
+      34.2,
+      40.9,
+      57.7,
+      63.0,
+      71.5
+    ],
+    "silence_ends": [
+      11.3,
+      29.2,
+      32.3,
+      39.1,
+      43.1,
+      60.7,
+      66.0,
+      106.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-991579.jpg",
+  "sheet_times": [
+    3.3,
+    9.9,
+    16.5,
+    23.09,
+    29.69,
+    36.29,
+    42.89,
+    49.49,
+    56.09,
+    62.68,
+    69.28,
+    75.88,
+    82.48,
+    89.08,
+    95.68,
+    102.27
+  ]
+}

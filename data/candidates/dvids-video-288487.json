@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:288487",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from Gulf of Mexico",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew medevacs a man from a fishing vessel approximately 30 miles south of Gulfport, Miss., in the Gulf of Mexico, April 29, 2013. The aircrew transported the man to Gulfport Memorial Hospital. U.S. Coast Guard video by Air Station New Orleans.",
+  "keywords": "rescue at sea, Coast Guard Air Station New Orleans, Coast Guard, rescue",
+  "date": "2013-04-29T00:00:00-04:00",
+  "date_published": "2013-04-29T19:31:47-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130429-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/288487/coast-guard-medevacs-man-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-288487",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:42:42Z",
+  "duration": 52.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1304/DOD_100798248/DOD_100798248.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 8109,
+    "size": 53309973
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    48.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      48.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-288487.jpg",
+  "sheet_times": [
+    1.63,
+    4.88,
+    8.13,
+    11.39,
+    14.64,
+    17.89,
+    21.15,
+    24.4,
+    27.65,
+    30.91,
+    34.16,
+    37.41,
+    40.67,
+    43.92,
+    47.17,
+    50.43
+  ]
+}

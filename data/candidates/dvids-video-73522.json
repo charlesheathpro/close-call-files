@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:73522",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man From Quizinkie Near Kodiak",
+  "description": "B-Roll of the Coast Guard medically evacuating a man from Quizinkie near Kodiak.",
+  "keywords": "medical evacuation, Snow",
+  "date": "2009-11-20T00:00:00-05:00",
+  "date_published": "2009-11-21T22:26:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/73522/coast-guard-medevacs-man-quizinkie-near-kodiak",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-73522",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:45:48Z",
+  "duration": 92.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100057939/DOD_100057939.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    57.16,
+    74.57
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-73522.jpg",
+  "sheet_times": [
+    6.76,
+    12.26,
+    17.77,
+    23.28,
+    28.79,
+    34.29,
+    39.8,
+    45.31,
+    50.81,
+    56.32,
+    61.83,
+    67.33,
+    72.84,
+    78.35,
+    83.86,
+    89.36
+  ]
+}
