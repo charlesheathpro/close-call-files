@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:946998",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "U.S. Coast Guard Air Station Traverse City crew hoist three Lake Michigan",
+  "description": "U.S. Coast Guard helicopter crew members assigned to Air Station Traverse City respond to a report of three people aboard 25-foot vessel experiencing a loss of steering, 2 nautical miles north of Manistee Harbor, Michigan December 14, 2024. The initial report was received from a tow boat company and Coast Guard Cutter Spar (WLB 206) as well as the Air Station crew were launched to assist. (U.S. Coast Guard video by Air Station Traverse City)",
+  "keywords": "hoist, Air Station, Traverse City, Manistee",
+  "date": "2024-12-14T00:00:00-05:00",
+  "date_published": "2024-12-15T16:12:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 3rd Class Omar Faba",
+  "category": "B-Roll",
+  "virin": "241215-G-KY623-1001",
+  "location": {
+    "city": "Manistee",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/946998/us-coast-guard-air-station-traverse-city-crew-hoist-three-lake-michigan",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-946998",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:42:34Z",
+  "duration": 87.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2412/DOD_110736454/DOD_110736454-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 81161344
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    20.02,
+    65.06,
+    87.19
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      87.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-946998.jpg",
+  "sheet_times": [
+    2.71,
+    8.13,
+    13.55,
+    18.97,
+    24.39,
+    29.81,
+    35.23,
+    40.65,
+    46.07,
+    51.49,
+    56.91,
+    62.33,
+    67.75,
+    73.17,
+    78.59,
+    84.01
+  ]
+}

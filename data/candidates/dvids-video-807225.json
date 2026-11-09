@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:807225",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists injured mariner approximately 223 miles southeast of Cape Hatteras, North Carolina",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Elizabeth City conducts a medevac approximately 223 miles southeast of Cape Hatteras, North Carolina, July 19, 2021. The 41-year-old man was transported to Sentara Norfolk General Hospital. (U.S. Coast Guard courtesy video/Released)",
+  "keywords": "medevac, SAR, USCG",
+  "date": "2021-07-19T00:00:00-04:00",
+  "date_published": "2021-07-19T16:16:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Kimberly Reaves",
+  "category": "B-Roll",
+  "virin": "210719-G-G0105-0001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/807225/coast-guard-hoists-injured-mariner-approximately-223-miles-southeast-cape-hatteras-north-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-807225",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:43:18Z",
+  "duration": 37.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108459174/DOD_108459174.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9463,
+    "size": 44926483
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.78,
+    8.88
+  ],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      37.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-807225.jpg",
+  "sheet_times": [
+    1.17,
+    3.51,
+    5.85,
+    8.19,
+    10.53,
+    12.87,
+    15.21,
+    17.55,
+    19.89,
+    22.23,
+    24.57,
+    26.91,
+    29.25,
+    31.59,
+    33.93,
+    36.27
+  ]
+}

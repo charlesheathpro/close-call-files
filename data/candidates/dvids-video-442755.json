@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:442755",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists Man from Sailboat 60 Miles Off Cape Lookout, NC",
+  "description": "The Coast Guard hoists a man Tuesday, Dec. 15, 2015, after his sailboat became disabled approximately 60 miles off Cape Lookout, North Carolina.\r\n\r\nU.S. Coast Guard video by Air Station Elizabeth City, North Carolina",
+  "keywords": "rescue swimmer, Disabled, MH-60 Jayhawk, hoist, sailboat, C-130 Hercules, Mid-Atlantic, d5, Sassafras",
+  "date": "2015-12-15T00:00:00-05:00",
+  "date_published": "2015-12-15T19:52:17-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151215-G-ZZ999-001",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/442755/coast-guard-hoists-man-sailboat-60-miles-off-cape-lookout-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-442755",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:42:13Z",
+  "duration": 81.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102952578/DOD_102952578.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6734,
+    "size": 69405516
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    14.45,
+    40.77,
+    74.27
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      81.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-442755.jpg",
+  "sheet_times": [
+    6.44,
+    11.26,
+    16.08,
+    20.9,
+    25.72,
+    30.54,
+    35.36,
+    40.18,
+    45.01,
+    49.83,
+    54.65,
+    59.47,
+    64.29,
+    69.11,
+    73.93,
+    78.75
+  ]
+}

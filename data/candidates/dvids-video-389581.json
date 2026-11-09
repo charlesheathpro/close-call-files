@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:389581",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists 5 From Damaged Sailboat 200 Miles Off NC Coast",
+  "description": "The Coast Guard rescues five people Friday, Jan. 30, 2015, from a sailboat after the sailboat's mast broke approximately 200 miles off the coast of North Carolina.\r\n\r\nAn MH-60 Jayhawk helicopter crew and a C-130 Hercules airplane crew, both from Coast Guard Air Station Elizabeth City, North Carolina, launched to respond.\r\n\r\nU.S. Coast Guard video by Air Station Elizabeth City, N.C.",
+  "keywords": "hoist, Air Station Elizabeth City, Jayhawk, sailboat, Coast Guard rescue, Hercules, Mid-Atlantic, d5, catamaran, Rain Maker",
+  "date": "2015-01-30T00:00:00-05:00",
+  "date_published": "2015-01-31T01:49:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "150130-G-LS819-001",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/389581/coast-guard-hoists-5-damaged-sailboat-200-miles-off-nc-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-389581",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:42:19Z",
+  "duration": 199.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102208474/DOD_102208474.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8874,
+    "size": 222856523
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    4.14,
+    63.23,
+    77.68,
+    96.03,
+    147.15,
+    172.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      74.4,
+      77.7,
+      100.4,
+      109.4,
+      172.8
+    ],
+    "silence_ends": [
+      63.3,
+      75.3,
+      96.1,
+      101.1,
+      147.3,
+      199.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-389581.jpg",
+  "sheet_times": [
+    10.13,
+    22.34,
+    34.54,
+    46.75,
+    58.96,
+    71.16,
+    83.37,
+    95.58,
+    107.78,
+    119.99,
+    132.2,
+    144.4,
+    156.61,
+    168.82,
+    181.02,
+    193.23
+  ]
+}

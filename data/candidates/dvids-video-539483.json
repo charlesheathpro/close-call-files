@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:539483",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard helicopter crew hoists female hiker to safety near Agness, Oregon",
+  "description": "Coast Guard helicopter crew hoists 40-year-old female hiker to safety near Agness, Oregon after she was reported missing and spent the night near Game Lake Trail in Rogue River-Siskiyou National Forest.",
+  "keywords": "hoist, hiker, Sector North Bend, Agness, Rogue River-Siskiyou National Forest, Game Lake Trail, helicopter, Coast Guard, Oregon",
+  "date": "2017-07-20T00:00:00-04:00",
+  "date_published": "2017-07-21T14:53:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Ali Blackburn",
+  "category": "B-Roll",
+  "virin": "170720-G-AE983-574",
+  "location": {
+    "city": "Agness",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/539483/coast-guard-helicopter-crew-hoists-female-hiker-safety-near-agness-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-539483",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:41:23Z",
+  "duration": 67.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104626820/DOD_104626820.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7818,
+    "size": 66837400
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.59,
+      "e": 6.59,
+      "text": "That's it, easy, right?"
+    }
+  ],
+  "scene_cuts": [
+    4.37,
+    14.05,
+    25.06,
+    42.71,
+    51.22,
+    61.09
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.8,
+      61.1
+    ],
+    "silence_ends": [
+      4.4,
+      67.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-539483.jpg",
+  "sheet_times": [
+    2.09,
+    6.27,
+    10.45,
+    14.63,
+    18.81,
+    22.99,
+    27.17,
+    31.35,
+    35.53,
+    39.71,
+    43.89,
+    48.07,
+    52.25,
+    56.43,
+    60.61,
+    64.79
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:527560",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists boaters from yacht fire Friday near Fisherman's Island, VA",
+  "description": "Crew members from the MH-60 Jayhawk helicopter hoist two boaters from their yacht, the Delgatie, Friday, May 26, 2017, after the engine caught on fire near Fisherman's Island, Va. (Video courtesy of Air Station Elizabeth City/Released)",
+  "keywords": "boaters, Chesapeake Bay, Chesapeake Bay Bridge Tunnel, yacht fire, fisherman's island, Coast Guard, Fire",
+  "date": "2017-05-26T00:00:00-04:00",
+  "date_published": "2017-05-26T15:59:45-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Chiara Sinclair",
+  "category": "B-Roll",
+  "virin": "170526-G-PJ006-1001",
+  "location": {
+    "city": "",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/527560/coast-guard-hoists-boaters-yacht-fire-friday-near-fishermans-island-va",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.19217,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-527560",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:42:07Z",
+  "duration": 65.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104414974/DOD_104414974.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8700,
+    "size": 71727116
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    34.63,
+    41.61,
+    65.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      65.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-527560.jpg",
+  "sheet_times": [
+    6.11,
+    9.93,
+    13.76,
+    17.59,
+    21.41,
+    25.24,
+    29.07,
+    32.89,
+    36.72,
+    40.55,
+    44.37,
+    48.2,
+    52.03,
+    55.85,
+    59.68,
+    63.51
+  ]
+}
