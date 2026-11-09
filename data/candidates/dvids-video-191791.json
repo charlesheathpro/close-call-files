@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:191791",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station Cape Cod Medevacs Fisherman",
+  "description": "Crew members from Coast Guard Air Station Cape Cod, Mass., medically evacuate a fisherman from the fishing vessel Capt. Bligh approximately 60 miles south of Nantucket, Mass., Nov. 26, 2012. U.S. Coast Guard video by Air Station Cape Cod.",
+  "keywords": "fishing vessel, MH-60, Jayhawk, Air Station Cape Cod, medevac",
+  "date": "2012-11-26T00:00:00-05:00",
+  "date_published": "2012-11-27T14:13:18-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "121127-G-GV559-001",
+  "location": {
+    "city": "",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/191791/coast-guard-air-station-cape-cod-medevacs-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-191791",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:51:41Z",
+  "duration": 111.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1211/DOD_100654046/DOD_100654046.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8611,
+    "size": 120347036
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.01,
+    13.01,
+    23.39,
+    104.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      111.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-191791.jpg",
+  "sheet_times": [
+    3.48,
+    10.43,
+    17.39,
+    24.34,
+    31.3,
+    38.25,
+    45.21,
+    52.17,
+    59.12,
+    66.08,
+    73.03,
+    79.99,
+    86.94,
+    93.9,
+    100.85,
+    107.81
+  ]
+}

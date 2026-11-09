@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:822511",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman 231 miles southeast of Wilmington, NC",
+  "description": "The Coast Guard medevaced a woman on a cruise ship approximately 231 miles southeast of Wilmington, North Carolina, on Friday. An HC-130 Hercules aircraft aircrew from Coast Guard Air Station Elizabeth City provided coverage while an MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Elizabeth City transferred the woman and her family member to New Hanover Regional Hospital in Wilmington, North Carolina. (U.S. Coast Guard Video/released.)",
+  "keywords": "MH-60, SAR, USCG",
+  "date": "2021-11-19T00:00:00-05:00",
+  "date_published": "2021-11-20T15:46:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Breanna Centeno",
+  "category": "B-Roll",
+  "virin": "211119-G-VP451-750",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/822511/coast-guard-medevacs-woman-231-miles-southeast-wilmington-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-822511",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:54:21Z",
+  "duration": 103.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2111/DOD_108695216/DOD_108695216.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9986,
+    "size": 128979834
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.32,
+    75.88,
+    77.36,
+    89.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-822511.jpg",
+  "sheet_times": [
+    3.21,
+    9.63,
+    16.06,
+    22.48,
+    28.9,
+    35.32,
+    41.74,
+    48.17,
+    54.59,
+    61.01,
+    67.43,
+    73.85,
+    80.28,
+    86.7,
+    93.12,
+    99.54
+  ]
+}

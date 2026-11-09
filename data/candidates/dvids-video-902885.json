@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:902885",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 250 miles off Nassau, Bahamas",
+  "description": "A Coast Guard Air Station Clearwater aircrew rescued a man after he became ill on a motor vessel 455 miles northeast of Nassau, Bahamas, Nov. 4, 2023. Coast Guard Seventh District watchstanders were notified that a 44-year-old man aboard the vessel began experiencing severe stomach pain. (U.S. Coast Guard video.)",
+  "keywords": "Bahamas, medevac, SAR, search and rescue, Nassau, USCG",
+  "date": "2023-11-04T00:00:00-04:00",
+  "date_published": "2023-11-04T14:19:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231004-G-ZZ999-1111",
+  "location": {
+    "city": "Nassau",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/902885/coast-guard-medevacs-man-250-miles-off-nassau-bahamas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-902885",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:53:58Z",
+  "duration": 39.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_109977222/DOD_109977222-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 11647333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.8,
+    11.1,
+    12.0,
+    12.9,
+    16.2,
+    19.6,
+    20.9,
+    23.5,
+    23.7,
+    23.9,
+    24.7,
+    28.8,
+    29.8,
+    31.7,
+    32.1,
+    33.0,
+    33.3,
+    33.6,
+    34.1,
+    34.7,
+    36.3,
+    37.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      39.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-902885.jpg",
+  "sheet_times": [
+    1.21,
+    3.63,
+    6.05,
+    8.47,
+    10.88,
+    13.3,
+    15.72,
+    18.14,
+    20.56,
+    22.98,
+    25.4,
+    27.82,
+    30.23,
+    32.65,
+    35.07,
+    37.49
+  ]
+}

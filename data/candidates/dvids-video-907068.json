@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:907068",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 20 miles off Key West",
+  "description": "A Coast Guard Air Station Clearwater MH-60T Jayhawk helicopter aircrew medevacs a man aboard a containership suffering from abdominal pain, 20mi. off Key West, Dec. 8, 2023. The passenger was brought to Key West International Airport and transferred to awaiting EMS, to receive a higher level of care. (U.S. Coast Guard Video)",
+  "keywords": "key west, medevac, SAR, USCG",
+  "date": "2023-12-08T00:00:00-05:00",
+  "date_published": "2023-12-08T11:26:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Santiago Gomez",
+  "category": "B-Roll",
+  "virin": "231208-G-CX249-1001",
+  "location": {
+    "city": "Key West",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/907068/coast-guard-medevacs-man-20-miles-off-key-west",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-907068",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:53:55Z",
+  "duration": 22.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110036198/DOD_110036198-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 22592238
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-907068.jpg",
+  "sheet_times": [
+    0.7,
+    2.09,
+    3.49,
+    4.89,
+    6.28,
+    7.68,
+    9.07,
+    10.47,
+    11.86,
+    13.26,
+    14.66,
+    16.05,
+    17.45,
+    18.84,
+    20.24,
+    21.64
+  ]
+}

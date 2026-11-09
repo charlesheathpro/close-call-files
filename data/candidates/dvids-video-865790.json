@@ -1,0 +1,120 @@
+{
+  "asset_id": "video:865790",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 40 miles northwest of Johns Pass",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevacs Nov. 29, 2022 a 65-year-old male from the fishing vessel “Rachell Nicole” after he experienced abdominal pain 40 miles northwest of Johns Pass, Florida. The male was safely transferred to Tampa General Hospital in stable condition. (U.S. Coast Guard photo)",
+  "keywords": "US Coast Guard",
+  "date": "2022-11-28T00:00:00-05:00",
+  "date_published": "2022-11-29T10:53:41-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Erik Villa Rodriguez",
+  "category": "B-Roll",
+  "virin": "222811-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/865790/coast-guard-medevacs-man-40-miles-northwest-johns-pass",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-865790",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:54:15Z",
+  "duration": 32.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2211/DOD_109344616/DOD_109344616-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 35541275
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.56,
+      "e": 2.88,
+      "text": "Still on deck feet, tended."
+    },
+    {
+      "s": 2.88,
+      "e": 4.4,
+      "text": "Back to halfway up."
+    },
+    {
+      "s": 4.4,
+      "e": 10.2,
+      "text": "Two commands."
+    },
+    {
+      "s": 10.2,
+      "e": 15.38,
+      "text": "Roger."
+    },
+    {
+      "s": 15.38,
+      "e": 16.94,
+      "text": "I'm going to keep backing off."
+    },
+    {
+      "s": 16.94,
+      "e": 17.94,
+      "text": "Roger."
+    },
+    {
+      "s": 17.94,
+      "e": 28.62,
+      "text": "Trailman still on deck feet, tended."
+    },
+    {
+      "s": 28.62,
+      "e": 30.02,
+      "text": "And back to the cabin."
+    },
+    {
+      "s": 30.02,
+      "e": 31.86,
+      "text": "I'm just going to get him situated."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      5.8,
+      11.6,
+      20.3
+    ],
+    "silence_ends": [
+      9.3,
+      15.4,
+      25.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-865790.jpg",
+  "sheet_times": [
+    0.99,
+    2.97,
+    4.95,
+    6.93,
+    8.9,
+    10.88,
+    12.86,
+    14.84,
+    16.82,
+    18.8,
+    20.78,
+    22.76,
+    24.73,
+    26.71,
+    28.69,
+    30.67
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:543806",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 55-year-old man from tanker",
+  "description": "An MH-60 Jayhawk helicopter air crew from Coast Guard Air Station Clearwater, Florida, and a 45-foot Response Boat-Medium boatcrew from Coast Guard Station Cortez, Florida, medevac a 55-year-old man from a tanker 13 miles west of Egmont Key, Florida, Monday, Aug. 14, 2017. Coast Guard crews medevaced the man to Tampa General Hospital after he suffered from heart attack like symptoms. (U.S. Coast Guard video)",
+  "keywords": "tanker, Clearwater, rb-m, MH-60, Cortez, Coast Guard, medevac, USCG, FL",
+  "date": "2017-08-14T00:00:00-04:00",
+  "date_published": "2017-08-14T18:19:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "170814-G-G0107-8001",
+  "location": {
+    "city": "Egmont Key",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/543806/coast-guard-medevacs-55-year-old-man-tanker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-543806",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:52:37Z",
+  "duration": 71.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104720996/DOD_104720996.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9939,
+    "size": 89436137
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.9,
+      "e": 12.71,
+      "text": "Just deliver the litter part is..."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 76,
+  "audio": {
+    "silence_starts": [
+      20.4,
+      32.1,
+      39.5,
+      45.2,
+      49.9,
+      51.5,
+      59.6,
+      65.1,
+      68.8
+    ],
+    "silence_ends": [
+      21.0,
+      32.9,
+      42.9,
+      47.1,
+      51.3,
+      55.0,
+      60.3,
+      67.2,
+      71.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-543806.jpg",
+  "sheet_times": [
+    2.2,
+    6.61,
+    11.02,
+    15.43,
+    19.84,
+    24.25,
+    28.66,
+    33.07,
+    37.48,
+    41.89,
+    46.3,
+    50.71,
+    55.12,
+    59.53,
+    63.94,
+    68.35
+  ]
+}

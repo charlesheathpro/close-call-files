@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:520454",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard conducts medevac 65 miles south of Montauk, N.Y.",
+  "description": "NEW YORK – A Coast Guard Jayhawk helicopter crew medically evacuated a 47-year-old man 65 miles south of Montauk, N.Y., Friday. The crew member was safely hoisted from the deck of the Braedon Michael and transported to Air Station Cape Cod, where local Emergency Medical Services were waiting. (U.S. Coast Guard video courtesy of Air Station Cape Cod)",
+  "keywords": "hoist, ASCC, hoist cam, jay hawk, medevac, USCG, cape cod",
+  "date": "2017-04-21T00:00:00-04:00",
+  "date_published": "2017-04-21T16:17:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET New York",
+  "credit": "Petty Officer 3rd Class Frank Iannazzo-Simmons",
+  "category": "B-Roll",
+  "virin": "170421-G-ZV332-0001",
+  "location": {
+    "city": "Montauk",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/520454/coast-guard-conducts-medevac-65-miles-south-montauk-ny",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-520454",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:53:47Z",
+  "duration": 131.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1704/DOD_104293670/DOD_104293670.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8499,
+    "size": 139446740
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    52.05,
+    77.28,
+    103.07,
+    103.24,
+    127.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      131.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-520454.jpg",
+  "sheet_times": [
+    7.98,
+    15.89,
+    23.8,
+    31.71,
+    39.62,
+    47.53,
+    55.44,
+    63.35,
+    71.26,
+    79.17,
+    87.09,
+    95.0,
+    102.91,
+    110.82,
+    118.73,
+    126.64
+  ]
+}
