@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:308168",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man from Water Tower in Port Fourchon",
+  "description": "LAFOURCHE, La. - A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew hoists a man from a water tower in Port Fourchon, Nov. 14, 2013. The man reportedly lost his footing while conducting maintenance on the tower. Video by Air Station New Orleans.",
+  "keywords": "Sector New Orleans, Port Fourchon, 8th Coast Guard District, Water tower hoist, medevac, Air Station New Orleans",
+  "date": "2013-11-14T00:00:00-05:00",
+  "date_published": "2013-11-15T12:12:57-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class William Colclough",
+  "category": "B-Roll",
+  "virin": "131114-G-ZZ999-001",
+  "location": {
+    "city": "Lafourche",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/308168/coast-guard-medevacs-man-water-tower-port-fourchon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-308168",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:00:00Z",
+  "duration": 40.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1311/DOD_100954390/DOD_100954390.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8056,
+    "size": 41657991
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    35.4
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-308168.jpg",
+  "sheet_times": [
+    1.25,
+    3.75,
+    6.24,
+    8.74,
+    11.24,
+    13.73,
+    16.23,
+    18.73,
+    21.22,
+    23.72,
+    26.22,
+    28.71,
+    31.21,
+    33.71,
+    36.2,
+    38.7
+  ]
+}

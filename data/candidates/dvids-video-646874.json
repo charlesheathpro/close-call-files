@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:646874",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "FOB Mugu Rescue of 83-year-old man",
+  "description": "A Coast Guard Air Station San Francisco Forward Operating Base Point Mugu crew medevaced an 83-year-old fisherman 70 miles off the coast of Los Angeles, December 8, 2018. The MH-65 Dolphin helicopter crew hoisted the fisherman and transferred him to Harbor-UCLA Medical Center.",
+  "keywords": "USCG",
+  "date": "2018-12-08T00:00:00-05:00",
+  "date_published": "2018-12-09T22:55:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Los Angeles",
+  "credit": "Petty Officer 1st Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "181208-G-ZK759-920",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/646874/fob-mugu-rescue-83-year-old-man",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-646874",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:02:49Z",
+  "duration": 157.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1812/DOD_106283654/DOD_106283654.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2685,
+    "size": 53903531
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    51.79,
+    73.14,
+    122.82
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-646874.jpg",
+  "sheet_times": [
+    4.9,
+    14.7,
+    24.5,
+    34.3,
+    44.1,
+    53.9,
+    63.7,
+    73.51,
+    83.31,
+    93.11,
+    102.91,
+    112.71,
+    122.51,
+    132.31,
+    142.11,
+    151.91
+  ]
+}

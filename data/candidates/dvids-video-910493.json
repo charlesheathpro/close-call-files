@@ -1,0 +1,102 @@
+{
+  "asset_id": "video:910493",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs 1 from oil tanker 10 miles off Galveston, Texas",
+  "description": "A U.S. Coast Guard Air Station Houston MH-65 Dolphin aircrew hoists 1 person from a supply vessel January 13, 2024, offshore Galveston, Texas. He was transferred to the University of Texas Medical Branch in Galveston in stable condition. (U.S. Coast Guard video by Air Station Houston)",
+  "keywords": null,
+  "date": "2024-01-13T00:00:00-05:00",
+  "date_published": "2024-01-15T21:04:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240113-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/910493/coast-guard-medevacs-1-oil-tanker-10-miles-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-910493",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:01:22Z",
+  "duration": 81.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110081472/DOD_110081472-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 90255743
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.29,
+      "e": 22.41,
+      "text": "off deck and people are real crystal deck crew on."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      7.4,
+      17.0,
+      23.4,
+      27.1,
+      29.1,
+      36.1,
+      38.0,
+      41.6,
+      46.1,
+      51.1,
+      54.0,
+      60.6,
+      71.5,
+      78.2
+    ],
+    "silence_ends": [
+      8.4,
+      17.9,
+      26.1,
+      28.1,
+      30.7,
+      37.0,
+      40.6,
+      43.4,
+      48.0,
+      52.3,
+      57.1,
+      69.4,
+      77.2,
+      81.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-910493.jpg",
+  "sheet_times": [
+    2.52,
+    7.57,
+    12.61,
+    17.66,
+    22.7,
+    27.75,
+    32.79,
+    37.83,
+    42.88,
+    47.92,
+    52.97,
+    58.01,
+    63.06,
+    68.1,
+    73.15,
+    78.19
+  ]
+}

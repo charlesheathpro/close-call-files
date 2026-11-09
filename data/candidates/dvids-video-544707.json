@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:544707",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues 8 boaters from grounded vessel near Capers Island",
+  "description": "CHARLESTON, S.C. — The Coast Guard rescued eight boaters Saturday from a grounded 21-foot recreational boat near Capers Island, South Carolina.\r\nCoast Guard Sector Charleston Command Center watchstanders were notified at 2:40 a.m. via 911 dispatch that a center-console boat had run aground on a sandbar. \r\nA Coast Guard Air Station Savannah MH-65 Dolphin rescue helicopter crew launched and arrived on scene at 3:50 a.m. Rescue crews hoisted four boaters and transported them to Mount Pleasant Regional Airport. The rescue crew later returned to hoist the four remaining boaters.\r\nAll boaters were reported to be in good condition.\r\nThe vessel is being salvaged Saturday and there are no signs of pollution.\r\nCoast Guard Station Charleston and Isle of Palm Fire Rescue also responded.",
+  "keywords": "Coast Guard, rescue",
+  "date": "2017-08-19T00:00:00-04:00",
+  "date_published": "2017-08-19T19:36:37-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 1st Class Luke Clayton",
+  "category": "B-Roll",
+  "virin": "170819-G-G0107-001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/544707/coast-guard-rescues-8-boaters-grounded-vessel-near-capers-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-544707",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:02:03Z",
+  "duration": 445.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104742459/DOD_104742459.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8835,
+    "size": 498729117
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.29,
+    181.21,
+    237.62,
+    289.42,
+    438.79
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      445.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-544707.jpg",
+  "sheet_times": [
+    13.89,
+    41.68,
+    69.46,
+    97.25,
+    125.03,
+    152.82,
+    180.6,
+    208.39,
+    236.17,
+    263.96,
+    291.74,
+    319.52,
+    347.31,
+    375.09,
+    402.88,
+    430.66
+  ]
+}

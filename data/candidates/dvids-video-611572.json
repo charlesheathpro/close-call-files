@@ -1,0 +1,127 @@
+{
+  "asset_id": "video:611572",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs injured cruise ship passenger 70 miles southeast of Nantucket",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew hoists an injured 84-year-old woman from the deck of the cruise ship Queen Mary 2, Monday, July 2, 2018, 70 miles southeast of Nantucket. The woman fell and sustained a fractured ankle and a head injury. (U.S. Coast Guard video)",
+  "keywords": "MH-60 Jayhawk, Air Station Cape Cod, helicopter, USCG",
+  "date": "2018-07-02T00:00:00-04:00",
+  "date_published": "2018-07-02T16:59:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180702-G-G0101-1001",
+  "location": {
+    "city": "Nantucket",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/611572/coast-guard-medevacs-injured-cruise-ship-passenger-70-miles-southeast-nantucket",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-611572",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:02:27Z",
+  "duration": 63.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1807/DOD_105795355/DOD_105795355.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9851,
+    "size": 79318672
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.63,
+      "e": 13.63,
+      "text": "B, 100 feet."
+    },
+    {
+      "s": 13.63,
+      "e": 15.63,
+      "text": "That holds."
+    },
+    {
+      "s": 15.63,
+      "e": 17.63,
+      "text": "And Summer's going out the door for low check."
+    },
+    {
+      "s": 17.63,
+      "e": 18.63,
+      "text": "What's your still to?"
+    },
+    {
+      "s": 18.63,
+      "e": 20.63,
+      "text": "You're at 55 feet right now."
+    },
+    {
+      "s": 20.63,
+      "e": 21.63,
+      "text": "Your road check, please."
+    },
+    {
+      "s": 21.63,
+      "e": 22.63,
+      "text": "Summer's going down."
+    },
+    {
+      "s": 22.63,
+      "e": 27.13,
+      "text": "We've got plenty of clearance on the left side."
+    },
+    {
+      "s": 27.13,
+      "e": 28.13,
+      "text": "And we're halfway down."
+    }
+  ],
+  "scene_cuts": [
+    11.95,
+    28.46,
+    40.64,
+    58.66
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      23.4,
+      28.5,
+      43.4
+    ],
+    "silence_ends": [
+      12.0,
+      24.6,
+      43.4,
+      63.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-611572.jpg",
+  "sheet_times": [
+    1.97,
+    5.91,
+    9.84,
+    13.78,
+    17.72,
+    21.66,
+    25.59,
+    29.53,
+    33.47,
+    37.4,
+    41.34,
+    45.28,
+    49.22,
+    53.15,
+    57.09,
+    61.03
+  ]
+}

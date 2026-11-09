@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:534298",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man, 27, From Fishing Vessel 60 Miles West of Venice",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevacked a 27-year-old man Saturday, June 24, 2017, 60 miles west of Venice, Florida. The Jayhawk crew hoisted the man and transported him to Tampa General Hospital for further care. (U.S. Coast Guard video)",
+  "keywords": "Clearwater, Jayhawk, TAMPA, medevacked, Coast Guard",
+  "date": "2017-06-24T00:00:00-04:00",
+  "date_published": "2017-06-25T12:10:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170624-G-G0107-1001",
+  "location": {
+    "city": "Venice",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/534298/coast-guard-medevacs-man-27-fishing-vessel-60-miles-west-venice",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-534298",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:02:12Z",
+  "duration": 61.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104525890/DOD_104525890.mp4",
+    "width": 654,
+    "height": 480,
+    "bitrate": 10112,
+    "size": 77150586
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      61.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-534298.jpg",
+  "sheet_times": [
+    1.89,
+    5.67,
+    9.46,
+    13.24,
+    17.02,
+    20.8,
+    24.58,
+    28.37,
+    32.15,
+    35.93,
+    39.71,
+    43.49,
+    47.28,
+    51.06,
+    54.84,
+    58.62
+  ]
+}

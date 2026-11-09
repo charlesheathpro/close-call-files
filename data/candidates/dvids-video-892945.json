@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:892945",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues 3 mariners 5 miles off Nantucket, Massachusets",
+  "description": "A Coast Guard Air Station Cape Cod rescued three mariners five nautical miles off the coast of Nantucket, Massachusets, August 5, 2023. The three men were safely hoisted and brought to the Hyannis airport, where EMS was waiting. (U.S Coast Guard Air Station Cape Cod video)",
+  "keywords": "MH-60, Jayhawk, Air Station Cape Cod, avation, CoastGuardNewsWire",
+  "date": "2023-08-05T00:00:00-04:00",
+  "date_published": "2023-08-07T14:37:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Lyric Jackson",
+  "category": "B-Roll",
+  "virin": "230807-G-QN699-1001",
+  "location": {
+    "city": "",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/892945/coast-guard-rescues-3-mariners-5-miles-off-nantucket-massachusets",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-892945",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:00:35Z",
+  "duration": 119.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109812875/DOD_109812875-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 123200233
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.34,
+    81.85,
+    103.87
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      119.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-892945.jpg",
+  "sheet_times": [
+    3.71,
+    11.13,
+    18.56,
+    25.98,
+    33.4,
+    40.82,
+    48.24,
+    55.67,
+    63.09,
+    70.51,
+    77.93,
+    85.35,
+    92.78,
+    100.2,
+    107.62,
+    115.04
+  ]
+}

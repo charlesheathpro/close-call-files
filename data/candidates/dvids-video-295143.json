@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:295143",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man 60 miles east of Nantucket",
+  "description": "BOSTON - An aircrew from U.S. Coast Guard Air Station Cape Cod, Mass., medically evacuated a man 60 miles east of Nantucket, Mass., June 30, 2013. The man was hoisted into the helicopter and transported to Cape Cod Hospital, Hyannis, Mass. U.S. Coast Guard video by Air Station Cape Cod.",
+  "keywords": "Nantucket, Air Station Cape Cod, Coast Guard",
+  "date": "2013-06-30T00:00:00-04:00",
+  "date_published": "2013-06-30T22:49:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Ann Marie Gorden",
+  "category": "B-Roll",
+  "virin": "130630-G-XZ611-001",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/295143/coast-guard-medevacs-man-60-miles-east-nantucket",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-295143",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:02:36Z",
+  "duration": 189.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1306/DOD_100850703/DOD_100850703.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6400,
+    "size": 151819488
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      189.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-295143.jpg",
+  "sheet_times": [
+    5.91,
+    17.73,
+    29.55,
+    41.37,
+    53.19,
+    65.01,
+    76.83,
+    88.66,
+    100.48,
+    112.3,
+    124.12,
+    135.94,
+    147.76,
+    159.58,
+    171.4,
+    183.22
+  ]
+}
