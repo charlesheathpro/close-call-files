@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:314932",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Cape Blanco Medevac",
+  "description": "ASTORIA, Ore. - A Coast Guard HH-65 Dolphin crew medically evacuates a man from the fishing vessel Shenanegan near Cape Blanco, Ore., Wednesday Feb. 17, 2010.",
+  "keywords": "CGVI",
+  "date": "2010-02-17T20:03:09-05:00",
+  "date_published": "2013-12-17T17:44:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314932/cape-blanco-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-314932",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:46:45Z",
+  "duration": 66.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056152/DOD_101056152-720x480-1703k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1703,
+    "size": 15764623
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 57.7,
+      "e": 59.98,
+      "text": "Two."
+    },
+    {
+      "s": 59.98,
+      "e": 63.98,
+      "text": "Yeah, two-e-half into the trailer and we don't have another way back but I'll see if I can bring something up to it."
+    },
+    {
+      "s": 63.98,
+      "e": 64.98,
+      "text": "Okay."
+    },
+    {
+      "s": 64.98,
+      "e": 65.98,
+      "text": "Two."
+    }
+  ],
+  "scene_cuts": [
+    6.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314932.jpg",
+  "sheet_times": [
+    2.06,
+    6.18,
+    10.3,
+    14.41,
+    18.53,
+    22.65,
+    26.77,
+    30.89,
+    35.0,
+    39.12,
+    43.24,
+    47.36,
+    51.48,
+    55.59,
+    59.71,
+    63.83
+  ]
+}

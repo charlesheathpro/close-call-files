@@ -1,0 +1,101 @@
+{
+  "asset_id": "video:316900",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevac",
+  "description": "SEATTLE - A Coast Guard MH-65 Dolphin helicopter crew from Air Station Port Angeles, Wash., airlifted a man at approximately 5 p.m. who suffered injuries after he reportedly fell down an avalanche chute in Olympic National Park, Wash., Thursday. The helicopter crew transferred the man to an Airlift Northwest helicopter crew in Port Angeles who then transported him to Harborview Medical Center, Seattle. U.S. Coast Guard video by Air Station Port Angeles.",
+  "keywords": "CGVI",
+  "date": "2011-04-21T00:00:00-04:00",
+  "date_published": "2013-12-20T21:07:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Nathan Bradshaw",
+  "category": "B-Roll",
+  "virin": "110421-G-AX010-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316900/coast-guard-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316900",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:46:05Z",
+  "duration": 103.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061436/DOD_101061436-1280x720-2620k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2620,
+    "size": 34839698
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.3,
+      "e": 9.76,
+      "text": "Roger boom out the former position now to look good. You got a nice steady hover going"
+    },
+    {
+      "s": 10.28,
+      "e": 12.28,
+      "text": "Boom just form her out"
+    },
+    {
+      "s": 12.74,
+      "e": 16.05,
+      "text": "Going to form her out"
+    },
+    {
+      "s": 17.13,
+      "e": 21.27,
+      "text": "Swimmer is"
+    },
+    {
+      "s": 21.27,
+      "e": 28.41,
+      "text": "Going down. Oh my you got these trees here right side. So we're going down"
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    98.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      98.1
+    ],
+    "silence_ends": [
+      5.1,
+      103.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316900.jpg",
+  "sheet_times": [
+    3.21,
+    9.62,
+    16.04,
+    22.45,
+    28.86,
+    35.28,
+    41.69,
+    48.11,
+    54.52,
+    60.93,
+    67.35,
+    73.76,
+    80.18,
+    86.59,
+    93.0,
+    99.42
+  ]
+}

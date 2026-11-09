@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:452970",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Cruise Ship MEDEVAC",
+  "description": "A Coast Guard MH-60 helicopter crew from Air Station Clearwater medically evacuates an 86-year-old male off the Ocean Princess cruise ship 60 nautical miles off the coast of Cuba, March 5, 2016. The male was suffering from abdominal pain and was transported to Kingston, Jamaica, for further medical care. U.S. Coast Guard video.",
+  "keywords": "Clearwater, Barney, Coast Guard, medevac",
+  "date": "2016-03-05T00:00:00-05:00",
+  "date_published": "2016-03-06T12:30:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "160305-G-ZK759-434",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/452970/cruise-ship-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.19217,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-452970",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:47:02Z",
+  "duration": 51.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103100484/DOD_103100484.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9238,
+    "size": 59684199
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    36.84
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-452970.jpg",
+  "sheet_times": [
+    5.66,
+    8.59,
+    11.53,
+    14.46,
+    17.4,
+    20.33,
+    23.27,
+    26.2,
+    29.13,
+    32.07,
+    35.0,
+    37.94,
+    40.87,
+    43.81,
+    46.74,
+    49.67
+  ]
+}

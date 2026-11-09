@@ -1,0 +1,96 @@
+{
+  "asset_id": "video:317566",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac Dorby S",
+  "description": "ASTORIA, Ore. - Coast Guard members from Station Cape Disappointment and Air Station Astoria respond to a man experiencing seizures aboard a fishing vessel near Long Beach, Wash., May 7, 2012.\nCoast Guard video by Station Cape Disappointment and Sector Columbia River.",
+  "keywords": "CGVI",
+  "date": "2012-05-07T00:00:00-04:00",
+  "date_published": "2013-12-22T14:23:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Shawn Eggert",
+  "category": "B-Roll",
+  "virin": "120507-G-ZR723-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317566/medevac-dorby-s",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317566",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:45:49Z",
+  "duration": 86.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062519/DOD_101062519.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 3420,
+    "size": 44206267
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.12,
+      "e": 9.84,
+      "text": "You can make a backseat to the pier without a right."
+    },
+    {
+      "s": 9.84,
+      "e": 13.15,
+      "text": "Our container take off."
+    },
+    {
+      "s": 13.15,
+      "e": 15.15,
+      "text": "No, six-stem-eye."
+    },
+    {
+      "s": 15.15,
+      "e": 23.04,
+      "text": "Yeah, let's get them on, oh, two."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    27.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      27.8
+    ],
+    "silence_ends": [
+      5.1,
+      86.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317566.jpg",
+  "sheet_times": [
+    2.69,
+    8.07,
+    13.45,
+    18.83,
+    24.21,
+    29.58,
+    34.96,
+    40.34,
+    45.72,
+    51.1,
+    56.48,
+    61.86,
+    67.24,
+    72.62,
+    78.0,
+    83.37
+  ]
+}

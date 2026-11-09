@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314808",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "AIRSTATION NOLA MEDEVAC",
+  "description": "NEW ORLEANS - The Coast Guard medevaced a man off an oil rig in the Gulf of Mexico at approximately 3 p.m., Jan. 18, 2010. The man was taken to Thibodaux General Hospital and transferred to awaiting medical personnel.\r\n\r\nU.S. Coast Guard video",
+  "keywords": "CGVI",
+  "date": "2010-01-18T00:00:00-05:00",
+  "date_published": "2013-12-17T16:00:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314808/airstation-nola-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314808",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:44:14Z",
+  "duration": 65.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055929/DOD_101055929-640x480-1103k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1103,
+    "size": 9067809
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    10.38,
+    26.63,
+    40.47,
+    61.36
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314808.jpg",
+  "sheet_times": [
+    2.03,
+    6.08,
+    10.13,
+    14.18,
+    18.23,
+    22.29,
+    26.34,
+    30.39,
+    34.44,
+    38.49,
+    42.55,
+    46.6,
+    50.65,
+    54.7,
+    58.75,
+    62.81
+  ]
+}

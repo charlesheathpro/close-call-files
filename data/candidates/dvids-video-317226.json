@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:317226",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Western Breeze Medevac",
+  "description": "NEWPORT, Ore. - The crew of an HH-65 Dolphin helicopter from Air Facility Newport medically evacuates a man from a fishing vessel 24 miles from Yaquina Bay, Ore.\n\nCoast Guard video by Air Facility Newport",
+  "keywords": "CGVI",
+  "date": "2011-09-18T00:00:00-04:00",
+  "date_published": "2013-12-21T15:32:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Shawn Eggert",
+  "category": "B-Roll",
+  "virin": "110918-G-ZR723-001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317226/western-breeze-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317226",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:45:57Z",
+  "duration": 63.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062135/DOD_101062135-720x480-1891k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1891,
+    "size": 16460028
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 33.94,
+      "e": 35.94,
+      "text": "Yeah"
+    }
+  ],
+  "scene_cuts": [
+    7.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317226.jpg",
+  "sheet_times": [
+    1.98,
+    5.93,
+    9.88,
+    13.83,
+    17.78,
+    21.73,
+    25.68,
+    29.63,
+    33.58,
+    37.53,
+    41.48,
+    45.43,
+    49.38,
+    53.33,
+    57.28,
+    61.23
+  ]
+}

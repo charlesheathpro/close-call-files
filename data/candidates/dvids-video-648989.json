@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:648989",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "FOB Mugu medevac",
+  "description": "A Forward Operating Base Point Mugu MH-65 Dolphin helicopter crew from Coast Guard Air Station San Francisco MEDEVACs an unresponsive 52-year-old male off the coast of Long Beach, California, Dec. 16, 2018. The helicopter crew recovered the man from a 600-foot container ship and transported him to awaiting medical care at the St. Mary's Medical Center. (U.S. Coast Guard Video)",
+  "keywords": "Long Beach, rescue, La.",
+  "date": "2018-12-16T00:00:00-05:00",
+  "date_published": "2018-12-16T23:57:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Los Angeles",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "181216-G-MR731-1001",
+  "location": {
+    "city": "Long Beach",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/648989/fob-mugu-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-648989",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:46:53Z",
+  "duration": 148.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1812/DOD_106306376/DOD_106306376.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9976,
+    "size": 188031888
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.34,
+      "e": 17.64,
+      "text": "You ready to start landing at next time?"
+    },
+    {
+      "s": 17.64,
+      "e": 18.64,
+      "text": "Sure."
+    },
+    {
+      "s": 18.64,
+      "e": 19.64,
+      "text": "Yeah."
+    },
+    {
+      "s": 19.64,
+      "e": 23.53,
+      "text": "You're welcome, man."
+    }
+  ],
+  "scene_cuts": [
+    54.49,
+    54.95,
+    89.56,
+    90.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-648989.jpg",
+  "sheet_times": [
+    4.63,
+    13.9,
+    23.17,
+    32.43,
+    41.7,
+    50.96,
+    60.23,
+    69.5,
+    78.76,
+    88.03,
+    97.29,
+    106.56,
+    115.83,
+    125.09,
+    134.36,
+    143.62
+  ]
+}

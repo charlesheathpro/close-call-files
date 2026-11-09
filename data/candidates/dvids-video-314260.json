@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:314260",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "SILVER SHADOW MEDEVAC",
+  "description": "KODIAK, Alaska - An MH-60 crew from Air Station Kodiak conducts a medevac of a passenger form the Silver Shadow south of Cold Bay, Alaska May 25, 2009. The patient was flown to Sand Point, Alaska where he was transferred to a commercial medical air service for further treatment.",
+  "keywords": "CGVI",
+  "date": "2009-05-26T00:00:00-04:00",
+  "date_published": "2013-12-17T07:46:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314260/silver-shadow-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314260",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:45:18Z",
+  "duration": 149.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054947/DOD_101054947.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6445,
+    "size": 124151596
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.14,
+      "e": 3.14,
+      "text": "We're ready"
+    }
+  ],
+  "scene_cuts": [
+    55.76,
+    56.58,
+    146.74
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      55.9,
+      64.5,
+      73.3,
+      75.0,
+      79.8,
+      131.4
+    ],
+    "silence_ends": [
+      56.7,
+      65.5,
+      74.1,
+      75.7,
+      80.4,
+      132.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314260.jpg",
+  "sheet_times": [
+    4.65,
+    13.96,
+    23.27,
+    32.58,
+    41.89,
+    51.19,
+    60.5,
+    69.81,
+    79.12,
+    88.43,
+    97.73,
+    107.04,
+    116.35,
+    125.66,
+    134.97,
+    144.27
+  ]
+}

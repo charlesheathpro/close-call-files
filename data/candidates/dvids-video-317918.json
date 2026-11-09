@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:317918",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Carnival Conquest medevac",
+  "description": "NEW ORLEANS - Coast Guard Air Station New Orleans medevacs a 46-year-old man from a cruise ship approximately 60 miles south of Southwest Pass, La., Feb. 16, 2013. The man was reportedly suffering from symptoms associated with a brain hemorrhage. U.S. Coast Guard video by Air Station New Orleans.",
+  "keywords": "CGVI",
+  "date": "2013-02-17T10:40:49-05:00",
+  "date_published": "2013-12-22T21:31:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317918/carnival-conquest-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317918",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:44:05Z",
+  "duration": 99.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062886/DOD_101062886-640x480-1083k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1083,
+    "size": 14439608
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 13.33,
+      "e": 14.33,
+      "text": "See you next time."
+    },
+    {
+      "s": 14.33,
+      "e": 15.33,
+      "text": "Cheers."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    95.13
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317918.jpg",
+  "sheet_times": [
+    3.08,
+    9.25,
+    15.42,
+    21.58,
+    27.75,
+    33.92,
+    40.08,
+    46.25,
+    52.42,
+    58.58,
+    64.75,
+    70.92,
+    77.08,
+    83.25,
+    89.42,
+    95.58
+  ]
+}
