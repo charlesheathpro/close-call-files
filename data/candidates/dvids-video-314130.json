@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:314130",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Collier Brothers medevac",
+  "description": "A Coast Guard helicopter rescue crew from Air Station Kodiak medevaced an injured crewman from a fishing vessel 34 miles northeast of Kodiak, Alaska, April 5, 2009.\r\n\r\nMichael Calahan, 19, was injured when his right arm was pinched in a piece of hydraulic equipment while working aboard the 94-foot fishing vessel Collier Brothers.",
+  "keywords": "CGVI",
+  "date": "2009-04-06T00:00:00-04:00",
+  "date_published": "2013-12-17T06:20:54-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314130/collier-brothers-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314130",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:43:14Z",
+  "duration": 196.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054810/DOD_101054810-640x480-1831k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1831,
+    "size": 45185911
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 36.75,
+      "e": 37.75,
+      "text": "the side of the boat."
+    },
+    {
+      "s": 37.75,
+      "e": 73.44,
+      "text": "Well, the cannon door."
+    },
+    {
+      "s": 73.44,
+      "e": 74.44,
+      "text": "Yeah."
+    },
+    {
+      "s": 74.44,
+      "e": 75.44,
+      "text": "Yeah."
+    },
+    {
+      "s": 75.44,
+      "e": 76.44,
+      "text": "Yeah."
+    }
+  ],
+  "scene_cuts": [
+    16.05,
+    180.01
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      148.6,
+      180.1
+    ],
+    "silence_ends": [
+      16.2,
+      149.2,
+      196.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314130.jpg",
+  "sheet_times": [
+    6.11,
+    18.34,
+    30.56,
+    42.79,
+    55.02,
+    67.24,
+    79.47,
+    91.69,
+    103.92,
+    116.15,
+    128.37,
+    140.6,
+    152.82,
+    165.05,
+    177.28,
+    189.5
+  ]
+}

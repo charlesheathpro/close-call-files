@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:316434",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevac",
+  "description": "HOUGHTON, Mich. -- Petty Officer 2nd Class Matthew O'Dell, an aviation survival technician from Air Station Traverse City, assists local Emergency Medical Technicians with the transfer of John Hughes, 83, from an HH-65C Dolphin rescue helicopter to a waiting ambulance, Oct. 5, 2010.",
+  "keywords": "CGVI",
+  "date": "2010-10-13T14:46:22-04:00",
+  "date_published": "2013-12-20T06:03:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houghton",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316434/coast-guard-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316434",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:43:36Z",
+  "duration": 44.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060130/DOD_101060130-640x480-3000k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 18104266
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316434.jpg",
+  "sheet_times": [
+    1.37,
+    4.12,
+    6.86,
+    9.6,
+    12.35,
+    15.09,
+    17.83,
+    20.58,
+    23.32,
+    26.06,
+    28.81,
+    31.55,
+    34.29,
+    37.04,
+    39.78,
+    42.52
+  ]
+}

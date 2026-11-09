@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:314217",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MEDEVAC-SAC",
+  "description": "SAN DIEGO - The Coast Guard conducted a medical evacuation of an ill mariner more than 250 miles west of Santa Barbara, Calif., this morning.  After receiving a call from the tanker vessel Prisco Elizavita, the flight surgeon concurred with the medical evacuation of the 46-year-old man. An MH-60J Jayhawk helicopter from San Diego conducted the medevac, and a C-130 Hercules aircraft was also launched from Air Station Sacramento to help locate the vessel and provide coverage during the long range medevac.\r\nThe man was hoisted to the helicopter and transported safely to personnel at Santa Barbara Cottage Hospital in stable condition at 10:00 a.m. Coast Guard video/Air Station Sacramento.",
+  "keywords": "CGVI",
+  "date": "2009-05-12T00:00:00-04:00",
+  "date_published": "2013-12-17T07:17:15-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314217/medevac-sac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314217",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:40:39Z",
+  "duration": 36.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054903/DOD_101054903-640x480-652k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 652,
+    "size": 3414924
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.75
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.8,
+      5.9,
+      7.8,
+      8.4
+    ],
+    "silence_ends": [
+      0.8,
+      2.2,
+      6.6,
+      8.4,
+      9.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314217.jpg",
+  "sheet_times": [
+    1.12,
+    3.37,
+    5.61,
+    7.86,
+    10.11,
+    12.35,
+    14.6,
+    16.84,
+    19.09,
+    21.33,
+    23.58,
+    25.83,
+    28.07,
+    30.32,
+    32.56,
+    34.81
+  ]
+}

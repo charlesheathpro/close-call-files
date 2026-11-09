@@ -1,0 +1,121 @@
+{
+  "asset_id": "video:316323",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Veendam medevac",
+  "description": "BARNEGAT LIGHT, N.J. - A Coast Guard resuce helicopter crew from Coast Guard Air Station Atlantic City, N.J., medevacs an 88-year-old female after she fell down a stairwell on the cruise ship she was aboard 50 miles east of Barnegat Light May 17, 2010. U.S. Coast Guard video by Coast Guard Air Station Atlantic City, N.J.",
+  "keywords": "CGVI",
+  "date": "2010-05-17T08:42:15-04:00",
+  "date_published": "2013-12-20T03:32:37-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Barnegat Light",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316323/veendam-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 20.0867,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316323",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:41:59Z",
+  "duration": 95.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101059849/DOD_101059849-720x480-621k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 621,
+    "size": 7933357
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 22.74,
+      "e": 56.83,
+      "text": "Okay, that's for a train."
+    },
+    {
+      "s": 56.83,
+      "e": 60.82,
+      "text": "That's for a river there, huh?"
+    },
+    {
+      "s": 60.82,
+      "e": 64.54,
+      "text": "Roger."
+    },
+    {
+      "s": 64.54,
+      "e": 66.54,
+      "text": "Oh, about 10 people are getting the words of rain."
+    },
+    {
+      "s": 66.54,
+      "e": 68.54,
+      "text": "Okay, coming up a little bit."
+    },
+    {
+      "s": 68.54,
+      "e": 70.54,
+      "text": "There's a river there, yeah."
+    },
+    {
+      "s": 70.54,
+      "e": 72.54,
+      "text": "Can you see the energy?"
+    },
+    {
+      "s": 72.54,
+      "e": 73.54,
+      "text": "I should look good right there."
+    },
+    {
+      "s": 73.54,
+      "e": 74.54,
+      "text": "Roger."
+    }
+  ],
+  "scene_cuts": [
+    20.09,
+    80.25
+  ],
+  "drama_score": 53,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      80.3
+    ],
+    "silence_ends": [
+      20.1,
+      95.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316323.jpg",
+  "sheet_times": [
+    22.42,
+    27.09,
+    31.77,
+    36.44,
+    41.11,
+    45.78,
+    50.45,
+    55.13,
+    59.8,
+    64.47,
+    69.14,
+    73.81,
+    78.49,
+    83.16,
+    87.83,
+    92.5
+  ]
+}

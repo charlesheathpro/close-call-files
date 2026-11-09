@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:282036",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Carnival Conquest Medevac",
+  "description": "Coast Guard Air Station New Orleans medevacs a 46-year-old man from a cruise ship approximately 60 miles south of Southwest Pass, La., Feb. 16, 2013. The man was reportedly suffering from symptoms associated with a brain hemorrhage. U.S. Coast Guard video by Air Station New Orleans.",
+  "keywords": "8th District External Affairs, 8th Coast Guard District, Carnival Conquest, medevac, Cruise Ship, Air Station New Orleans",
+  "date": "2013-02-16T00:00:00-05:00",
+  "date_published": "2013-02-17T12:01:24-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130216-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/282036/carnival-conquest-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-282036",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:43:43Z",
+  "duration": 95.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1302/DOD_100740950/DOD_100740950.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 4052,
+    "size": 51192634
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 76.27,
+      "e": 90.62,
+      "text": "back on this when I bring it in so I can always get it back."
+    }
+  ],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-282036.jpg",
+  "sheet_times": [
+    6.87,
+    12.53,
+    18.2,
+    23.86,
+    29.53,
+    35.19,
+    40.86,
+    46.52,
+    52.18,
+    57.85,
+    63.51,
+    69.18,
+    74.84,
+    80.51,
+    86.17,
+    91.84
+  ]
+}

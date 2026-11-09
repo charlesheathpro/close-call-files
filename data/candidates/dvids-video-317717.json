@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:317717",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Carnival Miracle Medevac",
+  "description": "ATLANTIC OCEAN - A Coast Guard Air Station Elizabeth City aircrew aboard an MH-60 Jayhawk helicopter medevacs a 72-year old woman from a cruise ship, Aug. 27, 2012.",
+  "keywords": "CGVI",
+  "date": "2012-08-27T00:00:00-04:00",
+  "date_published": "2013-12-22T16:55:24-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 1st Class Nick Ameen",
+  "category": "B-Roll",
+  "virin": "120827-G-ZE884-001",
+  "location": {
+    "city": "Atlantic Ocean",
+    "state": "USNORTHCOM",
+    "country": "At Sea",
+    "state_abbreviation": "USNORTHCOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/317717/carnival-miracle-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317717",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:42:33Z",
+  "duration": 122.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062682/DOD_101062682.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 83533585
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    71.74,
+    115.55
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      122.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317717.jpg",
+  "sheet_times": [
+    3.8,
+    11.39,
+    18.99,
+    26.59,
+    34.18,
+    41.78,
+    49.38,
+    56.97,
+    64.57,
+    72.17,
+    79.76,
+    87.36,
+    94.96,
+    102.55,
+    110.15,
+    117.75
+  ]
+}

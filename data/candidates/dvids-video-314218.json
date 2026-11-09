@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:314218",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MEDEVAC 2",
+  "description": "SAN DIEGO - The Coast Guard conducted a medical evacuation of an ill mariner more than 250 miles west of Santa Barbara, Calif., this morning.  After receiving a call from the tanker vessel Prisco Elizavita, the flight surgeon concurred with the medical evacuation of the 46-year-old man. An MH-60J Jayhawk helicopter from San Diego conducted the medevac, and a C-130 Hercules aircraft was also launched from Air Station Sacramento to help locate the vessel and provide coverage during the long range medevac.\r\nThe man was hoisted to the helicopter and transported safely to personnel at Santa Barbara Cottage Hospital in stable condition at 10:00 a.m. Coast Guard video/Air Station Sacramento.",
+  "keywords": "CGVI",
+  "date": "2009-05-12T00:00:00-04:00",
+  "date_published": "2013-12-17T07:17:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314218/medevac-2",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314218",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:40:35Z",
+  "duration": 20.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054904/DOD_101054904-640x480-675k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 675,
+    "size": 1954727
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.64,
+    3.67
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-314218.jpg",
+  "sheet_times": [
+    0.62,
+    1.87,
+    3.12,
+    4.37,
+    5.62,
+    6.87,
+    8.11,
+    9.36,
+    10.61,
+    11.86,
+    13.11,
+    14.36,
+    15.6,
+    16.85,
+    18.1,
+    19.35
+  ]
+}

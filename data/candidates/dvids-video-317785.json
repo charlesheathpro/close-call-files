@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:317785",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Eurodam Medevac",
+  "description": "The Coast Guard medevaced a 75-year-old woman from the 937-foot cruise ship Eurodam approximately 84 miles east of Cape May Wednesday. An MH-65 Dolphin helicopter crew from Coast Guard Air Station Atlantic City, N.J., and an HC-130 Hercules aircraft from Coast Guard Air Station Elizabeth City, N.C., responded to assist. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-10-25T13:40:15-04:00",
+  "date_published": "2013-12-22T18:15:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317785/eurodam-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317785",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:41:46Z",
+  "duration": 190.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062752/DOD_101062752-720x480-947k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 947,
+    "size": 25717209
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    10.01,
+    180.65,
+    185.65
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      190.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317785.jpg",
+  "sheet_times": [
+    5.95,
+    17.84,
+    29.73,
+    41.62,
+    53.51,
+    65.41,
+    77.3,
+    89.19,
+    101.08,
+    112.98,
+    124.87,
+    136.76,
+    148.65,
+    160.54,
+    172.44,
+    184.33
+  ]
+}

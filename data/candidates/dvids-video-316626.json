@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:316626",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Station Galveston Medevac",
+  "description": "B-roll of Coast Guard Station Galveston medevacs man 13 miles off Galveston, Texas coast. Edited by Petty Officer Richard Brahm.",
+  "keywords": "CGVI, Coast Guard Station Galveston, medevac",
+  "date": "2010-12-15T00:00:00-05:00",
+  "date_published": "2013-12-20T13:34:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101215-G-5352B-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316626/station-galveston-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 10.0139,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316626",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:42:15Z",
+  "duration": 61.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060672/DOD_101060672.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 5801,
+    "size": 53463216
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    47.57,
+    47.6,
+    59.98,
+    60.22,
+    60.25,
+    60.28,
+    60.32,
+    60.35,
+    60.38,
+    60.42,
+    60.45,
+    60.48,
+    60.52,
+    60.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316626.jpg",
+  "sheet_times": [
+    11.61,
+    14.8,
+    17.99,
+    21.18,
+    24.37,
+    27.56,
+    30.75,
+    33.95,
+    37.14,
+    40.33,
+    43.52,
+    46.71,
+    49.9,
+    53.09,
+    56.28,
+    59.47
+  ]
+}
