@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:599875",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured crew member near Freeport, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter aircrew medevacs a 49-year-old crew member from a chemical tanker near Freeport, Texas, May 11, 2018. Coast Guard Sector Houston-Galveston watchstanders received a request from the captain of the 580-foot vessel Stolt Perseverance for the medevac of a crew member who was reportedly burned by venting steam aboard the chemical tanker 48 miles offshore. U.S. Coast Guard video by Air Station Houston.",
+  "keywords": "chemical tanker, medevac, SAR, Air Station Houston",
+  "date": "2018-05-11T00:00:00-04:00",
+  "date_published": "2018-05-11T21:43:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180511-G-G0108-1001",
+  "location": {
+    "city": "Freeport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/599875/coast-guard-medevacs-injured-crew-member-near-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.3043,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-599875",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:59:45Z",
+  "duration": 172.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105617677/DOD_105617677.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9127,
+    "size": 199207220
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.5,
+      "e": 6.5,
+      "text": "The car's out of the way now."
+    }
+  ],
+  "scene_cuts": [
+    4.3,
+    46.05,
+    139.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-599875.jpg",
+  "sheet_times": [
+    9.54,
+    20.0,
+    30.46,
+    40.93,
+    51.39,
+    61.85,
+    72.32,
+    82.78,
+    93.25,
+    103.71,
+    114.17,
+    124.64,
+    135.1,
+    145.56,
+    156.03,
+    166.49
+  ]
+}

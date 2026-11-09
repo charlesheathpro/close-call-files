@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:918153",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 1 from jetty near Galveston, Texas",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Air Station Houston medevacs an injured 28-year-old man from the North Jetty in Galveston, Texas, April 5, 2024. The crew transported him to the University of Texas Medical Branch in Galveston in stable condition. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "Galveston, jetty",
+  "date": "2024-04-05T00:00:00-04:00",
+  "date_published": "2024-04-06T10:14:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240405-G-G0108-2001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/918153/coast-guard-medevacs-1-jetty-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-918153",
+  "status": "new",
+  "harvested_at": "2026-11-09T21:00:43Z",
+  "duration": 102.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2404/DOD_110219354/DOD_110219354-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 103804303
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    28.36,
+    37.24,
+    57.26,
+    74.87,
+    77.64,
+    97.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.9,
+      17.9,
+      28.6,
+      48.2,
+      77.0,
+      90.2,
+      92.6,
+      96.3
+    ],
+    "silence_ends": [
+      3.7,
+      18.7,
+      33.2,
+      51.1,
+      77.9,
+      91.6,
+      93.7,
+      97.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-918153.jpg",
+  "sheet_times": [
+    3.2,
+    9.59,
+    15.99,
+    22.39,
+    28.78,
+    35.18,
+    41.57,
+    47.97,
+    54.37,
+    60.76,
+    67.16,
+    73.55,
+    79.95,
+    86.35,
+    92.74,
+    99.14
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:933029",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs boater 51 miles offshore Freeport, Texas",
+  "description": "The Coast Guard medevacs a 15-year-old boy who lost consciousness approximately 51 miles south of Freeport, Texas, August, 6, 2024. The helicopter crew arrived on scene and transported him to the University of Texas Medical Branch in Galveston in stable condition.",
+  "keywords": null,
+  "date": "2024-08-06T00:00:00-04:00",
+  "date_published": "2024-08-06T17:00:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240806-G-G0108-1001",
+  "location": {
+    "city": "Freeport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/933029/coast-guard-medevacs-boater-51-miles-offshore-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-933029",
+  "status": "new",
+  "harvested_at": "2026-11-09T21:00:27Z",
+  "duration": 58.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2407/DOD_110490230/DOD_110490230-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 58952450
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      58.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-933029.jpg",
+  "sheet_times": [
+    1.8,
+    5.39,
+    8.98,
+    12.58,
+    16.17,
+    19.77,
+    23.36,
+    26.95,
+    30.55,
+    34.14,
+    37.73,
+    41.33,
+    44.92,
+    48.52,
+    52.11,
+    55.7
+  ]
+}
