@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-317868",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:55:23Z",
   "duration": 149.93,
   "source_file": {
@@ -435,5 +435,6 @@
     126.08,
     135.42,
     144.76
-  ]
+  ],
+  "pass_reason": "calm helipad hoist, no danger on screen"
 }

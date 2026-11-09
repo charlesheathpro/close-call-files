@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-771523",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:04:39Z",
   "duration": 306.54,
   "source_file": {
@@ -597,5 +597,6 @@
     258.22,
     277.35,
     296.48
-  ]
+  ],
+  "pass_reason": "grainy FLIR of a man on debris, QA rejects grainy FLIR"
 }

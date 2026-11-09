@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-804273",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:48:24Z",
   "duration": 117.35,
   "source_file": {
@@ -69,5 +69,6 @@
     98.6,
     105.9,
     113.2
-  ]
+  ],
+  "pass_reason": "mostly cabin close-ups, no danger visible"
 }

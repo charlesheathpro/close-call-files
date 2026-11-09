@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "4:3",
   "id": "dvids-video-5766",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:07:32Z",
   "duration": 440.81,
   "source_file": {
@@ -156,5 +156,6 @@
     372.14,
     399.41,
     426.67
-  ]
+  ],
+  "pass_reason": "aerial b-roll, no rescue on screen"
 }

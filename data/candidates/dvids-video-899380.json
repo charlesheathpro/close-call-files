@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-899380",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:46:18Z",
   "duration": 102.97,
   "source_file": {
@@ -71,5 +71,6 @@
     86.46,
     92.86,
     99.27
-  ]
+  ],
+  "pass_reason": "thin release (only says disabled boat), half the clip is grainy IR"
 }
