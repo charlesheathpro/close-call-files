@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:480985",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Coast Guard hoists 2 people to safety near Galloway, NJ",
-  "description": "An aircrew from Coast Guard Air Station Atlantic City, N.J., hoist two people Saturday, August 27, 2016, after their boat ran aground in Little Egg Harbor Inlet, Galloway, N.J. The aircrew transferred the people to the Coast Guard Air Station. U.S. Coast Guard video by Petty Officer 3rd Class David Micallef",
-  "keywords": "hoist, Coast Guard rescue, aground, rescue",
-  "date": "2016-08-27T00:00:00-04:00",
-  "date_published": "2016-08-28T19:07:03-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard East",
-  "credit": "Petty Officer 3rd Class David Micallef",
-  "category": "B-Roll",
-  "virin": "160827-G-QD712-918",
-  "location": {
-    "city": "Atlantic City",
-    "state": "New Jersey",
-    "country": "United States",
-    "state_abbreviation": "NJ",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/480985/coast-guard-hoists-2-people-safety-near-galloway-nj",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-480985",
-  "status": "new",
-  "harvested_at": "2026-11-08T17:05:01Z",
-  "duration": 213.48,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103615597/DOD_103615597.mp4",
-    "width": 1280,
-    "height": 720,
-    "bitrate": 5911,
-    "size": 161057348
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 56,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      213.5
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-480985.jpg",
-  "sheet_times": [
-    6.66,
-    19.97,
-    33.28,
-    46.59,
-    59.9,
-    73.21,
-    86.52,
-    99.84,
-    113.15,
-    126.46,
-    139.77,
-    153.08,
-    166.39,
-    179.7,
-    193.02,
-    206.33
+ "asset_id": "video:480985",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Coast Guard hoists 2 people to safety near Galloway, NJ",
+ "description": "An aircrew from Coast Guard Air Station Atlantic City, N.J., hoist two people Saturday, August 27, 2016, after their boat ran aground in Little Egg Harbor Inlet, Galloway, N.J. The aircrew transferred the people to the Coast Guard Air Station. U.S. Coast Guard video by Petty Officer 3rd Class David Micallef",
+ "keywords": "hoist, Coast Guard rescue, aground, rescue",
+ "date": "2016-08-27T00:00:00-04:00",
+ "date_published": "2016-08-28T19:07:03-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard East",
+ "credit": "Petty Officer 3rd Class David Micallef",
+ "category": "B-Roll",
+ "virin": "160827-G-QD712-918",
+ "location": {
+  "city": "Atlantic City",
+  "state": "New Jersey",
+  "country": "United States",
+  "state_abbreviation": "NJ",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/480985/coast-guard-hoists-2-people-safety-near-galloway-nj",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-480985",
+ "status": "passed_over",
+ "harvested_at": "2026-11-08T17:05:01Z",
+ "duration": 213.48,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103615597/DOD_103615597.mp4",
+  "width": 1280,
+  "height": 720,
+  "bitrate": 5911,
+  "size": 161057348
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 56,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   213.5
   ]
+ },
+ "sheet": "data/candidates/dvids-video-480985.jpg",
+ "sheet_times": [
+  6.66,
+  19.97,
+  33.28,
+  46.59,
+  59.9,
+  73.21,
+  86.52,
+  99.84,
+  113.15,
+  126.46,
+  139.77,
+  153.08,
+  166.39,
+  179.7,
+  193.02,
+  206.33
+ ],
+ "pass_reason": "night black and white door-cam, nothing readable on a phone"
 }

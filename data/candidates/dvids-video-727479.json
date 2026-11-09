@@ -1,70 +1,71 @@
 {
-  "asset_id": "video:727479",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Coast Guard hoists four fishermen who ran aground in Browns Inlet, North Carolina",
-  "description": "An aircrew aboard an MH-60 Jayhawk helicopter from Air Station Elizabeth City hoists four fishermen who ran aground in Browns Inlet, North Carolina, December. 9, 2019. The crewmember reported that there were four people onboard and that they had run aground due to mechanical issues and requested assistance from the Coast Guard. \r\n(U.S. Coast Guard video by Air Station Elizabeth City.)",
-  "keywords": "Coast Guard, USCG, U.S., CG",
-  "date": "2019-12-09T00:00:00-05:00",
-  "date_published": "2019-12-09T18:17:05-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard East",
-  "credit": "Petty Officer 3rd Class Isaac Cross",
-  "category": "B-Roll",
-  "virin": "191209-G-G0105-1001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "United States",
-    "state_abbreviation": null,
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/727479/coast-guard-hoists-four-fishermen-who-ran-aground-browns-inlet-north-carolina",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-727479",
-  "status": "new",
-  "harvested_at": "2026-11-09T00:41:56Z",
-  "duration": 228.27,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107509545/DOD_107509545.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 2095,
-    "size": 60078010
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 90,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      228.3
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-727479.jpg",
-  "sheet_times": [
-    7.12,
-    21.35,
-    35.59,
-    49.82,
-    64.06,
-    78.29,
-    92.53,
-    106.77,
-    121.0,
-    135.24,
-    149.47,
-    163.71,
-    177.94,
-    192.18,
-    206.41,
-    220.65
+ "asset_id": "video:727479",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Coast Guard hoists four fishermen who ran aground in Browns Inlet, North Carolina",
+ "description": "An aircrew aboard an MH-60 Jayhawk helicopter from Air Station Elizabeth City hoists four fishermen who ran aground in Browns Inlet, North Carolina, December. 9, 2019. The crewmember reported that there were four people onboard and that they had run aground due to mechanical issues and requested assistance from the Coast Guard. \r\n(U.S. Coast Guard video by Air Station Elizabeth City.)",
+ "keywords": "Coast Guard, USCG, U.S., CG",
+ "date": "2019-12-09T00:00:00-05:00",
+ "date_published": "2019-12-09T18:17:05-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard East",
+ "credit": "Petty Officer 3rd Class Isaac Cross",
+ "category": "B-Roll",
+ "virin": "191209-G-G0105-1001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "United States",
+  "state_abbreviation": null,
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/727479/coast-guard-hoists-four-fishermen-who-ran-aground-browns-inlet-north-carolina",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-727479",
+ "status": "passed_over",
+ "harvested_at": "2026-11-09T00:41:56Z",
+ "duration": 228.27,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107509545/DOD_107509545.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 2095,
+  "size": 60078010
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 90,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   228.3
   ]
+ },
+ "sheet": "data/candidates/dvids-video-727479.jpg",
+ "sheet_times": [
+  7.12,
+  21.35,
+  35.59,
+  49.82,
+  64.06,
+  78.29,
+  92.53,
+  106.77,
+  121.0,
+  135.24,
+  149.47,
+  163.71,
+  177.94,
+  192.18,
+  206.41,
+  220.65
+ ],
+ "pass_reason": "repeats the Nov 7 aground-in-surf Short; overexposed pillarboxed door-cam"
 }

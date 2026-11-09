@@ -1,761 +1,762 @@
 {
-  "asset_id": "video:626782",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "aircrew rescues",
-  "title": "B-roll of Coast Guard aircrews making multiple rescues in the wake of Hurricane Florence",
-  "description": "B-roll of Coast Guard aircrews making multiple rescues in the wake of Hurricane Florence, North Carolina, Sept. 17, 2018. Crews from Air Station Elizabeth City, North Carolina, Air Station Atlantic City, New Jersey, Air station Cape Cod, Massachusetts, Air Station Clearwater, Florida, and Air Station Savannah, Georgia supported the search and rescue efforts. \r\n(U.S. Coast Guard video by Air Station Elizabeth City)",
-  "keywords": "florence, hurricane response, district 5, fifth district, hurricaneflorence, Hurricane Florence, Coast Guard, search and rescue, safety, North Carolina, USCG, Hurricane, U.S., CG",
-  "date": "2018-09-17T00:00:00-04:00",
-  "date_published": "2018-09-18T13:58:29-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard East",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "180918-G-G0105-1001",
-  "location": {
-    "city": "",
-    "state": "North Carolina",
-    "country": "United States",
-    "state_abbreviation": "NC",
-    "country_abbreviation": "US"
+ "asset_id": "video:626782",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "aircrew rescues",
+ "title": "B-roll of Coast Guard aircrews making multiple rescues in the wake of Hurricane Florence",
+ "description": "B-roll of Coast Guard aircrews making multiple rescues in the wake of Hurricane Florence, North Carolina, Sept. 17, 2018. Crews from Air Station Elizabeth City, North Carolina, Air Station Atlantic City, New Jersey, Air station Cape Cod, Massachusetts, Air Station Clearwater, Florida, and Air Station Savannah, Georgia supported the search and rescue efforts. \r\n(U.S. Coast Guard video by Air Station Elizabeth City)",
+ "keywords": "florence, hurricane response, district 5, fifth district, hurricaneflorence, Hurricane Florence, Coast Guard, search and rescue, safety, North Carolina, USCG, Hurricane, U.S., CG",
+ "date": "2018-09-17T00:00:00-04:00",
+ "date_published": "2018-09-18T13:58:29-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard East",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "180918-G-G0105-1001",
+ "location": {
+  "city": "",
+  "state": "North Carolina",
+  "country": "United States",
+  "state_abbreviation": "NC",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/626782/b-roll-coast-guard-aircrews-making-multiple-rescues-wake-hurricane-florence",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-626782",
+ "status": "passed_over",
+ "harvested_at": "2026-11-06T17:37:51Z",
+ "duration": 370.54,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106039231/DOD_106039231.mp4",
+  "width": 960,
+  "height": 540,
+  "bitrate": 8344,
+  "size": 391475519
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 2.61,
+   "e": 4.61,
+   "text": "Load check complete, so we're just going down."
   },
-  "page_url": "https://www.dvidshub.net/video/626782/b-roll-coast-guard-aircrews-making-multiple-rescues-wake-hurricane-florence",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-626782",
-  "status": "new",
-  "harvested_at": "2026-11-06T17:37:51Z",
-  "duration": 370.54,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106039231/DOD_106039231.mp4",
-    "width": 960,
-    "height": 540,
-    "bitrate": 8344,
-    "size": 391475519
+  {
+   "s": 4.61,
+   "e": 10.31,
+   "text": "Five sir."
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 2.61,
-      "e": 4.61,
-      "text": "Load check complete, so we're just going down."
-    },
-    {
-      "s": 4.61,
-      "e": 10.31,
-      "text": "Five sir."
-    },
-    {
-      "s": 10.31,
-      "e": 11.31,
-      "text": "Roger."
-    },
-    {
-      "s": 11.31,
-      "e": 16.63,
-      "text": "Clear on one."
-    },
-    {
-      "s": 16.63,
-      "e": 25.22,
-      "text": "Easy left."
-    },
-    {
-      "s": 25.22,
-      "e": 28.74,
-      "text": "Easy left."
-    },
-    {
-      "s": 28.74,
-      "e": 29.74,
-      "text": "Hold, sorry."
-    },
-    {
-      "s": 29.74,
-      "e": 30.74,
-      "text": "So we're going to go way down."
-    },
-    {
-      "s": 30.74,
-      "e": 31.74,
-      "text": "Roger."
-    },
-    {
-      "s": 31.74,
-      "e": 33.74,
-      "text": "See you in over the shed."
-    },
-    {
-      "s": 33.74,
-      "e": 34.74,
-      "text": "Roger."
-    },
-    {
-      "s": 34.74,
-      "e": 36.74,
-      "text": "And you can begin the morning."
-    },
-    {
-      "s": 36.74,
-      "e": 37.74,
-      "text": "Roger has targeted sight."
-    },
-    {
-      "s": 37.74,
-      "e": 38.74,
-      "text": "Pasket is going outside."
-    },
-    {
-      "s": 38.74,
-      "e": 39.74,
-      "text": "Cavador."
-    },
-    {
-      "s": 39.74,
-      "e": 41.74,
-      "text": "Roger, you can come use neither of us."
-    },
-    {
-      "s": 41.74,
-      "e": 42.74,
-      "text": "Yes sir."
-    },
-    {
-      "s": 42.74,
-      "e": 43.74,
-      "text": "Pasket is outside."
-    },
-    {
-      "s": 43.74,
-      "e": 44.74,
-      "text": "Four."
-    },
-    {
-      "s": 44.74,
-      "e": 49.9,
-      "text": "Pasket is going down."
-    },
-    {
-      "s": 49.9,
-      "e": 50.9,
-      "text": "That's about that drift."
-    },
-    {
-      "s": 50.9,
-      "e": 51.9,
-      "text": "Pasket is going down."
-    },
-    {
-      "s": 51.9,
-      "e": 52.9,
-      "text": "Sorry sir."
-    },
-    {
-      "s": 52.9,
-      "e": 53.9,
-      "text": "You got back to 20."
-    },
-    {
-      "s": 53.9,
-      "e": 54.9,
-      "text": "Roger."
-    },
-    {
-      "s": 54.9,
-      "e": 64.9,
-      "text": "Pasket is just over the aircraft."
-    },
-    {
-      "s": 64.9,
-      "e": 75.29,
-      "text": "Pasket is outside the cabin door."
-    },
-    {
-      "s": 75.29,
-      "e": 76.29,
-      "text": "Bring the basket inside the cabin."
-    },
-    {
-      "s": 76.29,
-      "e": 77.29,
-      "text": "Roger."
-    },
-    {
-      "s": 77.29,
-      "e": 81.49,
-      "text": "On the floor."
-    },
-    {
-      "s": 81.49,
-      "e": 84.18,
-      "text": "Guys, get on the seat."
-    },
-    {
-      "s": 84.18,
-      "e": 85.18,
-      "text": "Get on the seat."
-    },
-    {
-      "s": 85.18,
-      "e": 90.34,
-      "text": "Get on the seat guys."
-    },
-    {
-      "s": 90.34,
-      "e": 94.34,
-      "text": "You're up against the temporary cork."
-    },
-    {
-      "s": 94.34,
-      "e": 107.58,
-      "text": "It's just outside the cabin door."
-    },
-    {
-      "s": 107.58,
-      "e": 108.58,
-      "text": "Roger."
-    },
-    {
-      "s": 108.58,
-      "e": 112.58,
-      "text": "You got a new helicopter at 1,000 feet up at the north top."
-    },
-    {
-      "s": 112.58,
-      "e": 113.58,
-      "text": "Bring another side the cabin."
-    },
-    {
-      "s": 113.58,
-      "e": 114.58,
-      "text": "Excellent."
-    },
-    {
-      "s": 114.58,
-      "e": 208.06,
-      "text": "Clear."
-    },
-    {
-      "s": 208.06,
-      "e": 209.06,
-      "text": "Take the load."
-    },
-    {
-      "s": 209.06,
-      "e": 210.06,
-      "text": "Oh."
-    },
-    {
-      "s": 210.06,
-      "e": 211.06,
-      "text": "Taking the load."
-    },
-    {
-      "s": 211.06,
-      "e": 213.06,
-      "text": "And there's clear on the deck."
-    },
-    {
-      "s": 213.06,
-      "e": 214.06,
-      "text": "Coming up."
-    },
-    {
-      "s": 214.06,
-      "e": 215.06,
-      "text": "Roger down."
-    },
-    {
-      "s": 215.06,
-      "e": 216.06,
-      "text": "Help."
-    },
-    {
-      "s": 216.06,
-      "e": 217.06,
-      "text": "Is there half way up?"
-    },
-    {
-      "s": 217.06,
-      "e": 219.66,
-      "text": "Roger."
-    },
-    {
-      "s": 219.66,
-      "e": 220.66,
-      "text": "Clear."
-    },
-    {
-      "s": 220.66,
-      "e": 221.66,
-      "text": "Clear."
-    },
-    {
-      "s": 221.66,
-      "e": 222.66,
-      "text": "You're giving me back and left."
-    },
-    {
-      "s": 222.66,
-      "e": 223.66,
-      "text": "Clear the tree."
-    },
-    {
-      "s": 223.66,
-      "e": 224.66,
-      "text": "Help."
-    },
-    {
-      "s": 224.66,
-      "e": 225.66,
-      "text": "Help."
-    },
-    {
-      "s": 225.66,
-      "e": 226.66,
-      "text": "Help."
-    },
-    {
-      "s": 226.66,
-      "e": 227.66,
-      "text": "Help."
-    },
-    {
-      "s": 227.66,
-      "e": 228.66,
-      "text": "Help."
-    },
-    {
-      "s": 228.66,
-      "e": 229.66,
-      "text": "Help."
-    },
-    {
-      "s": 229.66,
-      "e": 230.66,
-      "text": "You can see the bands."
-    },
-    {
-      "s": 230.66,
-      "e": 231.66,
-      "text": "Roger."
-    },
-    {
-      "s": 231.66,
-      "e": 233.66,
-      "text": "Just outside the aircraft."
-    },
-    {
-      "s": 233.66,
-      "e": 234.66,
-      "text": "Roger."
-    },
-    {
-      "s": 234.66,
-      "e": 235.66,
-      "text": "It's not a Atlantic."
-    },
-    {
-      "s": 235.66,
-      "e": 236.66,
-      "text": "It's a non-spondible."
-    },
-    {
-      "s": 236.66,
-      "e": 237.66,
-      "text": "A non-spondible."
-    },
-    {
-      "s": 237.66,
-      "e": 238.66,
-      "text": "A non-spondible."
-    },
-    {
-      "s": 238.66,
-      "e": 239.66,
-      "text": "What's that?"
-    },
-    {
-      "s": 239.66,
-      "e": 240.66,
-      "text": "Roger."
-    },
-    {
-      "s": 240.66,
-      "e": 241.66,
-      "text": "Roger."
-    },
-    {
-      "s": 241.66,
-      "e": 243.66,
-      "text": "Bring another side to cabin door."
-    },
-    {
-      "s": 243.66,
-      "e": 247.7,
-      "text": "My left need help man."
-    },
-    {
-      "s": 247.7,
-      "e": 248.7,
-      "text": "Sir."
-    },
-    {
-      "s": 248.7,
-      "e": 249.7,
-      "text": "I got him."
-    },
-    {
-      "s": 249.7,
-      "e": 250.7,
-      "text": "Roger."
-    },
-    {
-      "s": 250.7,
-      "e": 251.7,
-      "text": "Oh my kid."
-    },
-    {
-      "s": 251.7,
-      "e": 253.7,
-      "text": "We're a mountain of the man."
-    },
-    {
-      "s": 253.7,
-      "e": 257.32,
-      "text": "One second."
-    },
-    {
-      "s": 257.32,
-      "e": 259.32,
-      "text": "I'm going to let go of the ice."
-    },
-    {
-      "s": 259.32,
-      "e": 260.32,
-      "text": "One second."
-    },
-    {
-      "s": 260.32,
-      "e": 263.66,
-      "text": "Deck."
-    },
-    {
-      "s": 263.66,
-      "e": 264.66,
-      "text": "Get back and left."
-    },
-    {
-      "s": 264.66,
-      "e": 265.66,
-      "text": "Clear."
-    },
-    {
-      "s": 265.66,
-      "e": 266.66,
-      "text": "Help."
-    },
-    {
-      "s": 266.66,
-      "e": 268.66,
-      "text": "I'm going to try and end my closet now."
-    },
-    {
-      "s": 268.66,
-      "e": 269.66,
-      "text": "Good."
-    },
-    {
-      "s": 269.66,
-      "e": 270.66,
-      "text": "Just outside the cabin door."
-    },
-    {
-      "s": 270.66,
-      "e": 271.66,
-      "text": "That's right."
-    },
-    {
-      "s": 271.66,
-      "e": 272.66,
-      "text": "I'm going to have a need help."
-    },
-    {
-      "s": 272.66,
-      "e": 274.66,
-      "text": "Bring another side the cabin."
-    },
-    {
-      "s": 274.66,
-      "e": 277.48,
-      "text": "Make it the load."
-    },
-    {
-      "s": 277.48,
-      "e": 279.48,
-      "text": "Load is clear of the deck."
-    },
-    {
-      "s": 279.48,
-      "e": 282.94,
-      "text": "Load is clear of the trees."
-    },
-    {
-      "s": 282.94,
-      "e": 284.94,
-      "text": "Just clear the trees, easy back and left."
-    },
-    {
-      "s": 284.94,
-      "e": 285.94,
-      "text": "You want it?"
-    },
-    {
-      "s": 285.94,
-      "e": 286.94,
-      "text": "Two commands, all the way right here."
-    },
-    {
-      "s": 286.94,
-      "e": 287.94,
-      "text": "Roger."
-    },
-    {
-      "s": 287.94,
-      "e": 295.57,
-      "text": "Fast and outside cabin door."
-    },
-    {
-      "s": 295.57,
-      "e": 299.1,
-      "text": "Come on, man."
-    },
-    {
-      "s": 299.1,
-      "e": 300.1,
-      "text": "Yeah, no problem."
-    },
-    {
-      "s": 300.1,
-      "e": 301.1,
-      "text": "Second."
-    },
-    {
-      "s": 301.1,
-      "e": 307.92,
-      "text": "Second."
-    },
-    {
-      "s": 307.92,
-      "e": 315.42,
-      "text": "Oh, for the deck."
-    },
-    {
-      "s": 315.42,
-      "e": 316.42,
-      "text": "Back and left."
-    },
-    {
-      "s": 316.42,
-      "e": 319.24,
-      "text": "Right there."
-    },
-    {
-      "s": 319.24,
-      "e": 320.24,
-      "text": "Two commands."
-    },
-    {
-      "s": 320.24,
-      "e": 321.24,
-      "text": "Load it down."
-    },
-    {
-      "s": 321.24,
-      "e": 322.24,
-      "text": "Pay out."
-    },
-    {
-      "s": 322.24,
-      "e": 329.07,
-      "text": "Go to the outside cabin door."
-    },
-    {
-      "s": 329.07,
-      "e": 332.22,
-      "text": "We're going to go inside cabin."
-    },
-    {
-      "s": 332.22,
-      "e": 342.82,
-      "text": "Easy back and left."
-    },
-    {
-      "s": 342.82,
-      "e": 343.82,
-      "text": "I don't see that command."
-    },
-    {
-      "s": 343.82,
-      "e": 345.82,
-      "text": "I'll hold it right here."
-    },
-    {
-      "s": 345.82,
-      "e": 352.3,
-      "text": "Just below the aircraft."
-    },
-    {
-      "s": 352.3,
-      "e": 353.3,
-      "text": "Break break."
-    },
-    {
-      "s": 354.3,
-      "e": 355.3,
-      "text": "Break break."
-    },
-    {
-      "s": 355.3,
-      "e": 356.3,
-      "text": "6'5\", 6'0\", easy to do."
-    },
-    {
-      "s": 356.3,
-      "e": 358.3,
-      "text": "Speaking of outside cabin door."
-    },
-    {
-      "s": 358.3,
-      "e": 359.3,
-      "text": "He is outside cabin door."
-    },
-    {
-      "s": 359.3,
-      "e": 360.3,
-      "text": "He is inside cabin door."
-    },
-    {
-      "s": 360.3,
-      "e": 369.07,
-      "text": "He is inside the cabin."
-    },
-    {
-      "s": 369.07,
-      "e": 383.07,
-      "text": "And hoisted complete."
-    }
+  {
+   "s": 10.31,
+   "e": 11.31,
+   "text": "Roger."
+  },
+  {
+   "s": 11.31,
+   "e": 16.63,
+   "text": "Clear on one."
+  },
+  {
+   "s": 16.63,
+   "e": 25.22,
+   "text": "Easy left."
+  },
+  {
+   "s": 25.22,
+   "e": 28.74,
+   "text": "Easy left."
+  },
+  {
+   "s": 28.74,
+   "e": 29.74,
+   "text": "Hold, sorry."
+  },
+  {
+   "s": 29.74,
+   "e": 30.74,
+   "text": "So we're going to go way down."
+  },
+  {
+   "s": 30.74,
+   "e": 31.74,
+   "text": "Roger."
+  },
+  {
+   "s": 31.74,
+   "e": 33.74,
+   "text": "See you in over the shed."
+  },
+  {
+   "s": 33.74,
+   "e": 34.74,
+   "text": "Roger."
+  },
+  {
+   "s": 34.74,
+   "e": 36.74,
+   "text": "And you can begin the morning."
+  },
+  {
+   "s": 36.74,
+   "e": 37.74,
+   "text": "Roger has targeted sight."
+  },
+  {
+   "s": 37.74,
+   "e": 38.74,
+   "text": "Pasket is going outside."
+  },
+  {
+   "s": 38.74,
+   "e": 39.74,
+   "text": "Cavador."
+  },
+  {
+   "s": 39.74,
+   "e": 41.74,
+   "text": "Roger, you can come use neither of us."
+  },
+  {
+   "s": 41.74,
+   "e": 42.74,
+   "text": "Yes sir."
+  },
+  {
+   "s": 42.74,
+   "e": 43.74,
+   "text": "Pasket is outside."
+  },
+  {
+   "s": 43.74,
+   "e": 44.74,
+   "text": "Four."
+  },
+  {
+   "s": 44.74,
+   "e": 49.9,
+   "text": "Pasket is going down."
+  },
+  {
+   "s": 49.9,
+   "e": 50.9,
+   "text": "That's about that drift."
+  },
+  {
+   "s": 50.9,
+   "e": 51.9,
+   "text": "Pasket is going down."
+  },
+  {
+   "s": 51.9,
+   "e": 52.9,
+   "text": "Sorry sir."
+  },
+  {
+   "s": 52.9,
+   "e": 53.9,
+   "text": "You got back to 20."
+  },
+  {
+   "s": 53.9,
+   "e": 54.9,
+   "text": "Roger."
+  },
+  {
+   "s": 54.9,
+   "e": 64.9,
+   "text": "Pasket is just over the aircraft."
+  },
+  {
+   "s": 64.9,
+   "e": 75.29,
+   "text": "Pasket is outside the cabin door."
+  },
+  {
+   "s": 75.29,
+   "e": 76.29,
+   "text": "Bring the basket inside the cabin."
+  },
+  {
+   "s": 76.29,
+   "e": 77.29,
+   "text": "Roger."
+  },
+  {
+   "s": 77.29,
+   "e": 81.49,
+   "text": "On the floor."
+  },
+  {
+   "s": 81.49,
+   "e": 84.18,
+   "text": "Guys, get on the seat."
+  },
+  {
+   "s": 84.18,
+   "e": 85.18,
+   "text": "Get on the seat."
+  },
+  {
+   "s": 85.18,
+   "e": 90.34,
+   "text": "Get on the seat guys."
+  },
+  {
+   "s": 90.34,
+   "e": 94.34,
+   "text": "You're up against the temporary cork."
+  },
+  {
+   "s": 94.34,
+   "e": 107.58,
+   "text": "It's just outside the cabin door."
+  },
+  {
+   "s": 107.58,
+   "e": 108.58,
+   "text": "Roger."
+  },
+  {
+   "s": 108.58,
+   "e": 112.58,
+   "text": "You got a new helicopter at 1,000 feet up at the north top."
+  },
+  {
+   "s": 112.58,
+   "e": 113.58,
+   "text": "Bring another side the cabin."
+  },
+  {
+   "s": 113.58,
+   "e": 114.58,
+   "text": "Excellent."
+  },
+  {
+   "s": 114.58,
+   "e": 208.06,
+   "text": "Clear."
+  },
+  {
+   "s": 208.06,
+   "e": 209.06,
+   "text": "Take the load."
+  },
+  {
+   "s": 209.06,
+   "e": 210.06,
+   "text": "Oh."
+  },
+  {
+   "s": 210.06,
+   "e": 211.06,
+   "text": "Taking the load."
+  },
+  {
+   "s": 211.06,
+   "e": 213.06,
+   "text": "And there's clear on the deck."
+  },
+  {
+   "s": 213.06,
+   "e": 214.06,
+   "text": "Coming up."
+  },
+  {
+   "s": 214.06,
+   "e": 215.06,
+   "text": "Roger down."
+  },
+  {
+   "s": 215.06,
+   "e": 216.06,
+   "text": "Help."
+  },
+  {
+   "s": 216.06,
+   "e": 217.06,
+   "text": "Is there half way up?"
+  },
+  {
+   "s": 217.06,
+   "e": 219.66,
+   "text": "Roger."
+  },
+  {
+   "s": 219.66,
+   "e": 220.66,
+   "text": "Clear."
+  },
+  {
+   "s": 220.66,
+   "e": 221.66,
+   "text": "Clear."
+  },
+  {
+   "s": 221.66,
+   "e": 222.66,
+   "text": "You're giving me back and left."
+  },
+  {
+   "s": 222.66,
+   "e": 223.66,
+   "text": "Clear the tree."
+  },
+  {
+   "s": 223.66,
+   "e": 224.66,
+   "text": "Help."
+  },
+  {
+   "s": 224.66,
+   "e": 225.66,
+   "text": "Help."
+  },
+  {
+   "s": 225.66,
+   "e": 226.66,
+   "text": "Help."
+  },
+  {
+   "s": 226.66,
+   "e": 227.66,
+   "text": "Help."
+  },
+  {
+   "s": 227.66,
+   "e": 228.66,
+   "text": "Help."
+  },
+  {
+   "s": 228.66,
+   "e": 229.66,
+   "text": "Help."
+  },
+  {
+   "s": 229.66,
+   "e": 230.66,
+   "text": "You can see the bands."
+  },
+  {
+   "s": 230.66,
+   "e": 231.66,
+   "text": "Roger."
+  },
+  {
+   "s": 231.66,
+   "e": 233.66,
+   "text": "Just outside the aircraft."
+  },
+  {
+   "s": 233.66,
+   "e": 234.66,
+   "text": "Roger."
+  },
+  {
+   "s": 234.66,
+   "e": 235.66,
+   "text": "It's not a Atlantic."
+  },
+  {
+   "s": 235.66,
+   "e": 236.66,
+   "text": "It's a non-spondible."
+  },
+  {
+   "s": 236.66,
+   "e": 237.66,
+   "text": "A non-spondible."
+  },
+  {
+   "s": 237.66,
+   "e": 238.66,
+   "text": "A non-spondible."
+  },
+  {
+   "s": 238.66,
+   "e": 239.66,
+   "text": "What's that?"
+  },
+  {
+   "s": 239.66,
+   "e": 240.66,
+   "text": "Roger."
+  },
+  {
+   "s": 240.66,
+   "e": 241.66,
+   "text": "Roger."
+  },
+  {
+   "s": 241.66,
+   "e": 243.66,
+   "text": "Bring another side to cabin door."
+  },
+  {
+   "s": 243.66,
+   "e": 247.7,
+   "text": "My left need help man."
+  },
+  {
+   "s": 247.7,
+   "e": 248.7,
+   "text": "Sir."
+  },
+  {
+   "s": 248.7,
+   "e": 249.7,
+   "text": "I got him."
+  },
+  {
+   "s": 249.7,
+   "e": 250.7,
+   "text": "Roger."
+  },
+  {
+   "s": 250.7,
+   "e": 251.7,
+   "text": "Oh my kid."
+  },
+  {
+   "s": 251.7,
+   "e": 253.7,
+   "text": "We're a mountain of the man."
+  },
+  {
+   "s": 253.7,
+   "e": 257.32,
+   "text": "One second."
+  },
+  {
+   "s": 257.32,
+   "e": 259.32,
+   "text": "I'm going to let go of the ice."
+  },
+  {
+   "s": 259.32,
+   "e": 260.32,
+   "text": "One second."
+  },
+  {
+   "s": 260.32,
+   "e": 263.66,
+   "text": "Deck."
+  },
+  {
+   "s": 263.66,
+   "e": 264.66,
+   "text": "Get back and left."
+  },
+  {
+   "s": 264.66,
+   "e": 265.66,
+   "text": "Clear."
+  },
+  {
+   "s": 265.66,
+   "e": 266.66,
+   "text": "Help."
+  },
+  {
+   "s": 266.66,
+   "e": 268.66,
+   "text": "I'm going to try and end my closet now."
+  },
+  {
+   "s": 268.66,
+   "e": 269.66,
+   "text": "Good."
+  },
+  {
+   "s": 269.66,
+   "e": 270.66,
+   "text": "Just outside the cabin door."
+  },
+  {
+   "s": 270.66,
+   "e": 271.66,
+   "text": "That's right."
+  },
+  {
+   "s": 271.66,
+   "e": 272.66,
+   "text": "I'm going to have a need help."
+  },
+  {
+   "s": 272.66,
+   "e": 274.66,
+   "text": "Bring another side the cabin."
+  },
+  {
+   "s": 274.66,
+   "e": 277.48,
+   "text": "Make it the load."
+  },
+  {
+   "s": 277.48,
+   "e": 279.48,
+   "text": "Load is clear of the deck."
+  },
+  {
+   "s": 279.48,
+   "e": 282.94,
+   "text": "Load is clear of the trees."
+  },
+  {
+   "s": 282.94,
+   "e": 284.94,
+   "text": "Just clear the trees, easy back and left."
+  },
+  {
+   "s": 284.94,
+   "e": 285.94,
+   "text": "You want it?"
+  },
+  {
+   "s": 285.94,
+   "e": 286.94,
+   "text": "Two commands, all the way right here."
+  },
+  {
+   "s": 286.94,
+   "e": 287.94,
+   "text": "Roger."
+  },
+  {
+   "s": 287.94,
+   "e": 295.57,
+   "text": "Fast and outside cabin door."
+  },
+  {
+   "s": 295.57,
+   "e": 299.1,
+   "text": "Come on, man."
+  },
+  {
+   "s": 299.1,
+   "e": 300.1,
+   "text": "Yeah, no problem."
+  },
+  {
+   "s": 300.1,
+   "e": 301.1,
+   "text": "Second."
+  },
+  {
+   "s": 301.1,
+   "e": 307.92,
+   "text": "Second."
+  },
+  {
+   "s": 307.92,
+   "e": 315.42,
+   "text": "Oh, for the deck."
+  },
+  {
+   "s": 315.42,
+   "e": 316.42,
+   "text": "Back and left."
+  },
+  {
+   "s": 316.42,
+   "e": 319.24,
+   "text": "Right there."
+  },
+  {
+   "s": 319.24,
+   "e": 320.24,
+   "text": "Two commands."
+  },
+  {
+   "s": 320.24,
+   "e": 321.24,
+   "text": "Load it down."
+  },
+  {
+   "s": 321.24,
+   "e": 322.24,
+   "text": "Pay out."
+  },
+  {
+   "s": 322.24,
+   "e": 329.07,
+   "text": "Go to the outside cabin door."
+  },
+  {
+   "s": 329.07,
+   "e": 332.22,
+   "text": "We're going to go inside cabin."
+  },
+  {
+   "s": 332.22,
+   "e": 342.82,
+   "text": "Easy back and left."
+  },
+  {
+   "s": 342.82,
+   "e": 343.82,
+   "text": "I don't see that command."
+  },
+  {
+   "s": 343.82,
+   "e": 345.82,
+   "text": "I'll hold it right here."
+  },
+  {
+   "s": 345.82,
+   "e": 352.3,
+   "text": "Just below the aircraft."
+  },
+  {
+   "s": 352.3,
+   "e": 353.3,
+   "text": "Break break."
+  },
+  {
+   "s": 354.3,
+   "e": 355.3,
+   "text": "Break break."
+  },
+  {
+   "s": 355.3,
+   "e": 356.3,
+   "text": "6'5\", 6'0\", easy to do."
+  },
+  {
+   "s": 356.3,
+   "e": 358.3,
+   "text": "Speaking of outside cabin door."
+  },
+  {
+   "s": 358.3,
+   "e": 359.3,
+   "text": "He is outside cabin door."
+  },
+  {
+   "s": 359.3,
+   "e": 360.3,
+   "text": "He is inside cabin door."
+  },
+  {
+   "s": 360.3,
+   "e": 369.07,
+   "text": "He is inside the cabin."
+  },
+  {
+   "s": 369.07,
+   "e": 383.07,
+   "text": "And hoisted complete."
+  }
+ ],
+ "scene_cuts": [
+  32.73,
+  32.83,
+  75.11,
+  206.74,
+  229.13,
+  229.23,
+  240.94,
+  313.15,
+  331.93,
+  340.21,
+  363.96
+ ],
+ "drama_score": 56,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   6.8,
+   22.9,
+   31.4,
+   66.7,
+   78.0,
+   82.0,
+   86.6,
+   94.7,
+   103.6,
+   117.0,
+   118.0,
+   119.5,
+   207.3,
+   208.8,
+   244.3,
+   247.6,
+   250.0,
+   251.3,
+   253.5,
+   259.3,
+   269.2,
+   273.2,
+   275.0,
+   291.8,
+   293.7,
+   301.7,
+   305.7,
+   307.9,
+   322.6,
+   335.2,
+   352.8,
+   362.0,
+   363.3,
+   368.4
   ],
-  "scene_cuts": [
-    32.73,
-    32.83,
-    75.11,
-    206.74,
-    229.13,
-    229.23,
-    240.94,
-    313.15,
-    331.93,
-    340.21,
-    363.96
-  ],
-  "drama_score": 56,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      6.8,
-      22.9,
-      31.4,
-      66.7,
-      78.0,
-      82.0,
-      86.6,
-      94.7,
-      103.6,
-      117.0,
-      118.0,
-      119.5,
-      207.3,
-      208.8,
-      244.3,
-      247.6,
-      250.0,
-      251.3,
-      253.5,
-      259.3,
-      269.2,
-      273.2,
-      275.0,
-      291.8,
-      293.7,
-      301.7,
-      305.7,
-      307.9,
-      322.6,
-      335.2,
-      352.8,
-      362.0,
-      363.3,
-      368.4
-    ],
-    "silence_ends": [
-      2.7,
-      7.5,
-      24.7,
-      32.8,
-      75.2,
-      79.8,
-      83.2,
-      88.3,
-      102.1,
-      105.8,
-      117.7,
-      118.9,
-      206.8,
-      207.9,
-      210.2,
-      246.9,
-      248.3,
-      250.7,
-      252.6,
-      256.4,
-      260.0,
-      269.9,
-      274.1,
-      276.7,
-      293.3,
-      294.6,
-      303.4,
-      306.3,
-      312.6,
-      327.8,
-      340.3,
-      353.6,
-      363.1,
-      366.8,
-      369.1
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-626782.jpg",
-  "sheet_times": [
-    11.56,
-    34.69,
-    57.82,
-    80.95,
-    104.07,
-    127.2,
-    150.33,
-    173.46,
-    196.58,
-    219.71,
-    242.84,
-    265.97,
-    289.09,
-    312.22,
-    335.35,
-    358.48
+  "silence_ends": [
+   2.7,
+   7.5,
+   24.7,
+   32.8,
+   75.2,
+   79.8,
+   83.2,
+   88.3,
+   102.1,
+   105.8,
+   117.7,
+   118.9,
+   206.8,
+   207.9,
+   210.2,
+   246.9,
+   248.3,
+   250.7,
+   252.6,
+   256.4,
+   260.0,
+   269.9,
+   274.1,
+   276.7,
+   293.3,
+   294.6,
+   303.4,
+   306.3,
+   312.6,
+   327.8,
+   340.3,
+   353.6,
+   363.1,
+   366.8,
+   369.1
   ]
+ },
+ "sheet": "data/candidates/dvids-video-626782.jpg",
+ "sheet_times": [
+  11.56,
+  34.69,
+  57.82,
+  80.95,
+  104.07,
+  127.2,
+  150.33,
+  173.46,
+  196.58,
+  219.71,
+  242.84,
+  265.97,
+  289.09,
+  312.22,
+  335.35,
+  358.48
+ ],
+ "pass_reason": "murky fisheye door-cam in Florence, mostly cabin interior"
 }
