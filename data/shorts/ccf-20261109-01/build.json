@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261109-01",
-  "revision": 2,
+  "revision": 3,
   "status": "ok",
-  "built_at": "2026-11-09T08:21:31Z",
+  "built_at": "2026-11-09T08:30:03Z",
   "duration": 17.77,
   "source_resolution": "1920x1080",
   "timeline": [
     {
       "text": "She drifted out on a paddle board. Two men swam after her.",
       "start": 0.05,
-      "end": 3.73,
+      "end": 3.81,
       "words": [
         {
           "w": "She",
@@ -53,168 +53,168 @@
         },
         {
           "w": "men",
-          "s": 2.53,
-          "e": 2.77
+          "s": 2.61,
+          "e": 2.85
         },
         {
           "w": "swam",
-          "s": 2.85,
-          "e": 3.09
+          "s": 2.93,
+          "e": 3.17
         },
         {
           "w": "after",
-          "s": 3.17,
-          "e": 3.41
+          "s": 3.25,
+          "e": 3.49
         },
         {
           "w": "her.",
-          "s": 3.49,
-          "e": 3.73
+          "s": 3.57,
+          "e": 3.81
         }
       ]
     },
     {
       "text": "Then they needed saving too.",
-      "start": 4.69,
-      "end": 6.77,
+      "start": 4.85,
+      "end": 6.69,
       "words": [
         {
           "w": "Then",
-          "s": 4.69,
-          "e": 4.93
+          "s": 4.85,
+          "e": 5.09
         },
         {
           "w": "they",
-          "s": 5.01,
-          "e": 5.17
+          "s": 5.33,
+          "e": 5.41
         },
         {
           "w": "needed",
-          "s": 5.25,
-          "e": 5.49
+          "s": 5.49,
+          "e": 5.73
         },
         {
           "w": "saving",
-          "s": 5.57,
-          "e": 5.89
+          "s": 5.81,
+          "e": 6.13
         },
         {
           "w": "too.",
-          "s": 5.97,
-          "e": 6.77
+          "s": 6.29,
+          "e": 6.69
         }
       ]
     },
     {
       "text": "Air Station Houston sent a helicopter.",
-      "start": 6.85,
-      "end": 9.17,
+      "start": 6.93,
+      "end": 9.09,
       "words": [
         {
           "w": "Air",
-          "s": 6.85,
-          "e": 6.93
+          "s": 6.93,
+          "e": 7.09
         },
         {
           "w": "Station",
-          "s": 7.01,
-          "e": 7.33
+          "s": 7.17,
+          "e": 7.57
         },
         {
           "w": "Houston",
-          "s": 7.49,
-          "e": 7.89
+          "s": 7.65,
+          "e": 8.05
         },
         {
           "w": "sent",
-          "s": 7.97,
-          "e": 8.13
+          "s": 8.13,
+          "e": 8.29
         },
         {
           "w": "a",
-          "s": 8.17,
-          "e": 8.25
+          "s": 8.33,
+          "e": 8.41
         },
         {
           "w": "helicopter.",
-          "s": 8.29,
-          "e": 9.17
+          "s": 8.45,
+          "e": 9.09
         }
       ]
     },
     {
       "text": "A rescue basket means a tired swimmer only has to climb in and sit.",
-      "start": 9.49,
+      "start": 9.65,
       "end": 14.05,
       "words": [
         {
           "w": "A",
-          "s": 9.49,
-          "e": 9.57
+          "s": 9.65,
+          "e": 9.73
         },
         {
           "w": "rescue",
-          "s": 9.65,
-          "e": 9.97
+          "s": 9.81,
+          "e": 10.13
         },
         {
           "w": "basket",
-          "s": 10.05,
-          "e": 10.45
-        },
-        {
-          "w": "means",
-          "s": 10.57,
+          "s": 10.21,
           "e": 10.69
         },
         {
+          "w": "means",
+          "s": 10.77,
+          "e": 10.85
+        },
+        {
           "w": "a",
-          "s": 10.73,
-          "e": 10.81
+          "s": 10.93,
+          "e": 11.01
         },
         {
           "w": "tired",
-          "s": 10.85,
-          "e": 11.17
+          "s": 11.05,
+          "e": 11.41
         },
         {
           "w": "swimmer",
-          "s": 11.25,
-          "e": 11.65
+          "s": 11.49,
+          "e": 11.89
         },
         {
           "w": "only",
-          "s": 11.81,
-          "e": 12.05
-        },
-        {
-          "w": "has",
-          "s": 12.13,
+          "s": 11.97,
           "e": 12.21
         },
         {
-          "w": "to",
+          "w": "has",
           "s": 12.29,
           "e": 12.37
         },
         {
-          "w": "climb",
+          "w": "to",
           "s": 12.45,
-          "e": 12.69
+          "e": 12.53
+        },
+        {
+          "w": "climb",
+          "s": 12.61,
+          "e": 12.85
         },
         {
           "w": "in",
-          "s": 12.77,
-          "e": 12.93
+          "s": 12.93,
+          "e": 13.01
         },
         {
           "w": "and",
-          "s": 13.01,
+          "s": 13.09,
           "e": 13.17
         },
         {
           "w": "sit.",
-          "s": 13.25,
+          "s": 13.33,
           "e": 14.05
         }
       ]
@@ -299,15 +299,15 @@
     },
     "duration": {
       "ok": true,
-      "value": 17.77
+      "value": 17.8
     },
     "av_sync": {
       "ok": true,
-      "value": -0.003
+      "value": 0.03
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.2
+      "value": 0.23
     },
     "loudness": {
       "ok": true,
@@ -315,7 +315,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -2.8
+      "value": -2.6
     },
     "dead_air": {
       "ok": true,
@@ -337,6 +337,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261109-01/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261109-01-r2.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261109-01-r3.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261109-01/ccf-20261109-01.mp4"
 }
