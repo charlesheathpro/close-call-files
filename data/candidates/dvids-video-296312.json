@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:296312",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured logger west of Portland, Ore.",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew medevacs an injured logger in a remote area approximately 35 miles west of Portland, Ore., July 15, 2013.\r\n\r\nThe crew then transported the logger, along with a paramedic, to Oregon Health and Science University Hospital in Portland.\r\n\r\nU.S. Coast Guard video by Sector Columbia River, Ore.",
+  "keywords": "Jayhawk, Pacific Northwest, Sector Columbia River, injured logger, inland SAR, D13",
+  "date": "2013-07-15T00:00:00-04:00",
+  "date_published": "2013-07-15T16:15:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "130715-G-LS819-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/296312/coast-guard-medevacs-injured-logger-west-portland-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-296312",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:50:59Z",
+  "duration": 139.44,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100860227/DOD_100860227.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9126,
+    "size": 159165892
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.74,
+    121.99
+  ],
+  "drama_score": 83,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      138.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-296312.jpg",
+  "sheet_times": [
+    4.34,
+    13.03,
+    21.71,
+    30.39,
+    39.08,
+    47.76,
+    56.44,
+    65.13,
+    73.81,
+    82.5,
+    91.18,
+    99.86,
+    108.55,
+    117.23,
+    125.91,
+    134.6
+  ]
+}

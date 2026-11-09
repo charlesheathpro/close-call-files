@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:682047",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Ship Captain in San Francisco Bay",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew medevacs a 54-year-old man from the 738-foot container ship Vittoria in San Francisco Bay, May 20, 2019. The man, the ship's captain, collapsed as the ship was making its way to its anchorage south of Yerba Buena Island. (U.S. Coast Guard video)",
+  "keywords": "Coast Guard, medevac, rescue",
+  "date": "2019-05-20T00:00:00-04:00",
+  "date_published": "2019-05-21T09:00:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "190520-G-MR731-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/682047/coast-guard-medevacs-ship-captain-san-francisco-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-682047",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:50:05Z",
+  "duration": 59.71,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106779810/DOD_106779810.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9728,
+    "size": 72667030
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-682047.jpg",
+  "sheet_times": [
+    1.85,
+    5.55,
+    9.25,
+    12.95,
+    16.65,
+    20.35,
+    24.05,
+    27.76,
+    31.46,
+    35.16,
+    38.86,
+    42.56,
+    46.26,
+    49.96,
+    53.66,
+    57.36
+  ]
+}

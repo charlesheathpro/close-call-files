@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:368759",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Aircrew Medevacs Possible Heart Attack Victim",
+  "description": "A Coast Guard Sector San Diego aircrew medically evacuated a man experiencing symptoms of a possible heart attack more than 170 miles south of Point Loma, Oct. 23, 2014. The master of the San Diego-based 103-foot sport fishing vessel Royal Polaris contacted the Coast Guard around 1:30 a.m., requesting a medevac for the 63-year-old man. U.S. Coast Guard video.",
+  "keywords": "aircrew, MH-60, Jayhawk, heart attack, helicopter, Coast Guard, medevac, rescue, San Diego",
+  "date": "2014-10-23T00:00:00-04:00",
+  "date_published": "2014-10-23T12:56:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "141023-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/368759/coast-guard-aircrew-medevacs-possible-heart-attack-victim",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-368759",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:49:22Z",
+  "duration": 75.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1410/DOD_102047873/DOD_102047873.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8202,
+    "size": 77367784
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    25.23,
+    72.57
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      75.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-368759.jpg",
+  "sheet_times": [
+    6.24,
+    10.67,
+    15.09,
+    19.52,
+    23.95,
+    28.38,
+    32.81,
+    37.23,
+    41.66,
+    46.09,
+    50.52,
+    54.94,
+    59.37,
+    63.8,
+    68.23,
+    72.66
+  ]
+}

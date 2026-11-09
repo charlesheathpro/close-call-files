@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:295583",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Man From Fishing Vessel",
+  "description": "An aircrew from U.S. Coast Guard Sector San Diego medically evacuate an injured man from a sport fishing vessel 95 miles south of San Diego, July 2, 2013. \r\nThe man was hoisted into the helicopter and transported to Sector San Diego, where he was transferred to emergency medical personnel for further care. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "Jayhawk, Fishing Boat, medevac, San Diego",
+  "date": "2013-07-02T00:00:00-04:00",
+  "date_published": "2013-07-03T14:51:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": "130702-G-JY570-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/295583/coast-guard-medevacs-injured-man-fishing-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-295583",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:49:58Z",
+  "duration": 101.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1307/DOD_100852889/DOD_100852889.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8601,
+    "size": 108782136
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    51.25,
+    96.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      101.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-295583.jpg",
+  "sheet_times": [
+    3.15,
+    9.44,
+    15.73,
+    22.02,
+    28.31,
+    34.6,
+    40.89,
+    47.18,
+    53.47,
+    59.76,
+    66.05,
+    72.34,
+    78.63,
+    84.92,
+    91.21,
+    97.5
+  ]
+}

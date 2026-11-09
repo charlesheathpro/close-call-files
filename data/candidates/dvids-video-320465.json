@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:320465",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "U.S. Coast Guard medevacs ailing cruise ship crewman",
+  "description": "SAN DIEGO – A San Diego-based Coast Guard helicopter crew medically evacuated an ailing 46-year-old crewman from a cruise ship nearly 60 miles southwest of San Diego, Jan. 28, 2014. The cruise ship Carnival Inspiration contacted the Coast Guard just after noon requesting assistance for the crewman experiencing chest pain. U.S. Coast Guard video. No audio.",
+  "keywords": "medical evacuation, Jayhawk, crewman, carnival, chest pain, helicopter, Coast Guard, medevac, rescue, San Diego, Cruise Ship",
+  "date": "2014-01-28T00:00:00-05:00",
+  "date_published": "2014-01-28T21:20:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140128-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/320465/us-coast-guard-medevacs-ailing-cruise-ship-crewman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-320465",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:49:30Z",
+  "duration": 156.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101098393/DOD_101098393.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8920,
+    "size": 174096217
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    66.5,
+    126.76,
+    151.89
+  ],
+  "drama_score": 65,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      156.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-320465.jpg",
+  "sheet_times": [
+    4.86,
+    14.59,
+    24.31,
+    34.03,
+    43.76,
+    53.48,
+    63.2,
+    72.93,
+    82.65,
+    92.37,
+    102.1,
+    111.82,
+    121.54,
+    131.27,
+    140.99,
+    150.71
+  ]
+}

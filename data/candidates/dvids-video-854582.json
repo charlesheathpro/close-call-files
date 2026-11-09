@@ -1,0 +1,107 @@
+{
+  "asset_id": "video:854582",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs jet skier near Matagorda, Texas",
+  "description": "A Coast Guard Air Station Corpus Christi MH-65 Dolphin helicopter crew medevacs a 45-year-old man who fell off his jet ski near Matagorda, Texas, Aug. 17, 2022. The man, who was reportedly experiencing symptoms of a stroke, was transported to Memorial Hermann Health System in Houston. (U.S. Coast Guard video, courtesy Air Station Corpus Christi)",
+  "keywords": "hoist, helicopter, Coast Guard, medevac",
+  "date": "2022-08-17T00:00:00-04:00",
+  "date_published": "2022-08-17T21:33:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220817-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/854582/coast-guard-medevacs-jet-skier-near-matagorda-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-854582",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:49:06Z",
+  "duration": 34.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2208/DOD_109171715/DOD_109171715-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 37057526
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.28,
+      "e": 4.28,
+      "text": "Sorry, it's ready."
+    },
+    {
+      "s": 4.28,
+      "e": 5.28,
+      "text": "That was right."
+    },
+    {
+      "s": 5.28,
+      "e": 6.28,
+      "text": "Right, far right now."
+    },
+    {
+      "s": 6.28,
+      "e": 7.28,
+      "text": "40, 40."
+    },
+    {
+      "s": 7.28,
+      "e": 9.28,
+      "text": "So, you're ready to start down."
+    },
+    {
+      "s": 9.28,
+      "e": 10.28,
+      "text": "That was..."
+    },
+    {
+      "s": 10.28,
+      "e": 11.28,
+      "text": "Tomorrow, right?"
+    },
+    {
+      "s": 11.28,
+      "e": 12.28,
+      "text": "You look right there, boy."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-854582.jpg",
+  "sheet_times": [
+    1.07,
+    3.21,
+    5.35,
+    7.49,
+    9.63,
+    11.77,
+    13.91,
+    16.05,
+    18.19,
+    20.33,
+    22.47,
+    24.61,
+    26.75,
+    28.89,
+    31.03,
+    33.16
+  ]
+}

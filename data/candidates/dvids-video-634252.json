@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:634252",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Sector San Diego aircrew medevacs 2",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew transfers two patients to emergency medical services personnel at Coast Guard Sector San Diego Oct. 20, 2018. The patients were injured when the boat they were aboard caught fire 28 miles south of Point Loma. (U.S. Coast Guard video by Petty Officer 1st Class Patrick Kelley/released)",
+  "keywords": "Coast Guard, rescue, San Diego",
+  "date": "2018-10-20T00:00:00-04:00",
+  "date_published": "2018-10-21T07:29:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Patrick Kelley",
+  "category": "B-Roll",
+  "virin": "181020-G-ZX620-849",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/634252/coast-guard-sector-san-diego-aircrew-medevacs-2",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-634252",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:49:18Z",
+  "duration": 136.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106138126/DOD_106138126.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9959,
+    "size": 169733122
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    34.2,
+    106.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      34.3
+    ],
+    "silence_ends": [
+      136.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-634252.jpg",
+  "sheet_times": [
+    4.24,
+    12.71,
+    21.18,
+    29.65,
+    38.12,
+    46.59,
+    55.06,
+    63.53,
+    72.0,
+    80.47,
+    88.94,
+    97.41,
+    105.88,
+    114.35,
+    122.82,
+    131.29
+  ]
+}
