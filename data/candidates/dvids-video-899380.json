@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:899380",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Air Station San Francisco rescues 2 from disabled near Big Sur",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter aircrew perform hoisting evolutions with a disabled boat offshore of Big Sur, California, August 27 2023. The aircrew hoisted two individuals from their disabled boat and transferred them to emergency medical services personnel. (U.S. Coast Guard courtesy video)",
+  "keywords": "CoastGuardNewsWire, Coast Guard, search and rescue, California, USCG",
+  "date": "2023-08-27T00:00:00-04:00",
+  "date_published": "2023-10-03T14:50:49-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230827-G-G2014-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/899380/coast-guard-air-station-san-francisco-rescues-2-disabled-near-big-sur",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-899380",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:46:18Z",
+  "duration": 102.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2310/DOD_109921031/DOD_109921031.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 128757359
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    14.35,
+    24.36,
+    34.4,
+    39.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      102.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-899380.jpg",
+  "sheet_times": [
+    3.2,
+    9.61,
+    16.01,
+    22.42,
+    28.82,
+    35.22,
+    41.63,
+    48.03,
+    54.44,
+    60.84,
+    67.25,
+    73.65,
+    80.05,
+    86.46,
+    92.86,
+    99.27
+  ]
+}

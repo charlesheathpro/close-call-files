@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:544370",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Woman missing 5 days found safe, hoisted by Coast Guard helo near Florence, Oregon",
+  "description": "An aircrew aboard an MH-65 Dolphin helicopter from Sector North Bend transports a woman safely to an emergency medical service crew waiting on Highway 101 near Sea Lion Caves in Florence, Oregon, Aug. 16, 2017. \r\n\r\nThe woman was reported missing for 5 days before her husband found her and reported her location to local emergency responders.\r\n\r\nCoast Guard video courtesy of Sector North Bend.",
+  "keywords": "florence, dolphin helicopter, Sector North Bend, Sea Lion Caves, Highway 101, Coast Guard, Oregon",
+  "date": "2017-08-16T00:00:00-04:00",
+  "date_published": "2017-08-17T01:18:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Ali Blackburn",
+  "category": "B-Roll",
+  "virin": "170816-G-ZZ999-000",
+  "location": {
+    "city": "Florence",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/544370/woman-missing-5-days-found-safe-hoisted-coast-guard-helo-near-florence-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-544370",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:43:57Z",
+  "duration": 72.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104733269/DOD_104733269.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4310,
+    "size": 38880221
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.21,
+    9.51,
+    37.91,
+    49.26,
+    65.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      72.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-544370.jpg",
+  "sheet_times": [
+    2.24,
+    6.71,
+    11.18,
+    15.65,
+    20.12,
+    24.59,
+    29.06,
+    33.54,
+    38.01,
+    42.48,
+    46.95,
+    51.42,
+    55.89,
+    60.36,
+    64.84,
+    69.31
+  ]
+}

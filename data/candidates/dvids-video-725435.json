@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:725435",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists man from disabled vessel 170 miles off Pamlico Sound, North Carolina",
+  "description": "The Coast Guard Hoists a man from his disabled sailing vessel 170 miles east of Pamlico Sound, North Carolina, Nov. 28, 2019. The man activated a personal locator beacon after his sailing vessel became disabled when the main mast broke. U.S. Coast Guard video",
+  "keywords": "hoist, sailing vessel",
+  "date": "2019-11-28T00:00:00-05:00",
+  "date_published": "2019-11-28T21:20:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191128-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/725435/coast-guard-hoists-man-disabled-vessel-170-miles-off-pamlico-sound-north-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-725435",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:45:11Z",
+  "duration": 90.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1911/DOD_107482994/DOD_107482994.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5194,
+    "size": 58720688
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    42.78,
+    47.35
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      90.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-725435.jpg",
+  "sheet_times": [
+    2.81,
+    8.42,
+    14.03,
+    19.64,
+    25.26,
+    30.87,
+    36.48,
+    42.1,
+    47.71,
+    53.32,
+    58.93,
+    64.55,
+    70.16,
+    75.77,
+    81.38,
+    87.0
+  ]
+}

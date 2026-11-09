@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:415923",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Hoists 3 Canadians from Drifting Life Raft After Boat Sinks 150 Miles Off Shore",
+  "description": "A Coast Guard helicopter rescue crew from Cape Cod, Massachusetts, pulled three people from the water more than 150 miles off the coast after their vessel sank Monday, July 20, 2015. An emergency position indicating radio beacon (EPIRB) alert from the vessel Scotia Provider alerted Coast Guard watch standers of the distress and the three men were safely hoisted and flown to shore. U.S. Coast Guard Video.",
+  "keywords": "Coast Guard Air Station Cape Cod, 1st Coast Guard District, SAR",
+  "date": "2015-07-20T00:00:00-04:00",
+  "date_published": "2015-07-21T11:39:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150720-G-ZZ999-001",
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/415923/coast-guard-hoists-3-canadians-drifting-life-raft-after-boat-sinks-150-miles-off-shore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-415923",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:45:45Z",
+  "duration": 28.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102609930/DOD_102609930.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8502,
+    "size": 29832185
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.24,
+    22.02
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-415923.jpg",
+  "sheet_times": [
+    0.86,
+    2.58,
+    4.31,
+    6.03,
+    7.75,
+    9.47,
+    11.19,
+    12.92,
+    14.64,
+    16.36,
+    18.08,
+    19.8,
+    21.53,
+    23.25,
+    24.97,
+    26.69
+  ]
+}
