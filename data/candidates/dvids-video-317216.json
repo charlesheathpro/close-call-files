@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317216",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Medevac from Carnival Miracle",
+  "description": "ATLANTIC OCEAN - Shown is b-roll from two camera angles aboard an MH-60 Jayhawk helicopter Sept. 12, 2011 showing a rescue swimmer being lowered to the cruise ship Carnival Miracle; the hoist of the ship's physician; the passenger that needed to be medevaced; and the rescue swimmer being hoisted. A crewmember aboard the Miracle contacted Coast Guard watchstanders at approximately 6 a.m. and stated there was a 74-year-old male aboard experiencing breathing problems in need of a medevac. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-09-12T00:00:00-04:00",
+  "date_published": "2013-12-21T15:15:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110912-G-NO411-001",
+  "location": {
+    "city": "Atlantic Ocean",
+    "state": "USNORTHCOM",
+    "country": "At Sea",
+    "state_abbreviation": "USNORTHCOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/317216/medevac-carnival-miracle",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317216",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:50:17Z",
+  "duration": 183.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062125/DOD_101062125.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 4355,
+    "size": 98298117
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    10.01
+  ],
+  "drama_score": 44,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      183.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317216.jpg",
+  "sheet_times": [
+    5.71,
+    17.12,
+    28.53,
+    39.94,
+    51.35,
+    62.76,
+    74.17,
+    85.58,
+    96.99,
+    108.4,
+    119.81,
+    131.22,
+    142.63,
+    154.04,
+    165.45,
+    176.86
+  ]
+}

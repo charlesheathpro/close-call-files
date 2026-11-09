@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:353934",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man 73 Miles Off Atlantic City",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Atlantic City hoists a man from a fishing vessel approximately 73 miles southeast of Atlantic City, New Jersey, Wednesday, Aug. 6, 2014.",
+  "keywords": "MH-65 Dolphin, hoist, Air Station Atlantic City, Mid-Atlantic, d5, medevac",
+  "date": "2014-08-06T00:00:00-04:00",
+  "date_published": "2014-08-06T16:53:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "140806-G-LS819-001",
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/353934/coast-guard-medevacs-man-73-miles-off-atlantic-city",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-353934",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:54:12Z",
+  "duration": 71.49,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101862306/DOD_101862306.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8742,
+    "size": 80116885
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    10.61,
+    26.99,
+    34.1,
+    47.38,
+    52.39,
+    62.0,
+    69.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      71.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-353934.jpg",
+  "sheet_times": [
+    6.1,
+    10.28,
+    14.47,
+    18.66,
+    22.84,
+    27.03,
+    31.22,
+    35.4,
+    39.59,
+    43.78,
+    47.96,
+    52.15,
+    56.34,
+    60.52,
+    64.71,
+    68.89
+  ]
+}

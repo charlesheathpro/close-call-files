@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:391848",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs Tanker Crewmember Off Galveston Coast",
+  "description": "A Coast Guard MH-65 helicopter crew hoists and transfers a crewmember having heart attack symptoms from the Zambezi Star in the Galveston Fairway Anchorage February 19, 2015.",
+  "keywords": "Galveston, Coast Guard rescue, Sector Houston-Galveston, MH-65, CGC manowar, medevac, rescue, USCG, Air Station Houston",
+  "date": "2015-02-19T00:00:00-05:00",
+  "date_published": "2015-02-20T13:16:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150219-G-xx999-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/391848/coast-guard-medevacs-tanker-crewmember-off-galveston-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-391848",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:50:54Z",
+  "duration": 104.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1502/DOD_102248796/DOD_102248796.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8582,
+    "size": 113966066
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    11.04,
+    18.79,
+    27.46,
+    34.63,
+    39.61,
+    61.69,
+    100.97
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      104.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-391848.jpg",
+  "sheet_times": [
+    7.15,
+    13.41,
+    19.66,
+    25.92,
+    32.18,
+    38.43,
+    44.69,
+    50.94,
+    57.2,
+    63.46,
+    69.71,
+    75.97,
+    82.22,
+    88.48,
+    94.73,
+    100.99
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:400696",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man From Fishing Boat Off Port Arnasas",
+  "description": "An aircrew aboard an Air Station Corpus Christi MH-65 helicopter hoist the patient from the charter boat Dolphin Express approximately 27 miles off Port Aransas, Texas April 25, 2015.",
+  "keywords": "PADET Houston, Air Station Corpus CHristi, Station Port Aransas, Coast Guard, medevac, rescue, Corpus Christi, CG",
+  "date": "2015-04-25T00:00:00-04:00",
+  "date_published": "2015-04-26T16:02:27-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "152504-G-XX999-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/400696/coast-guard-medevacs-man-fishing-boat-off-port-arnasas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-400696",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:51:25Z",
+  "duration": 63.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102394366/DOD_102394366.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8702,
+    "size": 70561627
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.07,
+    18.28,
+    24.99,
+    49.95
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      63.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-400696.jpg",
+  "sheet_times": [
+    5.91,
+    9.62,
+    13.33,
+    17.04,
+    20.75,
+    24.46,
+    28.17,
+    31.88,
+    35.58,
+    39.29,
+    43.0,
+    46.71,
+    50.42,
+    54.13,
+    57.84,
+    61.55
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:424516",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Crewman From Ship Offshore of Freeport, Texas",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew hoists a crewmember in distress from a cargo ship in open waters off Freeport, Texas September 18, 2015. (U.S. Coast Guard video.)",
+  "keywords": "hoist, medevac, Texas, rescue, Air Station Houston, Freeport",
+  "date": "2015-09-18T00:00:00-04:00",
+  "date_published": "2015-09-19T13:20:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150919-G-XX999-001",
+  "location": {
+    "city": "Freeport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/424516/coast-guard-medevacs-crewman-ship-offshore-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-424516",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:51:22Z",
+  "duration": 82.85,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1509/DOD_102742729/DOD_102742729.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8818,
+    "size": 92705163
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      82.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-424516.jpg",
+  "sheet_times": [
+    6.47,
+    11.37,
+    16.26,
+    21.16,
+    26.05,
+    30.95,
+    35.84,
+    40.74,
+    45.63,
+    50.53,
+    55.43,
+    60.32,
+    65.22,
+    70.11,
+    75.01,
+    79.9
+  ]
+}

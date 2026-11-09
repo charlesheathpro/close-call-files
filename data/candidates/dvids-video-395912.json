@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:395912",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Air Station Houston Rescues 4 from Disabled Boat 65 Miles Off Freeport, Texas",
+  "description": "An aircrew aboard an MH-65 rescue helicopter hoists 4 people from their boat that became disabled after taking on water off Freeport, Texas, March 24, 2015. Coast Guard Video by Air Station Houston",
+  "keywords": "hoist, Coast Guard rescue, MH-65, disabled boat, Coast Guard, rescue, USCG, Air Station Houston, Freeport",
+  "date": "2015-03-24T00:00:00-04:00",
+  "date_published": "2015-03-24T18:45:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150324-G-xx999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/395912/air-station-houston-rescues-4-disabled-boat-65-miles-off-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-395912",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:51:35Z",
+  "duration": 101.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102321506/DOD_102321506.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8835,
+    "size": 113453659
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    17.18,
+    29.63,
+    47.91,
+    57.22,
+    67.17,
+    75.21,
+    86.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      101.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-395912.jpg",
+  "sheet_times": [
+    7.05,
+    13.09,
+    19.13,
+    25.17,
+    31.22,
+    37.26,
+    43.3,
+    49.34,
+    55.38,
+    61.43,
+    67.47,
+    73.51,
+    79.55,
+    85.6,
+    91.64,
+    97.68
+  ]
+}

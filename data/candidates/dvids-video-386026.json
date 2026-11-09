@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:386026",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard MH-65 Helicopter Aircrew Rescues Three People From Aground Boat in San Antonio Bay, Texas",
+  "description": "A Coast Guard Air Station Corpus Christi aircrew hoists three people to safety in San Antonio Bay, Texas. U.S. Coast Guard video by Air Station Corpus Christi.",
+  "keywords": "hoist, Coast Guard rescue, MH-65D, Corpus-Christi, helicopter, rescue, USCG",
+  "date": "2015-01-08T00:00:00-05:00",
+  "date_published": "2015-01-08T17:22:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150108-G-xx999-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/386026/coast-guard-mh-65-helicopter-aircrew-rescues-three-people-aground-boat-san-antonio-bay-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.4591,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-386026",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:51:09Z",
+  "duration": 134.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102169276/DOD_102169276.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7184,
+    "size": 122343803
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.3,
+    4.47,
+    79.91,
+    114.28
+  ],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      134.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-386026.jpg",
+  "sheet_times": [
+    8.5,
+    16.59,
+    24.68,
+    32.76,
+    40.85,
+    48.94,
+    57.02,
+    65.11,
+    73.2,
+    81.29,
+    89.37,
+    97.46,
+    105.55,
+    113.63,
+    121.72,
+    129.81
+  ]
+}
