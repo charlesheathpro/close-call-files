@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "Coast Guard rescues overdue boater 9 miles southeast of Fort Pierce",
-  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter hoist a rescued boater approximately 9 miles southeast of Fort Pierce, Florida, Jan. 8, 2019. An Air Station Miami MH-65 Dolphin helicopter crew located a 14-foot skiff and hoisted a missing boater, who reportedly ran out of gas, while a Coast Guard Station Fort Pierce 33-foot Special Purpose Craft—Law Enforcement boat crew towed the boat back to the station. (Coast Guard Video)",
+  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter hoist a rescued boater approximately 9 miles southeast of Fort Pierce, Florida, Jan. 8, 2019. An Air Station Miami MH-65 Dolphin helicopter crew located a 14-foot skiff and hoisted a missing boater, who reportedly ran out of gas, while a Coast Guard Station Fort Pierce 33-foot Special Purpose Craft\u2014Law Enforcement boat crew towed the boat back to the station. (Coast Guard Video)",
   "keywords": "hoist, skiff, overdue, Air Station Miami, 7th district, Coast Guard, Florida, rescue, search",
   "date": "2020-01-08T00:00:00-05:00",
   "date_published": "2020-01-08T16:53:05-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-733599",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:50:59Z",
   "duration": 58.93,
   "source_file": {
@@ -68,5 +68,6 @@
     49.3,
     52.95,
     56.61
-  ]
+  ],
+  "pass_reason": "calm skiff hoist, no danger"
 }

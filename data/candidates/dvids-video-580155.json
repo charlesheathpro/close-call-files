@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-580155",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:53:40Z",
   "duration": 100.2,
   "source_file": {
@@ -225,5 +225,6 @@
     84.12,
     90.36,
     96.59
-  ]
+  ],
+  "pass_reason": "interview and laptop screens"
 }

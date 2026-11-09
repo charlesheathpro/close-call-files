@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317413",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:56:04Z",
   "duration": 533.27,
   "source_file": {
@@ -161,5 +161,6 @@
     449.52,
     482.82,
     516.12
-  ]
+  ],
+  "pass_reason": "repeats today's cargo ship in heavy swells (ccf-20261109-11)"
 }

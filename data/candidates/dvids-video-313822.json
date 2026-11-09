@@ -26,7 +26,7 @@
   "time_start": 13.9583,
   "aspect_ratio": "16:9",
   "id": "dvids-video-313822",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:12:01Z",
   "duration": 370.31,
   "source_file": {
@@ -436,5 +436,6 @@
     314.21,
     336.45,
     358.69
-  ]
+  ],
+  "pass_reason": "low-contrast grainy hoist-cam"
 }
