@@ -1,0 +1,139 @@
+{
+  "asset_id": "video:64446",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac Vessel Horizon Anchorage",
+  "description": "B-roll of the Coast Guard performing a medical evacuation from a ship",
+  "keywords": null,
+  "date": "2009-07-20T00:00:00-04:00",
+  "date_published": "2009-07-20T01:26:53-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/64446/medevac-vessel-horizon-anchorage",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-64446",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:47:41Z",
+  "duration": 60.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0907/DOD_100048290/DOD_100048290.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.21,
+      "e": 4.85,
+      "text": "Alright, this is my hoisting altitude. The target's at 2 o'clock. You can't forget the oyster."
+    },
+    {
+      "s": 4.85,
+      "e": 6.71,
+      "text": "Roger, I'm sorry, I'm going on the cabin."
+    },
+    {
+      "s": 6.71,
+      "e": 9.87,
+      "text": "That's the side of the cabin, the best is going down."
+    },
+    {
+      "s": 9.87,
+      "e": 12.09,
+      "text": "The drink patients in the basket."
+    },
+    {
+      "s": 12.09,
+      "e": 13.87,
+      "text": "The face is getting in the basket."
+    },
+    {
+      "s": 13.87,
+      "e": 22.86,
+      "text": "It's coming up."
+    },
+    {
+      "s": 22.86,
+      "e": 33.12,
+      "text": "That's below the cabin."
+    },
+    {
+      "s": 33.12,
+      "e": 40.45,
+      "text": "The best is coming up."
+    },
+    {
+      "s": 40.45,
+      "e": 42.93,
+      "text": "The side of the cabin."
+    },
+    {
+      "s": 42.93,
+      "e": 46.26,
+      "text": "The side of the cabin."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      23.0,
+      25.7,
+      29.5,
+      41.0,
+      44.1,
+      47.2,
+      49.5,
+      51.5,
+      53.0,
+      57.7
+    ],
+    "silence_ends": [
+      23.8,
+      26.5,
+      30.6,
+      41.7,
+      44.7,
+      47.9,
+      50.3,
+      52.7,
+      53.8,
+      58.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-64446.jpg",
+  "sheet_times": [
+    1.88,
+    5.65,
+    9.42,
+    13.19,
+    16.96,
+    20.73,
+    24.49,
+    28.26,
+    32.03,
+    35.8,
+    39.57,
+    43.33,
+    47.1,
+    50.87,
+    54.64,
+    58.41
+  ]
+}

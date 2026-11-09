@@ -1,0 +1,103 @@
+{
+  "asset_id": "video:317528",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "AirSta Houston Medevac-Final",
+  "description": "HOUSTON - The Coast Guard medevaced a man from a tanker ship 12 miles off the coast of Galveston, Apr. 9, 2012.\n\nWatchstanders at Sector Houston-Galveston received a report at 6:20 p.m., that a 43-year old male crewmember aboard the Eagle Sibu, a 799-foot tanker vessel, was suffering from chest pains.\n\nU.S. Coast Guard video by Petty Officer 3rd Class Richard Brahm",
+  "keywords": "CGVI",
+  "date": "2012-04-10T16:01:54-04:00",
+  "date_published": "2013-12-22T13:25:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Richard Brahm",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317528/airsta-houston-medevac-final",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317528",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:49:37Z",
+  "duration": 141.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062481/DOD_101062481.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3973,
+    "size": 74729605
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 78.67,
+      "e": 86.1,
+      "text": "I'm at that point two and that point three but then I'm in a small situation"
+    },
+    {
+      "s": 86.1,
+      "e": 116.68,
+      "text": "you see what a little bit of wind does it do get that point five"
+    },
+    {
+      "s": 116.68,
+      "e": 126.72,
+      "text": "storm is coming inside a cabin close to the drivers inside a cabin here clear"
+    },
+    {
+      "s": 126.72,
+      "e": 130.72,
+      "text": "move I'm doing an ITO I'll be back in a minute"
+    },
+    {
+      "s": 130.72,
+      "e": 134.19,
+      "text": "Raj that"
+    }
+  ],
+  "scene_cuts": [
+    10.01,
+    89.76,
+    120.65,
+    136.6
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      136.7
+    ],
+    "silence_ends": [
+      10.1,
+      141.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317528.jpg",
+  "sheet_times": [
+    4.41,
+    13.24,
+    22.07,
+    30.9,
+    39.72,
+    48.55,
+    57.38,
+    66.2,
+    75.03,
+    83.86,
+    92.69,
+    101.51,
+    110.34,
+    119.17,
+    127.99,
+    136.82
+  ]
+}

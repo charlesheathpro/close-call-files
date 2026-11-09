@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:383316",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Conducts Medevac",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew medevaced Filipino crewman from the 748-foot Marshall Islands-flagged tanker Lorelei 23 miles south of Southwest Pass, Dec. 21, 2014. The Filipino crewman was medevaced for a reportedly broken left leg. U.S. Coast Guard video by Coast Guard Air Station New Orleans.",
+  "keywords": "tanker, Filipino, Coast Guard rescue, Marshall Islands, southwest pass, Lorelei, Coast Guard, medevac, Air Station New Orleans",
+  "date": "2014-12-21T00:00:00-05:00",
+  "date_published": "2014-12-21T19:59:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Jonathan Lally",
+  "category": "B-Roll",
+  "virin": "141221-G-ZZ999-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/383316/coast-guard-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-383316",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:49:29Z",
+  "duration": 59.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1412/DOD_102156420/DOD_102156420.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8795,
+    "size": 66242361
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    18.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-383316.jpg",
+  "sheet_times": [
+    5.77,
+    9.2,
+    12.63,
+    16.06,
+    19.49,
+    22.92,
+    26.35,
+    29.78,
+    33.21,
+    36.64,
+    40.07,
+    43.49,
+    46.92,
+    50.35,
+    53.78,
+    57.21
+  ]
+}

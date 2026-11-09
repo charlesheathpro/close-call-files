@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314267",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MH medevac b-roll",
+  "description": "An MH-65 and crew from Air Station New Orleans medevaced two men from an offshore supply vessel after they suffered burns from an onboard explosion 15 miles south of Atchafalaya Bay, La., Thursday, May 28, 2009.\n\n(U.S. Coast Guard video/Petty Officer Stephen Lehmann)",
+  "keywords": "CGVI",
+  "date": "2009-05-28T00:00:00-04:00",
+  "date_published": "2013-12-17T07:54:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Petty Officer 3rd Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "090528-G-7499L-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/314267/mh-medevac-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314267",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:48:54Z",
+  "duration": 74.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054954/DOD_101054954.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5626,
+    "size": 56328872
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    8.91,
+    62.86,
+    65.17,
+    69.34
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314267.jpg",
+  "sheet_times": [
+    2.32,
+    6.96,
+    11.6,
+    16.24,
+    20.87,
+    25.51,
+    30.15,
+    34.79,
+    39.43,
+    44.07,
+    48.71,
+    53.35,
+    57.99,
+    62.62,
+    67.26,
+    71.9
+  ]
+}

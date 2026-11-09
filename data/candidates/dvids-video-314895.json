@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:314895",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "PSU 307 performs medevac",
+  "description": "PORT-AU-PRINCE, Haiti - Members of Port Security Unit 307 perform medevacs of a 5 year old girl and a 17 year old male from the port to Killick Point, where a medical station has been set up.  Killick Point serves as the primary staging area before patients are transported to USNS Comfort.  U.S. Coast Guard video by Petty Officer 1st Class Adam Eggers.",
+  "keywords": "CGVI",
+  "date": "2010-01-31T00:00:00-05:00",
+  "date_published": "2013-12-17T17:11:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 1st Class Adam Eggers",
+  "category": "B-Roll",
+  "virin": "100131-G-7518E-001",
+  "location": {
+    "city": "Port-Au-Prince",
+    "state": "",
+    "country": "Haiti",
+    "state_abbreviation": null,
+    "country_abbreviation": "HT"
+  },
+  "page_url": "https://www.dvidshub.net/video/314895/psu-307-performs-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314895",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:48:18Z",
+  "duration": 431.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056080/DOD_101056080.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 163925668
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.11,
+    23.42,
+    23.56,
+    32.73,
+    32.87,
+    73.47,
+    73.57,
+    84.85,
+    85.12,
+    101.94,
+    102.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      126.7
+    ],
+    "silence_ends": [
+      10.2,
+      431.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314895.jpg",
+  "sheet_times": [
+    13.46,
+    40.37,
+    67.29,
+    94.2,
+    121.12,
+    148.04,
+    174.95,
+    201.87,
+    228.78,
+    255.7,
+    282.61,
+    309.53,
+    336.44,
+    363.36,
+    390.27,
+    417.19
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:70092",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Diver",
+  "description": "B-roll of coast guard diver being taken off a boat and picked up by medics. Scenes include the ship coming to dock, the diver being taken off the boat by medics and wheeled away on a stretcher. Produced by Petty Officer Henry G. Dunphy.",
+  "keywords": "stretcher",
+  "date": "2009-10-02T00:00:00-04:00",
+  "date_published": "2009-10-03T11:04:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "091002-G-0694D",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/70092/coast-guard-medevacs-diver",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.07073,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-70092",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:49:08Z",
+  "duration": 47.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0910/DOD_100054321/DOD_100054321.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    12.08,
+    16.85,
+    32.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      47.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-70092.jpg",
+  "sheet_times": [
+    5.41,
+    8.09,
+    10.76,
+    13.44,
+    16.12,
+    18.79,
+    21.47,
+    24.15,
+    26.82,
+    29.5,
+    32.18,
+    34.85,
+    37.53,
+    40.21,
+    42.88,
+    45.56
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:317680",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Jet Skier Medevaced",
+  "description": "ATLANTIC CITY, N.J. - A Coast Guard Air Station Atlantic City helicopter crew medevacs a man who ran aground on a jet ski near Atlantic City July 25, 2012. A second jet skier, who was with the man during the incident, was transferred ashore by a Coast Guard Station Atlantic City boatcrew. U.S. Coast Guard video by Petty Officer 2nd Class Jose Gutierrez.",
+  "keywords": "CGVI",
+  "date": "2012-07-25T00:00:00-04:00",
+  "date_published": "2013-12-22T16:30:11-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "120725-G-AB123-001",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317680/jet-skier-medevaced",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317680",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:47:08Z",
+  "duration": 27.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062645/DOD_101062645.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 15541224
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    22.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      22.2
+    ],
+    "silence_ends": [
+      4.7,
+      27.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317680.jpg",
+  "sheet_times": [
+    0.83,
+    2.49,
+    4.15,
+    5.81,
+    7.47,
+    9.13,
+    10.8,
+    12.46,
+    14.12,
+    15.78,
+    17.44,
+    19.1,
+    20.76,
+    22.42,
+    24.08,
+    25.74
+  ]
+}

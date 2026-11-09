@@ -1,0 +1,150 @@
+{
+  "asset_id": "video:317240",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "110926-Long Range Medevac",
+  "description": "San Diego - The U.S. Coast Guard medically evacuated a 30-year-old man 225 miles south of San Diego Sep. 26, 2011. The man severely injured his hand while underway on the commercial fishing boat Intrepid, and was hoisted from the boat to a MH-60T Jayhawk helicopter for further medical assistance. U.S. Coast Guard video by Petty Officer 1st Class Allyson E.T. Conroy.",
+  "keywords": "CGVI",
+  "date": "2011-09-26T16:52:44-04:00",
+  "date_published": "2013-12-21T15:44:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317240/110926-long-range-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317240",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:50:22Z",
+  "duration": 373.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062149/DOD_101062149.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3962,
+    "size": 184606452
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 292.66,
+      "e": 296.66,
+      "text": "My name is Jason Weeks. I'm an aviation maintenance technician second-class."
+    },
+    {
+      "s": 296.66,
+      "e": 299.66,
+      "text": "I'm David Paklin. I'm an aviation sproul technician third."
+    },
+    {
+      "s": 299.66,
+      "e": 309.32,
+      "text": "There was a patient aboard the fishing vessel Intrepid, about 220 miles down in Mexico waters."
+    },
+    {
+      "s": 309.32,
+      "e": 315.32,
+      "text": "We required a medevac from the vessel so we arrived on scene this morning."
+    },
+    {
+      "s": 315.32,
+      "e": 322.32,
+      "text": "We got there at about 730 and we conducted a basket hoist with the trail line to the vessel at about 60 feet."
+    },
+    {
+      "s": 322.32,
+      "e": 326.32,
+      "text": "We were able to medevac him from the vessel."
+    },
+    {
+      "s": 326.32,
+      "e": 333.32,
+      "text": "He was ambulatory so he just got in the basket, came up and in flight monitored him."
+    },
+    {
+      "s": 333.32,
+      "e": 336.32,
+      "text": "Just had him on some oxygen."
+    },
+    {
+      "s": 336.32,
+      "e": 341.32,
+      "text": "On the boat they had a gauze wrap around him already and it was done very well."
+    },
+    {
+      "s": 341.32,
+      "e": 347.32,
+      "text": "When you brought him back to the helicopter you said you brought him into the helicopter and then what happened?"
+    },
+    {
+      "s": 347.32,
+      "e": 354.32,
+      "text": "After you got in the helicopter I got him situated, put him on some oxygen and the whole flight back just monitored him."
+    },
+    {
+      "s": 354.32,
+      "e": 361.32,
+      "text": "We flew from the location of the vessel which was 220 miles down in Mexican waters."
+    },
+    {
+      "s": 361.32,
+      "e": 368.32,
+      "text": "All the way up here to Sector San Diego where he was offloaded from the helicopter and loaded onto San Diego."
+    },
+    {
+      "s": 368.32,
+      "e": 373.32,
+      "text": "Emergency medical services, paramedic ambulance."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    11.14,
+    14.78,
+    125.23,
+    191.49,
+    239.07,
+    266.1,
+    290.62
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317240.jpg",
+  "sheet_times": [
+    11.67,
+    35.01,
+    58.34,
+    81.68,
+    105.02,
+    128.35,
+    151.69,
+    175.03,
+    198.36,
+    221.7,
+    245.04,
+    268.37,
+    291.71,
+    315.05,
+    338.38,
+    361.72
+  ]
+}

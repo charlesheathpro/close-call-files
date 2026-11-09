@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:317085",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevac Operation",
+  "description": "B-roll of the Coast Guard participating in a medevac operation",
+  "keywords": "CGVI",
+  "date": "2011-06-30T00:00:00-04:00",
+  "date_published": "2013-12-21T11:09:36-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Undisclosed Location",
+    "state_abbreviation": null,
+    "country_abbreviation": "UL"
+  },
+  "page_url": "https://www.dvidshub.net/video/317085/coast-guard-medevac-operation",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317085",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:48:09Z",
+  "duration": 85.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061986/DOD_101061986.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 3049,
+    "size": 35607353
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 9.58,
+      "e": 38.47,
+      "text": "Self is at. Clear to the back."
+    },
+    {
+      "s": 38.47,
+      "e": 65.52,
+      "text": "I've worked here, thank you, call for a minute."
+    },
+    {
+      "s": 65.52,
+      "e": 67.52,
+      "text": "I'm not saying, thank you, clear America left."
+    },
+    {
+      "s": 67.52,
+      "e": 68.52,
+      "text": "I'll help you."
+    },
+    {
+      "s": 68.52,
+      "e": 72.44,
+      "text": "I'll let you three o'clock this."
+    },
+    {
+      "s": 72.44,
+      "e": 73.44,
+      "text": "I was three, there's nine."
+    },
+    {
+      "s": 73.44,
+      "e": 74.44,
+      "text": "I'm not in the rear."
+    },
+    {
+      "s": 74.44,
+      "e": 79.0,
+      "text": "This is a little down three, fighting off of on."
+    },
+    {
+      "s": 79.0,
+      "e": 85.85,
+      "text": "No, it is."
+    }
+  ],
+  "scene_cuts": [
+    6.03,
+    62.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317085.jpg",
+  "sheet_times": [
+    2.66,
+    7.97,
+    13.29,
+    18.6,
+    23.92,
+    29.23,
+    34.55,
+    39.86,
+    45.18,
+    50.49,
+    55.81,
+    61.12,
+    66.44,
+    71.75,
+    77.07,
+    82.38
+  ]
+}

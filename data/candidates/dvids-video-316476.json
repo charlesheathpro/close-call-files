@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:316476",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Air Station medevac",
+  "description": "NEW ORLEANS - Coast Guard Air Station New Orleans medevacs 44-year-old man from motor vessel Helen Tanner, Oct. 29, 2010. U.S. Coast Guard video by Lt. James Willingham.",
+  "keywords": "CGVI",
+  "date": "2010-10-29T00:00:00-04:00",
+  "date_published": "2013-12-20T06:44:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101029-G-7898W-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316476/coast-air-station-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316476",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:50:08Z",
+  "duration": 28.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060207/DOD_101060207.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 3596,
+    "size": 18723827
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    24.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316476.jpg",
+  "sheet_times": [
+    0.86,
+    2.59,
+    4.32,
+    6.05,
+    7.78,
+    9.51,
+    11.24,
+    12.97,
+    14.7,
+    16.42,
+    18.15,
+    19.88,
+    21.61,
+    23.34,
+    25.07,
+    26.8
+  ]
+}

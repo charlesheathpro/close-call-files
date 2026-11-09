@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:317826",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fisherman",
+  "description": "Crew members from Coast Guard Air Station Cape Cod, Mass., medically evacuate a fisherman from the fishing vessel Capt. Bligh approximately 60 miles south of Nantucket, Mass., Nov. 26, 2012. U.S. Coast Guard video by Air Station Cape Cod.",
+  "keywords": "CGVI",
+  "date": "2012-11-27T00:00:00-05:00",
+  "date_published": "2013-12-22T19:53:20-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "121127-G-GV559-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317826/coast-guard-medevacs-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317826",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:48:28Z",
+  "duration": 111.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062794/DOD_101062794.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 2077,
+    "size": 28918532
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.01,
+    13.01,
+    23.39,
+    104.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      111.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317826.jpg",
+  "sheet_times": [
+    3.48,
+    10.44,
+    17.39,
+    24.35,
+    31.31,
+    38.27,
+    45.23,
+    52.18,
+    59.14,
+    66.1,
+    73.06,
+    80.02,
+    86.97,
+    93.93,
+    100.89,
+    107.85
+  ]
+}

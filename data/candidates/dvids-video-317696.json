@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:317696",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "120804-G-JY570-medevac",
+  "description": "SAN DIEGO -- An aircrew from U.S. Coast Guard Sector San Diego medically evacuate a burn victim from aboard a container ship 30 miles west of San Diego, Aug. 4, 2012. The MH-60 Jayhawk helicopter crew hoisted the man to the aircraft and transported him to Sector San Diego, where he was turned over to emergency medical personnel for further treatment. U.S. Coast Guard video by Petty Officer 1st Class Henry G. Dunphy.",
+  "keywords": "CGVI",
+  "date": "2012-08-04T23:40:36-04:00",
+  "date_published": "2013-12-22T16:40:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317696/120804-g-jy570-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317696",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:49:16Z",
+  "duration": 172.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062661/DOD_101062661.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8881,
+    "size": 182313066
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    136.24,
+    167.53
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      172.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317696.jpg",
+  "sheet_times": [
+    5.38,
+    16.14,
+    26.9,
+    37.66,
+    48.42,
+    59.18,
+    69.94,
+    80.7,
+    91.46,
+    102.22,
+    112.98,
+    123.74,
+    134.5,
+    145.26,
+    156.02,
+    166.78
+  ]
+}

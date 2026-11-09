@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:316902",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "110423-G-JY570-Medevac",
+  "description": "SAN DIEGO --An MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego rescues a 71-year-old man who was experiencing diabetic seizures aboard a 40-foot sailboat 120 miles south of San Diego, April 23, 2011.\nThe man was transported to San Diego, where he was transferred to emergency medical personnel. U.S. Coast Guard video by Petty Officer 2nd Class Henry G. Dunphy.",
+  "keywords": "CGVI",
+  "date": "2011-04-24T01:00:58-04:00",
+  "date_published": "2013-12-20T21:08:09-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316902/110423-g-jy570-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316902",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:50:45Z",
+  "duration": 144.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061438/DOD_101061438-720x480-1766k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1766,
+    "size": 32568433
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    15.14,
+    73.5,
+    138.85
+  ],
+  "drama_score": 65,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      15.3,
+      22.4,
+      81.6,
+      98.2,
+      110.9
+    ],
+    "silence_ends": [
+      5.1,
+      22.4,
+      24.3,
+      98.2,
+      110.4,
+      144.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316902.jpg",
+  "sheet_times": [
+    4.48,
+    13.45,
+    22.42,
+    31.39,
+    40.36,
+    49.33,
+    58.3,
+    67.27,
+    76.24,
+    85.21,
+    94.18,
+    103.15,
+    112.12,
+    121.09,
+    130.06,
+    139.03
+  ]
+}

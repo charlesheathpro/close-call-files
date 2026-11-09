@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:317708",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Fisherman",
+  "description": "B-roll of the Coast Guard rescuing a fisherman 45 miles off the North Carolina coast.",
+  "keywords": "CGVI, Ashley Nicole Medevac, medevac",
+  "date": "2012-08-13T00:00:00-04:00",
+  "date_published": "2013-12-22T16:49:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/317708/coast-guard-medevacs-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317708",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:48:39Z",
+  "duration": 248.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062673/DOD_101062673.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1890,
+    "size": 56064505
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    40.21,
+    64.43,
+    137.87,
+    199.17,
+    239.44
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-317708.jpg",
+  "sheet_times": [
+    7.77,
+    23.3,
+    38.83,
+    54.36,
+    69.89,
+    85.42,
+    100.95,
+    116.48,
+    132.01,
+    147.54,
+    163.07,
+    178.6,
+    194.13,
+    209.66,
+    225.19,
+    240.72
+  ]
+}

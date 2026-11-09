@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:315039",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard conducts medevac",
+  "description": "LOS ANGELES -- The Coast Guard conducted a medevac, April 1, 2010, of a 44-year-old man who was experiencing strong stomach pains aboard motor vessel Opal about 50 to 70 miles west of Los Angeles.\n\nTwo MH-65 Dolphin helicopter crews from Coast Guard Air Station Los Angeles hoisted the patient from the vessel about 9:30 a.m. and transported him to Torrance Memorial Hospital. U.S. Coast Guard video by Air Station Los Angeles.",
+  "keywords": "CGVI",
+  "date": "2010-04-01T00:00:00-04:00",
+  "date_published": "2013-12-17T19:10:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100401-G-6588B-001",
+  "location": {
+    "city": "Los Angeles",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315039/coast-guard-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315039",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:50:54Z",
+  "duration": 105.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056276/DOD_101056276-640x480-576k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 576,
+    "size": 8238753
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      52.6
+    ],
+    "silence_ends": [
+      5.5,
+      105.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315039.jpg",
+  "sheet_times": [
+    3.27,
+    9.8,
+    16.34,
+    22.87,
+    29.41,
+    35.95,
+    42.48,
+    49.02,
+    55.55,
+    62.09,
+    68.62,
+    75.16,
+    81.69,
+    88.23,
+    94.77,
+    101.3
+  ]
+}
