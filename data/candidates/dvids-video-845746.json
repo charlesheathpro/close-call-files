@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:845746",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man 115 miles off the coast of Jacksonville",
+  "description": "A U.S. Coast Guard Air station Clearwater aircrew hoisted a 59-year-old man off a Carnaval Sunshine cruise ship, Friday, May 27, 2022, off the coast of Jacksonville, Florida. The man was transferred to UF Health TraumaOne Hospital. ( U.S. Coast Guard courtesy video)",
+  "keywords": "AIR STATION CLEARWATER, D7, medevac, USCG",
+  "date": "2022-05-27T00:00:00-04:00",
+  "date_published": "2022-06-01T08:29:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Joe Perez",
+  "category": "B-Roll",
+  "virin": "220528-G-GO107-1415",
+  "location": {
+    "city": "Jacksonville",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/845746/coast-guard-medevacs-man-115-miles-off-coast-jacksonville",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-845746",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:58:12Z",
+  "duration": 25.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2206/DOD_109030343/DOD_109030343-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 25919119
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-845746.jpg",
+  "sheet_times": [
+    0.79,
+    2.38,
+    3.97,
+    5.55,
+    7.14,
+    8.73,
+    10.32,
+    11.9,
+    13.49,
+    15.08,
+    16.66,
+    18.25,
+    19.84,
+    21.42,
+    23.01,
+    24.6
+  ]
+}

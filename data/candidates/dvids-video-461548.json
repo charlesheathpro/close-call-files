@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:461548",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Injured Fisherman 60 Miles Off Atlantic City, NJ",
+  "description": "A Coast Guard helicopter crew hoists a fisherman 60 miles southeast of Atlantic City, N.J., Sunday, May 1, 2016. The helicopter crew medevaced the 63-year-old man after he fell ill aboard the 90-foot fishing vessel Linda. (U.S. Coast Guard video)",
+  "keywords": "hoist, Coast Guard, medevac, SAR, USCG",
+  "date": "2016-05-01T00:00:00-04:00",
+  "date_published": "2016-05-02T10:22:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "160501-G-QD712-016",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/461548/coast-guard-medevacs-injured-fisherman-60-miles-off-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.99197,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-461548",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:59:08Z",
+  "duration": 155.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103262065/DOD_103262065.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9855,
+    "size": 193793191
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.97,
+    34.57,
+    76.11,
+    132.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      155.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-461548.jpg",
+  "sheet_times": [
+    8.7,
+    18.12,
+    27.53,
+    36.95,
+    46.37,
+    55.78,
+    65.2,
+    74.62,
+    84.03,
+    93.45,
+    102.87,
+    112.28,
+    121.7,
+    131.11,
+    140.53,
+    149.95
+  ]
+}

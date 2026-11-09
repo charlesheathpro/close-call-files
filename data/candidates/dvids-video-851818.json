@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:851818",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs crewmember from research vessel near Pensacola, Fla.",
+  "description": "A Coast Guard Aviation Training Center MH-60 Jayhawk aircrew hoists a crewmember near Pensacola, Florida on July 25, 2022. The aircrew transferred the crewmember to Ascension Sacred Heart Hospital Pensacola in stable condition.  (U.S. Coast Guard courtesy video by Aviation Training Center Mobile)",
+  "keywords": "CoastGuardNewsWire",
+  "date": "2022-07-25T00:00:00-04:00",
+  "date_published": "2022-07-27T12:26:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220725-G-G0108-1002",
+  "location": {
+    "city": "Pensacola",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/851818/coast-guard-medevacs-crewmember-research-vessel-near-pensacola-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-851818",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:49Z",
+  "duration": 68.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109131021/DOD_109131021-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 68293819
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    31.03,
+    52.42
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-851818.jpg",
+  "sheet_times": [
+    2.12,
+    6.35,
+    10.58,
+    14.81,
+    19.04,
+    23.27,
+    27.5,
+    31.74,
+    35.97,
+    40.2,
+    44.43,
+    48.66,
+    52.89,
+    57.12,
+    61.35,
+    65.59
+  ]
+}

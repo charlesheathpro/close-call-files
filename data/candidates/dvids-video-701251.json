@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:701251",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man from fishing vessel near Chinook Harbor",
+  "description": "A Coast Guard Air Station Astoria MH-60 Jayhawk helicopter crew hoists an injured boater after the vessel ran aground five miles east of Chinook, Wash., Aug. 5, 2019. The mariner was brought to awaiting EMS at Air Station Astoria. (U.S. Coast Guard video)",
+  "keywords": "Jayhawk, hoist cam, Washigton, helicopter, SAR, Chinook, Oregon, rescue, Astoria, Cape Disappointment, USCG",
+  "date": "2019-08-05T00:00:00-04:00",
+  "date_published": "2019-08-05T21:44:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 2nd Class Steven Strohmaier",
+  "category": "B-Roll",
+  "virin": "190805-G-SG988-0001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/701251/coast-guard-medevacs-man-fishing-vessel-near-chinook-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-701251",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:58:04Z",
+  "duration": 160.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107090518/DOD_107090518.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10047,
+    "size": 202130452
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    19.89
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      160.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-701251.jpg",
+  "sheet_times": [
+    5.01,
+    15.03,
+    25.04,
+    35.06,
+    45.08,
+    55.09,
+    65.11,
+    75.13,
+    85.14,
+    95.16,
+    105.18,
+    115.19,
+    125.21,
+    135.23,
+    145.24,
+    155.26
+  ]
+}

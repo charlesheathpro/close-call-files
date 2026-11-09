@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:924493",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard aircrew locates, rescues 2 from disabled vessel off Samana Cay, Bahamas",
+  "description": "A U.S. Coast Guard Air Station Clearwater MH-60 Jayhawk aircrew hoists a man from a disabled adrift vessel near Samana Cay, Bahamas, May 20, 2024. The individual was promptly given electrolytes and water and reported in good health. (U.S. Coast Guard video by courtesy asset)",
+  "keywords": "SAR OPBAT",
+  "date": "2024-05-20T00:00:00-04:00",
+  "date_published": "2024-05-21T13:02:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240520-G-G0107-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/924493/coast-guard-aircrew-locates-rescues-2-disabled-vessel-off-samana-cay-bahamas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-924493",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:58:33Z",
+  "duration": 28.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2405/DOD_110324436/DOD_110324436-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 28174038
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.94,
+    8.34,
+    12.31,
+    16.82
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-924493.jpg",
+  "sheet_times": [
+    0.87,
+    2.6,
+    4.33,
+    6.07,
+    7.8,
+    9.53,
+    11.26,
+    13.0,
+    14.73,
+    16.46,
+    18.2,
+    19.93,
+    21.66,
+    23.4,
+    25.13,
+    26.86
+  ]
+}

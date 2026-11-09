@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:405106",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard, Galveston Island Beach Patrol rescue 3 from aground boat",
+  "description": "The Galveston Island Beach Patrol rescued two men by boat before a Coast Guard MH-65 Dolphin helicopter crew hoisted third man, who was injured, to safety Tuesday, May 19, 2015. U.S. Coast Guard video by Lt. Joshua Scritchfield and Air Station Houston.",
+  "keywords": "Coast Guard rescue, joint agency, beach patrol, GIBP, surf assist, Coast Guard, USCG, U.S., CG",
+  "date": "2015-05-19T00:00:00-04:00",
+  "date_published": "2015-05-19T18:13:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150519-G-XX999-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/405106/coast-guard-galveston-island-beach-patrol-rescue-3-aground-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-405106",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:43Z",
+  "duration": 152.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1505/DOD_102448765/DOD_102448765.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9044,
+    "size": 172529376
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    32.97,
+    64.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      32.9
+    ],
+    "silence_ends": [
+      4.0,
+      152.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-405106.jpg",
+  "sheet_times": [
+    8.63,
+    17.85,
+    27.07,
+    36.29,
+    45.51,
+    54.73,
+    63.94,
+    73.16,
+    82.38,
+    91.6,
+    100.82,
+    110.04,
+    119.25,
+    128.47,
+    137.69,
+    146.91
+  ]
+}

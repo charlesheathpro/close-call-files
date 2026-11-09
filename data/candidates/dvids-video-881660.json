@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:881660",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs 51-year old male, 184 miles south west of key west",
+  "description": "A Coast Guard Air Station Clearwater rescue crew hoists Apr. 27, 2023, a 51-year-old male experiencing a medical distress from the cruise ship Carnival Conquest. The male was safely transferred to emergency medical services for higher medical care. (video by U.S. Coast Guard)",
+  "keywords": null,
+  "date": "2023-04-27T00:00:00-04:00",
+  "date_published": "2023-04-30T18:23:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Erik Villa Rodriguez",
+  "category": "B-Roll",
+  "virin": "230427-G-AB676-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/881660/coast-guard-medevacs-51-year-old-male-184-miles-south-west-key-west",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-881660",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:58:01Z",
+  "duration": 30.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109607495/DOD_109607495.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 27283248
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-881660.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.64,
+    6.5,
+    8.35,
+    10.21,
+    12.06,
+    13.92,
+    15.78,
+    17.63,
+    19.49,
+    21.34,
+    23.2,
+    25.06,
+    26.91,
+    28.77
+  ]
+}

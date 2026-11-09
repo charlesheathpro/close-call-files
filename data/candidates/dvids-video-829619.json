@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:829619",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "VIDEO AVAILABLE: Coast Guard rescues 6 boaters near Hopedale, Louisiana",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin aircrew hoist a basket during a rescue operation near Hopedale, Louisiana, Jan. 29, 2022. The boaters ran aground due to sudden changes in water depth. (U.S. Coast Guard video by Air Station New Orleans)",
+  "keywords": "Nola, Air Station, CoastGuardNewsWire, medevac, rescue, USCG",
+  "date": "2022-01-30T00:00:00-05:00",
+  "date_published": "2022-01-30T12:04:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220129-G-G0108-1002",
+  "location": {
+    "city": "New Orleans",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/829619/video-available-coast-guard-rescues-6-boaters-near-hopedale-louisiana",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-829619",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:59:14Z",
+  "duration": 20.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2201/DOD_108785698/DOD_108785698-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 19639722
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      20.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-829619.jpg",
+  "sheet_times": [
+    0.61,
+    1.83,
+    3.05,
+    4.27,
+    5.49,
+    6.71,
+    7.94,
+    9.16,
+    10.38,
+    11.6,
+    12.82,
+    14.04,
+    15.26,
+    16.48,
+    17.7,
+    18.92
+  ]
+}

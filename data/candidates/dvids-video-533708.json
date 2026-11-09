@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:533708",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs 49-year-old man from fishing vessel",
+  "description": "A helicopter crew from Coast Guard Air Station Savannah medevacs a 49-year-old man Wednesday, June 21, 2017, 40 miles east of Sapelo, Georgia. The man was hoisted off a 43-foot fishing vessel. U.S. Coast Guard video by Air Station Savannah",
+  "keywords": "hoist, Coast Guard Air Station Savannah, MH-65, dolphin helicopter, medevac, rescue",
+  "date": "2017-06-21T00:00:00-04:00",
+  "date_published": "2017-06-21T22:26:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 2nd Class Anthony Soto",
+  "category": "B-Roll",
+  "virin": "170621-G-DX440-1001",
+  "location": {
+    "city": "Savannah",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/533708/coast-guard-medevacs-49-year-old-man-fishing-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-533708",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:58:16Z",
+  "duration": 79.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104514236/DOD_104514236.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9026,
+    "size": 90285828
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.27,
+    52.12,
+    73.64
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      79.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-533708.jpg",
+  "sheet_times": [
+    2.48,
+    7.45,
+    12.41,
+    17.37,
+    22.34,
+    27.3,
+    32.27,
+    37.23,
+    42.19,
+    47.16,
+    52.12,
+    57.09,
+    62.05,
+    67.01,
+    71.98,
+    76.94
+  ]
+}
