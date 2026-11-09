@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:846327",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs crewmember from fishing vessel near Morgan City, La.",
+  "description": "A Coast Guard Air Station New Orleans aircrew hoists a crewmember 35 miles south of Morgan City, Louisiana on June 6, 2022. The crewmember was transferred to University Medical Center in New Orleans. (U.S. Coast Guard courtesy video by Air Station New Orleans)",
+  "keywords": "hoist, Air Station, MH-60, helicopter, medevac, New Orleans",
+  "date": "2022-06-06T00:00:00-04:00",
+  "date_published": "2022-06-07T15:16:08-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220606-G-G0108-1001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/846327/coast-guard-medevacs-crewmember-fishing-vessel-near-morgan-city-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-846327",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:56:20Z",
+  "duration": 35.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2206/DOD_109042604/DOD_109042604.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 43254702
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    14.71
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      35.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-846327.jpg",
+  "sheet_times": [
+    1.11,
+    3.32,
+    5.53,
+    7.74,
+    9.96,
+    12.17,
+    14.38,
+    16.59,
+    18.81,
+    21.02,
+    23.23,
+    25.45,
+    27.66,
+    29.87,
+    32.08,
+    34.3
+  ]
+}

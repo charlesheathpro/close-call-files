@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:678176",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Air Station San Francisco Conducts Medevac",
+  "description": "Coast Guard aircrew members from Air Station San Francisco hoist an injured man from an oil tanker off the coast of San Francisco, May 7, 2019. The man was reported in stable condition and safely transported to Stanford Medical Center. U.S. Coast Guard video.",
+  "keywords": "hoist, May 7, Air Station San Francisco, 2019, helicopter, medevac, rescue",
+  "date": "2019-05-07T00:00:00-04:00",
+  "date_published": "2019-05-07T17:04:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Jordan Akiyama",
+  "category": "B-Roll",
+  "virin": "190507-G-ED165-691",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/678176/coast-guard-air-station-san-francisco-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-678176",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:02Z",
+  "duration": 207.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106721006/DOD_106721006.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9872,
+    "size": 259468349
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    96.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-678176.jpg",
+  "sheet_times": [
+    6.47,
+    19.4,
+    32.33,
+    45.26,
+    58.19,
+    71.12,
+    84.05,
+    96.98,
+    109.91,
+    122.84,
+    135.77,
+    148.7,
+    161.63,
+    174.56,
+    187.49,
+    200.42
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:351852",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs ailing fisherman",
+  "description": "A Coast Guard MH-65 Dolphin rescue helicopter crew hovers over a shrimp boat and hoists the fisherman aboard about 25 miles off Port O'Connor, Texas, July 26, 2014. U.S. Coast Guard video by Air Station Corpus Christi.",
+  "keywords": "Coast Guard rescue, O'Connor, MH-65D, Air Station Corpus CHristi, medevac, Texas, rescue",
+  "date": "2014-07-26T00:00:00-04:00",
+  "date_published": "2014-07-26T18:54:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140726-G-XX999-001",
+  "location": {
+    "city": "Port Aransas",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/351852/coast-guard-medevacs-ailing-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.13747,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-351852",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:55:29Z",
+  "duration": 124.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101833662/DOD_101833662.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 160319769
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.14,
+    9.58,
+    13.45,
+    90.66
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      13.4
+    ],
+    "silence_ends": [
+      4.2,
+      124.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-351852.jpg",
+  "sheet_times": [
+    7.88,
+    15.36,
+    22.84,
+    30.32,
+    37.8,
+    45.27,
+    52.75,
+    60.23,
+    67.71,
+    75.19,
+    82.67,
+    90.15,
+    97.63,
+    105.11,
+    112.59,
+    120.07
+  ]
+}

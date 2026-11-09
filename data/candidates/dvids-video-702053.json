@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:702053",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man from tanker 265 miles southeast of Wilmington, N.C.",
+  "description": "A Coast Guard aircrew medevaced a 65-year-old man with reported breathing difficulty from a tanker vessel 265 miles southeast of Wilmington, N.C., Aug. 9, 2019. The aircrew hoisted the man and transported him to the New Hanover Regional Hospital. U.S Coast Guard video.",
+  "keywords": "Wilmington, tanker, MH-60, Jayhawk, fifth district, d5, tanker ship, Coast Guard, medevac, N.C., North Carolina, USCG",
+  "date": "2019-08-09T00:00:00-04:00",
+  "date_published": "2019-08-09T14:55:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "190809-G-G0105-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/702053/coast-guard-medevacs-man-tanker-265-miles-southeast-wilmington-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-702053",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:18Z",
+  "duration": 116.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107107685/DOD_107107685-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 919,
+    "size": 13608946
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    32.5
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      117.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-702053.jpg",
+  "sheet_times": [
+    3.64,
+    10.92,
+    18.2,
+    25.48,
+    32.76,
+    40.04,
+    47.32,
+    54.61,
+    61.89,
+    69.17,
+    76.45,
+    83.73,
+    91.01,
+    98.29,
+    105.57,
+    112.85
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:289140",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Helicopter Medevacs Man From Crew Ship",
+  "description": "The crew of an MH-65 Dolphin helicopter, from Air Station Houston, hoists a man from a crew ship about 76 miles off Cameron, La., Sunday, May 5, 2013. U.S. Coast Guard video. Also available in high definition",
+  "keywords": "helicopter, medevac, ship, High Definition",
+  "date": "2013-05-05T00:00:00-04:00",
+  "date_published": "2013-05-05T16:50:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "130505-G-XX000-001",
+  "location": {
+    "city": "Cameron",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/289140/helicopter-medevacs-man-crew-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-289140",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:54:49Z",
+  "duration": 68.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100804404/DOD_100804404.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8439,
+    "size": 74203917
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.0,
+      8.6,
+      11.6,
+      12.6,
+      13.8,
+      15.3
+    ],
+    "silence_ends": [
+      7.0,
+      8.2,
+      10.3,
+      12.5,
+      13.7,
+      15.3,
+      67.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-289140.jpg",
+  "sheet_times": [
+    2.12,
+    6.37,
+    10.62,
+    14.87,
+    19.12,
+    23.36,
+    27.61,
+    31.86,
+    36.11,
+    40.36,
+    44.6,
+    48.85,
+    53.1,
+    57.35,
+    61.6,
+    65.84
+  ]
+}

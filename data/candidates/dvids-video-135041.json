@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:135041",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard MEDEVACs Cruise Ship Passenger Near Bahamas",
+  "description": "MIAMI — A Coast Guard helicopter crew hoists a cruise ship passenger in need of medical attention near the Bahamas on Jan. 16, 2012. The patient was transferred to Nassau, Bahamas, along with a nurse from the cruise ship Norwegian Dawn. U.S. Coast Guard video.",
+  "keywords": "Bahamas, Coast Guard, medevac, Nassau, Cruise Ship, USCG",
+  "date": "2012-01-16T00:00:00-05:00",
+  "date_published": "2012-01-17T08:36:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "120116-G-ZZ999-001",
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/135041/coast-guard-medevacs-cruise-ship-passenger-near-bahamas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-135041",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:54:34Z",
+  "duration": 267.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1201/DOD_100307471/DOD_100307471.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5509,
+    "size": 184638097
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      267.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-135041.jpg",
+  "sheet_times": [
+    8.35,
+    25.06,
+    41.77,
+    58.48,
+    75.19,
+    91.9,
+    108.61,
+    125.32,
+    142.02,
+    158.73,
+    175.44,
+    192.15,
+    208.86,
+    225.57,
+    242.28,
+    258.99
+  ]
+}

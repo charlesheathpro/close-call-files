@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:353942",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs tanker captain",
+  "description": "A Coast Guard helicopter crew medevaced the captain of a tanker ship approximately 50 miles offshore of Corpus Christi August 6, 2014. The captain was hoisted by the crew of a Dolphin rescue helicopter from Coast Guard Air Station Corpus Christi. U.S. Coast Guard video.",
+  "keywords": "captain, tanker, Coast Guard rescue, MH-65, blood clot, helicopter, Coast Guard, medevac, Texas, rescue, Corpus Christi, video, USCG, dolphin",
+  "date": "2014-08-06T00:00:00-04:00",
+  "date_published": "2014-08-06T18:18:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 1st Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "140806-G-ZZ999-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/353942/coast-guard-medevacs-tanker-captain",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.2042,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-353942",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:56:06Z",
+  "duration": 82.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101862422/DOD_101862422.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9963,
+    "size": 103771256
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.2,
+    4.2,
+    13.78,
+    19.59,
+    54.62
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      82.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-353942.jpg",
+  "sheet_times": [
+    6.64,
+    11.51,
+    16.38,
+    21.25,
+    26.12,
+    30.99,
+    35.86,
+    40.73,
+    45.6,
+    50.47,
+    55.34,
+    60.21,
+    65.08,
+    69.95,
+    74.82,
+    79.69
+  ]
+}

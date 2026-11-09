@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:418708",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man From Cruise Ship",
+  "description": "The Coast Guard medically evacuated a man from a cruise ship, Aug. 9, 2015, approximately 40 miles east of Sebastian Inlet, Florida. The man, reported to be suffering severe stomach problems, was hoisted and taken to a hospital for further treatment. U.S. Coast Guard video",
+  "keywords": "hoist, MH-65 Dolphin helicopter, Coast Guard Air Station Miami, medevac, rescue",
+  "date": "2015-08-09T00:00:00-04:00",
+  "date_published": "2015-08-10T13:05:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150809-G-AB001-001",
+  "location": {
+    "city": "Sebastian Inlet",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418708/coast-guard-medevacs-man-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-418708",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:55:44Z",
+  "duration": 91.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102649810/DOD_102649810.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8627,
+    "size": 99194530
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    61.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      91.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418708.jpg",
+  "sheet_times": [
+    6.76,
+    12.22,
+    17.68,
+    23.14,
+    28.6,
+    34.06,
+    39.52,
+    44.98,
+    50.45,
+    55.91,
+    61.37,
+    66.83,
+    72.29,
+    77.75,
+    83.21,
+    88.67
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:280756",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Helicopter Crew Medevacs Man From Tanker in Gulf of Mexico",
+  "description": "A Corpus Christi based Coast Guard helicopter crew prepares to hoist a man to safety in the Gulf of Mexico, Feb. 2, 2013. The man was hit by a crane aboard the tanker and lost feeling in the lower half of his body.  U.S. Coast Guard video. Available in high definition.",
+  "keywords": "tanker, MH-65D, helicopter, medevac, helo",
+  "date": "2013-02-02T00:00:00-05:00",
+  "date_published": "2013-02-04T22:35:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 1st Class Andrew Kendrick",
+  "category": "B-Roll",
+  "virin": "130202-G-XX000-002",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/280756/coast-guard-helicopter-crew-medevacs-man-tanker-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.005,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-280756",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:56:14Z",
+  "duration": 93.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1302/DOD_100697878/DOD_100697878.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8701,
+    "size": 102669441
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    19.39,
+    46.61,
+    88.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      19.4
+    ],
+    "silence_ends": [
+      5.1,
+      93.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-280756.jpg",
+  "sheet_times": [
+    7.76,
+    13.27,
+    18.78,
+    24.3,
+    29.81,
+    35.32,
+    40.83,
+    46.34,
+    51.86,
+    57.37,
+    62.88,
+    68.39,
+    73.9,
+    79.42,
+    84.93,
+    90.44
+  ]
+}

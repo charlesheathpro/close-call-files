@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:415335",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man from Shrimp Boat in Gulf of Mexico",
+  "description": "An Air Station Houston aircrew aboard an MH-65 Dolphin helicopter hoisted a man from a shrimp boat in the Gulf of Mexico and took him to the University of Texas Medical Branch in Galveston for treatment after he was vomiting blood Thursday, July 16, 2015. U.S. Coast Guard video",
+  "keywords": "medical evacuation, hoist, Coast Guard rescue, MH-65D, medevac, rescue",
+  "date": "2015-07-16T00:00:00-04:00",
+  "date_published": "2015-07-16T21:27:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150716-G-XX999-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/415335/coast-guard-medevacs-man-shrimp-boat-gulf-mexico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.32563,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-415335",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:30Z",
+  "duration": 271.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102600852/DOD_102600852.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9100,
+    "size": 312303320
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.3,
+    4.3,
+    95.83,
+    108.64,
+    148.11,
+    159.09,
+    224.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      271.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-415335.jpg",
+  "sheet_times": [
+    12.67,
+    29.35,
+    46.02,
+    62.7,
+    79.38,
+    96.06,
+    112.74,
+    129.42,
+    146.1,
+    162.78,
+    179.46,
+    196.14,
+    212.82,
+    229.5,
+    246.18,
+    262.86
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:404646",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Boater",
+  "description": "A crew aboard an MH-65 Dolphin helicopter from Air Facility Charleston, S.C., medevaced a boater Saturday, May 16, 2015 approximately 44 miles off the coast of Charleston. The boater was hoisted and taken to Medical University of South Carolina. U.S. Coast Guard video.",
+  "keywords": "Coast Guard rescue, MH-65, Air Facility Charleston, medevac",
+  "date": "2015-05-16T00:00:00-04:00",
+  "date_published": "2015-05-16T21:47:51-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 2nd Class Anthony Soto",
+  "category": "B-Roll",
+  "virin": "150516-G-AB001-001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/404646/coast-guard-medevacs-boater",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.1588,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-404646",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:56:42Z",
+  "duration": 403.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1505/DOD_102442656/DOD_102442656.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9787,
+    "size": 493633644
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    102.14,
+    200.77,
+    299.4,
+    398.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      403.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-404646.jpg",
+  "sheet_times": [
+    16.61,
+    41.51,
+    66.41,
+    91.31,
+    116.21,
+    141.11,
+    166.01,
+    190.9,
+    215.8,
+    240.7,
+    265.6,
+    290.5,
+    315.4,
+    340.3,
+    365.2,
+    390.1
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:690835",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs crewmember from vessel near Port Aransas, Texas",
+  "description": "A Sector/Air Station Corpus Christi MH-65 Dolphin Helicopter aircrew hoists an injured crewmember from a 600-foot tanker near Port Aransas, Texas Jun. 18, 2019. The man was taken to Christus Spohn Hospital Shoreline in Corpus Christi. U.S.Coast Guard video.",
+  "keywords": "hoist, MH-65, Corpus Chrisit, medevac",
+  "date": "2019-06-18T00:00:00-04:00",
+  "date_published": "2019-06-18T13:29:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190618-G-G0108-1001",
+  "location": {
+    "city": "Port Aransas",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/690835/coast-guard-medevacs-crewmember-vessel-near-port-aransas-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-690835",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:57:11Z",
+  "duration": 98.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106921780/DOD_106921780.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8034,
+    "size": 100308082
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-690835.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.33,
+    21.47,
+    27.6,
+    33.73,
+    39.87,
+    46.0,
+    52.13,
+    58.27,
+    64.4,
+    70.53,
+    76.67,
+    82.8,
+    88.93,
+    95.07
+  ]
+}
