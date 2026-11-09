@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-09T02:56:17Z from 88 Shorts older than 48 hours)
+# Playbook (computed 2026-11-09T11:13:01Z from 88 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -14,7 +14,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.61, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.53, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.52, 1 Shorts)
 - music: hazards (-0.44, 4 Shorts)
 - story: volcano eruption (-0.4, 2 Shorts)
 - story: attic flood hoist (-0.38, 1 Shorts)
@@ -23,11 +23,11 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: rocket engine test cut short (-0.23, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 9441 views, 97% watched
+- Five abandon a sinking fishing boat: 10066 views, 97% watched
 - Orion splashes down after the Moon: 9446 views, 95% watched
-- Capsule torn off a rocket at Mach 1: 5179 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 20855 views, 78% watched
-- Runaway boat circling with no one aboard: 7753 views, 91% watched
+- Capsule torn off a rocket at Mach 1: 5180 views, 97% watched
+- Boat flipped with a 4-year-old aboard: 20961 views, 78% watched
+- Runaway boat circling with no one aboard: 7927 views, 91% watched
 
 ## Weakest Shorts
 - Sailboat sinking 25 miles off Michigan: 303 views, 64% watched
@@ -37,7 +37,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261104-03: Calm top-down hoist from a riverbank with no visible danger; line 1 says 'This man' over a Coast Guard crewman. Fails the viral bar for a routine hoist.
 - ccf-20261104-05: Well cut and accurate, with real flames under the bucket, but it is a calm repeated work loop with no person in danger and no turn; the third aerial-firefighting Short in a week. Dropped.
 - ccf-20261105-04: Grainy 720p door-cam: the stranded man on the rock is never clearly shown, half the Short is noisy surf and orange-suit close-ups that do not match their lines, and it repeats the sea-cliff stranding already scheduled today (04-11) in a format that tested weak (Oregon cliff hikers 48% watched).
 - ccf-20261105-11: The source is one fixed camera on one landing for its full 3 minutes, so render 12 to 44 s is the same rear view of the orbiter shrinking into the distance with no new angle; nothing on screen looks dangerous and the crosswind line is not in any source.
@@ -52,3 +51,8 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261107-41: Good number, weak picture: for most of the runtime the raft is a speck on calm open ocean or the frame is the helicopter sponson; survivors smile in the basket. Calm routine hoist, no danger visible, and the source has no closer raft footage to fix it with. Dropped.
 - ccf-20261108-21: Grainy black-and-white sensor footage on a fairly calm sea, a glare-only stretch at 18 to 22 s, and the third 'alone in a sinking boat, 12 miles out' Short in three days with the same number hook. Dropped.
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
+- ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
+
+## Changed tonight
+- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.49, 'hazards': 0.1}
+- query weights for 50 searches

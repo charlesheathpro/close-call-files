@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-09T02:56:17Z",
+  "at": "2026-11-09T11:13:01Z",
   "mature": 88,
   "features": [
     {
@@ -53,19 +53,19 @@
       "effect": 0.23
     },
     {
-      "feature": "story: dog cliff fall, basket hoist",
+      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
       "n": 1,
-      "effect": 0.2
+      "effect": 0.21
     },
     {
-      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
+      "feature": "story: dog cliff fall, basket hoist",
       "n": 1,
       "effect": 0.2
     },
     {
       "feature": "lane: aviation_naval",
       "n": 17,
-      "effect": 0.19
+      "effect": 0.18
     },
     {
       "feature": "source: nasa",
@@ -158,16 +158,6 @@
       "effect": 0.08
     },
     {
-      "feature": "story: dog flood hoist",
-      "n": 1,
-      "effect": 0.08
-    },
-    {
-      "feature": "story: mountain hoist",
-      "n": 2,
-      "effect": 0.08
-    },
-    {
       "feature": "story: tanker comes alongside a flooding sailboat far offshore",
       "n": 1,
       "effect": 0.08
@@ -175,6 +165,16 @@
     {
       "feature": "music: sea",
       "n": 28,
+      "effect": 0.07
+    },
+    {
+      "feature": "story: dog flood hoist",
+      "n": 1,
+      "effect": 0.07
+    },
+    {
+      "feature": "story: mountain hoist",
+      "n": 2,
       "effect": 0.07
     },
     {
@@ -223,6 +223,11 @@
       "effect": 0.03
     },
     {
+      "feature": "music: night",
+      "n": 2,
+      "effect": 0.02
+    },
+    {
       "feature": "story: flood rooftop family",
       "n": 1,
       "effect": 0.02
@@ -236,11 +241,6 @@
       "feature": "story: surf rescue under cliff",
       "n": 1,
       "effect": 0.02
-    },
-    {
-      "feature": "music: night",
-      "n": 2,
-      "effect": 0.01
     },
     {
       "feature": "story: boat fire evacuation",
@@ -258,13 +258,13 @@
       "effect": 0.01
     },
     {
-      "feature": "length 45 s or more",
-      "n": 7,
-      "effect": 0.0
-    },
-    {
       "feature": "story: teens stranded on a navigation marker, swimmer tows them clear, basket hoist",
       "n": 1,
+      "effect": 0.01
+    },
+    {
+      "feature": "length 45 s or more",
+      "n": 7,
       "effect": 0.0
     },
     {
@@ -303,11 +303,6 @@
       "effect": -0.02
     },
     {
-      "feature": "story: life raft rescue",
-      "n": 1,
-      "effect": -0.02
-    },
-    {
       "feature": "story: swimmer in water",
       "n": 1,
       "effect": -0.02
@@ -328,6 +323,16 @@
       "effect": -0.03
     },
     {
+      "feature": "story: fishing boat fire, crew abandons ship to a life raft",
+      "n": 1,
+      "effect": -0.03
+    },
+    {
+      "feature": "story: life raft rescue",
+      "n": 1,
+      "effect": -0.03
+    },
+    {
       "feature": "story: rooftop hoist",
       "n": 1,
       "effect": -0.03
@@ -344,11 +349,6 @@
     },
     {
       "feature": "story: capsized boat, people in water",
-      "n": 1,
-      "effect": -0.05
-    },
-    {
-      "feature": "story: fishing boat fire, crew abandons ship to a life raft",
       "n": 1,
       "effect": -0.05
     },
@@ -378,14 +378,14 @@
       "effect": -0.06
     },
     {
-      "feature": "hook names an animal",
-      "n": 15,
-      "effect": -0.07
-    },
-    {
       "feature": "story: dog rescue flood",
       "n": 2,
       "effect": -0.07
+    },
+    {
+      "feature": "hook names an animal",
+      "n": 15,
+      "effect": -0.08
     },
     {
       "feature": "story: crew capsule splashdown",
@@ -463,14 +463,14 @@
       "effect": -0.2
     },
     {
-      "feature": "story: cliff hoist",
-      "n": 1,
+      "feature": "source: dvids",
+      "n": 68,
       "effect": -0.2
     },
     {
-      "feature": "source: dvids",
-      "n": 68,
-      "effect": -0.21
+      "feature": "story: cliff hoist",
+      "n": 1,
+      "effect": -0.2
     },
     {
       "feature": "story: yacht sinking stern first, 13 people taken off by cutter",
@@ -525,7 +525,7 @@
     {
       "feature": "story: missing boaters clinging to a capsized hull",
       "n": 1,
-      "effect": -0.53
+      "effect": -0.52
     },
     {
       "feature": "story: dog hoist from sinking boat",
@@ -537,35 +537,35 @@
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 9441.0,
+      "views": 10066.0,
       "ret": 96.89,
-      "score": 1.881
+      "score": 1.893
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9446.0,
       "ret": 95.04,
-      "score": 1.747
+      "score": 1.738
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5179.0,
+      "views": 5180.0,
       "ret": 97.0,
-      "score": 1.736
+      "score": 1.73
     },
     {
       "short_id": "ccf-20261030-60",
       "title": "Boat flipped with a 4-year-old aboard",
-      "views": 20855.0,
+      "views": 20961.0,
       "ret": 77.68,
-      "score": 1.677
+      "score": 1.668
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 7753.0,
+      "views": 7927.0,
       "ret": 90.63,
       "score": 1.584
     }
@@ -583,28 +583,28 @@
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 63.75999999999999,
-      "score": -1.301
+      "score": -1.299
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
       "views": 285.0,
       "ret": 42.06,
-      "score": -1.509
+      "score": -1.508
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 64.38,
-      "score": -2.077
+      "score": -2.07
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -2.418
+      "score": -2.408
     }
   ],
   "query_weights": {
@@ -627,7 +627,7 @@
     "launch abort": 1.2,
     "splashdown": 1.12,
     "FEMA urban search and rescue": 0.93,
-    "vessel fire": 1.19,
+    "vessel fire": 1.2,
     "sinking vessel": 0.93,
     "lava USGS": 0.91,
     "wildfire": 0.88,
@@ -655,20 +655,16 @@
     "rocket landing": 0.92,
     "NOAA hurricane hunter": 1.01,
     "rocket launch": 1.04,
-    "test": 1.11,
+    "test": 1.12,
     "aircrew rescues": 0.96,
     "ship heavy seas": 1.03
   },
   "lane_scores": {
     "rescue": -0.01,
-    "hazards": -0.34,
+    "hazards": -0.35,
     "aviation_naval": 0.15
   },
   "qa_rejections_7d": [
-    {
-      "short_id": "ccf-20261104-03",
-      "notes": "Calm top-down hoist from a riverbank with no visible danger; line 1 says 'This man' over a Coast Guard crewman. Fails the viral bar for a routine hoist."
-    },
     {
       "short_id": "ccf-20261104-05",
       "notes": "Well cut and accurate, with real flames under the bucket, but it is a calm repeated work loop with no person in danger and no turn; the third aerial-firefighting Short in a week. Dropped."
@@ -724,8 +720,15 @@
     {
       "short_id": "ccf-20261108-25",
       "notes": "640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped."
+    },
+    {
+      "short_id": "ccf-20261109-02",
+      "notes": "Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short."
     }
   ],
-  "config_changed_at": "2026-11-08T10:03:49Z",
-  "changed": []
+  "config_changed_at": "2026-11-09T11:13:01Z",
+  "changed": [
+    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.49, 'hazards': 0.1}",
+    "query weights for 50 searches"
+  ]
 }
