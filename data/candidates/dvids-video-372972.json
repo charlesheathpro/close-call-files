@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:372972",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Hunter Near Sitka, Alaska",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew assists an injured hunter during a medevac off Mount Verstovia near Sitka, Alaska, Nov. 7, 2014. The hunter had a reported gunshot wound to his leg and was transported to medical care in Sitka. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "MH-60 Jayhawk, Coast Guard rescue, Air Station Sitka, medevac",
+  "date": "2014-11-07T00:00:00-05:00",
+  "date_published": "2014-11-07T19:08:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 2nd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "141107-G-MF861-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/372972/coast-guard-medevacs-injured-hunter-near-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.5602,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-372972",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:17Z",
+  "duration": 35.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1411/DOD_102075864/DOD_102075864.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5113,
+    "size": 22924616
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.28
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.5,
+      10.3,
+      14.3,
+      18.0,
+      24.6,
+      29.4,
+      34.4
+    ],
+    "silence_ends": [
+      5.0,
+      7.1,
+      13.3,
+      15.9,
+      18.8,
+      26.1,
+      31.1,
+      35.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-372972.jpg",
+  "sheet_times": [
+    6.48,
+    8.31,
+    10.14,
+    11.97,
+    13.8,
+    15.63,
+    17.46,
+    19.29,
+    21.12,
+    22.95,
+    24.78,
+    26.61,
+    28.44,
+    30.27,
+    32.1,
+    33.93
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:371774",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Hunter Near Kodiak, Alaska",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew safely medevacs an injured 65-year-old man near Kodiak, Alaska, Nov. 4, 2014. The hunter and his group were carrying a deer when a sloth of bears attacked and injured the man. U.S. Coast Guard video by Air Station Kodiak Alaska.",
+  "keywords": "Air Station Kodiak, hunting, Coast Guard rescue, Coast Guard, medevac",
+  "date": "2014-11-04T00:00:00-05:00",
+  "date_published": "2014-11-04T22:59:19-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "141104-G-MF861-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/371774/coast-guard-medevacs-injured-hunter-near-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.82713,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-371774",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:20Z",
+  "duration": 65.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1411/DOD_102069596/DOD_102069596.mp4",
+    "width": 720,
+    "height": 528,
+    "bitrate": 2342,
+    "size": 20981327
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.55,
+    29.8,
+    41.41,
+    50.18,
+    55.66
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.9,
+      10.9
+    ],
+    "silence_ends": [
+      5.3,
+      7.4,
+      65.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-371774.jpg",
+  "sheet_times": [
+    7.67,
+    11.37,
+    15.06,
+    18.76,
+    22.45,
+    26.14,
+    29.84,
+    33.53,
+    37.22,
+    40.92,
+    44.61,
+    48.31,
+    52.0,
+    55.69,
+    59.39,
+    63.08
+  ]
+}

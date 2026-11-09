@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:321890",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Mariner Near Cold Bay, Alaska",
+  "description": "An Air Station Kodiak MH-60 Jayhawk helicopter crew forward deployed to Cold Bay, Alaska, rescues an injured man from the vessel Arica, Feb. 10, 2014. The man was safely transported to emergency medical services in Anchorage for further care. U.S. Coast Guard video by Air Station Kodiak.",
+  "keywords": "Kodiak, MH-60, Cold Bay, Arica",
+  "date": "2014-02-10T00:00:00-05:00",
+  "date_published": "2014-02-18T16:08:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "140218-G-ZZ999-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/321890/coast-guard-medevacs-mariner-near-cold-bay-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-321890",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:31Z",
+  "duration": 54.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101122781/DOD_101122781.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9294,
+    "size": 62848588
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      54.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-321890.jpg",
+  "sheet_times": [
+    5.55,
+    8.66,
+    11.76,
+    14.86,
+    17.96,
+    21.06,
+    24.16,
+    27.26,
+    30.36,
+    33.47,
+    36.57,
+    39.67,
+    42.77,
+    45.87,
+    48.97,
+    52.07
+  ]
+}

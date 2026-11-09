@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:654353",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "BROLL: Coast Guard conducts medevac of fisher off Kauai",
+  "description": "The Coast Guard successfully medevaced a 37-year-old crewmember off a tuna longliner 80-miles north of Kauai, Jan. 13, 2019.",
+  "keywords": "D14, medieval, Coast Guard, USCG, Kauai",
+  "date": "2019-01-13T00:00:00-05:00",
+  "date_published": "2019-01-13T23:57:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Amanda Wyrick",
+  "category": "B-Roll",
+  "virin": "190113-G-CA140-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/654353/broll-coast-guard-conducts-medevac-fisher-off-kauai",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-654353",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:46:39Z",
+  "duration": 134.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1901/DOD_106364909/DOD_106364909.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9470,
+    "size": 159421813
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.25,
+    26.56,
+    48.68,
+    54.09,
+    68.64,
+    130.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-654353.jpg",
+  "sheet_times": [
+    4.19,
+    12.58,
+    20.96,
+    29.34,
+    37.73,
+    46.11,
+    54.49,
+    62.88,
+    71.26,
+    79.64,
+    88.03,
+    96.41,
+    104.79,
+    113.18,
+    121.56,
+    129.94
+  ]
+}

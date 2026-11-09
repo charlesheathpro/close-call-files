@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:301845",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger in Southeast Alaska",
+  "description": "A Sitka-based Coast Guard MH-60 Jayhawk helicopter crew medevacs a 72-year-old woman from the cruise ship Diamond Princess in Icy Strait Sept. 19, 2013. The woman, suffering from convulsions, was safely transferred to awaiting emergency medical personnel in Sitka, about 100 miles south of Icy Strait. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "Sitka, MH-60, D17, Diamond Princess, Coast Guard, medevac, Alaska",
+  "date": "2013-09-19T00:00:00-04:00",
+  "date_published": "2013-09-20T15:12:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "130919-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/301845/coast-guard-medevacs-cruise-ship-passenger-southeast-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-301845",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:37Z",
+  "duration": 54.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100917507/DOD_100917507.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9851,
+    "size": 67591560
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.61,
+    14.21,
+    20.59,
+    27.09,
+    37.64,
+    46.11,
+    50.88
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      54.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-301845.jpg",
+  "sheet_times": [
+    1.7,
+    5.1,
+    8.5,
+    11.9,
+    15.3,
+    18.7,
+    22.1,
+    25.5,
+    28.9,
+    32.29,
+    35.69,
+    39.09,
+    42.49,
+    45.89,
+    49.29,
+    52.69
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:322735",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner near Cold Bay, Alaska",
+  "description": "An Air Station Kodiak MH-60 Jayhawk helicopter crew forward deployed to Cold Bay, Alaska, rescues a mariner from the 272-foot fishing vessel American Dynasty 95 miles northwest of Cold Bay, Feb. 24, 2014. The man was safely transported to emergency medical services in Anchorage for further care. U.S. Coast Guard video by Air Station Kodiak. Available in high definition.",
+  "keywords": "Kodiak, MH-60, Jayhawk, Cold Bay, FOL, Aviation News, American Dynasty, medevac, rescue, Alaska",
+  "date": "2014-02-24T00:00:00-05:00",
+  "date_published": "2014-03-03T20:15:01-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "140224-G-MF861-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/322735/coast-guard-medevacs-mariner-near-cold-bay-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-322735",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:25Z",
+  "duration": 51.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1403/DOD_101148634/DOD_101148634.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8535,
+    "size": 54652955
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.31,
+    15.25,
+    33.43,
+    46.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-322735.jpg",
+  "sheet_times": [
+    1.59,
+    4.76,
+    7.93,
+    11.1,
+    14.27,
+    17.44,
+    20.61,
+    23.78,
+    26.95,
+    30.12,
+    33.29,
+    36.46,
+    39.63,
+    42.8,
+    45.97,
+    49.14
+  ]
+}

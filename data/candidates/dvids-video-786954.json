@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:786954",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard conducts medevac 35 miles east of Nantucket",
+  "description": "Coast Guard crews successfully conduct a medevac of a 45-year-old fisherman from the 80-foot fishing vessel, Mariner, approximately 35 miles east of Nantucket, Massachusetts, March 14, 2021. A Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter aircrew transported the man back to shore where Emergency Medical Services took him to Cape Cod Hospital. (U.S. Coast Guard photo Courtesy of Air Station Cape Cod/Released)",
+  "keywords": "CoastGuardNewsWire, Medevas, helicopter, Massachusetts",
+  "date": "2021-03-14T00:00:00-05:00",
+  "date_published": "2021-03-14T17:19:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Amanda Wyrick",
+  "category": "B-Roll",
+  "virin": "210314-G-CA140-436",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/786954/coast-guard-conducts-medevac-35-miles-east-nantucket",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-786954",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:47:53Z",
+  "duration": 20.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2103/DOD_108229656/DOD_108229656.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9990,
+    "size": 25811939
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.37
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.8,
+      16.7
+    ],
+    "silence_ends": [
+      9.8,
+      15.7,
+      19.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-786954.jpg",
+  "sheet_times": [
+    0.62,
+    1.87,
+    3.11,
+    4.35,
+    5.6,
+    6.84,
+    8.08,
+    9.33,
+    10.57,
+    11.81,
+    13.06,
+    14.3,
+    15.54,
+    16.79,
+    18.03,
+    19.27
+  ]
+}
