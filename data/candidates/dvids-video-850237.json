@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:850237",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured woman in Bandon, Oregon",
+  "description": "A Sector North Bend aircrew aboard an MH-65 Dolphin helicopter medevacs an injured woman near Face Rock Scenic Viewpoint in Bandon, Oregon, July 13, 2022. The aircrew landed the helicopter on a nearby beach and transported the woman to Bay Area Hospital in Coos Bay. She was in stable condition upon transfer to hospital personnel. (U.S. Coast Guard video by Petty Officer 3rd Class Michael Clark)",
+  "keywords": "North Bend, MH-65, CoastGuardNewsWire, medevac, SAR, Oregon",
+  "date": "2022-07-13T00:00:00-04:00",
+  "date_published": "2022-07-13T22:59:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Michael Clark",
+  "category": "B-Roll",
+  "virin": "220713-G-YE015-1001",
+  "location": {
+    "city": "Bandon",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/850237/coast-guard-medevacs-injured-woman-bandon-oregon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-850237",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:06:02Z",
+  "duration": 60.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109105478/DOD_109105478.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 65066158
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.55,
+    25.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      60.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-850237.jpg",
+  "sheet_times": [
+    1.88,
+    5.64,
+    9.41,
+    13.17,
+    16.93,
+    20.69,
+    24.45,
+    28.22,
+    31.98,
+    35.74,
+    39.5,
+    43.26,
+    47.03,
+    50.79,
+    54.55,
+    58.31
+  ]
+}

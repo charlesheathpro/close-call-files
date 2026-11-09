@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:316913",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from supply vessel",
+  "description": "CG MEDEVACs man from offshore supply vessel.",
+  "keywords": "CGVI",
+  "date": "2011-05-01T00:00:00-04:00",
+  "date_published": "2013-12-20T21:21:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/316913/coast-guard-medevacs-man-supply-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316913",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:04:44Z",
+  "duration": 599.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061449/DOD_101061449-960x540-2436k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 2436,
+    "size": 190063823
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.5,
+    29.9,
+    362.06,
+    442.04,
+    458.72,
+    472.04,
+    472.54,
+    595.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      2.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316913.jpg",
+  "sheet_times": [
+    18.73,
+    56.18,
+    93.63,
+    131.08,
+    168.53,
+    205.99,
+    243.44,
+    280.89,
+    318.34,
+    355.79,
+    393.25,
+    430.7,
+    468.15,
+    505.6,
+    543.05,
+    580.51
+  ]
+}

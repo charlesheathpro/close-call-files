@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:475394",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from cruise ship",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Clearwater medevacs a 74-year-old man from a cruise ship 380 miles southwest of St. Petersburg, Florida, Monday, July 18, 2016. The man was transported to Tampa General Hospital in stable condition. (U.S. Coast Guard video).",
+  "keywords": "Jayhawk, AIR STATION CLEARWATER, St. Petersburg, search-and-rescue, Tampa General, Carnival Breeze, helicopter, Coast Guard, medevac, SAR, Florida, USCG, FL",
+  "date": "2016-07-18T00:00:00-04:00",
+  "date_published": "2016-07-19T15:26:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160719-G-ZZ999-801",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/475394/coast-guard-medevacs-man-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-475394",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:04:20Z",
+  "duration": 126.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103479506/DOD_103479506.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9142,
+    "size": 144585088
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    56.79,
+    81.92,
+    91.19,
+    100.17,
+    104.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      126.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-475394.jpg",
+  "sheet_times": [
+    7.83,
+    15.45,
+    23.07,
+    30.69,
+    38.31,
+    45.92,
+    53.54,
+    61.16,
+    68.78,
+    76.39,
+    84.01,
+    91.63,
+    99.25,
+    106.86,
+    114.48,
+    122.1
+  ]
+}

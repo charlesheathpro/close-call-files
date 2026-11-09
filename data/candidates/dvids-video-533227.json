@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:533227",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man with possible broken leg",
+  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew medevacs a 22-year-old man with a possible broken leg from the motor vessel Coastal Progress, 160-miles southwest of Kodiak, Alaska, June 19, 2017. The Jayhawk crew safely hoisted the man and transported him to awaiting EMS personnel in Kodiak. U.S. Coast Guard video courtesy Air Station Kodiak.",
+  "keywords": "Kodiak, Rios, coastal progress, Coast Guard, Alaska",
+  "date": "2017-06-19T00:00:00-04:00",
+  "date_published": "2017-06-20T02:47:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170619-G-G0217-0001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/533227/coast-guard-medevacs-man-with-possible-broken-leg",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.02633,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-533227",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:05:48Z",
+  "duration": 80.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104506858/DOD_104506858.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7348,
+    "size": 74500301
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    19.35,
+    28.46,
+    39.91,
+    75.34
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      66.1,
+      74.8
+    ],
+    "silence_ends": [
+      42.6,
+      72.5,
+      80.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-533227.jpg",
+  "sheet_times": [
+    7.36,
+    12.04,
+    16.72,
+    21.4,
+    26.07,
+    30.75,
+    35.43,
+    40.11,
+    44.78,
+    49.46,
+    54.14,
+    58.81,
+    63.49,
+    68.17,
+    72.85,
+    77.52
+  ]
+}

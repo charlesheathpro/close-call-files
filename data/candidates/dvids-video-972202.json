@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:972202",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs woman off cruise ship",
+  "description": "A Coast Guard MH-60 helicopter crew from Air Station Astoria medevacs a woman off a cruise ship nearly 120 miles west of Grays Harbor, Washington, on July 29, 2025. The woman was experiencing a health emergency and transported to Air Station Astoria to awaiting emergency medical services. (U.S. Coast Guard video)",
+  "keywords": null,
+  "date": "2025-07-29T00:00:00-04:00",
+  "date_published": "2025-07-30T17:40:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class William Kirk",
+  "category": "B-Roll",
+  "virin": "250729-G-PV420-2158",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/972202/coast-guard-medevacs-woman-off-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-972202",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:05:59Z",
+  "duration": 66.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111200242/DOD_111200242-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 71539204
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.18,
+    25.96,
+    36.14,
+    43.08,
+    51.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-972202.jpg",
+  "sheet_times": [
+    2.05,
+    6.14,
+    10.24,
+    14.34,
+    18.43,
+    22.53,
+    26.62,
+    30.72,
+    34.81,
+    38.91,
+    43.01,
+    47.1,
+    51.2,
+    55.29,
+    59.39,
+    63.48
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:93292",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Woman From Cruise Ship",
+  "description": "B-roll of the Coast Guard Sector San Diego rescuing a woman from a cruise ship with a MH-60 Jayhawk helicopter. Scenes include the crew hovering over the cruise ship, lowering rescue equipment from the helicopter and removing the woman from the helicopter once on land as she is moved to an ambulance. Produced by Petty Officer 3rd Class Henry Dunphy, Lt. John Filipowicz.",
+  "keywords": "MH-60 Jayhawk, Coast Guard rescue, sea rescue, cruise ship rescue, Coast Guard, California, San Diego, Cruise Ship",
+  "date": "2009-08-23T00:00:00-04:00",
+  "date_published": "2010-08-21T15:57:32-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "090823-G-0694D-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/93292/coast-guard-medevacs-woman-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.3043,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-93292",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:03:55Z",
+  "duration": 89.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1008/DOD_100079969/DOD_100079969.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3,
+    9.98,
+    16.25,
+    21.19,
+    34.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      54.2
+    ],
+    "silence_ends": [
+      4.3,
+      89.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-93292.jpg",
+  "sheet_times": [
+    6.95,
+    12.25,
+    17.55,
+    22.85,
+    28.14,
+    33.44,
+    38.74,
+    44.04,
+    49.34,
+    54.63,
+    59.93,
+    65.23,
+    70.53,
+    75.82,
+    81.12,
+    86.42
+  ]
+}
