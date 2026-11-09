@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:314544",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "090908-G-0694D-medevac",
+  "description": "SAN DIEGO - The Coast Guard medically evacuated a 26-year-old man from a cruise ship four miles off the coast of San Diego Tuesday, Sept. 8, 2009. Video by Petty Officer 3rd Class Henry G. Dunphy, U.S. Coast Guard.",
+  "keywords": "CGVI",
+  "date": "2009-09-08T19:22:34-04:00",
+  "date_published": "2013-12-17T12:04:14-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314544/090908-g-0694d-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314544",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:51:36Z",
+  "duration": 49.13,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055432/DOD_101055432.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4354,
+    "size": 29891396
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    30.7,
+    44.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      44.2
+    ],
+    "silence_ends": [
+      5.1,
+      49.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314544.jpg",
+  "sheet_times": [
+    1.52,
+    4.56,
+    7.6,
+    10.64,
+    13.68,
+    16.72,
+    19.76,
+    22.8,
+    25.84,
+    28.88,
+    31.92,
+    34.96,
+    37.99,
+    41.03,
+    44.07,
+    47.11
+  ]
+}

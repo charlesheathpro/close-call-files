@@ -1,0 +1,134 @@
+{
+  "asset_id": "video:317363",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac from Queen Mary 2",
+  "description": "PORTSMOUTH, Va. - The crew aboard a Coast Guard MH-60 Jayhawk helicopter medevacs a woman with severe abdominal pain after receiving a call for assistance from the cruise ship Queen Mary 2, 110 miles east of Nags Head, N.C., Dec. 20, 2011. The crew from Coast Guard Air Station Elizabeth City took the woman from the ship to Norfolk Sentara General Hospital in Norfolk. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2011-12-21T18:42:17-05:00",
+  "date_published": "2013-12-21T18:21:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317363/medevac-queen-mary-2",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317363",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:53:41Z",
+  "duration": 115.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062274/DOD_101062274.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2000,
+    "size": 30672302
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.2,
+      "e": 15.52,
+      "text": "We're trying to radio and we'll be monitoring your health into unit 4, we've been keeping"
+    },
+    {
+      "s": 15.52,
+      "e": 20.04,
+      "text": "up here, transit's on unit 4, we're about 35 miles from unit 4, we're currently building"
+    },
+    {
+      "s": 20.04,
+      "e": 21.04,
+      "text": "so happy."
+    },
+    {
+      "s": 21.04,
+      "e": 22.04,
+      "text": "Good copy."
+    },
+    {
+      "s": 22.04,
+      "e": 31.2,
+      "text": "So good, hurry, there."
+    },
+    {
+      "s": 31.2,
+      "e": 32.2,
+      "text": "There."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    79.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      23.4,
+      32.0,
+      37.5,
+      46.7,
+      51.6,
+      57.9,
+      63.1,
+      68.0,
+      70.2,
+      72.3,
+      76.4,
+      78.8,
+      83.2,
+      89.4,
+      96.6
+    ],
+    "silence_ends": [
+      5.1,
+      28.1,
+      35.7,
+      41.6,
+      49.7,
+      52.2,
+      59.9,
+      65.6,
+      69.1,
+      71.2,
+      73.1,
+      77.2,
+      80.9,
+      84.7,
+      95.5,
+      115.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317363.jpg",
+  "sheet_times": [
+    3.58,
+    10.74,
+    17.9,
+    25.06,
+    32.22,
+    39.38,
+    46.54,
+    53.7,
+    60.86,
+    68.02,
+    75.18,
+    82.34,
+    89.49,
+    96.65,
+    103.81,
+    110.97
+  ]
+}

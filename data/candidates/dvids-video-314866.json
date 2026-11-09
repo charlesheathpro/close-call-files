@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:314866",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "100129-G-0694D-MEDEVAC",
+  "description": "SAN DIEGO -- An MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego medically evacuated a 78-year-old man who was suffering from heart attack symptoms from a cruise ship 300 miles south of San Diego, Friday, Jan. 29, 2010. \nThe man was hoisted from the cruise ship and transported to Sector San Diego, where he was transferred to emergency medical personnel. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2010-01-29T12:59:20-05:00",
+  "date_published": "2013-12-17T16:55:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314866/100129-g-0694d-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314866",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:51:05Z",
+  "duration": 130.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056039/DOD_101056039.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4204,
+    "size": 69749476
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.05,
+    52.39,
+    65.63,
+    92.73,
+    125.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      52.4
+    ],
+    "silence_ends": [
+      5.0,
+      130.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314866.jpg",
+  "sheet_times": [
+    4.06,
+    12.18,
+    20.3,
+    28.41,
+    36.53,
+    44.65,
+    52.77,
+    60.89,
+    69.0,
+    77.12,
+    85.24,
+    93.36,
+    101.48,
+    109.59,
+    117.71,
+    125.83
+  ]
+}

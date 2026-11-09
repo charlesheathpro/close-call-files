@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:316312",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard-aircrew-medevacs-1",
+  "description": "Ocean City, Md. - A Coast Guard aircrew from Air Station Atlantic City, N.J., medevaced a 61-year-old man from a fishing boat 65 miles east of Ocean City suffering from shortness of breath due to asthma. He was transported to Atlantic General Hospital in Berlin, Md., for treatment. (Coast Guard video/Lt. Erin Boyle)",
+  "keywords": "CGVI",
+  "date": "2010-02-22T18:57:01-05:00",
+  "date_published": "2013-12-20T03:28:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Ocean City",
+    "state": "Maryland",
+    "country": "United States",
+    "state_abbreviation": "MD",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316312/coast-guard-aircrew-medevacs-1",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 2.4024,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316312",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:53:57Z",
+  "duration": 100.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101059838/DOD_101059838-720x480-782k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 782,
+    "size": 13851832
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    22.49,
+    27.49,
+    48.01,
+    48.05,
+    48.08,
+    52.35,
+    52.39,
+    52.42,
+    52.45,
+    77.98
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      78.0
+    ],
+    "silence_ends": [
+      27.6,
+      100.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316312.jpg",
+  "sheet_times": [
+    5.45,
+    11.55,
+    17.65,
+    23.74,
+    29.84,
+    35.94,
+    42.04,
+    48.14,
+    54.23,
+    60.33,
+    66.43,
+    72.53,
+    78.62,
+    84.72,
+    90.82,
+    96.92
+  ]
+}

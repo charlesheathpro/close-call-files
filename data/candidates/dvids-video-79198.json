@@ -1,0 +1,115 @@
+{
+  "asset_id": "video:79198",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Stellar Harvest Medevac, Part 1",
+  "description": "B-roll of the Coast Guard evacuating a man from Stellar Harvest. Scenes include crew lowering the basket and lifting the patient into the helicopter. Part 1 of 2.",
+  "keywords": "Stellar Harvest",
+  "date": "2010-02-13T00:00:00-05:00",
+  "date_published": "2010-02-15T04:51:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Monica Leftwich",
+  "category": "B-Roll",
+  "virin": "100213-G-0000A-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/79198/stellar-harvest-medevac-part-1",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-79198",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:53:21Z",
+  "duration": 161.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1002/DOD_100064014/DOD_100064014.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.68,
+      "e": 12.68,
+      "text": "Basket's going outside the cabin. Basket's outside the cabin, go down. Basket's below the aircraft."
+    },
+    {
+      "s": 12.68,
+      "e": 22.06,
+      "text": "It's halfway down. Oat. Basket is on deck."
+    },
+    {
+      "s": 22.06,
+      "e": 26.68,
+      "text": "20 clear, coming back."
+    },
+    {
+      "s": 26.68,
+      "e": 37.59,
+      "text": "We need a patient to the basket. Still coming anywhere with a S-Mac."
+    },
+    {
+      "s": 37.59,
+      "e": 64.33,
+      "text": "All right, there's a patient on these. Also bored, getting over to the basket. Easy back."
+    },
+    {
+      "s": 64.33,
+      "e": 100.38,
+      "text": "Patients getting their basket. Basket's full. They're still getting the patient in the basket."
+    },
+    {
+      "s": 100.38,
+      "e": 117.84,
+      "text": "They're getting ramped up at a blanket. They keep running."
+    },
+    {
+      "s": 117.84,
+      "e": 119.84,
+      "text": "Easy back. Basket."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      122.7
+    ],
+    "silence_ends": [
+      4.4,
+      161.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-79198.jpg",
+  "sheet_times": [
+    8.92,
+    18.76,
+    28.59,
+    38.43,
+    48.27,
+    58.1,
+    67.94,
+    77.77,
+    87.61,
+    97.45,
+    107.28,
+    117.12,
+    126.95,
+    136.79,
+    146.63,
+    156.46
+  ]
+}
