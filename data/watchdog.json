@@ -1,22 +1,16 @@
 {
-  "at": "2026-11-08T16:22:00Z",
+  "at": "2026-11-09T00:42:00Z",
   "healthy": false,
-  "numbers": {
-    "uploaded": 102,
-    "dropped": 44,
-    "passed": 1,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 5
-  },
+  "numbers": {"uploaded": 104, "dropped": 44, "needs_qa": 5, "passed": 0, "needs_build": 0, "scheduled_48h": 4},
   "found": [
-    "buffer thin: 4 scheduled in the next 48 h, 0 passed, nothing in build or QA",
-    "no upload run had landed since 09:27Z and today's harvest never ran (GitHub skipped scheduled runs)",
-    "upload_error alerts 09:09 to 10:12Z were 504s fetching render MP4s from the release; the 4 Shorts went up on retry, so no action",
-    "3 specs still parked on editor-hold-20261108 for repeat spacing (merge Nov 9)"
+    "buffer thin: 4 scheduled in the next 48 h, nothing passed, 5 in QA",
+    "upload, harvest and stats runs all landed on time; upload_error alerts at 09:09 to 10:12Z Nov 8 were transient 504s on release downloads and those Shorts went up on retry",
+    "no repeated build errors",
+    "good new candidates are scarce: the rescue lane's remaining 1080p clips are mostly routine hoists, murky night door-cam or supply drops"
   ],
   "fixed": [
-    "pushed triggers/upload and an archive harvest; upload ran at 16:14Z (nothing waiting), harvest in progress",
-    "editor pass: wrote ccf-20261108-11 (boat sinking stern first, Puget Sound; passed 7, uploaded for Nov 9 12:00Z) and ccf-20261108-12 (81-year-old swept into a flooded river, Cal Guard hoist; passed 8); 15 candidates passed over; 314555 boat fire held to Nov 12"
+    "QA: passed 08-22, fixed and passed 08-23 (r2) and 08-24 (r2); dropped 08-21 and 08-25",
+    "merged held spec 08-02 (Rose Marie sinks) from editor-hold-20261108, built and passed; 08-01 (upside down hull) and 08-03 (boat fire, raft) stay on the branch because they repeat Shorts publishing Nov 9",
+    "7 candidates passed over; pushed an archive harvest to dig up more footage"
   ]
 }
