@@ -9,11 +9,9 @@
   "narration": [
     "This tower once tested fully assembled Saturn V moon rockets. Then it came down.",
     "It was the Dynamic Test Stand at NASA's Marshall Space Flight Center in Huntsville, Alabama, built in 1964.",
-    "In 1978, engineers put all the space shuttle elements together there for the first time.",
-    "Nearby stood the T-tower, built in 1957 by the Army Ballistic Missile Agency.",
-    "Its tests helped develop the Saturn family of rockets, and it last fired shuttle solid rocket motors in the 1990s.",
+    "Nearby stood the T-tower, built in 1957 by the Army Ballistic Missile Agency. Its tests helped develop the Saturn family of rockets.",
     "In an implosion, small charges cut the key supports in sequence, so gravity pulls the structure down into its own footprint.",
-    "On January tenth, 2026, the T-tower went first.",
+    "On January tenth, 2026, the charges fired at the T-tower.",
     "Its steel frame dropped straight down into its own dust.",
     "[short pause] Then the charges went off inside the Dynamic Test Stand."
   ],
@@ -69,12 +67,12 @@
       "source_quote": "initially was used to test fully assembled Saturn V rockets"
     },
     {
-      "claim": "Shuttle elements integrated there for the first time in 1978",
-      "source_quote": "In 1978, engineers integrated all space shuttle elements for the first time"
+      "claim": "T-tower built 1957 by ABMA; its tests helped develop the Saturn family",
+      "source_quote": "was built in 1957 by the U.S. Army Ballistic Missile Agency."
     },
     {
-      "claim": "T-tower built 1957 by ABMA, Saturn development, last used for shuttle SRM tests in the 1990s",
-      "source_quote": "It was last used for space shuttle solid rocket motor tests in the 1990s."
+      "claim": "Saturn development",
+      "source_quote": "The tests and data played a role in the development of the Saturn family of rockets."
     },
     {
       "claim": "Part of building a campus for the next era",
@@ -118,20 +116,6 @@
     ],
     [
       {
-        "start": 128.0,
-        "end": 130.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 131.0,
-        "end": 133.6,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
         "start": 8.5,
         "end": 11.0,
         "layout": "crop",
@@ -142,24 +126,10 @@
         "end": 33.0,
         "layout": "crop",
         "crop_x": 0.5
-      }
-    ],
-    [
+      },
       {
         "start": 51.0,
         "end": 53.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 53.5,
-        "end": 56.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 11.2,
-        "end": 13.7,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -253,5 +223,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }
