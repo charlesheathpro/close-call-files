@@ -11,7 +11,7 @@
     "Thirty miles west of Cape Flattery, Washington, a crewman aboard was hurt.",
     "Canadian rescuers in Victoria called the U.S. Coast Guard for help.",
     "A Dolphin helicopter flew out from Port Angeles into winds of up to fifty-three knots.",
-    "[short pause] A ship that big can't stop for a helicopter. So the pilot had to match its speed and hold steady over a deck that rose and fell with every swell.",
+    "[short pause] A ship that big keeps moving during a hoist. So the pilot had to match its speed and hold steady over a deck that rose and fell with every swell.",
     "Then the flight mechanic leaned out the door and ran the hoist cable down through the wind."
   ],
   "outcome": "And the Dolphin crew got the forty-five year old crewman off that ship.",
@@ -57,7 +57,7 @@
       "source_quote": "Weather conditions on scene consisted of sustained winds of up to 53 knots and swells of 20-25 feet."
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -123,10 +123,10 @@
     ],
     [
       {
-        "start": 8.5,
-        "end": 11.0,
+        "start": 72.0,
+        "end": 74.5,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.45
       },
       {
         "start": 90.5,
@@ -169,14 +169,14 @@
     ],
     [
       {
-        "start": 55.5,
-        "end": 58.0,
+        "start": 1.5,
+        "end": 4.5,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.45
       },
       {
-        "start": 61.5,
-        "end": 64.0,
+        "start": 41.3,
+        "end": 43.3,
         "layout": "crop",
         "crop_x": 0.5
       }
