@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:566744",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs 3 People After Vessel Strikes Barge",
+  "description": "The Coast Guard medevaced three people whose vessel struck a barge near Bayou Segnette, Louisiana, November 19, 2017. A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter aircrew hoisted three of the survivors and transported them to West Jefferson Medical Hospital. (U.S. Coast Guard video)",
+  "keywords": "hoist, Air Station, Bayou Segnette, helicopter, Coast Guard, medevac, Louisiana, New Orleans",
+  "date": "2017-11-18T00:00:00-05:00",
+  "date_published": "2017-11-19T12:09:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Brandon Giles",
+  "category": "B-Roll",
+  "virin": "171119-G-LB502-2001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/566744/coast-guard-medevacs-3-people-after-vessel-strikes-barge",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 18.6853,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-566744",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:06:21Z",
+  "duration": 33.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105093050/DOD_105093050-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6154,
+    "size": 26258755
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.81,
+    7.67,
+    16.72,
+    18.69,
+    25.43,
+    27.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-566744.jpg",
+  "sheet_times": [
+    19.13,
+    20.02,
+    20.9,
+    21.79,
+    22.68,
+    23.57,
+    24.45,
+    25.34,
+    26.23,
+    27.12,
+    28.01,
+    28.89,
+    29.78,
+    30.67,
+    31.56,
+    32.44
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:396602",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Heart Attack Patient off Galveston, Texas",
+  "description": "Air Station Houston's MH-65D helicopter crew hoists a rescue swimmer to an offshore supply vessel 5 miles off Galveston, Texas, to assess the condition of a man with heart attack symptoms March 28, 2015. They landed the helicopter to pickup the man and delivered him to the University of Texas Medical Branch in Galveston for treatment. U.S. Coast Guard video.",
+  "keywords": "Coast Guard rescue, osv, AirSta., UTMB, medevac, USCG",
+  "date": "2015-03-28T00:00:00-04:00",
+  "date_published": "2015-03-28T18:41:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150328-G-XX999-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/396602/coast-guard-medevacs-heart-attack-patient-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-396602",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:09:58Z",
+  "duration": 99.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102330176/DOD_102330176.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9643,
+    "size": 121768677
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.57,
+    5.07,
+    26.89
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      100.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-396602.jpg",
+  "sheet_times": [
+    3.11,
+    9.33,
+    15.54,
+    21.76,
+    27.98,
+    34.2,
+    40.42,
+    46.63,
+    52.85,
+    59.07,
+    65.29,
+    71.5,
+    77.72,
+    83.94,
+    90.16,
+    96.38
+  ]
+}

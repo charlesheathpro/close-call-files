@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:810829",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs fisherman 65 miles east of Virginia Beach",
+  "description": "A Coast Guard aircrew medevacs a 46-year-old man reportedly suffering from symptoms of a heart attack approximately 65 miles east of Virginia Beach, Aug. 21, 2021. The man was hoisted aboard the rescue helicopter by the Coast Guard aircrew and transported to Sentara Hospital in Norfolk, Virginia for medical care. U.S. Coast Guard video.",
+  "keywords": "SAR, search and rescue, USCG",
+  "date": "2021-08-21T00:00:00-04:00",
+  "date_published": "2021-08-21T18:47:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210821-G-ZZ999-001",
+  "location": {
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/810829/coast-guard-medevacs-fisherman-65-miles-east-virginia-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-810829",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:08:37Z",
+  "duration": 104.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2108/DOD_108525988/DOD_108525988.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9837,
+    "size": 128519414
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    44.34,
+    86.45
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      86.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-810829.jpg",
+  "sheet_times": [
+    3.24,
+    9.72,
+    16.2,
+    22.68,
+    29.16,
+    35.64,
+    42.12,
+    48.61,
+    55.09,
+    61.57,
+    68.05,
+    74.53,
+    81.01,
+    87.49,
+    93.97,
+    100.45
+  ]
+}

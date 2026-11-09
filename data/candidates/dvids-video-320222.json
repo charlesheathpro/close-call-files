@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:320222",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Man From Sailboat Beset by Weather",
+  "description": "A Coast Guard helicopter crew from Air Station Corpus Christi, Texas, rescued a 50-year-old man from a sinking sailboat 20 miles offshore of Baffin Bay, Jan. 24, 2014. The aircrew hoisted the man from his sailboat, which was beset by 11-foot waves. U.S. Coast Guard video.",
+  "keywords": "hoist, Air Station, air crew, Baffin Bay, 65, 50 year old man, helicopter, Coast Guard, SAR, search and rescue, Corpus Christi, USCG, helo, dolphin",
+  "date": "2014-01-24T00:00:00-05:00",
+  "date_published": "2014-01-25T00:52:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 2nd Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "140124-G-ZZ999-001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/320222/coast-guard-rescues-man-sailboat-beset-weather",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-320222",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:06:36Z",
+  "duration": 84.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101093232/DOD_101093232.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5979,
+    "size": 65995154
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    42.84,
+    64.83,
+    77.91
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      41.3
+    ],
+    "silence_ends": [
+      65.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-320222.jpg",
+  "sheet_times": [
+    2.61,
+    7.83,
+    13.05,
+    18.27,
+    23.49,
+    28.71,
+    33.93,
+    39.16,
+    44.38,
+    49.6,
+    54.82,
+    60.04,
+    65.26,
+    70.48,
+    75.7,
+    80.92
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:394484",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues 2 People from Aground Sailboat near Bean Point, Fla.",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, rescues 2 people after their 27-foot sailboat ran aground near Bean Point, Florida, March 12, 2015. The helicopter crew hoisted the people and transported them to Tampa (Florida) General Hospital for further medical assistance. U.S. Coast Guard video.",
+  "keywords": "MH-60 Jayhawk, sailboat, Coast Guard rescue, AIR STATION CLEARWATER, aground, Tampa General Hospital, Bean Point, Coast Guard, USCG, FL",
+  "date": "2015-03-12T00:00:00-04:00",
+  "date_published": "2015-03-13T12:34:44-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150312-G-ZZ999-001",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/394484/coast-guard-rescues-2-people-aground-sailboat-near-bean-point-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-394484",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:07:15Z",
+  "duration": 51.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102291383/DOD_102291383.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 6616,
+    "size": 42743362
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    34.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      51.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-394484.jpg",
+  "sheet_times": [
+    5.5,
+    8.44,
+    11.38,
+    14.33,
+    17.27,
+    20.21,
+    23.16,
+    26.1,
+    29.04,
+    31.99,
+    34.93,
+    37.87,
+    40.82,
+    43.76,
+    46.7,
+    49.65
+  ]
+}

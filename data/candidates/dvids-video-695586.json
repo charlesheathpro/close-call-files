@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:695586",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs boat captain 80 miles west of St. Petersburg ",
+  "description": "A Coast Guard Air Station Clearwater aircrew hoists a 59 year-old-man from a fishing vessel after he was reportedly experiencing heart attack like symptoms 80 miles west of St. Petersburg, Florida, July 9, 2019. The man was airlifted to Tampa General Hospital in stable condition. U.S. Coast Guard video",
+  "keywords": "hoist, Coast Guard, medevac, SAR, rescue, USCG",
+  "date": "2019-07-09T00:00:00-04:00",
+  "date_published": "2019-07-09T16:56:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "190709-G-QD712-549",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/695586/coast-guard-medevacs-boat-captain-80-miles-west-st-petersburg",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-695586",
+  "status": "new",
+  "harvested_at": "2026-11-09T01:09:00Z",
+  "duration": 37.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1907/DOD_106994982/DOD_106994982.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10095,
+    "size": 47928499
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      37.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-695586.jpg",
+  "sheet_times": [
+    1.17,
+    3.51,
+    5.85,
+    8.19,
+    10.53,
+    12.87,
+    15.21,
+    17.55,
+    19.89,
+    22.23,
+    24.57,
+    26.91,
+    29.25,
+    31.59,
+    33.93,
+    36.27
+  ]
+}
