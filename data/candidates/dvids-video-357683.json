@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:357683",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Station Cape May medevac",
+  "description": "Crew members from Coast Guard Station Cape May, N.J., render assistance to a choking victim Wednesday, Aug. 27, 2014, off Cape May. The Coast Guard administered oxygen to the 61-year-old woman aboard the 65-foot Canyon Lady, homeported in Cape May. U.S. Coast Guard video by Petty Officer 1st Class Nick Ameen. Also available in high definition.",
+  "keywords": "Week in the Life 2014, SAR Search Rescue EMT, High Definition",
+  "date": "2014-08-27T00:00:00-04:00",
+  "date_published": "2014-08-28T09:21:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Nick Ameen",
+  "category": "B-Roll",
+  "virin": "140827-G-ZE884-401",
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/357683/station-cape-may-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-357683",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:41:28Z",
+  "duration": 33.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101915942/DOD_101915942.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9155,
+    "size": 38332090
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    10.28,
+    17.75,
+    23.02
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      1.0,
+      2.0
+    ],
+    "silence_ends": [
+      1.0,
+      2.0,
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-357683.jpg",
+  "sheet_times": [
+    4.92,
+    6.7,
+    8.48,
+    10.26,
+    12.05,
+    13.83,
+    15.61,
+    17.39,
+    19.18,
+    20.96,
+    22.74,
+    24.52,
+    26.31,
+    28.09,
+    29.87,
+    31.65
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:753812",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard aircrew rescues 2 from aground houseboat in Napa River",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin hoists two men from an aground houseboat in Napa River, California. Napa Police Department contacted Coast Guard Sector San Francisco command center at approximately 6 a.m reporting a houseboat had run aground with two men aboard. (U.S. Coast Guard courtesy photo /Released)",
+  "keywords": "Air Station, Napa, SAR, San Francisco",
+  "date": "2020-05-22T00:00:00-04:00",
+  "date_published": "2020-05-22T19:46:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Seaman Ryan Estrada",
+  "category": "B-Roll",
+  "virin": "200522-G-AB676-676",
+  "location": {
+    "city": "Alameda",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/753812/coast-guard-aircrew-rescues-2-aground-houseboat-napa-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-753812",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:40:36Z",
+  "duration": 165.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2005/DOD_107826877/DOD_107826877.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10022,
+    "size": 210209260
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    54.62,
+    81.88,
+    127.56
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      165.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-753812.jpg",
+  "sheet_times": [
+    5.16,
+    15.47,
+    25.79,
+    36.1,
+    46.42,
+    56.73,
+    67.05,
+    77.37,
+    87.68,
+    98.0,
+    108.31,
+    118.63,
+    128.94,
+    139.26,
+    149.57,
+    159.89
+  ]
+}

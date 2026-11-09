@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:722769",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues kayaker off the coast of Pigeon Point Light House",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew, based out of Air Station San Francisco, hoists a stranded kayaker off the coast of northern California, Nov. 17, 2019. The aircrew deployed the rescue swimmer to evaluate the kayaker stuck offshore in 20-25 knot winds and 6-to-8 foot seas. (U.S. Coast Guard video by Air Station San Francisco)",
+  "keywords": "hoist, kayak, swimmer, helicopter, Coast Guard, SAR, rescue, San Francisco",
+  "date": "2019-11-17T00:00:00-05:00",
+  "date_published": "2019-11-18T15:02:18-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191118-G-G0211-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/722769/coast-guard-rescues-kayaker-off-coast-pigeon-point-light-house",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-722769",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:40:44Z",
+  "duration": 83.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1911/DOD_107449410/DOD_107449410.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10061,
+    "size": 106246477
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    56.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-722769.jpg",
+  "sheet_times": [
+    2.59,
+    7.77,
+    12.95,
+    18.13,
+    23.31,
+    28.49,
+    33.67,
+    38.85,
+    44.02,
+    49.2,
+    54.38,
+    59.56,
+    64.74,
+    69.92,
+    75.1,
+    80.28
+  ]
+}

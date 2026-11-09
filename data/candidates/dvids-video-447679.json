@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:447679",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Fishing Boat Starbrite Medevac",
+  "description": "A helicopter crew from Coast Guard Air Station Atlantic City, N.J., medevacs a fisherman Thursday, Jan. 28, 2016, 75 miles southeast of Cape May. The 43-year-old man was fishing with three other people aboard the 80-foot fishing boat Starbrite when he started experiencing difficulty breathing and numbness of his extremities. U.S. Coast Guard video",
+  "keywords": "Coast Guard rescue, helicopter, medevac, SAR",
+  "date": "2016-01-28T00:00:00-05:00",
+  "date_published": "2016-01-28T19:27:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Chief Petty Officer Nick Ameen",
+  "category": "B-Roll",
+  "virin": "160128-G-ZE884-001",
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/447679/fishing-boat-starbrite-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-447679",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:41:26Z",
+  "duration": 84.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_103008049/DOD_103008049.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7954,
+    "size": 83632120
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    8.17,
+    30.3,
+    52.15,
+    79.05
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      84.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-447679.jpg",
+  "sheet_times": [
+    6.51,
+    11.48,
+    16.44,
+    21.41,
+    26.38,
+    31.35,
+    36.32,
+    41.28,
+    46.25,
+    51.22,
+    56.19,
+    61.15,
+    66.12,
+    71.09,
+    76.06,
+    81.03
+  ]
+}

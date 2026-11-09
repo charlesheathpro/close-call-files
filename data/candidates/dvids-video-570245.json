@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:570245",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues two boaters from aground boat near Alviso, California",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station San Francisco hoists two boaters after their vessel became grounded near the entrance to Alviso Slough near Alviso, Calif., Dec. 3, 2017. The operator of the boat remained behind and waited for high tide to refloat the boat and was able to moor at Alviso Marina. (U.S. Coast Guard video)",
+  "keywords": "hoist, Coast Guard, SAR, San Francisco",
+  "date": "2017-12-03T00:00:00-05:00",
+  "date_published": "2017-12-04T12:21:37-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171203-G-G0211-1001",
+  "location": {
+    "city": "Alviso",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/570245/coast-guard-rescues-two-boaters-aground-boat-near-alviso-california",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-570245",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:40:49Z",
+  "duration": 33.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105132440/DOD_105132440.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10192,
+    "size": 42643451
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.52,
+    19.32
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-570245.jpg",
+  "sheet_times": [
+    1.03,
+    3.09,
+    5.15,
+    7.21,
+    9.27,
+    11.33,
+    13.39,
+    15.45,
+    17.5,
+    19.56,
+    21.62,
+    23.68,
+    25.74,
+    27.8,
+    29.86,
+    31.92
+  ]
+}
