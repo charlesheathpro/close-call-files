@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-391343",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:31:58Z",
   "duration": 55.46,
   "source_file": {
@@ -69,5 +69,6 @@
     47.0,
     50.18,
     53.36
-  ]
+  ],
+  "pass_reason": "grainy black-and-white FLIR, survivors are specks"
 }

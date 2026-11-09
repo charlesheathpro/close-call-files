@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "splashdown",
   "title": "Artemis I Orion Splashdown Recovery",
-  "description": "At 12:40 p.m. EST, Dec. 11, 2022, NASA’s Orion spacecraft for the Artemis I mission splashed down in the Pacific Ocean after a 25.5 day mission to the Moon. Seen here is NASA’s Landing and Recovery team, U.S. Navy and Department of Defense partners recovering the Orion spacecraft aboard the USS Portland off the coast of California.",
+  "description": "At 12:40 p.m. EST, Dec. 11, 2022, NASA\u2019s Orion spacecraft for the Artemis I mission splashed down in the Pacific Ocean after a 25.5 day mission to the Moon. Seen here is NASA\u2019s Landing and Recovery team, U.S. Navy and Department of Defense partners recovering the Orion spacecraft aboard the USS Portland off the coast of California.",
   "keywords": "Artemis, Orion, Moon, Splashdown, deep space, recovery, NASA Recovery Team, Melissa Jones, Navy, NASA Recovery Director, Artemis I Resource Reel",
   "date": "2022-12-11T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221211-VP-MWC01-001-ARTEMIS-SPLASHDOWN-RECOVERY-3312491",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:40:07Z",
   "duration": 86.33,
   "source_file": {
@@ -73,5 +73,6 @@
     72.42,
     77.79,
     83.15
-  ]
+  ],
+  "pass_reason": "same event as ccf-20261030-11"
 }

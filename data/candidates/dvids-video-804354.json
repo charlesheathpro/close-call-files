@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-804354",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:36:42Z",
   "duration": 108.16,
   "source_file": {
@@ -115,5 +115,6 @@
     97.57,
     104.3
   ],
-  "editor_note": "HOLD until about Nov 12: flipped skiff in a glacier river (strong FLIR 3 to 22 s), but capsized-hull Shorts are queued (07-62, held 08-01) and the hoist half is color-noisy door-cam. Keep it short, mostly FLIR."
+  "editor_note": "HOLD until about Nov 12: flipped skiff in a glacier river (strong FLIR 3 to 22 s), but capsized-hull Shorts are queued (07-62, held 08-01) and the hoist half is color-noisy door-cam. Keep it short, mostly FLIR.",
+  "pass_reason": "20 s of raft footage, rest noisy sandbar door-cam"
 }

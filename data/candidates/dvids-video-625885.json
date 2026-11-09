@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-625885",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:31:39Z",
   "duration": 86.1,
   "source_file": {
@@ -102,5 +102,6 @@
     72.22,
     77.57,
     82.92
-  ]
+  ],
+  "pass_reason": "video shot by a local fire department team (CA-TF2), not federal"
 }

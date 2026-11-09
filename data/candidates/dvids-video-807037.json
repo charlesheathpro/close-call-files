@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "Coast Guard rescues 3 mariners 20 miles off Portsmouth, New Hampshire",
-  "description": "The Coast Guard successfully rescued three mariners 20 nautical miles off Portsmouth, New Hampshire, July 16, 2021.\r\nThe three men were safely hoisted and brought back to Pease Air National Guard Base where EMS was waiting. No injuries reported. (U.S Coast Guard Air Station Cape Cod video/Released",
+  "description": "The Coast Guard successfully rescued three mariners 20 nautical miles\u00a0off Portsmouth, New Hampshire, July 16, 2021.\r\nThe three men were safely hoisted and brought back to Pease Air National Guard Base where EMS was waiting. No injuries reported. (U.S Coast Guard Air Station Cape Cod video/Released",
   "keywords": "hoist, Triad, CoastGuardNewsWire, rescue",
   "date": "2021-07-16T00:00:00-04:00",
   "date_published": "2021-07-16T22:11:05-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-807037",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:12:34Z",
   "duration": 59.33,
   "source_file": {
@@ -74,5 +74,6 @@
     49.64,
     53.31,
     56.99
-  ]
+  ],
+  "pass_reason": "calm door-cam; release does not say what went wrong"
 }

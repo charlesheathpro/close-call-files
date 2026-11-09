@@ -26,7 +26,7 @@
   "time_start": 4.4591,
   "aspect_ratio": "16:9",
   "id": "dvids-video-386026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:51:09Z",
   "duration": 134.35,
   "source_file": {
@@ -71,5 +71,6 @@
     113.63,
     121.72,
     129.81
-  ]
+  ],
+  "pass_reason": "black-and-white door-cam on calm water"
 }

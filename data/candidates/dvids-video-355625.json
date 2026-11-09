@@ -26,7 +26,7 @@
   "time_start": 4.21727,
   "aspect_ratio": "4:3",
   "id": "dvids-video-355625",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:03:10Z",
   "duration": 145.17,
   "source_file": {
@@ -210,5 +210,6 @@
     122.73,
     131.51,
     140.28
-  ]
+  ],
+  "pass_reason": "only ~30 s of rock footage, rest murky door-cam and cabin; rock stranding format tested weak"
 }

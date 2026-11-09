@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-924493",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:58:33Z",
   "duration": 28.23,
   "source_file": {
@@ -71,5 +71,6 @@
     23.4,
     25.13,
     26.86
-  ]
+  ],
+  "pass_reason": "28 s, calm, thin release"
 }

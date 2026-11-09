@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-695919",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:59:45Z",
   "duration": 167.37,
   "source_file": {
@@ -173,5 +173,6 @@
     140.8,
     151.23,
     161.65
-  ]
+  ],
+  "pass_reason": "calm door-cam basket hoist"
 }

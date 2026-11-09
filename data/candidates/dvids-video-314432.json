@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314432",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:51:47Z",
   "duration": 86.45,
   "source_file": {
@@ -112,5 +112,6 @@
     72.52,
     77.89,
     83.26
-  ]
+  ],
+  "pass_reason": "calm door-cam, soft 480p"
 }
