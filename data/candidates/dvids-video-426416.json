@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:426416",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues One Injured Boater, Two Others off Myrtle Beach, South Carolina Coast",
+  "description": "Three boaters aboard a damaged 45-foot boat were rescued by a Coast Guard aircrew approximately 11 miles east of Myrtle Beach, Oct. 2, 2015. All three boaters were hoisted and taken back to shore. U.S. Coast Guard video",
+  "keywords": "hoist, Coast Guard rescue, Myrtle Beach, Station Georgetown, helicopter, rescue",
+  "date": "2015-10-02T00:00:00-04:00",
+  "date_published": "2015-10-02T17:32:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151002-G-AB001-002",
+  "location": {
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/426416/coast-guard-rescues-one-injured-boater-two-others-off-myrtle-beach-south-carolina-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.2589,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-426416",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:32:05Z",
+  "duration": 36.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102772931/DOD_102772931.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 6761,
+    "size": 31035002
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.24,
+    19.25,
+    32.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-426416.jpg",
+  "sheet_times": [
+    5.24,
+    7.2,
+    9.17,
+    11.13,
+    13.1,
+    15.06,
+    17.02,
+    18.99,
+    20.95,
+    22.92,
+    24.88,
+    26.84,
+    28.81,
+    30.77,
+    32.74,
+    34.7
+  ]
+}

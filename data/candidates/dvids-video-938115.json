@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:938115",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs 32-year-old man from fishing vessel near San Clemente Island",
+  "description": "A Coast Guard helicopter aircrew medically evacuates an 32-year-old male off the commercial fishing vessel Legacy approximately 1 mile west of San Clemente Island, California on Sept. 25, 2024. The aircrew arrived on-scene, hoisted the passenger into the helicopter, and transferred him to awaiting emergency medical services at Sector San Diego. (U.S. Coast Guard video)",
+  "keywords": "California Coast, coast guard california, CoastGuardNewsWire",
+  "date": "2024-09-25T00:00:00-04:00",
+  "date_published": "2024-09-26T20:59:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240925-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/938115/coast-guard-medevacs-32-year-old-man-fishing-vessel-near-san-clemente-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-938115",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:33:38Z",
+  "duration": 51.95,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110587121/DOD_110587121-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 54905365
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.98,
+      "e": 4.98,
+      "text": "Go check please."
+    },
+    {
+      "s": 4.98,
+      "e": 19.65,
+      "text": "Georgia clear to best."
+    },
+    {
+      "s": 19.65,
+      "e": 20.65,
+      "text": "Clear to the back."
+    },
+    {
+      "s": 20.65,
+      "e": 51.02,
+      "text": "Let's just go."
+    },
+    {
+      "s": 51.02,
+      "e": 52.02,
+      "text": "Alright, let's go."
+    }
+  ],
+  "scene_cuts": [
+    10.94,
+    21.76
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.4,
+      11.0,
+      13.7,
+      23.8,
+      29.7,
+      32.5,
+      35.2,
+      42.9,
+      43.6,
+      48.3
+    ],
+    "silence_ends": [
+      4.2,
+      9.2,
+      11.8,
+      14.5,
+      24.8,
+      31.4,
+      33.1,
+      36.1,
+      43.5,
+      45.6,
+      49.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-938115.jpg",
+  "sheet_times": [
+    1.61,
+    4.82,
+    8.04,
+    11.26,
+    14.47,
+    17.69,
+    20.9,
+    24.12,
+    27.33,
+    30.55,
+    33.77,
+    36.98,
+    40.2,
+    43.41,
+    46.63,
+    49.84
+  ]
+}

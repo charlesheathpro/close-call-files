@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:362536",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Barbers Point rescue",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger Near Oahu",
+  "description": "The Coast Guard medevacs a 76-year-old man being treated for internal bleeding from a cruise ship 80 miles north of Oahu, Sept. 23, 2014. An MH-65 Dolphin helicopter crew from Coast Guard Air Station Barbers Point safely hoisted the man from the cruise ship Carnival Miracle and transferred him to awaiting EMS at the Honolulu Airport. U.S. Coast Guard video.",
+  "keywords": "Melissa E. McKenzie, Coast Guard Air Station Barbers Point, Carnival Miracle, CG rescue",
+  "date": "2014-09-23T00:00:00-04:00",
+  "date_published": "2014-09-24T20:46:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Melissa McKenzie",
+  "category": "B-Roll",
+  "virin": "140924-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/362536/coast-guard-medevacs-cruise-ship-passenger-near-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-362536",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:31:07Z",
+  "duration": 171.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101967325/DOD_101967325.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 4894,
+    "size": 107244027
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.1,
+    10.31,
+    21.89,
+    87.69,
+    166.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      171.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-362536.jpg",
+  "sheet_times": [
+    5.34,
+    16.03,
+    26.72,
+    37.41,
+    48.1,
+    58.79,
+    69.48,
+    80.17,
+    90.85,
+    101.54,
+    112.23,
+    122.92,
+    133.61,
+    144.3,
+    154.99,
+    165.68
+  ]
+}

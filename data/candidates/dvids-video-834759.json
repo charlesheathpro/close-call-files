@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:834759",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs crew member from tanker vessel off Galveston, Texas",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Air Station Houston hoists an injured 26-year-old crew member from the tanker vessel Athina M off Galveston, Texas, March 14, 2022. The crew member had sustained a serious finger injury. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "Galveston, medevac, USCG, Air Station Houston",
+  "date": "2022-03-14T00:00:00-04:00",
+  "date_published": "2022-03-15T13:19:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220314-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/834759/coast-guard-medevacs-crew-member-tanker-vessel-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-834759",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:33:51Z",
+  "duration": 80.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108860319/DOD_108860319.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 102963848
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      80.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-834759.jpg",
+  "sheet_times": [
+    2.49,
+    7.46,
+    12.43,
+    17.41,
+    22.38,
+    27.36,
+    32.33,
+    37.3,
+    42.28,
+    47.25,
+    52.22,
+    57.2,
+    62.17,
+    67.15,
+    72.12,
+    77.09
+  ]
+}

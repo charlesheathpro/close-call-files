@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:441017",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard hoists sailor in distress in heavy-weather rescue",
+  "description": "An MH-65 Dolphin helicopter aircrew from Coast Guard Air Facility North Bend rescues a sailor in distress 17 miles off the Oregon coast, after the man was reportedly caught in 22-foot seas and wind gusts of up to 57 mph, Dec. 7, 2015\r\n\r\nCoast Guard officials in the Pacific Northwest urge mariners to take precautions in heavy weather conditions or to avoid going out to sea altogether.\r\n\r\nU.S. Coast Guard video by Air Station North Bend.",
+  "keywords": "hoist, distress, HEAVY WEATHER, search and rescue, Washington, Oregon",
+  "date": "2015-12-07T00:00:00-05:00",
+  "date_published": "2015-12-07T20:39:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Seaman Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "151207-G-LS785-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/441017/coast-guard-hoists-sailor-distress-heavy-weather-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-441017",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:31:49Z",
+  "duration": 68.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102932444/DOD_102932444.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8283,
+    "size": 70957568
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3,
+    63.36
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      68.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-441017.jpg",
+  "sheet_times": [
+    2.12,
+    6.37,
+    10.62,
+    14.87,
+    19.12,
+    23.37,
+    27.62,
+    31.87,
+    36.11,
+    40.36,
+    44.61,
+    48.86,
+    53.11,
+    57.36,
+    61.61,
+    65.86
+  ]
+}
