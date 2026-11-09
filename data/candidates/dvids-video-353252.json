@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:353252",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger",
+  "description": "An aircrew from U.S. Coast Guard Sector San Diego conducted a medical evacuation for a passenger that experienced symptoms of a heart attack aboard a cruise ship approximately 40 miles southwest of San Diego, Aug. 3, 2014.",
+  "keywords": "Jayhawk, Coast Guard rescue, medevac, San Diego, Cruise Ship",
+  "date": "2014-08-03T00:00:00-04:00",
+  "date_published": "2014-08-04T13:12:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140803-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/353252/coast-guard-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-353252",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:02:16Z",
+  "duration": 166.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101854232/DOD_101854232.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9131,
+    "size": 189774229
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      166.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-353252.jpg",
+  "sheet_times": [
+    9.06,
+    19.16,
+    29.27,
+    39.37,
+    49.48,
+    59.58,
+    69.69,
+    79.79,
+    89.9,
+    100.0,
+    110.11,
+    120.21,
+    130.32,
+    140.42,
+    150.53,
+    160.63
+  ]
+}

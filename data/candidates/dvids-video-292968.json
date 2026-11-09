@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:292968",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevac from Norwegian Gem",
+  "description": "Coast Guard medevacs possible stroke victim from cruise ship 70 miles offshore. Petty Officer 3rd Class David Weydert",
+  "keywords": "ELIZABETH CITY, Norwegian Gem, Coast Guard, medevac, North Carolina",
+  "date": "2013-06-09T00:00:00-04:00",
+  "date_published": "2013-06-10T13:11:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Weydert",
+  "category": "B-Roll",
+  "virin": "130609-G-ZV557-055",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/292968/coast-guard-medevac-norwegian-gem",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-292968",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:01:03Z",
+  "duration": 435.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1306/DOD_100834273/DOD_100834273-720x480-3000k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3000,
+    "size": 168226571
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    429.96
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      53.7,
+      55.1,
+      98.9,
+      100.4,
+      156.4,
+      157.8
+    ],
+    "silence_ends": [
+      53.7,
+      55.1,
+      98.9,
+      100.3,
+      156.3,
+      157.7,
+      435.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-292968.jpg",
+  "sheet_times": [
+    13.58,
+    40.74,
+    67.9,
+    95.05,
+    122.21,
+    149.37,
+    176.53,
+    203.69,
+    230.84,
+    258.0,
+    285.16,
+    312.32,
+    339.48,
+    366.63,
+    393.79,
+    420.95
+  ]
+}

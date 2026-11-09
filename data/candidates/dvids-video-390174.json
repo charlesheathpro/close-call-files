@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:390174",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevac from the Vessel Almasi",
+  "description": "Coast Guard Air Station Astoria, Ore., MH-60 Jayhawk helicopter crew safely medevacs three injured crewmembers from the commercial vessel Almasi, more than 50 miles off the Oregon Coast, Feb. 5, 2015.\r\n\r\nThe Jayhawk crew responded to provide medical assistance and evacuation of three crewmembers after he crew of the Almasi reported injuries, including chemical burns and a broken leg.\r\n\r\nU.S. Coast Guard video by Chief Petty Officer David Mosley.",
+  "keywords": "MH-60, Jayhawk, February, 2015, medevac, Oregon, Astoria",
+  "date": "2015-02-05T00:00:00-05:00",
+  "date_published": "2015-02-05T19:26:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Chief Petty Officer David Mosley",
+  "category": "B-Roll",
+  "virin": "150205-G-QL499-002",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/390174/coast-guard-medevac-vessel-almasi",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.42473,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-390174",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:01:49Z",
+  "duration": 128.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1502/DOD_102218451/DOD_102218451.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9835,
+    "size": 159367657
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.44,
+    86.52,
+    109.44,
+    127.79
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-390174.jpg",
+  "sheet_times": [
+    7.31,
+    15.08,
+    22.85,
+    30.62,
+    38.39,
+    46.16,
+    53.93,
+    61.71,
+    69.48,
+    77.25,
+    85.02,
+    92.79,
+    100.56,
+    108.33,
+    116.1,
+    123.87
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "asset_id": "video:403117",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "USCG Medevac off Saddle Mountain, Ore",
+  "description": "A Coast Guard helicopter crew and local responders medevaced a reportedly unconscious hiker suffering from heat exhaustion from Saddle Mountain near Seaside, Ore. May 9, 2015. An MH-60 Jayhawk helicopter crew, from Coast Guard Air Station Astoria, hoisted the 24-year-old female hiker and safely transferred her to medical personnel at Columbia Memorial Hospital in Astoria. U.S. Coast Guard video by Coast Guard Air Station Astoria. Also available in high definition.",
+  "keywords": "Air Station, Jayhawk, Coast Guard rescue, helicopter, medevac, Oregon, Astoria",
+  "date": "2015-05-09T00:00:00-04:00",
+  "date_published": "2015-05-10T02:24:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150509-G-ZZ999-001",
+  "location": {
+    "city": "Seaside",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/403117/uscg-medevac-off-saddle-mountain-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-403117",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:01:46Z",
+  "duration": 67.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1505/DOD_102426418/DOD_102426418.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8338,
+    "size": 70987692
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.46,
+      "e": 12.96,
+      "text": "3,000 south metal air port 4,300 meters high, 4,300 meters high, 1,100 meters south 1,100 meters."
+    },
+    {
+      "s": 12.96,
+      "e": 45.74,
+      "text": "And we will be there. So give us about one zero minutes."
+    },
+    {
+      "s": 45.74,
+      "e": 48.5,
+      "text": "Here Roger, out."
+    }
+  ],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      13.0,
+      15.9,
+      37.9,
+      48.9
+    ],
+    "silence_ends": [
+      4.0,
+      15.0,
+      27.5,
+      38.6,
+      67.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-403117.jpg",
+  "sheet_times": [
+    5.99,
+    9.91,
+    13.83,
+    17.76,
+    21.68,
+    25.6,
+    29.53,
+    33.45,
+    37.37,
+    41.3,
+    45.22,
+    49.15,
+    53.07,
+    56.99,
+    60.92,
+    64.84
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:316983",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Station Barnegat Light, NJ medevacs 1",
+  "description": "BARNEGAT LIGHT, N.J. - Crewmembers from Coast Guard Station Barnegat Light and emergency medical personnel transport Jeremy Rochelle, 32, from a 47-foot Motor Life Boat to an ambulance at the station June 11, 2011. The Coast Guard received the call at 2:23 p.m. Saturday. U.S. Coast Guard video by Station Barnegat Light, N.J.",
+  "keywords": "CGVI",
+  "date": "2011-06-12T11:28:23-04:00",
+  "date_published": "2013-12-20T22:44:26-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Barnegat",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316983/station-barnegat-light-nj-medevacs-1",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316983",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:00:32Z",
+  "duration": 81.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061549/DOD_101061549-720x480-541k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 541,
+    "size": 6325323
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    76.98
+  ],
+  "drama_score": 51,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316983.jpg",
+  "sheet_times": [
+    2.55,
+    7.64,
+    12.73,
+    17.82,
+    22.92,
+    28.01,
+    33.1,
+    38.19,
+    43.29,
+    48.38,
+    53.47,
+    58.57,
+    63.66,
+    68.75,
+    73.84,
+    78.94
+  ]
+}

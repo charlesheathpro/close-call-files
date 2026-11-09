@@ -1,0 +1,100 @@
+{
+  "asset_id": "video:72556",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger",
+  "description": "B-roll of the U.S. Coast Guard evacuating a passenger from a cruise ship. Scenes include shots of the helicopter approaching the ship, the passenger being lifted onto the helicopter and landing at the hospital. Also includes an interview with a crew member. Produced by Petty Officer 2nd Class Jetta H. Disco.",
+  "keywords": "Robyn Hamilton",
+  "date": "2009-11-09T00:00:00-05:00",
+  "date_published": "2009-11-10T01:29:41-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "091109-G-3421D-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/72556/coast-guard-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-72556",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:02:45Z",
+  "duration": 150.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100056927/DOD_100056927.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 129.42,
+      "e": 136.59,
+      "text": "miles offshore to the cruise ship. The two basket pickups of both the nurse and the patient."
+    },
+    {
+      "s": 137.47,
+      "e": 141.95,
+      "text": "And then from there it was about an hour 45 minute transit back to sector where"
+    },
+    {
+      "s": 142.83,
+      "e": 150.11,
+      "text": "myself and the nurse treated the patient. She was stable and she got back and everything worked out good."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    12.95,
+    13.05,
+    13.25,
+    13.41,
+    13.48,
+    19.92,
+    42.71,
+    83.88,
+    123.39,
+    128.36
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      90.3
+    ],
+    "silence_ends": [
+      4.0,
+      128.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-72556.jpg",
+  "sheet_times": [
+    8.56,
+    17.68,
+    26.8,
+    35.92,
+    45.03,
+    54.15,
+    63.27,
+    72.39,
+    81.5,
+    90.62,
+    99.74,
+    108.86,
+    117.97,
+    127.09,
+    136.21,
+    145.33
+  ]
+}

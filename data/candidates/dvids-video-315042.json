@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:315042",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "100402-G-0000X-Cruise-ship-medevac",
+  "description": "SAN DIEGO - A MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego medically evacuated a cruise ship employee 212 miles south of San Diego Friday afternoon. Aboard the aircraft, the flight surgeon and aircrew provided medical care to the patient. U.S. Coast Guard video by Sector San Diego aircrew.",
+  "keywords": "CGVI",
+  "date": "2010-04-02T21:04:59-04:00",
+  "date_published": "2013-12-17T19:12:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315042/100402-g-0000x-cruise-ship-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315042",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:03:11Z",
+  "duration": 196.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056279/DOD_101056279.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6670,
+    "size": 174174699
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    27.36,
+    39.66,
+    43.13,
+    43.16,
+    54.59,
+    81.41,
+    103.39,
+    108.5,
+    112.67,
+    132.5,
+    143.73,
+    187.19,
+    191.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      196.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315042.jpg",
+  "sheet_times": [
+    6.12,
+    18.36,
+    30.6,
+    42.84,
+    55.08,
+    67.32,
+    79.56,
+    91.8,
+    104.04,
+    116.28,
+    128.53,
+    140.77,
+    153.01,
+    165.25,
+    177.49,
+    189.73
+  ]
+}

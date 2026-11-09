@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:313503",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "SAN DIEGO COAST GUARD MEDEVACS DIVER",
+  "description": "SAN DIEGO -- Coast Guard crews medevac a 60-year-old male diver off San Clemente Island, Calif., bringing him to Sector San Diego. He was transferred to UCSD Medical Center in Hillcrest, Calif., by EMS. Coast Guard video by Petty Officer 3rd Class Jetta H. Disco.VIRIN - 080714-G-3421D-001",
+  "keywords": "CGVI",
+  "date": "2008-07-14T00:00:00-04:00",
+  "date_published": "2013-12-16T22:06:56-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Jetta Disco",
+  "category": "B-Roll",
+  "virin": "080714-G-3421D-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313503/san-diego-coast-guard-medevacs-diver",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.73907,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313503",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:03:25Z",
+  "duration": 71.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053980/DOD_101053980.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7228,
+    "size": 70869689
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.74,
+    29.73,
+    29.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313503.jpg",
+  "sheet_times": [
+    7.78,
+    11.87,
+    15.96,
+    20.05,
+    24.14,
+    28.23,
+    32.32,
+    36.4,
+    40.49,
+    44.58,
+    48.67,
+    52.76,
+    56.85,
+    60.94,
+    65.02,
+    69.11
+  ]
+}

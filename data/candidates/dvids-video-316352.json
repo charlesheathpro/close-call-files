@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:316352",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac off coast of Ocean City, Md.",
+  "description": "OCEAN CITY, Md. - A rescue helicopter crew from Coast Guard Air Station Atlantic City, N.J., medevacs a 56-year-old woman from aboard a boat 48 miles off the coast of Ocean City after she went into diabetic shock July 24, 2010. U.S. Coast Guard video by Coast Guard Air Station Atlantic City, N.J.",
+  "keywords": "CGVI",
+  "date": "2010-07-24T16:39:59-04:00",
+  "date_published": "2013-12-20T04:07:12-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Ocean City",
+    "state": "Maryland",
+    "country": "United States",
+    "state_abbreviation": "MD",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316352/medevac-off-coast-ocean-city-md",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 15.1485,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316352",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:00:39Z",
+  "duration": 60.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101059898/DOD_101059898-720x480-2246k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2246,
+    "size": 24436607
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.15,
+    45.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      45.8
+    ],
+    "silence_ends": [
+      15.2,
+      60.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316352.jpg",
+  "sheet_times": [
+    16.56,
+    19.39,
+    22.21,
+    25.04,
+    27.86,
+    30.69,
+    33.52,
+    36.34,
+    39.17,
+    41.99,
+    44.82,
+    47.64,
+    50.47,
+    53.3,
+    56.12,
+    58.95
+  ]
+}
