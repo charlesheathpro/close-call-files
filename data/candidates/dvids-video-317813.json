@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:317813",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "CS-medevac",
+  "description": "SAN DIEGO - An aircrew from U.S. Coast Guard Sector San Diego medically evacuates a passenger from a cruise ship 50 miles southwest of Point Loma, Nov. 4, 2012.\nThe man and the ship's nurse were hoisted into the helicopter and transported to Sector San Diego, where they transferred the man to emergency medical personnel. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "CGVI",
+  "date": "2012-11-04T00:00:00-04:00",
+  "date_published": "2013-12-22T19:40:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": "121104-G-JY570-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317813/cs-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317813",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:40:00Z",
+  "duration": 236.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062781/DOD_101062781.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8121,
+    "size": 232491467
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    54.65,
+    85.45,
+    141.77,
+    183.98,
+    208.84,
+    230.83
+  ],
+  "drama_score": 76,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      236.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317813.jpg",
+  "sheet_times": [
+    7.36,
+    22.08,
+    36.8,
+    51.52,
+    66.24,
+    80.96,
+    95.67,
+    110.39,
+    125.11,
+    139.83,
+    154.55,
+    169.27,
+    183.99,
+    198.71,
+    213.43,
+    228.15
+  ]
+}

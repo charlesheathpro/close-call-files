@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:99752",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Bahamas Medevac",
+  "description": "The Coast Guard medically evacuated an ill man from a container ship approximately 200 miles northeast of Nassau Bahamas, Nov. 5, 2010. U.S. Coast Guard Video by Petty Officer 3rd Class Tara Molle \r\n",
+  "keywords": "Bahamas, Coast Guard, medevac",
+  "date": "2010-11-05T00:00:00-04:00",
+  "date_published": "2010-11-06T19:24:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Juan",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101106-G-1473M-001",
+  "location": {
+    "city": "",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/99752/bahamas-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-99752",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:39:48Z",
+  "duration": 153.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1011/DOD_100096390/DOD_100096390.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    29.66,
+    31.93,
+    34.5,
+    40.07,
+    66.8,
+    71.97,
+    112.38,
+    112.85,
+    149.15,
+    152.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-99752.jpg",
+  "sheet_times": [
+    8.66,
+    17.98,
+    27.3,
+    36.62,
+    45.94,
+    55.26,
+    64.58,
+    73.9,
+    83.22,
+    92.54,
+    101.86,
+    111.18,
+    120.5,
+    129.82,
+    139.14,
+    148.46
+  ]
+}

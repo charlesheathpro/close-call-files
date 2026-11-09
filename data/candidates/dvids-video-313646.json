@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:313646",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac",
+  "description": "JUNEAU, Alaska - The Coast Guard has medically evacuated a crewmember from the 946-foot cruise ship, Sapphire Princess, after a 35-year-old male from St. Lucia suffered injuries from a fall while working on board the Bermuda-flagged cruise ship while it was moored to the pier in Skagway at 4:05 p.m.",
+  "keywords": "CGVI",
+  "date": "2008-09-16T00:00:00-04:00",
+  "date_published": "2013-12-16T23:54:22-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "080916-G-5176S-001",
+  "location": {
+    "city": "Juneau",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313646/medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313646",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:37:48Z",
+  "duration": 83.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054230/DOD_101054230-640x480-564k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 564,
+    "size": 6755716
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    18.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-313646.jpg",
+  "sheet_times": [
+    2.59,
+    7.76,
+    12.93,
+    18.1,
+    23.27,
+    28.44,
+    33.61,
+    38.79,
+    43.96,
+    49.13,
+    54.3,
+    59.47,
+    64.64,
+    69.81,
+    74.99,
+    80.16
+  ]
+}

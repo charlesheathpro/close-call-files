@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:315611",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MEDEVAC",
+  "description": "HONOLULU - U.S. Coast Guard crewmembers aboard an HH-65 Dolphin helicopter, from Coast Guard Air Station Barbers Point, Honolulu, medically evacuate an ill fisherman that was aboard the Coast Guard Cutter Rush, 150 miles southwest of Oahu, July 1, 2010.\n\nU.S. Coast Guard video by Petty Officer 3rd Class Michael De Nyse.",
+  "keywords": "CGVI",
+  "date": "2010-07-01T00:00:00-04:00",
+  "date_published": "2013-12-19T12:02:30-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Michael De Nyse",
+  "category": "B-Roll",
+  "virin": "100701-G-0314D-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315611/medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315611",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:37:40Z",
+  "duration": 95.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058583/DOD_101058583.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 8000,
+    "size": 94312503
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.24,
+    53.72,
+    76.64,
+    90.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      90.5
+    ],
+    "silence_ends": [
+      5.4,
+      95.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315611.jpg",
+  "sheet_times": [
+    2.97,
+    8.92,
+    14.87,
+    20.82,
+    26.76,
+    32.71,
+    38.66,
+    44.61,
+    50.55,
+    56.5,
+    62.45,
+    68.4,
+    74.34,
+    80.29,
+    86.24,
+    92.18
+  ]
+}

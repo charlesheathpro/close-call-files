@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:73339",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Medevac",
+  "description": "B-roll of U.S. Coast Guard personnel and other first responders performing medical evacuation procedures.",
+  "keywords": "medical, evacuation, emergency",
+  "date": "2009-11-18T00:00:00-05:00",
+  "date_published": "2009-11-19T01:20:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/73339/medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-73339",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:36:53Z",
+  "duration": 90.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100057743/DOD_100057743.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    10.64,
+    43.41,
+    76.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-73339.jpg",
+  "sheet_times": [
+    6.7,
+    12.09,
+    17.49,
+    22.88,
+    28.27,
+    33.67,
+    39.06,
+    44.45,
+    49.84,
+    55.24,
+    60.63,
+    66.02,
+    71.42,
+    76.81,
+    82.2,
+    87.6
+  ]
+}

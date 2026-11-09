@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:316484",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Bahamas-Medevac",
+  "description": "ANDROS ISLAND, Bahamas - The Coast Guard medically evacuated an ill man from a container ship approximately 200 miles northeast of Nassau Bahamas, Nov. 5, 2010. U.S. Coast Guard Video by Petty Officer 3rd Class Tara Molle",
+  "keywords": "CGVI",
+  "date": "2010-11-06T00:00:00-04:00",
+  "date_published": "2013-12-20T06:55:03-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Petty Officer 3rd Class Tara Molle",
+  "category": "B-Roll",
+  "virin": "101106-G-1473M-001",
+  "location": {
+    "city": "Andros Island",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/316484/bahamas-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316484",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:39:32Z",
+  "duration": 159.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060225/DOD_101060225-640x480-1651k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1651,
+    "size": 35602688
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    30.66,
+    41.04,
+    67.77,
+    154.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316484.jpg",
+  "sheet_times": [
+    4.97,
+    14.92,
+    24.87,
+    34.82,
+    44.76,
+    54.71,
+    64.66,
+    74.61,
+    84.55,
+    94.5,
+    104.45,
+    114.4,
+    124.34,
+    134.29,
+    144.24,
+    154.19
+  ]
+}

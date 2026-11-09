@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:314455",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "MEDEVAC",
+  "description": "SAN DIEGO - The Coast Guard conducted a medevac from a commercial fishing boat 80 miles south of Point Loma, Calif., July 3rd. The Joint Harbor Operations Center (JHOC) dispatched an MH-60 helicopter from Sector to conduct the hoist and transport the patient back to the base where emergency medical services were standing by. (Coast Guard Photo/PA2 Jetta H. Disco)",
+  "keywords": "CGVI",
+  "date": "2009-07-05T00:00:00-04:00",
+  "date_published": "2013-12-17T10:26:57-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Jetta Disco",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314455/medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314455",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:37:27Z",
+  "duration": 180.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055232/DOD_101055232.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7629,
+    "size": 166805736
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.57,
+    46.75,
+    91.73,
+    115.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-314455.jpg",
+  "sheet_times": [
+    5.62,
+    16.86,
+    28.1,
+    39.33,
+    50.57,
+    61.81,
+    73.05,
+    84.29,
+    95.52,
+    106.76,
+    118.0,
+    129.24,
+    140.48,
+    151.71,
+    162.95,
+    174.19
+  ]
+}

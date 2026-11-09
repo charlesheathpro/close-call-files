@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:318184",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Boater Near Poole Island, Md.",
+  "description": "Rescue crew members aboard an HH-65 Dolphin helicopter from Coast Guard Air Station Atlantic City, N.J., hoist a man from his sailboat on the morning of Dec. 24, near Poole Island, Md. A friend of the man called watchstanders at Coast Guard Sector Baltimore to report him overdue late the night before. U.S. Coast Guard video.",
+  "keywords": "Air Station Atlantic City, Md., rescue",
+  "date": "2013-12-24T00:00:00-05:00",
+  "date_published": "2013-12-24T12:52:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 2nd Class David Marin",
+  "category": "B-Roll",
+  "virin": "131224-G-XX999-002",
+  "location": {
+    "city": "",
+    "state": "Maryland",
+    "country": "United States",
+    "state_abbreviation": "MD",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/318184/coast-guard-rescues-boater-near-poole-island-md",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.005,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-318184",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:36:42Z",
+  "duration": 76.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101063521/DOD_101063521.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8058,
+    "size": 79039343
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    73.57
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      76.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-318184.jpg",
+  "sheet_times": [
+    7.23,
+    11.67,
+    16.12,
+    20.56,
+    25.01,
+    29.45,
+    33.9,
+    38.34,
+    42.79,
+    47.24,
+    51.68,
+    56.13,
+    60.57,
+    65.02,
+    69.46,
+    73.91
+  ]
+}
