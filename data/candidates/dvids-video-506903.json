@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:506903",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man From Cruise Ship",
+  "description": "MH-65 Dolphin helicopter crew members from Coast Guard Air Station New Orleans medevac a 45-year-old man suffering from symptoms similar to a heart attack from the cruise ship Carnival Triumph approximately 11 miles south of Southwest Pass, Louisiana, January 25, 2017. The aircrew transported the man and a nurse to emergency medical services at Air Station New Orleans who took the man to West Jefferson Medical Center in Marrero, Louisiana. - U.S. Coast Guard photo courtesy of Air Station New Orleans.",
+  "keywords": "New Orleans",
+  "date": "2017-01-25T00:00:00-05:00",
+  "date_published": "2017-01-26T12:20:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "170126-G-AS553-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/506903/coast-guard-medevacs-man-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-506903",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:10:17Z",
+  "duration": 39.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1701/DOD_104027576/DOD_104027576.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8137,
+    "size": 40635428
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.1
+    ],
+    "silence_ends": [
+      39.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-506903.jpg",
+  "sheet_times": [
+    1.21,
+    3.64,
+    6.07,
+    8.5,
+    10.93,
+    13.36,
+    15.79,
+    18.22,
+    20.65,
+    23.08,
+    25.51,
+    27.94,
+    30.37,
+    32.8,
+    35.23,
+    37.66
+  ]
+}

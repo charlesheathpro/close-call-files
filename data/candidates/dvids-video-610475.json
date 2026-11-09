@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:610475",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner near Galveston, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter aircrew medevacs a 36-year-old mariner from a disabled vessel June 27, 2018 near Galveston, Texas.  Eighth Coast Guard District watchstanders received an emergency position indicating radio beacon alert after the vessel became disabled approximately 40 nautical miles offshore, and a mariner aboard reportedly began exhibiting symptoms of extreme dehydration. U.S. Coast Guard video by Air Station Houston.",
+  "keywords": "Galveston, Mariner, Sector Houston-Galveston, medevac, search and rescue, Air Station Houston, helo",
+  "date": "2018-06-27T00:00:00-04:00",
+  "date_published": "2018-06-27T21:49:51-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180627-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/610475/coast-guard-medevacs-mariner-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.07073,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-610475",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:10:07Z",
+  "duration": 140.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105782372/DOD_105782372.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9801,
+    "size": 172127804
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      140.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-610475.jpg",
+  "sheet_times": [
+    8.31,
+    16.8,
+    25.28,
+    33.77,
+    42.26,
+    50.74,
+    59.23,
+    67.71,
+    76.2,
+    84.68,
+    93.17,
+    101.66,
+    110.14,
+    118.63,
+    127.11,
+    135.6
+  ]
+}

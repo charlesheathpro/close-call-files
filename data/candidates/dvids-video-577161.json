@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:577161",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman from cruise ship",
+  "description": "MH-65 Dolphin helicopter crewmembers from Coast Guard Air Station New Orleans medevac a woman from a cruise ship 100 miles south of Southwest Pass, Louisiana, December 24, 2017. The helicopter aircrew arrived on scene at 10 a.m. and hoisted the woman and transferred her to Jefferson Medical Center in New Orleans. (U.S. Coast Guard photo Courtesy of Coast Guard Air Station New Orleans/Released)",
+  "keywords": "New Orleans",
+  "date": "2017-12-24T00:00:00-05:00",
+  "date_published": "2017-12-26T12:36:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "040101-G-AS553-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/577161/coast-guard-medevacs-woman-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-577161",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:10:10Z",
+  "duration": 30.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105208971/DOD_105208971.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9829,
+    "size": 37491352
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-577161.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.63,
+    6.48,
+    8.33,
+    10.18,
+    12.03,
+    13.88,
+    15.73,
+    17.58,
+    19.43,
+    21.28,
+    23.13,
+    24.98,
+    26.83,
+    28.68
+  ]
+}
