@@ -10,7 +10,7 @@
     "She drifted out on a paddle board. Two men swam after her.",
     "[short pause] Then they needed saving too.",
     "Air Station Houston sent a helicopter.",
-    "The basket lifts each person straight up."
+    "A rescue basket means a tired swimmer only has to climb in and sit."
   ],
   "outcome": "The crew rescued the woman and hoisted both men out of the Gulf.",
   "location_card": {
@@ -42,19 +42,25 @@
       "source_quote": "U.S. Coast Guard Air Station Houston rescued a woman and hoisted two men off the Gulf of America May 2, 2026"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
         "start": 4.8,
+        "end": 7.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 7.0,
         "end": 9.2,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.4
       }
     ],
     [
       {
-        "start": 9.2,
+        "start": 9.3,
         "end": 11.6,
         "layout": "crop",
         "crop_x": 0.5
@@ -71,23 +77,23 @@
     [
       {
         "start": 11.6,
-        "end": 14.8,
+        "end": 14.6,
         "layout": "crop",
         "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 15.2,
+        "start": 15.3,
         "end": 17.8,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.9
       },
       {
         "start": 17.8,
-        "end": 20.9,
-        "layout": "fit",
-        "crop_x": 0.5
+        "end": 20.6,
+        "layout": "crop",
+        "crop_x": 0.9
       }
     ]
   ]
