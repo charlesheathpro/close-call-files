@@ -1,0 +1,11 @@
+{
+ "short_id": "ccf-20261109-03",
+ "revision": 2,
+ "verdict": "pass",
+ "at": "2026-11-09T08:37:02Z",
+ "score": 7,
+ "notes": "Opens on a man in a life jacket swinging in the basket over open ocean; a hard number (30 miles, four men) and the capsized-boat type the playbook says to do more of. Line 2 sits over foam with the men small, which keeps it at 7.",
+ "fixes": [
+  "r2 by QA: removed the short pause before line 6 that tripped the dead air check"
+ ]
+}
