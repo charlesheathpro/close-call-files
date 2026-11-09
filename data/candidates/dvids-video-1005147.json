@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:1005147",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs cruise ship passenger southwest of Shelter Cove",
+  "description": "A U.S. Coast Guard Air Station Humboldt Bay MH-65 Dolphin helicopter aircrew conducts a medical evacuation of a 45-year-old male passenger from the cruise ship Queen Elizabeth near Shelter Cove, California, on May 2, 2026. The aircrew hoisted and transported the man to St. Joseph Hospital in Eureka, California. (U.S. Coast Guard courtesy video)",
+  "keywords": "Medical evacuation (MEDEVAC), Cruise Ship, USCG Air Station Humboldt Bay",
+  "date": "2026-05-02T03:00:00-04:00",
+  "date_published": "2026-05-03T21:48:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Trinity Whalen",
+  "category": "B-Roll",
+  "virin": "260502-G-KC247-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1005147/coast-guard-medevacs-cruise-ship-passenger-southwest-shelter-cove",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1005147",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:35:56Z",
+  "duration": 92.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111675829/DOD_111675829-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 97269959
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    73.42,
+    82.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      92.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1005147.jpg",
+  "sheet_times": [
+    2.88,
+    8.65,
+    14.41,
+    20.18,
+    25.95,
+    31.71,
+    37.48,
+    43.24,
+    49.01,
+    54.77,
+    60.54,
+    66.3,
+    72.07,
+    77.84,
+    83.6,
+    89.37
+  ]
+}

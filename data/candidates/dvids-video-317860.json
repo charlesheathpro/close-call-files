@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317860",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Air Station New Orleans medevacs cruise ship passenger",
+  "description": "GULF OF MEXICO - A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew hoists a 68-year-old female passenger from the cruise ship Crown Princess 140 miles south of Southwest Pass in the Gulf of Mexico, Dec. 21, 2012. Crewmembers of the Crown Princess donated six pints of blood to the patient. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2012-12-21T17:25:09-05:00",
+  "date_published": "2013-12-22T20:28:44-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Gulf of Mexico",
+    "state": "USNORTHCOM",
+    "country": "At Sea",
+    "state_abbreviation": "USNORTHCOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/317860/air-station-new-orleans-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317860",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:35:52Z",
+  "duration": 32.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062828/DOD_101062828-960x540-1832k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1832,
+    "size": 7523727
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    28.29
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317860.jpg",
+  "sheet_times": [
+    0.99,
+    2.98,
+    4.97,
+    6.96,
+    8.94,
+    10.93,
+    12.92,
+    14.91,
+    16.89,
+    18.88,
+    20.87,
+    22.86,
+    24.84,
+    26.83,
+    28.82,
+    30.81
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:769893",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues 3 boaters off of Fire Island",
+  "description": "The Coast Guard rescued three people from their disabled boat off of Fire Island, New York, October 15, 2020. The Coast Guard Air Station Atlantic City MH-65 Dolphin helicopter aircrew hoisted the men and transported them to Coast Guard Station Fire Island. (U.S. Coast Guard Air Station Atlantic City courtesy video/released)",
+  "keywords": "Atlantic City, MH-65, helicopter, Coast Guard, search and rescue, boat, New York, dolphin",
+  "date": "2020-10-15T00:00:00-04:00",
+  "date_published": "2020-10-16T13:48:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET New York",
+  "credit": "Petty Officer 3rd Class Anthony Pappaly",
+  "category": "B-Roll",
+  "virin": "201015-G-ST567-006",
+  "location": {
+    "city": "",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/769893/coast-guard-rescues-3-boaters-off-fire-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-769893",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:36:08Z",
+  "duration": 493.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2010/DOD_108024621/DOD_108024621.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10004,
+    "size": 624923459
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    38.0,
+    44.31,
+    44.68,
+    394.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      493.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-769893.jpg",
+  "sheet_times": [
+    15.39,
+    46.17,
+    76.96,
+    107.74,
+    138.52,
+    169.3,
+    200.08,
+    230.87,
+    261.65,
+    292.43,
+    323.21,
+    353.99,
+    384.78,
+    415.56,
+    446.34,
+    477.12
+  ]
+}

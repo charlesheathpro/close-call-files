@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:564865",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man from container ship off Virginia coast",
+  "description": "The Coast Guard medevaced a man who was experiencing chest pain Nov. 11, 2017, from a container ship approximately 80 miles off Cape Charles, Virginia. An MH-60 Jayhawk helicopter crew launched from Air Station Elizabeth City, North Carolina, and hoisted the man and the ship’s nurse. (U.S. Coast Guard video by Air Station Elizabeth City)",
+  "keywords": "Air Station, 5th District, ELIZABETH CITY, jahawk, Coast Guard, medevac, North Carolina, Virginia",
+  "date": "2017-11-11T00:00:00-05:00",
+  "date_published": "2017-11-11T21:37:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Jasmine Mieszala",
+  "category": "B-Roll",
+  "virin": "171111-G-CF771-1001",
+  "location": {
+    "city": "",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/564865/coast-guard-medevacs-man-container-ship-off-virginia-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-564865",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:36:29Z",
+  "duration": 75.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105066955/DOD_105066955.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8362,
+    "size": 78788767
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.8,
+    15.72,
+    35.77,
+    62.46,
+    72.91
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      75.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-564865.jpg",
+  "sheet_times": [
+    2.34,
+    7.01,
+    11.68,
+    16.36,
+    21.03,
+    25.71,
+    30.38,
+    35.05,
+    39.73,
+    44.4,
+    49.07,
+    53.75,
+    58.42,
+    63.09,
+    67.77,
+    72.44
+  ]
+}

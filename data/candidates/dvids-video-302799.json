@@ -1,0 +1,153 @@
+{
+  "asset_id": "video:302799",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger",
+  "description": "SAN DIEGO - An aircrew from U.S. Coast Guard Sector San Diego medically evacuate a cruise ship passenger that suffered a possible heart attack approximately 40 miles northwest of San Diego, Oct. 5, 2013. The man and ship's nurse were hoisted to the helicopter and transported to Sector San Diego. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "maritime safety, Jayhawk, medevac, San Diego, Cruise Ship",
+  "date": "2013-10-05T00:00:00-04:00",
+  "date_published": "2013-10-05T16:20:00-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "131005-G-ZZ999-001",
+  "location": {
+    "city": "SAN DIEGO",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/302799/coast-guard-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-302799",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:34:18Z",
+  "duration": 176.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1310/DOD_100927683/DOD_100927683.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8955,
+    "size": 203064063
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.36,
+      "e": 6.36,
+      "text": "Hold."
+    },
+    {
+      "s": 6.36,
+      "e": 16.58,
+      "text": "Fasten."
+    },
+    {
+      "s": 16.58,
+      "e": 26.73,
+      "text": "Trail on."
+    },
+    {
+      "s": 26.73,
+      "e": 27.73,
+      "text": "So on that main sentence."
+    },
+    {
+      "s": 27.73,
+      "e": 28.73,
+      "text": "Fasten."
+    },
+    {
+      "s": 28.73,
+      "e": 29.73,
+      "text": "On to the half way up."
+    },
+    {
+      "s": 29.73,
+      "e": 33.22,
+      "text": "This half way up."
+    },
+    {
+      "s": 33.22,
+      "e": 37.57,
+      "text": "Fasten is just for the cabin."
+    }
+  ],
+  "scene_cuts": [
+    5.01,
+    21.92,
+    57.12,
+    103.57,
+    171.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.4,
+      38.3,
+      40.6,
+      45.7,
+      52.8,
+      64.5,
+      72.6,
+      76.9,
+      82.4,
+      96.0,
+      116.6,
+      130.8,
+      135.2,
+      139.6,
+      148.8,
+      151.6,
+      153.5,
+      168.6
+    ],
+    "silence_ends": [
+      5.4,
+      8.1,
+      39.3,
+      41.6,
+      47.6,
+      57.2,
+      67.8,
+      75.1,
+      78.0,
+      89.7,
+      96.7,
+      117.2,
+      131.9,
+      137.4,
+      140.4,
+      149.6,
+      152.4,
+      166.6,
+      176.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302799.jpg",
+  "sheet_times": [
+    5.49,
+    16.48,
+    27.47,
+    38.45,
+    49.44,
+    60.42,
+    71.41,
+    82.4,
+    93.38,
+    104.37,
+    115.35,
+    126.34,
+    137.33,
+    148.31,
+    159.3,
+    170.28
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:414990",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs 52-year-old Man 150 Miles South of Kodiak, Alaska",
+  "description": "A Coast Guard Air Station Kodiak, Alaska, aircrew medevacs a 52-year-old man from the 600-foot cargo vessel Elsa, approximately 150 miles south of Kodiak, July 14, 2015. The MH-60 Jayhawk crew safely hoisted the man and transported him to Kodiak Providence Medical Center for further care. U.S. Coast Guard Video",
+  "keywords": "Air Station Kodiak, Coast Guard rescue, medevac, SAR",
+  "date": "2015-07-14T00:00:00-04:00",
+  "date_published": "2015-07-14T23:49:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Anchorage",
+  "credit": "Petty Officer 3rd Class Meredith Manning",
+  "category": "B-Roll",
+  "virin": "150714-G-EP136-922",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/414990/coast-guard-medevacs-52-year-old-man-150-miles-south-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-414990",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:34:45Z",
+  "duration": 26.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102589983/DOD_102589983.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8246,
+    "size": 27351422
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.78,
+      "e": 6.78,
+      "text": "and we're..."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      8.2,
+      10.8,
+      16.8,
+      22.7
+    ],
+    "silence_ends": [
+      6.1,
+      9.0,
+      14.4,
+      21.2,
+      24.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-414990.jpg",
+  "sheet_times": [
+    4.7,
+    6.06,
+    7.41,
+    8.76,
+    10.12,
+    11.47,
+    12.83,
+    14.18,
+    15.54,
+    16.89,
+    18.24,
+    19.6,
+    20.95,
+    22.31,
+    23.66,
+    25.01
+  ]
+}

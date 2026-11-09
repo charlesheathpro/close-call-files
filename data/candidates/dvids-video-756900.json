@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:756900",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Video release: Coast Guard rescues 3 people from hard grounding",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin Helicopter aircrew hoists three passengers from a 20-foot flat boat that had run hard aground in marshy waters outside the Mississippi River Gulf Outlet, June 19, 2020. All three boaters were transported to safety. (U.S. Coast Guard video courtesy asset)",
+  "keywords": "D8, District 8, Coast Guard, Air Station New Orleans",
+  "date": "2020-06-19T00:00:00-04:00",
+  "date_published": "2020-06-20T15:56:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class John Michelli",
+  "category": "B-Roll",
+  "virin": "200620-G-UI834-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/756900/video-release-coast-guard-rescues-3-people-hard-grounding",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-756900",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:34:10Z",
+  "duration": 19.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107861804/DOD_107861804.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3099,
+    "size": 7699637
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      19.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-756900.jpg",
+  "sheet_times": [
+    0.58,
+    1.75,
+    2.92,
+    4.09,
+    5.26,
+    6.43,
+    7.6,
+    8.77,
+    9.94,
+    11.11,
+    12.28,
+    13.45,
+    14.62,
+    15.79,
+    16.96,
+    18.13
+  ]
+}
