@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:314459",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "MEDEVAC",
+  "description": "CORPUS CHRISTI, Texas - In this video by the U.S. Coast Guard, an aircrew from Air Station Corpus Christi hoists a man who was reportedly suffering violent seizures.",
+  "keywords": "CGVI",
+  "date": "2009-07-27T18:36:57-04:00",
+  "date_published": "2013-12-17T10:28:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314459/medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-314459",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:50:03Z",
+  "duration": 30.8,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055239/DOD_101055239.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 8581,
+    "size": 35461033
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314459.jpg",
+  "sheet_times": [
+    0.95,
+    2.84,
+    4.73,
+    6.63,
+    8.52,
+    10.41,
+    12.31,
+    14.2,
+    16.1,
+    17.99,
+    19.88,
+    21.78,
+    23.67,
+    25.56,
+    27.46,
+    29.35
+  ]
+}

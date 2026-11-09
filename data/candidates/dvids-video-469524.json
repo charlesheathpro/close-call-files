@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:469524",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Fisherman Medevac",
+  "description": "A Coast Guard helicopter crew hoists a man in need of medical attention 60 miles off Atlantic City, N.J., before transporting him to AtlantiCare Regional Medical Center in Atlantic City, Wednesday, June 16, 2016. The helicopter crew from Coast Guard Air Station Atlantic City hoisted the 57-year-old man from the fishing vessel Jeffrey Scott after he was reported with abdominal pains and in need of a medevac. (U.S. Coast Guard video)",
+  "keywords": "SAR",
+  "date": "2016-06-15T00:00:00-04:00",
+  "date_published": "2016-06-16T09:49:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Chief Petty Officer Nick Ameen",
+  "category": "B-Roll",
+  "virin": "160615-G-ZE884-501",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/469524/fisherman-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-469524",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:27Z",
+  "duration": 48.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1606/DOD_103398231/DOD_103398231.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9594,
+    "size": 58819793
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    18.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      49.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-469524.jpg",
+  "sheet_times": [
+    5.45,
+    8.22,
+    11.0,
+    13.78,
+    16.56,
+    19.33,
+    22.11,
+    24.89,
+    27.66,
+    30.44,
+    33.22,
+    36.0,
+    38.77,
+    41.55,
+    44.33,
+    47.11
+  ]
+}

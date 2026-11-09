@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:292721",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Medevacs Man with Chest Pain",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter crew hoists a man and delivers him to the University of Texas Medical Branch in Galveston Friday, June 7, 2013. A passenger aboard the Weight N Sea, a 40-foot boat, contacted Coast Guard Sector Houston-Galveston watchstanders reporting that a 26-year old man was suffering from chest pain, numbness in his limbs and low blood sugar. The rescue crew located and hoisted the man at 9 a.m.",
+  "keywords": "hoist, Galveston, 1st, MH-65, UTMB, medevac, rescue",
+  "date": "2013-06-07T00:00:00-04:00",
+  "date_published": "2013-06-07T13:51:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 1st Class Andrew Kendrick",
+  "category": "B-Roll",
+  "virin": "130607-G-XX000-001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/292721/coast-guard-medevacs-man-with-chest-pain",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.27093,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-292721",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:33Z",
+  "duration": 155.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1306/DOD_100832674/DOD_100832674.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 200482255
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.2,
+    4.27,
+    31.66,
+    43.31,
+    56.12,
+    92.53,
+    102.97
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      103.0
+    ],
+    "silence_ends": [
+      4.3,
+      155.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-292721.jpg",
+  "sheet_times": [
+    8.98,
+    18.4,
+    27.81,
+    37.23,
+    46.65,
+    56.06,
+    65.48,
+    74.89,
+    84.31,
+    93.73,
+    103.14,
+    112.56,
+    121.98,
+    131.39,
+    140.81,
+    150.23
+  ]
+}

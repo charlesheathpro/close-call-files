@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:804273",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "California, Oregon Coast Guard crews rescue 6 from sailboat taking on water 80 miles west of Crescent City",
+  "description": "A Coast Guard Sector Humboldt Bay MH-65 Dolphin helicopter crew hoists four survivors from their 79-foot sailboat after it began taking on water 80 miles west of Crescent City, California, June 19, 2021. Sector Humboldt Bay was aided by a Coast Guard Sector North Bend, Oregon, MH-65 Dolphin helicopter crew who hoisted the remaining two survivors and transported them to safety. (U. S. Coast Guard courtesy video)",
+  "keywords": "North Bend, Crescent City, Humboldt Bay, CoastGuardNewsWire, Coast Guard, search and rescue",
+  "date": "2021-06-19T00:00:00-04:00",
+  "date_published": "2021-06-20T17:21:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210619-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/804273/california-oregon-coast-guard-crews-rescue-6-sailboat-taking-water-80-miles-west-crescent-city",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-804273",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:24Z",
+  "duration": 117.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2106/DOD_108412562/DOD_108412562.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9744,
+    "size": 144945448
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.27,
+    13.81,
+    27.23,
+    53.42,
+    69.24,
+    114.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-804273.jpg",
+  "sheet_times": [
+    3.65,
+    10.96,
+    18.26,
+    25.56,
+    32.87,
+    40.17,
+    47.47,
+    54.78,
+    62.08,
+    69.38,
+    76.69,
+    83.99,
+    91.29,
+    98.6,
+    105.9,
+    113.2
+  ]
+}

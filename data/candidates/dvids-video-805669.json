@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:805669",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "U.S. Border Patrol Rescue on Otay Mountain",
+  "description": "Border Patrol Agents responded to a noncitizen in distress on Otay Mountain and coordinated with the San Diego Sheriff’s Department for a hoist pickup on June 27, 2021.",
+  "keywords": "DHS, border patrol, CBP, CBPSAR, San Diego",
+  "date": "2021-06-27T00:00:00-04:00",
+  "date_published": "2021-07-02T11:22:56-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Mani Albrecht",
+  "category": "B-Roll",
+  "virin": "210627-H-VJ018-0001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/805669/us-border-patrol-rescue-otay-mountain",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-805669",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:21Z",
+  "duration": 37.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108433829/DOD_108433829-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6786,
+    "size": 31917327
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.94
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      26.3
+    ],
+    "silence_ends": [
+      11.0,
+      37.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-805669.jpg",
+  "sheet_times": [
+    1.15,
+    3.44,
+    5.74,
+    8.03,
+    10.32,
+    12.62,
+    14.91,
+    17.21,
+    19.5,
+    21.79,
+    24.09,
+    26.38,
+    28.68,
+    30.97,
+    33.26,
+    35.56
+  ]
+}

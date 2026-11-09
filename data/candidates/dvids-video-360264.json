@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:360264",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard medevacs man 150 miles offshore",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter rescue crew hoists a 51-year-old man from a 65-foot fishing vessel 150 miles northwest of Clearwater, Florida, Wednesday, September 10, 2014. The man was hoisted and transported in stable condition to Tampa General Hospital, Tampa, Florida, after he began experiencing chest pains. U.S. Coast Guard video",
+  "keywords": "Clearwater, Tampa General Hospital, Florida, september",
+  "date": "2014-09-10T00:00:00-04:00",
+  "date_published": "2014-09-11T11:52:59-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 3rd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "140910-G-RD053-002",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/360264/coast-guard-medevacs-man-150-miles-offshore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-360264",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:47:23Z",
+  "duration": 48.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1409/DOD_101939313/DOD_101939313.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7822,
+    "size": 47416477
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      48.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-360264.jpg",
+  "sheet_times": [
+    1.5,
+    4.5,
+    7.5,
+    10.49,
+    13.49,
+    16.49,
+    19.49,
+    22.49,
+    25.48,
+    28.48,
+    31.48,
+    34.48,
+    37.48,
+    40.47,
+    43.47,
+    46.47
+  ]
+}

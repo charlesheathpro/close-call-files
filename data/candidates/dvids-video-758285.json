@@ -1,0 +1,113 @@
+{
+  "asset_id": "video:758285",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Crew VSL Medevac,",
+  "description": "U.S. Coast Guard helicopter lowers a hook to a rescue basket to hoist a victim from a platform, at sea,  Dec. 11, 2007.  (U.S. Coast Guard video)",
+  "keywords": "none provided",
+  "date": "2019-06-06T00:00:00-04:00",
+  "date_published": "2020-11-30T16:14:18-05:00",
+  "branch": "Joint",
+  "unit_name": "Defense VI Records Center",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190606-D-ZZ999-531",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/758285/crew-vsl-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-758285",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:51Z",
+  "duration": 421.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107878090/DOD_107878090.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9596,
+    "size": 513020897
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 17.46,
+      "e": 18.68,
+      "text": "And that's what we're ready."
+    },
+    {
+      "s": 18.68,
+      "e": 20.16,
+      "text": "500 times, man."
+    },
+    {
+      "s": 20.16,
+      "e": 22.04,
+      "text": "That goes around the door."
+    },
+    {
+      "s": 22.04,
+      "e": 29.82,
+      "text": "That's what we're going down."
+    }
+  ],
+  "scene_cuts": [
+    360.92,
+    362.68,
+    363.65,
+    364.62,
+    365.12,
+    366.09,
+    369.49,
+    371.93,
+    374.36,
+    378.27,
+    378.77,
+    382.17,
+    386.07,
+    398.29,
+    402.19,
+    402.69,
+    406.09,
+    406.59,
+    412.93
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      360.9,
+      368.3
+    ],
+    "silence_ends": [
+      368.3,
+      421.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-758285.jpg",
+  "sheet_times": [
+    13.16,
+    39.49,
+    65.81,
+    92.13,
+    118.46,
+    144.78,
+    171.1,
+    197.43,
+    223.75,
+    250.07,
+    276.4,
+    302.72,
+    329.04,
+    355.37,
+    381.69,
+    408.01
+  ]
+}

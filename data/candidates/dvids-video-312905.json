@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:312905",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Air Station Detroit assist Ohio flood victims",
+  "description": "DETROIT - A U.S. Coast Guard Air Station Detroit HH-65 Dolphin helicopter hoisted two people, today, from the roof of a house in Shelby, Ohio.",
+  "keywords": "CGVI",
+  "date": "2007-08-21T17:37:59-04:00",
+  "date_published": "2013-12-16T15:43:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Detroit",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/312905/air-station-detroit-assist-ohio-flood-victims",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-312905",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:49:29Z",
+  "duration": 605.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053018/DOD_101053018-720x480-2033k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2033,
+    "size": 163786727
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 49.26,
+      "e": 292.16,
+      "text": "that you are your funniest."
+    }
+  ],
+  "scene_cuts": [
+    601.6
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-312905.jpg",
+  "sheet_times": [
+    18.91,
+    56.73,
+    94.54,
+    132.36,
+    170.18,
+    208.0,
+    245.81,
+    283.63,
+    321.45,
+    359.26,
+    397.08,
+    434.9,
+    472.72,
+    510.53,
+    548.35,
+    586.17
+  ]
+}

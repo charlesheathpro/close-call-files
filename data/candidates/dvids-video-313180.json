@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:313180",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "DISTRICT 14 MEDEVAC 2",
+  "description": "HONOLULU -- Coast Guard rescue aircrews hoisted an ill man from a motor vessel approximately 80 miles north of Oahu Tuesday.  USCG video",
+  "keywords": "CGVI",
+  "date": "2008-02-12T20:58:12-05:00",
+  "date_published": "2013-12-16T18:47:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313180/district-14-medevac-2",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313180",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:48:43Z",
+  "duration": 19.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053498/DOD_101053498-640x480-1089k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1089,
+    "size": 2858227
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    11.38
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      1.6,
+      3.1,
+      9.3
+    ],
+    "silence_ends": [
+      1.6,
+      3.1,
+      9.2,
+      19.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313180.jpg",
+  "sheet_times": [
+    0.61,
+    1.82,
+    3.04,
+    4.25,
+    5.46,
+    6.68,
+    7.89,
+    9.11,
+    10.32,
+    11.53,
+    12.75,
+    13.96,
+    15.18,
+    16.39,
+    17.6,
+    18.82
+  ]
+}

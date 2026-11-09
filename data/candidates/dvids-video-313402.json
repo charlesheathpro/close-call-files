@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:313402",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Harborview medevac",
+  "description": "A helicopter crew, homeported in Air Station Astoria, Ore., conducted a basket hoist and transported an injured fisherman to Harborview Medical Center in Seattle June 11, 2008.",
+  "keywords": "CGVI",
+  "date": "2008-06-11T22:39:25-04:00",
+  "date_published": "2013-12-16T21:34:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/313402/harborview-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313402",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:49:06Z",
+  "duration": 98.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053863/DOD_101053863-640x480-1342k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1342,
+    "size": 17736649
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.52,
+    18.76,
+    41.72,
+    47.76,
+    54.8,
+    62.76,
+    68.24,
+    71.84,
+    78.24,
+    82.52,
+    89.44,
+    95.16
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      95.3
+    ],
+    "silence_ends": [
+      6.8,
+      98.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313402.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.34,
+    21.47,
+    27.6,
+    33.74,
+    39.87,
+    46.01,
+    52.14,
+    58.27,
+    64.41,
+    70.54,
+    76.68,
+    82.81,
+    88.94,
+    95.08
+  ]
+}
