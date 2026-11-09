@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:538735",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ill fisherman",
+  "description": "An aircrew aboard an MH-60 Jayhawk helicopter from Coast Guard Sector Columbia River conducts a medical evacuation of an ill fisherman 75 miles offshore of Lincoln City, Ore., July 18, 2017.\r\n\r\nThe ill fisherman was transferred to Oregon Health and Sciences University in Portland for further care.\r\n\r\nU.S. Coast Guard video by Sector Columbia River.",
+  "keywords": "MH-60 Jayhawk helicopter, OHSU, Sector Columbia River, Sector North Bend, F/V Kandi Dawn, Coast Guard, USCG",
+  "date": "2017-07-18T00:00:00-04:00",
+  "date_published": "2017-07-18T15:35:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170718-G-G0213-1001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/538735/coast-guard-medevacs-ill-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-538735",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:58Z",
+  "duration": 74.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104605924/DOD_104605924.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 7846,
+    "size": 73454598
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    15.12,
+    35.64,
+    63.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.7,
+      17.5,
+      24.1,
+      29.7,
+      31.5,
+      54.8,
+      63.2
+    ],
+    "silence_ends": [
+      15.1,
+      18.4,
+      25.9,
+      30.6,
+      35.2,
+      60.5,
+      74.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-538735.jpg",
+  "sheet_times": [
+    2.3,
+    6.9,
+    11.5,
+    16.09,
+    20.69,
+    25.29,
+    29.89,
+    34.49,
+    39.09,
+    43.68,
+    48.28,
+    52.88,
+    57.48,
+    62.08,
+    66.67,
+    71.27
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:654183",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Sector Columbia River aircrew conducts medevac",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter from Sector Columbia River medically evacuated an ill man off the motor vessel Garnet Leader 25 miles off Willapa Bay, Wash., Jan. 11, 2019.\r\n\r\nThe ill man is a 29-year-old Ukrainian national who was suffering from severe abdominal pain while serving as the second engineer was transported to Columbia Memorial Hospital in Astoria.\r\n\r\nU.S. Coast Guard video by Sector Columbia River.",
+  "keywords": "MH-60 Jayhawk helicopter, Sector Columbia River, willapa bay, Coast Guard, medevac, Washington, USCG",
+  "date": "2019-01-11T00:00:00-05:00",
+  "date_published": "2019-01-11T13:52:38-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190111-G-G0213-1001",
+  "location": {
+    "city": "",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/654183/sector-columbia-river-aircrew-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-654183",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:59:09Z",
+  "duration": 46.65,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1901/DOD_106362012/DOD_106362012.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10066,
+    "size": 59468713
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.56,
+      "e": 7.83,
+      "text": "I can sit my budget."
+    },
+    {
+      "s": 7.83,
+      "e": 14.28,
+      "text": "Check out the rescue lights, sir."
+    },
+    {
+      "s": 14.28,
+      "e": 15.28,
+      "text": "100 feet."
+    },
+    {
+      "s": 15.28,
+      "e": 16.28,
+      "text": "100."
+    },
+    {
+      "s": 16.28,
+      "e": 17.28,
+      "text": "The forward right."
+    }
+  ],
+  "scene_cuts": [
+    4.37,
+    9.08,
+    17.62,
+    18.39,
+    31.1,
+    42.78,
+    43.41,
+    46.58
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9,
+      9.4,
+      11.8,
+      18.4,
+      27.0,
+      31.6,
+      37.0,
+      42.9
+    ],
+    "silence_ends": [
+      4.4,
+      10.6,
+      14.2,
+      22.7,
+      29.0,
+      35.2,
+      40.8,
+      46.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-654183.jpg",
+  "sheet_times": [
+    1.44,
+    4.33,
+    7.21,
+    10.09,
+    12.98,
+    15.86,
+    18.75,
+    21.63,
+    24.52,
+    27.4,
+    30.28,
+    33.17,
+    36.05,
+    38.94,
+    41.82,
+    44.7
+  ]
+}

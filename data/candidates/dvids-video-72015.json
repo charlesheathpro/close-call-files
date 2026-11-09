@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:72015",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Bering Sea Fisherman",
+  "description": "B-roll of the U.S. Coast Guard medically evacuating a fisherman in the Bering Sea. Scenes include an aerial view of the fisherman being rescued.",
+  "keywords": "hoist, hovering, helicopter, medical, airlift, evacuation",
+  "date": "2009-11-03T00:00:00-05:00",
+  "date_published": "2009-11-03T22:58:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "091103-G-0113H-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/72015/coast-guard-medevacs-bering-sea-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-72015",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:58:12Z",
+  "duration": 95.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100056361/DOD_100056361.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-72015.jpg",
+  "sheet_times": [
+    6.83,
+    12.5,
+    18.16,
+    23.82,
+    29.48,
+    35.14,
+    40.8,
+    46.47,
+    52.13,
+    57.79,
+    63.45,
+    69.11,
+    74.77,
+    80.43,
+    86.1,
+    91.76
+  ]
+}

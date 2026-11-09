@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:474009",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard aircrew medevacs fisherman",
+  "description": "A Coast Guard aircrew aboard an MH-65 Dolphin helicopter from Air Station North Bend, Ore., medevaced an ill fisherman from a boat 34 miles west of the Umpqua River entrance in Winchester Bay, July 8, 2016. The patient was transported to North Bend Airport for further care by emergency medical service personnel. U.S. Coast Guard video by Air Station North Bend.",
+  "keywords": "Air Station North Bend, MH-65 Dolphin helicopter, Coast Guard, medevac, search and rescue, USCG",
+  "date": "2016-07-08T00:00:00-04:00",
+  "date_published": "2016-07-09T00:11:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160708-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/474009/coast-guard-aircrew-medevacs-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.69267,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-474009",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:57:53Z",
+  "duration": 81.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103457913/DOD_103457913.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 5721,
+    "size": 59753526
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.67,
+    79.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      79.5
+    ],
+    "silence_ends": [
+      4.7,
+      81.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-474009.jpg",
+  "sheet_times": [
+    7.08,
+    11.87,
+    16.65,
+    21.43,
+    26.22,
+    31.0,
+    35.79,
+    40.57,
+    45.35,
+    50.14,
+    54.92,
+    59.7,
+    64.49,
+    69.27,
+    74.05,
+    78.84
+  ]
+}

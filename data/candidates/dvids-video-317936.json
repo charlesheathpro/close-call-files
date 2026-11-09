@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:317936",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "130505-G-EK967-AirSta Houston Medevac",
+  "description": "HOUSTON - A 45 year-old man was medevaced by a Coast Guard Air Station Houston helicopter rescue crew Sunday morning, after he was found unconscious aboard a boat approximately 76 miles off the coast of Cameron, La. \n\nOfficial Coast Guard video by Air Station Corpus Christi.",
+  "keywords": "CGVI",
+  "date": "2013-05-05T14:05:24-04:00",
+  "date_published": "2013-12-22T21:50:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317936/130505-g-ek967-airsta-houston-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317936",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:59:34Z",
+  "duration": 68.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062904/DOD_101062904.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5000,
+    "size": 45652975
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.0,
+      9.2,
+      11.6,
+      12.6,
+      13.8,
+      15.4
+    ],
+    "silence_ends": [
+      7.0,
+      8.2,
+      10.3,
+      12.5,
+      13.7,
+      15.2,
+      68.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317936.jpg",
+  "sheet_times": [
+    2.13,
+    6.38,
+    10.63,
+    14.88,
+    19.14,
+    23.39,
+    27.64,
+    31.9,
+    36.15,
+    40.4,
+    44.65,
+    48.91,
+    53.16,
+    57.41,
+    61.67,
+    65.92
+  ]
+}

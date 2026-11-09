@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:404629",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger",
+  "description": "A crew aboard an MH-65 Dolphin helicopter from Coast Guard Air Facility Charleston, S.C., approaches the cruise ship Disney Magic Saturday, May 16, 2015, approximately 45 miles off the coast of Charleston. The patient suffered a hip and leg injury and was hoisted off the ship. U.S. Coast Guard video by Petty Officer 2nd Class Brannon Hood",
+  "keywords": "Coast Guard rescue, MH-65 Dolphin helicopter, MH-65, air facility, Disney Magic, medevac, rescue, Cruise Ship, Charleston",
+  "date": "2015-05-16T00:00:00-04:00",
+  "date_published": "2015-05-16T18:14:49-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150516-G-AB001-001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/404629/coast-guard-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.19217,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-404629",
+  "status": "new",
+  "harvested_at": "2026-11-09T08:59:05Z",
+  "duration": 18.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1505/DOD_102442573/DOD_102442573.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 7337,
+    "size": 17368643
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    16.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      16.7
+    ],
+    "silence_ends": [
+      4.2,
+      18.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-404629.jpg",
+  "sheet_times": [
+    4.63,
+    5.52,
+    6.4,
+    7.28,
+    8.16,
+    9.04,
+    9.93,
+    10.81,
+    11.69,
+    12.57,
+    13.46,
+    14.34,
+    15.22,
+    16.1,
+    16.98,
+    17.87
+  ]
+}
