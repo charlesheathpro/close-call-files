@@ -1,24 +1,21 @@
 {
-  "at": "2026-11-09T08:42:56Z",
+  "at": "2026-11-09T16:34:31Z",
   "healthy": false,
   "numbers": {
-    "uploaded": 108,
     "dropped": 47,
-    "passed": 2,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 6
+    "uploaded": 111,
+    "passed": 1,
+    "scheduled_48h": 7
   },
   "found": [
-    "buffer thin: 6 scheduled in the next 48 h, 0 passed, 2 in QA at start",
-    "last upload run 02:47Z, over 3 h ago (nothing was waiting); harvest and stats landed on time",
-    "no repeated build errors; upload_error alerts at 09:09 to 10:12Z Nov 8 were transient 504s, already retried",
-    "strong clips are exhausted: of about 35 rescue candidates looked at, most are medevac litters, night or FLIR door-cam, or routine hoists"
+    "buffer thin: 6 scheduled in the next 48 h, 0 passed and 1 in QA at start",
+    "harvest (09:10Z), stats (11:12Z) and upload (14:13Z) runs all landed; no build errors in 24 h; no auth or upload_error alerts in 24 h",
+    "new candidates are plentiful by count (about 1,950) but mostly NASA program b-roll, ceremonies, training and murky door-cam; strong rescue clips remain scarce"
   ],
   "fixed": [
-    "QA: fixed and passed 09-01 r3 (would-be rescuers, 7); dropped 09-02 (soft 720p door-cam)",
-    "editor pass: wrote, fixed (dead air) and passed 09-03 r2 (capsized 30 mi off Cedar Key, 7); 22 candidates passed over",
-    "pushed an archive harvest and an upload trigger",
-    "08-01 and 08-03 stay on editor-hold-20261108: they repeat the hull and boat-fire Shorts published Nov 9; merge on or after Nov 11 for Nov 12 slots"
+    "QA: fixed and passed 09-11 r2 (700 ft ship in 25 ft swells, 7)",
+    "editor pass: wrote and passed 09-12 r1 (sailboat adrift 300 mi off Virginia, destroyer refuel stop, 7); passed over 4 murky or repeat candidates",
+    "kept dvids-video-441017 (sailor in 22 ft seas off Oregon) and dvids-video-445650 (cliff litter hoist, Roads End) as new for a later day so they do not stack on today's sea and cliff stories",
+    "pushed an upload trigger so the 2 passed Shorts take open slots"
   ]
 }
