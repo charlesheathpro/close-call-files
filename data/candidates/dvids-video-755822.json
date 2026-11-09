@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:755822",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 10 miles west of Hernando Beach",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevaced a man with severe abdominal pain from a fishing vessel 10 miles west of Hernando Beach, Florida June 11, 2020. The 49-year-old man was safely transported to Tampa General Hospital in stable condition. U.S. Coast Guard video.",
+  "keywords": "AIR STATION CLEARWATER, MEDVAC, Coast Guard, Florida",
+  "date": "2020-06-11T00:00:00-04:00",
+  "date_published": "2020-06-11T17:07:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class Ayla Hudson",
+  "category": "B-Roll",
+  "virin": "200611-G-MQ432-227",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/755822/coast-guard-medevacs-man-10-miles-west-hernando-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-755822",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:54:57Z",
+  "duration": 30.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107850681/DOD_107850681.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5305,
+    "size": 20253146
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-755822.jpg",
+  "sheet_times": [
+    0.94,
+    2.82,
+    4.7,
+    6.58,
+    8.47,
+    10.35,
+    12.23,
+    14.11,
+    15.99,
+    17.87,
+    19.75,
+    21.63,
+    23.52,
+    25.4,
+    27.28,
+    29.16
+  ]
+}

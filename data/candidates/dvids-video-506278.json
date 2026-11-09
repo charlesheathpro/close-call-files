@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:506278",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 145 miles southwest of Key West",
+  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter crew medevacs a 34-year-old man from the tanker Huemel 145 miles southwest of Key West, Florida, on Jan. 22, 2017. The helicopter crew transported the man to Coast Guard Air Station Miami and transferred him to awaiting EMS personnel.",
+  "keywords": "hoist, medieval, USCG, helo",
+  "date": "2017-01-22T00:00:00-05:00",
+  "date_published": "2017-01-22T23:32:16-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170122-G-G0107-001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/506278/coast-guard-medevacs-man-145-miles-southwest-key-west",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-506278",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:55:21Z",
+  "duration": 134.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1701/DOD_104015023/DOD_104015023.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2846,
+    "size": 50185647
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 12.02,
+      "e": 26.98,
+      "text": "That's it."
+    },
+    {
+      "s": 26.98,
+      "e": 49.49,
+      "text": "Let's check the aircraft."
+    },
+    {
+      "s": 49.49,
+      "e": 135.84,
+      "text": "Good, let's check the aircraft."
+    }
+  ],
+  "scene_cuts": [
+    8.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      8.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-506278.jpg",
+  "sheet_times": [
+    4.19,
+    12.57,
+    20.96,
+    29.34,
+    37.72,
+    46.1,
+    54.48,
+    62.87,
+    71.25,
+    79.63,
+    88.01,
+    96.39,
+    104.78,
+    113.16,
+    121.54,
+    129.92
+  ]
+}

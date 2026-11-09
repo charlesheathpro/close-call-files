@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:480338",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 100 miles west of Great Inagua",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevacs a 53-year-old man who suffered a puncture wound to his arm from the Carnival Splendor cruise ship 100 miles west of Great Inagua, Bahamas, Monday, Aug. 22, 2016.  U.S. Coast Guard video courtesy of Coast Guard Air Station Clearwater.",
+  "keywords": "Miami, Bahamas, Clearwater, Air Station, Great Inagua, District 7, Coast Guard, medevac",
+  "date": "2016-08-22T00:00:00-04:00",
+  "date_published": "2016-08-23T13:05:33-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160822-G-ZZ999-001",
+  "location": {
+    "city": "Miami",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/480338/coast-guard-medevacs-man-100-miles-west-great-inagua",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-480338",
+  "status": "new",
+  "harvested_at": "2026-11-09T20:55:32Z",
+  "duration": 40.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103599524/DOD_103599524.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7502,
+    "size": 38206499
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    17.52,
+    38.67
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      40.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-480338.jpg",
+  "sheet_times": [
+    5.16,
+    7.41,
+    9.67,
+    11.93,
+    14.19,
+    16.45,
+    18.71,
+    20.97,
+    23.23,
+    25.49,
+    27.75,
+    30.01,
+    32.27,
+    34.53,
+    36.79,
+    39.05
+  ]
+}
