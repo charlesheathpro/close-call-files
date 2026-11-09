@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:771390",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner near Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew hoist a 50-year-old male from the tanker vessel Willard approximately seven miles offshore Galveston, Texas, Nov. 1, 2020.  The mariner was transported to awaiting emergency medical services personnel at the University of Texas Medical Branch in Galveston in stable condition. (U.S. Coast Guard video by Air Station Houston)",
+  "keywords": "hoist, Galveston, Willard, medevac, Air Station Houston",
+  "date": "2020-11-01T00:00:00-04:00",
+  "date_published": "2020-11-01T21:01:11-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "201101-G-G0108-2001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/771390/coast-guard-medevacs-mariner-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-771390",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:09:51Z",
+  "duration": 140.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108045211/DOD_108045211.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 4970,
+    "size": 87216283
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.19,
+    51.42,
+    75.68,
+    102.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      140.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-771390.jpg",
+  "sheet_times": [
+    4.36,
+    13.09,
+    21.81,
+    30.53,
+    39.26,
+    47.98,
+    56.71,
+    65.43,
+    74.16,
+    82.88,
+    91.6,
+    100.33,
+    109.05,
+    117.78,
+    126.5,
+    135.22
+  ]
+}

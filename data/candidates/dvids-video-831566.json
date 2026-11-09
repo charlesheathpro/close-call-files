@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:831566",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner 150 east of Florida",
+  "description": "An Air Station Clearwater H-60 Jayhawk aircrew medically evacuated a mariner from a LNG tanker 150 miles off the east coast of Florida February 4, 2022. The mariner was successfully transported to higher medical care. U.S. Coast Guard courtesy video.",
+  "keywords": "AIR STATION CLEARWATER, CoastGuardNewsWire, Coast Guard, medevac, Florida",
+  "date": "2022-02-04T00:00:00-05:00",
+  "date_published": "2022-02-16T10:46:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220204-G-G0107-001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/831566/coast-guard-medevacs-mariner-150-east-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-831566",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:08:03Z",
+  "duration": 87.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108815489/DOD_108815489.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 111763260
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 31.22,
+      "e": 32.22,
+      "text": "I'll see you in the back."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-831566.jpg",
+  "sheet_times": [
+    2.73,
+    8.19,
+    13.64,
+    19.1,
+    24.56,
+    30.02,
+    35.47,
+    40.93,
+    46.39,
+    51.85,
+    57.3,
+    62.76,
+    68.22,
+    73.68,
+    79.13,
+    84.59
+  ]
+}

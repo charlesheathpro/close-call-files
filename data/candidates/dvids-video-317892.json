@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:317892",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs two crewmen from tanker",
+  "description": "SAN DIEGO - An aircrew from U.S. Coast Guard Sector San Diego conduct a medevac of two injured crewmen from a tanker 130 miles southwest of San Diego, Jan. 18, 2013. The United Kingdom-flagged vessel Energy Conqueror's crew contact the Coast Guard at approximately 7:20 a.m., requesting assistance for two crewmen who were injured when a cable split. U.S. Coast Guard video.",
+  "keywords": "CGVI",
+  "date": "2013-01-18T00:00:00-05:00",
+  "date_published": "2013-12-22T20:58:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317892/coast-guard-medevacs-two-crewmen-tanker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317892",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:08:21Z",
+  "duration": 69.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062860/DOD_101062860.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6146,
+    "size": 56122346
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.04,
+    37.6,
+    60.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      69.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317892.jpg",
+  "sheet_times": [
+    2.15,
+    6.44,
+    10.73,
+    15.02,
+    19.31,
+    23.6,
+    27.89,
+    32.18,
+    36.47,
+    40.76,
+    45.05,
+    49.34,
+    53.63,
+    57.92,
+    62.21,
+    66.5
+  ]
+}

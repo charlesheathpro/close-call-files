@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:284908",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Ailing Cruise Ship Passenger",
+  "description": "SAN DIEGO – U.S. Coast Guard aircrews from San Diego and Sacramento worked together to airlift a passenger in need of medical attention from a cruise ship approximately 200 miles southwest of San Diego, March 22, 2013. \r\nThe MH-60 Jayhawk helicopter crew hoisted the 71-year-old woman into the aircraft and transported her to Sector San Diego, where she was transferred to emergency medical personnel for further care. U.S. Coast Guard video by Petty Officer 1st Class Henry G. Dunphy.",
+  "keywords": "Jayhawk helicopter, medevac, San Diego, Cruise Ship",
+  "date": "2013-03-22T00:00:00-04:00",
+  "date_published": "2013-03-22T23:05:45-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": "130322-G-JY570-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/284908/coast-guard-medevacs-ailing-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-284908",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:09:39Z",
+  "duration": 194.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1303/DOD_100769258/DOD_100769258.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8961,
+    "size": 222034936
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    54.82,
+    90.49,
+    116.42,
+    147.15,
+    157.79,
+    165.53,
+    182.08,
+    189.22
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      189.3
+    ],
+    "silence_ends": [
+      116.4,
+      194.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-284908.jpg",
+  "sheet_times": [
+    6.06,
+    18.17,
+    30.28,
+    42.39,
+    54.5,
+    66.61,
+    78.72,
+    90.83,
+    102.94,
+    115.05,
+    127.16,
+    139.27,
+    151.38,
+    163.49,
+    175.6,
+    187.71
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:762090",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man near Puerto Rico",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevaced a 59-year-old man 287 miles north of Puerto Rico August 3, 2020. The man was transferred to medical care in stable condition. (U.S. Coast Guard video)",
+  "keywords": "MH-60 Jayhawk, Coast Guard, medevac, Puerto Rico",
+  "date": "2020-08-03T00:00:00-04:00",
+  "date_published": "2020-08-04T12:18:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class Ayla Hudson",
+  "category": "B-Roll",
+  "virin": "200803-G-MQ432-113",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/762090/coast-guard-medevacs-man-near-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-762090",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:08:08Z",
+  "duration": 57.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107922175/DOD_107922175.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9778,
+    "size": 70882454
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      58.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-762090.jpg",
+  "sheet_times": [
+    1.8,
+    5.39,
+    8.98,
+    12.57,
+    16.16,
+    19.75,
+    23.34,
+    26.93,
+    30.52,
+    34.11,
+    37.7,
+    41.29,
+    44.88,
+    48.47,
+    52.06,
+    55.65
+  ]
+}

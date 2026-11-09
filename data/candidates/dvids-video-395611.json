@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:395611",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 56-year-old Man",
+  "description": "The Coast Guard medically evacuated a 56-year-old man from a cruise ship approximately 50 miles southwest of San Diego, March 22, 2015. A Sector San Diego MH-60 Jayhawk helicopter crew immediately launched, arrived on scene and safely hoisted the man and a nurse from the cruise ship. U.S. Coast Guard video by Sector San Diego/released.",
+  "keywords": "MH-60 Jayhawk, MH-60, Jayhawk, Coast Guard rescue, heart attack, D11, helicopter, medevac, San Diego",
+  "date": "2015-03-22T00:00:00-04:00",
+  "date_published": "2015-03-22T23:08:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "150322-G-GV559-579",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/395611/coast-guard-medevacs-56-year-old-man",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-395611",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:09:05Z",
+  "duration": 120.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102310267/DOD_102310267.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9730,
+    "size": 146423820
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3,
+    120.19
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-395611.jpg",
+  "sheet_times": [
+    3.75,
+    11.24,
+    18.73,
+    26.23,
+    33.72,
+    41.21,
+    48.7,
+    56.2,
+    63.69,
+    71.18,
+    78.68,
+    86.17,
+    93.66,
+    101.15,
+    108.65,
+    116.14
+  ]
+}

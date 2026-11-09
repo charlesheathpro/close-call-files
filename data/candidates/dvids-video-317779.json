@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:317779",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured passenger from vessel",
+  "description": "SAN DIEGO - An injured passenger is transported from a Coast Guard Jayhawk helicopter to paramedics after he was medically evacuated from the 80-foot fishing boat Dolphin III nearly 70 miles south of Point Loma, Friday, Oct. 19, 2012. The man suffered a seizure and hit his head while aboard the vessel. U.S. Coast Guard video by Petty Officer 3rd Class Connie Gawrelli.",
+  "keywords": "CGVI",
+  "date": "2012-10-19T00:00:00-04:00",
+  "date_published": "2013-12-22T18:06:21-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Connie Terrell",
+  "category": "B-Roll",
+  "virin": "121019-G-HR856-002",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317779/coast-guard-medevacs-injured-passenger-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317779",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:08:52Z",
+  "duration": 77.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062746/DOD_101062746.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 111193479
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.01,
+    23.16,
+    40.67,
+    53.62,
+    69.44
+  ],
+  "drama_score": 47,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      69.6
+    ],
+    "silence_ends": [
+      8.1,
+      77.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317779.jpg",
+  "sheet_times": [
+    2.39,
+    7.18,
+    11.97,
+    16.76,
+    21.55,
+    26.34,
+    31.13,
+    35.92,
+    40.71,
+    45.5,
+    50.29,
+    55.08,
+    59.87,
+    64.66,
+    69.45,
+    74.24
+  ]
+}

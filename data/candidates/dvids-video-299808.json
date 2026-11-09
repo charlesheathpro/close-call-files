@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:299808",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner near Sitka, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew medevaced a 44-year-old woman from the 109-foot fishing vessel Tuxedni near Sitka, Alaska, Aug. 26, 2013. The Jayhawk crew rendezvoused with the Tuxedni in Tebenkof Bay, 67 miles southeast of Sitka, hoisted the woman aboard and flew her to Sitka where she was transferred to local emergency medical service personnel for evaluation and treatment. U.S. Coast Guard video by Air Station Sitka. Available in high definition.",
+  "keywords": "Sitka, MH-60, D17, F/V, Coast Guard, medevac, Alaska",
+  "date": "2013-08-26T00:00:00-04:00",
+  "date_published": "2013-08-27T16:26:48-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 1st Class Sara Muir",
+  "category": "B-Roll",
+  "virin": "130826-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/299808/coast-guard-medevacs-mariner-near-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-299808",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:06:32Z",
+  "duration": 114.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100896408/DOD_100896408.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9926,
+    "size": 142050184
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    109.41
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      109.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-299808.jpg",
+  "sheet_times": [
+    3.56,
+    10.68,
+    17.8,
+    24.92,
+    32.04,
+    39.16,
+    46.28,
+    53.4,
+    60.52,
+    67.64,
+    74.76,
+    81.88,
+    89.0,
+    96.12,
+    103.23,
+    110.35
+  ]
+}

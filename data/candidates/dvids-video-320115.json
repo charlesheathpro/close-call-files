@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:320115",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Cruise Ship Passenger",
+  "description": "SAN DIEGO – An aircrew from U.S. Coast Guard Sector San Diego transfer an injured woman to emergency medical personnel after medically evacuating her from a cruise approximately 150 miles west of San Diego, Jan. 23, 2014. \r\nThe 69-year-old woman fell down a stairwell and suffered possible head injuries and internal bleeding. U.S. Coast Guard video by Petty Officer 1st Class Henry G. Dunphy. Available in High Definition.",
+  "keywords": "Jayhawk, medevac, safety, San Diego",
+  "date": "2014-01-23T00:00:00-05:00",
+  "date_published": "2014-01-23T16:41:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Henry Dunphy",
+  "category": "B-Roll",
+  "virin": "140123-G-JY570-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/320115/coast-guard-medevacs-injured-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-320115",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:09:20Z",
+  "duration": 148.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101091485/DOD_101091485.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9809,
+    "size": 186855240
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    71.0,
+    97.2,
+    119.45,
+    134.67,
+    143.41
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      143.5
+    ],
+    "silence_ends": [
+      5.1,
+      148.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-320115.jpg",
+  "sheet_times": [
+    4.62,
+    13.87,
+    23.12,
+    32.37,
+    41.61,
+    50.86,
+    60.11,
+    69.36,
+    78.6,
+    87.85,
+    97.1,
+    106.35,
+    115.59,
+    124.84,
+    134.09,
+    143.33
+  ]
+}

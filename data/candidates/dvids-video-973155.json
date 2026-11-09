@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:973155",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Air Station Cape Cod Medevac B-Roll",
+  "description": "A video compiled of an Air Station Cape Cod medevac on June 30, 2025. An air crew from Air Station Cape Cod responded to a mariner having a medical emergency east of Cape Cod, Massachusetts. B-roll compiled on August 7, 2025. (U.S. Coast Guard video by Petty Officer 3rd Class Rajesh Harrilal) (B-roll was compiled using Adobe Premiere)",
+  "keywords": "Air Station Cape Cod, medevac",
+  "date": "2025-08-07T00:00:00-04:00",
+  "date_published": "2025-08-08T09:37:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Rajesh Harrilal",
+  "category": "B-Roll",
+  "virin": "250807-G-OP320-1002",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/973155/air-station-cape-cod-medevac-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-973155",
+  "status": "new",
+  "harvested_at": "2026-11-09T09:06:58Z",
+  "duration": 232.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2508/DOD_111218871/DOD_111218871-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 243536358
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 10.99,
+      "e": 12.99,
+      "text": "Back and left."
+    }
+  ],
+  "scene_cuts": [
+    4.97,
+    138.71
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-973155.jpg",
+  "sheet_times": [
+    7.25,
+    21.76,
+    36.27,
+    50.78,
+    65.29,
+    79.8,
+    94.3,
+    108.81,
+    123.32,
+    137.83,
+    152.34,
+    166.85,
+    181.35,
+    195.86,
+    210.37,
+    224.88
+  ]
+}
