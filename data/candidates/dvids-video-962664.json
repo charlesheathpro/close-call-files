@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-962664",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:02:33Z",
   "duration": 77.24,
   "source_file": {
@@ -72,5 +72,6 @@
     64.75,
     69.55,
     74.35
-  ]
+  ],
+  "pass_reason": "Blue-tinted sensor footage of a routine hoist beside a drifting boat; nothing on screen looks dangerous."
 }

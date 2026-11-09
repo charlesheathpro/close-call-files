@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-702883",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:22:36Z",
   "duration": 50.08,
   "source_file": {
@@ -69,5 +69,6 @@
     41.84,
     44.94,
     48.04
-  ]
+  ],
+  "pass_reason": "Supply drop from the C-130 ramp; the fishing vessel is a speck and most frames are open sea."
 }
