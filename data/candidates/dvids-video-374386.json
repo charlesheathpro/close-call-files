@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:374386",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Air Station Port Angeles rescue",
+  "title": "Coast Guard Rescues Boaters off Port Hueneme",
+  "description": "Coast Guard Air Station conducts a rescues two boaters off the Coast of Port Hueneme, Calif. early Sunday morning.",
+  "keywords": "Air Station Los Angeles, Coast Guard rescue, Port Hueneme, Port Huemene, rescue",
+  "date": "2014-11-16T00:00:00-05:00",
+  "date_published": "2014-11-16T16:27:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Los Angeles",
+  "credit": "Petty Officer 3rd Class Andrea Anderson",
+  "category": "B-Roll",
+  "virin": "141116-G-RY366-001",
+  "location": {
+    "city": "Port Hueneme",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/374386/coast-guard-rescues-boaters-off-port-hueneme",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-374386",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:32:35Z",
+  "duration": 540.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1411/DOD_102088486/DOD_102088486.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9163,
+    "size": 628351019
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      540.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-374386.jpg",
+  "sheet_times": [
+    16.88,
+    50.63,
+    84.38,
+    118.13,
+    151.89,
+    185.64,
+    219.39,
+    253.14,
+    286.9,
+    320.65,
+    354.4,
+    388.15,
+    421.91,
+    455.66,
+    489.41,
+    523.16
+  ]
+}

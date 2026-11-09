@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:432130",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Cruise Ship MEDEVAC",
+  "description": "A Coast Guard Air Station Clearwater MH-60 helicopter crew medically evacuates a 53-year-old female off the Carnival Splendor cruise ship southwest of Key West, Florida, Nov. 2, 2015. The woman required urgent medical care and was transported to Jackson Memorial Hospital in Miami. U.S. Coast Guard video.",
+  "keywords": "Miami, Clearwater, Air Station, MH-60, Barney, Coast Guard",
+  "date": "2015-11-02T00:00:00-05:00",
+  "date_published": "2015-11-03T14:08:39-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Mark Barney",
+  "category": "B-Roll",
+  "virin": "151102-G-ZK759-974",
+  "location": {
+    "city": "Key West",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/432130/cruise-ship-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-432130",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:36:51Z",
+  "duration": 95.44,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1511/DOD_102849901/DOD_102849901.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8090,
+    "size": 96609460
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      95.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-432130.jpg",
+  "sheet_times": [
+    6.87,
+    12.55,
+    18.23,
+    23.91,
+    29.6,
+    35.28,
+    40.96,
+    46.64,
+    52.33,
+    58.01,
+    63.69,
+    69.37,
+    75.06,
+    80.74,
+    86.42,
+    92.1
+  ]
+}

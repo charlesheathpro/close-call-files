@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:306791",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "Coast Guard Medevacs Navy Sailor Off Coos Bay, Ore.",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew medically evacuates a Navy sailor from the USS Momsen approximately 75 miles west of Coos Bay, Ore., Nov. 5, 2013.\r\n\r\nThe crew transported the sailor to Eugene, Ore., where he was placed in the care of Lane County, Ore., Fire and Rescue, then treated at Sacred Heart General Hospital in Eugene for a partially severed finger.\r\n\r\nU.S. Coast Guard video",
+  "keywords": "MH-65 Dolphin, Pacific Northwest, Coos Bay, momsen, Sector North Bend, medevac, D13",
+  "date": "2013-11-05T00:00:00-05:00",
+  "date_published": "2013-11-06T18:25:52-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "131105-G-ZZ999-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/306791/coast-guard-medevacs-navy-sailor-off-coos-bay-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-306791",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:37:04Z",
+  "duration": 120.37,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1311/DOD_100948241/DOD_100948241.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9944,
+    "size": 153566914
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.23,
+    64.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      120.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-306791.jpg",
+  "sheet_times": [
+    3.75,
+    11.24,
+    18.73,
+    26.22,
+    33.71,
+    41.2,
+    48.7,
+    56.19,
+    63.68,
+    71.17,
+    78.66,
+    86.15,
+    93.65,
+    101.14,
+    108.63,
+    116.12
+  ]
+}

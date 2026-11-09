@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:317573",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hospital evacuation",
+  "title": "120517-G-00X-001 Coast Guard medevacs 60-year-old man",
+  "description": "BOSTON - The Coast Guard medically evacuated a 60-year-old man from a charter vessel 19-miles southeast of Gloucester, Mass., Thursday. The man was safely hoisted from a Station Gloucester 47-foot Motor Life Boat to a Coast Guard Air Station Cape Cod MH-60T Jayhawk helicopter and taken to Massachusetts General Hospital in Boston. U.S. Coast Guard Video.",
+  "keywords": "CGVI",
+  "date": "2012-05-17T16:44:06-04:00",
+  "date_published": "2013-12-22T14:47:15-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317573/120517-g-00x-001-coast-guard-medevacs-60-year-old-man",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317573",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:36:57Z",
+  "duration": 60.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062526/DOD_101062526-720x480-2470k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2470,
+    "size": 20168046
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    49.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317573.jpg",
+  "sheet_times": [
+    1.88,
+    5.63,
+    9.38,
+    13.14,
+    16.89,
+    20.64,
+    24.4,
+    28.15,
+    31.91,
+    35.66,
+    39.41,
+    43.17,
+    46.92,
+    50.67,
+    54.43,
+    58.18
+  ]
+}
