@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:1005204",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Air Station Houston Rescues Woman and Hoists Two Men",
+  "description": "U.S. Coast Guard Air Station Houston rescued a woman and hoisted two men off the Gulf of America May 2, 2026. The woman was swept out on a paddle board and the two men had tried to swim out and rescue her themselves. (U.S. Coast Guard video courtesy of Air Station Houston)",
+  "keywords": "Coast Guard Air Station Houston",
+  "date": "2026-05-02T00:00:00-04:00",
+  "date_published": "2026-05-04T09:22:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Luke Baker",
+  "category": "B-Roll",
+  "virin": "260502-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1005204/coast-guard-air-station-houston-rescues-woman-and-hoists-two-men",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1005204",
+  "status": "new",
+  "harvested_at": "2026-11-09T00:39:05Z",
+  "duration": 25.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111676713/DOD_111676713-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 27191867
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1005204.jpg",
+  "sheet_times": [
+    0.79,
+    2.37,
+    3.96,
+    5.54,
+    7.12,
+    8.71,
+    10.29,
+    11.87,
+    13.45,
+    15.04,
+    16.62,
+    18.2,
+    19.79,
+    21.37,
+    22.95,
+    24.53
+  ]
+}
