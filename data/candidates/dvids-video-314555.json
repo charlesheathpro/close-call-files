@@ -1,94 +1,95 @@
 {
-  "asset_id": "video:314555",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "090912-0000X-G-100 - Corpus Christi boat fire rescue",
-  "description": "Corpus Christi boat fire rescue",
-  "keywords": "CGVI",
-  "date": "2009-09-12T18:34:28-04:00",
-  "date_published": "2013-12-17T12:08:38-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Headquarters",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "",
-    "state_abbreviation": null,
-    "country_abbreviation": null
+ "asset_id": "video:314555",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "090912-0000X-G-100 - Corpus Christi boat fire rescue",
+ "description": "Corpus Christi boat fire rescue",
+ "keywords": "CGVI",
+ "date": "2009-09-12T18:34:28-04:00",
+ "date_published": "2013-12-17T12:08:38-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Headquarters",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "",
+  "state_abbreviation": null,
+  "country_abbreviation": null
+ },
+ "page_url": "https://www.dvidshub.net/video/314555/090912-0000x-g-100-corpus-christi-boat-fire-rescue",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-314555",
+ "status": "passed_over",
+ "harvested_at": "2026-11-06T16:59:54Z",
+ "duration": 44.44,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055443/DOD_101055443.mp4",
+  "width": 960,
+  "height": 540,
+  "bitrate": 3199,
+  "size": 19081247
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 0.91,
+   "e": 3.27,
+   "text": "It's gonna be hard to give this up. Let me go ahead and do it."
   },
-  "page_url": "https://www.dvidshub.net/video/314555/090912-0000x-g-100-corpus-christi-boat-fire-rescue",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-314555",
-  "status": "new",
-  "harvested_at": "2026-11-06T16:59:54Z",
-  "duration": 44.44,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055443/DOD_101055443.mp4",
-    "width": 960,
-    "height": 540,
-    "bitrate": 3199,
-    "size": 19081247
+  {
+   "s": 3.27,
+   "e": 4.47,
+   "text": "Because you're not gonna be able to see it."
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 0.91,
-      "e": 3.27,
-      "text": "It's gonna be hard to give this up. Let me go ahead and do it."
-    },
-    {
-      "s": 3.27,
-      "e": 4.47,
-      "text": "Because you're not gonna be able to see it."
-    },
-    {
-      "s": 4.47,
-      "e": 5.27,
-      "text": "Not yet, cool."
-    },
-    {
-      "s": 5.27,
-      "e": 6.07,
-      "text": "I have to trust."
-    }
-  ],
-  "scene_cuts": [
-    39.14
-  ],
-  "drama_score": 79,
-  "audio": {
-    "silence_starts": [
-      33.2
-    ],
-    "silence_ends": [
-      39.3
-    ]
+  {
+   "s": 4.47,
+   "e": 5.27,
+   "text": "Not yet, cool."
   },
-  "sheet": "data/candidates/dvids-video-314555.jpg",
-  "sheet_times": [
-    1.37,
-    4.12,
-    6.87,
-    9.61,
-    12.36,
-    15.11,
-    17.85,
-    20.6,
-    23.34,
-    26.09,
-    28.84,
-    31.58,
-    34.33,
-    37.08,
-    39.82,
-    42.57
+  {
+   "s": 5.27,
+   "e": 6.07,
+   "text": "I have to trust."
+  }
+ ],
+ "scene_cuts": [
+  39.14
+ ],
+ "drama_score": 79,
+ "audio": {
+  "silence_starts": [
+   33.2
   ],
-  "editor_note": "HOLD until about Nov 12: boat fire spacing (07-04, 08-03); strong flames plus basket hoist, but release has no text, find the Sector Corpus Christi press release for the outcome"
+  "silence_ends": [
+   39.3
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-314555.jpg",
+ "sheet_times": [
+  1.37,
+  4.12,
+  6.87,
+  9.61,
+  12.36,
+  15.11,
+  17.85,
+  20.6,
+  23.34,
+  26.09,
+  28.84,
+  31.58,
+  34.33,
+  37.08,
+  39.82,
+  42.57
+ ],
+ "editor_note": "HOLD until about Nov 12: boat fire spacing (07-04, 08-03); strong flames plus basket hoist, but release has no text, find the Sector Corpus Christi press release for the outcome",
+ "pass_reason": "no release text for facts or outcome; distant hazy FLIR"
 }
