@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:867516",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs individual 23 miles off the coast of San Francisco",
+  "description": "The Coast Guard medevaced a 63-year-old male off the fishing vessel New Huck Finn approximately 23 miles southwest of Point Reyes, California, Dec. 9, 2022. The fishing vessel New Huck Finn contacted Coast Guard Sector San Francisco watchstanders around 10:15 a.m., reporting a crew member was in need of medical assistance due to symptoms related to a cardiac event. (U.S. Coast Guard Video)",
+  "keywords": "Helicopter footage, CoastGuardNewsWire, SAR, search and rescue, California, USCG",
+  "date": "2022-12-09T00:00:00-05:00",
+  "date_published": "2022-12-09T19:34:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221209-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/867516/coast-guard-medevacs-individual-23-miles-off-coast-san-francisco",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-867516",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:12Z",
+  "duration": 32.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2212/DOD_109365507/DOD_109365507-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 35301653
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.74,
+      "e": 30.75,
+      "text": "Bass is going down."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      3.7,
+      10.0,
+      11.4,
+      16.1,
+      18.5,
+      25.7
+    ],
+    "silence_ends": [
+      1.9,
+      5.9,
+      10.8,
+      12.2,
+      16.8,
+      19.8,
+      29.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-867516.jpg",
+  "sheet_times": [
+    1.01,
+    3.03,
+    5.05,
+    7.07,
+    9.09,
+    11.11,
+    13.14,
+    15.16,
+    17.18,
+    19.2,
+    21.22,
+    23.24,
+    25.26,
+    27.28,
+    29.3,
+    31.32
+  ]
+}

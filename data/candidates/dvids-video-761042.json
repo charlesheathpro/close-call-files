@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:761042",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "VIDEO: Coast Guard medevacs injured hiker from Olympic National Park",
+  "description": "An Air Station Port Angeles aircrew aboard an MH-60 Jayhawk rescue helicopter hoists an injured hiker from the Lake Angeles area in Olympic National Park on Saturday, July 25. The rescue operation was a coordinated effort involving personnel from the National Park Service and the Air Force Rescue Coordination Center. (U.S. Coast Guard video by Air Station/SFO Port Angeles)",
+  "keywords": "Port Angeles, hoist, assist, hiker, coordination, Olympic National Park, Lake Angeles, SAR",
+  "date": "2020-07-25T00:00:00-04:00",
+  "date_published": "2020-07-28T11:56:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Michael Clark",
+  "category": "B-Roll",
+  "virin": "200725-G-YE015-1002",
+  "location": {
+    "city": "Port Angeles",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/761042/video-coast-guard-medevacs-injured-hiker-olympic-national-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.37203,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-761042",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:24Z",
+  "duration": 51.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107910987/DOD_107910987.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10064,
+    "size": 65406585
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 29.26,
+      "e": 40.99,
+      "text": "The firefighters are coming in the cab, the firefighters are coming in the cab."
+    },
+    {
+      "s": 40.99,
+      "e": 42.99,
+      "text": "It's a little low."
+    }
+  ],
+  "scene_cuts": [
+    31.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.9
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-761042.jpg",
+  "sheet_times": [
+    6.79,
+    9.63,
+    12.47,
+    15.32,
+    18.16,
+    21.0,
+    23.84,
+    26.68,
+    29.52,
+    32.36,
+    35.2,
+    38.04,
+    40.88,
+    43.73,
+    46.57,
+    49.41
+  ]
+}

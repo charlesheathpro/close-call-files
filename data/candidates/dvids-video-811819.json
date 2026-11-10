@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:811819",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station Astoria medevacs woman from fishing vessel",
+  "description": "A Coast Guard Sector Columbia River helicopter crew rescues an injured woman from the fishing vessel Sweet Adeline approximately 100 nautical miles offshore of Newport, Oregon, Saturday, Aug. 28, 2021. The 60-year-old woman was transferred to Oregon Health and Science University Hospital. (U.S. Coast Guard courtesy photo)",
+  "keywords": "AIRSTA Astoria, US Coast Guard, medevac",
+  "date": "2021-08-28T00:00:00-04:00",
+  "date_published": "2021-08-30T17:08:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Diolanda Caballero",
+  "category": "B-Roll",
+  "virin": "210829-G-AF140-1001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/811819/coast-guard-air-station-astoria-medevacs-woman-fishing-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-811819",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:19Z",
+  "duration": 65.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2108/DOD_108540637/DOD_108540637.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10052,
+    "size": 82779128
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      65.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-811819.jpg",
+  "sheet_times": [
+    2.04,
+    6.13,
+    10.21,
+    14.29,
+    18.38,
+    22.46,
+    26.54,
+    30.63,
+    34.71,
+    38.79,
+    42.88,
+    46.96,
+    51.04,
+    55.13,
+    59.21,
+    63.29
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:518018",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman from cruise ship south of San Diego",
+  "description": "The Coast Guard medevacs a 31-year-old woman April 6, 2017, from a cruise ship approximately 200 miles south of San Diego. \r\n\r\nStar Princess, a 951-foot cruise ship, personnel notified the Coast Guard that a woman aboard the ship needed further medical treatment due to a potential head injury when the ship was 572 miles south of San Diego. (U.S. Coast Guard video)",
+  "keywords": "Coast Guard, medevac, San Diego, Cruise Ship",
+  "date": "2017-04-06T00:00:00-04:00",
+  "date_published": "2017-04-06T22:00:53-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "170406-G-MR731-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/518018/coast-guard-medevacs-woman-cruise-ship-south-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-518018",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:24Z",
+  "duration": 111.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1704/DOD_104253521/DOD_104253521.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9353,
+    "size": 130928470
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.51,
+    45.58,
+    46.65,
+    106.77
+  ],
+  "drama_score": 53,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      111.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-518018.jpg",
+  "sheet_times": [
+    3.48,
+    10.44,
+    17.41,
+    24.37,
+    31.33,
+    38.29,
+    45.25,
+    52.22,
+    59.18,
+    66.14,
+    73.1,
+    80.06,
+    87.03,
+    93.99,
+    100.95,
+    107.91
+  ]
+}

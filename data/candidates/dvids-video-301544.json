@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:301544",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man from Cruise Ship Near Astoria, Ore.",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Astoria, Ore., conducts a medevac of a man experiencing heart complications aboard a cruise ship approximately 25 miles southwest of the Columbia River entrance Sept. 16.\r\n\r\nThe Jayhawk crew transported the man to Air Station Astoria and transferred him to awaiting local EMS crews.\r\n\r\nU.S. Coast Guard video",
+  "keywords": "Jayhawk, Pacific Northwest, Sector Columbia River, Zaandam, medevac, D13, Cruise Ship",
+  "date": "2013-09-16T00:00:00-04:00",
+  "date_published": "2013-09-17T15:00:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "130916-G-ZZ999-001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/301544/coast-guard-medevacs-man-cruise-ship-near-astoria-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.03837,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-301544",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:52Z",
+  "duration": 95.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100914933/DOD_100914933.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 7652,
+    "size": 91517551
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    92.83
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      95.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-301544.jpg",
+  "sheet_times": [
+    7.85,
+    13.49,
+    19.12,
+    24.75,
+    30.38,
+    36.01,
+    41.64,
+    47.27,
+    52.9,
+    58.53,
+    64.17,
+    69.8,
+    75.43,
+    81.06,
+    86.69,
+    92.32
+  ]
+}

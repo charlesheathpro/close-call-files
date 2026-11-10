@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:373058",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man from Vessel West of the Columbia River Entrance",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew, from Coast Guard Air Station Astoria, Ore., medevaced a man with reported heart attack symptoms from the 35-foot recreational vessel Fish Tale II, more than 35 miles west of the Columbia River entrance, Nov. 8, 2014.\r\n\r\nThe 35-year-old male was safely hoisted aboard and transport to the air station where he was transferred to emergency medical personnel.\r\n\r\nU.S. Coast Guard video by Air Station Astoria",
+  "keywords": "November, MH-60, Jayhawk, Coast Guard rescue, Columbia River, 2014, medevac, Oregon, Astoria, Pacific Ocean",
+  "date": "2014-11-08T00:00:00-05:00",
+  "date_published": "2014-11-08T17:26:55-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "141108-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/373058/coast-guard-medevacs-man-vessel-west-columbia-river-entrance",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.9586,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-373058",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:47Z",
+  "duration": 75.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1411/DOD_102076754/DOD_102076754.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9575,
+    "size": 91178126
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.97,
+    13.78,
+    53.92,
+    74.61
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      17.5,
+      24.1,
+      30.3,
+      35.5,
+      46.5,
+      54.8,
+      57.3,
+      74.6
+    ],
+    "silence_ends": [
+      13.8,
+      18.8,
+      28.0,
+      31.6,
+      38.8,
+      48.2,
+      55.6,
+      58.7,
+      75.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-373058.jpg",
+  "sheet_times": [
+    6.18,
+    10.61,
+    15.04,
+    19.48,
+    23.91,
+    28.34,
+    32.78,
+    37.21,
+    41.64,
+    46.08,
+    50.51,
+    54.94,
+    59.38,
+    63.81,
+    68.24,
+    72.68
+  ]
+}

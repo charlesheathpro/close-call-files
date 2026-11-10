@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:841251",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs person from cruise ship off Oregon Coast",
+  "description": "A U.S. Coast Guard Air Station Astoria aircrew medevacs a patient off a Disney cruise ship underway April 8, 2022 offshore of Astoria, Oregon. The patient reportedly was experiencing uncontrollable bleeding and was transferred to Life-Flight for further medical care in Portland. (U.S. Coast Guard courtesy video)",
+  "keywords": "hoist, Jayhawk, medevac, SAR, Astoria, Cruise Ship",
+  "date": "2022-04-28T00:00:00-04:00",
+  "date_published": "2022-04-28T20:01:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 3rd Class Diolanda Caballero",
+  "category": "B-Roll",
+  "virin": "220428-G-AF140-1002",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/841251/coast-guard-medevacs-person-cruise-ship-off-oregon-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-841251",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:42Z",
+  "duration": 90.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2204/DOD_108942883/DOD_108942883-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 96074665
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.27,
+    7.37,
+    28.6
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      90.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-841251.jpg",
+  "sheet_times": [
+    2.8,
+    8.4,
+    14.0,
+    19.6,
+    25.2,
+    30.8,
+    36.4,
+    42.0,
+    47.59,
+    53.19,
+    58.79,
+    64.39,
+    69.99,
+    75.59,
+    81.19,
+    86.79
+  ]
+}

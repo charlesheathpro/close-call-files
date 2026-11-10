@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:841247",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station Astoria medevacs person 181 nm offshore",
+  "description": "A U.S. Coast Guard Air Station Astoria air crew medevacs a patient off a Disney cruise ship April 8, 2022 near Astoria, Oregon. The patient reportedly was experiencing uncontrollable bleeding and was transferred to Life-Flight for further medical care in Portland, Oregon. (U.S. Coast Guard courtesy video)",
+  "keywords": "Sector Columbia River, Air Station Columbia River, Coast Guard, US Coast Guard, medevac",
+  "date": "2021-06-15T00:00:00-04:00",
+  "date_published": "2022-04-28T19:56:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Diolanda Caballero",
+  "category": "B-Roll",
+  "virin": "220428-G-AF140-1001",
+  "location": {
+    "city": "Astoria",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/841247/coast-guard-air-station-astoria-medevacs-person-181-nm-offshore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-841247",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:00Z",
+  "duration": 116.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2204/DOD_108942787/DOD_108942787-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 124110334
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.72,
+    17.82,
+    39.24
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      116.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-841247.jpg",
+  "sheet_times": [
+    3.63,
+    10.89,
+    18.14,
+    25.4,
+    32.66,
+    39.92,
+    47.17,
+    54.43,
+    61.69,
+    68.94,
+    76.2,
+    83.46,
+    90.72,
+    97.97,
+    105.23,
+    112.49
+  ]
+}

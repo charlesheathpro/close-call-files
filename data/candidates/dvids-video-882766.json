@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:882766",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Humboldt Bay conducts 2 separate medevacs in 1 day",
+  "description": "Coast Guard helicopter aircrews medically evacuated two people during two separate search and rescue cases off the Northern California coast on Monday May 8, 2023. (U.S. Coast Guard courtesy video)",
+  "keywords": "Humboldt Bay, CoastGuardNewsWire",
+  "date": "2023-05-08T00:00:00-04:00",
+  "date_published": "2023-05-09T18:52:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230508-G-G0211-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/882766/coast-guard-humboldt-bay-conducts-2-separate-medevacs-1-day",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-882766",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:02Z",
+  "duration": 221.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109626136/DOD_109626136-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 216824604
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.51,
+    119.29,
+    123.62,
+    204.8,
+    220.92
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      221.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-882766.jpg",
+  "sheet_times": [
+    6.91,
+    20.74,
+    34.57,
+    48.4,
+    62.23,
+    76.06,
+    89.88,
+    103.71,
+    117.54,
+    131.37,
+    145.2,
+    159.03,
+    172.86,
+    186.68,
+    200.51,
+    214.34
+  ]
+}

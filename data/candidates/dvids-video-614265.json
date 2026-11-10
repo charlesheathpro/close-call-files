@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:614265",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station Port Angeles aircrew medevacs injured hiker",
+  "description": "A Coast Guard aircrew aboard an MH-65 Dolphin helicopter from Air Station Port Angeles medically evacuates an injured hiker off of Sucia Island, Wash., July 18, 2018.\r\n\r\nThe injured hiker, a 69-year-old female reportedly dislocated her hip while hiking in the San Juan National Monument.\r\n\r\nU.S. Coast Guard video courtesy of Air Station Port Angeles.",
+  "keywords": "MH-65 Dolphin helicopter, Air Station Port Angeles, Sucia Island, San Juan National Monument, Coast Guard, Washington, USCG",
+  "date": "2018-07-18T00:00:00-04:00",
+  "date_published": "2018-07-20T17:18:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180718-G-G0213-1001",
+  "location": {
+    "city": "Sucia Island",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/614265/coast-guard-air-station-port-angeles-aircrew-medevacs-injured-hiker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-614265",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:46:29Z",
+  "duration": 54.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1807/DOD_105841068/DOD_105841068.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9125,
+    "size": 63515198
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    12.21,
+    12.55,
+    12.71,
+    19.55,
+    31.13,
+    39.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.1
+    ],
+    "silence_ends": [
+      54.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-614265.jpg",
+  "sheet_times": [
+    1.7,
+    5.1,
+    8.5,
+    11.9,
+    15.3,
+    18.7,
+    22.1,
+    25.5,
+    28.9,
+    32.29,
+    35.69,
+    39.09,
+    42.49,
+    45.89,
+    49.29,
+    52.69
+  ]
+}

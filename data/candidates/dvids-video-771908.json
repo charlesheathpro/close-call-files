@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:771908",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 55-year-old man west of San Diego",
+  "description": "An MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego medevacs a 55-year-old man from the vessel Jal Kamadhenu approximately 250 miles west of San Clemente Island, Nov. 5, 2020. The crew transported the patient to Scripps Memorial Hospital La Jolla. (Coast Guard video/released)",
+  "keywords": "b-roll, San Diego, USCG",
+  "date": "2020-11-05T00:00:00-05:00",
+  "date_published": "2020-11-05T17:11:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Alexander Gray",
+  "category": "B-Roll",
+  "virin": "201105-G-WE178-709",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/771908/coast-guard-medevacs-55-year-old-man-west-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-771908",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:36Z",
+  "duration": 92.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2011/DOD_108051039/DOD_108051039.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9991,
+    "size": 116888234
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.61,
+    80.88
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      5.6,
+      33.3,
+      63.8,
+      87.0,
+      89.3
+    ],
+    "silence_ends": [
+      33.0,
+      63.8,
+      87.0,
+      89.3,
+      92.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-771908.jpg",
+  "sheet_times": [
+    2.88,
+    8.63,
+    14.38,
+    20.13,
+    25.88,
+    31.63,
+    37.38,
+    43.13,
+    48.88,
+    54.63,
+    60.38,
+    66.13,
+    71.88,
+    77.63,
+    83.38,
+    89.13
+  ]
+}
