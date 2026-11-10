@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:514503",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "CBP Air Rescue",
+  "description": "On March 14, 2017 a hiker on Mt. Lemon, near Tucson, Ariz., fell nearly 40 feet and suffered multiple injuries, causing an U.S. Customs and Border Protection Air and Marine Operations helicopter crew from the Tucson Air Branch to conduct its second rescue mission in two consecutive days.",
+  "keywords": "cbp air marine rescue tucson arizona",
+  "date": "2017-03-14T00:00:00-04:00",
+  "date_published": "2017-03-17T12:22:40-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Michael Pope",
+  "category": "B-Roll",
+  "virin": "170314-A-AB123-002",
+  "location": {
+    "city": "",
+    "state": "Arizona",
+    "country": "United States",
+    "state_abbreviation": "AZ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/514503/cbp-air-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-514503",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:59:49Z",
+  "duration": 73.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104177661/DOD_104177661.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8722,
+    "size": 81675205
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    5.04,
+    20.42,
+    26.69,
+    34.7,
+    44.64,
+    47.35,
+    58.12,
+    63.36,
+    66.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      16.8,
+      18.2
+    ],
+    "silence_ends": [
+      5.0,
+      17.8,
+      19.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-514503.jpg",
+  "sheet_times": [
+    2.29,
+    6.87,
+    11.44,
+    16.02,
+    20.6,
+    25.18,
+    29.76,
+    34.33,
+    38.91,
+    43.49,
+    48.07,
+    52.65,
+    57.22,
+    61.8,
+    66.38,
+    70.96
+  ]
+}

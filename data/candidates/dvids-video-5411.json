@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:5411",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Aerial Rescue Operations",
+  "description": "Aerial rescue operations conducted in New Orleans nine days after Hurricane Katrina.  Scenes include flooded areas, Soldiers on ground rescuing survivors, various disaster areas and aerial rescue operations.  Video from 1st Combat Camera Squadron. hkat",
+  "keywords": "Hurricane Katrina",
+  "date": "2005-09-07T00:00:00-04:00",
+  "date_published": "2005-09-09T11:49:52-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/5411/aerial-rescue-operations",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03737,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-5411",
+  "status": "new",
+  "harvested_at": "2026-11-10T18:00:18Z",
+  "duration": 83.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0509/DOD_N05090836/DOD_N05090836.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-5411.jpg",
+  "sheet_times": [
+    6.5,
+    11.42,
+    16.35,
+    21.27,
+    26.2,
+    31.12,
+    36.05,
+    40.97,
+    45.89,
+    50.82,
+    55.74,
+    60.67,
+    65.59,
+    70.52,
+    75.44,
+    80.37
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "asset_id": "video:150581",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Search and rescue team",
+  "description": "B roll of Soldiers from the 178th Engineer Company shore up vehicles stacked upon one another so that they can rescue a trapped victim during Exercise Vibrant Response 13 at Mascatatuck Urban Training Center, IN. Available in high definition.",
+  "keywords": "Vibrant Response, 178th Engineer Company, Vibrant Response 13",
+  "date": "2012-07-28T00:00:00-04:00",
+  "date_published": "2012-07-30T22:30:06-04:00",
+  "branch": "Joint",
+  "unit_name": "Defense Imagery Management Operations Center",
+  "credit": "Spc. Chuck Gill",
+  "category": "B-Roll",
+  "virin": "120728-A-ZS680-012",
+  "location": {
+    "city": "MUTC",
+    "state": "Indiana",
+    "country": "United States",
+    "state_abbreviation": "IN",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/150581/search-and-rescue-team",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-150581",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:59:09Z",
+  "duration": 230.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1207/DOD_100454987/DOD_100454987.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9289,
+    "size": 275635422
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 206.83,
+      "e": 207.83,
+      "text": "There's that bar."
+    },
+    {
+      "s": 207.83,
+      "e": 229.63,
+      "text": "Put your plan here."
+    },
+    {
+      "s": 229.63,
+      "e": 230.63,
+      "text": "We'll just do it back."
+    }
+  ],
+  "scene_cuts": [
+    7.11,
+    16.15,
+    16.35,
+    18.15,
+    21.52,
+    25.06,
+    29.1,
+    43.74,
+    48.58,
+    67.73,
+    73.27,
+    73.51,
+    73.71,
+    91.93,
+    113.75,
+    117.38,
+    123.19,
+    136.47,
+    152.35,
+    159.39,
+    160.89,
+    171.71,
+    178.11,
+    186.99,
+    195.23,
+    198.57,
+    200.67,
+    205.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      198.6,
+      202.1,
+      209.2,
+      212.5
+    ],
+    "silence_ends": [
+      187.0,
+      199.3,
+      203.1,
+      210.4,
+      213.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-150581.jpg",
+  "sheet_times": [
+    7.19,
+    21.58,
+    35.96,
+    50.34,
+    64.73,
+    79.11,
+    93.49,
+    107.88,
+    122.26,
+    136.64,
+    151.03,
+    165.41,
+    179.79,
+    194.18,
+    208.56,
+    222.94
+  ]
+}

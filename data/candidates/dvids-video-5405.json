@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:5405",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Helicopter Search and Rescue",
+  "description": "Helicopters fly over New Orleans disaster areas searching for and rescuing people stranded in their homes. Scenes include helicopters serching for survivors, helicopter crews removing people from their homes and returning them to safety. Video from Joint Task Force Katrina. hkat",
+  "keywords": null,
+  "date": "2005-09-08T00:00:00-04:00",
+  "date_published": "2005-09-09T11:54:32-04:00",
+  "branch": "Army",
+  "unit_name": "1st Armored Brigade Combat Team, 34th Red Bull Infantry Division",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/5405/helicopter-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.03637,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-5405",
+  "status": "new",
+  "harvested_at": "2026-11-10T18:00:25Z",
+  "duration": 104.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0509/DOD_N05090831/DOD_N05090831.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.04,
+    11.88,
+    17.35,
+    21.12,
+    21.89,
+    27.53,
+    34.0,
+    39.54,
+    44.31,
+    53.15,
+    60.13,
+    64.3,
+    69.87,
+    75.48,
+    79.05,
+    84.72,
+    90.79,
+    96.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      44.3
+    ],
+    "silence_ends": [
+      3.0,
+      45.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-5405.jpg",
+  "sheet_times": [
+    6.2,
+    12.54,
+    18.88,
+    25.21,
+    31.55,
+    37.88,
+    44.22,
+    50.55,
+    56.89,
+    63.22,
+    69.56,
+    75.89,
+    82.23,
+    88.57,
+    94.9,
+    101.24
+  ]
+}
