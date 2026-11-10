@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-99037",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:44:52Z",
   "duration": 187.7,
   "source_file": {
@@ -66,5 +66,6 @@
     157.95,
     169.65,
     181.35
-  ]
+  ],
+  "pass_reason": "same Chickamauga Lock tornado as ccf-20261109-31"
 }

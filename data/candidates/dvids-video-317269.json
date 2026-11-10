@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-317269",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:39:51Z",
   "duration": 62.96,
   "source_file": {
@@ -195,5 +195,6 @@
     52.7,
     56.61,
     60.51
-  ]
+  ],
+  "pass_reason": "blurry fisheye door-cam; breakwall and hunters never clear"
 }

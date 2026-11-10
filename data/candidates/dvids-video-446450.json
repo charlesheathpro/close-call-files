@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-446450",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:39:45Z",
   "duration": 182.32,
   "source_file": {
@@ -67,5 +67,6 @@
     153.41,
     164.77,
     176.13
-  ]
+  ],
+  "pass_reason": "washed-out purple sensor footage with HUD text, and repeats the sailboat hoist published Nov 9"
 }
