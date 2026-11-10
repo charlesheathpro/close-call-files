@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:490243",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from tanker 15 miles off Glaveston, Texas",
+  "description": "A Coast Guard Air Station MH-65 Dolphin helicopter crew medevacs a man suffering from hernia symptoms off a tanker near Galveston, Texas, Oct. 31, 2016. The helicpoter crew ensured that the man was taken to a local airport where he was transferred to EMS in stable condition. U.S. Coast Guard video by Air Station Houston",
+  "keywords": "MH-65 Dolphin, tanker, Coast Guard rescue, PADET Houston, Coast Guard, medevac, rescue, USCG, Air Station Houston, U.S., CG",
+  "date": "2016-10-31T00:00:00-04:00",
+  "date_published": "2016-10-31T19:10:48-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "163110-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/490243/coast-guard-medevacs-man-tanker-15-miles-off-glaveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-490243",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:53:17Z",
+  "duration": 72.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1610/DOD_103804702/DOD_103804702.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8897,
+    "size": 81503972
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    12.61,
+    31.6,
+    39.51,
+    59.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      72.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-490243.jpg",
+  "sheet_times": [
+    6.14,
+    10.37,
+    14.6,
+    18.83,
+    23.06,
+    27.29,
+    31.52,
+    35.75,
+    39.98,
+    44.22,
+    48.45,
+    52.68,
+    56.91,
+    61.14,
+    65.37,
+    69.6
+  ]
+}

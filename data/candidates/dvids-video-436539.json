@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:436539",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station New Orleans medevacs woman from cruise ship",
+  "description": "An MH-64 Dolphin helicopter rescue crew from Coast Guard Air Station New Orleans medevacs a woman suffering from cardiac issues, from a cruise ship in the Gulf of Mexico, Nov. 15, 2015.\r\n\r\nRescue crews hoisted both the woman and a nurse aboard and brought them to shoreside EMS.\r\n\r\nCoast Guard video by Coast Guard Air Station New Orleans",
+  "keywords": "Coast Guard rescue, medieval, Coast Guard",
+  "date": "2015-11-15T00:00:00-05:00",
+  "date_published": "2015-11-16T14:57:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Seth Johnson",
+  "category": "B-Roll",
+  "virin": "151115-G-SQ620-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/436539/coast-guard-air-station-new-orleans-medevacs-woman-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-436539",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:53:03Z",
+  "duration": 40.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1511/DOD_102889887/DOD_102889887.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7350,
+    "size": 37569673
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    34.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      34.3
+    ],
+    "silence_ends": [
+      4.1,
+      40.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-436539.jpg",
+  "sheet_times": [
+    5.18,
+    7.41,
+    9.64,
+    11.88,
+    14.11,
+    16.34,
+    18.58,
+    20.81,
+    23.05,
+    25.28,
+    27.51,
+    29.75,
+    31.98,
+    34.21,
+    36.45,
+    38.68
+  ]
+}

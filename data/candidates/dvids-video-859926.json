@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:859926",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise ship passenger 195 miles offshore Mobile, Alabama",
+  "description": "Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter aircrew hoist a 75-year-old man and ship's nurse from a cruise ship approximately 195 miles south of Mobile, Alabama, Oct. 5, 2022. The aircrew transported them to University Medical Center New Orleans. (U.S. Coast Guard courtesy video by Air Station New Orleans)",
+  "keywords": "MH-60, District 8, CoastGuardNewsWire, medevac, Mobile, Air Station New Orleans",
+  "date": "2022-10-05T00:00:00-04:00",
+  "date_published": "2022-10-06T11:40:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221005-G-G0108-1001",
+  "location": {
+    "city": "Mobile",
+    "state": "Alabama",
+    "country": "United States",
+    "state_abbreviation": "AL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859926/coast-guard-medevacs-cruise-ship-passenger-195-miles-offshore-mobile-alabama",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-859926",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:55:33Z",
+  "duration": 53.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109257214/DOD_109257214-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 56265550
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    38.91
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      53.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859926.jpg",
+  "sheet_times": [
+    1.65,
+    4.95,
+    8.25,
+    11.55,
+    14.86,
+    18.16,
+    21.46,
+    24.76,
+    28.06,
+    31.36,
+    34.66,
+    37.96,
+    41.27,
+    44.57,
+    47.87,
+    51.17
+  ]
+}

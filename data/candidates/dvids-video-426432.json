@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:426432",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Woman from Cruise Ship 115 Miles off Galveston",
+  "description": "Coast Guard MH-65 Dolphin helicopter air crew medevacs a 43-year-old female from a cruise ship 115 miles offshore Galveston, Friday, Oct. 2, 2015. The woman reportedly suffered from a heart attack while aboard the cruise ship. U.S. Coast Guard video courtesy of Air Station Houston, Texas.",
+  "keywords": "Cruise, Coast Guard rescue, medevac, Air Station Houston",
+  "date": "2015-10-02T00:00:00-04:00",
+  "date_published": "2015-10-02T18:48:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151002-G-XX999-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/426432/coast-guard-medevacs-woman-cruise-ship-115-miles-off-galveston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.7594,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-426432",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:53:20Z",
+  "duration": 155.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102773055/DOD_102773055.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8940,
+    "size": 175649001
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.74,
+    4.74,
+    33.83,
+    73.31
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      155.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-426432.jpg",
+  "sheet_times": [
+    9.46,
+    18.85,
+    28.25,
+    37.64,
+    47.04,
+    56.43,
+    65.82,
+    75.22,
+    84.61,
+    94.01,
+    103.4,
+    112.8,
+    122.19,
+    131.59,
+    140.98,
+    150.38
+  ]
+}

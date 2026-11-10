@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:512313",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from tanker off San Luis Pass, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter aircrew medevacs the chief engineer from the tanker ship, Ingrid, after he broke his leg about 35 miles off San Luis Pass, Texas, Mar. 02, 2017. The man was medevaced and taken to University of Texas Medical Branch in Galveston and transferred in stable condition. U.S. Coast Guard video by Air Station Houston",
+  "keywords": "tanker, Galveston, MH-65 Dolphin helicopter, padet texas, Coast Guard, medevac, rescue, USCG, Air Station Houston, U.S., CG",
+  "date": "2017-03-02T00:00:00-05:00",
+  "date_published": "2017-03-02T17:04:35-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Dustin Williams",
+  "category": "B-Roll",
+  "virin": "170302-G-CZ043-1003",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/512313/coast-guard-medevacs-man-tanker-off-san-luis-pass-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-512313",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:53:14Z",
+  "duration": 43.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104126616/DOD_104126616.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8333,
+    "size": 46529011
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    15.98,
+    36.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      44.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-512313.jpg",
+  "sheet_times": [
+    5.26,
+    7.72,
+    10.19,
+    12.66,
+    15.12,
+    17.59,
+    20.05,
+    22.52,
+    24.99,
+    27.45,
+    29.92,
+    32.38,
+    34.85,
+    37.31,
+    39.78,
+    42.25
+  ]
+}

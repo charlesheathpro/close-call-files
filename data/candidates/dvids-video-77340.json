@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:77340",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Air Station New Orleans Medevacs Man from Oil Platform",
+  "description": "B-roll of Coast Guard Air Station New Orleans medevacing a man from oil platform. Video by Petty Officer Tom Atkeson. Scenes include Coast Guard members helping the man onto the helicopter and helping him off the helicopter onto a stretcher.",
+  "keywords": "rescue at sea",
+  "date": "2010-01-18T00:00:00-05:00",
+  "date_published": "2010-01-18T22:47:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "091810-G-3422A-001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/77340/coast-guard-air-station-new-orleans-medevacs-man-oil-platform",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-77340",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:55:53Z",
+  "duration": 60.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1001/DOD_100062020/DOD_100062020.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.04,
+    9.38,
+    25.63,
+    39.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-77340.jpg",
+  "sheet_times": [
+    1.87,
+    5.6,
+    9.33,
+    13.07,
+    16.8,
+    20.54,
+    24.27,
+    28.0,
+    31.74,
+    35.47,
+    39.2,
+    42.94,
+    46.67,
+    50.41,
+    54.14,
+    57.87
+  ]
+}

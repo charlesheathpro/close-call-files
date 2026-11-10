@@ -1,0 +1,143 @@
+{
+  "asset_id": "video:892552",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 71-year-old man offshore Port Fourchon, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter air crew hoists and medevacs a man approximately 100 miles southwest of Port Fourchon, Louisiana, August 3, 2023. The man was brought to University Medical Center in New Orleans, where he was last reported to be in stable condition. (U.S. Coast Guard video by Coast Guard Air Station New Orleans)",
+  "keywords": "Nola, Jayhawk, osv",
+  "date": "2023-08-03T00:00:00-04:00",
+  "date_published": "2023-08-03T14:58:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230803-G-G0108-1001",
+  "location": {
+    "city": "Port Fourchon",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/892552/coast-guard-medevacs-71-year-old-man-offshore-port-fourchon-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-892552",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:54:16Z",
+  "duration": 77.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109805526/DOD_109805526-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 79484416
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.62,
+      "e": 3.62,
+      "text": "and so where is Altitude?"
+    },
+    {
+      "s": 3.62,
+      "e": 5.62,
+      "text": "He is disconnected."
+    },
+    {
+      "s": 5.62,
+      "e": 7.62,
+      "text": "Yeah, we're going to pick up."
+    },
+    {
+      "s": 7.62,
+      "e": 22.38,
+      "text": "I just cleared the vessel."
+    },
+    {
+      "s": 22.38,
+      "e": 64.7,
+      "text": "Clear back and forth."
+    },
+    {
+      "s": 64.7,
+      "e": 65.7,
+      "text": "Altitude."
+    },
+    {
+      "s": 65.7,
+      "e": 66.7,
+      "text": "Altitude."
+    },
+    {
+      "s": 66.7,
+      "e": 67.7,
+      "text": "Altitude."
+    },
+    {
+      "s": 67.7,
+      "e": 74.41,
+      "text": "So, what's the last way up?"
+    }
+  ],
+  "scene_cuts": [
+    26.03,
+    51.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      10.4,
+      18.7,
+      24.0,
+      26.2,
+      31.4,
+      40.4,
+      44.9,
+      52.3,
+      60.4,
+      63.2,
+      70.2,
+      75.5
+    ],
+    "silence_ends": [
+      1.6,
+      15.7,
+      21.0,
+      26.0,
+      29.4,
+      36.7,
+      41.9,
+      51.9,
+      54.5,
+      61.4,
+      63.8,
+      72.8,
+      77.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-892552.jpg",
+  "sheet_times": [
+    2.41,
+    7.23,
+    12.04,
+    16.86,
+    21.68,
+    26.5,
+    31.31,
+    36.13,
+    40.95,
+    45.76,
+    50.58,
+    55.4,
+    60.22,
+    65.03,
+    69.85,
+    74.67
+  ]
+}
