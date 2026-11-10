@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:669442",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man 65 Miles East of Kodiak, Alaska",
+  "description": "An Air Station Kodiak MH-60 Jayhawk helicopter crew medevacs a man from a fishing vessel who was suffering symptoms of a heart attack east of Kodiak, April 1, 2019. He was taken to Kodiak and placed in the care of awaiting EMS. Coast Guard video by Air Station Kodiak",
+  "keywords": "Air Station Kodiak, MH-60 Jayhawk helicopter, D17, medevac, Alaska",
+  "date": "2019-04-01T00:00:00-04:00",
+  "date_published": "2019-04-02T13:35:02-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190402-G-G0217-1001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/669442/coast-guard-medevacs-man-65-miles-east-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-669442",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:07Z",
+  "duration": 42.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1904/DOD_106598701/DOD_106598701.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10163,
+    "size": 54947794
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.95,
+    30.56,
+    37.57
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      42.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-669442.jpg",
+  "sheet_times": [
+    1.32,
+    3.95,
+    6.59,
+    9.23,
+    11.86,
+    14.5,
+    17.13,
+    19.77,
+    22.41,
+    25.04,
+    27.68,
+    30.31,
+    32.95,
+    35.59,
+    38.22,
+    40.86
+  ]
+}

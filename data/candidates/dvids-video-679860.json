@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:679860",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fisherman 50-miles northeast of St. Paul",
+  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter aircrew medically evacuates a man from the fishing vessel Araho, approximately 50-miles northeast of St. Paul, Alaska, May 10, 2019.  The man suffered a leg injury after a storage crate reportedly fell on him while he was stacking fish pans. Video courtesy of U.S. Coast Guard.",
+  "keywords": "Fisherman, Coast Guard, SAR, search and rescue, St. Paul, rescue, fishing, Alaska, Juneau",
+  "date": "2019-05-10T00:00:00-04:00",
+  "date_published": "2019-05-11T04:03:59-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190510-G-G0217-0001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/679860/coast-guard-medevacs-fisherman-50-miles-northeast-st-paul",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-679860",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:03Z",
+  "duration": 62.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106743950/DOD_106743950.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10205,
+    "size": 80223370
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.56,
+      "e": 9.2,
+      "text": "Altitude. Altitude."
+    }
+  ],
+  "scene_cuts": [
+    14.15,
+    36.84
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-679860.jpg",
+  "sheet_times": [
+    1.95,
+    5.85,
+    9.74,
+    13.64,
+    17.54,
+    21.44,
+    25.33,
+    29.23,
+    33.13,
+    37.03,
+    40.93,
+    44.82,
+    48.72,
+    52.62,
+    56.52,
+    60.41
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:530618",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man, 35, 90 miles east of Savannah",
+  "description": "Coast Guard medevacs man, 35, 90 miles east of Savannah, Georgia.",
+  "keywords": "medevac, rescue",
+  "date": "2017-06-09T00:00:00-04:00",
+  "date_published": "2017-06-09T20:00:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 1st Class Luke Clayton",
+  "category": "B-Roll",
+  "virin": "170609-G-G0107-001",
+  "location": {
+    "city": "Savannah",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/530618/coast-guard-medevacs-man-35-90-miles-east-savannah",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 13.368,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-530618",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:30:44Z",
+  "duration": 330.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104466836/DOD_104466836.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8551,
+    "size": 357769698
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    65.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      330.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-530618.jpg",
+  "sheet_times": [
+    23.27,
+    43.08,
+    62.89,
+    82.7,
+    102.51,
+    122.32,
+    142.13,
+    161.94,
+    181.75,
+    201.56,
+    221.37,
+    241.17,
+    260.98,
+    280.79,
+    300.6,
+    320.41
+  ]
+}

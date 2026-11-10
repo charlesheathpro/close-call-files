@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:986689",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "U.S. Coast Guard Air Station Detroit Medevac on Lake Huron",
+  "description": "U.S. Coast Guard Air Station Detroit MH-65 Dolphin helicopter crew performs an air rescue for a crew member aboard the laker freighter, American Courage, near Harbor Beach, Michigan, on Lake Huron, Nov. 14, 2025. The crew arrived on scene, preformed the medevac then transferred the individual to local emergency services for a higher level of care. (U.S. Coast Guard courtesy video)",
+  "keywords": "U.S. Coast Guard Air Station Detroit",
+  "date": "2025-11-14T00:00:00-05:00",
+  "date_published": "2025-11-17T12:14:13-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Petty Officer 3rd Class Mary Wysong",
+  "category": "B-Roll",
+  "virin": "251117-G-G0109-1001",
+  "location": {
+    "city": "",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/986689/us-coast-guard-air-station-detroit-medevac-lake-huron",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-986689",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:30:07Z",
+  "duration": 28.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2511/DOD_111383420/DOD_111383420-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 29809161
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    19.99,
+    23.99
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-986689.jpg",
+  "sheet_times": [
+    0.88,
+    2.64,
+    4.41,
+    6.17,
+    7.93,
+    9.69,
+    11.45,
+    13.22,
+    14.98,
+    16.74,
+    18.5,
+    20.27,
+    22.03,
+    23.79,
+    25.55,
+    27.31
+  ]
+}

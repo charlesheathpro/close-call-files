@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:582167",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman from cruise ship off Oahu",
+  "description": "A 71-year-old woman from the cruise ship Grand Princess was medevaced by the Coast Guard 14 miles south of Oahu, Jan. 30, 2018. At 1:35 a.m., an MH-65 Dolphin helicopter aircrew from Coast Guard Air Station Barbers Point hoisted the woman and safely delivered her in stable condition to awaiting emergency medical personnel at The Queen’s Medical Center. (U.S. Coast Guard video/Released)",
+  "keywords": "Oahu, Air Station Barbers Point, sector, Coast Guard, Hawaii, medevac, Cruise Ship, Honolulu",
+  "date": "2018-01-30T00:00:00-05:00",
+  "date_published": "2018-01-30T17:28:48-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180130-G-G0214-1001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/582167/coast-guard-medevacs-woman-cruise-ship-off-oahu",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-582167",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:23Z",
+  "duration": 105.11,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105281456/DOD_105281456.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8346,
+    "size": 111372777
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.22,
+    100.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      105.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-582167.jpg",
+  "sheet_times": [
+    3.27,
+    9.81,
+    16.35,
+    22.88,
+    29.42,
+    35.96,
+    42.5,
+    49.04,
+    55.57,
+    62.11,
+    68.65,
+    75.19,
+    81.73,
+    88.26,
+    94.8,
+    101.34
+  ]
+}

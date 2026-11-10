@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:961814",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs captain from fishing vessel offshore Hawaii",
+  "description": "An HC-130 Hercules airplane crew from Coast Guard Air Station Barbers Point conducts an airdrop of antibiotics to a commercial fishing vessel 675 miles offshore Hilo, Hawaii, May 7, 2025. The 68-year-old captain of the fishing vessel had been reportedly experiencing symptoms including severe abdominal pain and fever. (U.S. Coast Guard video by Petty Officer 3rd Class Avery Tibbets and Air Station Barbers Point)",
+  "keywords": "USCG Air Station Barbers Point, USCG, Hawaii, Medicine Airdrop",
+  "date": "2025-05-07T19:40:00-04:00",
+  "date_published": "2025-05-10T00:58:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Avery Tibbets",
+  "category": "B-Roll",
+  "virin": "250509-G-BQ071-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/961814/coast-guard-medevacs-captain-fishing-vessel-offshore-hawaii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-961814",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:31:44Z",
+  "duration": 75.26,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_110984290/DOD_110984290.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 88171336
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.01,
+    16.45,
+    16.52
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      75.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-961814.jpg",
+  "sheet_times": [
+    2.34,
+    7.01,
+    11.68,
+    16.35,
+    21.03,
+    25.7,
+    30.37,
+    35.04,
+    39.72,
+    44.39,
+    49.06,
+    53.73,
+    58.41,
+    63.08,
+    67.75,
+    72.42
+  ]
+}
