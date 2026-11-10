@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-21024",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:39:40Z",
   "duration": 237.67,
   "source_file": {
@@ -143,5 +143,6 @@
     200.74,
     215.31,
     229.88
-  ]
+  ],
+  "pass_reason": "combat footage, off topic"
 }

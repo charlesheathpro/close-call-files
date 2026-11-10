@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-597071",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:49:26Z",
   "duration": 70.44,
   "source_file": {
@@ -68,5 +68,6 @@
     59.01,
     63.39,
     67.76
-  ]
+  ],
+  "pass_reason": "night FLIR, mostly white glare; unreadable"
 }

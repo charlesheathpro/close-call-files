@@ -26,7 +26,7 @@
   "time_start": 4.1588,
   "aspect_ratio": "16:9",
   "id": "dvids-video-397274",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:56:01Z",
   "duration": 181.03,
   "source_file": {
@@ -286,5 +286,6 @@
     152.98,
     164.0,
     175.02
-  ]
+  ],
+  "pass_reason": "door-cam of a hoist from a container ship deck; the sailor and his disabled boat are never on screen"
 }

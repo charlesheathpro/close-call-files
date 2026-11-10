@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-94427",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:51:57Z",
   "duration": 133.97,
   "source_file": {
@@ -69,5 +69,6 @@
     113.24,
     121.33,
     129.42
-  ]
+  ],
+  "pass_reason": "footage (sailboat, person in water) does not match the release (woman on rocks); facts unverifiable"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-850174",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:55:12Z",
   "duration": 147.15,
   "source_file": {
@@ -69,5 +69,6 @@
     123.73,
     132.9,
     142.06
-  ]
+  ],
+  "pass_reason": "black-and-white FLIR of a grounded sailboat, injured man; calm and murky"
 }

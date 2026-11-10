@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-442755",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:42:13Z",
   "duration": 81.66,
   "source_file": {
@@ -71,5 +71,6 @@
     69.11,
     73.93,
     78.75
-  ]
+  ],
+  "pass_reason": "disabled sailboat 60 miles out repeats the offshore sailboat hoist queued Nov 9 (3-day rule)"
 }

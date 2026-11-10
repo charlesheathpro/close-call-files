@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-316041",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:43:44Z",
   "duration": 39.1,
   "source_file": {
@@ -143,5 +143,6 @@
     32.57,
     34.98,
     37.4
-  ]
+  ],
+  "pass_reason": "survivor offload on a helipad; no rescue on screen"
 }

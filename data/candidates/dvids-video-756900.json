@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-756900",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:34:10Z",
   "duration": 19.22,
   "source_file": {
@@ -64,5 +64,6 @@
     15.79,
     16.96,
     18.13
-  ]
+  ],
+  "pass_reason": "19 s grainy black-and-white FLIR of a flat boat in a marsh; no visible danger"
 }
