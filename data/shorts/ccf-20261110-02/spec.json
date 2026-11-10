@@ -51,7 +51,7 @@
       "source_quote": "Agents successfully extracted the man using a hoist. The subject was airlifted and turned over to the Three Points Fire Department for further treatment."
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -163,28 +163,34 @@
     ],
     [
       {
-        "start": 140.0,
-        "end": 143.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 144.0,
-        "end": 147.5,
+        "start": 148.8,
+        "end": 151.8,
         "layout": "crop",
         "crop_x": 0.45
+      },
+      {
+        "start": 151.8,
+        "end": 154.4,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 150.0,
-        "end": 153.0,
+        "start": 154.4,
+        "end": 156.6,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 153.0,
-        "end": 156.5,
+        "start": 157.0,
+        "end": 159.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 163.5,
+        "end": 166.8,
         "layout": "crop",
         "crop_x": 0.5
       }
