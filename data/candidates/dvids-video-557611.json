@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:557611",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man From Cruise Ship Near Point Arena, Calif.",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station San Francisco medevacs a 75-year-old Canadian national who was reportedly suffering symptoms of a heart attack aboard the cruise ship Star Princess, approximately 30 miles northwest of Point Arena, Oct. 9. U.S. Coast Guard video.",
+  "keywords": "Cruise, helicopter, Coast Guard, medevac, aviation, San Francisco",
+  "date": "2017-10-09T00:00:00-04:00",
+  "date_published": "2017-10-11T16:01:56-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "171010-G-MR731-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/557611/coast-guard-medevacs-man-cruise-ship-near-point-arena-calif",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-557611",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:57:07Z",
+  "duration": 132.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104949949/DOD_104949949.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9935,
+    "size": 165025042
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.65,
+    16.35,
+    51.45,
+    52.19,
+    101.3,
+    101.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      132.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-557611.jpg",
+  "sheet_times": [
+    4.13,
+    12.4,
+    20.66,
+    28.93,
+    37.19,
+    45.46,
+    53.72,
+    61.99,
+    70.25,
+    78.52,
+    86.78,
+    95.04,
+    103.31,
+    111.57,
+    119.84,
+    128.1
+  ]
+}

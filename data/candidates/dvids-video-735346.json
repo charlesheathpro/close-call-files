@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:735346",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger 160 miles off San Diego",
+  "description": "The crew aboard a Coast Guard Sector San Diego MH-60 Jayhawk helicopter medevac a 28-year-old woman from the cruise ship Grant Princess approximately 160 miles west of San Diego Jan. 21, 2020. The crew transported the patient to Scripps Memorial Hospital La Jolla. (U.S. Coast Guard video/ released)",
+  "keywords": "hoist, Coast Guard, SAR, USCG",
+  "date": "2020-01-21T00:00:00-05:00",
+  "date_published": "2020-01-21T21:04:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Alexander Gray",
+  "category": "B-Roll",
+  "virin": "200121-A-WE178-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/735346/coast-guard-medevacs-cruise-ship-passenger-160-miles-off-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-735346",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:56:08Z",
+  "duration": 65.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2001/DOD_107599285/DOD_107599285.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9937,
+    "size": 81992139
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.64,
+    14.78,
+    23.49,
+    38.37,
+    54.62
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      65.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-735346.jpg",
+  "sheet_times": [
+    2.05,
+    6.14,
+    10.23,
+    14.32,
+    18.41,
+    22.5,
+    26.59,
+    30.68,
+    34.77,
+    38.86,
+    42.95,
+    47.04,
+    51.13,
+    55.22,
+    59.31,
+    63.4
+  ]
+}

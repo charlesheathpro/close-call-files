@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:742587",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger 40 miles off San Diego",
+  "description": "The crew aboard a Coast Guard Sector San Diego MH-60 Jayhawk helicopter medevac a 73-year-old man from the cruise ship Carnival Inspiration approximately 40 miles west of San Diego, March 10, 2020. The crew transported the patient to Scripps Memorial Hospital La Jolla. (U.S. Coast Guard video/ released)",
+  "keywords": "Scripps, Coast Guard, San Diego, Medivac",
+  "date": "2020-03-10T00:00:00-04:00",
+  "date_published": "2020-03-10T20:05:31-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Alexander Gray",
+  "category": "B-Roll",
+  "virin": "200310-G-WE178-649",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/742587/coast-guard-medevacs-cruise-ship-passenger-40-miles-off-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-742587",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:56:05Z",
+  "duration": 167.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2003/DOD_107722277/DOD_107722277.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10010,
+    "size": 210120763
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      167.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-742587.jpg",
+  "sheet_times": [
+    5.23,
+    15.68,
+    26.13,
+    36.58,
+    47.04,
+    57.49,
+    67.94,
+    78.39,
+    88.85,
+    99.3,
+    109.75,
+    120.2,
+    130.66,
+    141.11,
+    151.56,
+    162.01
+  ]
+}
