@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:850175",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured man from grounded vessel near Cedar Key",
+  "description": "An Air Station Clearwater MH-60 helicopter crew rescues an injured man from his aground sail vessel near Cedar Key July 13, 2022. The vessel owner arranged with commercial salvage services for salvage operations. (U.S. Coast Guard video)",
+  "keywords": "CoastGuardNewsWire, US Coast Guard",
+  "date": "2022-07-13T00:00:00-04:00",
+  "date_published": "2022-07-13T12:36:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Erik Villa Rodriguez",
+  "category": "B-Roll",
+  "virin": "220713-G-G0107-1002",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/850175/coast-guard-medevacs-injured-man-grounded-vessel-near-cedar-key",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-850175",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:35Z",
+  "duration": 18.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109104282/DOD_109104282-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 19237879
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      18.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-850175.jpg",
+  "sheet_times": [
+    0.55,
+    1.65,
+    2.75,
+    3.85,
+    4.96,
+    6.06,
+    7.16,
+    8.26,
+    9.36,
+    10.46,
+    11.56,
+    12.66,
+    13.76,
+    14.87,
+    15.97,
+    17.07
+  ]
+}

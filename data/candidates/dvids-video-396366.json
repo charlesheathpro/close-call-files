@@ -1,0 +1,97 @@
+{
+  "asset_id": "video:396366",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 44-year-old Man from Passenger Vessel",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuated a 44-year-old man from a commercial fishing boat nearly 6 miles south of San Clemente Island, March, 26, 2015. The crew of the 65-foot vessel Commander requested assistance from the Coast Guard for a passenger who was experiencing severe upper abdominal pain. U.S. Coast Guard video.",
+  "keywords": "medical evacuation, San Clemente Island, Coast Guard rescue, abdominal pain, SCI, medevac, commander, rescue, fishing",
+  "date": "2015-03-26T00:00:00-04:00",
+  "date_published": "2015-03-26T19:32:27-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "150326-G-XX000-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/396366/coast-guard-medevacs-44-year-old-man-passenger-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-396366",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:48:19Z",
+  "duration": 129.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102326796/DOD_102326796.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9033,
+    "size": 146298902
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 31.82,
+      "e": 45.73,
+      "text": "Easy foot right and hold, but always hook."
+    },
+    {
+      "s": 45.73,
+      "e": 48.03,
+      "text": "Turn this connecting foot over, easy back and left."
+    },
+    {
+      "s": 48.03,
+      "e": 49.19,
+      "text": "Keep it always hook."
+    },
+    {
+      "s": 49.19,
+      "e": 51.19,
+      "text": "There's a few minutes to keep it always hook."
+    }
+  ],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      38.4,
+      51.9
+    ],
+    "silence_ends": [
+      23.5,
+      39.5,
+      129.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-396366.jpg",
+  "sheet_times": [
+    7.92,
+    15.69,
+    23.47,
+    31.25,
+    39.03,
+    46.81,
+    54.59,
+    62.37,
+    70.15,
+    77.93,
+    85.71,
+    93.49,
+    101.27,
+    109.05,
+    116.83,
+    124.61
+  ]
+}

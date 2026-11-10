@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:619264",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from vessel 46 miles east of Myrtle Beach",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Coast Guard Air Facility Charleston hoists a 47-year-old man suffering from chest pains Tuesday, August 14, 2018, while aboard the Super Voyager III, a 110-foot charter vessel, 46 miles east of Myrtle Beach, South Carolina. The man was transported to the Grand Strand Regional Medical Center. (U.S. Coast Guard video courtesy of Air Station Savannah)",
+  "keywords": "MH-65 Dolphin helicopter, Myrtle Beach, Air Station Savannah, medevac, South Carolina, USCG",
+  "date": "2018-08-14T00:00:00-04:00",
+  "date_published": "2018-08-14T18:21:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180814-G-G0107-1001",
+  "location": {
+    "city": "Myrtle Beach",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/619264/coast-guard-medevacs-man-vessel-46-miles-east-myrtle-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-619264",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:47Z",
+  "duration": 66.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105923689/DOD_105923689.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8703,
+    "size": 72148243
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      66.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-619264.jpg",
+  "sheet_times": [
+    2.05,
+    6.16,
+    10.27,
+    14.38,
+    18.49,
+    22.6,
+    26.71,
+    30.82,
+    34.92,
+    39.03,
+    43.14,
+    47.25,
+    51.36,
+    55.47,
+    59.58,
+    63.69
+  ]
+}

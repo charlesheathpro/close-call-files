@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:844059",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard aircrew medevacs passenger from Alaska ferry Kennicott in Shelikof Strait",
+  "description": "Video shows Air Station Kodiak aircrew medically evacuating a man from the Alaska ferry Kennicott in Shelikof Strait, Alaska, on May 18, 2022.\r\n\r\nThe 30-year-old passenger had reportedly sustained multiple injuries while aboard the ferry.\r\n\r\nU.S. Coast Guard imagery courtesy of Lt. Scott Kellerman.",
+  "keywords": "ferry, Air Station Kodiak, Shelikof Strait, KENNICOTT, CoastGuardNewsWire, Scott Kellerman, Coast Guard, Alaska",
+  "date": "2022-05-18T00:00:00-04:00",
+  "date_published": "2022-05-19T19:10:44-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220518-G-GO217-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/844059/coast-guard-aircrew-medevacs-passenger-alaska-ferry-kennicott-shelikof-strait",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-844059",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:53Z",
+  "duration": 38.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2205/DOD_109003763/DOD_109003763.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 40185811
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    3.71,
+    6.75,
+    9.12,
+    10.62,
+    20.38,
+    24.92,
+    28.83,
+    32.25,
+    36.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      36.1
+    ],
+    "silence_ends": [
+      3.7,
+      38.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-844059.jpg",
+  "sheet_times": [
+    1.19,
+    3.56,
+    5.93,
+    8.3,
+    10.68,
+    13.05,
+    15.42,
+    17.79,
+    20.17,
+    22.54,
+    24.91,
+    27.28,
+    29.65,
+    32.03,
+    34.4,
+    36.77
+  ]
+}

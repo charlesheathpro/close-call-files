@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:469113",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured rower 150 miles west of Pt. Conception",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew airlifted an injured rower and her teamate 150 miles west of Pt. Conception on June 13, 2016. The 44-year old female injured her wrist while participating in the Great Pacific Race. (U.S. Coast Guard video/released)",
+  "keywords": "Coast Guard rescue, rowboat, Coast Guard, medevac",
+  "date": "2016-06-13T00:00:00-04:00",
+  "date_published": "2016-06-14T18:04:51-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "160613-G-BT948-004",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/469113/coast-guard-medevacs-injured-rower-150-miles-west-pt-conception",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-469113",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:48:03Z",
+  "duration": 196.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1606/DOD_103392327/DOD_103392327.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8886,
+    "size": 218186953
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    16.48,
+    17.32,
+    27.99,
+    28.56,
+    55.69,
+    56.52,
+    80.91,
+    81.75,
+    100.03,
+    100.9,
+    113.85,
+    115.15,
+    134.33,
+    135.7,
+    158.59,
+    159.56,
+    191.02
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      196.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-469113.jpg",
+  "sheet_times": [
+    10.02,
+    22.0,
+    33.98,
+    45.96,
+    57.94,
+    69.92,
+    81.9,
+    93.88,
+    105.86,
+    117.84,
+    129.82,
+    141.8,
+    153.78,
+    165.76,
+    177.74,
+    189.72
+  ]
+}

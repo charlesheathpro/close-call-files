@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:905287",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman 32 miles off San Salvador Island, Bahamas",
+  "description": "A Coast Guard Air Station Clearwater aircrew medevacs a cruise ship passenger suffering from abdominal issues, 32 miles off San Salvador Island, Nov. 21, 2023. The passenger was transferred to Oaktree Medical Center emergency medical services to receive a higher level of care. (U.S. Coast Guard Video)",
+  "keywords": "hoist, SAR, USCG",
+  "date": "2023-11-21T00:00:00-05:00",
+  "date_published": "2023-11-24T13:12:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231121-G-ZZ999-1001",
+  "location": {
+    "city": "San Salvador Island",
+    "state": "",
+    "country": "Bahamas",
+    "state_abbreviation": null,
+    "country_abbreviation": "BS"
+  },
+  "page_url": "https://www.dvidshub.net/video/905287/coast-guard-medevacs-woman-32-miles-off-san-salvador-island-bahamas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-905287",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:27Z",
+  "duration": 27.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_110012664/DOD_110012664-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 15842602
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      27.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-905287.jpg",
+  "sheet_times": [
+    0.86,
+    2.57,
+    4.28,
+    5.99,
+    7.71,
+    9.42,
+    11.13,
+    12.85,
+    14.56,
+    16.27,
+    17.98,
+    19.7,
+    21.41,
+    23.12,
+    24.83,
+    26.55
+  ]
+}

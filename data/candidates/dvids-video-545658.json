@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:545658",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 56-year-old man west of Point Loma",
+  "description": "An MH-60T Jayhawk helicopter crew from Coast Guard Sector San Diego medically evacuates a 56-year old man from a fishing vessel approximately 57 miles west of Point Loma, San Diego on August 24, 2017. The man had been suffering from heart attack-like symptoms. (U.S. Coast Guard video by Coast Guard Sector San Diego/released).",
+  "keywords": "hoist, helicopter, Coast Guard, medevac, San Diego",
+  "date": "2017-08-24T00:00:00-04:00",
+  "date_published": "2017-08-24T17:36:08-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170824-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/545658/coast-guard-medevacs-56-year-old-man-west-point-loma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-545658",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:58Z",
+  "duration": 63.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104759718/DOD_104759718.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9142,
+    "size": 73105230
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      63.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-545658.jpg",
+  "sheet_times": [
+    1.98,
+    5.95,
+    9.91,
+    13.87,
+    17.84,
+    21.8,
+    25.76,
+    29.73,
+    33.69,
+    37.65,
+    41.62,
+    45.58,
+    49.54,
+    53.51,
+    57.47,
+    61.43
+  ]
+}

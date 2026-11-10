@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:313334",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Air Station Houston medevacs 42-year-old man from oil tanker.",
+  "description": "The Coast Guard medevaced a 42-year-old man from an oil tanker approximately 30 miles south of Freeport, Texas, this morning.",
+  "keywords": "CGVI",
+  "date": "2008-05-08T10:45:20-04:00",
+  "date_published": "2013-12-16T20:55:10-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/313334/air-station-houston-medevacs-42-year-old-man-oil-tanker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313334",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:10Z",
+  "duration": 73.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053770/DOD_101053770.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5306,
+    "size": 55632221
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.86,
+      "e": 5.86,
+      "text": "What the position of the patient was?"
+    },
+    {
+      "s": 5.86,
+      "e": 18.39,
+      "text": "They were walking the page now."
+    },
+    {
+      "s": 18.39,
+      "e": 21.39,
+      "text": "He's offered the basis to go forward."
+    }
+  ],
+  "scene_cuts": [
+    4.04,
+    14.05,
+    60.96,
+    67.77
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313334.jpg",
+  "sheet_times": [
+    2.27,
+    6.8,
+    11.33,
+    15.86,
+    20.39,
+    24.92,
+    29.45,
+    33.99,
+    38.52,
+    43.05,
+    47.58,
+    52.11,
+    56.64,
+    61.17,
+    65.71,
+    70.24
+  ]
+}

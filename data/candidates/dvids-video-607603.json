@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:607603",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from boat 52 miles west of Homosassa River",
+  "description": "An Air Station Clearwater MH-60 Jayhawk helicopter crew medevacs a 78-year-old man from a 35-foot boat 52 miles west of Homosassa River, Florida, Thursday, June 14, 2018. The man was transported to Tampa General Hospital after suffering from symptoms of a stroke. (U.S. Coast Guard video)",
+  "keywords": "Clearwater, AIR STATION CLEARWATER, Tampa General, Homosassa River, ASCW, Coast Guard, medevac, Florida, FL",
+  "date": "2018-06-14T00:00:00-04:00",
+  "date_published": "2018-06-14T17:25:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "180614-G-G0107-1001",
+  "location": {
+    "city": "Homosassa River",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/607603/coast-guard-medevacs-man-boat-52-miles-west-homosassa-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-607603",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:16Z",
+  "duration": 54.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105744250/DOD_105744250.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8448,
+    "size": 57281227
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.61,
+    24.99,
+    33.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-607603.jpg",
+  "sheet_times": [
+    1.68,
+    5.04,
+    8.39,
+    11.75,
+    15.11,
+    18.47,
+    21.82,
+    25.18,
+    28.54,
+    31.9,
+    35.25,
+    38.61,
+    41.97,
+    45.33,
+    48.68,
+    52.04
+  ]
+}

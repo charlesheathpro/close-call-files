@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:553173",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 62-year-old man south of San Diego",
+  "description": "An MH-60T Jayhawk helicopter crew from U.S. Coast Guard Sector San Diego medevacs a 62-year-old man from the sportfishing vessel Royal Polaris 22 miles south of San Diego, September 21, 2017. The man was suffering from symptoms of a stroke. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "Jayhawk, sportfishing, medevac, rescue, San Diego, helo",
+  "date": "2017-09-21T00:00:00-04:00",
+  "date_published": "2017-09-21T20:58:34-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170921-G-G0211-1001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/553173/coast-guard-medevacs-62-year-old-man-south-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-553173",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:47:53Z",
+  "duration": 87.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104878476/DOD_104878476.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10015,
+    "size": 109437285
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    26.76,
+    26.89
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      87.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-553173.jpg",
+  "sheet_times": [
+    2.71,
+    8.14,
+    13.57,
+    19.0,
+    24.43,
+    29.86,
+    35.29,
+    40.72,
+    46.14,
+    51.57,
+    57.0,
+    62.43,
+    67.86,
+    73.29,
+    78.72,
+    84.15
+  ]
+}

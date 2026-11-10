@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:743093",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman from cruise ship off New Jersey coast",
+  "description": "A U.S. Coast Guard MH-65 Dolphin aircrew from Air Station Atlantic City, New Jersey medevacs a woman from the Cruise Ship Norwegian Gem, approximately 120 miles off the coast of New Jersey, March 15, 2020. The passenger was reportedly suffering from abdominal issues.\r\n(U.S. Coast Guard video by Air Station Atlantic City)",
+  "keywords": "d5, District Five, USCG",
+  "date": "2020-03-15T00:00:00-04:00",
+  "date_published": "2020-03-16T00:36:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200315-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/743093/coast-guard-medevacs-woman-cruise-ship-off-new-jersey-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-743093",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:40Z",
+  "duration": 120.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2003/DOD_107728517/DOD_107728517.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10032,
+    "size": 151808988
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      120.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-743093.jpg",
+  "sheet_times": [
+    3.76,
+    11.29,
+    18.82,
+    26.35,
+    33.87,
+    41.4,
+    48.93,
+    56.46,
+    63.98,
+    71.51,
+    79.04,
+    86.56,
+    94.09,
+    101.62,
+    109.15,
+    116.67
+  ]
+}

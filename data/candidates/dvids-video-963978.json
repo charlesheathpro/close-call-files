@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:963978",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 58-year-old man 170 miles southwest of Clearwater",
+  "description": "A Coast Guard Air Station Clearwater aircrew medevaced a 58-year-old man, Thursday, experiencing severe abdominal pain approximately 170 miles southwest of Clearwater. (U.S. Coast Guard courtesy video)",
+  "keywords": "USCG, Coast Guard, Air Station Clearwater, Medevac, Tampa, St Petersburg",
+  "date": "2025-05-22T08:21:00-04:00",
+  "date_published": "2025-05-23T13:31:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Riley Perkofski",
+  "category": "B-Roll",
+  "virin": "250522-G-G0107-1001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/963978/coast-guard-medevacs-58-year-old-man-170-miles-southwest-clearwater",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-963978",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:19Z",
+  "duration": 63.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2505/DOD_111018984/DOD_111018984.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 69856554
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    29.23,
+    57.96
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      63.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-963978.jpg",
+  "sheet_times": [
+    1.97,
+    5.92,
+    9.86,
+    13.8,
+    17.75,
+    21.69,
+    25.63,
+    29.58,
+    33.52,
+    37.46,
+    41.41,
+    45.35,
+    49.29,
+    53.24,
+    57.18,
+    61.13
+  ]
+}

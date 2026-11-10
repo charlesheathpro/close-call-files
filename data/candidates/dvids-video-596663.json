@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:596663",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 65-year-old woman 50 miles east of Charleston",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Coast Guard Air Facility Charleston hoists a 65-year-old woman suffering from lower leg pain Thursday, April 26, 2018, while aboard the cruise ship Veendam 50 miles east of Charleston, South Carolina. The woman was transported to the Medical University of South Carolina Hospital. (U.S. Coast Guard video courtesy of Air Station Clearwater)",
+  "keywords": "hoist, AIR STATION CLEARWATER, MH-65 Dolphin helicopter, Air Facility Charleston, Coast Guard, medevac, rescue, Cruise Ship, USCG",
+  "date": "2018-04-26T00:00:00-04:00",
+  "date_published": "2018-04-26T23:24:32-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180426-G-G0107-1001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/596663/coast-guard-medevacs-65-year-old-woman-50-miles-east-charleston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-596663",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:49:50Z",
+  "duration": 82.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105568010/DOD_105568010.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9835,
+    "size": 102134763
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    33.77,
+    46.28,
+    46.45,
+    46.61
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-596663.jpg",
+  "sheet_times": [
+    2.58,
+    7.73,
+    12.89,
+    18.04,
+    23.2,
+    28.36,
+    33.51,
+    38.67,
+    43.82,
+    48.98,
+    54.13,
+    59.29,
+    64.44,
+    69.6,
+    74.75,
+    79.91
+  ]
+}
