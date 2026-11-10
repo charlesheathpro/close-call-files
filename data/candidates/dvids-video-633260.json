@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:633260",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "BROLL: Coast Guard, Navy conduct medevac of cruise ship passenger near Hawaii",
+  "description": "The Coast Guard and Navy conducted a medevac of an 83-year-old male Canadian passenger from a 951-foot cruise ship roughly 150 miles north of Kaneohe Bay, Hawaii, Oct. 14, 2018. A Navy MH-60R Seahawk helicopter crew from the Kaneohe Bay-based Helicopter Maritime Strike Squadron 37 hoisted the afflicted man from the Emerald Princess and transported him to awaiting emergency services in Queen’s Medical Center.",
+  "keywords": "D14, Seahawk, MH-60R, Emerald Princess, helicopter, Coast Guard, Hawaii, navy, medevac",
+  "date": "2018-10-14T00:00:00-04:00",
+  "date_published": "2018-10-17T14:57:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Amanda Wyrick",
+  "category": "B-Roll",
+  "virin": "181014-G-CA140-1001",
+  "location": {
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/633260/broll-coast-guard-navy-conduct-medevac-cruise-ship-passenger-near-hawaii",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-633260",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:46:17Z",
+  "duration": 115.85,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106126406/DOD_106126406.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9605,
+    "size": 139136566
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.84,
+    66.3,
+    79.08,
+    111.85
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-633260.jpg",
+  "sheet_times": [
+    3.6,
+    10.81,
+    18.02,
+    25.23,
+    32.44,
+    39.65,
+    46.86,
+    54.07,
+    61.28,
+    68.49,
+    75.7,
+    82.91,
+    90.12,
+    97.33,
+    104.54,
+    111.74
+  ]
+}

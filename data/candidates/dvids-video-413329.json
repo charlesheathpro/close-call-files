@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:413329",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man From Fishing Vessel Near Sand Point, Alaska",
+  "description": "A Coast Guard MH-60 Jayhawk aircrew from Air Station Kodiak, Alaska, medevacs a 28-year-old man from the 48-foot fishing vessel Capt-Jay near Sand Point, July 1, 2015. The Jayhawk crew flew 230 miles from Kodiak, safely hoisted the man and rendezvoused with a Coast Guard HC-130 Hercules in Sand Point. U.S. Coast Guard video",
+  "keywords": "Air Station Kodiak, Jayhawk, Coast Guard rescue, medevac, SAR, rescue",
+  "date": "2015-07-01T00:00:00-04:00",
+  "date_published": "2015-07-02T02:47:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Meredith Manning",
+  "category": "B-Roll",
+  "virin": "150701-G-EP136-074",
+  "location": {
+    "city": "Sand Point",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/413329/coast-guard-medevacs-man-fishing-vessel-near-sand-point-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-413329",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:46:47Z",
+  "duration": 22.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102566161/DOD_102566161-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 977,
+    "size": 2744563
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-413329.jpg",
+  "sheet_times": [
+    4.58,
+    5.68,
+    6.79,
+    7.89,
+    9.0,
+    10.1,
+    11.21,
+    12.31,
+    13.42,
+    14.52,
+    15.63,
+    16.73,
+    17.84,
+    18.95,
+    20.05,
+    21.16
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:855122",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs passenger from cruise ship in Cross Sound, Alaska",
+  "description": "A Coast Guard Air Station Sitka aircrew medically evacuates a 65-year-old woman from the cruise ship Zuiderdam in Cross Sound, Alaska, Aug. 21, 2022. The MH-60 Jayhawk helicopter aircrew hoisted the patient and safety transferred her to awaiting emergency medical services personnel in Sitka. U.S. Coast Guard video edited by Petty Officer 3rd Class Ian Gray.",
+  "keywords": "Air Station Sitka, Alaska Coast Guard, CoastGuardNewsWire, Alaska Medevac, Coast Guard",
+  "date": "2022-08-21T00:00:00-04:00",
+  "date_published": "2022-08-23T15:06:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Ian Gray",
+  "category": "B-Roll",
+  "virin": "220823-G-TR299-1001",
+  "location": {
+    "city": "Sitka",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/855122/coast-guard-medevacs-passenger-cruise-ship-cross-sound-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-855122",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:45:59Z",
+  "duration": 83.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2208/DOD_109181638/DOD_109181638.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 103988267
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-855122.jpg",
+  "sheet_times": [
+    2.58,
+    7.74,
+    12.9,
+    18.06,
+    23.22,
+    28.38,
+    33.54,
+    38.7,
+    43.85,
+    49.01,
+    54.17,
+    59.33,
+    64.49,
+    69.65,
+    74.81,
+    79.97
+  ]
+}

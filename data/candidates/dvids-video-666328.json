@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:666328",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from cruise ship off Atlantic City, NJ",
+  "description": "U.S. Coast Guard Air Stations Atlantic City, New Jersey and Elizabeth City, North Carolina medevac a man from the cruise ship MSC Divina approximately 100 miles off Atlantic City, New Jersey, March 19, 2019. The 52-year-old man was found unconscious on the ship's pool deck before being hoisted up and transported to Atlantic City Regional Medical Center, Atlantic City Campus.\r\n(U.S. Coast Guard video by Air Station Atlantic City)",
+  "keywords": "Atlantic City, HC-130, Air Station, MH-60, ELIZABETH CITY, Hercules, district 5, medieval, helicopter, Coast Guard, SAR, aviation, C-130, helo, dolphin",
+  "date": "2019-03-19T00:00:00-04:00",
+  "date_published": "2019-03-19T15:36:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Ronald Hodges",
+  "category": "B-Roll",
+  "virin": "190319-G-KT616-1003",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/666328/coast-guard-medevacs-man-cruise-ship-off-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-666328",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:46:14Z",
+  "duration": 82.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1903/DOD_106551970/DOD_106551970.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9829,
+    "size": 103140071
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.11,
+      "e": 6.75,
+      "text": "Let's go easy back, the whole position."
+    }
+  ],
+  "scene_cuts": [
+    0.05
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-666328.jpg",
+  "sheet_times": [
+    2.57,
+    7.71,
+    12.86,
+    18.0,
+    23.14,
+    28.28,
+    33.42,
+    38.57,
+    43.71,
+    48.85,
+    53.99,
+    59.13,
+    64.28,
+    69.42,
+    74.56,
+    79.7
+  ]
+}

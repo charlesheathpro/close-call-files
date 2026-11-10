@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:449390",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 2 Injured Crewmen 220 Miles Southeast of Kodiak, Alaska",
+  "description": "A Coast Guard Air Station Kodiak, Alaska, MH-60 Jayhawk helicopter aircrew medevacs two injured crewmen from the 728-foot cargo ship Cemtex Venture approximately 220 miles southeast of Kodiak, Feb. 9, 2016.\r\n\r\nThe Jayhawk crew safely hoisted the men and rendezvoused with emergency medical services personnel in Kodiak where one patient was transferred by LifeMed to Anchorage and the other to Kodiak Providence Hospital.\r\n\r\nU.S. Coast Guard video.",
+  "keywords": "Kodiak, MH-60 Jayhawk, Air Station Kodiak, medieval, Semtex Venture",
+  "date": "2016-02-10T00:00:00-05:00",
+  "date_published": "2016-02-10T13:17:24-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "160209-G-XX000-701",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/449390/coast-guard-medevacs-2-injured-crewmen-220-miles-southeast-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-449390",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:46:40Z",
+  "duration": 150.23,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1602/DOD_103037261/DOD_103037261.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3052,
+    "size": 59638960
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    18.85,
+    36.64,
+    148.21
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      150.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-449390.jpg",
+  "sheet_times": [
+    8.58,
+    17.69,
+    26.79,
+    35.9,
+    45.0,
+    54.11,
+    63.22,
+    72.32,
+    81.43,
+    90.54,
+    99.64,
+    108.75,
+    117.86,
+    126.96,
+    136.07,
+    145.18
+  ]
+}
