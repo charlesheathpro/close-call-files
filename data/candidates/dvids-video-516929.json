@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:516929",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman 35 miles off Stump Pass, Fla.",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevacs a woman Friday, March 31, 2016 from a commercial fishing boat 35 miles west of Stump Pass, Florida. The woman was transferred to Tampa General Hospital in stable condition for further medical assistance.",
+  "keywords": "hoist, Medevacs, MH-60 Jayhawk helicopter, Coast Guard Air Clearwater, rescue",
+  "date": "2017-03-31T00:00:00-04:00",
+  "date_published": "2017-03-31T23:19:58-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170331-G-G0107-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/516929/coast-guard-medevacs-woman-35-miles-off-stump-pass-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-516929",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:37:38Z",
+  "duration": 87.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104231774/DOD_104231774.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9326,
+    "size": 102547449
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.47,
+    63.66,
+    83.85
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      87.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-516929.jpg",
+  "sheet_times": [
+    2.73,
+    8.19,
+    13.66,
+    19.12,
+    24.58,
+    30.05,
+    35.51,
+    40.97,
+    46.44,
+    51.9,
+    57.36,
+    62.83,
+    68.29,
+    73.75,
+    79.22,
+    84.68
+  ]
+}

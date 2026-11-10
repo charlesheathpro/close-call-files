@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:565121",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs crab fisherman near Pescadero Point, Calif.",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station San Francisco medevacs a crab fisherman who reportedly injured his finger when he caught his hand in a crab pot while fishing near Pescadero Point, Calif. Nov. 12, 2017. The helicopter crew transported the man to emergency medical services personnel waiting at San Francisco International Airport. Coast Guard courtesy video.",
+  "keywords": "dolphin helicopter, pescadero point, crab fisherman, medevac",
+  "date": "2017-11-12T00:00:00-05:00",
+  "date_published": "2017-11-13T12:26:14-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "171113-G-LS785-001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/565121/coast-guard-medevacs-crab-fisherman-near-pescadero-point-calif",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 12.4791,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-565121",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:36:51Z",
+  "duration": 49.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105069617/DOD_105069617.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9004,
+    "size": 55869127
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.41,
+    12.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      49.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-565121.jpg",
+  "sheet_times": [
+    13.62,
+    15.89,
+    18.17,
+    20.44,
+    22.72,
+    24.99,
+    27.27,
+    29.54,
+    31.82,
+    34.1,
+    36.37,
+    38.65,
+    40.92,
+    43.2,
+    45.47,
+    47.75
+  ]
+}

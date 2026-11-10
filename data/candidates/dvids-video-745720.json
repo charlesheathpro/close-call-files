@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:745720",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs patient from Grand Princess cruise ship",
+  "description": "Coast Guard Cutter Tern crewmembers medevaced a Grand Princess passenger in her mid-70s with a medical condition not related to COVID-19 and her husband to EMS personnel awaiting at Coast Guard Sector San Francisco in San Francisco, California, March 7, 2020. Coast Guard watchstanders consulted the duty flight surgeon and the CDC who recommended the passenger be medevaced from the Grand Princess. (U.S. Coast Guard video by Chief Petty Officer Brandyn Hill)",
+  "keywords": "Sector San Francisco, D11, Coast Guard Cutter Tern, grand princess, coronavirus, COVID-19, CGC Tern, medevac, rescue, Cruise Ship, USCG, CA",
+  "date": "2020-03-07T00:00:00-05:00",
+  "date_published": "2020-04-03T15:44:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Chief Petty Officer Brandyn Hill",
+  "category": "B-Roll",
+  "virin": "200307-G-RU729-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/745720/coast-guard-medevacs-patient-grand-princess-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-745720",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:36:41Z",
+  "duration": 182.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107754467/DOD_107754467-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6244,
+    "size": 142529798
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.48,
+    22.99,
+    34.03,
+    42.41,
+    57.32,
+    64.03,
+    70.77,
+    123.92,
+    138.1,
+    146.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      182.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-745720.jpg",
+  "sheet_times": [
+    5.68,
+    17.03,
+    28.39,
+    39.74,
+    51.1,
+    62.45,
+    73.81,
+    85.16,
+    96.52,
+    107.87,
+    119.23,
+    130.59,
+    141.94,
+    153.3,
+    164.65,
+    176.01
+  ]
+}

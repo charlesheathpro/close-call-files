@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:500063",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Video Available: Coast Guard medevacs man, 62, from fishing boat",
+  "description": "An MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, medevacs a 62-year-old man Tuesday, Dec. 13, 2016 from 27-foot commercial fishing vessel 70 miles west of Anclote Key. The man was transported to Tampa General Hospital. U.S. Coast Guard video.",
+  "keywords": "MH-60 Jayhawk, Coast Guard rescue, AIR STATION CLEARWATER, Medevacs, Tampa General Hospital, helicopter, Coast Guard, Florida",
+  "date": "2016-12-13T00:00:00-05:00",
+  "date_published": "2016-12-13T20:13:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "161213-G-G1017-1001",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/500063/video-available-coast-guard-medevacs-man-62-fishing-boat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-500063",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:37:41Z",
+  "duration": 63.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103940729/DOD_103940729.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9407,
+    "size": 75767321
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    30.1,
+    59.56
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.5,
+      8.4,
+      17.4,
+      27.1,
+      37.0,
+      59.0
+    ],
+    "silence_ends": [
+      3.1,
+      9.4,
+      24.9,
+      34.8,
+      50.3,
+      63.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-500063.jpg",
+  "sheet_times": [
+    1.97,
+    5.91,
+    9.85,
+    13.8,
+    17.74,
+    21.68,
+    25.62,
+    29.56,
+    33.5,
+    37.44,
+    41.39,
+    45.33,
+    49.27,
+    53.21,
+    57.15,
+    61.09
+  ]
+}

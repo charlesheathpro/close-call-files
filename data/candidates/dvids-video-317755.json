@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:317755",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "120914-G-233-001 Coast Guard medevacs potential stoke victim",
+  "description": "120914-G-233-001 The Coast Guard located and medevaced a 50-year-old man aboard a fishing vessel 30 nautical miles southwest of Morgan City, La., September 14, 2012.",
+  "keywords": "CGVI",
+  "date": "2012-09-15T16:10:07-04:00",
+  "date_published": "2013-12-22T17:48:40-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317755/120914-g-233-001-coast-guard-medevacs-potential-stoke-victim",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317755",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:37:33Z",
+  "duration": 58.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062722/DOD_101062722-640x480-1150k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1150,
+    "size": 8890753
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.58,
+      "e": 23.98,
+      "text": "May not select the trail line, may not select the trail line underneath the deck."
+    },
+    {
+      "s": 23.98,
+      "e": 30.14,
+      "text": "Just below the cabin, below the cabin."
+    },
+    {
+      "s": 30.14,
+      "e": 40.46,
+      "text": "Hold it right underneath the aircraft."
+    }
+  ],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317755.jpg",
+  "sheet_times": [
+    1.83,
+    5.48,
+    9.13,
+    12.78,
+    16.43,
+    20.08,
+    23.74,
+    27.39,
+    31.04,
+    34.69,
+    38.34,
+    41.99,
+    45.64,
+    49.3,
+    52.95,
+    56.6
+  ]
+}

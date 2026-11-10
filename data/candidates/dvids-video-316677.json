@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:316677",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "110101-G-XXXXA-001 Corpus Christi Medevacs Man south of Brownsville",
+  "description": "Corpus Christi Medevac 40 miles south of Brownsville.",
+  "keywords": "CGVI",
+  "date": "2011-01-11T18:12:53-05:00",
+  "date_published": "2013-12-20T13:54:39-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/316677/110101-g-xxxxa-001-corpus-christi-medevacs-man-south-brownsville",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-316677",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:37:17Z",
+  "duration": 37.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060780/DOD_101060780-960x540-1786k.mp4",
+    "width": 960,
+    "height": 540,
+    "bitrate": 1786,
+    "size": 8548138
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    33.17
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316677.jpg",
+  "sheet_times": [
+    1.15,
+    3.44,
+    5.73,
+    8.03,
+    10.32,
+    12.62,
+    14.91,
+    17.2,
+    19.5,
+    21.79,
+    24.09,
+    26.38,
+    28.67,
+    30.97,
+    33.26,
+    35.56
+  ]
+}

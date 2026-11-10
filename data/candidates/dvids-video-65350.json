@@ -1,0 +1,131 @@
+{
+  "asset_id": "video:65350",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "U.S. Coast Guard Medevacs Shark-bitten Man Near Breton Island",
+  "description": "B-roll of Coast Guard Air Station New Orleans medevacing a man from the motor vessel Predator after the man was bitten by a shark while fishing near Breton Island approximately 65 miles south east of New Orleans.",
+  "keywords": null,
+  "date": "2009-08-01T00:00:00-04:00",
+  "date_published": "2009-08-02T16:50:47-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Breton Island",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/65350/us-coast-guard-medevacs-shark-bitten-man-near-breton-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-65350",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:37:11Z",
+  "duration": 68.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0908/DOD_100049275/DOD_100049275.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 9.39,
+      "e": 16.17,
+      "text": "Easy, corner right. Easy, corner right. Easy, corner right."
+    },
+    {
+      "s": 16.17,
+      "e": 34.08,
+      "text": "Action, and pull. Pull, just a little bit."
+    },
+    {
+      "s": 34.08,
+      "e": 37.76,
+      "text": "Let's see towards on depth. The position and output are good."
+    },
+    {
+      "s": 37.76,
+      "e": 40.32,
+      "text": "Let's see towards the way. Clear to move back and left."
+    },
+    {
+      "s": 40.32,
+      "e": 41.32,
+      "text": "Action, keep in the center."
+    },
+    {
+      "s": 41.32,
+      "e": 44.92,
+      "text": "Roger. Feel through there to the block."
+    },
+    {
+      "s": 44.92,
+      "e": 48.88,
+      "text": "Action, recovery, bare hook."
+    },
+    {
+      "s": 48.88,
+      "e": 55.66,
+      "text": "Please complete. Copy the basket, hit the load."
+    },
+    {
+      "s": 55.66,
+      "e": 58.6,
+      "text": "Action, clear. That's not clear to move back and left."
+    },
+    {
+      "s": 58.6,
+      "e": 59.8,
+      "text": "Action, keep in the center."
+    },
+    {
+      "s": 59.8,
+      "e": 62.8,
+      "text": "Roger. Subscribe and below the aircraft."
+    }
+  ],
+  "scene_cuts": [
+    6.67,
+    55.22
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      66.8
+    ],
+    "silence_ends": [
+      6.7,
+      68.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-65350.jpg",
+  "sheet_times": [
+    2.12,
+    6.35,
+    10.58,
+    14.81,
+    19.04,
+    23.27,
+    27.51,
+    31.74,
+    35.97,
+    40.2,
+    44.43,
+    48.67,
+    52.9,
+    57.13,
+    61.36,
+    65.59
+  ]
+}
