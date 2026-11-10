@@ -1,39 +1,39 @@
-# Playbook (computed 2026-11-09T17:47:11Z from 92 Shorts older than 48 hours)
+# Playbook (computed 2026-11-10T04:45:52Z from 98 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: abandon ship, boat crew pickup (+0.43, 1 Shorts)
-- story: capsized boat, people in the water (+0.4, 1 Shorts)
-- story: launch abort test (+0.39, 1 Shorts)
-- story: splashdown recovery (+0.39, 1 Shorts)
-- story: runaway boat with no one aboard (+0.36, 1 Shorts)
-- hook names a child (+0.31, 13 Shorts)
-- story: elderly sailor and dog, disabled sailboat far offshore (+0.25, 1 Shorts)
-- story: dog cliff rescue (+0.23, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.47, 1 Shorts)
+- story: runaway boat with no one aboard (+0.45, 1 Shorts)
+- story: launch abort test (+0.43, 1 Shorts)
+- story: splashdown recovery (+0.43, 1 Shorts)
+- story: capsized boat, people in the water (+0.41, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
+- hook names a child (+0.38, 13 Shorts)
+- story: divers stranded on a capsized hull, boat crew pickup (+0.32, 1 Shorts)
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.59, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.49, 1 Shorts)
-- music: hazards (-0.39, 4 Shorts)
-- story: volcano eruption (-0.36, 2 Shorts)
-- story: castaways on a remote cay for weeks, supply drop then basket hoist (-0.36, 1 Shorts)
-- story: floatplane crash on a mountainside, 11 survivors hoisted (-0.35, 1 Shorts)
-- story: airliner down in a lagoon, boat pickup off the wing (-0.34, 1 Shorts)
-- story: attic flood hoist (-0.32, 1 Shorts)
+- music: hazards (-0.43, 4 Shorts)
+- story: volcano eruption (-0.39, 2 Shorts)
+- story: attic flood hoist (-0.37, 1 Shorts)
+- lane: hazards (-0.35, 3 Shorts)
+- length 30 to 45 s (-0.28, 50 Shorts)
+- story: castaways on a remote cay for weeks, supply drop then basket hoist (-0.24, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 10546 views, 97% watched
-- Boat flipped with a 4-year-old aboard: 21003 views, 78% watched
-- Orion splashes down after the Moon: 9446 views, 95% watched
+- Five abandon a sinking fishing boat: 11184 views, 95% watched
+- Runaway boat circling with no one aboard: 8609 views, 99% watched
 - Capsule torn off a rocket at Mach 1: 5180 views, 97% watched
-- Runaway boat circling with no one aboard: 8156 views, 91% watched
+- Orion splashes down after the Moon: 9446 views, 95% watched
+- Boat flipped with a 4-year-old aboard: 21134 views, 77% watched
 
 ## Weakest Shorts
-- Passenger jet crashed into a lagoon: 1082 views, 0% watched
-- Floatplane hit a mountain, all 11 lived: 1027 views, 0% watched
-- Stranded 33 days on a Bahamas island: 995 views, 0% watched
-- Clinging to a flipped boat 12 miles out: 31 views, 64% watched
+- Stranded 33 days on a Bahamas island: 996 views, 39% watched
+- Mauna Loa erupts after 38 years: 147 views, 64% watched
+- Trapped in the attic as the flood rose: 285 views, 42% watched
+- Clinging to a flipped boat 12 miles out: 31 views, 67% watched
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
 
 ## QA rejections this week (do not repeat these)
