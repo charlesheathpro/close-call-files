@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:893454",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 2 boaters near Atchafalaya Bay, La.",
+  "description": "A Coast Guard Air Station MH-60 Jayhawk helicopter aircrew medevaced two boaters approximately 20 miles south of Atchafalaya Bay, Louisiana, August 10, 2023. One of the boaters was experiencing heart related issues and was transferred to awaiting emergency medical services personnel at the University Medical Center. (U.S. Coast Guard Video by Air Station New Orleans)",
+  "keywords": "CoastGuardNewsWire",
+  "date": "2023-08-10T00:00:00-04:00",
+  "date_published": "2023-08-10T20:08:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230810-G-G0108-1000",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/893454/coast-guard-medevacs-2-boaters-near-atchafalaya-bay-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-893454",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:35Z",
+  "duration": 73.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109821056/DOD_109821056.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 91624514
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.11,
+      "e": 2.11,
+      "text": "We'll take a place to rescue our now."
+    },
+    {
+      "s": 2.11,
+      "e": 36.34,
+      "text": "And we'll stay here."
+    }
+  ],
+  "scene_cuts": [
+    21.42,
+    50.78,
+    73.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-893454.jpg",
+  "sheet_times": [
+    2.27,
+    6.82,
+    11.36,
+    15.9,
+    20.45,
+    24.99,
+    29.54,
+    34.08,
+    38.63,
+    43.17,
+    47.71,
+    52.26,
+    56.8,
+    61.35,
+    65.89,
+    70.43
+  ]
+}

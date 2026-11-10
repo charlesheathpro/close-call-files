@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:435817",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 64-year-old Woman from Cruise Ship",
+  "description": "A Coast Guard aircrew medevaced a 64-year-old woman from a cruise ship when she began experiencing severe stomach pain approximately 90 miles off the coast of Daytona Beach, Nov. 14, 2015. U.S. Coast Guard video.",
+  "keywords": "hoist, Air Station, pain, savannah, carnival, woman, 64, copter, years old, year old, stomach, pains, helicopter, Coast Guard, medevac, rescue, Cruise Ship, USCG, helo",
+  "date": "2015-11-14T00:00:00-05:00",
+  "date_published": "2015-11-14T11:45:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Petty Officer 1st Class Stephen Lehmann",
+  "category": "B-Roll",
+  "virin": "151114-G-ZZ999-001",
+  "location": {
+    "city": "Daytona Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/435817/coast-guard-medevacs-64-year-old-woman-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-435817",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:45:38Z",
+  "duration": 157.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1511/DOD_102887581/DOD_102887581.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8640,
+    "size": 172544019
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    67.57,
+    81.65,
+    112.41,
+    153.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      157.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-435817.jpg",
+  "sheet_times": [
+    8.8,
+    18.36,
+    27.91,
+    37.47,
+    47.03,
+    56.58,
+    66.14,
+    75.69,
+    85.25,
+    94.81,
+    104.36,
+    113.92,
+    123.47,
+    133.03,
+    142.58,
+    152.14
+  ]
+}

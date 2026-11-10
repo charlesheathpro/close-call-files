@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:408018",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "20-Year-Old with Seizures Medevaced by Coast Guard Helicopter",
+  "description": "A 20-year-old man was medevaced, by an Air Station Corpus Christi MH-65 helicopter crew, after suffering multiple seizures aboard a charter fishing boat approximately 33 miles off of Port Aransas Saturday morning, June 6, 2015. U.S. Coast Guard video",
+  "keywords": "Coast Guard rescue, seizures, medevac, medical, rescue",
+  "date": "2015-06-06T00:00:00-04:00",
+  "date_published": "2015-06-06T23:06:57-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150606-G-XX999-001",
+  "location": {
+    "city": "Port Aransas",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/408018/20-year-old-with-seizures-medevaced-coast-guard-helicopter",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.72603,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-408018",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:25Z",
+  "duration": 85.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102493317/DOD_102493317.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9633,
+    "size": 104551042
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.4,
+    4.74,
+    7.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      86.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-408018.jpg",
+  "sheet_times": [
+    7.25,
+    12.29,
+    17.34,
+    22.39,
+    27.43,
+    32.48,
+    37.52,
+    42.57,
+    47.62,
+    52.66,
+    57.71,
+    62.75,
+    67.8,
+    72.85,
+    77.89,
+    82.94
+  ]
+}

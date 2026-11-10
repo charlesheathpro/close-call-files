@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:498891",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from ship off Galveston",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew medevaced a man after he was struck by a piece of machinery and suffered a deep laceration and possible fracture on his leg while aboard a cargo ship about 15 miles east of Galveston, Texas, early Friday morning, Dec. 9, 2016. U.S. Coast Guard video.",
+  "keywords": "hoist, litter, chopper, MH-65D, helicopter, medevac, rescue, USCG, helo, dolphin",
+  "date": "2016-12-09T00:00:00-05:00",
+  "date_published": "2016-12-09T14:21:54-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "161209-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/498891/coast-guard-medevacs-man-ship-off-galveston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-498891",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:19Z",
+  "duration": 94.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103926948/DOD_103926948.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8582,
+    "size": 103014255
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.07,
+    4.1,
+    45.68,
+    45.91,
+    93.59
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      93.6
+    ],
+    "silence_ends": [
+      4.1,
+      94.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-498891.jpg",
+  "sheet_times": [
+    6.9,
+    12.53,
+    18.15,
+    23.77,
+    29.39,
+    35.01,
+    40.64,
+    46.26,
+    51.88,
+    57.5,
+    63.13,
+    68.75,
+    74.37,
+    79.99,
+    85.62,
+    91.24
+  ]
+}

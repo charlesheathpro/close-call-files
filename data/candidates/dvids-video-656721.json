@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:656721",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger 55 Miles East of Savannah",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Coast Guard Air Station Savannah hoists an 80-year-old woman Sunday, Jan. 27, 2019, after she suffered a head injury after falling on board the cruise ship Carnival Ecstasy 55 miles east of Savannah, Georgia. The woman was transported to the Memorial University Medical Center Savannah. (U.S. Coast Guard video courtesy of Air Station Savannah)",
+  "keywords": "Cruise, savannah, Air Station Savannah, helicopter, Coast Guard, Cruise Ship, USCG, dolphin",
+  "date": "2019-01-27T00:00:00-05:00",
+  "date_published": "2019-01-28T11:42:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190127-G-G0107-1001",
+  "location": {
+    "city": "Savannah",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/656721/coast-guard-medevacs-cruise-ship-passenger-55-miles-east-savannah",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-656721",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:45:06Z",
+  "duration": 84.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1901/DOD_106402188/DOD_106402188.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10036,
+    "size": 106269477
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.08,
+    20.42,
+    41.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      84.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-656721.jpg",
+  "sheet_times": [
+    2.63,
+    7.89,
+    13.15,
+    18.41,
+    23.67,
+    28.93,
+    34.19,
+    39.45,
+    44.71,
+    49.97,
+    55.23,
+    60.49,
+    65.75,
+    71.01,
+    76.27,
+    81.53
+  ]
+}

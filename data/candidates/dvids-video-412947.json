@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:412947",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ailing fisherman in Gilmer Bay near Sitka, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew hoists an ailing fisherman from the 38-foot fishing vessel Ocean Storm in Gilmer Bay near Sitka, Alaska June 29, 2015. The fisherman was transported to Air Station Sitka where he was met by awaiting emergency medical personnel. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "hoist, Air Station Sitka, ocean storm, gilmer bay, medevac",
+  "date": "2015-06-29T00:00:00-04:00",
+  "date_published": "2015-06-29T20:20:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Kodiak",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150629-G-ZZ999-118",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/412947/coast-guard-medevacs-ailing-fisherman-gilmer-bay-near-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-412947",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:45:46Z",
+  "duration": 121.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102559677/DOD_102559677.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8374,
+    "size": 127290040
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    91.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      121.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-412947.jpg",
+  "sheet_times": [
+    7.68,
+    14.99,
+    22.29,
+    29.6,
+    36.91,
+    44.22,
+    51.53,
+    58.83,
+    66.14,
+    73.45,
+    80.76,
+    88.06,
+    95.37,
+    102.68,
+    109.99,
+    117.3
+  ]
+}

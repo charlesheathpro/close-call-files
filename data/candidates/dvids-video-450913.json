@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:450913",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs heart attack victim near Galveston",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew hoists a man aboard from a 70-foot Galveston Party Boat catamaran and transports him to the University of Texas Medical Branch in Galveston for further treatment Saturday, Feb. 20, 2016. He reportedly suffered diabetic shock and a heart attack, but was kept stable by another passenger, who was a doctor. U.S. Coast Guard video by Petty Officer 1st Class Andrew Kendrick",
+  "keywords": "MH-65D, helicopter, medevac, landing, rescue, hospital",
+  "date": "2016-02-20T00:00:00-05:00",
+  "date_published": "2016-02-20T21:33:26-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 1st Class Andrew Kendrick",
+  "category": "B-Roll",
+  "virin": "160220-G-LP265-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/450913/coast-guard-medevacs-heart-attack-victim-near-galveston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.359,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-450913",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:22Z",
+  "duration": 107.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1602/DOD_103060660/DOD_103060660.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8861,
+    "size": 120278155
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.34,
+    12.85,
+    18.55,
+    29.33,
+    44.21,
+    79.45,
+    86.29,
+    94.73,
+    99.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      80.8,
+      96.9
+    ],
+    "silence_ends": [
+      44.2,
+      81.5,
+      97.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-450913.jpg",
+  "sheet_times": [
+    7.57,
+    14.0,
+    20.43,
+    26.86,
+    33.29,
+    39.72,
+    46.15,
+    52.58,
+    59.02,
+    65.45,
+    71.88,
+    78.31,
+    84.74,
+    91.17,
+    97.6,
+    104.03
+  ]
+}
