@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:478564",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 19-year-old fisherman near Gold Beach, Ore.",
+  "description": "A Coast Guard aircrew from Air Station North Bend medevacs a 19-year-old man who was reportedly suffering lower gastrointestinal bleeding aboard a commercial fishing vessel 30 miles west of Gold Beach, Ore., Monday, Aug. 8, 2016.\r\n\r\nThe MH-65 Dolphin helicopter crew transferred the man to emergency medical services personnel waiting with an ambulance at the air station. \r\n\r\nU.S. Coast Guard video courtesy of Air Station North Bend.",
+  "keywords": "hoist, Coast Guard rescue, North Bend, MH-65, helicopter, medevac, SAR, search and rescue, dolphin",
+  "date": "2016-08-08T00:00:00-04:00",
+  "date_published": "2016-08-08T21:04:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Seaman Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "160808-G-LS785-001",
+  "location": {
+    "city": "Gold Beach",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/478564/coast-guard-medevacs-19-year-old-fisherman-near-gold-beach-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-478564",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:48:06Z",
+  "duration": 45.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103551217/DOD_103551217.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7608,
+    "size": 43636324
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.44,
+    15.02,
+    40.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      40.5
+    ],
+    "silence_ends": [
+      4.4,
+      45.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-478564.jpg",
+  "sheet_times": [
+    1.4,
+    4.19,
+    6.98,
+    9.78,
+    12.57,
+    15.36,
+    18.15,
+    20.95,
+    23.74,
+    26.53,
+    29.33,
+    32.12,
+    34.91,
+    37.7,
+    40.5,
+    43.29
+  ]
+}

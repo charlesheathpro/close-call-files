@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:319442",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Crewmember 10-miles West of Grays Harbor, Wash.",
+  "description": "A Coast Guard aircrew from Air Station Astoria, Ore., medevac an injured crewmember aboard an HH-60 Jayhawk helicopter 10-miles west of Grays Harbor, Wash., Jan. 10, 2014. The crewmember sustained a head injury after the Star Delta, a 623-foot cargo ship, encountered a swell. U.S. Coast Guard video by the 13th Coast Guard District.",
+  "keywords": "HH-60, Jayhawk, Air Station Astoria, Jan. 10, Sector Columbia River, Jordan Akiyama, 2014, 13th Coast Guard District, Grays Harbor, Star Delta, medevac, Wash., Ore.",
+  "date": "2014-01-10T00:00:00-05:00",
+  "date_published": "2014-01-10T19:37:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Jordan Akiyama",
+  "category": "B-Roll",
+  "virin": "140110-G-ED165-001",
+  "location": {
+    "city": "Seattle",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/319442/coast-guard-medevacs-injured-crewmember-10-miles-west-grays-harbor-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-319442",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:48:42Z",
+  "duration": 94.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1401/DOD_101079031/DOD_101079031.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7358,
+    "size": 87020944
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    84.52
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      94.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-319442.jpg",
+  "sheet_times": [
+    2.94,
+    8.82,
+    14.7,
+    20.58,
+    26.46,
+    32.34,
+    38.22,
+    44.1,
+    49.98,
+    55.85,
+    61.73,
+    67.61,
+    73.49,
+    79.37,
+    85.25,
+    91.13
+  ]
+}

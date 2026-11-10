@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:829879",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from fishing boat near St. Paul, Alaska",
+  "description": "A C-130 Super Hercules aircraft crew out of Air Station Kodiak provides support and obtains video of a Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew preparing for a medevac near St. Paul, Alaska, Jan. 31, 2022. The helicopter crew launched out of Forward Operating Location Cold Bay and hoisted a crew member from the 169-foot fishing vessel Constellation at about 9:30 a.m., just outside St. Paul Harbor. (U.S. Coast Guard video courtesy of Air Station Kodiak)",
+  "keywords": "MH-60 Jayhawk, Air Station Kodiak, D17, CoastGuardNewsWire, C-130 Super Hercules aircraft, Alaska",
+  "date": "2022-01-31T00:00:00-05:00",
+  "date_published": "2022-02-01T19:50:28-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220131-G-G0217-1001",
+  "location": {
+    "city": "St. Paul",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/829879/coast-guard-medevacs-man-fishing-boat-near-st-paul-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-829879",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:48:48Z",
+  "duration": 33.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108788892/DOD_108788892-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 31436094
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.33,
+    9.58,
+    14.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-829879.jpg",
+  "sheet_times": [
+    1.03,
+    3.09,
+    5.15,
+    7.21,
+    9.27,
+    11.33,
+    13.39,
+    15.45,
+    17.51,
+    19.57,
+    21.63,
+    23.69,
+    25.76,
+    27.82,
+    29.88,
+    31.94
+  ]
+}

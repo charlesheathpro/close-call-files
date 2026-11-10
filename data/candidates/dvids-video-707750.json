@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:707750",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard aircrew medevacs cruise ship passenger near Glacier Bay, Alaska",
+  "description": "A Coast Guard Air Station Sitka helicopter aircrew transfers a patient to Emergency Medical Service personnel in Sitka, Alaska, Sept. 7, 2019.\r\n\r\nThe 52-year-old male was reportedly suffering heart attack symptoms aboard the cruise ship Crystal Symphony.\r\n\r\nU.S. Coast Guard courtesy photo.",
+  "keywords": "Sitka, Sector Juneau, Air Station Sitka, Glacier Bay, Guardian Flight, VHF Channel 16, Swedish Medical Center, medevac, Alaska",
+  "date": "2019-09-07T00:00:00-04:00",
+  "date_published": "2019-09-08T14:47:44-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 1st Class Ali Blackburn",
+  "category": "",
+  "virin": "190907-G-AE983-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/707750/coast-guard-aircrew-medevacs-cruise-ship-passenger-near-glacier-bay-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-707750",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:48:53Z",
+  "duration": 131.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107196071/DOD_107196071.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9833,
+    "size": 161449294
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      131.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-707750.jpg",
+  "sheet_times": [
+    4.08,
+    12.25,
+    20.42,
+    28.59,
+    36.76,
+    44.93,
+    53.1,
+    61.26,
+    69.43,
+    77.6,
+    85.77,
+    93.94,
+    102.11,
+    110.28,
+    118.44,
+    126.61
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "asset_id": "video:45347",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Cavalry to the Rescue",
+  "description": "Package about Troop C 2/108th providing security and presence patrols after Hurricane Gustav.",
+  "keywords": "Staff Sgt. Danny Stutzman, Spc. Bryan Lane",
+  "date": "2008-09-08T00:00:00-04:00",
+  "date_published": "2008-09-08T21:21:45-04:00",
+  "branch": "Joint",
+  "unit_name": "Louisiana National Guard",
+  "credit": "Sgt. 1st Class Thomas Benoit",
+  "category": "Package",
+  "virin": null,
+  "location": {
+    "city": "Larose",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/45347/cavalry-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-45347",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:50:14Z",
+  "duration": 78.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0809/DOD_100026096/DOD_100026096.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.95,
+      "e": 10.95,
+      "text": "As Hurricane Gustav leaves the area, here comes a cavalry rushing to the rescue, soldiers from Troops Sea,"
+    },
+    {
+      "s": 10.95,
+      "e": 19.95,
+      "text": "second of the 101st make a splash as they conduct security and presence patrols for the city of La Rose, Louisiana."
+    },
+    {
+      "s": 19.95,
+      "e": 32.0,
+      "text": "I've never been that deep into a hurricane. It was pretty wild for us to let them be reassured that they wouldn't have forgotten about."
+    },
+    {
+      "s": 32.0,
+      "e": 39.0,
+      "text": "I know if I come up to one of y'all, I mean actually what I need are if something's wrong."
+    },
+    {
+      "s": 39.0,
+      "e": 42.0,
+      "text": "Y'all are going to help me out the best y'all can."
+    },
+    {
+      "s": 42.0,
+      "e": 49.0,
+      "text": "I mean we're just very pleased that they're here. We feel very safe. We're making friends and I think that's the important thing that they're going to become part of our community."
+    },
+    {
+      "s": 49.0,
+      "e": 57.0,
+      "text": "We're just really thankful that the National Guard is here. During Hurricane Katrina we also had some national guardsmen from Tennessee here."
+    },
+    {
+      "s": 57.0,
+      "e": 62.0,
+      "text": "I enjoy being down here. I enjoy helping people. That's why I'm here."
+    },
+    {
+      "s": 62.0,
+      "e": 69.0,
+      "text": "Right now we're just trying to win hearts and minds. That's what our CO said. That's our basic mission."
+    },
+    {
+      "s": 69.0,
+      "e": 73.0,
+      "text": "Reporting Sergeant First Class Thomas Bennett."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    12.95,
+    14.95,
+    19.95,
+    20.95,
+    27.26,
+    32.57,
+    42.28,
+    53.05,
+    57.62,
+    69.17,
+    73.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      73.5
+    ],
+    "silence_ends": [
+      4.0,
+      78.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-45347.jpg",
+  "sheet_times": [
+    6.31,
+    10.93,
+    15.55,
+    20.16,
+    24.78,
+    29.4,
+    34.02,
+    38.63,
+    43.25,
+    47.87,
+    52.48,
+    57.1,
+    61.72,
+    66.34,
+    70.95,
+    75.57
+  ]
+}
