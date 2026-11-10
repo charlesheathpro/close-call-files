@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:369314",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Fisherman Near Sand Point, Alaska",
+  "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter crew, forward deployed to Cold Bay, Alaska, medevacs an injured fisherman from a fishing vessel 150 miles southeast of Sand Point, Alaska, Oct. 19, 2014. This case was the first rescue for FOL Cold Bay aircrews this season.  U.S. Coast Guard video.",
+  "keywords": "MH-60 Jayhawk, Air Station Kodiak, FOL Cold Bay, Sand Point, medevac, rescue",
+  "date": "2014-10-27T00:00:00-04:00",
+  "date_published": "2014-10-27T13:09:27-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "141019-G-XX000-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/369314/coast-guard-medevacs-injured-fisherman-near-sand-point-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.69367,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-369314",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:46Z",
+  "duration": 162.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1410/DOD_102052523/DOD_102052523.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8972,
+    "size": 183016674
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    41.54,
+    63.0,
+    90.52,
+    115.58,
+    146.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      9.9
+    ],
+    "silence_ends": [
+      4.5,
+      163.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-369314.jpg",
+  "sheet_times": [
+    10.59,
+    20.39,
+    30.19,
+    39.99,
+    49.78,
+    59.58,
+    69.38,
+    79.18,
+    88.97,
+    98.77,
+    108.57,
+    118.37,
+    128.17,
+    137.96,
+    147.76,
+    157.56
+  ]
+}

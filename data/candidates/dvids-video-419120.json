@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:419120",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger Soutwest of Point Loma",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuates a passenger from the cruise ship Carnival Imagination 50 miles southwest of Point Loma, Calif., Aug. 12, 2015. The 67-year-old man was experiencing symptoms of gastrointestinal bleeding, and the Coast Guard’s flight surgeon recommended he receive a higher level of care at a medical facility. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "Cruise, MH-60, Jayhawk, carnival, point loma, Gi",
+  "date": "2015-08-12T00:00:00-04:00",
+  "date_published": "2015-08-12T15:51:39-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "150812-G-GV559-494",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/419120/coast-guard-medevacs-cruise-ship-passenger-soutwest-point-loma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-419120",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:34:52Z",
+  "duration": 325.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102654830/DOD_102654830.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9078,
+    "size": 370332578
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    167.17,
+    219.92,
+    259.26
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      326.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-419120.jpg",
+  "sheet_times": [
+    14.07,
+    34.16,
+    54.25,
+    74.34,
+    94.43,
+    114.52,
+    134.61,
+    154.7,
+    174.79,
+    194.88,
+    214.98,
+    235.07,
+    255.16,
+    275.25,
+    295.34,
+    315.43
+  ]
+}

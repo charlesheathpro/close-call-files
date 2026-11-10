@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:405300",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Aircrew Medevacs Fisherman Near Oregon California Border",
+  "description": "An MH-65 Dolphin aircrew from Coast Guard Air Station North Bend, Ore., hoist a fisherman reportedly suffering from chest pains from the 344-foot commercial fishing vessel Alaska Ocean, 30 miles west of Crescent City, Calif., May 19, 2015. The crew safely transferred the 33-year-old man to EMS at Crescent City Airport. U.S. Coast Guard video courtesy of Air Station North Bend.",
+  "keywords": "hoist, aircrew, North Bend, Crescent City, MH-65, alaska ocean, may 19 2015, medevac, Oregon, dolphin, Ore.",
+  "date": "2015-05-19T00:00:00-04:00",
+  "date_published": "2015-05-20T15:09:41-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150519-G-ZZ999-001",
+  "location": {
+    "city": "Crescent City",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/405300/coast-guard-aircrew-medevacs-fisherman-near-oregon-california-border",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.62593,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-405300",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:35:38Z",
+  "duration": 115.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1505/DOD_102451005/DOD_102451005.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8945,
+    "size": 131481334
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.64
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.1
+    ],
+    "silence_ends": [
+      4.3,
+      115.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-405300.jpg",
+  "sheet_times": [
+    8.09,
+    15.01,
+    21.93,
+    28.85,
+    35.77,
+    42.69,
+    49.61,
+    56.53,
+    63.45,
+    70.37,
+    77.3,
+    84.22,
+    91.14,
+    98.06,
+    104.98,
+    111.9
+  ]
+}

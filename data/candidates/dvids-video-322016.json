@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:322016",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured woman near Cold Bay, Alaska",
+  "description": "An Air Station Kodiak MH-60 Jayhawk helicopter crew forward deployed to Cold Bay, Alaska, rescues an injured woman from the fish processing vessel Ocean Phoenix 70 miles northwest of Cold Bay, Feb. 12, 2014. The woman was safely transported to emergency medical services in Anchorage for further care. U.S. Coast Guard video by Air Station Kodiak.",
+  "keywords": "Kodiak, MH-60, Jayhawk, Cold Bay, FOL, Ocean Phoenix, medevac, Alaska",
+  "date": "2014-02-12T00:00:00-05:00",
+  "date_published": "2014-02-19T20:42:41-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "140212-G-ZZ999-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/322016/coast-guard-medevacs-injured-woman-near-cold-bay-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-322016",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:56Z",
+  "duration": 48.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101125563/DOD_101125563.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 55551775
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.04,
+    12.58,
+    16.58,
+    32.77,
+    43.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      29.3,
+      35.4
+    ],
+    "silence_ends": [
+      29.2,
+      35.3,
+      48.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-322016.jpg",
+  "sheet_times": [
+    1.51,
+    4.53,
+    7.54,
+    10.56,
+    13.58,
+    16.6,
+    19.62,
+    22.63,
+    25.65,
+    28.67,
+    31.69,
+    34.7,
+    37.72,
+    40.74,
+    43.76,
+    46.78
+  ]
+}

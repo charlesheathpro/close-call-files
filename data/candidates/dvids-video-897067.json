@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:897067",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Responds to Medevac Request from Vessel Ranger 85",
+  "description": "Coast Guard medevacs a 68-year-old man from a charter fishing vessel 40 miles off the Point Loma coast in San Diego, Sep. 14, 2023. The fishing vessel Ranger 85 contacted Coast Guard Sector San Diego Joint Harbor Operations Center watchstanders requesting a medevac for a man with a laceration requiring higher levels of medical care. (U.S. Coast Guard Video released)",
+  "keywords": "CoastGuardNewsWire",
+  "date": "2023-09-14T00:00:00-04:00",
+  "date_published": "2023-09-14T13:38:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Alexander Gray",
+  "category": "B-Roll",
+  "virin": "230914-G-WE178-6083",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/897067/coast-guard-responds-medevac-request-vessel-ranger-85",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-897067",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:33:52Z",
+  "duration": 61.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2309/DOD_109884482/DOD_109884482.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 67805371
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.63,
+    4.88,
+    15.27,
+    15.47,
+    18.56,
+    18.81,
+    28.99,
+    29.2,
+    35.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      61.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-897067.jpg",
+  "sheet_times": [
+    1.89,
+    5.68,
+    9.46,
+    13.25,
+    17.03,
+    20.82,
+    24.6,
+    28.39,
+    32.17,
+    35.96,
+    39.74,
+    43.53,
+    47.31,
+    51.1,
+    54.88,
+    58.67
+  ]
+}

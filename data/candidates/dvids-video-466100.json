@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:466100",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise-ship passenger southwest of Newport, Ore.",
+  "description": "An MH-65 Dolphin helicopter crew, from Coast Guard Air Station North Bend, Ore., and forward deployed to Coast Guard Air Facility Newport, medevaced a 78-year-old man from a cruise ship 29 miles southwest of Newport, May 27, 2016.\r\n\r\nPersonnel aboard the Crystal Serenity, a 820-foot Bahamas-flagged cruise ship homeported in Nassau, requested the medevac when one of their passengers was reportedly suffering from internal bleeding while transiting from Astoria to San Fransisco, Calif. \r\n\r\nU.S. Coast Guard video courtesy of Air Station North Bend.",
+  "keywords": "Coast Guard rescue, North Bend, Newport, Crystal Serenity, helicopter, medevac, Oregon, Astoria, Cruise Ship, passenger, dolphin",
+  "date": "2016-05-27T00:00:00-04:00",
+  "date_published": "2016-05-27T18:46:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160527-G-ZZ999-001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/466100/coast-guard-medevacs-cruise-ship-passenger-southwest-newport-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-466100",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:35:22Z",
+  "duration": 62.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103341857/DOD_103341857.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8787,
+    "size": 69396921
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.37,
+    20.05,
+    60.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      60.1
+    ],
+    "silence_ends": [
+      20.1,
+      62.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-466100.jpg",
+  "sheet_times": [
+    1.93,
+    5.8,
+    9.67,
+    13.54,
+    17.41,
+    21.28,
+    25.15,
+    29.02,
+    32.89,
+    36.76,
+    40.63,
+    44.5,
+    48.37,
+    52.24,
+    56.11,
+    59.98
+  ]
+}

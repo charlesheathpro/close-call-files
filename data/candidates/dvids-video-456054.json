@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:456054",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man 145 Miles  Southwest of San Diego",
+  "description": "The Coast Guard medically evacuated a 34-year-old man approximately 145 miles southwest of San Diego, on March 28, 2016. The man was suffering from symptoms similar to a heart attack. (U.S. Coast Guard video by Petty Officer 3rd Class Joel Guzman/released)",
+  "keywords": "Coast Guard rescue, Coast Guard, medevac, San Diego",
+  "date": "2016-03-28T00:00:00-04:00",
+  "date_published": "2016-03-28T14:45:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "160328-G-BT948-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/456054/coast-guard-medevacs-man-145-miles-southwest-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.13747,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-456054",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:34:29Z",
+  "duration": 219.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103163532/DOD_103163532.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8866,
+    "size": 243884038
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    31.43,
+    43.01,
+    69.7,
+    159.33,
+    175.41,
+    200.47
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-456054.jpg",
+  "sheet_times": [
+    10.87,
+    24.33,
+    37.79,
+    51.25,
+    64.7,
+    78.16,
+    91.62,
+    105.08,
+    118.54,
+    132.0,
+    145.46,
+    158.92,
+    172.38,
+    185.84,
+    199.3,
+    212.76
+  ]
+}

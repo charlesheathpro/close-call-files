@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:340228",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ailing mariner at Prince of Wales Island, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew safely medevacs an ailing mariner from the port of Point Baker on Prince of Wales Island, Alaska, May 29, 2014. The mariner called the Coast Guard via VHF radio from the 35-foot fishing vessel Northern Star when it was determined emergency medical services were unavailable in his remote location. U.S. Coast Guard video by Petty Officer 3rd Class Diana Honings.",
+  "keywords": "Air Station Sitka, Prince of Wales Island, Point Baker, Northern Star, medevac",
+  "date": "2014-05-29T00:00:00-04:00",
+  "date_published": "2014-05-30T14:01:11-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Diana Sherbs",
+  "category": "B-Roll",
+  "virin": "140529-G-MF861-001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/340228/coast-guard-medevacs-ailing-mariner-prince-wales-island-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 1.66834,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-340228",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:32:51Z",
+  "duration": 51.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101706955/DOD_101706955.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 71478733
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.01,
+    46.31
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      16.2,
+      25.9,
+      38.8
+    ],
+    "silence_ends": [
+      25.8,
+      37.0,
+      39.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-340228.jpg",
+  "sheet_times": [
+    3.2,
+    6.28,
+    9.35,
+    12.42,
+    15.49,
+    18.56,
+    21.64,
+    24.71,
+    27.78,
+    30.85,
+    33.92,
+    36.99,
+    40.07,
+    43.14,
+    46.21,
+    49.28
+  ]
+}

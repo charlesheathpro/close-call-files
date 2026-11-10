@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:603592",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 120 miles southwest of Point Loma",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medevacs a crewmember from the 908-foot tanker Elandra Eagle 120 miles southwest of Point Loma, California, May 21, 2017. The crewmember was experiencing heart attack like symptoms and the Jayhawk crew transferred him to Scripps Memorial Hospital in La Jolla, California. (U.S. Coast Guard video/released)",
+  "keywords": "tanker, Jayhawk, 60, medical, rescue, transport, evacuation, lifesaving, San Clemente",
+  "date": "2018-05-21T00:00:00-04:00",
+  "date_published": "2018-05-30T13:58:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "180521-G-GV559-0001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/603592/coast-guard-medevacs-man-120-miles-southwest-point-loma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-603592",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:33:56Z",
+  "duration": 163.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105686131/DOD_105686131.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10038,
+    "size": 204740791
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    114.38
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      163.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-603592.jpg",
+  "sheet_times": [
+    5.08,
+    15.24,
+    25.39,
+    35.55,
+    45.71,
+    55.86,
+    66.02,
+    76.18,
+    86.33,
+    96.49,
+    106.65,
+    116.8,
+    126.96,
+    137.12,
+    147.27,
+    157.43
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:446492",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 150 miles west of San Diego",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew medically evacuates a 36-year-old man approximately 150 miles west of San Diego, Jan. 17, 2016. Watchstanders at Coast Guard Sector San Diego received a report from the crew of the 93-foot passenger vessel Craig G that a male passenger had sustained a severe leg injury and needed assistance. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "Jayhawk, Coast Guard rescue, AST, 60, deploy",
+  "date": "2016-01-17T00:00:00-05:00",
+  "date_published": "2016-01-17T23:44:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "160117-G-GV559-608",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/446492/coast-guard-medevacs-man-150-miles-west-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-446492",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:34:37Z",
+  "duration": 296.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_102991796/DOD_102991796.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8885,
+    "size": 329983112
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    291.72
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      296.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-446492.jpg",
+  "sheet_times": [
+    13.16,
+    31.42,
+    49.68,
+    67.95,
+    86.21,
+    104.48,
+    122.74,
+    141.0,
+    159.27,
+    177.53,
+    195.8,
+    214.06,
+    232.32,
+    250.59,
+    268.85,
+    287.11
+  ]
+}

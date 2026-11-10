@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:316426",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "101007-G-1473H-Station San Diego crew conducts medevac",
+  "description": "SAN DIEGO - Crewmembers from Coast Guard Station San Diego medically evacuated a 79-year-old female experiencing health problems from the cruise ship Carnival Spirit, Oct. 7, 2010. The crew safely brought the female onto the 41-foot utility boat then transported her into port for awaiting EMS. U.S. Coast Guard video by Petty Officer 3rd Class Danelle Hauther.",
+  "keywords": "CGVI",
+  "date": "2010-10-07T23:45:27-04:00",
+  "date_published": "2013-12-20T06:00:00-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/316426/101007-g-1473h-station-san-diego-crew-conducts-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-316426",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:35:16Z",
+  "duration": 61.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101060122/DOD_101060122.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 3109,
+    "size": 25141019
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    6.47,
+    27.63,
+    45.18,
+    55.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      61.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-316426.jpg",
+  "sheet_times": [
+    1.89,
+    5.68,
+    9.46,
+    13.25,
+    17.03,
+    20.82,
+    24.61,
+    28.39,
+    32.18,
+    35.96,
+    39.75,
+    43.53,
+    47.32,
+    51.1,
+    54.89,
+    58.68
+  ]
+}

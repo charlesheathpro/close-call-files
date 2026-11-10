@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:481958",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs diver 115 miles west of San Diego",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Coast Guard Sector San Diego medically evacuated a 57-year-old man who was experiencing labored breathing after the man surfaced from a free dive with a snorkel 115 miles west of San Diego on September 7, 2016. A paramedic onboard administered oxygen until Coast Guard crews arrived. (U.S. Coast Guard video by Coast Guard Sector San Diego/released)",
+  "keywords": "Diver San Diego, Coast Guard, medevac",
+  "date": "2016-09-07T00:00:00-04:00",
+  "date_published": "2016-09-07T18:35:58-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 3rd Class Joel Guzman",
+  "category": "B-Roll",
+  "virin": "160907-G-BT948-001",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/481958/coast-guard-medevacs-diver-115-miles-west-san-diego",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.12543,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-481958",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:34:11Z",
+  "duration": 89.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103637096/DOD_103637096.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 9478,
+    "size": 105606337
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.1,
+    27.09,
+    27.86,
+    57.56,
+    58.53,
+    86.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      89.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-481958.jpg",
+  "sheet_times": [
+    6.76,
+    12.04,
+    17.32,
+    22.6,
+    27.87,
+    33.15,
+    38.43,
+    43.71,
+    48.98,
+    54.26,
+    59.54,
+    64.82,
+    70.09,
+    75.37,
+    80.65,
+    85.93
+  ]
+}
