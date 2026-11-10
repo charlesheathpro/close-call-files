@@ -49,7 +49,7 @@
       "source_quote": "a civilian being brought up into the helicopter and the rescue crew member being brought back up into the helicopter"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -59,8 +59,8 @@
         "crop_x": 0.55
       },
       {
-        "start": 104.0,
-        "end": 106.5,
+        "start": 295.5,
+        "end": 298.0,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -73,8 +73,8 @@
         "crop_x": 0.55
       },
       {
-        "start": 9.0,
-        "end": 11.5,
+        "start": 44.0,
+        "end": 46.5,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -113,16 +113,16 @@
         "crop_x": 0.55
       },
       {
-        "start": 50.0,
-        "end": 52.5,
-        "layout": "crop",
-        "crop_x": 0.6
-      },
-      {
-        "start": 78.0,
-        "end": 80.5,
+        "start": 76.5,
+        "end": 79.0,
         "layout": "crop",
         "crop_x": 0.45
+      },
+      {
+        "start": 81.0,
+        "end": 83.5,
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -157,6 +157,12 @@
         "end": 96.5,
         "layout": "crop",
         "crop_x": 0.4
+      },
+      {
+        "start": 104.0,
+        "end": 106.5,
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
         "start": 107.0,
