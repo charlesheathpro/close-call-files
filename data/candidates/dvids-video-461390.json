@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:461390",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 23-year-old man near Kodiak, Alaska",
+  "description": "A Coast Guard Air Station Kodiak, Alaska, MH-60 Jayhawk helicopter crew medevaced a 23-year-old man from a fishing vessel near Sitkinak Island, south of Kodiak, April 29, 2016. The man contacted Coast Guard Sector Anchorage watchstanders reporting that he was unable to get back to Kodiak and was suffering from symptoms of diabetic shock. U.S. Coast Guard video",
+  "keywords": "Air Station Kodiak, MH-60, Jayhawk, Coast Guard rescue, helicopter, Coast Guard, medevac, search and rescue, rescue",
+  "date": "2016-04-29T00:00:00-04:00",
+  "date_published": "2016-04-29T21:01:17-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Meredith Manning",
+  "category": "B-Roll",
+  "virin": "160429-G-EP136-481",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/461390/coast-guard-medevacs-23-year-old-man-near-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.72603,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-461390",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:41:14Z",
+  "duration": 91.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103260404/DOD_103260404.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8985,
+    "size": 102786282
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.7,
+    10.11
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      91.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-461390.jpg",
+  "sheet_times": [
+    7.42,
+    12.81,
+    18.2,
+    23.59,
+    28.98,
+    34.37,
+    39.76,
+    45.15,
+    50.54,
+    55.93,
+    61.31,
+    66.7,
+    72.09,
+    77.48,
+    82.87,
+    88.26
+  ]
+}

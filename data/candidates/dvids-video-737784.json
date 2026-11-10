@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:737784",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured crewman from ship off North Carolina",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter from Air Station Elizabeth City medevaced a man from a commercial vessel approximately 20 miles off the coast of North Carolina, Feb. 4, 2020. The man was reportedly found semi-consious with lacerations to his head and chest after an apparent equipment accident.\r\n(U.S. Coast Guard video by Air Station Elizabeth City)",
+  "keywords": "d5, District Five, helicopter, SAR, search and rescue, USCG",
+  "date": "2019-12-11T00:00:00-05:00",
+  "date_published": "2020-02-04T23:17:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200204-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/737784/coast-guard-medevacs-injured-crewman-ship-off-north-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-737784",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:42:52Z",
+  "duration": 83.86,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2002/DOD_107646207/DOD_107646207.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10041,
+    "size": 105356695
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 48,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-737784.jpg",
+  "sheet_times": [
+    2.61,
+    7.82,
+    13.03,
+    18.24,
+    23.45,
+    28.66,
+    33.87,
+    39.08,
+    44.29,
+    49.5,
+    54.71,
+    59.92,
+    65.13,
+    70.34,
+    75.55,
+    80.76
+  ]
+}

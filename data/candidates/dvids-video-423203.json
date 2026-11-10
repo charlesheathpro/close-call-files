@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:423203",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Crews Medevac Man from Block Island, Rhode Island",
+  "description": "Coast Guard rescue crews from Air Station Cape Cod, Massachusetts, medically evacuated a man, from Block Island, R.I. to Providence, R.I., Thursday, Sept. 10, 2015.\r\nA nurse from the Block Island Medical center called the 1st District Command Center requesting a medical evacuation for a 60-year-old man suffering from a heart attack. U.S. Coast Guard video by Petty Officer 3rd class Ross Ruddell.",
+  "keywords": "Coast Guard rescue, Coast Guard, medevac, Rhode Island",
+  "date": "2015-09-10T00:00:00-04:00",
+  "date_published": "2015-09-10T15:53:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Ross Ruddell",
+  "category": "B-Roll",
+  "virin": "091015-G-UL848-003",
+  "location": {
+    "city": "Block Island",
+    "state": "Rhode Island",
+    "country": "United States",
+    "state_abbreviation": "RI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/423203/coast-guard-crews-medevac-man-block-island-rhode-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-423203",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:41:44Z",
+  "duration": 26.38,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1509/DOD_102720116/DOD_102720116-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6914,
+    "size": 22794671
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.38,
+    13.48,
+    16.95
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      26.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-423203.jpg",
+  "sheet_times": [
+    4.77,
+    6.13,
+    7.5,
+    8.86,
+    10.22,
+    11.58,
+    12.94,
+    14.3,
+    15.67,
+    17.03,
+    18.39,
+    19.75,
+    21.11,
+    22.47,
+    23.84,
+    25.2
+  ]
+}

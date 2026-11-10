@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:136217",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man From Vessel 75 Miles Off Coast",
+  "description": "B-roll of a medevac by an MH-65 Dolphin helicopter crew from Air Station Atlantic City, N.J., of a 61-year-old man off the 73-foot fishing vessel Debbie Sue, Jan. 28, 2012. The Debbie Sue was approximately 75 miles east of here when the rescued man began to suffer from chest pains and required medical attention. U.S. Coast Guard video by Air Station Elizabeth City, N.C.",
+  "keywords": "Air Station Elizabeth City, Air Station Altantic City, Debbie Sue, N.C., N.J.",
+  "date": "2012-01-28T00:00:00-05:00",
+  "date_published": "2012-01-30T09:28:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "120128-G-XX000-001",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/136217/coast-guard-medevacs-man-vessel-75-miles-off-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-136217",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:42:40Z",
+  "duration": 210.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1201/DOD_100314583/DOD_100314583.mp4",
+    "width": 960,
+    "height": 480,
+    "bitrate": 8983,
+    "size": 243120605
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    17.95,
+    26.26,
+    26.43,
+    29.56,
+    97.43,
+    97.5,
+    97.53,
+    130.66,
+    131.66,
+    132.67,
+    133.67,
+    134.2,
+    134.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      210.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-136217.jpg",
+  "sheet_times": [
+    10.45,
+    23.36,
+    36.26,
+    49.16,
+    62.06,
+    74.96,
+    87.86,
+    100.76,
+    113.66,
+    126.57,
+    139.47,
+    152.37,
+    165.27,
+    178.17,
+    191.07,
+    203.97
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:581705",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 250 miles south west of Tampa Bay",
+  "description": "Coast Guard crewmembers aboard an MH-60 Jayhawk helicopter from Air Station Clearwater, Florida, medevac a 23-year-old man Saturday, Jan. 27, 2018 from 250 miles south west of Tampa, Florida. The man suffered an eye injury aboard the 820-foot Tanker Georgy Maslov and was transported to Tampa General Hospital. (U.S. Coast Guard video)",
+  "keywords": "AIR STATION CLEARWATER, Coast Guard, medevac, Florida",
+  "date": "2018-01-27T00:00:00-05:00",
+  "date_published": "2018-01-27T21:11:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180127-G-G0107-1001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/581705/coast-guard-medevacs-man-250-miles-south-west-tampa-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-581705",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:24Z",
+  "duration": 83.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105273728/DOD_105273728.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8956,
+    "size": 93839986
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.11,
+    28.56,
+    28.7
+  ],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-581705.jpg",
+  "sheet_times": [
+    2.6,
+    7.8,
+    13.0,
+    18.21,
+    23.41,
+    28.61,
+    33.81,
+    39.01,
+    44.22,
+    49.42,
+    54.62,
+    59.82,
+    65.02,
+    70.23,
+    75.43,
+    80.63
+  ]
+}

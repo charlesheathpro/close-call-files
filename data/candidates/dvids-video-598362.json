@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:598362",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 65 miles off Atlantic City, NJ",
+  "description": "The Coast Guard medevaced a 51-year-old man approximately 65 miles of Atlantic City, New Jersey, Sunday. The man was reported to be experiencing difficulty breathing. (US Coast Guard video)",
+  "keywords": "hoist, Air Station Atlantic City, hoist cam, sport fisher, Coast Guard, medevac",
+  "date": "2018-05-06T00:00:00-04:00",
+  "date_published": "2018-05-06T12:17:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180506-G-G0105-001",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/598362/coast-guard-medevacs-man-65-miles-off-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-598362",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:07Z",
+  "duration": 72.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105597981/DOD_105597981.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10043,
+    "size": 91667888
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      72.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-598362.jpg",
+  "sheet_times": [
+    2.24,
+    6.71,
+    11.18,
+    15.65,
+    20.12,
+    24.59,
+    29.06,
+    33.54,
+    38.01,
+    42.48,
+    46.95,
+    51.42,
+    55.89,
+    60.36,
+    64.83,
+    69.31
+  ]
+}

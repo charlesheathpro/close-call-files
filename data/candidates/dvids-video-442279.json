@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:442279",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard, Navy medevac fisherman 40 miles off Portland, Maine",
+  "description": "A Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter crew medevacs a fisherman off of the Zumwalt Saturday, Dec. 12, 2015. The Zumwalt is the U.S. Navy's new stealth destroyer. (U.S. Coast Guard video courtesy Air Station Cape Cod)",
+  "keywords": "Coast Guard rescue, Zumwalt, Navy Medevac, Coast Guard, medevac, USCG",
+  "date": "2015-12-12T00:00:00-05:00",
+  "date_published": "2015-12-12T16:40:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151212-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/442279/coast-guard-navy-medevac-fisherman-40-miles-off-portland-maine",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.22553,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-442279",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:41:40Z",
+  "duration": 78.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102947986/DOD_102947986.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7897,
+    "size": 78019126
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.2,
+    35.44,
+    73.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      79.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-442279.jpg",
+  "sheet_times": [
+    6.55,
+    11.19,
+    15.83,
+    20.47,
+    25.11,
+    29.75,
+    34.39,
+    39.03,
+    43.67,
+    48.31,
+    52.95,
+    57.59,
+    62.23,
+    66.87,
+    71.52,
+    76.16
+  ]
+}

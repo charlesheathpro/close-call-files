@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:594505",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise ship crewmember 45 miles south of Marathon",
+  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter crew medevaced a 41-year-old man from the cruise ship, Norwegian Getaway, Monday, April 16, 2018 approximately 45 miles south of Marathon. The aircrew hoisted the patient and transferred him to the air station where awaiting emergency medical services transported him to Jackson Memorial Hospital for further medical care. U.S. Coast Guard video courtesy of Air Station Miami",
+  "keywords": "MH-65 Dolphin helicopter, Jackson memorial Hospital, Air Station Miami, Norwegian Getaway, medevac, marathon",
+  "date": "2018-04-16T00:00:00-04:00",
+  "date_published": "2018-04-16T09:47:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180416-G-G0107-1001",
+  "location": {
+    "city": "Marathon",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/594505/coast-guard-medevacs-cruise-ship-crewmember-45-miles-south-marathon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-594505",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:14Z",
+  "duration": 26.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105514801/DOD_105514801.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4858,
+    "size": 16185872
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      26.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-594505.jpg",
+  "sheet_times": [
+    0.82,
+    2.45,
+    4.08,
+    5.71,
+    7.34,
+    8.98,
+    10.61,
+    12.24,
+    13.87,
+    15.5,
+    17.13,
+    18.77,
+    20.4,
+    22.03,
+    23.66,
+    25.29
+  ]
+}

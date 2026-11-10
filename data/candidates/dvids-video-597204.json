@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:597204",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 35 miles east of Manasquan Inlet, NJ",
+  "description": "An MH-65 Dolphin helicopter aircrew from Coast Guard Air Station Atlantic City, New Jersey, hoists an ailing man aboard a fishing vessel approximately 35 miles east of Manasquan Inlet, New Jersey, April 29, 2018. The fishing vessel’s captain notified the Coast Guard at about 5:45 p.m. that the man was suffering from a possible stroke and needed a medical evacuation. (U.S. Coast Guard video, courtesy Air Station Atlantic City/Released)",
+  "keywords": "Atlantic City, medical evacuation, hoist, Air Station Atlantic City, aircrew, MH-65, d5, helicopter, Coast Guard, medevac, SAR, search and rescue, USCG, New Jersey, dolphin",
+  "date": "2018-04-29T00:00:00-04:00",
+  "date_published": "2018-04-30T10:03:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180429-G-G0105-3001",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/597204/coast-guard-medevacs-man-35-miles-east-manasquan-inlet-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-597204",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:11Z",
+  "duration": 93.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105576468/DOD_105576468.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9907,
+    "size": 117370249
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.34,
+    28.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      93.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-597204.jpg",
+  "sheet_times": [
+    2.91,
+    8.72,
+    14.54,
+    20.35,
+    26.16,
+    31.98,
+    37.79,
+    43.61,
+    49.42,
+    55.23,
+    61.05,
+    66.86,
+    72.68,
+    78.49,
+    84.3,
+    90.12
+  ]
+}
