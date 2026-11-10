@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-10T04:45:52Z",
+  "at": "2026-11-10T10:56:55Z",
   "mature": 98,
   "features": [
     {
@@ -23,12 +23,12 @@
       "effect": 0.43
     },
     {
-      "feature": "story: capsized boat, people in the water",
+      "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
       "n": 1,
       "effect": 0.41
     },
     {
-      "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
+      "feature": "story: capsized boat, people in the water",
       "n": 1,
       "effect": 0.4
     },
@@ -45,7 +45,7 @@
     {
       "feature": "music: night",
       "n": 3,
-      "effect": 0.29
+      "effect": 0.3
     },
     {
       "feature": "story: elderly sailor and dog, disabled sailboat far offshore",
@@ -108,13 +108,13 @@
       "effect": 0.18
     },
     {
-      "feature": "length 45 s or more",
-      "n": 9,
-      "effect": 0.17
-    },
-    {
       "feature": "story: boat swamped in waves, swimmer and basket hoist",
       "n": 1,
+      "effect": 0.18
+    },
+    {
+      "feature": "length 45 s or more",
+      "n": 9,
       "effect": 0.17
     },
     {
@@ -173,14 +173,14 @@
       "effect": 0.08
     },
     {
-      "feature": "story: flood hoist",
+      "feature": "story: disabled gambling ship in heavy seas, basket hoist",
       "n": 1,
       "effect": 0.08
     },
     {
-      "feature": "story: disabled gambling ship in heavy seas, basket hoist",
+      "feature": "story: flood hoist",
       "n": 1,
-      "effect": 0.07
+      "effect": 0.08
     },
     {
       "feature": "story: dog flood hoist",
@@ -203,17 +203,17 @@
       "effect": 0.07
     },
     {
-      "feature": "story: stranded on island, sos",
-      "n": 1,
-      "effect": 0.07
-    },
-    {
       "feature": "story: tanker comes alongside a flooding sailboat far offshore",
       "n": 1,
       "effect": 0.07
     },
     {
       "feature": "story: hurricane boat crew rescue with babies",
+      "n": 1,
+      "effect": 0.06
+    },
+    {
+      "feature": "story: stranded on island, sos",
       "n": 1,
       "effect": 0.06
     },
@@ -253,11 +253,6 @@
       "effect": 0.02
     },
     {
-      "feature": "story: surf rescue under cliff",
-      "n": 1,
-      "effect": 0.02
-    },
-    {
       "feature": "story: teens stranded on a navigation marker, swimmer tows them clear, basket hoist",
       "n": 1,
       "effect": 0.02
@@ -289,6 +284,11 @@
     },
     {
       "feature": "story: hurricane hunter turbulence inside the cabin",
+      "n": 1,
+      "effect": 0.01
+    },
+    {
+      "feature": "story: surf rescue under cliff",
       "n": 1,
       "effect": 0.01
     },
@@ -363,6 +363,11 @@
       "effect": -0.04
     },
     {
+      "feature": "lane: rescue",
+      "n": 78,
+      "effect": -0.05
+    },
+    {
       "feature": "story: capsized boat, people in water",
       "n": 1,
       "effect": -0.05
@@ -376,11 +381,6 @@
       "feature": "story: mother and daughter in the water after capsizing, basket hoist",
       "n": 1,
       "effect": -0.05
-    },
-    {
-      "feature": "lane: rescue",
-      "n": 78,
-      "effect": -0.06
     },
     {
       "feature": "story: pad abort test",
@@ -423,12 +423,12 @@
       "effect": -0.11
     },
     {
-      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
+      "feature": "story: fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
       "n": 1,
-      "effect": -0.12
+      "effect": -0.11
     },
     {
-      "feature": "story: fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
+      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
       "n": 1,
       "effect": -0.12
     },
@@ -465,7 +465,7 @@
     {
       "feature": "music: storm",
       "n": 19,
-      "effect": -0.15
+      "effect": -0.16
     },
     {
       "feature": "story: airliner down in a lagoon, boat pickup off the wing",
@@ -587,36 +587,36 @@
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 11184.0,
+      "views": 11303.0,
       "ret": 95.37,
       "score": 1.846
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 8609.0,
+      "views": 8713.0,
       "ret": 98.91,
-      "score": 1.782
+      "score": 1.783
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5180.0,
       "ret": 96.97,
-      "score": 1.706
+      "score": 1.704
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9446.0,
       "ret": 95.02,
-      "score": 1.694
+      "score": 1.691
     },
     {
-      "short_id": "ccf-20261030-60",
-      "title": "Boat flipped with a 4-year-old aboard",
-      "views": 21134.0,
-      "ret": 77.32,
+      "short_id": "ccf-20261106-51",
+      "title": "17-year-old adrift at night, no paddle",
+      "views": 32069.0,
+      "ret": 72.14,
       "score": 1.606
     }
   ],
@@ -624,37 +624,37 @@
     {
       "short_id": "ccf-20261106-52",
       "title": "Stranded 33 days on a Bahamas island",
-      "views": 996.0,
+      "views": 1002.0,
       "ret": 38.72,
-      "score": -0.948
+      "score": -0.946
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 63.75999999999999,
-      "score": -1.264
+      "score": -1.263
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
       "views": 285.0,
       "ret": 42.06,
-      "score": -1.483
+      "score": -1.482
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 67.01,
-      "score": -1.941
+      "score": -1.938
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -2.327
+      "score": -2.323
     }
   ],
   "query_weights": {
@@ -682,7 +682,7 @@
     "lava USGS": 0.91,
     "wildfire": 0.88,
     "capsized vessel rescue": 0.74,
-    "beach rescue": 1.22,
+    "beach rescue": 1.21,
     "car in water": 1.02,
     "kayaker rescue": 1.01,
     "MH-65 rescue": 1.07,
@@ -776,6 +776,9 @@
       "notes": "Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short."
     }
   ],
-  "config_changed_at": "2026-11-09T11:13:01Z",
-  "changed": []
+  "config_changed_at": "2026-11-10T10:56:55Z",
+  "changed": [
+    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.49, 'hazards': 0.1}",
+    "query weights for 50 searches"
+  ]
 }
