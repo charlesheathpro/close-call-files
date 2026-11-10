@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:525762",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured fisherman 86 miles east of Cape Cod",
+  "description": "A Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter crew medevacs an injured fisherman, Thursday, May 18, 2017, 86 miles east of Cape Cod, Massachusetts. The fisherman was brought to Air Station Cape Cod and transferred to emergency medical services personnel. (Coast Guard video by Air Station Cape Cod)",
+  "keywords": "Jayhawk, Air Station Cape Cod, 42215204, DVIDS Videos of the Day 060817, medevac, USCG",
+  "date": "2017-05-18T00:00:00-04:00",
+  "date_published": "2017-05-19T00:29:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170518-G-G0101-1001",
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/525762/coast-guard-medevacs-injured-fisherman-86-miles-east-cape-cod",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.359,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-525762",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:40:39Z",
+  "duration": 99.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104384145/DOD_104384145.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 8200,
+    "size": 102500447
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.34,
+    13.64,
+    23.61,
+    47.13,
+    47.3,
+    84.54
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      99.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-525762.jpg",
+  "sheet_times": [
+    7.33,
+    13.27,
+    19.21,
+    25.15,
+    31.09,
+    37.03,
+    42.97,
+    48.91,
+    54.85,
+    60.78,
+    66.72,
+    72.66,
+    78.6,
+    84.54,
+    90.48,
+    96.42
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:849622",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs crew member 20 miles off Sabine, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew rescues a crew member from the tanker vessel Isabella 20 miles off Sabine, Texas, July 6, 2022. The helicopter arrived on scene, safely hoisted the patient and took him to Christus St. Catherine Hospital in Katy, Texas, in reportedly stable condition. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "tanker, hoist, medevac, search and rescue, rescue",
+  "date": "2022-07-06T00:00:00-04:00",
+  "date_published": "2022-07-07T19:11:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220706-G-G0108-1001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/849622/coast-guard-medevacs-crew-member-20-miles-off-sabine-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-849622",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:40:17Z",
+  "duration": 25.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109096206/DOD_109096206-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 25397714
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      25.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-849622.jpg",
+  "sheet_times": [
+    0.77,
+    2.32,
+    3.87,
+    5.42,
+    6.97,
+    8.52,
+    10.07,
+    11.62,
+    13.17,
+    14.72,
+    16.27,
+    17.82,
+    19.37,
+    20.92,
+    22.47,
+    24.02
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:635549",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs hiker after bear attack near Kodiak, Alaska",
+  "description": "The Coast Guard medevacs a hiker Oct. 26, 2018, after he was mauled by a bear on Afognak Island, just north of Kodiak Island. The MH-60 Jayhawk helicopter crew from Air Station Kodiak hoisted the 31-year-old man who sustained multiple lacerations to his leg and brought him to Air Station Kodiak where he was placed in the care of awaiting EMS. U.S. Coast Guard video by Air Station Kodiak",
+  "keywords": "Air Station Kodiak, hoist, District 17, Sector Anchorage, D17, 17th District, bear attack, Mh-60 Jayhawk helicopter crew, bear mauling, Afognak Island, medevac, Alaska",
+  "date": "2018-10-26T00:00:00-04:00",
+  "date_published": "2018-10-26T23:00:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "181026-G-G0217-1001",
+  "location": {
+    "city": "Kodiak",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/635549/coast-guard-medevacs-hiker-after-bear-attack-near-kodiak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-635549",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:40:54Z",
+  "duration": 26.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106157345/DOD_106157345.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9255,
+    "size": 31313891
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.06,
+      "e": 26.18,
+      "text": "We're coming up. We're going to bring a letter into cabin."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 46,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      4.2,
+      8.3,
+      11.6,
+      15.1,
+      18.4
+    ],
+    "silence_ends": [
+      2.5,
+      5.8,
+      10.0,
+      13.1,
+      16.5,
+      23.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-635549.jpg",
+  "sheet_times": [
+    0.82,
+    2.46,
+    4.1,
+    5.74,
+    7.38,
+    9.02,
+    10.66,
+    12.3,
+    13.93,
+    15.57,
+    17.21,
+    18.85,
+    20.49,
+    22.13,
+    23.77,
+    25.41
+  ]
+}

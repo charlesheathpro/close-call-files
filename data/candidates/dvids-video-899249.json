@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:899249",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 35 miles south of Grand Isle, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter medevacs a patient from a deepwater construction vessel, approximately 35 miles south of Grand Isle, Louisiana, Oct. 2, 2023. The patient was experiencing chest pain and was brought to University Medical Center in New Orleans. (U.S. Coast Guard video by Coast Guard Air Station New Orleans)",
+  "keywords": "Nola, Jayhawk, Grand Isle",
+  "date": "2023-10-02T00:00:00-04:00",
+  "date_published": "2023-10-02T19:42:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231002-G-G0108-1001",
+  "location": {
+    "city": "Grand Isle",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/899249/coast-guard-medevacs-man-35-miles-south-grand-isle-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-899249",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:38:52Z",
+  "duration": 66.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2310/DOD_109919221/DOD_109919221.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 79661620
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.55,
+      "e": 7.87,
+      "text": "coming up."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-899249.jpg",
+  "sheet_times": [
+    2.05,
+    6.16,
+    10.27,
+    14.37,
+    18.48,
+    22.58,
+    26.69,
+    30.8,
+    34.9,
+    39.01,
+    43.12,
+    47.22,
+    51.33,
+    55.43,
+    59.54,
+    63.65
+  ]
+}

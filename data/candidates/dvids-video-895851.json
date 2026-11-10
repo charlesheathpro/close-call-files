@@ -1,0 +1,106 @@
+{
+  "asset_id": "video:895851",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "The Coast Guard medevacs injured fisherman 10 miles south of Freeport, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter air crew hoists and medevacs a man approximately 10 miles south of Freeport, Texas, September 3, 2023. The man was brought to St. Luke’s Health - Brazosport Hospital in Lake Jackson, Texas, where he was last reported to be in stable condition. (U.S. Coast Guard video by Coast Guard Air Station Houston)",
+  "keywords": "CoastGuardNewsWire, Coast Guard, SAR, dolphin",
+  "date": "2023-09-03T00:00:00-04:00",
+  "date_published": "2023-09-03T17:55:25-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230903-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/895851/coast-guard-medevacs-injured-fisherman-10-miles-south-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-895851",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:39:00Z",
+  "duration": 27.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2309/DOD_109862795/DOD_109862795-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 29872567
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.82,
+      "e": 14.62,
+      "text": "How did you want a trail on?"
+    },
+    {
+      "s": 14.62,
+      "e": 15.62,
+      "text": "The trail has a bass."
+    },
+    {
+      "s": 15.62,
+      "e": 16.62,
+      "text": "Don't worry about that."
+    },
+    {
+      "s": 16.62,
+      "e": 17.62,
+      "text": "The trail has a way."
+    },
+    {
+      "s": 17.62,
+      "e": 18.62,
+      "text": "Moving in the basket."
+    },
+    {
+      "s": 18.62,
+      "e": 19.62,
+      "text": "Roger."
+    },
+    {
+      "s": 19.62,
+      "e": 20.62,
+      "text": "We're at you."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      24.9
+    ],
+    "silence_ends": [
+      25.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-895851.jpg",
+  "sheet_times": [
+    0.86,
+    2.58,
+    4.3,
+    6.01,
+    7.73,
+    9.45,
+    11.17,
+    12.89,
+    14.61,
+    16.32,
+    18.04,
+    19.76,
+    21.48,
+    23.2,
+    24.92,
+    26.64
+  ]
+}

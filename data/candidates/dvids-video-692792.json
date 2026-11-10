@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:692792",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman from cruise ship near Kake, Alaska",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Sitka medevacs a woman from a cruise ship near Kake, Alaska, June 25, 2019. She was flown to Air Station Sitka and placed in the care of awaiting EMS, then transported to Mt. Edgecumbe Medical Center in Sitka. U.S. Coast Guard video by Air Station Sitka",
+  "keywords": "hoist, MH-60 Jayhawk helicopter, Sector Juneau, D17, 17th District, Air Station Sitka, Kake, Seventeenth District, Southeast Alaska, Ovation of the Seas, medevac, Alaska",
+  "date": "2019-06-25T00:00:00-04:00",
+  "date_published": "2019-06-25T23:28:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190625-G-G0217-1001",
+  "location": {
+    "city": "Sitka",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/692792/coast-guard-medevacs-woman-cruise-ship-near-kake-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-692792",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:40:48Z",
+  "duration": 31.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1906/DOD_106952126/DOD_106952126.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10093,
+    "size": 39770473
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 7.0,
+      "text": "Pick up. Roger, come in. Easy rate."
+    },
+    {
+      "s": 7.0,
+      "e": 14.51,
+      "text": "Take the load. The line's still being finished. Roger."
+    }
+  ],
+  "scene_cuts": [
+    6.94
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.7,
+      10.3,
+      14.8,
+      19.4,
+      25.6,
+      30.1
+    ],
+    "silence_ends": [
+      3.9,
+      11.0,
+      17.0,
+      23.4,
+      27.9,
+      30.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-692792.jpg",
+  "sheet_times": [
+    0.96,
+    2.87,
+    4.78,
+    6.69,
+    8.61,
+    10.52,
+    12.43,
+    14.34,
+    16.26,
+    18.17,
+    20.08,
+    21.99,
+    23.9,
+    25.82,
+    27.73,
+    29.64
+  ]
+}

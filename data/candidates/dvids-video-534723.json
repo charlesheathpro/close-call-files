@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:534723",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from fishing vessel south of Long Island",
+  "description": "A Coast Guard Air Station Cape Cod aircrew medevacs a man, Monday, June 26, 2017, 30 miles south of Shinnecock Inlet, New York. The 34-year-old man suffered a head injury and was transported to Massachusetts General Hospital. (U.S. Coast Guard video by Air Station Cape Cod)",
+  "keywords": "Air Station Cape Cod, medevac, USCG",
+  "date": "2017-06-26T00:00:00-04:00",
+  "date_published": "2017-06-27T15:25:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170626-G-G0101-1001",
+  "location": {
+    "city": "",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/534723/coast-guard-medevacs-man-fishing-vessel-south-long-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-534723",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:40:32Z",
+  "duration": 176.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104532405/DOD_104532405.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9533,
+    "size": 210833699
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    45.81,
+    46.08,
+    77.11,
+    77.34,
+    136.84,
+    154.49,
+    171.74
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      176.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-534723.jpg",
+  "sheet_times": [
+    5.51,
+    16.52,
+    27.54,
+    38.55,
+    49.57,
+    60.58,
+    71.6,
+    82.62,
+    93.63,
+    104.65,
+    115.66,
+    126.68,
+    137.69,
+    148.71,
+    159.72,
+    170.74
+  ]
+}

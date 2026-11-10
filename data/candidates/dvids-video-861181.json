@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:861181",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs injured crewman from vessel offshore Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew hoists an injured crewman from the bulk carrier Tai Star 16 miles offshore Galveston, Texas, Oct. 17, 2022. The captain of the Tai Star called Coast Guard Sector Houston-Galveston command center watchstanders at 7:02 p.m. and notified them a 20-year-old crewman injured his hand while working on deck. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "Galveston, helicopter, medevac, USCG, Air Station Houston, dolphin",
+  "date": "2022-10-17T00:00:00-04:00",
+  "date_published": "2022-10-18T18:20:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221017-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/861181/coast-guard-medevacs-injured-crewman-vessel-offshore-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-861181",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:39:43Z",
+  "duration": 142.68,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109275357/DOD_109275357-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 150877691
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.87,
+    85.45
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      142.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-861181.jpg",
+  "sheet_times": [
+    4.44,
+    13.33,
+    22.21,
+    31.1,
+    39.99,
+    48.87,
+    57.76,
+    66.64,
+    75.53,
+    84.42,
+    93.3,
+    102.19,
+    111.07,
+    119.96,
+    128.85,
+    137.73
+  ]
+}

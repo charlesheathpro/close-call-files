@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:846844",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs crewmember 115 miles South of Mobile Bay, Al.",
+  "description": "The Coast Guard medevaced a crewmember Thursday from a offshore supply vessel approximately 115 miles South of Mobile Bay, Alabama. (U.S. Coast Guard courtesy video)",
+  "keywords": "Nola, Air Station, medevac, rescue",
+  "date": "2022-06-09T00:00:00-04:00",
+  "date_published": "2022-06-11T19:11:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Riley Perkofski",
+  "category": "B-Roll",
+  "virin": "220609-G-KL910-802",
+  "location": {
+    "city": "New Orleans",
+    "state": "Illinois",
+    "country": "United States",
+    "state_abbreviation": "IL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/846844/coast-guard-medevacs-crewmember-115-miles-south-mobile-bay-al",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-846844",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:38:49Z",
+  "duration": 23.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2206/DOD_109051255/DOD_109051255-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 16959898
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    9.81
+  ],
+  "drama_score": 23,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      23.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-846844.jpg",
+  "sheet_times": [
+    0.73,
+    2.18,
+    3.63,
+    5.08,
+    6.53,
+    7.98,
+    9.43,
+    10.89,
+    12.34,
+    13.79,
+    15.24,
+    16.69,
+    18.14,
+    19.59,
+    21.05,
+    22.5
+  ]
+}

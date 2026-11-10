@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:872594",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs captain of motor vessel near Southwest Pass, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk aircrew medevacs the captain of the motor vessel Peridot near Southwest Pass, Louisiana, on Feb. 6, 2023. The captain experienced dizziness and chest pain before the aircrew medevaced him to Universtiy Medical Center in New Orleans. (U.S. Coast Guard photo by Air Station New Orleans)",
+  "keywords": "hoist, Air Station, CoastGuardNewsWire, helicopter, medevac, rescue, New Orleans",
+  "date": "2023-02-06T00:00:00-05:00",
+  "date_published": "2023-02-06T21:55:42-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230206-G-G0108-1001",
+  "location": {
+    "city": "Southwest Pass",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/872594/coast-guard-medevacs-captain-motor-vessel-near-southwest-pass-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-872594",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:39:28Z",
+  "duration": 52.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2302/DOD_109443369/DOD_109443369-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 53772343
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    20.35,
+    34.5,
+    48.28
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      52.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-872594.jpg",
+  "sheet_times": [
+    1.62,
+    4.85,
+    8.09,
+    11.32,
+    14.56,
+    17.79,
+    21.02,
+    24.26,
+    27.49,
+    30.73,
+    33.96,
+    37.2,
+    40.43,
+    43.67,
+    46.9,
+    50.13
+  ]
+}
