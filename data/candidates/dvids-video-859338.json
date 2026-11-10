@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-859338",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:42:15Z",
   "duration": 30.33,
   "source_file": {
@@ -109,5 +109,6 @@
     25.17,
     27.03,
     28.9
-  ]
+  ],
+  "pass_reason": "Static grainy FLIR of two people standing on rocks for 30 s; no visible danger or turn."
 }

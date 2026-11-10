@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-600011",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:25:36Z",
   "duration": 16.9,
   "source_file": {
@@ -65,5 +65,6 @@
     13.84,
     14.87,
     15.89
-  ]
+  ],
+  "pass_reason": "Only 17 s, and it shows a hospital transfer rather than the grounding."
 }

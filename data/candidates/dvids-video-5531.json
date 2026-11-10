@@ -26,7 +26,7 @@
   "time_start": 3.03637,
   "aspect_ratio": "4:3",
   "id": "dvids-video-5531",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T18:01:20Z",
   "duration": 155.19,
   "source_file": {
@@ -69,5 +69,6 @@
     130.99,
     140.47,
     149.95
-  ]
+  ],
+  "pass_reason": "Release gives no place, and its 08.07.2005 date conflicts with the flooded city on screen; location and date cannot be sourced."
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Hunting-Hurricanes",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:49:53Z",
   "duration": 143.75,
   "source_file": {
@@ -55,5 +55,6 @@
     120.87,
     129.82,
     138.78
-  ]
+  ],
+  "pass_reason": "Data visualization animation, not real footage."
 }

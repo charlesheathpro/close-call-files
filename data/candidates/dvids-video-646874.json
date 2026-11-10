@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-646874",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:02:49Z",
   "duration": 157.31,
   "source_file": {
@@ -66,5 +66,6 @@
     132.31,
     142.11,
     151.91
-  ]
+  ],
+  "pass_reason": "Medical case: the release says the man was unresponsive with an irregular pulse, and he is on screen in the basket (person in medical distress)."
 }

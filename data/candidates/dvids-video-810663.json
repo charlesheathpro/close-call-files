@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-810663",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:56:44Z",
   "duration": 53.89,
   "source_file": {
@@ -186,5 +186,6 @@
     45.05,
     48.38,
     51.72
-  ]
+  ],
+  "pass_reason": "Live-fire firefighting training at a training center, no real incident."
 }

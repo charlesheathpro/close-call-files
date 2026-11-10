@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-930772",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T18:01:47Z",
   "duration": 62.16,
   "source_file": {
@@ -213,5 +213,6 @@
     52.03,
     55.88,
     59.74
-  ]
+  ],
+  "pass_reason": "Crew interview only, no rescue footage."
 }
