@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:940797",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from Wassaw Sound, Georgia",
+  "description": "A Coast Guard Air Station Savannah rescue crew medevacs a 33-year-old man in Wassaw Sound, Georgia, Oct. 19,2024. The man attempted to unground his recreational vessel and made contact with the propeller. The MH-65 Dolphin helicopter crew transferred the man to Savannah Memorial for further medical care. (U.S. Coast Guard video by Lt. Hunter Shortly)",
+  "keywords": "U.S. Coast Guard SAR USCG MH-65 Air Station Savannah",
+  "date": "2024-10-19T00:00:00-04:00",
+  "date_published": "2024-10-20T12:39:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "241019-G-G0107-1005",
+  "location": {
+    "city": "Wassaw Sound",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/940797/coast-guard-medevacs-man-wassaw-sound-georgia",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-940797",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:47Z",
+  "duration": 46.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110633985/DOD_110633985-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 25008072
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [
+      1.5,
+      20.9,
+      25.8
+    ],
+    "silence_ends": [
+      2.5,
+      21.8,
+      27.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-940797.jpg",
+  "sheet_times": [
+    1.43,
+    4.29,
+    7.14,
+    10.0,
+    12.86,
+    15.71,
+    18.57,
+    21.43,
+    24.28,
+    27.14,
+    30.0,
+    32.86,
+    35.71,
+    38.57,
+    41.43,
+    44.28
+  ]
+}

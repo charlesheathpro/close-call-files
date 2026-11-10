@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:418400",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Cruise Ship Passenger",
+  "description": "A crew aboard an MH-60 Jayhawk helicopter from Coast Guard Air Station Clearwater, Florida, operating out of Great Inagua, Bahamas, medically evacuates a cruise ship passenger Aug. 6, 2015, 84 miles northeast of Grand Turk, Turks and Caicos Islands. The patient was hoisted and later transferred to an air ambulance crew for further care. U.S. Coast Guard video.",
+  "keywords": "Miami, Bahamas, hoist, AIR STATION CLEARWATER, District 7, medevac, rescue",
+  "date": "2015-08-06T00:00:00-04:00",
+  "date_published": "2015-08-07T12:29:22-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150706-G-AB001-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418400/coast-guard-medevacs-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-418400",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:29Z",
+  "duration": 77.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102646157/DOD_102646157.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7810,
+    "size": 75859532
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    76.58
+  ],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418400.jpg",
+  "sheet_times": [
+    6.31,
+    10.88,
+    15.44,
+    20.01,
+    24.57,
+    29.14,
+    33.71,
+    38.27,
+    42.84,
+    47.41,
+    51.97,
+    56.54,
+    61.11,
+    65.67,
+    70.24,
+    74.81
+  ]
+}

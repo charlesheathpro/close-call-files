@@ -1,0 +1,104 @@
+{
+  "asset_id": "video:604788",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs ill fisherman",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter, from Sector Columbia River, hoists an ill fisherman off the fishing vessel Kathy Ann 9 miles off the coast of Grays Harbor, Wash., June 4, 2018.\r\n\r\nThe 43-year-old fisherman was suffering from severe pain in the lower abdominal area and was transferred to local emergency medical services at Bowerman Airport in Hoquiam, Wash., in stable condition.\r\n\r\nU.S. Coast Guard video by Sector Columbia River.",
+  "keywords": "MH-60 Jayhawk helicopter, Sector Columbia River, Station Grays Harbor, Bowerman Airport, Coast Guard, medevac, USCG",
+  "date": "2018-06-04T00:00:00-04:00",
+  "date_published": "2018-06-04T20:21:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180604-G-G0213-1001",
+  "location": {
+    "city": "Grayland",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/604788/coast-guard-medevacs-ill-fisherman",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-604788",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:19Z",
+  "duration": 92.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105701568/DOD_105701568.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7938,
+    "size": 92591236
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 9.01,
+      "e": 25.7,
+      "text": "complete so we're going down."
+    }
+  ],
+  "scene_cuts": [
+    4.13,
+    23.03,
+    29.77,
+    37.93,
+    73.97
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      1.1,
+      8.0,
+      11.1,
+      16.7,
+      22.2,
+      34.3,
+      39.8,
+      43.9,
+      49.4,
+      56.2,
+      63.6,
+      74.0
+    ],
+    "silence_ends": [
+      5.8,
+      8.7,
+      14.1,
+      17.6,
+      23.0,
+      36.5,
+      41.8,
+      45.0,
+      54.1,
+      59.8,
+      69.6,
+      92.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-604788.jpg",
+  "sheet_times": [
+    2.86,
+    8.58,
+    14.3,
+    20.03,
+    25.75,
+    31.47,
+    37.19,
+    42.91,
+    48.63,
+    54.35,
+    60.08,
+    65.8,
+    71.52,
+    77.24,
+    82.96,
+    88.68
+  ]
+}

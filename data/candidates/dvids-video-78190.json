@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:78190",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Long-Range MedEvac of Cruise Ship Passenger",
+  "description": "B-Roll of a Coast Guard rescue of a patient on board a cruise ship. Scenes include the cruise ship, the landing of the Coast Guard helicopter and medics attending to the patient. Produced by Petty Officer 2nd Class James Percherke and Petty Officer 2nd Class Henry G. Dunphy.",
+  "keywords": "Coast Guard, rescue, Cruise Ship",
+  "date": "2010-01-29T00:00:00-05:00",
+  "date_published": "2010-01-29T15:10:57-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100129-G-0694D-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/78190/coast-guard-long-range-medevac-cruise-ship-passenger",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-78190",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:41Z",
+  "duration": 129.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1001/DOD_100062954/DOD_100062954.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.95,
+    51.25,
+    64.5,
+    91.56,
+    124.12
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      51.3
+    ],
+    "silence_ends": [
+      4.0,
+      129.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-78190.jpg",
+  "sheet_times": [
+    7.9,
+    15.68,
+    23.46,
+    31.25,
+    39.03,
+    46.82,
+    54.6,
+    62.38,
+    70.17,
+    77.95,
+    85.74,
+    93.52,
+    101.3,
+    109.09,
+    116.87,
+    124.66
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:300563",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard conducts long-range medevac",
+  "description": "An HC-130 Hercules aircraft crew from Coast Guard Air Station Barbers Point traveled 3,065 miles to Kanton Island for the medevac of a 36-year-old man Sept. 3, 2013.",
+  "keywords": "HC-130 Hercules, Coast Guard MEDEVAC, Kanton Island",
+  "date": "2013-09-03T00:00:00-04:00",
+  "date_published": "2013-09-05T21:44:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 3rd Class Melissa McKenzie",
+  "category": "B-Roll",
+  "virin": "130904-G-MT091-001",
+  "location": {
+    "city": "Honolulu",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/300563/coast-guard-conducts-long-range-medevac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-300563",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:23Z",
+  "duration": 59.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1309/DOD_100904211/DOD_100904211.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10000,
+    "size": 76323508
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    28.73
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      6.9
+    ],
+    "silence_ends": [
+      59.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-300563.jpg",
+  "sheet_times": [
+    1.85,
+    5.56,
+    9.26,
+    12.96,
+    16.67,
+    20.37,
+    24.07,
+    27.78,
+    31.48,
+    35.19,
+    38.89,
+    42.59,
+    46.3,
+    50.0,
+    53.7,
+    57.41
+  ]
+}

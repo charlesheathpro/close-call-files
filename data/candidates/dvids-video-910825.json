@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:910825",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 230 miles off Tampa",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter aircrew medevaced a 66-year-old male passenger suffering from symptoms of a stroke, while a HC-130 Hercules airplane aircrew maintained comms, from cruise ship Carnival Pride, 230 miles southwest of Tampa, Jan. 19, 2024. The man was brought to Tampa General Hospital to receive higher-level care. (U.S. Coast Guard Video)",
+  "keywords": "hoist, CoastGuardNewsWire, SAR, USCG",
+  "date": "2024-01-19T00:00:00-05:00",
+  "date_published": "2024-01-19T22:11:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240119-G-G0107-1001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/910825/coast-guard-medevacs-man-230-miles-off-tampa",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-910825",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:49Z",
+  "duration": 16.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2401/DOD_110087984/DOD_110087984-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 8906044
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.03,
+    6.03,
+    10.03,
+    12.03,
+    14.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      16.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-910825.jpg",
+  "sheet_times": [
+    0.48,
+    1.45,
+    2.42,
+    3.39,
+    4.36,
+    5.33,
+    6.3,
+    7.27,
+    8.23,
+    9.2,
+    10.17,
+    11.14,
+    12.11,
+    13.08,
+    14.05,
+    15.02
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:640081",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Kite Surfer in San Pablo Bay",
+  "description": "A Coast Guard Air Station MH-65 Dolphin helicopter crew hoists a stranded kite surfer from San Pablo Bay, Nov. 13, 2018. A bystander on shore observed the kite surfer struggling to make it back to shore and called 911. (U.S. Coast Guard video /Released)",
+  "keywords": "Coast Guard, rescue, San Francisco",
+  "date": "2018-11-13T00:00:00-05:00",
+  "date_published": "2018-11-13T20:11:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "181113-G-MR731-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/640081/coast-guard-rescues-kite-surfer-san-pablo-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-640081",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:25:39Z",
+  "duration": 53.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1811/DOD_106212931/DOD_106212931.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9858,
+    "size": 66066857
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.8,
+    29.33,
+    29.63
+  ],
+  "drama_score": 81,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      53.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-640081.jpg",
+  "sheet_times": [
+    1.66,
+    4.97,
+    8.29,
+    11.61,
+    14.92,
+    18.24,
+    21.55,
+    24.87,
+    28.18,
+    31.5,
+    34.82,
+    38.13,
+    41.45,
+    44.76,
+    48.08,
+    51.4
+  ]
+}

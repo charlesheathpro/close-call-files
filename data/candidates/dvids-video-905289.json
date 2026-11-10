@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:905289",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 190 miles off Naples",
+  "description": "A Coast Guard Air Station Clearwater aircrew medevacs a cruise ship passenger suffering from abdominal issues, 190 miles off Naples, Nov. 19, 2023. The passenger was transferred to Tampa General Hospital to receive a higher level of care. (U.S. Coast Guard Video)",
+  "keywords": "hoist, SAR, USCG",
+  "date": "2023-11-19T00:00:00-05:00",
+  "date_published": "2023-11-24T13:23:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231119-G-ZZ999-1001",
+  "location": {
+    "city": "Naples",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/905289/coast-guard-medevacs-man-190-miles-off-naples",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-905289",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:26:53Z",
+  "duration": 68.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_110012666/DOD_110012666-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 46835355
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.25
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      19.2,
+      22.4,
+      29.3,
+      33.4,
+      34.6,
+      36.9,
+      42.7,
+      46.3,
+      56.3
+    ],
+    "silence_ends": [
+      18.1,
+      21.9,
+      29.0,
+      30.9,
+      34.1,
+      36.3,
+      40.4,
+      45.5,
+      53.1,
+      68.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-905289.jpg",
+  "sheet_times": [
+    2.13,
+    6.39,
+    10.66,
+    14.92,
+    19.18,
+    23.44,
+    27.71,
+    31.97,
+    36.23,
+    40.49,
+    44.76,
+    49.02,
+    53.28,
+    57.55,
+    61.81,
+    66.07
+  ]
+}

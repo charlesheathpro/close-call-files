@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:834285",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 80 miles southwest of Tampa",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Clearwater medevacs, Mar. 10, 2022, the 34-year-old crewmember from the cruise ship, Serenade of the Seas, 80 miles west of Tampa. The Coast Guard encourages all mariners to have reliable forms of communication in the event of emergencies. (U.S. Coast Guard photo)",
+  "keywords": "AIR STATION CLEARWATER",
+  "date": "2022-03-10T00:00:00-05:00",
+  "date_published": "2022-03-10T18:12:05-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220310-G-G0107-1001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/834285/coast-guard-medevacs-man-80-miles-southwest-tampa",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-834285",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:27:12Z",
+  "duration": 79.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108853771/DOD_108853771-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 80399068
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      79.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-834285.jpg",
+  "sheet_times": [
+    2.46,
+    7.38,
+    12.31,
+    17.23,
+    22.15,
+    27.08,
+    32.0,
+    36.92,
+    41.84,
+    46.77,
+    51.69,
+    56.61,
+    61.54,
+    66.46,
+    71.38,
+    76.31
+  ]
+}
