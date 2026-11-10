@@ -1,0 +1,125 @@
+{
+  "asset_id": "video:425487",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Woman from Cruise Ship in NC",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Elizabeth City, N.C., medevacs an 80-year-old woman from the Carnival Pride cruise ship south of Cape Lookout, N.C., Saturday, Sept. 26, 2015. The woman was suffering from health complications. (U.S. Coast Guard video by Air Station Elizabeth City, North Carolina)",
+  "keywords": "coast, Cruise, pride, ship, guard, North, carolina",
+  "date": "2015-09-26T00:00:00-04:00",
+  "date_published": "2015-09-26T21:44:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Joshua Canup",
+  "category": "B-Roll",
+  "virin": "150926-G-DN496-001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/425487/coast-guard-medevacs-woman-cruise-ship-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.22553,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-425487",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:28:36Z",
+  "duration": 55.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1509/DOD_102757506/DOD_102757506.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 9066,
+    "size": 62941001
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.05,
+      "e": 13.45,
+      "text": "4'8\", 20\", 4'10\", 8'4\", hold, trail lines going out, the trail lines on the way down,"
+    },
+    {
+      "s": 16.89,
+      "e": 17.89,
+      "text": "8'8\", right?"
+    },
+    {
+      "s": 17.89,
+      "e": 20.26,
+      "text": "100 feet."
+    },
+    {
+      "s": 20.26,
+      "e": 21.26,
+      "text": "That one's on deck."
+    },
+    {
+      "s": 21.26,
+      "e": 22.26,
+      "text": "100 feet."
+    },
+    {
+      "s": 22.26,
+      "e": 49.65,
+      "text": "We have the load. Any letter? Any letter in front, Kevin?"
+    }
+  ],
+  "scene_cuts": [
+    4.2,
+    26.19,
+    37.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      5.9,
+      8.0,
+      15.7,
+      22.3,
+      29.4,
+      35.3,
+      37.1,
+      40.9,
+      47.0,
+      50.2
+    ],
+    "silence_ends": [
+      4.3,
+      6.7,
+      9.2,
+      16.6,
+      24.0,
+      33.2,
+      36.1,
+      38.1,
+      45.2,
+      48.8,
+      55.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-425487.jpg",
+  "sheet_times": [
+    5.8,
+    8.95,
+    12.09,
+    15.24,
+    18.39,
+    21.54,
+    24.68,
+    27.83,
+    30.98,
+    34.12,
+    37.27,
+    40.42,
+    43.57,
+    46.71,
+    49.86,
+    53.01
+  ]
+}

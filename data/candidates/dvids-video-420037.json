@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:420037",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man from Delaware Water Gap",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew medevacs a 19-year-old man from the Appalachian Trail at the Delaware Water Gap, Pa., Tuesday, Aug. 18, 2015. The aircrew transported the man, who suffered multiple injuries after falling from a tree, to the Lehigh Valley Hospital. (U.S. Coast Guard video)",
+  "keywords": "hoist, Coast Guard rescue, helicopter, Coast Guard, medevac, rescue, USCG",
+  "date": "2015-08-18T00:00:00-04:00",
+  "date_published": "2015-08-18T15:59:19-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "150818-G-QD712-996",
+  "location": {
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "state_abbreviation": "PA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/420037/coast-guard-medevacs-man-delaware-water-gap",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-420037",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:29:03Z",
+  "duration": 123.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102667639/DOD_102667639.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8986,
+    "size": 139432668
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    96.26,
+    122.79
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      124.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-420037.jpg",
+  "sheet_times": [
+    7.76,
+    15.23,
+    22.69,
+    30.16,
+    37.63,
+    45.09,
+    52.56,
+    60.03,
+    67.49,
+    74.96,
+    82.43,
+    89.89,
+    97.36,
+    104.83,
+    112.29,
+    119.76
+  ]
+}

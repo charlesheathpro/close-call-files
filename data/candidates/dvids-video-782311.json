@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:782311",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "VIDEO: Coast Guard medevacs mariner near Allen Bay",
+  "description": "A Coast Guard Sector Air Station New Orleans MH-65 Dolphin helicopter aircrew medevacs a mariner near Plaquemines Parish, Louisiana, February 1, 2021. The mariner ran aground in his 15-foot skiff boat in the Allen Bay area and was transported to Plaquemines Parish Medical Center. No injuries were reported. (U.S. Coast Guard courtesy video)",
+  "keywords": "D8, Allen Bay, Coast Guard, SAR, USCG, Air Station New Orleans",
+  "date": "2021-02-01T00:00:00-05:00",
+  "date_published": "2021-02-02T15:56:09-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210201-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/782311/video-coast-guard-medevacs-mariner-near-allen-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-782311",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:27:49Z",
+  "duration": 34.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108168697/DOD_108168697.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6038,
+    "size": 26633673
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      34.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-782311.jpg",
+  "sheet_times": [
+    1.06,
+    3.19,
+    5.31,
+    7.44,
+    9.56,
+    11.69,
+    13.81,
+    15.94,
+    18.06,
+    20.19,
+    22.31,
+    24.44,
+    26.56,
+    28.69,
+    30.81,
+    32.94
+  ]
+}

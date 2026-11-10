@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:756183",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 131 miles west of Venice",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew medevaced a man with a reported moray eel bite from a fishing vessel 131 miles west of Venice, Florida June 14, 2020. The 23-year-old man was safely transported to Tampa General Hospital in stable condition. U.S. Coast Guard video.",
+  "keywords": "Jayhawk, Venice, Coast Guard, medevac, Florida",
+  "date": "2020-06-14T00:00:00-04:00",
+  "date_published": "2020-06-15T09:04:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class Ayla Hudson",
+  "category": "B-Roll",
+  "virin": "200614-G-MQ432-022",
+  "location": {
+    "city": "",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/756183/coast-guard-medevacs-man-131-miles-west-venice",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-756183",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:27:41Z",
+  "duration": 22.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107854114/DOD_107854114.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5368,
+    "size": 15269898
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-756183.jpg",
+  "sheet_times": [
+    0.7,
+    2.09,
+    3.49,
+    4.88,
+    6.28,
+    7.67,
+    9.07,
+    10.46,
+    11.86,
+    13.25,
+    14.65,
+    16.05,
+    17.44,
+    18.84,
+    20.23,
+    21.63
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:423513",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Crewman From Tanker in South East Texas",
+  "description": "A Coast Guard MH-65 aircrew medevacs distressed crewmember from a tanker near Sabine Pass September 12, 2015.",
+  "keywords": "Coast Guard rescue, Sabine Pass, Sector Houston-Galveston, MH-65 helicopter, medevac, rescue",
+  "date": "2015-09-12T00:00:00-04:00",
+  "date_published": "2015-09-12T20:01:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150912-G-XX999-001",
+  "location": {
+    "city": "Sabine Pass",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/423513/coast-guard-medevacs-crewman-tanker-south-east-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.32563,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-423513",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:29:34Z",
+  "duration": 114.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1509/DOD_102725541/DOD_102725541.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8747,
+    "size": 126302071
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.3,
+    4.3,
+    70.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      114.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-423513.jpg",
+  "sheet_times": [
+    7.74,
+    14.58,
+    21.41,
+    28.25,
+    35.08,
+    41.91,
+    48.75,
+    55.58,
+    62.42,
+    69.25,
+    76.09,
+    82.92,
+    89.76,
+    96.59,
+    103.42,
+    110.26
+  ]
+}

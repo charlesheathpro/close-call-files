@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:570891",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs crew member near Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter aircrew medevaced a 55-year-old crew member suffering from chest pains from a tanker near Galveston, Texas, Dec. 6, 2017. The crew member was transported to the University of Texas Medical Branch in Galveston. U.S. Coast Guard video by Air Station Houston.",
+  "keywords": "medevac, search and rescue, Air Station Houston",
+  "date": "2017-12-06T00:00:00-05:00",
+  "date_published": "2017-12-06T16:05:43-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171206-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/570891/coast-guard-medevacs-crew-member-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-570891",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:27:57Z",
+  "duration": 180.39,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105144366/DOD_105144366.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9226,
+    "size": 211058455
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    40.97,
+    146.48,
+    179.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      180.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-570891.jpg",
+  "sheet_times": [
+    9.5,
+    20.49,
+    31.49,
+    42.48,
+    53.47,
+    64.47,
+    75.46,
+    86.45,
+    97.45,
+    108.44,
+    119.43,
+    130.42,
+    141.42,
+    152.41,
+    163.4,
+    174.4
+  ]
+}

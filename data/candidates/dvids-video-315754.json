@@ -1,0 +1,142 @@
+{
+  "asset_id": "video:315754",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "100815-G-9551A Air Station Houston medevacs diver",
+  "description": "GALVESTON, Texas - An Air Station Houston MH-65C Dolphin helicopter crew captured video of a diver being medevaced 120 miles off the Galveston coast, Aug. 15, 2010.  The woman required immediate medial attention after a rapid ascent during diving.  U.S. Coast Guard video courtesy Air Station Houston",
+  "keywords": "CGVI",
+  "date": "2010-08-15T17:30:05-04:00",
+  "date_published": "2013-12-19T13:56:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/315754/100815-g-9551a-air-station-houston-medevacs-diver",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-315754",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:28:14Z",
+  "duration": 40.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101058834/DOD_101058834-640x480-1131k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1131,
+    "size": 6363329
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.37,
+      "e": 5.21,
+      "text": "Trimmers on deck."
+    },
+    {
+      "s": 5.21,
+      "e": 6.89,
+      "text": "Trimmers at the rail."
+    },
+    {
+      "s": 6.89,
+      "e": 9.68,
+      "text": "It's going below the aircraft."
+    },
+    {
+      "s": 9.68,
+      "e": 13.75,
+      "text": "Trimmers on deck, good altitude, position."
+    },
+    {
+      "s": 13.75,
+      "e": 19.06,
+      "text": "There's any trail, actually, first halfway down."
+    },
+    {
+      "s": 19.06,
+      "e": 20.42,
+      "text": "There's people at the aircraft."
+    },
+    {
+      "s": 20.42,
+      "e": 23.02,
+      "text": "Trimmers five feet from the vessel."
+    },
+    {
+      "s": 23.02,
+      "e": 24.54,
+      "text": "Trimmers are going down."
+    },
+    {
+      "s": 24.54,
+      "e": 26.74,
+      "text": "And Trimmers are going through the deck."
+    },
+    {
+      "s": 26.74,
+      "e": 28.42,
+      "text": "And they're pulling in for it."
+    },
+    {
+      "s": 28.42,
+      "e": 29.9,
+      "text": "And Trimmers on deck."
+    },
+    {
+      "s": 29.9,
+      "e": 31.58,
+      "text": "Drivers are going through the rail."
+    },
+    {
+      "s": 31.58,
+      "e": 36.32,
+      "text": "And survivors are at the rail."
+    }
+  ],
+  "scene_cuts": [
+    4.3,
+    29.96,
+    36.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      36.5
+    ],
+    "silence_ends": [
+      4.4,
+      40.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315754.jpg",
+  "sheet_times": [
+    1.26,
+    3.78,
+    6.3,
+    8.82,
+    11.34,
+    13.86,
+    16.38,
+    18.9,
+    21.42,
+    23.94,
+    26.46,
+    28.98,
+    31.5,
+    34.02,
+    36.54,
+    39.06
+  ]
+}

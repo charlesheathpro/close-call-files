@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:538778",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from fishing boat off Galveston",
+  "description": "The Coast Guard medevaced a 44-year-old man July 18, 2017, Tuesday afternoon from a fishing boat 80 miles southeast of Galveston. \r\n\r\nThe man was delivered to an awaiting ambulance at Scholes International Airport, and was reported to be in stable condition.",
+  "keywords": "42215204, DVIDS Videos of the Day 072417, medevac, SAR, USCG",
+  "date": "2017-07-18T00:00:00-04:00",
+  "date_published": "2017-07-18T22:25:30-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170718-G-G0108-001",
+  "location": {
+    "city": "Houston",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/538778/coast-guard-medevacs-man-fishing-boat-off-galveston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-538778",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:29:25Z",
+  "duration": 145.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104606888/DOD_104606888.mp4",
+    "width": 1260,
+    "height": 708,
+    "bitrate": 3043,
+    "size": 57680135
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    64.6,
+    118.79,
+    145.28
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      145.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-538778.jpg",
+  "sheet_times": [
+    4.53,
+    13.58,
+    22.63,
+    31.68,
+    40.73,
+    49.78,
+    58.83,
+    67.89,
+    76.94,
+    85.99,
+    95.04,
+    104.09,
+    113.14,
+    122.19,
+    131.25,
+    140.3
+  ]
+}

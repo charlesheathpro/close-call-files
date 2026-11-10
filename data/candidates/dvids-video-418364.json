@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:418364",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man South of Cape Hatteras, N.C.",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Elizabeth City, N.C., medevacs a crewman from a motor vessel south of Cape Hatteras, N.C., Thursday, Aug. 6, 2015.\r\n\r\nThe man was experiencing heart complications.\r\n\r\nU.S. Coast Guard video by Air Station Elizabeth City North Carolina",
+  "keywords": "Air Station Elizabeth City, Jayhawk, Mid-Atlantic, d5, Cape Hatteras, Sector North Carolina, Norway-flagged, Tijuca, medevac",
+  "date": "2015-08-06T00:00:00-04:00",
+  "date_published": "2015-08-07T09:22:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150806-G-ZZ999-001",
+  "location": {
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/418364/coast-guard-medevacs-man-south-cape-hatteras-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-418364",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:29:08Z",
+  "duration": 102.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102645737/DOD_102645737-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 930,
+    "size": 12044751
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    82.18,
+    101.17
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      102.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-418364.jpg",
+  "sheet_times": [
+    7.08,
+    13.19,
+    19.3,
+    25.41,
+    31.52,
+    37.63,
+    43.74,
+    49.85,
+    55.96,
+    62.07,
+    68.19,
+    74.3,
+    80.41,
+    86.52,
+    92.63,
+    98.74
+  ]
+}
