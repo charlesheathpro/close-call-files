@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-317268",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:40:00Z",
   "duration": 62.9,
   "source_file": {
@@ -150,5 +150,6 @@
     52.65,
     56.55,
     60.45
-  ]
+  ],
+  "pass_reason": "grainy washed-out door cam over a breakwall; hunters never clearly visible"
 }

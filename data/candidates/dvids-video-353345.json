@@ -26,7 +26,7 @@
   "time_start": 4.47113,
   "aspect_ratio": "16:9",
   "id": "dvids-video-353345",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:32:46Z",
   "duration": 210.65,
   "source_file": {
@@ -103,5 +103,6 @@
     178.01,
     190.86,
     203.72
-  ]
+  ],
+  "pass_reason": "training exercise"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-452060",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:00:47Z",
   "duration": 49.54,
   "source_file": {
@@ -141,5 +141,6 @@
     42.0,
     44.82,
     47.63
-  ]
+  ],
+  "pass_reason": "dark door cam, calm"
 }

@@ -26,7 +26,7 @@
   "time_start": 3.9039,
   "aspect_ratio": "4:3",
   "id": "dvids-video-77414",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:59:28Z",
   "duration": 32.21,
   "source_file": {
@@ -69,5 +69,6 @@
     27.36,
     29.1,
     30.84
-  ]
+  ],
+  "pass_reason": "cockpit glare, calm boat"
 }

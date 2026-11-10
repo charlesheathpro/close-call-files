@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-394484",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:07:15Z",
   "duration": 51.62,
   "source_file": {
@@ -69,5 +69,6 @@
     43.76,
     46.7,
     49.65
-  ]
+  ],
+  "pass_reason": "640x480 night FLIR wading"
 }

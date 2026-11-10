@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-315069",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:43:35Z",
   "duration": 30.09,
   "source_file": {
@@ -109,5 +109,6 @@
     24.97,
     26.82,
     28.67
-  ]
+  ],
+  "pass_reason": "dark murky night footage; burning rig never shown"
 }

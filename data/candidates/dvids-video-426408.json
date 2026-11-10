@@ -26,7 +26,7 @@
   "time_start": 4.1041,
   "aspect_ratio": "4:3",
   "id": "dvids-video-426408",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:32:12Z",
   "duration": 38.37,
   "source_file": {
@@ -64,5 +64,6 @@
     32.6,
     34.71,
     36.82
-  ]
+  ],
+  "pass_reason": "only one long shot of the boat; hoist and people never on screen"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-448737",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:40:04Z",
   "duration": 34.93,
   "source_file": {
@@ -62,5 +62,6 @@
     29.05,
     31.21,
     33.36
-  ]
+  ],
+  "pass_reason": "night infrared, calm water routine hoist"
 }

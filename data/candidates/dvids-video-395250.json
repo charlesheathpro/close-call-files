@@ -26,7 +26,7 @@
   "time_start": 4.42573,
   "aspect_ratio": "16:9",
   "id": "dvids-video-395250",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:37:57Z",
   "duration": 59.37,
   "source_file": {
@@ -71,5 +71,6 @@
     50.36,
     53.77,
     57.17
-  ]
+  ],
+  "pass_reason": "noisy door cam, nobody visible on the rock before the hoist; same angle throughout"
 }

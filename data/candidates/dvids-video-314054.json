@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314054",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:55:09Z",
   "duration": 304.18,
   "source_file": {
@@ -77,5 +77,6 @@
     256.23,
     275.21,
     294.19
-  ]
+  ],
+  "pass_reason": "harbor b-roll after the fact, no danger"
 }
