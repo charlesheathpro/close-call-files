@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:77486",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Haitian Helicopter Rescue",
+  "description": "B-roll of a new born baby and his mother being rescued from Haiti via an SH-60S Seahawk helicopter and are flown to the USS Carl Vinson during Operation Unified Response and the Haiti relief effort after the baby was born on board the United States Coast Guard Cutter, Tahoma . Scenes include the crew boarding, taking off and shots of the them during the flight. Produced by Petty Officer Troy D. Miller.",
+  "keywords": "SH-60S Seahawk, USS CARL VINSON, haiti, Port-au-Prince, Haiti Relief, Operation Unified Response",
+  "date": "2010-01-20T00:00:00-05:00",
+  "date_published": "2010-01-20T16:17:27-05:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Navy",
+  "credit": "Petty Officer 2nd Class Troy Miller",
+  "category": "B-Roll",
+  "virin": "100120-N-0727M-002",
+  "location": {
+    "city": "Port-au-Prince",
+    "state": "",
+    "country": "Haiti",
+    "state_abbreviation": null,
+    "country_abbreviation": "HT"
+  },
+  "page_url": "https://www.dvidshub.net/video/77486/haitian-helicopter-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.1041,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-77486",
+  "status": "new",
+  "harvested_at": "2026-11-10T18:01:14Z",
+  "duration": 24.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1001/DOD_100062173/DOD_100062173.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.3,
+    4.1,
+    13.35,
+    16.18
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-77486.jpg",
+  "sheet_times": [
+    4.73,
+    5.98,
+    7.24,
+    8.49,
+    9.74,
+    11.0,
+    12.25,
+    13.5,
+    14.76,
+    16.01,
+    17.26,
+    18.52,
+    19.77,
+    21.02,
+    22.28,
+    23.53
+  ]
+}

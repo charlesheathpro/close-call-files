@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:5531",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Rescue of Downed Helicopter",
+  "description": "Crewmembers from USS Harry S Truman airlift survivors from a downed civilian helicopter.  Scenes include crewmembers rappelling from helicopter and a crash survivor lifted to safety.  Video from Joint Combat Camera Center Pentagon.",
+  "keywords": "Hurricane Katrina, test, USS Harry S. Truman, New Orleans",
+  "date": "2005-08-07T00:00:00-04:00",
+  "date_published": "2005-09-12T16:40:25-04:00",
+  "branch": "Joint",
+  "unit_name": "DVIDS Hub",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/5531/rescue-downed-helicopter",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.03637,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-5531",
+  "status": "new",
+  "harvested_at": "2026-11-10T18:01:20Z",
+  "duration": 155.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0509/DOD_N05091104/DOD_N05091104.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.04,
+    14.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-5531.jpg",
+  "sheet_times": [
+    7.78,
+    17.25,
+    26.73,
+    36.21,
+    45.69,
+    55.17,
+    64.64,
+    74.12,
+    83.6,
+    93.08,
+    102.56,
+    112.04,
+    121.51,
+    130.99,
+    140.47,
+    149.95
+  ]
+}

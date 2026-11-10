@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:905394",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Fire Rescue Techniques",
+  "description": "U.S. Air Force Firefighters assigned to the Emergency Response Flight, 424th Air Base Squadron practice fire rescue techniques, on Chièvres Air Base, Belgium, Nov. 6, 2023. (U.S. Army video by Pierre-Etienne Courtejoie)",
+  "keywords": "Military Operations Urban Terrain, 86 AW, USAFE-AFAFRICA, 424 ABS, StrongEurope",
+  "date": "2023-11-06T00:00:00-05:00",
+  "date_published": "2023-11-27T10:40:28-05:00",
+  "branch": "Army",
+  "unit_name": "Training Support Activity Europe",
+  "credit": "Pierre Courtejoie",
+  "category": "B-Roll",
+  "virin": "231106-A-BD610-1999",
+  "location": {
+    "city": "Chievres",
+    "state": "Hainaut (WAL)",
+    "country": "Belgium",
+    "state_abbreviation": "WHT",
+    "country_abbreviation": "BE"
+  },
+  "page_url": "https://www.dvidshub.net/video/905394/fire-rescue-techniques",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-905394",
+  "status": "new",
+  "harvested_at": "2026-11-10T18:01:51Z",
+  "duration": 100.8,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_110014175/DOD_110014175-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 99466557
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.05,
+      "e": 6.77,
+      "text": "Fire showing on the Alpha Bravo side one victim on account for it's all the information at this time"
+    }
+  ],
+  "scene_cuts": [
+    17.78,
+    24.06,
+    27.76,
+    31.63,
+    41.44,
+    45.68,
+    48.31,
+    52.65,
+    55.99,
+    59.99,
+    62.36,
+    67.47,
+    72.77,
+    77.71,
+    79.98,
+    83.82,
+    86.52,
+    91.79,
+    97.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-905394.jpg",
+  "sheet_times": [
+    3.13,
+    9.4,
+    15.67,
+    21.94,
+    28.21,
+    34.48,
+    40.75,
+    47.02,
+    53.28,
+    59.55,
+    65.82,
+    72.09,
+    78.36,
+    84.63,
+    90.9,
+    97.17
+  ]
+}
