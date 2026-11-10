@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-10T10:56:55Z",
+  "at": "2026-11-10T15:45:33Z",
   "mature": 98,
   "features": [
     {
@@ -93,11 +93,6 @@
       "effect": 0.19
     },
     {
-      "feature": "story: sinking vessel",
-      "n": 1,
-      "effect": 0.19
-    },
-    {
       "feature": "lane: aviation_naval",
       "n": 17,
       "effect": 0.18
@@ -109,6 +104,11 @@
     },
     {
       "feature": "story: boat swamped in waves, swimmer and basket hoist",
+      "n": 1,
+      "effect": 0.18
+    },
+    {
+      "feature": "story: sinking vessel",
       "n": 1,
       "effect": 0.18
     },
@@ -587,53 +587,53 @@
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 11303.0,
+      "views": 11399.0,
       "ret": 95.37,
-      "score": 1.846
+      "score": 1.847
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 8713.0,
+      "views": 8784.0,
       "ret": 98.91,
-      "score": 1.783
+      "score": 1.784
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5180.0,
       "ret": 96.97,
-      "score": 1.704
+      "score": 1.702
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9446.0,
       "ret": 95.02,
-      "score": 1.691
+      "score": 1.689
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 32069.0,
+      "views": 32554.0,
       "ret": 72.14,
-      "score": 1.606
+      "score": 1.611
     }
   ],
   "bottom": [
     {
       "short_id": "ccf-20261106-52",
       "title": "Stranded 33 days on a Bahamas island",
-      "views": 1002.0,
+      "views": 1010.0,
       "ret": 38.72,
-      "score": -0.946
+      "score": -0.943
     },
     {
       "short_id": "ccf-20261028-05",
       "title": "Mauna Loa erupts after 38 years",
       "views": 147.0,
       "ret": 63.75999999999999,
-      "score": -1.263
+      "score": -1.262
     },
     {
       "short_id": "ccf-20261102-01",
@@ -647,14 +647,14 @@
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 67.01,
-      "score": -1.938
+      "score": -1.937
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -2.323
+      "score": -2.32
     }
   ],
   "query_weights": {
@@ -666,7 +666,7 @@
     "Hurricane Helene rescue": 1.02,
     "Hurricane Milton rescue": 0.99,
     "cliff rescue": 0.9,
-    "Coast Guard rescue": 1.13,
+    "Coast Guard rescue": 1.12,
     "surf rescue": 1.03,
     "Hurricane Ian rescue": 1.03,
     "flood rescue": 1.11,
@@ -777,8 +777,5 @@
     }
   ],
   "config_changed_at": "2026-11-10T10:56:55Z",
-  "changed": [
-    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.49, 'hazards': 0.1}",
-    "query weights for 50 searches"
-  ]
+  "changed": []
 }

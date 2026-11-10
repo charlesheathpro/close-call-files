@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-10T10:56:55Z from 98 Shorts older than 48 hours)
+# Playbook (computed 2026-11-10T15:45:33Z from 98 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -23,14 +23,14 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: castaways on a remote cay for weeks, supply drop then basket hoist (-0.24, 1 Shorts)
 
 ## Best Shorts
-- Five abandon a sinking fishing boat: 11303 views, 95% watched
-- Runaway boat circling with no one aboard: 8713 views, 99% watched
+- Five abandon a sinking fishing boat: 11399 views, 95% watched
+- Runaway boat circling with no one aboard: 8784 views, 99% watched
 - Capsule torn off a rocket at Mach 1: 5180 views, 97% watched
 - Orion splashes down after the Moon: 9446 views, 95% watched
-- 17-year-old adrift at night, no paddle: 32069 views, 72% watched
+- 17-year-old adrift at night, no paddle: 32554 views, 72% watched
 
 ## Weakest Shorts
-- Stranded 33 days on a Bahamas island: 1002 views, 39% watched
+- Stranded 33 days on a Bahamas island: 1010 views, 39% watched
 - Mauna Loa erupts after 38 years: 147 views, 64% watched
 - Trapped in the attic as the flood rose: 285 views, 42% watched
 - Clinging to a flipped boat 12 miles out: 31 views, 67% watched
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-21: Grainy black-and-white sensor footage on a fairly calm sea, a glare-only stretch at 18 to 22 s, and the third 'alone in a sinking boat, 12 miles out' Short in three days with the same number hook. Dropped.
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
-
-## Changed tonight
-- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.49, 'hazards': 0.1}
-- query weights for 50 searches
