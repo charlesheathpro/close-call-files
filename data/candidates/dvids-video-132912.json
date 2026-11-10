@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:132912",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man from Cruise Ship",
+  "description": "B-roll of the crew aboard a Coast Guard MH-60 Jayhawk helicopter who medevac a man after receiving a call for assistance from the cruise ship Norwegian Gem 75 miles east of Wilmington, N.C., Dec. 12, 2011. The crew from Coast Guard Air Station Elizabeth City took the man from the ship to New Hanover Regional Medical Center in Wilmington. U.S. Coast Guard video. Produced by Petty Officer 3rd Class David Weydert.",
+  "keywords": "MH-60, Jayhawk, David Weydert, Coast Guard, rescue, North Carolina, Virginia, East Coast",
+  "date": "2011-12-12T00:00:00-05:00",
+  "date_published": "2011-12-14T15:20:15-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Weydert",
+  "category": "B-Roll",
+  "virin": "111214-G-9355W-001",
+  "location": {
+    "city": "",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/132912/coast-guard-medevacs-man-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-132912",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:43:57Z",
+  "duration": 150.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1112/DOD_100293632/DOD_100293632.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 9135,
+    "size": 171424959
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.14,
+    22.66,
+    34.27,
+    45.78,
+    77.11,
+    94.26
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      150.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-132912.jpg",
+  "sheet_times": [
+    4.67,
+    14.02,
+    23.37,
+    32.72,
+    42.06,
+    51.41,
+    60.76,
+    70.11,
+    79.45,
+    88.8,
+    98.15,
+    107.5,
+    116.84,
+    126.19,
+    135.54,
+    144.88
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:540829",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fisherman off Port Mansfield, TX",
+  "description": "The Coast Guard medevaced a 41-year-old man suffering from a reported stroke off a fishing boat 28 miles east of Port Mansfield, Texas, on July 27, 2017. \r\n\r\nThe man was airlifted to Christus Spohn Hospital Corpus Christi - Shoreline and was reported to be in stable condition.\r\n\r\nU.S. Coast Guard video by Petty Officer 3rd Class Johanna M. Strickland",
+  "keywords": "medevac, SAR, USCG",
+  "date": "2017-07-27T00:00:00-04:00",
+  "date_published": "2017-07-28T20:13:43-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Johanna Strickland",
+  "category": "B-Roll",
+  "virin": "170727-G-G0108-1001",
+  "location": {
+    "city": "Port Mansfield",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/540829/coast-guard-medevacs-fisherman-off-port-mansfield-tx",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-540829",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:05Z",
+  "duration": 81.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104658322/DOD_104658322.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8867,
+    "size": 91219422
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    16.48
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      81.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-540829.jpg",
+  "sheet_times": [
+    6.49,
+    11.3,
+    16.1,
+    20.91,
+    25.71,
+    30.51,
+    35.32,
+    40.12,
+    44.93,
+    49.73,
+    54.53,
+    59.34,
+    64.14,
+    68.95,
+    73.75,
+    78.55
+  ]
+}

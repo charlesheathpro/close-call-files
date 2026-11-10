@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:467160",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 2 from cruise ship",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew medevacs two passengers from a cruise ship headed from Bermuda to New York, Saturday, June 4, 2016. (U.S. Coast Guard video)",
+  "keywords": "MH-60 Jayhawk, hoist, long-range medevac, Air Station Elizabeth City, Norwegian Breakaway, medevac, Cruise Ship",
+  "date": "2016-06-04T00:00:00-04:00",
+  "date_published": "2016-06-04T18:07:48-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160604-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/467160/coast-guard-medevacs-2-cruise-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.89287,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-467160",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:43:01Z",
+  "duration": 115.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1606/DOD_103364817/DOD_103364817.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8955,
+    "size": 129778397
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.87,
+    10.54
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      115.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-467160.jpg",
+  "sheet_times": [
+    8.34,
+    15.25,
+    22.15,
+    29.05,
+    35.95,
+    42.85,
+    49.75,
+    56.66,
+    63.56,
+    70.46,
+    77.36,
+    84.26,
+    91.16,
+    98.07,
+    104.97,
+    111.87
+  ]
+}

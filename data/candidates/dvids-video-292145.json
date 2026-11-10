@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:292145",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man after boat incident",
+  "description": "A Coast Guard crew aboard an MH-60 Jayhawk helicopter from Coast Guard Air Station Elizabeth City medevaced a man after a boat incident in the Yeopim River near Elizabeth City, N.C., Friday, May 31, 2013. The man was flown to the Albermarle Hospital in Elizabeth City. U.S. Coast Guard video",
+  "keywords": "aircrew, MH-60 Jayhawk helicopter, Coast Guard Air Station Elizabeth City, boat incident, medevaced, medevac, rescue, North Carolina",
+  "date": "2013-05-31T00:00:00-04:00",
+  "date_published": "2013-05-31T19:32:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 1st Class Brandyn Hill",
+  "category": "B-Roll",
+  "virin": "130531-G-RU729-001",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/292145/coast-guard-medevacs-man-after-boat-incident",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-292145",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:43:32Z",
+  "duration": 47.42,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100828615/DOD_100828615.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 7867,
+    "size": 46636224
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.04,
+    42.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      47.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-292145.jpg",
+  "sheet_times": [
+    1.47,
+    4.4,
+    7.33,
+    10.26,
+    13.2,
+    16.13,
+    19.06,
+    22.0,
+    24.93,
+    27.86,
+    30.79,
+    33.73,
+    36.66,
+    39.59,
+    42.52,
+    45.46
+  ]
+}

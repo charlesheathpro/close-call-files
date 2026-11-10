@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:530900",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs diver off NC coast",
+  "description": "A U.S. Coast Guard Air Station Elizabeth City, North Carolina helicopter crew medevacs a man 35 miles south by southeast of Wilmington, North Carolina, June 11, 2017. The diver was medevaced to Air Station Elizabeth City where EMS personnel transferred him to Sentara Norfolk General Hospital in Norfolk, Virginia. (U.S. Coast Guard video by Air Station Elizabeth City)",
+  "keywords": "Air Station, ELIZABETH CITY, Coast Guard, medevac, SAR, North Carolina, USCG",
+  "date": "2017-06-11T00:00:00-04:00",
+  "date_published": "2017-06-11T17:09:16-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170611-G-G0105-1001",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/530900/coast-guard-medevacs-diver-off-nc-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-530900",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:42:37Z",
+  "duration": 56.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1706/DOD_104469998/DOD_104469998.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8011,
+    "size": 56422830
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    42.74,
+    52.25
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      56.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-530900.jpg",
+  "sheet_times": [
+    5.64,
+    8.88,
+    12.11,
+    15.35,
+    18.58,
+    21.81,
+    25.05,
+    28.28,
+    31.52,
+    34.75,
+    37.99,
+    41.22,
+    44.46,
+    47.69,
+    50.93,
+    54.16
+  ]
+}

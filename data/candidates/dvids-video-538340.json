@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:538340",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Diver 50 Miles Southeast of Galveston",
+  "description": "The Coast Guard medevacs a man early Sunday morning, July 16, 2017, from a dive charter vessel 50 miles southeast of Galveston.",
+  "keywords": "medevac, SAR, USCG",
+  "date": "2017-07-16T00:00:00-04:00",
+  "date_published": "2017-07-16T19:49:27-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170716-G-G0108-001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/538340/coast-guard-medevacs-diver-50-miles-southeast-galveston",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-538340",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:44:08Z",
+  "duration": 106.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104596505/DOD_104596505.mp4",
+    "width": 1260,
+    "height": 708,
+    "bitrate": 9751,
+    "size": 131759450
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.0,
+    10.58,
+    10.94,
+    33.6,
+    46.95,
+    76.21,
+    106.54
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-538340.jpg",
+  "sheet_times": [
+    7.22,
+    13.6,
+    19.99,
+    26.37,
+    32.75,
+    39.14,
+    45.52,
+    51.91,
+    58.29,
+    64.67,
+    71.06,
+    77.44,
+    83.83,
+    90.21,
+    96.6,
+    102.98
+  ]
+}

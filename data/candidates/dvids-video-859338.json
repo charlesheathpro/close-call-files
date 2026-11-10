@@ -1,0 +1,113 @@
+{
+  "asset_id": "video:859338",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues 2 after boat grounds southwest of Juneau, Alaska",
+  "description": "The Coast Guard rescued two people in stormy weather Oct. 1, 2022, after their boat ran onto rocks in Pavlof Harbor, southwest of Juneau. An MH-60 Jayhawk helicopter crew from Air Station Sitka located and hoisted the man and woman and flew them to awaiting EMS in Juneau for medical evaluation. (U.S. Coast Guard video courtesy of Air Station Sitka)",
+  "keywords": "D17, Coast Guard Air Station Sitka, Coast Guard Sector Juneau, Pavlof Harbor, Alaska",
+  "date": "2022-10-01T00:00:00-04:00",
+  "date_published": "2022-10-01T22:42:07-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221001-G-G0217-1001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859338/coast-guard-rescues-2-after-boat-grounds-southwest-juneau-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-859338",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:42:15Z",
+  "duration": 30.33,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109248720/DOD_109248720-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 33604987
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.4,
+      "e": 5.9,
+      "text": "Alright, hazard analysis definitely took the breed there and rocks, obviously the trees"
+    },
+    {
+      "s": 5.9,
+      "e": 6.9,
+      "text": "of the turbulence."
+    },
+    {
+      "s": 6.9,
+      "e": 10.69,
+      "text": "Let's fight in for an overhead check."
+    },
+    {
+      "s": 10.69,
+      "e": 14.19,
+      "text": "We'll do just a harness deployment of Chris down to those rocks."
+    },
+    {
+      "s": 14.19,
+      "e": 26.56,
+      "text": "Just in between us and the survivor."
+    },
+    {
+      "s": 26.56,
+      "e": 27.56,
+      "text": "So the college."
+    },
+    {
+      "s": 27.56,
+      "e": 28.56,
+      "text": "No problem."
+    },
+    {
+      "s": 28.56,
+      "e": 30.56,
+      "text": "Alright, we're good."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      7.4,
+      15.9
+    ],
+    "silence_ends": [
+      8.7,
+      16.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859338.jpg",
+  "sheet_times": [
+    0.93,
+    2.8,
+    4.66,
+    6.53,
+    8.39,
+    10.25,
+    12.12,
+    13.98,
+    15.85,
+    17.71,
+    19.58,
+    21.44,
+    23.3,
+    25.17,
+    27.03,
+    28.9
+  ]
+}
