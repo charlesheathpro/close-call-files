@@ -1,0 +1,117 @@
+{
+  "asset_id": "video:30873",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Para-Rescue",
+  "description": "B-roll of para-rescue training. Scenes include an interview and para-rescue training with a helicopter picking up Soldiers.",
+  "keywords": null,
+  "date": "2007-11-03T00:00:00-04:00",
+  "date_published": "2007-11-05T09:39:05-05:00",
+  "branch": "Joint",
+  "unit_name": "AFN Iraq",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Baghdad",
+    "state": "",
+    "country": "Iraq",
+    "state_abbreviation": null,
+    "country_abbreviation": "IQ"
+  },
+  "page_url": "https://www.dvidshub.net/video/30873/para-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.16983,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-30873",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:52:22Z",
+  "duration": 196.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0711/DOD_100010536/DOD_100010536.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.99,
+      "e": 7.15,
+      "text": "Well, seeing how they can get shot down in pretty much any environment, we train for all"
+    },
+    {
+      "s": 7.15,
+      "e": 13.35,
+      "text": "environments from high mountain terrain to water, water training, water operations to"
+    },
+    {
+      "s": 13.35,
+      "e": 14.75,
+      "text": "snow and ice."
+    },
+    {
+      "s": 14.75,
+      "e": 18.55,
+      "text": "Any place they can go down, we train so that we can go and get them."
+    },
+    {
+      "s": 18.55,
+      "e": 22.59,
+      "text": "Per rescue is definitely one of those difficult career fields to get into, but once you make"
+    },
+    {
+      "s": 22.59,
+      "e": 29.47,
+      "text": "it through all the different schools from paramedic school to jump school, dive school, all the"
+    },
+    {
+      "s": 29.47,
+      "e": 31.55,
+      "text": "different schools that we go to."
+    },
+    {
+      "s": 31.55,
+      "e": 33.55,
+      "text": "It's definitely, definitely worthwhile."
+    }
+  ],
+  "scene_cuts": [
+    3.17,
+    33.83,
+    195.16
+  ],
+  "drama_score": 25,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      195.2
+    ],
+    "silence_ends": [
+      3.2,
+      196.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-30873.jpg",
+  "sheet_times": [
+    9.2,
+    21.26,
+    33.32,
+    45.38,
+    57.43,
+    69.49,
+    81.55,
+    93.61,
+    105.67,
+    117.73,
+    129.79,
+    141.84,
+    153.9,
+    165.96,
+    178.02,
+    190.08
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "asset_id": "video:10247",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Sea Rescue",
+  "description": "USS Carr (FFG 52) approaches a distressed vessel off the coast of Sierra Leone. The vessel was spotted by two lookouts from USS Mount Whitney who noticed the crew waving red flags and signaling for aid. The six-man crew of the vessel had been at sea for 35 days and had run out of food and water.",
+  "keywords": "USS Carr, USS Mount Whitney",
+  "date": "2006-01-14T00:00:00-05:00",
+  "date_published": "2006-02-13T09:03:04-05:00",
+  "branch": "Joint",
+  "unit_name": "Defense Imagery Management Operations Center",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Sierra Leone",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/10247/sea-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-10247",
+  "status": "new",
+  "harvested_at": "2026-11-10T17:52:08Z",
+  "duration": 209.54,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0602/DOD_N06021006/DOD_N06021006.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 33.33,
+      "e": 45.67,
+      "text": "number of things from search and rescue to providing force protection, cover, air support."
+    },
+    {
+      "s": 45.67,
+      "e": 81.8,
+      "text": "It could be something very simple that just some fishermen that had a bad day can't get"
+    },
+    {
+      "s": 81.8,
+      "e": 82.8,
+      "text": "around the way I think."
+    }
+  ],
+  "scene_cuts": [
+    9.61,
+    27.99,
+    31.6,
+    127.73,
+    136.37,
+    151.42,
+    166.2,
+    173.11,
+    189.76
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      25.9,
+      28.0,
+      85.8,
+      90.1,
+      91.9,
+      99.9,
+      101.2,
+      111.3,
+      112.6,
+      113.4,
+      116.1,
+      118.7,
+      126.8
+    ],
+    "silence_ends": [
+      11.7,
+      27.0,
+      31.6,
+      89.7,
+      91.9,
+      95.0,
+      101.2,
+      111.3,
+      112.5,
+      113.4,
+      114.8,
+      116.8,
+      125.7,
+      127.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-10247.jpg",
+  "sheet_times": [
+    6.53,
+    19.6,
+    32.66,
+    45.73,
+    58.79,
+    71.86,
+    84.92,
+    97.99,
+    111.05,
+    124.12,
+    137.18,
+    150.25,
+    163.31,
+    176.38,
+    189.44,
+    202.51
+  ]
+}
