@@ -1,113 +1,114 @@
 {
-  "asset_id": "video:977299",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "U.S. Coast Guard Air Station Astoria Hoists 80-year-old from Ruby Princess",
-  "description": "An aircrew from the U.S. Coast Guard Air Station Astoria hoists an 80-year-old man who had an object lodged in his throat from the cruise ship Ruby Princess 184 miles west of Cape Flattery, Washington, Thurs, Sept. 11, 2025. Air Station Astoria has been serving the people of the Pacific Northwest since its inception on August 14, 1964. (U.S. Coast Guard video courtesy of Air Station Astoria edited by Petty Officer 3rd Class Daylan M. Garlic-Jackson)",
-  "keywords": null,
-  "date": "2025-09-11T00:00:00-04:00",
-  "date_published": "2025-09-17T19:02:06-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northwest",
-  "credit": "Petty Officer 3rd Class Daylan Garlic-Jackson",
-  "category": "B-Roll",
-  "virin": "250917-G-GJ258-1001",
-  "location": {
-    "city": "",
-    "state": "Washington",
-    "country": "United States",
-    "state_abbreviation": "WA",
-    "country_abbreviation": "US"
+ "asset_id": "video:977299",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "U.S. Coast Guard Air Station Astoria Hoists 80-year-old from Ruby Princess",
+ "description": "An aircrew from the U.S. Coast Guard Air Station Astoria hoists an 80-year-old man who had an object lodged in his throat from the cruise ship Ruby Princess 184 miles west of Cape Flattery, Washington, Thurs, Sept. 11, 2025. Air Station Astoria has been serving the people of the Pacific Northwest since its inception on August 14, 1964. (U.S. Coast Guard video courtesy of Air Station Astoria edited by Petty Officer 3rd Class Daylan M. Garlic-Jackson)",
+ "keywords": null,
+ "date": "2025-09-11T00:00:00-04:00",
+ "date_published": "2025-09-17T19:02:06-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northwest",
+ "credit": "Petty Officer 3rd Class Daylan Garlic-Jackson",
+ "category": "B-Roll",
+ "virin": "250917-G-GJ258-1001",
+ "location": {
+  "city": "",
+  "state": "Washington",
+  "country": "United States",
+  "state_abbreviation": "WA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/977299/us-coast-guard-air-station-astoria-hoists-80-year-old-ruby-princess",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-977299",
+ "status": "passed_over",
+ "harvested_at": "2026-11-09T00:43:40Z",
+ "duration": 65.27,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2509/DOD_111302405/DOD_111302405.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 0,
+  "size": 75833733
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 10.9,
+   "e": 39.43,
+   "text": "You can go to the cabin door, do the basket,"
   },
-  "page_url": "https://www.dvidshub.net/video/977299/us-coast-guard-air-station-astoria-hoists-80-year-old-ruby-princess",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-977299",
-  "status": "new",
-  "harvested_at": "2026-11-09T00:43:40Z",
-  "duration": 65.27,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2509/DOD_111302405/DOD_111302405.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 0,
-    "size": 75833733
+  {
+   "s": 39.43,
+   "e": 41.43,
+   "text": "go through, like that, we're gonna sight,"
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 10.9,
-      "e": 39.43,
-      "text": "You can go to the cabin door, do the basket,"
-    },
-    {
-      "s": 39.43,
-      "e": 41.43,
-      "text": "go through, like that, we're gonna sight,"
-    },
-    {
-      "s": 41.43,
-      "e": 56.85,
-      "text": "and the hook is all the way down."
-    },
-    {
-      "s": 56.85,
-      "e": 57.85,
-      "text": "Take the shoulder and tap the cabin,"
-    },
-    {
-      "s": 57.85,
-      "e": 59.85,
-      "text": "charge inside the cabin, and always complete."
-    }
+  {
+   "s": 41.43,
+   "e": 56.85,
+   "text": "and the hook is all the way down."
+  },
+  {
+   "s": 56.85,
+   "e": 57.85,
+   "text": "Take the shoulder and tap the cabin,"
+  },
+  {
+   "s": 57.85,
+   "e": 59.85,
+   "text": "charge inside the cabin, and always complete."
+  }
+ ],
+ "scene_cuts": [
+  3.14,
+  8.21,
+  15.25,
+  25.16,
+  31.53,
+  35.47,
+  39.87,
+  43.41,
+  47.38,
+  51.05,
+  54.72,
+  60.29
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   15.3,
+   49.6,
+   60.3
   ],
-  "scene_cuts": [
-    3.14,
-    8.21,
-    15.25,
-    25.16,
-    31.53,
-    35.47,
-    39.87,
-    43.41,
-    47.38,
-    51.05,
-    54.72,
-    60.29
-  ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      15.3,
-      49.6,
-      60.3
-    ],
-    "silence_ends": [
-      24.1,
-      51.0,
-      65.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-977299.jpg",
-  "sheet_times": [
-    2.02,
-    6.07,
-    10.12,
-    14.17,
-    18.22,
-    22.26,
-    26.31,
-    30.36,
-    34.41,
-    38.45,
-    42.5,
-    46.55,
-    50.6,
-    54.65,
-    58.69,
-    62.74
+  "silence_ends": [
+   24.1,
+   51.0,
+   65.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-977299.jpg",
+ "sheet_times": [
+  2.02,
+  6.07,
+  10.12,
+  14.17,
+  18.22,
+  22.26,
+  26.31,
+  30.36,
+  34.41,
+  38.45,
+  42.5,
+  46.55,
+  50.6,
+  54.65,
+  58.69,
+  62.74
+ ],
+ "pass_reason": "Medical medevac (object in throat), calm deck hoist, burned-in captions"
 }

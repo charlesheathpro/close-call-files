@@ -1,21 +1,21 @@
 {
-  "at": "2026-11-10T08:39:41Z",
+  "at": "2026-11-10T16:40:00Z",
   "healthy": false,
   "numbers": {
-    "dropped": 47,
-    "uploaded": 115,
-    "passed": 1,
-    "scheduled_48h": 9
+    "dropped": 48,
+    "uploaded": 116,
+    "passed": 0,
+    "needs_qa": 0,
+    "scheduled_48h": 7
   },
   "found": [
-    "buffer thin: 8 scheduled in the next 48 h, 0 passed and 1 in QA at start (fails the 20 and 25 thresholds)",
-    "upload (08:32Z), harvest (Nov 9 21:00Z) and stats runs all landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
-    "new candidates are mostly medevacs, training, relief b-roll and calm hoists; about 30 rescue titles checked and 9 frame sheets viewed"
+    "buffer thin: 7 scheduled in the next 48 h, 0 passed, 1 in QA at start (fails the 20 and 25 thresholds)",
+    "upload (16:04Z), harvest (Nov 9 21:00Z) and stats runs landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
+    "rescue pool is mined out: about 200 new rescue titles filtered, remaining ones are medevacs, training, relief b-roll and door-cam hoists; 5 frame sheets viewed, none clear the viral bar"
   ],
   "fixed": [
-    "QA: fixed and passed 10-01 r2 (Florence flood day, kids and dogs airlifted, 7)",
-    "editor pass: wrote, fixed and passed 10-02 r2 (signal fire spread over an acre, Arizona hoist, 7); passed over 9 candidates",
-    "pushed an upload trigger so 10-02 takes an open slot"
-  ],
-  "needs_owner": "Clip supply remains the bottleneck: the queue cannot reach 10 a day from current harvests. Widening harvest sources (Coast Guard news releases with video, NPS and Forest Service on Commons) would help."
+    "QA: dropped 10-03 (calm Isaac boat evacuation, third hurricane flood in two days)",
+    "editor pass: 0 specs, 5 candidates passed over",
+    "pushed archive to triggers/harvest to pull fresh rescue clips from the 6,931 unseen"
+  ]
 }
