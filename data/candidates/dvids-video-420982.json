@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:420982",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man 62 Miles East of Ocean City, Md.",
+  "description": "An MH-65 Dolphin helicopter crew from Coast Guard Air Station Atlantic City, N.J., medevacs a 23-year-old man requiring medical assistance from the fishing boat Hannah Boden 62 miles east of Ocean City, Md., Tuesday, Aug. 25, 2015. The man was taken to Ocean City Municipal Airport, where he received further EMS transport to Union Memorial\r\nHospital in Baltimore. U.S. Coast Guard video.",
+  "keywords": "helicopter, Coast Guard, medevac, rescue, USCG",
+  "date": "2015-08-25T00:00:00-04:00",
+  "date_published": "2015-08-25T15:08:47-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "150825-G-QD712-471",
+  "location": {
+    "city": "Ocean City",
+    "state": "Maryland",
+    "country": "United States",
+    "state_abbreviation": "MD",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/420982/coast-guard-medevacs-man-62-miles-east-ocean-city-md",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-420982",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:44:20Z",
+  "duration": 131.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102686803/DOD_102686803.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8554,
+    "size": 141092527
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    35.4,
+    97.53,
+    127.76
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      131.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-420982.jpg",
+  "sheet_times": [
+    8.0,
+    15.96,
+    23.91,
+    31.86,
+    39.81,
+    47.77,
+    55.72,
+    63.67,
+    71.63,
+    79.58,
+    87.53,
+    95.49,
+    103.44,
+    111.39,
+    119.35,
+    127.3
+  ]
+}

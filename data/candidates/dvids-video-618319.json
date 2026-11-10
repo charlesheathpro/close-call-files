@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:618319",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fishing vessel crewmember near Port Aransas, Texas",
+  "description": "A Sector/ Air Station Corpus Christi MH-65 Dolphin aircrew transports a man to awaiting emergency medical services personnel at a Sector/Air Station Corpus Christi airfield Aug. 9, 2018. The man requested medical assistance after suffering from severe abdominal pains while working on a fishing vessel 17 miles southeast of Port Aransas, Texas.",
+  "keywords": "MH-65, Port Aransas, medevac",
+  "date": "2018-08-09T00:00:00-04:00",
+  "date_published": "2018-08-09T19:20:38-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Johanna Strickland",
+  "category": "B-Roll",
+  "virin": "180809-G-HU058-1004",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/618319/coast-guard-medevacs-fishing-vessel-crewmember-near-port-aransas-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.17083,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-618319",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:19Z",
+  "duration": 53.87,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105910768/DOD_105910768.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8669,
+    "size": 59034868
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    12.45
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-618319.jpg",
+  "sheet_times": [
+    5.71,
+    8.78,
+    11.86,
+    14.93,
+    18.01,
+    21.08,
+    24.16,
+    27.23,
+    30.31,
+    33.38,
+    36.46,
+    39.53,
+    42.61,
+    45.68,
+    48.75,
+    51.83
+  ]
+}

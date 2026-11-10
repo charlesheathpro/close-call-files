@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:568744",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from oil tanker off Galveston, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin aircrew conducts a medevac after a request for medical assistance for a crew member aboard the oil tanker, Miss Claudia, off Galveston, Texas, Nov. 27, 2017. The crew member was transported to the University of Texas Medical Branch in Galveston.  U.S. Coast Guard photo by Air Station Houston.",
+  "keywords": "medevac, search and rescue, Air Station Houston",
+  "date": "2017-11-27T00:00:00-05:00",
+  "date_published": "2017-11-27T20:26:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171127-G-G0108-1005",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/568744/coast-guard-medevacs-man-oil-tanker-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-568744",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:23Z",
+  "duration": 111.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105112723/DOD_105112723.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 2904,
+    "size": 42266494
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    36.74,
+    76.31,
+    87.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      111.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-568744.jpg",
+  "sheet_times": [
+    3.47,
+    10.4,
+    17.33,
+    24.26,
+    31.19,
+    38.12,
+    45.05,
+    51.99,
+    58.92,
+    65.85,
+    72.78,
+    79.71,
+    86.64,
+    93.57,
+    100.5,
+    107.44
+  ]
+}

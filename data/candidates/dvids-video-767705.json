@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:767705",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs crew member 240 miles off Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew hoists a 28-year-old male from the 800-foot tanker Chrysanthemum approximately 225 miles offshore Galveston, Texas, Sept. 29, 2020. The patient was experiencing extreme abdominal pain and was transferred to awaiting emergency response personnel at Ellington Airport in Houston where he was reported in stable condition. (U.S. Coast Guard video)",
+  "keywords": "MH-65 Dolphin, hoist, Galveston, HC-144 Ocean Sentry, Sector/Air Station Corpus Christi, tanker Chrysanthemum, medevac, Air Station Houston",
+  "date": "2020-09-29T00:00:00-04:00",
+  "date_published": "2020-09-29T15:12:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200929-G-G0108-2001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/767705/coast-guard-medevacs-crew-member-240-miles-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-767705",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:16Z",
+  "duration": 45.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2009/DOD_108002119/DOD_108002119.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10157,
+    "size": 58059780
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.77,
+    3.47,
+    5.11,
+    8.38
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      45.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-767705.jpg",
+  "sheet_times": [
+    1.41,
+    4.24,
+    7.06,
+    9.89,
+    12.71,
+    15.54,
+    18.36,
+    21.19,
+    24.01,
+    26.84,
+    29.66,
+    32.48,
+    35.31,
+    38.13,
+    40.96,
+    43.78
+  ]
+}

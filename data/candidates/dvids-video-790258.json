@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:790258",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner 5 miles offshore Port Mansfield, Texas",
+  "description": "A Coast Guard Air Station Corpus Christi MH-65 Dolphin helicopter crew hoists a 52-year-old mariner aboard the fishing vessel New King Fisher near Port Mansfield, Texas, Saturday afternoon. The mariner was transported to awaiting emergency medical services personnel at the Corpus Christi Medical Center Bay Area in stable condition. (U.S. Coast Guard video)",
+  "keywords": "hoist, MH-65, Air Station Corpus CHristi, CoastGuardNewsWire, helicopter, medevac, search and rescue",
+  "date": "2021-04-10T00:00:00-04:00",
+  "date_published": "2021-04-11T11:06:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210410-G-G0108-2001",
+  "location": {
+    "city": "Port Mansfield",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/790258/coast-guard-medevacs-mariner-5-miles-offshore-port-mansfield-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-790258",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:09Z",
+  "duration": 89.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108276907/DOD_108276907.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10016,
+    "size": 112413212
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.96,
+    37.4,
+    75.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-790258.jpg",
+  "sheet_times": [
+    2.79,
+    8.37,
+    13.95,
+    19.52,
+    25.1,
+    30.68,
+    36.26,
+    41.84,
+    47.42,
+    53.0,
+    58.57,
+    64.15,
+    69.73,
+    75.31,
+    80.89,
+    86.47
+  ]
+}

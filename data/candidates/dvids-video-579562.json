@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:579562",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fishermen 60 miles east of Atlantic City, NJ",
+  "description": "A Coast Guard Air Station Atlantic City MH-65 Dolphin helicopter aircrew medevaced a fishermen reportedly suffering from respiratory issues 60 miles east of Atlantic City, New Jersey, Jan. 11, 2018. The crewmember was transported to AtlantiCare Regional Medical Center in Atlantic City, New Jersey for further medical care. U.S. Coast Guard video by Coast Guard Air Station Atlantic City",
+  "keywords": "hoist, first responder, medevac, SAR, rescue, USCG",
+  "date": "2018-01-11T00:00:00-05:00",
+  "date_published": "2018-01-11T14:00:15-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "180111-G-QD712-423",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/579562/coast-guard-medevacs-fishermen-60-miles-east-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-579562",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:35Z",
+  "duration": 88.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1801/DOD_105234910/DOD_105234910.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9667,
+    "size": 107871118
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      88.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-579562.jpg",
+  "sheet_times": [
+    2.74,
+    8.21,
+    13.68,
+    19.15,
+    24.62,
+    30.09,
+    35.56,
+    41.03,
+    46.5,
+    51.97,
+    57.44,
+    62.91,
+    68.38,
+    73.85,
+    79.32,
+    84.79
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:525195",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs fisherman 50-miles off Atlantic City, N.J.",
+  "description": "Crewmembers aboard and MH-65 Dolphin Helicopter medevac an ailing crewmember suffering stroke-like symptoms aboard a 90-foot fishing boat, approximately 50-miles off the coast of Atlantic City New Jersey, May 16, 2017. \r\n\r\nVideo courtesy of Coast Guard Air Station Atlantic City.",
+  "keywords": "Atlantic City, Coast Guard, medevac",
+  "date": "2017-05-16T00:00:00-04:00",
+  "date_published": "2017-05-16T13:08:59-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170516-G-G0105-0001",
+  "location": {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "state_abbreviation": "PA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/525195/coast-guard-medevacs-fisherman-50-miles-off-atlantic-city-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-525195",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:57Z",
+  "duration": 67.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104372142/DOD_104372142.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9664,
+    "size": 81240971
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      67.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-525195.jpg",
+  "sheet_times": [
+    6.05,
+    9.96,
+    13.87,
+    17.79,
+    21.7,
+    25.61,
+    29.53,
+    33.44,
+    37.35,
+    41.26,
+    45.18,
+    49.09,
+    53.0,
+    56.92,
+    60.83,
+    64.74
+  ]
+}

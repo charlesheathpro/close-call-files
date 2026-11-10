@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:567118",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man from cruise ship off NC coast",
+  "description": "The Coast Guard medevacs an ailing man from a cruise ship about 55 miles off the North Carolina coast Monday, Nov. 20, 2017. An MH-60 Jayhawk helicopter crew launched from Air Station Elizabeth City, hoisted the man and took him to Sentara Norfolk General Hospital in Norfolk, Virginia. (U.S. Coast Guard video by Air Station Elizabeth City/Released)",
+  "keywords": "MH-60 Jayhawk, hoist, Air Station Elizabeth City, 5th District, Mid-Atlantic, fifth district, d5, Norwegian Dawn, medevac, North Carolina, Cruise Ship",
+  "date": "2017-11-20T00:00:00-05:00",
+  "date_published": "2017-11-20T15:20:33-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171120-G-G0105-1001",
+  "location": {
+    "city": "Elizabeth City",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/567118/coast-guard-medevacs-man-cruise-ship-off-nc-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-567118",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:39Z",
+  "duration": 64.36,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105095920/DOD_105095920.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4019,
+    "size": 32392348
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    56.39
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      64.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-567118.jpg",
+  "sheet_times": [
+    2.0,
+    5.99,
+    9.98,
+    13.97,
+    17.96,
+    21.95,
+    25.94,
+    29.94,
+    33.93,
+    37.92,
+    41.91,
+    45.9,
+    49.89,
+    53.88,
+    57.88,
+    61.87
+  ]
+}

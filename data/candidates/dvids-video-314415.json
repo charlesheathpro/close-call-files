@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:314415",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Air Station Houston/CGC Manta: Medevac of diver off Galveston coast",
+  "description": "HOUSTON - In this video by the U.S. Coast Guard, an Air Station Houston MH-65C rescue helicopter crew prepares to medevac a diver off the Galveston coast, Aug. 4, 2009.\n\n(U.S. Coast Guard video/Air Station Houston)",
+  "keywords": "CGVI",
+  "date": "2009-08-04T17:56:17-04:00",
+  "date_published": "2013-12-17T09:17:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/314415/air-station-houston-cgc-manta-medevac-diver-off-galveston-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-314415",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:45:29Z",
+  "duration": 17.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101055140/DOD_101055140.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 10000,
+    "size": 30427651
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-314415.jpg",
+  "sheet_times": [
+    0.54,
+    1.62,
+    2.71,
+    3.79,
+    4.87,
+    5.96,
+    7.04,
+    8.12,
+    9.21,
+    10.29,
+    11.37,
+    12.46,
+    13.54,
+    14.62,
+    15.71,
+    16.79
+  ]
+}

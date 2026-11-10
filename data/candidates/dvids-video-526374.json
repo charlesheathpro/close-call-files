@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:526374",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs woman, 49, 35 miles south of Key West",
+  "description": "A Coast Guard Air Station Miami MH-65 Dolphin helicopter crew medevacs a 49-year-old woman experiencing symptoms of anaphylactic shock May 22, 2017, from the sailing vessel Drifter approximately 35 miles south of Key West. The helicopter crew transferred the woman to awaiting emergency medical services at Key West International Airport. (Coast Guard video)",
+  "keywords": "hoist, SAR, USCG, helo",
+  "date": "2017-05-22T00:00:00-04:00",
+  "date_published": "2017-05-22T22:31:24-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170522-G-G0107-001",
+  "location": {
+    "city": "Key West",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/526374/coast-guard-medevacs-woman-49-35-miles-south-key-west",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.99197,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-526374",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:43:50Z",
+  "duration": 176.04,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104396235/DOD_104396235.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8688,
+    "size": 194167784
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    113.51
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-526374.jpg",
+  "sheet_times": [
+    9.35,
+    20.07,
+    30.8,
+    41.52,
+    52.24,
+    62.96,
+    73.68,
+    84.41,
+    95.13,
+    105.85,
+    116.57,
+    127.29,
+    138.02,
+    148.74,
+    159.46,
+    170.18
+  ]
+}

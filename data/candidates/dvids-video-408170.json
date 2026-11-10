@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:408170",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Man 50 Miles Off Ocean City, Md.",
+  "description": "An aircrew from Coast Guard Air Station Atlantic City, N.J., performs a medevac from an MH-65 Dolphin helicopter Sunday, June 7, 2015. The Dolphin crew medevaced a 20-year-old man who was suffering from respiratory issues aboard a fishing boat about 50 miles offshore from Ocean City, Md. U.S. Coast Guard video by Petty Officer 3rd Class David Micallef.",
+  "keywords": "Atlantic City, hoist, Air Station, ASAC, medevac, rescue, USCG",
+  "date": "2015-06-07T00:00:00-04:00",
+  "date_published": "2015-06-08T11:11:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "150607-G-QD712-025",
+  "location": {
+    "city": "Ocean City",
+    "state": "Maryland",
+    "country": "United States",
+    "state_abbreviation": "MD",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/408170/coast-guard-medevacs-man-50-miles-off-ocean-city-md",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.09207,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-408170",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:44:28Z",
+  "duration": 113.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102495689/DOD_102495689-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 926,
+    "size": 14020469
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.1,
+    11.51,
+    26.59,
+    73.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      113.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-408170.jpg",
+  "sheet_times": [
+    7.49,
+    14.27,
+    21.06,
+    27.84,
+    34.63,
+    41.42,
+    48.2,
+    54.99,
+    61.78,
+    68.56,
+    75.35,
+    82.13,
+    88.92,
+    95.71,
+    102.49,
+    109.28
+  ]
+}

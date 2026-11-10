@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:516264",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man 150 miles off Cape Hatteras, NC",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Elizabeth City, North Carolina, medevacs a 70-year-old man from a cruise ship off the North Carolina coast March 28, 2017. The man was flown to New Hanover Regional Medical Center in Wilmington. (U.S. Coast Guard video by Air Station Elizabeth City)",
+  "keywords": "Air Station Elizabeth City, MH-60, Jayhawk, 5th District, Super Hercules, Mid-Atlantic, fifth district, d5, Grandeur of the Seas, medevac, C-130",
+  "date": "2017-03-28T00:00:00-04:00",
+  "date_published": "2017-03-29T09:23:00-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170328-G-G0105-1001",
+  "location": {
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/516264/coast-guard-medevacs-man-150-miles-off-cape-hatteras-nc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-516264",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:44:02Z",
+  "duration": 106.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104220654/DOD_104220654.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9009,
+    "size": 119719844
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    23.26,
+    91.16
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      106.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-516264.jpg",
+  "sheet_times": [
+    7.2,
+    13.54,
+    19.88,
+    26.23,
+    32.57,
+    38.91,
+    45.26,
+    51.6,
+    57.95,
+    64.29,
+    70.63,
+    76.98,
+    83.32,
+    89.66,
+    96.01,
+    102.35
+  ]
+}
