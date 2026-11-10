@@ -1,16 +1,21 @@
 {
-  "at": "2026-11-10T00:32:55Z",
+  "at": "2026-11-10T08:39:41Z",
   "healthy": false,
-  "numbers": {"dropped": 47, "uploaded": 113, "passed": 1, "scheduled_48h": 9},
+  "numbers": {
+    "dropped": 47,
+    "uploaded": 115,
+    "passed": 1,
+    "scheduled_48h": 9
+  },
   "found": [
-    "buffer thin: 8 scheduled in the next 48 h, 0 passed and 1 in QA at start (fails both the 20 and 25 thresholds)",
-    "harvest (21:00Z), stats and upload (00:16Z, 00:31Z) runs all landed; no build errors in 24 h; no auth or upload_error alerts in 24 h",
-    "about 2,070 new candidates by count, but the rescue lane is mostly calm door-cam hoists, medevacs, training and murky sensor footage; hazards is mostly aftermath b-roll; NASA is program b-roll and tests where nothing fails"
+    "buffer thin: 8 scheduled in the next 48 h, 0 passed and 1 in QA at start (fails the 20 and 25 thresholds)",
+    "upload (08:32Z), harvest (Nov 9 21:00Z) and stats runs all landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
+    "new candidates are mostly medevacs, training, relief b-roll and calm hoists; about 30 rescue titles checked and 9 frame sheets viewed"
   ],
   "fixed": [
-    "QA: fixed and passed 09-31 r2 (security camera catches a tornado at Chickamauga Lock, 7)",
-    "editor pass: reviewed about 300 rescue and hazard titles and 9 frame sheets; wrote, fixed and passed 09-41 r2 (vehicle trapped in waves during Hurricane Ike, 7); passed over 6 murky, repeat or duplicate candidates",
-    "pushed an upload trigger so 09-41 takes an open slot"
+    "QA: fixed and passed 10-01 r2 (Florence flood day, kids and dogs airlifted, 7)",
+    "editor pass: wrote, fixed and passed 10-02 r2 (signal fire spread over an acre, Arizona hoist, 7); passed over 9 candidates",
+    "pushed an upload trigger so 10-02 takes an open slot"
   ],
-  "needs_owner": "Supply of strong clips is the bottleneck, not the pipeline. Consider widening harvest queries (e.g. NPS and Forest Service on Commons, Coast Guard news releases with video)."
+  "needs_owner": "Clip supply remains the bottleneck: the queue cannot reach 10 a day from current harvests. Widening harvest sources (Coast Guard news releases with video, NPS and Forest Service on Commons) would help."
 }
