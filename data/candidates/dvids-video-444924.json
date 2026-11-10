@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:444924",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs man, 28, 20 miles east of Virginia Beach, Va.",
+  "description": "An MH-60 Jayhawk helicopter crew from U. S. Coast Guard Air Station Elizabeth City, N.C., hoists a man suffering burns Saturday, Jan. 02, 2016, off the container ship Maersk Santana 20 miles east of Virginia Beach, Virginia. The helicopter crew took the man to the Sentara Norfolk General Hospital in Norfolk where the man was transferred to awaiting EMS personnel. (U.S. Coast Guard video by Air Station Elizabeth City.)",
+  "keywords": "Air Station, Coast Guard rescue, ELIZABETH CITY, medevac, USCG, Virginia Beach",
+  "date": "2016-01-02T00:00:00-05:00",
+  "date_published": "2016-01-03T16:12:11-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Joshua Canup",
+  "category": "B-Roll",
+  "virin": "110414-G-DN496-001",
+  "location": {
+    "city": "",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/444924/coast-guard-medevacs-man-28-20-miles-east-virginia-beach-va",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-444924",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:50:24Z",
+  "duration": 105.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1601/DOD_102973872/DOD_102973872.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9029,
+    "size": 119424925
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      105.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-444924.jpg",
+  "sheet_times": [
+    7.19,
+    13.51,
+    19.84,
+    26.16,
+    32.49,
+    38.81,
+    45.14,
+    51.46,
+    57.79,
+    64.11,
+    70.44,
+    76.76,
+    83.09,
+    89.42,
+    95.74,
+    102.07
+  ]
+}

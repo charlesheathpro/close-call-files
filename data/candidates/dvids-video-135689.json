@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:135689",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard MEDEVACs Man from Vessel 70 miles off NJ Coast",
+  "description": "ATLANTIC CITY, N.J. — An MH-65 Dolphin helicopter crew from Coast Guard Air Station Atlantic City MEDEVACs a 21-year-old male from the fishing vessel Friendship who was reported having abdominal pains 70 miles east of here Jan. 23, 2012. The crew member was transported to AtlantiCare Regional Medical Center in Atlantic City where he was reported to be in stable condition. U.S. Coast Guard video. Also available in high definition.",
+  "keywords": "hoist, medevac, SAR, search and rescue, High Definition",
+  "date": "2012-01-23T00:00:00-05:00",
+  "date_published": "2012-01-23T13:56:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "94th Airlift Wing",
+  "category": "B-Roll",
+  "virin": "120123-G-XX000-001",
+  "location": {
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/135689/coast-guard-medevacs-man-vessel-70-miles-off-nj-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 8.00801,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-135689",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:51:56Z",
+  "duration": 92.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1201/DOD_100311467/DOD_100311467.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7814,
+    "size": 93115296
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.01,
+    62.03,
+    80.75
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      80.8
+    ],
+    "silence_ends": [
+      8.1,
+      92.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-135689.jpg",
+  "sheet_times": [
+    10.62,
+    15.85,
+    21.08,
+    26.3,
+    31.53,
+    36.76,
+    41.98,
+    47.21,
+    52.44,
+    57.66,
+    62.89,
+    68.12,
+    73.34,
+    78.57,
+    83.8,
+    89.03
+  ]
+}

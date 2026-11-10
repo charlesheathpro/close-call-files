@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:807494",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner from tanker 11 miles off Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter crew hoists a 48-year-old male experiencing stroke-like symptoms aboard a tanker vessel 11 miles off Galveston, Texas, July 21, 2021. The crew transported the mariner to the University of Texas Medical Branch at Galveston in stable condition. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "Air Station, CoastGuardNewsWire, Coast Guard, medevac, Houston",
+  "date": "2021-07-21T00:00:00-04:00",
+  "date_published": "2021-07-21T19:04:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210721-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/807494/coast-guard-medevacs-mariner-tanker-11-miles-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-807494",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:52:21Z",
+  "duration": 94.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108464205/DOD_108464205.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10028,
+    "size": 119134626
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      95.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-807494.jpg",
+  "sheet_times": [
+    2.95,
+    8.86,
+    14.76,
+    20.67,
+    26.57,
+    32.48,
+    38.38,
+    44.29,
+    50.19,
+    56.1,
+    62.0,
+    67.9,
+    73.81,
+    79.71,
+    85.62,
+    91.52
+  ]
+}

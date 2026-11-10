@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:712504",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs cruise ship passenger 55 miles offshore Galveston, Texas",
+  "description": "An Air Station Houston MH-65 Dolphin helicopter crew hoists a passenger from the cruise ship Enchantment of the Seas approximately 55 miles offshore Galveston, Texas, Oct. 1, 2019. The Air Station Houston helicopter crew transferred the passenger to the University of Texas Medical Branch at Galveston where he was reported to be in stable condition. (U.S. Coast Guard video by Air Station Houston)",
+  "keywords": "Air Station, aircrew, MH-65, medevac, search and rescue, dolphin",
+  "date": "2019-10-01T00:00:00-04:00",
+  "date_published": "2019-10-01T18:28:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "191001-G-G0108-1001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/712504/coast-guard-medevacs-cruise-ship-passenger-55-miles-offshore-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-712504",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:52:36Z",
+  "duration": 94.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107296516/DOD_107296516.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6857,
+    "size": 81096642
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    64.56
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      94.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-712504.jpg",
+  "sheet_times": [
+    2.94,
+    8.81,
+    14.69,
+    20.56,
+    26.44,
+    32.31,
+    38.19,
+    44.06,
+    49.94,
+    55.82,
+    61.69,
+    67.57,
+    73.44,
+    79.32,
+    85.19,
+    91.07
+  ]
+}

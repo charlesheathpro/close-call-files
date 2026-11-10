@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:808913",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs tugboat crew member 65 miles off Galveston, Texas",
+  "description": "An HC-144 Ocean Sentry airplane crew from Coast Guard Sector/Air Station Corpus Christi, Texas, monitors the medevac of an ailing, disoriented tugboat crew member approximately 65 miles off Galveston, Texas, Aug. 2, 2021. An MH-65 Dolphin helicopter crew from Coast Guard Air Station Houston, Texas, hoisted the man and transported him to awaiting emergency medical services at Scholes International Airport. (U.S. Coast Guard video, courtesy Sector/Air Station Corpus Christi)",
+  "keywords": "CoastGuardNewsWire, helicopter, medevac, airplane, rescue",
+  "date": "2021-08-02T00:00:00-04:00",
+  "date_published": "2021-08-03T17:11:32-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210802-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/808913/coast-guard-medevacs-tugboat-crew-member-65-miles-off-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-808913",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:52:18Z",
+  "duration": 73.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2108/DOD_108488705/DOD_108488705.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5245,
+    "size": 48197245
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.12,
+    1.16,
+    1.2,
+    1.48,
+    1.68,
+    4.12,
+    4.24,
+    4.32,
+    4.36,
+    34.56,
+    37.36,
+    44.04,
+    57.88,
+    57.92
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      73.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-808913.jpg",
+  "sheet_times": [
+    2.28,
+    6.84,
+    11.39,
+    15.95,
+    20.51,
+    25.06,
+    29.62,
+    34.18,
+    38.73,
+    43.29,
+    47.85,
+    52.4,
+    56.96,
+    61.52,
+    66.07,
+    70.63
+  ]
+}

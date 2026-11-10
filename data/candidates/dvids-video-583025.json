@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:583025",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs mariner from 336-foot tanker near Galveston, Texas",
+  "description": "A Coast Guard Air Station Houston MH-65 Dolphin helicopter aircrew hoists a 38-year-old mariner who suffered a broken leg aboard the tanker Kassos on February 3, 2018 near Galveston, Texas. The mariner was transferred to medical personnel at the University of Texas Medical Branch in Galveston where he was listed in stable condition. U.S. Coast Guard video by Air Station Houston.",
+  "keywords": "Galveston, Air Station, aircrew, MH-65, Coast Guard, medevac, USCG, Air Station Houston, Houston",
+  "date": "2018-02-03T00:00:00-05:00",
+  "date_published": "2018-02-03T18:33:20-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180203-G-G0108-1003",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/583025/coast-guard-medevacs-mariner-336-foot-tanker-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-583025",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:52:53Z",
+  "duration": 200.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1802/DOD_105292379/DOD_105292379.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8676,
+    "size": 218234356
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      201.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-583025.jpg",
+  "sheet_times": [
+    6.27,
+    18.8,
+    31.33,
+    43.86,
+    56.39,
+    68.92,
+    81.45,
+    93.98,
+    106.51,
+    119.04,
+    131.57,
+    144.1,
+    156.63,
+    169.16,
+    181.69,
+    194.22
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:595611",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs 53-Year-Old From Tugboat Near Melbourne, Fla.",
+  "description": "An MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Clearwater, Florida, hoists a 53-year-old man suffering from chest pains Sunday, April 22, 2018 while aboard a 75-foot tugboat about 1 mile east of Satellite Beach, Florida. The man was transported to Holmes Regional Medical Center for further care. (U.S. Coast Guard video)",
+  "keywords": "hoist, medevac, rescue",
+  "date": "2018-04-22T00:00:00-04:00",
+  "date_published": "2018-04-22T10:47:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "180422-G-G0107-1001",
+  "location": {
+    "city": "Melbourne",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/595611/coast-guard-medevacs-53-year-old-tugboat-near-melbourne-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-595611",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:50:03Z",
+  "duration": 54.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105544266/DOD_105544266.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9852,
+    "size": 67383866
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      54.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-595611.jpg",
+  "sheet_times": [
+    1.69,
+    5.08,
+    8.46,
+    11.85,
+    15.23,
+    18.62,
+    22.0,
+    25.39,
+    28.77,
+    32.16,
+    35.54,
+    38.92,
+    42.31,
+    45.69,
+    49.08,
+    52.46
+  ]
+}

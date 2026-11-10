@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:448321",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard Medevacs Injured Fisherman 70 Miles Off Barnegat Light, NJ",
+  "description": "A helicopter crew from Coast Guard Air Station Atlantic City, N.J., medevacs a fisherman Wednesday, Feb. 3, 2016, 70 miles east of Barnegat Light, New Jersey. The 49-year-old man was fishing with two other people aboard the 77-foot fishing boat Determination when he suffered an injury to his right hand. U.S. Coast Guard video by Air Station Atlantic City",
+  "keywords": "Coast Guard, medevac, rescue, USCG, New Jersey",
+  "date": "2016-02-03T00:00:00-05:00",
+  "date_published": "2016-02-03T15:57:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class David Micallef",
+  "category": "B-Roll",
+  "virin": "160203-G-QD712-378",
+  "location": {
+    "city": "Barnegat Light",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/448321/coast-guard-medevacs-injured-fisherman-70-miles-off-barnegat-light-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.0587,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-448321",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:50:18Z",
+  "duration": 56.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1602/DOD_103019359/DOD_103019359.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8575,
+    "size": 61688332
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      57.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-448321.jpg",
+  "sheet_times": [
+    5.7,
+    8.97,
+    12.25,
+    15.53,
+    18.8,
+    22.08,
+    25.36,
+    28.63,
+    31.91,
+    35.18,
+    38.46,
+    41.74,
+    45.01,
+    48.29,
+    51.57,
+    54.84
+  ]
+}

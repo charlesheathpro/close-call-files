@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:476236",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "medevac",
+  "title": "Coast Guard medevacs 2 from grounded boat off the Bolivar Penisula in Texas",
+  "description": "A Coast Guard aircrew medevaced two people showing symptoms of heat exposure after their 30-foot boat ran aground near Rollover Bay, July 25, 2016. U.S. Coast Guard video by Petty Officer 2nd Class Ryan Beard.",
+  "keywords": "grounded, padet texas, 25 July, medevac, SAR, Air Station Houston",
+  "date": "2016-07-25T00:00:00-04:00",
+  "date_published": "2016-07-26T00:14:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Jennifer Nease",
+  "category": "B-Roll",
+  "virin": "160723-G-XX999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/476236/coast-guard-medevacs-2-grounded-boat-off-bolivar-penisula-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-476236",
+  "status": "new",
+  "harvested_at": "2026-11-10T16:52:57Z",
+  "duration": 28.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1607/DOD_103498744/DOD_103498744.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7133,
+    "size": 25987631
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.54,
+    5.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-476236.jpg",
+  "sheet_times": [
+    0.88,
+    2.65,
+    4.41,
+    6.18,
+    7.94,
+    9.71,
+    11.47,
+    13.24,
+    15.01,
+    16.77,
+    18.54,
+    20.3,
+    22.07,
+    23.83,
+    25.6,
+    27.36
+  ]
+}
