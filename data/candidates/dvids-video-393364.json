@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:393364",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Search and Rescue Operation 04 MAR 2015",
+  "description": "HSM-37 SAR Flight for Missing Hiker.",
+  "keywords": "HSM-37, Missing Hiker, aerial, search and rescue",
+  "date": "2015-03-04T00:00:00-05:00",
+  "date_published": "2015-03-05T19:28:42-05:00",
+  "branch": "Navy",
+  "unit_name": "Commander Navy Region Hawaii",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150304-N-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/393364/search-and-rescue-operation-04-mar-2015",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-393364",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:55:49Z",
+  "duration": 15.22,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102274423/DOD_102274423-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 922,
+    "size": 1880905
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.0
+    ],
+    "silence_ends": [
+      4.4,
+      15.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-393364.jpg",
+  "sheet_times": [
+    0.46,
+    1.38,
+    2.3,
+    3.22,
+    4.14,
+    5.06,
+    5.98,
+    6.9,
+    7.82,
+    8.74,
+    9.66,
+    10.58,
+    11.5,
+    12.42,
+    13.34,
+    14.26
+  ]
+}

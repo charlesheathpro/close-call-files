@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:487201",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "NCHART Hurricane Matthew B-roll",
+  "description": "NCNG NCHART Hurricane Matthew\r\nNCNG Soldiers have conducted over 60 air rescues with the NCNG NCHART team since Saturday and well over 100 water rescues assisting the NC Emergency Management Services in the aftermath Hurricane Matthew.",
+  "keywords": "NCNG, NCHART, Hurricane Matthew",
+  "date": "2016-10-10T00:00:00-04:00",
+  "date_published": "2016-10-12T13:39:27-04:00",
+  "branch": "Joint",
+  "unit_name": "North Carolina National Guard",
+  "credit": "Sgt. Marcel Pugh",
+  "category": "B-Roll",
+  "virin": "161012-A-AK274-155",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/487201/nchart-hurricane-matthew-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-487201",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:56:00Z",
+  "duration": 477.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1610/DOD_103747852/DOD_103747852.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9911,
+    "size": 600471135
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    117.72,
+    159.49,
+    290.42,
+    328.26,
+    328.63,
+    346.31,
+    359.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      46.2
+    ],
+    "silence_ends": [
+      46.2,
+      477.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-487201.jpg",
+  "sheet_times": [
+    14.9,
+    44.71,
+    74.52,
+    104.33,
+    134.14,
+    163.95,
+    193.76,
+    223.57,
+    253.38,
+    283.19,
+    313.0,
+    342.81,
+    372.62,
+    402.43,
+    432.24,
+    462.04
+  ]
+}
