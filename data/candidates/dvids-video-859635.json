@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:859635",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Ft. Myers Aerial Footage Post Hurricane Ian",
+  "description": "Footage taken from a UH-60 Black Hawk helicopter of the Ft. Myers area post.",
+  "keywords": "#nationalguard, #AlwaysReadyAlwaysThere, #HurricaneIan, HurricaneIan22, 22DoDHurricane",
+  "date": "2022-10-01T00:00:00-04:00",
+  "date_published": "2022-10-04T16:04:16-04:00",
+  "branch": "Army",
+  "unit_name": "107th Mobile Public Affairs Detachment",
+  "credit": "Sgt. Marc Morgenstern",
+  "category": "B-Roll",
+  "virin": "221001-Z-CV219-1002",
+  "location": {
+    "city": "Ft. Myers",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859635/ft-myers-aerial-footage-post-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859635",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:42:59Z",
+  "duration": 369.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109253133/DOD_109253133.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 428534022
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.94,
+    24.86,
+    75.71,
+    89.49,
+    164.86,
+    179.28,
+    223.42,
+    307.07,
+    324.39,
+    363.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859635.jpg",
+  "sheet_times": [
+    11.54,
+    34.61,
+    57.68,
+    80.75,
+    103.82,
+    126.89,
+    149.96,
+    173.03,
+    196.1,
+    219.17,
+    242.25,
+    265.32,
+    288.39,
+    311.46,
+    334.53,
+    357.6
+  ]
+}

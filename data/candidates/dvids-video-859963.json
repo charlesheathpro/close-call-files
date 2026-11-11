@@ -1,0 +1,127 @@
+{
+  "asset_id": "video:859963",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "FEMA Region 4 RRCC Hurricane Ian B-Roll",
+  "description": "B-Roll of Region 4 RRCC during Hurricane Ian",
+  "keywords": "FEMA, b-roll, Ian, RRCC, Region4, Hurricane",
+  "date": "2022-09-27T00:00:00-04:00",
+  "date_published": "2022-10-14T08:52:26-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Robert Kaufmann",
+  "category": "B-Roll",
+  "virin": "220927-O-RK738-090",
+  "location": {
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859963/fema-region-4-rrcc-hurricane-ian-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859963",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:43:18Z",
+  "duration": 79.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109257796/DOD_109257796.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 92662804
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.62,
+      "e": 17.14,
+      "text": "These are one of the monitoring resources to be able to handle."
+    },
+    {
+      "s": 17.14,
+      "e": 21.62,
+      "text": "As the storm comes in."
+    },
+    {
+      "s": 21.62,
+      "e": 28.86,
+      "text": "Finally, we'll be working through infrastructure, prioritizing, updating."
+    },
+    {
+      "s": 28.86,
+      "e": 40.74,
+      "text": "For emergency services is going to be staged."
+    },
+    {
+      "s": 40.74,
+      "e": 54.73,
+      "text": "State of Florida as well as nearby state."
+    },
+    {
+      "s": 54.73,
+      "e": 55.73,
+      "text": "Coordinated efforts."
+    }
+  ],
+  "scene_cuts": [
+    5.0,
+    9.53,
+    18.9,
+    28.91,
+    32.87,
+    36.4,
+    39.67,
+    43.93,
+    48.28,
+    54.24,
+    69.49
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      26.8,
+      37.0,
+      47.2,
+      53.6,
+      63.2,
+      67.7,
+      69.3
+    ],
+    "silence_ends": [
+      5.0,
+      28.2,
+      39.7,
+      48.3,
+      54.3,
+      63.8,
+      68.3,
+      70.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859963.jpg",
+  "sheet_times": [
+    2.47,
+    7.4,
+    12.34,
+    17.28,
+    22.21,
+    27.15,
+    32.09,
+    37.02,
+    41.96,
+    46.89,
+    51.83,
+    56.77,
+    61.7,
+    66.64,
+    71.58,
+    76.51
+  ]
+}

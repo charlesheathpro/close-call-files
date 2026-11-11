@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:862466",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "USACE continues its Hurricane Ian support to FEMA, Florida",
+  "description": "A timelapse video of storm debris is hauled to a temporary debris management site on Lovers Key, Florida, Oct. 26. USACE is serving as technical debris monitors in support of FEMA to ensure the storm debris is manage safely and in compliance with all applicable rules and regulations. In addition to the debris mission, USACE is actively supporting other Hurricane Ian recovery efforts to include Operation Blue Roof, infrastructure assessments and temporary housing.",
+  "keywords": "FEMA, jacksonville district, Ian, Hurricane Ian, HurricaneIan22, USACE",
+  "date": "2022-10-26T00:00:00-04:00",
+  "date_published": "2022-10-30T09:39:20-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Jacksonville District",
+  "credit": "Patrick Moes",
+  "category": "Package",
+  "virin": "221026-A-LI073-009",
+  "location": {
+    "city": "Lovers Key",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/862466/usace-continues-its-hurricane-ian-support-fema-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-862466",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:43:26Z",
+  "duration": 62.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109294522/DOD_109294522-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 57274357
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.23,
+    55.63
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      57.7
+    ],
+    "silence_ends": [
+      62.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-862466.jpg",
+  "sheet_times": [
+    1.92,
+    5.77,
+    9.61,
+    13.46,
+    17.31,
+    21.15,
+    25.0,
+    28.84,
+    32.69,
+    36.54,
+    40.38,
+    44.23,
+    48.07,
+    51.92,
+    55.76,
+    59.61
+  ]
+}
