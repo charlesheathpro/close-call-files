@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:545946",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey B-Roll 25 AUG",
+  "description": "General B-Roll of Texas Guardsmen from the 176th Engineer Brigade, partnered with emergency first responders from Texas task Force One preparing for Hurricane Harvey to hit the Texas coast, Victoria, Texas, August 25, 2017.",
+  "keywords": "Texas Army National Guard, Texas State Guard, Texas Task Force One, 176th Engineer Brigade, 71st Troop Command, Texas Military Department, Hurricane Harvey, DoD Hurricane Relief",
+  "date": "2017-08-25T00:00:00-04:00",
+  "date_published": "2017-08-25T15:33:22-04:00",
+  "branch": "Army",
+  "unit_name": "Texas Army National Guard (Texas Military Forces)",
+  "credit": "Sgt. Samuel De Leon",
+  "category": "B-Roll",
+  "virin": "170825-A-OE086-422",
+  "location": {
+    "city": "Victoria",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/545946/hurricane-harvey-b-roll-25-aug",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-545946",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:48:57Z",
+  "duration": 39.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104763669/DOD_104763669.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5868,
+    "size": 29978946
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.8,
+    5.74,
+    8.74,
+    12.18,
+    14.95,
+    17.65,
+    20.85,
+    23.82,
+    26.66,
+    29.36,
+    33.27,
+    36.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      39.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-545946.jpg",
+  "sheet_times": [
+    1.23,
+    3.7,
+    6.16,
+    8.63,
+    11.09,
+    13.56,
+    16.02,
+    18.49,
+    20.95,
+    23.42,
+    25.88,
+    28.35,
+    30.81,
+    33.28,
+    35.74,
+    38.21
+  ]
+}

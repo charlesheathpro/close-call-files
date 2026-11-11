@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:549663",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Coast Guard responds during Hurricane Harvey",
+  "description": "More than 2,000 #USCG personnel from all over the nation responded to those affected by Hurricane #Harvey, saving more than 11,000 victims and more than 1,300 pets. Now many of those same responders are headed southeast in response to Hurricane #Irma.\r\nHelp us help you by making sure you, your family and friends are prepared for any disaster! community.fema.gov/  U.S. Coast Guard video by Telfair H Brown, Sr.",
+  "keywords": "Harvey, Hurricane Harvey, Coast Guard",
+  "date": "2017-09-08T00:00:00-04:00",
+  "date_published": "2017-09-10T00:05:29-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Telfair Brown",
+  "category": "Package",
+  "virin": "170908-G-OY189-610",
+  "location": {
+    "city": "Washington",
+    "state": "District of Columbia",
+    "country": "United States",
+    "state_abbreviation": "DC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/549663/coast-guard-responds-during-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-549663",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:49:22Z",
+  "duration": 74.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104820594/DOD_104820594.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8857,
+    "size": 83613581
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.35,
+      "e": 4.02,
+      "text": "^(contemplative synth music)"
+    }
+  ],
+  "scene_cuts": [
+    5.87,
+    11.38,
+    19.45,
+    23.26,
+    23.29,
+    26.09,
+    29.06,
+    31.93,
+    34.8,
+    41.24,
+    45.58,
+    49.22,
+    53.79,
+    57.99,
+    62.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-549663.jpg",
+  "sheet_times": [
+    2.31,
+    6.92,
+    11.54,
+    16.15,
+    20.76,
+    25.38,
+    29.99,
+    34.61,
+    39.22,
+    43.83,
+    48.45,
+    53.06,
+    57.68,
+    62.29,
+    66.9,
+    71.52
+  ]
+}

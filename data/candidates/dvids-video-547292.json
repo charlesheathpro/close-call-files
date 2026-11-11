@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:547292",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "COANG CERFP Deploys to TX HURRICANE HARVEY",
+  "description": "The 140th Medical Group, Detachment 1, which is the medical component of the Colorado National Guard's Chemical, Biological, Radiological, and Nuclear Enhanced Response Force Package (CERFP) team, and their equipment is being loaded on a New York Air National Guard C-17 Globe Master at Buckley Air Force Base to support Hurricane Harvey response efforts in Houston, Texas. The unit will backfill the En Route Patient Staging Area at the Houston Executive Airport. They are deploying in response to an Emergency Management Assistance Compact request from the Texas Office of Emergency Management. The request was approved by Colorado Gov. John W. Hickenlooper. As part of the unit's CERFP mission, they are trained to work in just outside a contaminated environment performing medical triage and initial treatment to stabilize patients for transport to medical facilities. (U.S. Air National Guard video by Senior Master Sgt. John Rohrer)",
+  "keywords": "CERFP, CONG",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-08-31T18:30:45-04:00",
+  "branch": "Air Force",
+  "unit_name": "140th Wing",
+  "credit": "Senior Master Sgt. John Rohrer",
+  "category": "B-Roll",
+  "virin": "170830-Z-QD622-001",
+  "location": {
+    "city": "Buckley Air Force Base",
+    "state": "Colorado",
+    "country": "United States",
+    "state_abbreviation": "CO",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547292/coang-cerfp-deploys-tx-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.005,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547292",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:50:11Z",
+  "duration": 261.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104789426/DOD_104789426.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9717,
+    "size": 322155708
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    32.03,
+    43.21,
+    55.09,
+    94.39,
+    122.02,
+    198.26,
+    235.07,
+    256.79
+  ],
+  "drama_score": 69,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      122.1
+    ],
+    "silence_ends": [
+      5.0,
+      198.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547292.jpg",
+  "sheet_times": [
+    13.01,
+    29.01,
+    45.02,
+    61.02,
+    77.03,
+    93.04,
+    109.04,
+    125.05,
+    141.05,
+    157.06,
+    173.06,
+    189.07,
+    205.08,
+    221.08,
+    237.09,
+    253.09
+  ]
+}

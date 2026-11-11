@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:547823",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Soldiers Deliver Hurricane Harvey Relief Supplies",
+  "description": "U.S. Army Soldiers deliver supplies to civilians as part of Hurricane Harvey relief efforts Sept. 2, 2017 near Sour Lake, Texas.",
+  "keywords": "Harvey, soldiers, Texas Army National Guard, relief, #HurricaneHarvey, harvey2017, Texas Strong, HelpHouston, National Guard, army, Texas, Hurricane, Houston",
+  "date": "2017-09-02T00:00:00-04:00",
+  "date_published": "2017-09-02T14:59:53-04:00",
+  "branch": "Army",
+  "unit_name": "22nd Mobile Public Affairs Detachment",
+  "credit": "Pfc. Jacob Banuelos",
+  "category": "B-Roll",
+  "virin": "170902-A-VG787-002",
+  "location": {
+    "city": "Sour Lake",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547823/soldiers-deliver-hurricane-harvey-relief-supplies",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.17083,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547823",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:49:15Z",
+  "duration": 90.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104798840/DOD_104798840.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9659,
+    "size": 110611598
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.17,
+    8.11,
+    17.62,
+    23.12,
+    36.7,
+    46.21,
+    51.92,
+    57.79,
+    63.7,
+    69.8,
+    79.98,
+    85.49,
+    90.02
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547823.jpg",
+  "sheet_times": [
+    6.85,
+    12.21,
+    17.57,
+    22.93,
+    28.29,
+    33.64,
+    39.0,
+    44.36,
+    49.72,
+    55.08,
+    60.44,
+    65.8,
+    71.16,
+    76.51,
+    81.87,
+    87.23
+  ]
+}

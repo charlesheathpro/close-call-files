@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:546555",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey Aftermath Rockport, Texas area",
+  "description": "B-Roll Footage of Hurricane Harvey damage in and around Port Aransas and Rockport, Texas,  August 28, 2017. (U.S. National Guard video by John Thibodeau).",
+  "keywords": "Rockport, Port Aransas, 42215204, Hurricane Harvey, Texas Hurricane, DVIDS Videos of the Day 083017",
+  "date": "2017-08-28T00:00:00-04:00",
+  "date_published": "2017-08-29T14:19:58-04:00",
+  "branch": "Joint",
+  "unit_name": "Texas Military Department",
+  "credit": "John Thibodeau",
+  "category": "B-Roll",
+  "virin": "170828-Z-XP687-001",
+  "location": {
+    "city": "Port Aransas",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546555/hurricane-harvey-aftermath-rockport-texas-area",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546555",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:49:09Z",
+  "duration": 20.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104777199/DOD_104777199.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9331,
+    "size": 24288315
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 14.45,
+      "e": 16.45,
+      "text": "The density of the two is 1."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-546555.jpg",
+  "sheet_times": [
+    0.63,
+    1.88,
+    3.13,
+    4.38,
+    5.63,
+    6.88,
+    8.13,
+    9.39,
+    10.64,
+    11.89,
+    13.14,
+    14.39,
+    15.64,
+    16.89,
+    18.15,
+    19.4
+  ]
+}
