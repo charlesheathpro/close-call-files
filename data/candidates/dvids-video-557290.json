@@ -1,0 +1,99 @@
+{
+  "asset_id": "video:557290",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Maria rescue",
+  "title": "Hurricane Maria: SBA and Financial Assistance",
+  "description": "The U.S. Small Business Administration provides financial assistance to those effected by Hurricane Maria, Oct. 10, 2017, San Juan, Puerto Rico. The Federal Emergency Management Agency and its federal partners continue 24-hour operations to conduct life-saving rescue and medical missions. (US Air Force video by Airman 1st Class Franklin Harris)",
+  "keywords": "FEMA, Maria, 1CTCS, 1st Combat Camera Squadron, Hurricane Maria, VIPR, Virgin Islands Puerto Rico, COMCAM",
+  "date": "2017-10-10T00:00:00-04:00",
+  "date_published": "2017-10-10T16:10:37-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Airman 1st Class Franklin Harris",
+  "category": "B-Roll",
+  "virin": "171010-F-FF859-5001",
+  "location": {
+    "city": "",
+    "state": "Puerto Rico",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/557290/hurricane-maria-sba-and-financial-assistance",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-557290",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:37:33Z",
+  "duration": 37.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104943721/DOD_104943721.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10144,
+    "size": 47776328
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.37,
+      "e": 6.37,
+      "text": "You guys know it."
+    },
+    {
+      "s": 27.04,
+      "e": 32.92,
+      "text": "See where you should play."
+    },
+    {
+      "s": 33.62,
+      "e": 35.12,
+      "text": "Tell us what you mean."
+    },
+    {
+      "s": 35.12,
+      "e": 37.36,
+      "text": "The stage, the stage, no, no, no, no."
+    }
+  ],
+  "scene_cuts": [
+    3.5,
+    7.67,
+    10.71,
+    13.71,
+    17.08,
+    20.62,
+    23.62,
+    26.13,
+    28.93,
+    31.23,
+    34.1
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-557290.jpg",
+  "sheet_times": [
+    1.15,
+    3.44,
+    5.73,
+    8.03,
+    10.32,
+    12.61,
+    14.91,
+    17.2,
+    19.5,
+    21.79,
+    24.08,
+    26.38,
+    28.67,
+    30.96,
+    33.26,
+    35.55
+  ]
+}
