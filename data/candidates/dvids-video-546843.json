@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:546843",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "CBP Air and Marine Swift Water Rescue",
+  "description": "U.S. Customs and Border Protection Air and Marine Operations rescues victim in Hurricane Harvey flooding.",
+  "keywords": "Customs and Border Protection, Hurricane Harvey, cbpharvey",
+  "date": "2017-08-29T00:00:00-04:00",
+  "date_published": "2017-08-30T11:33:53-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Carmen Castro",
+  "category": "B-Roll",
+  "virin": "170830-A-CC123-002-CC",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546843/cbp-air-and-marine-swift-water-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 1.001,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546843",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:52:19Z",
+  "duration": 28.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104781993/DOD_104781993.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 8411,
+    "size": 30384842
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.0,
+    27.43
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      27.5
+    ],
+    "silence_ends": [
+      1.1,
+      28.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546843.jpg",
+  "sheet_times": [
+    1.84,
+    3.53,
+    5.21,
+    6.9,
+    8.59,
+    10.27,
+    11.96,
+    13.64,
+    15.33,
+    17.01,
+    18.7,
+    20.38,
+    22.07,
+    23.75,
+    25.44,
+    27.13
+  ]
+}
