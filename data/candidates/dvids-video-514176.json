@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:514176",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "CBP Helicopter Used to Rescue Hiker",
+  "description": "A hiker who fell into medical distress was rescued by a U.S. Customs and Border Protection Air and Marine Operations helicopter in the Santa Catalina Mountains near Tucson, AZ on March 13, 2017.",
+  "keywords": "helicopter rescue, Customs and Border Protection, Air and Marine Operations",
+  "date": "2017-03-13T00:00:00-04:00",
+  "date_published": "2017-03-15T14:43:22-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Carmen Castro",
+  "category": "B-Roll",
+  "virin": "170315-A-CC123-001-CC",
+  "location": {
+    "city": "",
+    "state": "Arizona",
+    "country": "United States",
+    "state_abbreviation": "AZ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/514176/cbp-helicopter-used-rescue-hiker",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 6.32763,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-514176",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:40:25Z",
+  "duration": 123.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104165679/DOD_104165679.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8910,
+    "size": 139956788
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.31,
+    15.15,
+    18.55,
+    26.59,
+    33.9,
+    41.21,
+    46.91,
+    49.95,
+    61.8,
+    68.6,
+    77.68,
+    86.02,
+    93.53,
+    103.5,
+    106.97,
+    111.91
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-514176.jpg",
+  "sheet_times": [
+    9.98,
+    17.29,
+    24.61,
+    31.92,
+    39.23,
+    46.54,
+    53.85,
+    61.16,
+    68.47,
+    75.79,
+    83.1,
+    90.41,
+    97.72,
+    105.03,
+    112.34,
+    119.65
+  ]
+}

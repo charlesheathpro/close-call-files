@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:554375",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "CBP Search and Rescue in Puerto Rico",
+  "description": "U.S. Customs and Border Protection Air and Marine Operations UH-60 Black Hawk crews continue to conduct search and rescue operations over Puerto Rico. Many areas in Puerto Rico continue to be inaccessible by vehicle and can only accessed via helicopter. In addition to search and rescue AMO is assisting by inserting law enforcement teams around the island into some areas which are currently cut off from the main roads and only accessible by foot.",
+  "keywords": "Customs and Border Protection, Air and Marine Operations, Hurricane Maria, cbpmaria",
+  "date": "2017-09-27T00:00:00-04:00",
+  "date_published": "2017-09-28T10:26:05-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Kris Grogan",
+  "category": "B-Roll",
+  "virin": "170928-A-CC123-001-CC",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/554375/cbp-search-and-rescue-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.9039,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-554375",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:41:04Z",
+  "duration": 64.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104904362/DOD_104904362.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8902,
+    "size": 72877274
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.9,
+    12.71,
+    17.72,
+    22.72,
+    27.76,
+    32.8,
+    51.45,
+    63.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      63.6
+    ],
+    "silence_ends": [
+      3.9,
+      64.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-554375.jpg",
+  "sheet_times": [
+    5.78,
+    9.55,
+    13.31,
+    17.07,
+    20.83,
+    24.59,
+    28.35,
+    32.11,
+    35.87,
+    39.63,
+    43.39,
+    47.15,
+    50.91,
+    54.67,
+    58.43,
+    62.2
+  ]
+}

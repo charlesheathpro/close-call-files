@@ -1,0 +1,157 @@
+{
+  "asset_id": "video:566561",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "DME 17 Water Rescue - Broll",
+  "description": "Broll of a water rescue demonstration by USCG during US-China Disaster Management Exchange 17 at Camp Rilea, OR",
+  "keywords": "DME 17, US-China Disaster Management Exchange 17, Water rescue, USCG",
+  "date": "2017-11-16T00:00:00-05:00",
+  "date_published": "2017-11-18T21:57:33-05:00",
+  "branch": "Joint",
+  "unit_name": "AFN Pacific",
+  "credit": "Senior Airman Dhruv Gopinath",
+  "category": "B-Roll",
+  "virin": "171116-F-TO545-700",
+  "location": {
+    "city": "Camp Rilea",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/566561/dme-17-water-rescue-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-566561",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:40:58Z",
+  "duration": 498.94,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105092324/DOD_105092324.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8935,
+    "size": 565769414
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 483.28,
+      "e": 484.28,
+      "text": "Fixers all around."
+    },
+    {
+      "s": 484.28,
+      "e": 485.28,
+      "text": "Okay, take over."
+    },
+    {
+      "s": 485.28,
+      "e": 486.28,
+      "text": "It's cool."
+    },
+    {
+      "s": 486.28,
+      "e": 487.28,
+      "text": "Yeah, it's cool a bit."
+    },
+    {
+      "s": 487.28,
+      "e": 488.28,
+      "text": "Yeah."
+    },
+    {
+      "s": 488.28,
+      "e": 489.28,
+      "text": "It's getting cold."
+    },
+    {
+      "s": 489.28,
+      "e": 490.28,
+      "text": "Winter's coming."
+    },
+    {
+      "s": 490.28,
+      "e": 491.28,
+      "text": "It's getting a little cold."
+    },
+    {
+      "s": 491.28,
+      "e": 492.28,
+      "text": "Okay."
+    },
+    {
+      "s": 492.28,
+      "e": 493.28,
+      "text": "Right off."
+    },
+    {
+      "s": 493.28,
+      "e": 494.28,
+      "text": "One, two, three."
+    },
+    {
+      "s": 494.28,
+      "e": 495.28,
+      "text": "Okay."
+    },
+    {
+      "s": 495.28,
+      "e": 498.28,
+      "text": "Are you cool?"
+    },
+    {
+      "s": 498.28,
+      "e": 501.28,
+      "text": "It's cool."
+    }
+  ],
+  "scene_cuts": [
+    8.54,
+    37.97,
+    53.92,
+    111.85,
+    115.28,
+    239.87,
+    294.56,
+    429.3,
+    451.15
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      477.0,
+      479.0,
+      494.6,
+      495.9
+    ],
+    "silence_ends": [
+      477.7,
+      480.5,
+      495.9,
+      496.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-566561.jpg",
+  "sheet_times": [
+    15.58,
+    46.73,
+    77.88,
+    109.03,
+    140.19,
+    171.34,
+    202.49,
+    233.65,
+    264.8,
+    295.95,
+    327.1,
+    358.26,
+    389.41,
+    420.56,
+    451.71,
+    482.87
+  ]
+}
