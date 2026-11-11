@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-812666",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:26:22Z",
   "duration": 90.0,
   "source_file": {
@@ -66,5 +66,6 @@
     75.52,
     81.11,
     86.7
-  ]
+  ],
+  "pass_reason": "QA 16Z: distant surveillance-cam specks in letterboxed haze; the drowning man and agents are never readable"
 }
