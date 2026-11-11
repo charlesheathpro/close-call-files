@@ -1,0 +1,82 @@
+{
+  "asset_id": "nasa:Marshall Test Stand B-roll",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "Marshall Test Stand B-roll",
+  "description": "Video includes historic footage of NASA’s Marshall Space Flight Center. Marshall played a role in all NASA’s human spaceflight programs to date including the Saturn V that sent the Apollo missions to the Moon. Today, Marshall is playing a key role in developing hardware for NASA’s Space Launch System that will send humans to the Moon on the Artemis missions in preparation for even longer missions to Mars. For more information: https://www.nasa.gov/centers/marshall",
+  "keywords": "NASA, Marshall, Test stand, Saturn V, Apollo, F-1, Marshall Space Flight Center",
+  "date": "2019-07-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/Marshall%20Test%20Stand%20B-roll",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Marshall-Test-Stand-B-roll",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:19:34Z",
+  "duration": 132.73,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Marshall%20Test%20Stand%20B-roll/Marshall%20Test%20Stand%20B-roll~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 132.733333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 1.0,
+      "text": "No Captioning Avaiable at this time."
+    }
+  ],
+  "scene_cuts": [
+    11.5,
+    17.77,
+    22.4,
+    26.03,
+    40.9,
+    50.77,
+    56.2,
+    60.1,
+    66.1,
+    74.1,
+    89.17,
+    107.97,
+    122.23,
+    132.23
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      74.1
+    ],
+    "silence_ends": [
+      41.6,
+      132.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-Marshall-Test-Stand-B-roll.jpg",
+  "sheet_times": [
+    4.13,
+    12.4,
+    20.66,
+    28.93,
+    37.19,
+    45.46,
+    53.72,
+    61.98,
+    70.25,
+    78.51,
+    86.78,
+    95.04,
+    103.31,
+    111.57,
+    119.84,
+    128.1
+  ]
+}

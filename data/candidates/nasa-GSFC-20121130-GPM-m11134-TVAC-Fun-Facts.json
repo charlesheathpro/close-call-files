@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:GSFC_20121130_GPM_m11134_TVAC_Fun_Facts",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "GPM Enters SES Testing",
+  "description": "Short musical interlude showing the lifting of the GPM Core satellite into the Space Environmental Simulator for testing.",
+  "keywords": "GPM, Simulation, Testing, Earth",
+  "date": "2012-11-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20121130_GPM_m11134_TVAC_Fun_Facts",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20121130-GPM-m11134-TVAC-Fun-Facts",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:20:05Z",
+  "duration": 82.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20121130_GPM_m11134_TVAC_Fun_Facts/GSFC_20121130_GPM_m11134_TVAC_Fun_Facts~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 82.615867
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.13,
+    20.43,
+    24.47,
+    28.63,
+    33.97,
+    40.13,
+    49.67,
+    52.5,
+    55.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      70.0,
+      78.7
+    ],
+    "silence_ends": [
+      71.1,
+      82.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20121130-GPM-m11134-TVAC-Fun-Facts.jpg",
+  "sheet_times": [
+    2.57,
+    7.7,
+    12.83,
+    17.96,
+    23.09,
+    28.22,
+    33.35,
+    38.49,
+    43.62,
+    48.75,
+    53.88,
+    59.01,
+    64.14,
+    69.27,
+    74.4,
+    79.54
+  ]
+}
