@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:547138",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Evacuation in High Water Rescue Vehicles",
+  "description": "The 36th Sustainment Brigade, Army National Guard, and Texas Task Force 1 respond to 211 calls for evacuation in high water rescue vehicles, in Sugarland, Texas.",
+  "keywords": "Harvey, Hurricane Harvey, National Guard, Texas",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-08-31T10:20:44-04:00",
+  "branch": "Air Force",
+  "unit_name": "149th Fighter Wing (Texas Air National Guard)",
+  "credit": "Staff Sgt. Agustin Salazar",
+  "category": "B-Roll",
+  "virin": "170830-Z-CP585-002",
+  "location": {
+    "city": "Sugarland",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547138/evacuation-high-water-rescue-vehicles",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547138",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:44:18Z",
+  "duration": 34.71,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104787529/DOD_104787529.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 7924,
+    "size": 34891246
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 26.64,
+      "e": 28.64,
+      "text": "Get that street."
+    },
+    {
+      "s": 28.64,
+      "e": 32.53,
+      "text": "Somebody up here, bring it back."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    15.65,
+    19.52,
+    24.16,
+    29.3,
+    33.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      33.8
+    ],
+    "silence_ends": [
+      4.0,
+      34.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547138.jpg",
+  "sheet_times": [
+    4.95,
+    6.84,
+    8.72,
+    10.61,
+    12.5,
+    14.39,
+    16.27,
+    18.16,
+    20.05,
+    21.94,
+    23.83,
+    25.71,
+    27.6,
+    29.49,
+    31.38,
+    33.27
+  ]
+}

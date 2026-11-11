@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:884974",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Astral Knight 2023 sea rescue",
+  "description": "Croatian Armed Forces partnered with U.S., Romanian, Albanian, Estonian, Latvian and Lithuanian Armed Forces during Astral Knight 2023, a Combined Joint All-Domain Command and Control and personnel recovery exercise.",
+  "keywords": "allies, partner nation, Astral Knight 2023, AIr Force, rescue",
+  "date": "2023-05-22T00:00:00-04:00",
+  "date_published": "2023-05-30T06:38:05-04:00",
+  "branch": "Air Force",
+  "unit_name": "355th Wing",
+  "credit": "Tech. Sgt. Sergio Gamboa",
+  "category": "Package",
+  "virin": "230522-F-IH072-1917",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Croatia",
+    "state_abbreviation": null,
+    "country_abbreviation": "HR"
+  },
+  "page_url": "https://www.dvidshub.net/video/884974/astral-knight-2023-sea-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-884974",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:44:23Z",
+  "duration": 67.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109667037/DOD_109667037.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 76786990
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.93,
+    6.93,
+    8.57,
+    10.07,
+    11.77,
+    13.03,
+    14.5,
+    17.43,
+    19.37,
+    22.13,
+    23.8,
+    25.83,
+    30.63,
+    33.7,
+    46.57,
+    48.63,
+    50.8,
+    53.77,
+    60.1,
+    64.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      65.5
+    ],
+    "silence_ends": [
+      0.7,
+      67.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-884974.jpg",
+  "sheet_times": [
+    2.08,
+    6.25,
+    10.42,
+    14.59,
+    18.76,
+    22.93,
+    27.1,
+    31.27,
+    35.43,
+    39.6,
+    43.77,
+    47.94,
+    52.11,
+    56.28,
+    60.45,
+    64.62
+  ]
+}
