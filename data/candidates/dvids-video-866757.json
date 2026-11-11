@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:866757",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Search and Rescue B-Roll",
+  "description": "B-Roll of the 40th Helicopter squadron during a search and rescue exercise near Malmstrom Air Force Base, Mont., and captured May 24, 2022. (U.S. Air Force video by Beau Wade)",
+  "keywords": "Malmstrom, 40th Helicopter Squadron, 351st Missile Wing, SAR, search and rescue",
+  "date": "2022-05-24T00:00:00-04:00",
+  "date_published": "2022-12-05T18:06:29-05:00",
+  "branch": "Air Force",
+  "unit_name": "341st Missile Wing",
+  "credit": "Beau Wade",
+  "category": "B-Roll",
+  "virin": "220524-F-Gl494-0001",
+  "location": {
+    "city": "",
+    "state": "Montana",
+    "country": "United States",
+    "state_abbreviation": "MT",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/866757/search-and-rescue-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-866757",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:34:17Z",
+  "duration": 60.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2211/DOD_109355377/DOD_109355377.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 76016993
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.22,
+    9.24,
+    15.47,
+    24.16,
+    34.1,
+    39.09,
+    51.92
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      18.6,
+      19.3
+    ],
+    "silence_ends": [
+      19.3,
+      20.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-866757.jpg",
+  "sheet_times": [
+    1.89,
+    5.66,
+    9.43,
+    13.21,
+    16.98,
+    20.75,
+    24.53,
+    28.3,
+    32.08,
+    35.85,
+    39.62,
+    43.4,
+    47.17,
+    50.94,
+    54.72,
+    58.49
+  ]
+}
