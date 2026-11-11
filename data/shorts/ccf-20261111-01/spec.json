@@ -4,25 +4,25 @@
   "lane": "rescue",
   "story_type": "crab boat sinks at night, two men in a life raft, infrared, helicopter hoists",
   "music_mood": "night",
-  "hook": "A crab boat going under at night. Two men in a raft.",
+  "hook": "Their crab boat sank in the dark. This raft is what was left.",
   "narration": [
-    "This forty six foot crab boat was going under, at night, off the Washington coast.",
-    "It went down near Willapa Bay, on a February evening.",
+    "This life raft was all that was left of a forty six foot crab boat.",
+    "The boat sank near Willapa Bay, Washington, on a February night.",
     "At about seven thirty, its emergency beacon started transmitting.",
     "A Coast Guard Jayhawk crew from Astoria was overhead about forty minutes later.",
-    "Its infrared camera sees heat, so people in the cold water glow white against the sea.",
-    "Two men had made it into a life raft.",
-    "A rescue swimmer rode the cable down and brought them up one at a time.",
+    "Its infrared camera sees heat, so warm bodies glow white against the cold sea.",
+    "The crew lowered a rescue swimmer on the hoist cable.",
+    "He reached the first man and rode the cable up with him.",
     "[short pause] Then he went back down for the second man."
   ],
-  "outcome": "The Jayhawk crew hoisted both men from the raft. A third crewman was never found, and the search was suspended.",
+  "outcome": "Both men were hoisted aboard the Jayhawk. The search for a third man was suspended the next evening.",
   "location_card": {
     "place": "Willapa Bay, Washington",
     "date": "Feb. 5, 2023"
   },
   "keep_source_audio": true,
   "title": "Crab boat sank at night off Washington",
-  "description": "A 46-foot crabbing vessel sank near Willapa Bay, Washington, on Feb. 5, 2023. A Coast Guard MH-60 Jayhawk crew from Air Station Astoria hoisted two men from a life raft; a third crewman was not found.\n\nFootage: U.S. Coast Guard video by Petty Officer 2nd Class Steven Strohmaier, U.S. Coast Guard Northwest, via DVIDS: https://www.dvidshub.net/video/872568/coast-guard-rescues-two-men-near-willapa-bay\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #fishing",
+  "description": "A 46-foot crabbing vessel sank near Willapa Bay, Washington, on Feb. 5, 2023. A Coast Guard MH-60 Jayhawk crew from Air Station Astoria hoisted two men from a life raft; the search for a third man was suspended the next day.\n\nFootage: U.S. Coast Guard video by Petty Officer 2nd Class Steven Strohmaier, U.S. Coast Guard Northwest, via DVIDS: https://www.dvidshub.net/video/872568/coast-guard-rescues-two-men-near-willapa-bay\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #fishing",
   "tags": [
     "coast guard rescue",
     "crab boat sinking",
@@ -55,6 +55,10 @@
     {
       "claim": "Search for the missing man suspended",
       "source_quote": "suspended search efforts at 5:30 p.m. Monday evening for a missing man in Willapa Bay, Washington."
+    },
+    {
+      "claim": "Swimmer deployed by harness on the hoist",
+      "source_quote": "ready for a harness deployment of the rescue somewhere to the survivors."
     }
   ],
   "extra_sources": [
@@ -72,26 +76,20 @@
     }
   ],
   "priority": 2,
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
-        "start": 27.0,
-        "end": 29.5,
+        "start": 16.2,
+        "end": 18.7,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       },
       {
-        "start": 30.4,
-        "end": 32.6,
+        "start": 18.7,
+        "end": 21.2,
         "layout": "crop",
-        "crop_x": 0.82
-      },
-      {
-        "start": 32.6,
-        "end": 34.6,
-        "layout": "crop",
-        "crop_x": 0.85
+        "crop_x": 0.5
       }
     ],
     [
@@ -110,44 +108,30 @@
     ],
     [
       {
-        "start": 16.2,
-        "end": 18.7,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
-        "start": 18.7,
-        "end": 21.2,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 5.0,
-        "end": 7.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
         "start": 21.2,
         "end": 23.7,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 27.0,
+        "end": 29.5,
         "layout": "crop",
         "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 35.4,
-        "end": 37.6,
+        "start": 30.4,
+        "end": 32.6,
         "layout": "crop",
-        "crop_x": 0.2
+        "crop_x": 0.82
       },
       {
-        "start": 37.6,
-        "end": 40.0,
+        "start": 32.6,
+        "end": 34.6,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.7
       }
     ],
     [
@@ -166,8 +150,22 @@
     ],
     [
       {
-        "start": 45.5,
-        "end": 48.0,
+        "start": 2.8,
+        "end": 5.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 45.0,
+        "end": 47.2,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -186,16 +184,16 @@
     ],
     [
       {
-        "start": 65.0,
-        "end": 67.5,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
         "start": 70.0,
         "end": 72.5,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.35
+      },
+      {
+        "start": 77.3,
+        "end": 79.6,
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -206,18 +204,18 @@
         "crop_x": 0.5
       },
       {
-        "start": 88.5,
-        "end": 91.0,
+        "start": 89.3,
+        "end": 91.5,
         "layout": "crop",
         "crop_x": 0.6
       },
       {
-        "start": 24.2,
-        "end": 26.7,
+        "start": 23.8,
+        "end": 26.0,
         "layout": "crop",
         "crop_x": 0.55
       }
     ]
   ],
-  "preview_ok": "Single-colour white-hot infrared over grey sea: the sinking hull, the strobe-lit raft and the swimmer are in frame in every flagged shot (checked at full size); EMPTY misfires on the flat grey."
+  "preview_ok": "Flat grey white-hot infrared: EMPTY misfires on the uniform sea. Raft, swimmer and survivors checked in frame on every flagged shot at full size (rev 2)."
 }
