@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:627589",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "101st Sustainment high water rescue",
+  "description": "101st Sustainment Brigade and North Carolina National Guard traveling on high water rescue missions. (B-ROLL package by 7th Mobile Public Affairs Detachment)",
+  "keywords": "hurricaneflorence, armyhurricaneresponse, armyhurricaneflorence, HUREVAC2018",
+  "date": "2018-09-19T00:00:00-04:00",
+  "date_published": "2018-09-20T12:59:29-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army North",
+  "credit": "Joshua Ford",
+  "category": "B-Roll",
+  "virin": "180919-O-FF589-614",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/627589/101st-sustainment-high-water-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-627589",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:39:36Z",
+  "duration": 87.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106050115/DOD_106050115.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8989,
+    "size": 99205560
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    22.92,
+    37.6,
+    54.89,
+    62.73,
+    78.81
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-627589.jpg",
+  "sheet_times": [
+    6.58,
+    11.74,
+    16.9,
+    22.06,
+    27.21,
+    32.37,
+    37.53,
+    42.69,
+    47.84,
+    53.0,
+    58.16,
+    63.32,
+    68.48,
+    73.63,
+    78.79,
+    83.95
+  ]
+}

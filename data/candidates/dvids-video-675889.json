@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:675889",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Swift-Water Rescue B-roll",
+  "description": "U.S. Marine mountain warfare instructors participate in a swift-water rescue course at Marine Corps Mountain Warfare Training Center, Bridgeport, Calif., April 19, 2019. The training provided mountain warfare instructors with the skills needed to rescue other service members in fast moving water. (U.S. Marine Corps video by Pfc. Cedar Barnes)",
+  "keywords": "Mountain Warfare, MWTC, SWIFTWATER RESCUE, training, Marine Corps, Bridgeport",
+  "date": "2019-04-19T00:00:00-04:00",
+  "date_published": "2019-04-30T13:28:11-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Ground Combat Center",
+  "credit": "Pfc. Cedar Barnes",
+  "category": "B-Roll",
+  "virin": "190419-M-NR281-1001",
+  "location": {
+    "city": "Marine Corps Mountain Warfare Training Center Bridgeport",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/675889/swift-water-rescue-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-675889",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:39:08Z",
+  "duration": 401.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1904/DOD_106686769/DOD_106686769-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6225,
+    "size": 314577896
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    12.51,
+    20.23,
+    37.7,
+    77.49,
+    82.17,
+    89.13,
+    94.64,
+    104.94,
+    179.51,
+    364.66,
+    388.43,
+    393.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      401.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-675889.jpg",
+  "sheet_times": [
+    12.54,
+    37.61,
+    62.68,
+    87.75,
+    112.83,
+    137.9,
+    162.97,
+    188.04,
+    213.12,
+    238.19,
+    263.26,
+    288.33,
+    313.41,
+    338.48,
+    363.55,
+    388.62
+  ]
+}

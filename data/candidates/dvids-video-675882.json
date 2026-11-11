@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:675882",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Swift-Water Rescue B-roll",
+  "description": "U.S. Marine mountain warfare instructors participate in a swift-water rescue course at Marine Corps Mountain Warfare Training Center, Bridgeport, Calif., April 19, 2019. The training provided mountain warfare instructors with the skills needed to rescue other service members in fast moving water. (U.S. Marine Corps video by Cpl. Conner Downey)",
+  "keywords": "Mountain Warfare, MWTC, SWIFTWATER RESCUE, training, Marine Corps, Bridgeport",
+  "date": "2019-04-19T00:00:00-04:00",
+  "date_published": "2019-04-30T13:25:49-04:00",
+  "branch": "Marines",
+  "unit_name": "Marine Corps Air Ground Combat Center",
+  "credit": "Cpl. Conner Downey",
+  "category": "B-Roll",
+  "virin": "190419-M-GG711-2001",
+  "location": {
+    "city": "Marine Corps Mountain Warfare Training Center Bridgeport",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/675882/swift-water-rescue-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-675882",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:39:17Z",
+  "duration": 164.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1904/DOD_106686726/DOD_106686726-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6272,
+    "size": 131144097
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.46,
+    30.49,
+    51.34,
+    57.18,
+    97.22,
+    108.78,
+    117.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      164.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-675882.jpg",
+  "sheet_times": [
+    5.13,
+    15.38,
+    25.63,
+    35.88,
+    46.13,
+    56.38,
+    66.63,
+    76.88,
+    87.13,
+    97.38,
+    107.63,
+    117.88,
+    128.13,
+    138.38,
+    148.63,
+    158.88
+  ]
+}
