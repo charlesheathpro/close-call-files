@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:627583",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "101st Sustainment conducts high water rescue",
+  "description": "101st Sustainment Brigade and North Carolina National Guard traveling on high water rescue missions. (B-ROLL package by 7th Mobile Public Affairs Detachment)",
+  "keywords": "hurricaneflorence, armyhurricaneresponse, armyhurricaneflorence, HUREVAC2018",
+  "date": "2018-09-19T00:00:00-04:00",
+  "date_published": "2018-09-20T12:50:07-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army North",
+  "credit": "Joshua Ford",
+  "category": "B-Roll",
+  "virin": "180919-O-FF589-150",
+  "location": {
+    "city": "",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/627583/101st-sustainment-conducts-high-water-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-627583",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:29:00Z",
+  "duration": 136.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1809/DOD_106049986/DOD_106049986.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8872,
+    "size": 153813980
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    17.68,
+    22.22,
+    41.37,
+    58.53,
+    65.93,
+    90.72,
+    99.17,
+    111.24,
+    121.65
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      22.2,
+      121.6
+    ],
+    "silence_ends": [
+      4.1,
+      65.9,
+      136.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-627583.jpg",
+  "sheet_times": [
+    8.13,
+    16.39,
+    24.65,
+    32.91,
+    41.17,
+    49.43,
+    57.68,
+    65.94,
+    74.2,
+    82.46,
+    90.72,
+    98.98,
+    107.24,
+    115.49,
+    123.75,
+    132.01
+  ]
+}

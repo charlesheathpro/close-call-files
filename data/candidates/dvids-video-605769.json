@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:605769",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "CBP AIR AND MARINE RESCUE IN TUCSON, AZ",
+  "description": "06-06-18\r\nCBP Air and Marine Operations conducts a rescue operation in the Arizona / Sonoran Desert southwest of Tucson, Arizona",
+  "keywords": "Customs and Border Protection, border patrol, USCBP, AMO, Tucson",
+  "date": "2018-06-06T00:00:00-04:00",
+  "date_published": "2018-06-07T15:54:50-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Lu Maheda",
+  "category": "B-Roll",
+  "virin": "180524-H-BP489-029",
+  "location": {
+    "city": "TUCSON",
+    "state": "Arizona",
+    "country": "United States",
+    "state_abbreviation": "AZ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/605769/cbp-air-and-marine-rescue-tucson-az",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 10.01,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-605769",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:29:05Z",
+  "duration": 54.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1806/DOD_105715371/DOD_105715371-1920x1080-6221k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 6132,
+    "size": 43064259
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.97,
+    10.01,
+    31.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-605769.jpg",
+  "sheet_times": [
+    11.4,
+    14.17,
+    16.95,
+    19.73,
+    22.5,
+    25.28,
+    28.06,
+    30.83,
+    33.61,
+    36.39,
+    39.16,
+    41.94,
+    44.72,
+    47.49,
+    50.27,
+    53.04
+  ]
+}

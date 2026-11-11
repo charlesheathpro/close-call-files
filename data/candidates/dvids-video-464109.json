@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:464109",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard Rescues Three Fisherman from Coronado Islands",
+  "description": "A Coast Guard Sector San Diego MH-60 Jayhawk helicopter crew rescues three fishermen after their boat capsized near the Coronado Islands, in Mexico, May 16, 2016. All three fishermen were safely hoisted and transported without any injuries. Coast Guard video by Petty Officer 1st Class Rob Simpson/released.",
+  "keywords": "MH-60, coronado, Centennial, panga, SEMAR, COAST GUARD AVIATION",
+  "date": "2016-05-16T00:00:00-04:00",
+  "date_published": "2016-05-17T12:55:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Petty Officer 1st Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "160517-G-GV559-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/464109/coast-guard-rescues-three-fisherman-coronado-islands",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-464109",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:28:03Z",
+  "duration": 263.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103310115/DOD_103310115.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8731,
+    "size": 287465605
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    15.92,
+    16.68,
+    19.99,
+    20.69,
+    31.6,
+    52.32,
+    72.34,
+    88.29,
+    88.89,
+    123.99,
+    204.8,
+    205.31,
+    256.46
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      263.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-464109.jpg",
+  "sheet_times": [
+    12.1,
+    28.26,
+    44.42,
+    60.58,
+    76.74,
+    92.9,
+    109.06,
+    125.21,
+    141.37,
+    157.53,
+    173.69,
+    189.85,
+    206.01,
+    222.16,
+    238.32,
+    254.48
+  ]
+}
