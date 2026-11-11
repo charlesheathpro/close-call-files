@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:545792",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey b-roll",
+  "description": "B-roll of Hurricane Harvey (U.S. Air Force video/Staff Sgt. Heather Heiney)",
+  "keywords": "AFRC, Keesler Air Force Base, USAF, U.S. Air Force Reserve, 53rd Weather Reconnaissance Squadron, 403rd Wing, USAF Reserve, WC-130J Super Hercules, Hurricane Harvey, DoD Hurricane Relief, AIr Force, Airmen, Hurricane, Hurricane Hunters",
+  "date": "2017-08-24T00:00:00-04:00",
+  "date_published": "2017-08-25T09:37:41-04:00",
+  "branch": "Air Force",
+  "unit_name": "403rd Wing",
+  "credit": "Staff Sgt. Heather Heiney",
+  "category": "B-Roll",
+  "virin": "170824-F-VZ090-213",
+  "location": {
+    "city": "Keesler Air Force Base",
+    "state": "Mississippi",
+    "country": "United States",
+    "state_abbreviation": "MS",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/545792/hurricane-harvey-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-545792",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:47:48Z",
+  "duration": 115.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104762360/DOD_104762360.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9089,
+    "size": 133262973
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    40.51,
+    51.58,
+    70.2,
+    81.51,
+    90.52,
+    101.23
+  ],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-545792.jpg",
+  "sheet_times": [
+    3.6,
+    10.79,
+    17.98,
+    25.17,
+    32.36,
+    39.55,
+    46.74,
+    53.94,
+    61.13,
+    68.32,
+    75.51,
+    82.7,
+    89.89,
+    97.08,
+    104.28,
+    111.47
+  ]
+}

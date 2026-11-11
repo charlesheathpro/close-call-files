@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:557297",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey b-roll",
+  "description": "Footage captured from the 241st MPAD in New Orleans, Louisiana during Hurricane Harvey.",
+  "keywords": "Hurricane Harvey texas lang louisiana national guard",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-10-10T17:47:23-04:00",
+  "branch": "Joint",
+  "unit_name": "Louisiana National Guard",
+  "credit": "Staff Sgt. Josiah Pugh",
+  "category": "B-Roll",
+  "virin": "170830-Z-PF319-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/557297/hurricane-harvey-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-557297",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:47:29Z",
+  "duration": 40.51,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104943893/DOD_104943893.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10048,
+    "size": 51578985
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.08,
+    20.25,
+    26.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-557297.jpg",
+  "sheet_times": [
+    1.25,
+    3.75,
+    6.25,
+    8.75,
+    11.25,
+    13.75,
+    16.25,
+    18.76,
+    21.26,
+    23.76,
+    26.26,
+    28.76,
+    31.26,
+    33.76,
+    36.26,
+    38.76
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:550273",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Irma and Harvey Relief",
+  "description": "Nellis Air Force Base sent hurricane relief efforts to support Hurricane Irma, and Hurricane Harvey over the last two weeks.",
+  "keywords": "response, Harvey, Nellis Air Force Base, AMC, natural disaster, Hurricane Harvey, Hurricane Irma, Irma, Florida, support, Hurricane, military, Travis Air Force Base, C5",
+  "date": "2017-09-03T00:00:00-04:00",
+  "date_published": "2017-09-11T21:29:38-04:00",
+  "branch": "Air Force",
+  "unit_name": "Nellis Air Force Base",
+  "credit": "Airman 1st Class Stephanie Gelardo, Tech. Sgt. Anthony Kuhn",
+  "category": "B-Roll",
+  "virin": "170903-F-IZ506-001",
+  "location": {
+    "city": "Nellis Air Force Base",
+    "state": "Nevada",
+    "country": "United States",
+    "state_abbreviation": "NV",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/550273/hurricane-irma-and-harvey-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-550273",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:47:54Z",
+  "duration": 198.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104826907/DOD_104826907.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 251158239
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.5,
+    9.14,
+    87.45,
+    95.3,
+    173.71
+  ],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      9.2,
+      57.0,
+      66.0,
+      69.4
+    ],
+    "silence_ends": [
+      11.0,
+      65.9,
+      69.4,
+      76.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-550273.jpg",
+  "sheet_times": [
+    6.18,
+    18.53,
+    30.89,
+    43.25,
+    55.6,
+    67.96,
+    80.32,
+    92.67,
+    105.03,
+    117.39,
+    129.74,
+    142.1,
+    154.46,
+    166.81,
+    179.17,
+    191.53
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:546590",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey aftermath in Rockport, Texas.",
+  "description": "B-Roll footage of Hurricane Harvey aftermath in Rockport, Texas.(U.S. National Guard Video by John Thibodeau).",
+  "keywords": "Texas Military Department",
+  "date": "2017-08-28T00:00:00-04:00",
+  "date_published": "2017-08-29T14:47:57-04:00",
+  "branch": "Joint",
+  "unit_name": "Texas Military Department",
+  "credit": "John Thibodeau",
+  "category": "B-Roll",
+  "virin": "170829-F-XP687-004",
+  "location": {
+    "city": "Rockport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546590/hurricane-harvey-aftermath-rockport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546590",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:48:13Z",
+  "duration": 833.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104777714/DOD_104777714.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9212,
+    "size": 974421293
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 812.75,
+      "e": 813.75,
+      "text": "Oh, you have distance."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-546590.jpg",
+  "sheet_times": [
+    26.04,
+    78.12,
+    130.21,
+    182.29,
+    234.37,
+    286.45,
+    338.53,
+    390.62,
+    442.7,
+    494.78,
+    546.86,
+    598.94,
+    651.03,
+    703.11,
+    755.19,
+    807.27
+  ]
+}
