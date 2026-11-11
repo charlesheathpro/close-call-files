@@ -1,0 +1,87 @@
+{
+  "asset_id": "video:577563",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey",
+  "description": "U.S. Marine Corps help the victims of hurricane Harvey. Marines called in to help support the victims who suffered from the natural disaster. (U.S. Marine video by Cpl. Christopher Varnell). For a descriptive transcript text document of this production, contact Kim Hardison at kimberly.hardison@usmc.mil.",
+  "keywords": "News, Harvey, HQMC, Support and Relief, humanitarian, USMC",
+  "date": "2017-09-06T00:00:00-04:00",
+  "date_published": "2017-12-29T09:53:15-05:00",
+  "branch": "Marines",
+  "unit_name": "Communication Directorate",
+  "credit": "Sgt. Christopher Varnell",
+  "category": "Package",
+  "virin": "170906-M-UT447-0001",
+  "location": {
+    "city": "D.C.",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/577563/hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-577563",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:45:12Z",
+  "duration": 44.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105212859/DOD_105212859.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9053,
+    "size": 51554839
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.69,
+      "e": 3.02,
+      "text": "(solemn music)"
+    },
+    {
+      "s": 0.69,
+      "e": 3.02,
+      "text": "(solemn music)"
+    }
+  ],
+  "scene_cuts": [
+    14.68,
+    19.22,
+    22.99,
+    27.96,
+    33.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      43.9
+    ],
+    "silence_ends": [
+      44.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-577563.jpg",
+  "sheet_times": [
+    1.39,
+    4.16,
+    6.94,
+    9.71,
+    12.48,
+    15.26,
+    18.03,
+    20.81,
+    23.58,
+    26.35,
+    29.13,
+    31.9,
+    34.68,
+    37.45,
+    40.22,
+    43.0
+  ]
+}

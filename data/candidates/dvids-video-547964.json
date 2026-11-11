@@ -1,0 +1,97 @@
+{
+  "asset_id": "video:547964",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey Relief",
+  "description": "Service members and members of the Red Cross Association worked together to restock supplies for delivery around Texas.",
+  "keywords": "arnorth, #HurricaneHarvey, harvey2017, texasstrong",
+  "date": "2017-09-03T00:00:00-04:00",
+  "date_published": "2017-09-03T18:31:21-04:00",
+  "branch": "Army",
+  "unit_name": "22nd Mobile Public Affairs Detachment",
+  "credit": "Sgt. Rajheem Dixon",
+  "category": "B-Roll",
+  "virin": "170903-A-IU004-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "United States",
+    "state_abbreviation": null,
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547964/hurricane-harvey-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547964",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:46:06Z",
+  "duration": 143.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104800481/DOD_104800481.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8809,
+    "size": 160044163
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 53.71,
+      "e": 54.71,
+      "text": "That's what we..."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    11.51,
+    15.18,
+    21.09,
+    30.2,
+    38.14,
+    45.05,
+    49.62,
+    54.39,
+    59.39,
+    64.33,
+    74.51,
+    80.01,
+    93.49,
+    103.84,
+    111.21,
+    119.05,
+    127.66,
+    130.76,
+    134.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547964.jpg",
+  "sheet_times": [
+    8.34,
+    17.01,
+    25.67,
+    34.34,
+    43.01,
+    51.68,
+    60.34,
+    69.01,
+    77.68,
+    86.35,
+    95.02,
+    103.68,
+    112.35,
+    121.02,
+    129.69,
+    138.36
+  ]
+}

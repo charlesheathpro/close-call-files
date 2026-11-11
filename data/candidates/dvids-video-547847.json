@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:547847",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Hurricane Harvey",
+  "description": "Volunteers and Texas National Guardsmen with the 133rd Field Artillery Regiment provide supports as a part of emergency relief efforts to help the victims of Hurricane Harvey in Orange, Texas, Sept. 2, 2017. The Department of Defense is conducting Defense Support of Civil Authorities operations in response to the effects of Hurricane Harvey. DSCA operations are part of the DOD's response capability to assist civilian responders in saving lives, relieving human suffering and mitigating property damage in response to a catastrophic disaster. (U.S. Army video by Spc. Liem Huynh/ 22nd Mobile Public Affairs Detachment)",
+  "keywords": "arnorth, 36th Infantry Division, Texas Military Department, Hurrican Harvey, harvey2017, Texas, U.S. Army",
+  "date": "2017-09-02T00:00:00-04:00",
+  "date_published": "2017-09-02T19:11:31-04:00",
+  "branch": "Army",
+  "unit_name": "22nd Mobile Public Affairs Detachment",
+  "credit": "Spc. Liem Huynh",
+  "category": "B-Roll",
+  "virin": "170902-A-CP070-010",
+  "location": {
+    "city": "Orange",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547847/hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547847",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:45:03Z",
+  "duration": 67.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104799095/DOD_104799095.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9815,
+    "size": 84322843
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    33.63,
+    35.7,
+    40.67,
+    45.65,
+    50.62,
+    55.59,
+    60.56
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      34.6,
+      65.9
+    ],
+    "silence_ends": [
+      35.7,
+      67.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547847.jpg",
+  "sheet_times": [
+    2.1,
+    6.31,
+    10.51,
+    14.72,
+    18.92,
+    23.13,
+    27.33,
+    31.54,
+    35.74,
+    39.95,
+    44.15,
+    48.35,
+    52.56,
+    56.76,
+    60.97,
+    65.17
+  ]
+}
