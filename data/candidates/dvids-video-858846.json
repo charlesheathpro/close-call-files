@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:858846",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Hurricane Ian Prep",
+  "description": "Naval Air Station Jacksonville P8s",
+  "keywords": "Navy Region Southeast, Naval Air Station Jacksonville, VP-30, Hurricane Ian, HurricaneIan22, HURRICANE IAN 2022",
+  "date": "2022-09-27T00:00:00-04:00",
+  "date_published": "2022-09-28T08:27:13-04:00",
+  "branch": "Navy",
+  "unit_name": "Commander, Navy Region Southeast",
+  "credit": "Petty Officer 1st Class Jacob Sippel",
+  "category": "B-Roll",
+  "virin": "220927-N-AW702-0002",
+  "location": {
+    "city": "Jacksonville",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/858846/hurricane-ian-prep",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-858846",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:40:29Z",
+  "duration": 75.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109242003/DOD_109242003.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 37074548
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.72,
+    16.84,
+    49.28,
+    56.28
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-858846.jpg",
+  "sheet_times": [
+    2.35,
+    7.04,
+    11.73,
+    16.43,
+    21.12,
+    25.82,
+    30.51,
+    35.2,
+    39.9,
+    44.59,
+    49.28,
+    53.98,
+    58.67,
+    63.37,
+    68.06,
+    72.75
+  ]
+}

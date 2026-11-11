@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:861956",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Damage From Hurricane Ian",
+  "description": "Fort Myers, FL, USA - (Oct. 19, 2022) - B-Roll of damage in Fort Myers, Florida after Hurricane Ian. Destroyed vehicles, street signs, convenience stores, laundromats, and boats.",
+  "keywords": "b-roll, Ian, HurricaneIan22, Florida, Hurricane",
+  "date": "2022-10-19T00:00:00-04:00",
+  "date_published": "2022-10-27T15:02:58-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Austin Boone",
+  "category": "B-Roll",
+  "virin": "221019-O-CU821-578",
+  "location": {
+    "city": "Fort Myers",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/861956/damage-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-861956",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:41:12Z",
+  "duration": 50.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109286534/DOD_109286534.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 62500838
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.41,
+    16.1,
+    24.32,
+    33.18,
+    41.41
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-861956.jpg",
+  "sheet_times": [
+    1.55,
+    4.66,
+    7.76,
+    10.87,
+    13.97,
+    17.08,
+    20.18,
+    23.29,
+    26.39,
+    29.5,
+    32.6,
+    35.71,
+    38.82,
+    41.92,
+    45.03,
+    48.13
+  ]
+}

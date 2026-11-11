@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:859251",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Hurricane Ian 2022",
+  "description": "Equipment and supplies for the Federal Emergency Management Agency and the Defense Logistics Agency continue to arrive at Maxwell Air Force Base, Alabama, Sept. 30, 2022. The installation is an established Incident Support Base and is used to pre-position equipment and personnel to rapidly deploy to areas that may be affected by Hurricane Ian (U.S. Air Force photo by Tech. Sgt. Robert Kingery).",
+  "keywords": "HurricaneIan22",
+  "date": "2022-09-30T00:00:00-04:00",
+  "date_published": "2022-09-30T16:09:04-04:00",
+  "branch": "Air Force",
+  "unit_name": "Air University Public Affairs",
+  "credit": "Tech. Sgt. Robert Kingery",
+  "category": "B-Roll",
+  "virin": "220930-F-ZZ966-0001",
+  "location": {
+    "city": "Montgomery",
+    "state": "Alabama",
+    "country": "United States",
+    "state_abbreviation": "AL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859251/hurricane-ian-2022",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859251",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:40:35Z",
+  "duration": 151.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109247264/DOD_109247264.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 178999502
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.17,
+    75.2,
+    146.17
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      147.1
+    ],
+    "silence_ends": [
+      151.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859251.jpg",
+  "sheet_times": [
+    4.72,
+    14.15,
+    23.59,
+    33.02,
+    42.46,
+    51.89,
+    61.33,
+    70.77,
+    80.2,
+    89.64,
+    99.07,
+    108.51,
+    117.94,
+    127.38,
+    136.81,
+    146.25
+  ]
+}

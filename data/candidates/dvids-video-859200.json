@@ -1,0 +1,122 @@
+{
+  "asset_id": "video:859200",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "FEMA NRCC Activation Hurricane Ian",
+  "description": "Footage of FEMA's National Response Coordination Center activation during Hurricane Ian.",
+  "keywords": "FEMA, response, activation, nrcc, Hurricane Ian, HurricaneIan22",
+  "date": "2022-09-29T00:00:00-04:00",
+  "date_published": "2022-09-30T11:12:57-04:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Jenna Converse",
+  "category": "B-Roll",
+  "virin": "220929-O-OG665-350",
+  "location": {
+    "city": "",
+    "state": "District of Columbia",
+    "country": "United States",
+    "state_abbreviation": "DC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/859200/fema-nrcc-activation-hurricane-ian",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-859200",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:41:43Z",
+  "duration": 137.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109246350/DOD_109246350.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 116616814
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 34.82,
+      "e": 36.82,
+      "text": "It says everybody"
+    },
+    {
+      "s": 37.02,
+      "e": 39.02,
+      "text": "But then it's such an"
+    },
+    {
+      "s": 64.82,
+      "e": 70.38,
+      "text": "So we can find a way perhaps"
+    },
+    {
+      "s": 94.82,
+      "e": 100.58,
+      "text": "What was that so the RDB for the new"
+    },
+    {
+      "s": 124.82,
+      "e": 126.82,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    8.14,
+    13.88,
+    22.16,
+    26.83,
+    30.63,
+    34.73,
+    42.01,
+    46.91,
+    54.42,
+    61.33,
+    66.83,
+    77.44,
+    83.02,
+    87.52,
+    96.63,
+    103.34,
+    107.77,
+    115.05,
+    118.15,
+    124.26,
+    127.63,
+    132.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      127.6
+    ],
+    "silence_ends": [
+      4.0,
+      137.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-859200.jpg",
+  "sheet_times": [
+    4.27,
+    12.8,
+    21.34,
+    29.87,
+    38.41,
+    46.95,
+    55.48,
+    64.02,
+    72.55,
+    81.09,
+    89.62,
+    98.16,
+    106.7,
+    115.23,
+    123.77,
+    132.3
+  ]
+}

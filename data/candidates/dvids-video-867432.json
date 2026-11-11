@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:867432",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Ian",
+  "title": "Hurricane Ian Recovery Broll",
+  "description": "Driving in Fort Myers Beach. \r\n\r\nIan Recovery Broll\r\nFort Myers Beach, FL\r\n12/01/2022\r\nFEMA-DR4673-FL\r\nTRT: 00:08:10:11",
+  "keywords": "FEMA",
+  "date": "2022-12-01T00:00:00-05:00",
+  "date_published": "2022-12-12T16:36:29-05:00",
+  "branch": "Civilian",
+  "unit_name": "Federal Emergency Management Agency",
+  "credit": "Jocelyn Augustino, Christine Gonsalves",
+  "category": "B-Roll",
+  "virin": "221201-D-YR596-019",
+  "location": {
+    "city": "Fort Myers Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/867432/hurricane-ian-recovery-broll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-867432",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:41:03Z",
+  "duration": 490.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2212/DOD_109364253/DOD_109364253.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 611242399
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    170.77,
+    269.07,
+    296.6,
+    311.4,
+    343.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      490.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-867432.jpg",
+  "sheet_times": [
+    15.31,
+    45.93,
+    76.55,
+    107.17,
+    137.79,
+    168.41,
+    199.04,
+    229.66,
+    260.28,
+    290.9,
+    321.52,
+    352.14,
+    382.76,
+    413.38,
+    444.0,
+    474.62
+  ]
+}
