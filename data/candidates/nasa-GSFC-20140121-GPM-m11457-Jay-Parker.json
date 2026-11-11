@@ -1,0 +1,136 @@
+{
+  "asset_id": "nasa:GSFC_20140121_GPM_m11457_Jay_Parker",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "GPM: Meet the Team: Jay Parker",
+  "description": "This is a series of short profiles that showcase the systems engineers and designers who helped develop, build, and test the Global Precipitation Measurement (GPM) Core Observatory spacecraft.",
+  "keywords": "GPM, Spacecraft, Japan, Testing, Engineers, Earth, JAXA",
+  "date": "2014-01-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140121_GPM_m11457_Jay_Parker",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140121-GPM-m11457-Jay-Parker",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:31:40Z",
+  "duration": 75.11,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140121_GPM_m11457_Jay_Parker/GSFC_20140121_GPM_m11457_Jay_Parker~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 75.114667
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 13.68,
+      "text": "Well as the lead mechanical, I'm responsible for the design and fabrication of the structure"
+    },
+    {
+      "s": 13.68,
+      "e": 14.68,
+      "text": "of the spacecraft."
+    },
+    {
+      "s": 14.68,
+      "e": 19.08,
+      "text": "We're also responsible for all the mechanical ground support equipment that's used to lift"
+    },
+    {
+      "s": 19.08,
+      "e": 25.12,
+      "text": "and move the spacecraft throughout the facility and ground support equipment that the spacecraft"
+    },
+    {
+      "s": 25.12,
+      "e": 28.76,
+      "text": "resides in when it's journey from Goddard to Japan."
+    },
+    {
+      "s": 28.76,
+      "e": 31.08,
+      "text": "Well throughout the design there's various challenges."
+    },
+    {
+      "s": 31.08,
+      "e": 37.04,
+      "text": "One noteworthy one was to basically integrate the prop system which has most of its components"
+    },
+    {
+      "s": 37.04,
+      "e": 42.76,
+      "text": "and fuel tank at the bottom end of the spacecraft but also the four components, the four thrusters"
+    },
+    {
+      "s": 42.76,
+      "e": 47.56,
+      "text": "at the top of the spacecraft which the way the fuel lines are all welded together they"
+    },
+    {
+      "s": 47.56,
+      "e": 49.8,
+      "text": "wanted to integrate all that as a single unit."
+    }
+  ],
+  "scene_cuts": [
+    14.63,
+    18.73,
+    19.7,
+    21.0,
+    22.8,
+    24.7,
+    26.23,
+    29.73,
+    33.0,
+    35.77,
+    39.37,
+    41.7,
+    46.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      58.1,
+      58.9,
+      59.8,
+      63.3,
+      64.2,
+      65.2,
+      66.1
+    ],
+    "silence_ends": [
+      58.9,
+      59.8,
+      62.1,
+      63.9,
+      64.9,
+      65.9,
+      75.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140121-GPM-m11457-Jay-Parker.jpg",
+  "sheet_times": [
+    2.33,
+    7.0,
+    11.66,
+    16.32,
+    20.99,
+    25.65,
+    30.31,
+    34.98,
+    39.64,
+    44.3,
+    48.97,
+    53.63,
+    58.29,
+    62.96,
+    67.62,
+    72.28
+  ]
+}

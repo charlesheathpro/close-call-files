@@ -1,0 +1,163 @@
+{
+  "asset_id": "nasa:GSFC_20140121_GPM_m11457_Dave_McComas",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "GPM: Meet the Team: Dave McComas",
+  "description": "This is a series of short profiles that showcase the systems engineers and designers who helped develop, build, and test the Global Precipitation Measurement (GPM) Core Observatory spacecraft.",
+  "keywords": "GPM, Spacecraft, Japan, Testing, Engineers, Earth, JAXA",
+  "date": "2014-01-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140121_GPM_m11457_Dave_McComas",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140121-GPM-m11457-Dave-McComas",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:31:25Z",
+  "duration": 85.7,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140121_GPM_m11457_Dave_McComas/GSFC_20140121_GPM_m11457_Dave_McComas~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 85.6856
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 14.03,
+      "text": "I'm in charge of developing requirements and the design and the implementation and test"
+    },
+    {
+      "s": 14.03,
+      "e": 15.39,
+      "text": "of the flight software."
+    },
+    {
+      "s": 15.39,
+      "e": 20.03,
+      "text": "During the early phases of the mission, part of our challenge is to gather requirements"
+    },
+    {
+      "s": 20.03,
+      "e": 23.67,
+      "text": "from the guidance and navigation control, from the thermal subsystems, from the power"
+    },
+    {
+      "s": 23.67,
+      "e": 24.67,
+      "text": "subsystems."
+    },
+    {
+      "s": 24.67,
+      "e": 29.87,
+      "text": "And as the mission goes forward, we are then doing integration and test of the spacecraft."
+    },
+    {
+      "s": 29.87,
+      "e": 35.59,
+      "text": "It gets even more challenging because now we simulate things in our flight software lab."
+    },
+    {
+      "s": 35.59,
+      "e": 39.15,
+      "text": "So we only can verify as much as the simulation allows us to."
+    },
+    {
+      "s": 39.15,
+      "e": 41.95,
+      "text": "Then when we get to the real spacecraft, the flight's that."
+    },
+    {
+      "s": 41.95,
+      "e": 44.11,
+      "text": "That's when the rubber kind of hits the road."
+    },
+    {
+      "s": 44.11,
+      "e": 47.79,
+      "text": "After we ship, we're going to run a comprehensive performance test and then a panic ashima."
+    },
+    {
+      "s": 47.79,
+      "e": 52.55,
+      "text": "And then we'll rerun it here at Goddard so we can verify that everything performed is"
+    },
+    {
+      "s": 52.55,
+      "e": 54.11,
+      "text": "expected before and after."
+    },
+    {
+      "s": 54.11,
+      "e": 56.63,
+      "text": "And that certainly has an element of sight."
+    },
+    {
+      "s": 56.63,
+      "e": 58.27,
+      "text": "And it is for me too."
+    },
+    {
+      "s": 58.27,
+      "e": 60.03,
+      "text": "It's very neat to work on an international project."
+    }
+  ],
+  "scene_cuts": [
+    24.43,
+    26.67,
+    33.73,
+    39.43,
+    43.57,
+    45.13,
+    47.67,
+    49.83,
+    51.63,
+    54.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      68.7,
+      69.6,
+      70.5,
+      73.8,
+      74.8,
+      75.8,
+      76.6
+    ],
+    "silence_ends": [
+      69.6,
+      70.5,
+      72.7,
+      74.4,
+      75.5,
+      76.6,
+      85.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140121-GPM-m11457-Dave-McComas.jpg",
+  "sheet_times": [
+    2.66,
+    7.99,
+    13.31,
+    18.64,
+    23.96,
+    29.29,
+    34.61,
+    39.94,
+    45.26,
+    50.59,
+    55.91,
+    61.24,
+    66.56,
+    71.89,
+    77.21,
+    82.54
+  ]
+}

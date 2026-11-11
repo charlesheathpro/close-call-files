@@ -1,0 +1,108 @@
+{
+  "asset_id": "nasa:GSFC_20140121_GPM_m11457_Keith_Deweese",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "GPM: Meet the Team: Keith Deweese",
+  "description": "This is a series of short profiles that showcase the systems engineers and designers who helped develop, build, and test the Global Precipitation Measurement (GPM) Core Observatory spacecraft.",
+  "keywords": "GPM, Spacecraft, Japan, Testing, Engineers, Earth, JAXA",
+  "date": "2014-01-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140121_GPM_m11457_Keith_Deweese",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140121-GPM-m11457-Keith-Deweese",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:31:51Z",
+  "duration": 85.83,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140121_GPM_m11457_Keith_Deweese/GSFC_20140121_GPM_m11457_Keith_Deweese~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 85.824
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 16.42,
+      "text": "The guidance navigation and control lead basically is in charge of all of the components to make sure the spacecraft is pointed where the scientists want it to be pointed."
+    },
+    {
+      "s": 16.42,
+      "e": 22.42,
+      "text": "We track how the Earth, you know, how the satellite is moving around the Earth and how the Earth is moving around the Sun."
+    },
+    {
+      "s": 22.42,
+      "e": 31.42,
+      "text": "We have algorithms on board that allow us to turn the spacecraft one direction or another to make sure that we keep it thermally safe and power positive."
+    },
+    {
+      "s": 31.42,
+      "e": 41.42,
+      "text": "We have other algorithms that keep our orbit because the orbit degrades over time, so we have what we call thruster maneuvers and delta V maneuvers which allow us to raise or lower the orbit."
+    },
+    {
+      "s": 41.42,
+      "e": 53.42,
+      "text": "We have a very large spinning instrument on GPM called the GPM microwave imager, the GMI, because it's a spinning object introduces jitter to the whole spacecraft, so the whole spacecraft kind of shakes with it."
+    },
+    {
+      "s": 53.42,
+      "e": 60.42,
+      "text": "We can't test that on the ground, so it'll be a nice culmination to the seven years of work that I've spent on GPM."
+    }
+  ],
+  "scene_cuts": [
+    23.0,
+    32.0,
+    42.17,
+    47.63,
+    54.23
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      68.9,
+      69.8,
+      70.7,
+      74.0,
+      74.9,
+      75.9,
+      76.8
+    ],
+    "silence_ends": [
+      69.7,
+      70.7,
+      72.9,
+      74.6,
+      75.6,
+      76.8,
+      85.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140121-GPM-m11457-Keith-Deweese.jpg",
+  "sheet_times": [
+    2.67,
+    8.0,
+    13.33,
+    18.67,
+    24.0,
+    29.33,
+    34.67,
+    40.0,
+    45.33,
+    50.67,
+    56.0,
+    61.33,
+    66.67,
+    72.0,
+    77.33,
+    82.67
+  ]
+}
