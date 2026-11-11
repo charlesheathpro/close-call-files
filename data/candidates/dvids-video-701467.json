@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:701467",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues 3 from island in Willapa Bay, Wash.",
+  "description": "Coast Guard crews rescue three people from an island in Willapa Bay after their canoe capsized due to weather, Aug. 5, 2019. Thee three were hoisted into a MH-60 Jayhawk helicopter and transported to Ilwaco Airport where emergency medical services were waiting. (U.S. Coast Guard Video)",
+  "keywords": "hoist, MH-60, Jayhawk, canoe, Life Savers, willapa bay, helicopter, Washington, rescue, USCG",
+  "date": "2019-08-05T00:00:00-04:00",
+  "date_published": "2019-08-06T18:43:45-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 2nd Class Steven Strohmaier",
+  "category": "B-Roll",
+  "virin": "190805-G-SG988-0123",
+  "location": {
+    "city": "Ilwaco",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/701467/coast-guard-rescues-3-island-willapa-bay-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-701467",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:21:32Z",
+  "duration": 110.71,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107093071/DOD_107093071.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9987,
+    "size": 138358465
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.27,
+    34.4
+  ],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      110.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-701467.jpg",
+  "sheet_times": [
+    3.44,
+    10.33,
+    17.22,
+    24.11,
+    31.0,
+    37.89,
+    44.77,
+    51.66,
+    58.55,
+    65.44,
+    72.33,
+    79.22,
+    86.1,
+    92.99,
+    99.88,
+    106.77
+  ]
+}

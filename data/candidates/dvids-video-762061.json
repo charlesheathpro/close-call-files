@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:762061",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues injured hiker from Olympic National Park",
+  "description": "A Coast Guard Air Station Port Angeles MH-65 Dolphin rescue helicopter crew hoists an injured hiker from Olympic National Park, Washington, Monday, Aug. 3, 2020. The 17-year-old man fell and sustained knee and head injuries that required immediate medical attention. U.S. Coast Guard video.",
+  "keywords": "inland SAR, US Coast Guard, search and rescue",
+  "date": "2020-08-03T00:00:00-04:00",
+  "date_published": "2020-08-03T23:36:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Cynthia Oldham",
+  "category": "B-Roll",
+  "virin": "200803-G-G0213-002",
+  "location": {
+    "city": "Port Angeles",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/762061/coast-guard-rescues-injured-hiker-olympic-national-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-762061",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:21:37Z",
+  "duration": 77.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107921487/DOD_107921487-1280x720-2765k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2732,
+    "size": 27981692
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      72.7
+    ],
+    "silence_ends": [
+      3.0,
+      77.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-762061.jpg",
+  "sheet_times": [
+    2.41,
+    7.23,
+    12.04,
+    16.86,
+    21.68,
+    26.5,
+    31.31,
+    36.13,
+    40.95,
+    45.76,
+    50.58,
+    55.4,
+    60.22,
+    65.03,
+    69.85,
+    74.67
+  ]
+}

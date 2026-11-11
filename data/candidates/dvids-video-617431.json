@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:617431",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Thai Rescue (kanji)",
+  "description": "Picture video of Thai Cave rescue.",
+  "keywords": "soccer, PJ, pararescue, coach, Thai, cave, Marines, AIr Force, navy, base, army, Okinawa, team, rescue, Divers, SEALs, UK, PACAF, air",
+  "date": "2018-07-20T00:00:00-04:00",
+  "date_published": "2018-08-06T03:35:18-04:00",
+  "branch": "Air Force",
+  "unit_name": "18th Wing",
+  "credit": "Airman Matthew Seefeldt",
+  "category": "Package",
+  "virin": "180720-F-VT057-0018",
+  "location": {
+    "city": "Kadena Air Base",
+    "state": "Okinawa",
+    "country": "Japan",
+    "state_abbreviation": "Okinawa",
+    "country_abbreviation": "JP"
+  },
+  "page_url": "https://www.dvidshub.net/video/617431/thai-rescue-kanji",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-617431",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:22:31Z",
+  "duration": 60.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105894616/DOD_105894616.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9906,
+    "size": 75376944
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.19,
+      "e": 3.61,
+      "text": "(intense dramatic music)"
+    }
+  ],
+  "scene_cuts": [
+    59.99
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      59.3
+    ],
+    "silence_ends": [
+      60.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-617431.jpg",
+  "sheet_times": [
+    1.86,
+    5.58,
+    9.3,
+    13.02,
+    16.74,
+    20.46,
+    24.18,
+    27.9,
+    31.62,
+    35.34,
+    39.06,
+    42.78,
+    46.51,
+    50.23,
+    53.95,
+    57.67
+  ]
+}
