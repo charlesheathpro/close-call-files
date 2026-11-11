@@ -1,22 +1,21 @@
 {
-  "at": "2026-11-11T00:40:00Z",
-  "healthy": false,
-  "numbers": {
-    "dropped": 48,
-    "uploaded": 116,
-    "passed": 0,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 4
-  },
-  "found": [
-    "buffer thin: 4 scheduled in the next 48 h, 0 passed, 0 in QA or build (fails the 20 and 25 thresholds)",
-    "upload (23:42Z), harvest (Nov 10 18:02Z) and stats (Nov 10) runs landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
-    "the 18:02Z archive harvest added 150 candidates that are almost all routine medevacs; keyword sweep of 2,343 new candidates found no rescue that clears the viral bar; NASA engine tests and AA-2 already used"
-  ],
-  "fixed": [
-    "editor pass: 0 specs, 7 more candidates passed over (dark, medical, calm, unresolved)",
-    "pushed archive to triggers/harvest again",
-    "Willapa Bay crab boat sinking (dvids-video-872568) is held for Nov 12 by the editor for story variety; it is the strongest clip left"
-  ]
+ "at": "2026-11-11T08:26:29Z",
+ "healthy": false,
+ "numbers": {
+  "dropped": 48,
+  "uploaded": 116,
+  "passed": 1,
+  "needs_qa": 0,
+  "needs_build": 0,
+  "scheduled_48h": 2
+ },
+ "found": [
+  "buffer thin: 2 scheduled in the next 48 h, 1 passed (11-01), nothing in build (fails the 20 and 25 thresholds)",
+  "upload (07:03Z), harvest (00:56Z) and stats (Nov 11 02:58Z) runs landing; no build errors in 24 h; last upload_error alerts are Nov 8 (504s), none in 24 h"
+ ],
+ "fixed": [
+  "QA repaired 11-01 (rev 2) and passed it",
+  "editor pass over the 231 candidates from the latest harvest: only one plausible (CBP cliff hoist, dvids-video-151304), passed over as 480p letterboxed with a one-line release; the rest are training, ceremonies and calm flood hoists",
+  "pushed archive to triggers/harvest (run started 08:23Z)"
+ ]
 }
