@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:547844",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Oklahoma National Guard Deploys to Hurricane Harvey Relief Efforts",
+  "description": "BROLL - Oklahoma National Guardsmen making up Task Force 179 are departing the Norman Armed Forces Reserve Center and heading to Austin, Texas, to help the Texas National Guard with Hurricane Harvey relief. Approximately 500 Guardsmen from the 45th Infantry Brigade Combat Team are deploying to “provide general security, distribution, maintenance and shelter operations.”",
+  "keywords": "OKNG2Harvey",
+  "date": "2017-09-02T00:00:00-04:00",
+  "date_published": "2017-09-02T18:21:48-04:00",
+  "branch": "Joint",
+  "unit_name": "Oklahoma National Guard",
+  "credit": "Staff Sgt. Christopher Bruce",
+  "category": "B-Roll",
+  "virin": "170902-A-KJ752-802",
+  "location": {
+    "city": "Norman",
+    "state": "Oklahoma",
+    "country": "United States",
+    "state_abbreviation": "OK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547844/oklahoma-national-guard-deploys-hurricane-harvey-relief-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547844",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:51:37Z",
+  "duration": 53.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104799065/DOD_104799065.mp4",
+    "width": 1280,
+    "height": 1080,
+    "bitrate": 9914,
+    "size": 67535874
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.01,
+      "e": 3.01,
+      "text": "Worst time in Colby"
+    }
+  ],
+  "scene_cuts": [
+    2.94,
+    6.87,
+    11.54,
+    13.68,
+    15.98,
+    19.32,
+    23.32,
+    26.39,
+    38.1,
+    41.31,
+    44.41,
+    47.48,
+    50.22
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-547844.jpg",
+  "sheet_times": [
+    1.66,
+    4.99,
+    8.32,
+    11.65,
+    14.98,
+    18.31,
+    21.64,
+    24.97,
+    28.29,
+    31.62,
+    34.95,
+    38.28,
+    41.61,
+    44.94,
+    48.27,
+    51.6
+  ]
+}
