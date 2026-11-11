@@ -1,21 +1,14 @@
 {
- "at": "2026-11-11T08:26:29Z",
+ "at": "2026-11-11T16:35:51Z",
  "healthy": false,
- "numbers": {
-  "dropped": 48,
-  "uploaded": 116,
-  "passed": 1,
-  "needs_qa": 0,
-  "needs_build": 0,
-  "scheduled_48h": 2
- },
+ "numbers": {"dropped": 48, "uploaded": 118, "passed": 1, "held": 1, "needs_qa": 0, "needs_build": 0, "scheduled_48h": 2},
  "found": [
-  "buffer thin: 2 scheduled in the next 48 h, 1 passed (11-01), nothing in build (fails the 20 and 25 thresholds)",
-  "upload (07:03Z), harvest (00:56Z) and stats (Nov 11 02:58Z) runs landing; no build errors in 24 h; last upload_error alerts are Nov 8 (504s), none in 24 h"
+  "buffer thin: 1 scheduled in the next 48 h at start, 1 Short in QA, nothing in build (fails the 20 and 25 thresholds)",
+  "upload (16:21Z), harvest (08:52Z) and stats (15:36Z) runs landing; no build errors in 24 h; no auth or upload_error alerts since Nov 8"
  ],
  "fixed": [
-  "QA repaired 11-01 (rev 2) and passed it",
-  "editor pass over the 231 candidates from the latest harvest: only one plausible (CBP cliff hoist, dvids-video-151304), passed over as 480p letterboxed with a one-line release; the rest are training, ceremonies and calm flood hoists",
-  "pushed archive to triggers/harvest (run started 08:23Z)"
+  "QA passed 08-01 (Siesta Key hull, 8); upload scheduled it at 16:21Z",
+  "editor pass over the backlog (2,780 new; keyword sweeps for capsized, sinking, adrift, hurricane, abort, splashdown): wrote 11-03 from dvids-video-354790 (sailboat Walkabout torn apart in Hurricane Julio, facts backed by the Coast Guard news release), built and passed it (7)",
+  "passed over 8 more (calm flood evacuations, medical heat-stroke hoists, distant rip-current cam, no-outcome building search); high-res backlog has no strong rescues left, the rest is hurricane relief b-roll, routine medevacs and NASA manufacturing"
  ]
 }
