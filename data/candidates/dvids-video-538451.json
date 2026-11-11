@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:538451",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Thunderbirds Come to the Rescue in Ukraine",
+  "description": "BROLL of an apartment fire in downtown L'viv, Ukraine. Soldiers with the Oklahoma Army National Guard’s 45th Infantry Brigade Combat Team, deployed to Ukraine in support of the Joint Multinational Training Group-Ukraine, rushed into the burning building and evacuated the third floor before local firefighters arrived on scene.",
+  "keywords": "Europe, Combined training, Army Training, US Army Europe, Ukraine, EUCOM, USAREUR, Ukrainian Army, 45th Infantry Brigade Combat Team, yavoriv, 45th, 45 IBCT, IPSC, jmtgu, Joint Multinational Training Group, NATO, U.S. Army, partnership, Oklahoma Army National Guard, military, Department of State, Thunderbirds",
+  "date": "2017-07-16T00:00:00-04:00",
+  "date_published": "2017-07-17T10:45:18-04:00",
+  "branch": "Army",
+  "unit_name": "45th Infantry Brigade Combat Team",
+  "credit": "1st Lt. Kayla Christopher",
+  "category": "B-Roll",
+  "virin": "170716-A-CL346-468",
+  "location": {
+    "city": "L'viv",
+    "state": "",
+    "country": "Ukraine",
+    "state_abbreviation": null,
+    "country_abbreviation": "UA"
+  },
+  "page_url": "https://www.dvidshub.net/video/538451/thunderbirds-come-rescue-ukraine",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-538451",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:29:03Z",
+  "duration": 31.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104598083/DOD_104598083.mp4",
+    "width": 480,
+    "height": 848,
+    "bitrate": 9144,
+    "size": 35972274
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.78,
+      "e": 5.96,
+      "text": "So me and a couple US soldiers straight up cool people out of this fire"
+    },
+    {
+      "s": 11.48,
+      "e": 15.92,
+      "text": "Yeah third story people do not want to come out of the building so we had to drag them out"
+    },
+    {
+      "s": 22.88,
+      "e": 26.0,
+      "text": "I mean we get like five big five or six about five"
+    }
+  ],
+  "scene_cuts": [
+    16.82
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      7.3
+    ],
+    "silence_ends": [
+      9.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-538451.jpg",
+  "sheet_times": [
+    0.96,
+    2.87,
+    4.78,
+    6.69,
+    8.6,
+    10.51,
+    12.42,
+    14.34,
+    16.25,
+    18.16,
+    20.07,
+    21.98,
+    23.89,
+    25.8,
+    27.71,
+    29.63
+  ]
+}
