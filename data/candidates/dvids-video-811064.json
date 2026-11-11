@@ -26,7 +26,7 @@
   "time_start": 3.6,
   "aspect_ratio": "16:9",
   "id": "dvids-video-811064",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:03Z",
   "duration": 74.56,
   "source_file": {
@@ -68,5 +68,6 @@
     63.05,
     67.45,
     71.86
-  ]
+  ],
+  "pass_reason": "Earthquake medevac hoist; medical case."
 }

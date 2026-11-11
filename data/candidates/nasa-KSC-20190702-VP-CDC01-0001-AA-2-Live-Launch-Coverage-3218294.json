@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "launch abort",
   "title": "Ascent Abort 2 Live Launch Coverage",
-  "description": "NASA engineers put Orion’s launch abort system to the test under high stress condition during the Ascent Abort-2 Flight Test. The test will verify the LAS can steer the crew module and astronauts inside to safety in the event of an issue with the SLS rocket when the spacecraft is under the highest aerodynamic loads it will experience during a rapid climb into space.",
+  "description": "NASA engineers put Orion\u2019s launch abort system to the test under high stress condition during the Ascent Abort-2 Flight Test. The test will verify the LAS can steer the crew module and astronauts inside to safety in the event of an issue with the SLS rocket when the spacecraft is under the highest aerodynamic loads it will experience during a rapid climb into space.",
   "keywords": "Artemis, Orion, Launch Abort System, LAS, Safety, Ascent Abort-2 Flight Test, AA-2, Artemis 2, Moon to, Mars",
   "date": "2019-07-02T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190702-VP-CDC01-0001-AA-2-Live-Launch-Coverage-3218294",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T22:42:06Z",
   "duration": 3106.93,
   "source_file": {
@@ -5527,5 +5527,6 @@
     2621.05,
     2815.21,
     3009.36
-  ]
+  ],
+  "pass_reason": "Same Ascent Abort 2 test as ccf-20261028-08."
 }

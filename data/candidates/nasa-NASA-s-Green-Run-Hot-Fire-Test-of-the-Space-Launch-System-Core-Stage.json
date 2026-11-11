@@ -1,10 +1,10 @@
 {
-  "asset_id": "nasa:NASA’s Green Run Hot Fire Test of the Space Launch System Core Stage",
+  "asset_id": "nasa:NASA\u2019s Green Run Hot Fire Test of the Space Launch System Core Stage",
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "hot fire test",
   "title": "NASA's Second Hot Fire Test for the Artemis Moon Rocket",
-  "description": "Engineers powered up all the core stage systems, load more than 700,000 gallons of supercold propellant into the tanks, and fire the rocket’s four RS-25 engines at the same time to simulate the stage’s operation during the launch of our first Artemis mission to the Moon.",
+  "description": "Engineers powered up all the core stage systems, load more than 700,000 gallons of supercold propellant into the tanks, and fire the rocket\u2019s four RS-25 engines at the same time to simulate the stage\u2019s operation during the launch of our first Artemis mission to the Moon.",
   "keywords": "RS-25, Artemis, Hot Fire Test, Green Run",
   "date": "2021-03-18T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-s-Green-Run-Hot-Fire-Test-of-the-Space-Launch-System-Core-Stage",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:10:46Z",
   "duration": 553.39,
   "source_file": {
@@ -96,5 +96,6 @@
     466.5,
     501.05,
     535.61
-  ]
+  ],
+  "pass_reason": "Successful second Green Run hot fire: a test with no failure, same family as ccf-20261103-30."
 }

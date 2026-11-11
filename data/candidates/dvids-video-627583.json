@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-627583",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:29:00Z",
   "duration": 136.64,
   "source_file": {
@@ -81,5 +81,6 @@
     115.49,
     123.75,
     132.01
-  ]
+  ],
+  "pass_reason": "High water vehicle b-roll with no specific rescue or outcome."
 }
