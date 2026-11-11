@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:GSFC_20140226_Landsat8_m11490_1styr",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket landing",
+  "title": "Landsat 8 Celebrates First Year in Orbit",
+  "description": "On Feb. 11, 2013, Landsat 8 launched into Earth orbit, riding on an Atlas V rocket. Weighing 6,133 pounds, Landsat 8 is the eigth satellite in the long-running Landsat program, jointly managed by NASA and the U.S. Geological Survey. At 16 feet tall, with a 32 foot long solar array, Landsat 8 orbits Earth at an altitude of 438 miles, moving at a speed of 16,760 miles per hour. It takes 99 minutes to complete one orbit, with about 14.5 orbits each day. There have been 5,319 orbits in the first year of Landsat 8's mission. It takes 16 days to build a complete scan of the globe, and on the 17th day the orbit cycle begins again.  Between the two instruments on board, Landsat 8 records data in 11 separate wavelength regions spanning visible, infrared, and thermal radiation. The data is transmitted several times a day to the USGS Earth Resources and Observation Science Center in Sioux Falls, SD, where it is added to the archive of Landsat data stretching back to 1972. In its first year, users have downloaded 1,322,969 scenes of Landsat 8 data from the USGS.  Landsat 8 continues the decades-long Landsat record of Earth's land surface at a scale where the impacts of humans and nature can be detected and monitored over time. Every continent, every season, every year, at a resolution that can distinguish an area the size of a baseball field. With help from Landsat we can monitor the cultivation of our food crops, quantify our precious water resources as they ebb and flow, and track deforestation globally. Landsat data constitute a key ingredient in decision making for agriculture, climate research, disaster mitigation, ecosystems, forestry, human health, urban growth, and water management.",
+  "keywords": "Landsat, LDCM, Earth",
+  "date": "2014-02-26T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140226_Landsat8_m11490_1styr",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140226-Landsat8-m11490-1styr",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:03:00Z",
+  "duration": 190.0,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140226_Landsat8_m11490_1styr/GSFC_20140226_Landsat8_m11490_1styr~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 189.994667
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.56,
+      "e": 6.56,
+      "text": "Status check. Go Alice. Go Center. Go LDCM."
+    }
+  ],
+  "scene_cuts": [
+    52.3,
+    74.67,
+    168.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      176.1,
+      179.8,
+      182.8,
+      183.7,
+      184.7,
+      185.6
+    ],
+    "silence_ends": [
+      177.5,
+      181.6,
+      183.4,
+      184.4,
+      185.4,
+      190.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140226-Landsat8-m11490-1styr.jpg",
+  "sheet_times": [
+    5.92,
+    17.77,
+    29.61,
+    41.45,
+    53.3,
+    65.14,
+    76.98,
+    88.83,
+    100.67,
+    112.52,
+    124.36,
+    136.2,
+    148.05,
+    159.89,
+    171.73,
+    183.58
+  ]
+}
