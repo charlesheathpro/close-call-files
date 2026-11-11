@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:565238",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Maria rescue",
+  "title": "Coast Guard cutter returns home after 69 days conducting hurricane relief, law enforcement operations",
+  "description": "The crew of the Coast Guard Cutter Venturous, a 210-foot Reliance class cutter homeported in St. Petersburg, Florida, returns home Monday, Nov. 13, 2017 to St. Petersburg, Florida, following a 69-day patrol conducting hurricane relief and law enforcement operations in the Caribbean Sea. The crew transited more than 8,000 miles patrolling the waters around Puerto Rico enforcing counter narcotics laws, conducting search and rescue, and performing hurricane relief operations in the aftermath of hurricanes Irma and Maria. (U.S. Coast Guard video by Petty Officer 1st Class Michael De Nyse)",
+  "keywords": "Venturous, Maria, Caribbean Sea, St. Petersburg, \"hurricane relief\", Irma, narcotics laws, hurricanes Irma and Maria. (U.S. Coast Guard video by Petty Officer 1st Class Michael De Nyse), Coast Guard, search and rescue, law enforcement, Florida, Hurricane, Puerto Rico",
+  "date": "2017-11-13T00:00:00-05:00",
+  "date_published": "2017-11-13T19:43:21-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class Michael De Nyse",
+  "category": "B-Roll",
+  "virin": "171113-G-XO423-1001",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/565238/coast-guard-cutter-returns-home-after-69-days-conducting-hurricane-relief-law-enforcement-operations",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-565238",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:39:02Z",
+  "duration": 172.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1711/DOD_105070769/DOD_105070769.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9976,
+    "size": 217521295
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3,
+    37.7,
+    45.05,
+    59.68,
+    69.74,
+    125.92,
+    134.88,
+    145.23,
+    153.24,
+    166.71
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-565238.jpg",
+  "sheet_times": [
+    5.37,
+    16.1,
+    26.83,
+    37.56,
+    48.29,
+    59.02,
+    69.75,
+    80.48,
+    91.21,
+    101.94,
+    112.67,
+    123.4,
+    134.13,
+    144.86,
+    155.59,
+    166.32
+  ]
+}

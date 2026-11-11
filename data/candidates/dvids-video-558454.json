@@ -1,0 +1,93 @@
+{
+  "asset_id": "video:558454",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Maria rescue",
+  "title": "Hurricane Maria: Red Cross and Citizens in Rincon",
+  "description": "Volunteers from the Red Cross bring food and water to U.S. Citizens as they work to restore their homes in Rincon, Puerto Rico, Oct. 15, 2017. The Federal Emergency Management Agency and its federal partners continue 24-hour operations to conduct life-saving rescue and medical missions. (US Air Force video by Airman 1st Class Franklin Harris)",
+  "keywords": "FEMA, Maria, 1CTCS, 1st Combat Camera Squadron, Rincon, Hurricane Maria, VIPR, Virgin Islands Puerto Rico, water, COMCAM, food, Red Cross",
+  "date": "2017-10-15T00:00:00-04:00",
+  "date_published": "2017-10-15T18:37:41-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Airman 1st Class Franklin Harris",
+  "category": "B-Roll",
+  "virin": "171015-F-FF859-5001",
+  "location": {
+    "city": "Rincon",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/558454/hurricane-maria-red-cross-and-citizens-rincon",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-558454",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:37:38Z",
+  "duration": 63.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104965336/DOD_104965336.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9852,
+    "size": 79412551
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 1.08,
+      "text": "Mm-hmm."
+    }
+  ],
+  "scene_cuts": [
+    2.4,
+    5.87,
+    8.27,
+    10.94,
+    14.01,
+    17.62,
+    20.82,
+    25.23,
+    28.63,
+    32.23,
+    35.4,
+    41.41,
+    46.18,
+    49.28,
+    54.89,
+    58.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      46.6
+    ],
+    "silence_ends": [
+      49.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-558454.jpg",
+  "sheet_times": [
+    1.97,
+    5.92,
+    9.86,
+    13.81,
+    17.75,
+    21.7,
+    25.64,
+    29.59,
+    33.53,
+    37.48,
+    41.42,
+    45.37,
+    49.31,
+    53.26,
+    57.21,
+    61.15
+  ]
+}

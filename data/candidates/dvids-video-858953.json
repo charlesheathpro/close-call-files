@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:858953",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "breaking waves",
+  "title": "Hurricane Ian- Fort Lauderdale",
+  "description": "Locals watch the unusual 2-3ft waves break on the ordinarily calm Fort Lauderdale Beach. Fort Lauderdale Beach, Fl. is under a tropical storm and tornado warnings; the metro area experienced heavy rainfall, flooding, and strong winds from the outskirts of the storm. Hurricane Ian made landfall Wednesday afternoon as a strong Category 4 storm near Punta Gorda.",
+  "keywords": "Ian, Tropical Storm winds, HurricanIan22, beach, Hurricane",
+  "date": "2022-09-28T00:00:00-04:00",
+  "date_published": "2022-10-09T09:36:27-04:00",
+  "branch": "Army",
+  "unit_name": "U.S. Army Corps of Engineers, Jacksonville District",
+  "credit": "Brigida Sanchez",
+  "category": "B-Roll",
+  "virin": "220928-A-AZ289-1001",
+  "location": {
+    "city": "Fort lauderdale Beach",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/858953/hurricane-ian-fort-lauderdale",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-858953",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:39:16Z",
+  "duration": 147.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2209/DOD_109243632/DOD_109243632-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 128963036
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.88,
+    38.5,
+    57.52,
+    76.91,
+    93.18,
+    107.19,
+    147.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-858953.jpg",
+  "sheet_times": [
+    4.6,
+    13.79,
+    22.98,
+    32.17,
+    41.36,
+    50.55,
+    59.74,
+    68.94,
+    78.13,
+    87.32,
+    96.51,
+    105.7,
+    114.89,
+    124.09,
+    133.28,
+    142.47
+  ]
+}
