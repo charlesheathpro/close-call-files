@@ -1,16 +1,16 @@
-# Playbook (computed 2026-11-11T02:58:32Z from 102 Shorts older than 48 hours)
+# Playbook (computed 2026-11-11T10:36:56Z from 102 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: abandon ship, boat crew pickup (+0.43, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.44, 1 Shorts)
 - story: runaway boat with no one aboard (+0.43, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.43, 1 Shorts)
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.43, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.42, 1 Shorts)
 - story: launch abort test (+0.42, 1 Shorts)
 - story: splashdown recovery (+0.41, 1 Shorts)
 - story: capsized boat, people in the water (+0.38, 1 Shorts)
-- story: divers stranded on a capsized hull, boat crew pickup (+0.37, 1 Shorts)
+- story: divers stranded on a capsized hull, boat crew pickup (+0.36, 1 Shorts)
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.56, 1 Shorts)
@@ -23,11 +23,11 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: sinking sailboat, boat crew (-0.23, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 42591 views, 75% watched
-- Runaway boat circling with no one aboard: 8910 views, 98% watched
-- 17-year-old adrift at night, no paddle: 34690 views, 76% watched
-- Five abandon a sinking fishing boat: 11573 views, 91% watched
-- Capsule torn off a rocket at Mach 1: 5180 views, 97% watched
+- 17-year-old adrift at night, no paddle: 38015 views, 76% watched
+- Runaway boat circling with no one aboard: 8949 views, 98% watched
+- Flipped hull 11 miles out, 3 men on top: 42941 views, 75% watched
+- Five abandon a sinking fishing boat: 11712 views, 91% watched
+- Capsule torn off a rocket at Mach 1: 5181 views, 97% watched
 
 ## Weakest Shorts
 - Yacht broke in two on Lake Erie: 1225 views, 37% watched
@@ -52,3 +52,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
+
+## Changed tonight
+- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.42, 'aviation_naval': 0.48, 'hazards': 0.1}
+- query weights for 51 searches
