@@ -1,0 +1,87 @@
+{
+  "asset_id": "nasa:MAF_20260420_CS3_Rollout_v2",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket landing",
+  "title": "NASA Rolls Out Artemis III Moon Rocket Core Stage",
+  "description": "NASA moved the core stage, or the largest section, of the SLS (Space Launch System) rocket that will launch the crewed Artemis III mission in 2027 from the agency’s Michoud Assembly Facility to the agency’s Pegasus barge in New Orleans on April 20. The barge will ferry the top four-fifths – the section containing the liquid hydrogen tank, liquid oxygen tank, intertank, and forward skirt – of the SLS core stage to NASA’s Kennedy Space Center in Florida to complete outfitting and vertical integration.      Teams with NASA and Boeing, the SLS core stage lead contractor, used specialized transporters to guide the top four-fifths from the NASA rocket factory to Pegasus. Prior to the move, technicians added an engine section transportation simulator to the rocket stage for shipment to the Space Coast.      Next year’s Artemis III mission will launch astronauts to Earth’s orbit aboard the Orion spacecraft on top of SLS to test rendezvous and docking capabilities between Orion and commercial spacecraft needed to land Artemis IV astronauts on the Moon in 2028. NASA’s SLS is the only rocket capable of sending Orion, astronauts, and supplies to the Moon in a single launch.",
+  "keywords": "Artemis, NASA, Artemis III, Moon, Space Launch System, Orion, Michoud Assembly Facility",
+  "date": "2026-04-20T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MAF",
+  "credit": "NASA MAF video",
+  "page_url": "https://images.nasa.gov/details/MAF_20260420_CS3_Rollout_v2",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-MAF-20260420-CS3-Rollout-v2",
+  "status": "new",
+  "harvested_at": "2026-11-11T17:57:41Z",
+  "duration": 92.07,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/MAF_20260420_CS3_Rollout_v2/MAF_20260420_CS3_Rollout_v2~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 92.066667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 92.04,
+      "text": "[various production sounds, crowd cheering]"
+    }
+  ],
+  "scene_cuts": [
+    6.27,
+    14.37,
+    20.13,
+    28.73,
+    38.53,
+    44.17,
+    55.93,
+    62.27,
+    67.63,
+    67.7,
+    74.2,
+    74.23,
+    82.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      15.1,
+      20.1,
+      55.9,
+      74.2
+    ],
+    "silence_ends": [
+      6.3,
+      15.7,
+      38.5,
+      67.7,
+      92.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-MAF-20260420-CS3-Rollout-v2.jpg",
+  "sheet_times": [
+    2.86,
+    8.58,
+    14.31,
+    20.03,
+    25.75,
+    31.48,
+    37.2,
+    42.92,
+    48.64,
+    54.37,
+    60.09,
+    65.81,
+    71.54,
+    77.26,
+    82.98,
+    88.71
+  ]
+}
