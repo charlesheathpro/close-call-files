@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:GSFC_20120614_GPM_m10999_Into_TVAC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "GPM Core Spacecraft Integration and Testing: TVAC",
+  "description": "The GPM Core spacecraft readies for thermal vacuum testing in the Space Environmental Simulator (SES).",
+  "keywords": "GPM, Radar, Cleanroom, Earth",
+  "date": "2012-06-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120614_GPM_m10999_Into_TVAC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120614-GPM-m10999-Into-TVAC",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:28:49Z",
+  "duration": 200.13,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120614_GPM_m10999_Into_TVAC/GSFC_20120614_GPM_m10999_Into_TVAC~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 200.133267
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    9.67,
+    24.1,
+    33.0,
+    38.4,
+    48.57,
+    55.1,
+    68.1,
+    76.33,
+    90.27,
+    99.27,
+    108.23,
+    118.9,
+    124.3,
+    140.53,
+    164.6,
+    170.63,
+    194.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120614-GPM-m10999-Into-TVAC.jpg",
+  "sheet_times": [
+    6.24,
+    18.72,
+    31.19,
+    43.67,
+    56.15,
+    68.62,
+    81.1,
+    93.58,
+    106.06,
+    118.53,
+    131.01,
+    143.49,
+    155.96,
+    168.44,
+    180.92,
+    193.39
+  ]
+}

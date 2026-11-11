@@ -1,0 +1,114 @@
+{
+  "asset_id": "nasa:SSC_2020-01-23_-_Videofile-core_stage_breakover_and_lift-Thompson",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "SLS core stage installed at Stennis for Green Run testing",
+  "description": "On Jan. 22, NASA installed the first flight core stage for its new Space Launch System rocket in the B-2 Test Stand at Stennis Space Center in south Mississippi. The stage will undergo a series of Green Run tests over the coming months. Green Run represents the first top-to-bottom integrated testing of its systems prior to its maiden Artemis I test flight.",
+  "keywords": "SLS, B-2, Green Run, Breakover, Video file, core stage, install",
+  "date": "2020-01-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/SSC_2020-01-23_-_Videofile-core_stage_breakover_and_lift-Thompson",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-SSC-2020-01-23-Videofile-core-stage-breakover-and-lift-Thompson",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:27:48Z",
+  "duration": 303.47,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/SSC_2020-01-23_-_Videofile-core_stage_breakover_and_lift-Thompson/SSC_2020-01-23_-_Videofile-core_stage_breakover_and_lift-Thompson~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 303.419783
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 40.62,
+      "e": 46.07,
+      "text": "[machine sounds]"
+    },
+    {
+      "s": 52.25,
+      "e": 65.45,
+      "text": "[machine sounds]"
+    },
+    {
+      "s": 116.02,
+      "e": 120.4,
+      "text": "[crane and machine sounds]"
+    },
+    {
+      "s": 127.53,
+      "e": 132.55,
+      "text": "[crane beeping crane engine humming]"
+    },
+    {
+      "s": 220.6,
+      "e": 225.51,
+      "text": "[crane engine humming]"
+    },
+    {
+      "s": 235.62,
+      "e": 240.97,
+      "text": "[machine sounds]"
+    }
+  ],
+  "scene_cuts": [
+    46.07,
+    52.3,
+    58.3,
+    65.5,
+    70.47,
+    74.1,
+    94.73,
+    127.57,
+    139.47,
+    173.13,
+    183.17,
+    212.3,
+    220.67,
+    235.67,
+    272.8,
+    289.83,
+    293.5
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      65.5,
+      139.5,
+      272.8
+    ],
+    "silence_ends": [
+      52.3,
+      127.6,
+      220.6,
+      303.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-SSC-2020-01-23-Videofile-core-stage-breakover-and-lift-Thompson.jpg",
+  "sheet_times": [
+    9.47,
+    28.4,
+    47.34,
+    66.27,
+    85.21,
+    104.14,
+    123.08,
+    142.02,
+    160.95,
+    179.89,
+    198.82,
+    217.76,
+    236.69,
+    255.63,
+    274.56,
+    293.5
+  ]
+}

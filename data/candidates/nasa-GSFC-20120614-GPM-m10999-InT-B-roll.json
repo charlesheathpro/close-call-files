@@ -1,0 +1,89 @@
+{
+  "asset_id": "nasa:GSFC_20120614_GPM_m10999_InT_B_roll",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "GPM Core Spacecraft Integration and Testing: B-Roll",
+  "description": "Footage montage of GPM Core Observatory in various stages of integration and testing.",
+  "keywords": "GPM, Radar, Cleanroom, Earth",
+  "date": "2012-06-14T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120614_GPM_m10999_InT_B_roll",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120614-GPM-m10999-InT-B-roll",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:25:57Z",
+  "duration": 256.43,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120614_GPM_m10999_InT_B_roll/GSFC_20120614_GPM_m10999_InT_B_roll~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 256.426667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    9.23,
+    15.33,
+    24.77,
+    31.47,
+    42.27,
+    57.0,
+    161.67,
+    169.03,
+    176.2,
+    188.9,
+    194.57,
+    203.1,
+    232.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      35.5,
+      36.3,
+      41.6,
+      176.2,
+      232.3
+    ],
+    "silence_ends": [
+      9.2,
+      36.3,
+      37.4,
+      57.0,
+      188.9,
+      244.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120614-GPM-m10999-InT-B-roll.jpg",
+  "sheet_times": [
+    8.0,
+    23.99,
+    39.99,
+    55.99,
+    71.98,
+    87.98,
+    103.97,
+    119.97,
+    135.96,
+    151.96,
+    167.96,
+    183.95,
+    199.95,
+    215.94,
+    231.94,
+    247.94
+  ]
+}
