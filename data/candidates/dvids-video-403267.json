@@ -26,7 +26,7 @@
   "time_start": 4.1588,
   "aspect_ratio": "16:9",
   "id": "dvids-video-403267",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:53:17Z",
   "duration": 131.22,
   "source_file": {
@@ -77,5 +77,6 @@
     110.95,
     118.86,
     126.77
-  ]
+  ],
+  "pass_reason": "Desert medical extraction; routine."
 }

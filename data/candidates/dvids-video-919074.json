@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-919074",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:55:19Z",
   "duration": 264.45,
   "source_file": {
@@ -644,5 +644,6 @@
     222.71,
     239.2,
     255.7
-  ]
+  ],
+  "pass_reason": "Interview recounting a past event, licensed music."
 }

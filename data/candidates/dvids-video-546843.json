@@ -26,7 +26,7 @@
   "time_start": 1.001,
   "aspect_ratio": "16:9",
   "id": "dvids-video-546843",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-11T00:52:19Z",
   "duration": 28.47,
   "source_file": {
@@ -71,5 +71,7 @@
     23.75,
     25.44,
     27.13
-  ]
+  ],
+  "used_by": "ccf-20261111-02",
+  "editor_note": "Nov 11: spec ccf-20261111-02 written with a hold until Nov 14 (flood-current Shorts published Nov 9 and Nov 11). Do not redo; remove the spec's hold field on or after Nov 14."
 }
