@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:547994",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Harvey Relief",
+  "description": "U.S. Army National Guard Soldiers assigned to the 551st Multi-Role Bridge Company, El Campo, Texas, search flooded Beaumont, Texas neighborhoods, Sept. 3, 2017, for civilians after Hurricane Harvey. Hurricane Harvey formed in the Gulf of Mexico and made landfall in southeastern Texas, bringing record flooding and destruction to the region. U.S. military assets supported FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Air Force video by SSgt Rion Ehrman)",
+  "keywords": "Hurricane Harvey",
+  "date": "2017-09-03T00:00:00-04:00",
+  "date_published": "2017-09-04T00:40:57-04:00",
+  "branch": "Air Force",
+  "unit_name": "Air Force Public Affairs Agency",
+  "credit": "Staff Sgt. Rion Ehrman",
+  "category": "B-Roll",
+  "virin": "170903-F-RM521-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547994/hurricane-harvey-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547994",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:31:53Z",
+  "duration": 103.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104800658/DOD_104800658.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9941,
+    "size": 129718822
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.97,
+      "e": 4.97,
+      "text": "We just got a ring of sun, I'll try to use it."
+    }
+  ],
+  "scene_cuts": [
+    2.24,
+    11.54,
+    15.92,
+    19.92,
+    24.99,
+    29.56,
+    36.04,
+    45.88,
+    53.22,
+    57.46,
+    63.63,
+    68.2,
+    73.71,
+    79.45,
+    83.75,
+    87.52,
+    95.9,
+    98.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-547994.jpg",
+  "sheet_times": [
+    3.2,
+    9.61,
+    16.02,
+    22.42,
+    28.83,
+    35.24,
+    41.64,
+    48.05,
+    54.46,
+    60.86,
+    67.27,
+    73.67,
+    80.08,
+    86.49,
+    92.89,
+    99.3
+  ]
+}

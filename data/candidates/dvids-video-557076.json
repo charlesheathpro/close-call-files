@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:557076",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Hurricane Maria Relief",
+  "description": "Airmen from Dover Air Force Base delivered  AT&T mobile cell tower trucks and hurricane relief supplies to San Juan, Puerto Rico. Hurricane Maria formed in the Atlantic Ocean and affected islands in the Caribbean Sea, including Puerto Rico and U.S. Virgin Islands. US military assets supported FEMA as well as state and local authorities in rescue and relief efforts.",
+  "keywords": "ANG, 156th Airlift Wing, PRANG, Puerto Rico Air National Guard, USAF, WC130H, Hurricane Maria, Muniz ANGB, VIPR, Hurricanve Maria, Air National Guard",
+  "date": "2017-10-08T00:00:00-04:00",
+  "date_published": "2017-10-09T22:35:16-04:00",
+  "branch": "Air Force",
+  "unit_name": "1st Combat Camera Squadron",
+  "credit": "Tech. Sgt. Jose Rodriguez",
+  "category": "B-Roll",
+  "virin": "171006-F-FE269-5001",
+  "location": {
+    "city": "San Juan",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/557076/hurricane-maria-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-557076",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:29:56Z",
+  "duration": 209.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104940456/DOD_104940456.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9910,
+    "size": 262666535
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    30.66,
+    48.98,
+    52.99,
+    60.46,
+    70.8,
+    98.83,
+    113.95,
+    120.12,
+    125.66,
+    155.26,
+    184.08,
+    193.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      51.5,
+      208.1
+    ],
+    "silence_ends": [
+      52.4,
+      209.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-557076.jpg",
+  "sheet_times": [
+    6.52,
+    19.56,
+    32.6,
+    45.65,
+    58.69,
+    71.73,
+    84.77,
+    97.81,
+    110.85,
+    123.89,
+    136.94,
+    149.98,
+    163.02,
+    176.06,
+    189.1,
+    202.14
+  ]
+}
