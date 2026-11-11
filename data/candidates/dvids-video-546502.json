@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:546502",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "U.S. Border Patrol Boats Assist in Hurricane Harvey relief",
+  "description": "U.S. Border Patrol Rio Grande Valley Sector amphibious vehicles deploy to assist relief efforts in areas flooded by Hurricane Harvey.",
+  "keywords": "Customs and Border Protection, flood relief, Hurricane Harvey, cbpharvey",
+  "date": "2017-08-28T00:00:00-04:00",
+  "date_published": "2017-08-29T09:30:13-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Carmen Castro",
+  "category": "B-Roll",
+  "virin": "170829-A-CC123-001-CC",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546502/us-border-patrol-boats-assist-hurricane-harvey-relief",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546502",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:51:01Z",
+  "duration": 25.96,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104775880/DOD_104775880.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8769,
+    "size": 28888314
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.26,
+      "e": 3.62,
+      "text": "I'm happy to be here."
+    }
+  ],
+  "scene_cuts": [
+    14.08,
+    21.49,
+    24.96
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      25.0
+    ],
+    "silence_ends": [
+      26.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546502.jpg",
+  "sheet_times": [
+    0.8,
+    2.39,
+    3.98,
+    5.57,
+    7.16,
+    8.75,
+    10.34,
+    11.93,
+    13.53,
+    15.12,
+    16.71,
+    18.3,
+    19.89,
+    21.48,
+    23.07,
+    24.66
+  ]
+}

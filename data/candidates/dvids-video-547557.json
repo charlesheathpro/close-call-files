@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:547557",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey",
+  "title": "Port of Corpus Christi reopens after Hurricane Harvey",
+  "description": "Ships enter the Port of Corpus Christi, Aug. 31, 2017, after the Coast Guard reopened the port following Hurricane Harvey. U.S. Coast Guard photo.",
+  "keywords": "Hurricane Harvey, Coast Guard, Corpus Christi",
+  "date": "2017-08-31T00:00:00-04:00",
+  "date_published": "2017-09-01T12:22:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "170901-G-MR731-1001",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547557/port-corpus-christi-reopens-after-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547557",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:50:56Z",
+  "duration": 39.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104793246/DOD_104793246.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9768,
+    "size": 48332178
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.82,
+    17.28,
+    23.42,
+    24.19
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      39.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547557.jpg",
+  "sheet_times": [
+    1.22,
+    3.66,
+    6.1,
+    8.54,
+    10.98,
+    13.42,
+    15.86,
+    18.31,
+    20.75,
+    23.19,
+    25.63,
+    28.07,
+    30.51,
+    32.95,
+    35.39,
+    37.83
+  ]
+}
