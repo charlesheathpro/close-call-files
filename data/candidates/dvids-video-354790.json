@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:354790",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hurricane rescue",
+  "title": "Sailboat caught in Hurricane Julio",
+  "description": "The Coast Guard is coordinating the rescue of 42-foot sailboat Walkabout caught in Hurricane Julio 414 miles northeast of Oahu, Aug. 10, 2014. Walkabout is disabled and taking on water with three people aboard. (U.S. Coast Guard courtesy video)",
+  "keywords": "HC-130, Air Station, Coast Guard rescue, Barbers Point, Hercules, Matson, Hurricane Iselle and Hurricane Julio, Hurricane Iselle, Hurricane Julio, saiboat, Coast Guard, Hawaii, airplane, rescue, storm, Honolulu",
+  "date": "2014-08-10T00:00:00-04:00",
+  "date_published": "2014-08-11T18:30:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Petty Officer 2nd Class Tara Molle",
+  "category": "B-Roll",
+  "virin": "140811-G-XD768-001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/354790/sailboat-caught-hurricane-julio",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-354790",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:32:12Z",
+  "duration": 147.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1408/DOD_101874703/DOD_101874703.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 6736,
+    "size": 126674314
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    28.19,
+    29.46,
+    35.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      147.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-354790.jpg",
+  "sheet_times": [
+    4.59,
+    13.78,
+    22.97,
+    32.15,
+    41.34,
+    50.52,
+    59.71,
+    68.9,
+    78.08,
+    87.27,
+    96.45,
+    105.64,
+    114.83,
+    124.01,
+    133.2,
+    142.38
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:546085",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey rescue",
+  "title": "Coast Guard responds after Hurricane Harvey",
+  "description": "The Coast Guard assessed damage and offered search and rescue assisitance during an overflight from Port Aransas to Port O'Connor, Texas, Aug. 26, 2017. The Coast Guard is working closely with all local and state emergency operation centers to manage Coast Guard storm operations.\r\nU.S. Coast Guard video by Petty Officer 3rd Class Johanna Strickland.",
+  "keywords": "Hurricane Harvey, Coast Guard, Corpus Christi, USCG, CG",
+  "date": "2017-08-26T00:00:00-04:00",
+  "date_published": "2017-08-26T18:19:28-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Johanna Strickland",
+  "category": "B-Roll",
+  "virin": "170826-G-IM053-245",
+  "location": {
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546085/coast-guard-responds-after-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.03333,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-546085",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:34:04Z",
+  "duration": 87.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104766643/DOD_104766643.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 7493,
+    "size": 83141821
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.03,
+    4.03,
+    56.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546085.jpg",
+  "sheet_times": [
+    6.62,
+    11.79,
+    16.96,
+    22.13,
+    27.3,
+    32.47,
+    37.64,
+    42.81,
+    47.98,
+    53.15,
+    58.32,
+    63.49,
+    68.66,
+    73.83,
+    79.0,
+    84.17
+  ]
+}

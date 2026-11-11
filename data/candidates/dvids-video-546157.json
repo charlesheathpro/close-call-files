@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:546157",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey rescue",
+  "title": "Coast Guard responds after Hurricane Harvey",
+  "description": "U.S. Coast Guard Air Station Houston works to rescue victims of the aftermath of Hurricane Harvey.",
+  "keywords": "Harvey, Hurricane Harvey, DoD Hurricane Relief, Coast Guard, USCG, CG",
+  "date": "2017-08-27T00:00:00-04:00",
+  "date_published": "2017-08-27T18:55:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 3rd Class Johanna Strickland",
+  "category": "B-Roll",
+  "virin": "170827-G-IM053-004",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/546157/coast-guard-responds-after-hurricane-harvey",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-546157",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:33:52Z",
+  "duration": 45.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104767924/DOD_104767924.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8504,
+    "size": 49134730
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    10.74,
+    24.62,
+    27.39,
+    37.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-546157.jpg",
+  "sheet_times": [
+    5.29,
+    7.85,
+    10.42,
+    12.98,
+    15.55,
+    18.11,
+    20.68,
+    23.24,
+    25.81,
+    28.37,
+    30.94,
+    33.5,
+    36.07,
+    38.63,
+    41.2,
+    43.76
+  ]
+}
