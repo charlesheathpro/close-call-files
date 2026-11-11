@@ -1,21 +1,22 @@
 {
-  "at": "2026-11-10T16:40:00Z",
+  "at": "2026-11-11T00:40:00Z",
   "healthy": false,
   "numbers": {
     "dropped": 48,
     "uploaded": 116,
     "passed": 0,
     "needs_qa": 0,
-    "scheduled_48h": 7
+    "needs_build": 0,
+    "scheduled_48h": 4
   },
   "found": [
-    "buffer thin: 7 scheduled in the next 48 h, 0 passed, 1 in QA at start (fails the 20 and 25 thresholds)",
-    "upload (16:04Z), harvest (Nov 9 21:00Z) and stats runs landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
-    "rescue pool is mined out: about 200 new rescue titles filtered, remaining ones are medevacs, training, relief b-roll and door-cam hoists; 5 frame sheets viewed, none clear the viral bar"
+    "buffer thin: 4 scheduled in the next 48 h, 0 passed, 0 in QA or build (fails the 20 and 25 thresholds)",
+    "upload (23:42Z), harvest (Nov 10 18:02Z) and stats (Nov 10) runs landing; no build errors in 24 h; no auth or upload_error alerts in 24 h",
+    "the 18:02Z archive harvest added 150 candidates that are almost all routine medevacs; keyword sweep of 2,343 new candidates found no rescue that clears the viral bar; NASA engine tests and AA-2 already used"
   ],
   "fixed": [
-    "QA: dropped 10-03 (calm Isaac boat evacuation, third hurricane flood in two days)",
-    "editor pass: 0 specs, 5 candidates passed over",
-    "pushed archive to triggers/harvest to pull fresh rescue clips from the 6,931 unseen"
+    "editor pass: 0 specs, 7 more candidates passed over (dark, medical, calm, unresolved)",
+    "pushed archive to triggers/harvest again",
+    "Willapa Bay crab boat sinking (dvids-video-872568) is held for Nov 12 by the editor for story variety; it is the strongest clip left"
   ]
 }
