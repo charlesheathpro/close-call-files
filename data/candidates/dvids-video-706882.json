@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:706882",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Red Flag Rescue- Navy",
+  "description": "Quick clip of Navy Unit HSC-14 participating in Red Flag Rescue at Davis-Monthan AFB, Tucson, Arizona.",
+  "keywords": "Davis-Monthan AFB, Red Flag Rescue, navy",
+  "date": "2019-08-28T00:00:00-04:00",
+  "date_published": "2019-09-04T16:37:36-04:00",
+  "branch": "Air Force",
+  "unit_name": "355th Wing",
+  "credit": "Airman 1st Class Sari Seibert",
+  "category": "",
+  "virin": "190828-F-NP794-874",
+  "location": {
+    "city": "Tucson",
+    "state": "Arizona",
+    "country": "United States",
+    "state_abbreviation": "AZ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/706882/red-flag-rescue-navy",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-706882",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:28:09Z",
+  "duration": 15.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107185612/DOD_107185612.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9715,
+    "size": 19349316
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.28,
+      "e": 3.12,
+      "text": "(soft rock music)"
+    }
+  ],
+  "scene_cuts": [
+    3.54,
+    9.51,
+    12.08
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-706882.jpg",
+  "sheet_times": [
+    0.48,
+    1.43,
+    2.38,
+    3.33,
+    4.28,
+    5.23,
+    6.18,
+    7.13,
+    8.09,
+    9.04,
+    9.99,
+    10.94,
+    11.89,
+    12.84,
+    13.79,
+    14.74
+  ]
+}

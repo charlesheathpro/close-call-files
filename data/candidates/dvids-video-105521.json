@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:105521",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Camp Pendleton Rescue efforts",
+  "description": "Video of rescue efforts of amphibious assault vehicle on January 14, 2011. Produced by Sgt. Heidi Agostini. This video available in high definition.",
+  "keywords": "amphibious assault vehicle, Heidi Agostini, High Definition, Camp Pendleton",
+  "date": "2011-01-14T00:00:00-05:00",
+  "date_published": "2011-01-15T03:47:17-05:00",
+  "branch": "Marines",
+  "unit_name": "I Marine Expeditionary Force",
+  "credit": "Sgt. Heidi Agostini",
+  "category": "B-Roll",
+  "virin": "110114-M-0944A-001",
+  "location": {
+    "city": "Camp Pendleton",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/105521/camp-pendleton-rescue-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-105521",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:26:15Z",
+  "duration": 87.52,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1101/DOD_100116389/DOD_100116389.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 110596338
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 25.49,
+      "e": 26.87,
+      "text": "down there with ceramics."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    14.68,
+    32.97,
+    49.42,
+    65.23
+  ],
+  "drama_score": 61,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-105521.jpg",
+  "sheet_times": [
+    6.6,
+    11.79,
+    16.98,
+    22.16,
+    27.35,
+    32.54,
+    37.73,
+    42.92,
+    48.11,
+    53.3,
+    58.48,
+    63.67,
+    68.86,
+    74.05,
+    79.24,
+    84.43
+  ]
+}

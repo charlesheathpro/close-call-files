@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:812666",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "USBP Rescues Drowning Man",
+  "description": "United States Border Patrol Agents rescue a drowning man who was caught in a rip current near Imperial Beach, Calif., Sept. 1, 2021",
+  "keywords": "CBP, USBP, CBPSAR, rescue",
+  "date": "2021-09-01T00:00:00-04:00",
+  "date_published": "2021-09-07T11:22:50-04:00",
+  "branch": "Civilian",
+  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+  "credit": "Matthew Dyman",
+  "category": "B-Roll",
+  "virin": "210901-H-DO456-0700",
+  "location": {
+    "city": "Imperial Beach",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/812666/usbp-rescues-drowning-man",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-812666",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:26:22Z",
+  "duration": 90.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2109/DOD_108552831/DOD_108552831.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 39314742
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      90.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-812666.jpg",
+  "sheet_times": [
+    2.8,
+    8.39,
+    13.98,
+    19.58,
+    25.17,
+    30.77,
+    36.36,
+    41.95,
+    47.55,
+    53.14,
+    58.73,
+    64.33,
+    69.92,
+    75.52,
+    81.11,
+    86.7
+  ]
+}

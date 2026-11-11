@@ -1,0 +1,84 @@
+{
+  "asset_id": "video:97250",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "HH-60 Search and Rescue",
+  "description": "B-roll of an HH-60 Search and Rescue taking off Oct. 3 from the flight deck of U.S.S. Makin Island. The 11th MEU is the first amphibious landing force to embark the Makin Island, which set sail for San Francisco to participate in the city's 2010 Fleet Week. Video by Sgt. Jason Fudge.",
+  "keywords": "11th MEU, 2010 Fleet Week, HH-60 Search and Rescue, Marines, USS Makin Island",
+  "date": "2010-10-03T00:00:00-04:00",
+  "date_published": "2010-10-07T23:45:30-04:00",
+  "branch": "Marines",
+  "unit_name": "11th Marine Expeditionary Unit",
+  "credit": "Sgt. Jason Fudge",
+  "category": "B-Roll",
+  "virin": "101003-M-074F-004",
+  "location": {
+    "city": "",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/97250/hh-60-search-and-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 10.01,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-97250",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:23:56Z",
+  "duration": 210.84,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1010/DOD_100089215/DOD_100089215.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.01,
+    18.25,
+    28.26,
+    46.95,
+    101.97,
+    110.01,
+    116.58,
+    124.69,
+    131.83,
+    141.84,
+    153.35,
+    180.51,
+    200.97
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      10.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-97250.jpg",
+  "sheet_times": [
+    16.27,
+    28.79,
+    41.31,
+    53.83,
+    66.35,
+    78.87,
+    91.4,
+    103.92,
+    116.44,
+    128.96,
+    141.48,
+    154.0,
+    166.52,
+    179.04,
+    191.56,
+    204.08
+  ]
+}
