@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:GSFC_20141015_ATLAS_m11709_Door_Opens",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "ICESat-2 Testing and Integration B-roll: ATLAS Door Open",
+  "description": "The door to the ATLAS instrument is tested",
+  "keywords": "ICESat-2, ATLAS, Earth",
+  "date": "2014-10-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141015_ATLAS_m11709_Door_Opens",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141015-ATLAS-m11709-Door-Opens",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:21:45Z",
+  "duration": 26.27,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141015_ATLAS_m11709_Door_Opens/GSFC_20141015_ATLAS_m11709_Door_Opens~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 26.209521
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    13.67,
+    26.23
+  ],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141015-ATLAS-m11709-Door-Opens.jpg",
+  "sheet_times": [
+    0.81,
+    2.42,
+    4.03,
+    5.64,
+    7.25,
+    8.86,
+    10.47,
+    12.08,
+    13.69,
+    15.3,
+    16.91,
+    18.52,
+    20.13,
+    21.74,
+    23.35,
+    24.96
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "nasa:KSC-20190913-RV-CMS01_0001-Nominal_Wet_Flow_Test_at_Pad_39B-3229665",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "Nominal Wet Flow Test at Pad 39B",
+  "description": "A wet flow test at Pad 39B September 13, 2019, tests the sound suppression system that will be used for launch of NASA's Space Launch System for the Artemis I mission. During the test, about 450,000 gallons of water poured onto the Pad B flame deflector, the mobile launcher flame hole and onto the launcher's blast deck. This was the first time the ground launch sequencer that will be used on the day of launch was used for the timing of a sound suppression test.",
+  "keywords": "Wet Flow Test, sound suppression, EGS, Exploration Ground Systems, ML, Mobile Launcher, Pad 39B",
+  "date": "2019-09-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190913-RV-CMS01_0001-Nominal_Wet_Flow_Test_at_Pad_39B-3229665",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190913-RV-CMS01-0001-Nominal-Wet-Flow-Test-at-Pad-39B-3229665",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:24:32Z",
+  "duration": 93.83,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190913-RV-CMS01_0001-Nominal_Wet_Flow_Test_at_Pad_39B-3229665/KSC-20190913-RV-CMS01_0001-Nominal_Wet_Flow_Test_at_Pad_39B-3229665~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 93.833333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.17,
+    51.67,
+    58.1,
+    63.6,
+    74.97,
+    82.13,
+    88.17,
+    93.8
+  ],
+  "drama_score": 63,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      63.6
+    ],
+    "silence_ends": [
+      13.1,
+      74.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190913-RV-CMS01-0001-Nominal-Wet-Flow-Test-at-Pad-39B-3229665.jpg",
+  "sheet_times": [
+    2.92,
+    8.75,
+    14.58,
+    20.42,
+    26.25,
+    32.08,
+    37.92,
+    43.75,
+    49.58,
+    55.42,
+    61.25,
+    67.08,
+    72.92,
+    78.75,
+    84.58,
+    90.42
+  ]
+}

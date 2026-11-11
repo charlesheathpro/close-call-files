@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:GSFC_20141015_ATLAS_m11709_Acoustic",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "ICESat-2 Testing and Integration B-roll: Acoustic Testing",
+  "description": "Footage of ATLAS entering and undergoing acoustic testing.",
+  "keywords": "ICESat-2, ATLAS, Earth",
+  "date": "2014-10-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141015_ATLAS_m11709_Acoustic",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141015-ATLAS-m11709-Acoustic",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:21:38Z",
+  "duration": 74.93,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141015_ATLAS_m11709_Acoustic/GSFC_20141015_ATLAS_m11709_Acoustic~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 74.8748
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    8.53,
+    16.8,
+    27.1,
+    38.73,
+    48.77,
+    53.67,
+    59.07,
+    66.27,
+    69.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141015-ATLAS-m11709-Acoustic.jpg",
+  "sheet_times": [
+    2.33,
+    6.98,
+    11.63,
+    16.28,
+    20.93,
+    25.59,
+    30.24,
+    34.89,
+    39.54,
+    44.19,
+    48.85,
+    53.5,
+    58.15,
+    62.8,
+    67.46,
+    72.11
+  ]
+}

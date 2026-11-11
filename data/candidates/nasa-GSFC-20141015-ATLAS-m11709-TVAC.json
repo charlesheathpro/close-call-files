@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:GSFC_20141015_ATLAS_m11709_TVAC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "test",
+  "title": "ICESat-2 Testing and Integration B-roll: ATLAS TVAC Testing",
+  "description": "Footage of the ATLAS instrument being craned into the thermal vacuum chamber for environmental testing.",
+  "keywords": "ICESat-2, ATLAS, Earth",
+  "date": "2014-10-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20141015_ATLAS_m11709_TVAC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20141015-ATLAS-m11709-TVAC",
+  "status": "new",
+  "harvested_at": "2026-11-11T18:23:02Z",
+  "duration": 56.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20141015_ATLAS_m11709_TVAC/GSFC_20141015_ATLAS_m11709_TVAC~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 56.823438
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    9.27,
+    16.33,
+    31.43,
+    43.67,
+    50.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20141015-ATLAS-m11709-TVAC.jpg",
+  "sheet_times": [
+    1.76,
+    5.28,
+    8.81,
+    12.33,
+    15.85,
+    19.38,
+    22.9,
+    26.42,
+    29.94,
+    33.47,
+    36.99,
+    40.51,
+    44.04,
+    47.56,
+    51.08,
+    54.61
+  ]
+}
