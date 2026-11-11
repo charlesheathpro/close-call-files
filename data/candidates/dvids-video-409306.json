@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:409306",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Angel Thunder 2015 - Meteor Crater Rescue",
+  "description": "Angel Thunder 2015 personnel evacuation from Meteor Crater in Winslow, Arizona.",
+  "keywords": "Arizona National Guard, Davis-Monthan, Angel Thunder, UH-60A, DM, angelthunder, Angel Thunder 2015, meteor crater rescue",
+  "date": "2015-06-12T00:00:00-04:00",
+  "date_published": "2015-06-12T20:24:05-04:00",
+  "branch": "Air Force",
+  "unit_name": "355th Wing",
+  "credit": "Senior Airman Austin Willhoit",
+  "category": "B-Roll",
+  "virin": "150612-F-ZU761-001",
+  "location": {
+    "city": "Tucson",
+    "state": "Arizona",
+    "country": "United States",
+    "state_abbreviation": "AZ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/409306/angel-thunder-2015-meteor-crater-rescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.12543,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-409306",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:51:23Z",
+  "duration": 159.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102513256/DOD_102513256.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 9772,
+    "size": 197570066
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.14,
+    63.2,
+    83.35,
+    114.38,
+    135.57,
+    142.28,
+    149.88,
+    155.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-409306.jpg",
+  "sheet_times": [
+    8.98,
+    18.69,
+    28.4,
+    38.11,
+    47.82,
+    57.53,
+    67.24,
+    76.95,
+    86.66,
+    96.37,
+    106.08,
+    115.79,
+    125.5,
+    135.21,
+    144.91,
+    154.62
+  ]
+}

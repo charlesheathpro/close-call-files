@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:561163",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescues",
+  "title": "Mariners Rescued by USS Ashland (LSD 48)",
+  "description": "B-roll footage of the rescue of Jennifer Appel and Tasha Fuiava by the Sasebo-based amphibious dock landing ship USS Ashland (LSD 48) after their 50 foot sailboat, the “Sea Nymph” had strayed well off its original course and they were stranded at sea for several months.",
+  "keywords": "USS Ashland (LSD 48), Rescued Mariners, Jennifer Appel, Tasha Fuiava",
+  "date": "2017-10-27T00:00:00-04:00",
+  "date_published": "2017-10-27T13:25:28-04:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Navy",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/561163/mariners-rescued-uss-ashland-lsd-48",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-561163",
+  "status": "new",
+  "harvested_at": "2026-11-11T00:50:51Z",
+  "duration": 48.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_105018733/DOD_105018733-1280x720-2765k.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 2761,
+    "size": 17796363
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 12.4,
+      "e": 14.8,
+      "text": "your home or your residence was in the mount house."
+    }
+  ],
+  "scene_cuts": [
+    4.0,
+    9.01,
+    9.51,
+    18.92,
+    19.45,
+    28.43,
+    28.93,
+    41.57,
+    42.11
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      9.1
+    ],
+    "silence_ends": [
+      4.1,
+      9.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-561163.jpg",
+  "sheet_times": [
+    5.39,
+    8.17,
+    10.94,
+    13.71,
+    16.49,
+    19.26,
+    22.04,
+    24.81,
+    27.59,
+    30.36,
+    33.14,
+    35.91,
+    38.69,
+    41.46,
+    44.23,
+    47.01
+  ]
+}
