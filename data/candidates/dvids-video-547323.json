@@ -1,0 +1,98 @@
+{
+  "asset_id": "video:547323",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "Hurricane Harvey rescue",
+  "title": "USS Kearsarge Departs Norfolk to Support Hurricane Harvey Relief Efforts",
+  "description": "NORFOLK, Va. (Aug. 31, 2017) The USS Kearsarge (LHD 3) onloads supplies and departs Naval Station Norfolk to support Hurricane Harvey relief efforts. U.S. military assets are supporting FEMA as well as state and local authorities in rescue and relief efforts. (U.S. Navy video by Mass Communication Specialist Seaman Cameron Stoner/Released)",
+  "keywords": "Kearsarge",
+  "date": "2017-08-31T00:00:00-04:00",
+  "date_published": "2017-08-31T19:59:18-04:00",
+  "branch": "Navy",
+  "unit_name": "Fleet Public Affairs Center Norfolk",
+  "credit": "Petty Officer 3rd Class Casey Hopkins",
+  "category": "B-Roll",
+  "virin": "170831-N-UB406-0002",
+  "location": {
+    "city": "Norfolk",
+    "state": "Virginia",
+    "country": "United States",
+    "state_abbreviation": "VA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547323/uss-kearsarge-departs-norfolk-support-hurricane-harvey-relief-efforts",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.6046,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547323",
+  "status": "new",
+  "harvested_at": "2026-11-11T08:34:58Z",
+  "duration": 266.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104789847/DOD_104789847.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8962,
+    "size": 301974731
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.38,
+      "e": 11.38,
+      "text": "4, 3, 2, 1, 1, on my arm."
+    }
+  ],
+  "scene_cuts": [
+    4.6,
+    12.15,
+    19.29,
+    33.07,
+    49.75,
+    59.36,
+    70.8,
+    86.29,
+    96.2,
+    108.48,
+    123.22,
+    135.8,
+    147.81,
+    162.76,
+    170.24,
+    183.32,
+    198.16,
+    207.84,
+    221.55,
+    238.47,
+    254.05
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-547323.jpg",
+  "sheet_times": [
+    12.77,
+    29.09,
+    45.42,
+    61.74,
+    78.07,
+    94.39,
+    110.72,
+    127.04,
+    143.37,
+    159.69,
+    176.02,
+    192.34,
+    208.67,
+    224.99,
+    241.32,
+    257.64
+  ]
+}
