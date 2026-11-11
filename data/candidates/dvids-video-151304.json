@@ -1,78 +1,79 @@
 {
-  "asset_id": "video:151304",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescues",
-  "title": "USCBP Helicopter Rescue in Cerro Colorado Mountains",
-  "description": "U.S. Customs and Border Patrol helicopter rescue. A man stuck on a near-vertical cliff within the Cerro Colorado Mountains near Arivaca, Ariz., was rescued in a Customs and Border Protection joint operation on Aug 7.",
-  "keywords": "Homeland Security, hoist, Customs and Border Protection, DHS, Colorado, border patrol, Colo., USCBP, illegal alien, Cerro Mountains, helicopter, medic, desert, rescue, blackhawk, CO, Medivac, EMT",
-  "date": "2012-08-08T00:00:00-04:00",
-  "date_published": "2012-08-08T14:38:37-04:00",
-  "branch": "Civilian",
-  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
-  "credit": "Daniel Barrios",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Cerro Mountains",
-    "state": "Colorado",
-    "country": "United States",
-    "state_abbreviation": "CO",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/151304/uscbp-helicopter-rescue-cerro-colorado-mountains",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-151304",
-  "status": "new",
-  "harvested_at": "2026-11-11T00:49:51Z",
-  "duration": 61.16,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1208/DOD_100461908/DOD_100461908.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 8105,
-    "size": 61984519
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    3.0,
-    15.48,
-    20.89,
-    26.99,
-    34.37,
-    37.84,
-    46.18
+ "asset_id": "video:151304",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescues",
+ "title": "USCBP Helicopter Rescue in Cerro Colorado Mountains",
+ "description": "U.S. Customs and Border Patrol helicopter rescue. A man stuck on a near-vertical cliff within the Cerro Colorado Mountains near Arivaca, Ariz., was rescued in a Customs and Border Protection joint operation on Aug 7.",
+ "keywords": "Homeland Security, hoist, Customs and Border Protection, DHS, Colorado, border patrol, Colo., USCBP, illegal alien, Cerro Mountains, helicopter, medic, desert, rescue, blackhawk, CO, Medivac, EMT",
+ "date": "2012-08-08T00:00:00-04:00",
+ "date_published": "2012-08-08T14:38:37-04:00",
+ "branch": "Civilian",
+ "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+ "credit": "Daniel Barrios",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Cerro Mountains",
+  "state": "Colorado",
+  "country": "United States",
+  "state_abbreviation": "CO",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/151304/uscbp-helicopter-rescue-cerro-colorado-mountains",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-151304",
+ "status": "passed_over",
+ "harvested_at": "2026-11-11T00:49:51Z",
+ "duration": 61.16,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1208/DOD_100461908/DOD_100461908.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 8105,
+  "size": 61984519
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  3.0,
+  15.48,
+  20.89,
+  26.99,
+  34.37,
+  37.84,
+  46.18
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      61.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-151304.jpg",
-  "sheet_times": [
-    1.9,
-    5.69,
-    9.48,
-    13.27,
-    17.06,
-    20.85,
-    24.64,
-    28.44,
-    32.23,
-    36.02,
-    39.81,
-    43.6,
-    47.39,
-    51.18,
-    54.98,
-    58.77
+  "silence_ends": [
+   61.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-151304.jpg",
+ "sheet_times": [
+  1.9,
+  5.69,
+  9.48,
+  13.27,
+  17.06,
+  20.85,
+  24.64,
+  28.44,
+  32.23,
+  36.02,
+  39.81,
+  43.6,
+  47.39,
+  51.18,
+  54.98,
+  58.77
+ ],
+ "pass_reason": "Cliff hoist, but 720x480 with most action in a small letterboxed inset, a one-sentence release, and the close shots are of the man being treated; also a second Arizona CBP mountain rescue within 2 days of 11-10-02."
 }
