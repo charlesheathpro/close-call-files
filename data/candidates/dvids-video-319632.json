@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-319632",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:55:39Z",
   "duration": 39.57,
   "source_file": {
@@ -75,5 +75,6 @@
     32.97,
     35.41,
     37.85
-  ]
+  ],
+  "pass_reason": "QA 16Z: injured man hoist (medical), 40 s, routine"
 }

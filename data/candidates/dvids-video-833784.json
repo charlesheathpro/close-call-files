@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "CBP Air and Marine Operations Hoist Rescue B-Roll: Tucson, AZ  3.4.2022",
-  "description": "On March 4, 2022, Pima County Search and Rescue (SAR) contacted the U.S. Border Patrol’s Arizona Air Coordination Center (A2C2) requesting a hoist capable UH-60 Black Hawk helicopter for a heat stroke victim in Sabino Canyon, northeast of Tucson, Arizona. \r\n \r\nAn Air and Marine Operations UH-60 crew launched from the Tucson Air Branch and was on scene within 7 minutes. Upon arrival, the AMO aircrew located the SAR team and the patient, but could not find a suitable landing area due to the steep, rugged terrain. \r\n \r\nThe aircrew inserted a Rescue Specialist via hoist for the extraction. An AMO Emergency Medical Technician on board assessed the 25-year-old male U.S. citizen patient who was suffering from heat-related injuries. \r\n \r\nThe patient was transported to a Pima County Sheriff’s Office rescue team nearby.\r\n \r\nCourtesy of Air and Marine Operations",
+  "description": "On March 4, 2022, Pima County Search and Rescue (SAR) contacted the U.S. Border Patrol\u2019s Arizona Air Coordination Center (A2C2) requesting a hoist capable UH-60 Black Hawk helicopter for a heat stroke victim in Sabino Canyon, northeast of Tucson, Arizona. \r\n \r\nAn Air and Marine Operations UH-60 crew launched from the Tucson Air Branch and was on scene within 7 minutes. Upon arrival, the AMO aircrew located the SAR team and the patient, but could not find a suitable landing area due to the steep, rugged terrain. \r\n \r\nThe aircrew inserted a Rescue Specialist via hoist for the extraction. An AMO Emergency Medical Technician on board assessed the 25-year-old male U.S. citizen patient who was suffering from heat-related injuries. \r\n \r\nThe patient was transported to a Pima County Sheriff\u2019s Office rescue team nearby.\r\n \r\nCourtesy of Air and Marine Operations",
   "keywords": "CBP, Air and Marine, AMO",
   "date": "2022-03-04T00:00:00-05:00",
   "date_published": "2022-03-07T16:09:12-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-833784",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:40:54Z",
   "duration": 164.8,
   "source_file": {
@@ -75,5 +75,6 @@
     138.63,
     148.9,
     159.16
-  ]
+  ],
+  "pass_reason": "QA 16Z: heat-stroke patient hoist (medical), Tucson hoists already run three times"
 }

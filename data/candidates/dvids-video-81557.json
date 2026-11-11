@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "4:3",
   "id": "dvids-video-81557",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:39:13Z",
   "duration": 42.48,
   "source_file": {
@@ -126,5 +126,6 @@
     36.05,
     38.42,
     40.79
-  ]
+  ],
+  "pass_reason": "QA 16Z: calm airboat evacuation from a flooded house; no visible danger"
 }

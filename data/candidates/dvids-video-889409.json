@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "AMO USBP Tucson Hoist Rescue B-Roll 230703",
-  "description": "TUCSON, Ariz. — Air and Marine Operations and U.S. Border Patrol rescued two U.S. citizens suffering from heat stress near Montana Peak, south of Arivaca, Arizona.\r\n \r\nOn Monday, July 3, Tucson Border Patrol agents responded to two U.S. Citizens requesting immediate medical assistance. One person was falling in and out of consciousness and the second person was suffering from extreme heat stress.\r\n \r\nDue to the terrain and no suitable place available to land, an Air and Marine Rescue Specialist and a Border Patrol Search Trauma and Rescue (BORSTAR) paramedic were lowered to the scene using the helicopters hoist to assess the injuries.\r\n \r\nThe aircrew evacuated the man and woman to Banner University Medical Center for further medical treatment and evaluation.",
+  "description": "TUCSON, Ariz. \u2014 Air and Marine Operations and U.S. Border Patrol rescued two U.S. citizens suffering from heat stress near Montana Peak, south of Arivaca, Arizona.\r\n \r\nOn Monday, July 3, Tucson Border Patrol agents responded to two U.S. Citizens requesting immediate medical assistance. One person was falling in and out of consciousness and the second person was suffering from extreme heat stress.\r\n \r\nDue to the terrain and no suitable place available to land, an Air and Marine Rescue Specialist and a Border Patrol Search Trauma and Rescue (BORSTAR) paramedic were lowered to the scene using the helicopters hoist to assess the injuries.\r\n \r\nThe aircrew evacuated the man and woman to Banner University Medical Center for further medical treatment and evaluation.",
   "keywords": "border patrol, BORSTAR, CBP Air and Marine, CBPSAR",
   "date": "2023-07-03T00:00:00-04:00",
   "date_published": "2023-07-06T10:25:45-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-889409",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:02:41Z",
   "duration": 278.47,
   "source_file": {
@@ -447,5 +447,6 @@
     234.53,
     251.91,
     269.28
-  ]
+  ],
+  "pass_reason": "QA 16Z: heat-stress patients hoist (medical), Tucson hoists already run three times"
 }
