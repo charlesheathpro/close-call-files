@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-758163",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:51:06Z",
   "duration": 231.42,
   "source_file": {
@@ -105,5 +105,6 @@
     194.84,
     209.27,
     223.71
-  ]
+  ],
+  "pass_reason": "2001 480p tape; release gives no outcome or numbers"
 }

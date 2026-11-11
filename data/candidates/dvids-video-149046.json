@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-149046",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:27:21Z",
   "duration": 134.51,
   "source_file": {
@@ -93,5 +93,6 @@
     113.07,
     121.44,
     129.82
-  ]
+  ],
+  "pass_reason": "Calm walk to sick bay; the storm is never shown"
 }

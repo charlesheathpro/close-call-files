@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-902989",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:54:00Z",
   "duration": 16.85,
   "source_file": {
@@ -66,5 +66,6 @@
     13.8,
     14.82,
     15.84
-  ]
+  ],
+  "pass_reason": "16 s total, injured boater in a litter"
 }

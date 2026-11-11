@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-328300",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:28:56Z",
   "duration": 96.3,
   "source_file": {
@@ -65,5 +65,6 @@
     80.83,
     86.82,
     92.8
-  ]
+  ],
+  "pass_reason": "Only C-130 cockpit views; the boat and the infant are never shown"
 }
