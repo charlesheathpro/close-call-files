@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20120723_Landsat_m11040_Trinity_Logging",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Trinity County, California: Logging",
+  "description": "timelapse of section of Trinity County, California, looking at evidence of clear-cut logging over the years 1972-1994. Data from Landsat satellites.",
+  "keywords": "Landsat, Forests, Forest Fires, Earth",
+  "date": "2012-07-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120723_Landsat_m11040_Trinity_Logging",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120723-Landsat-m11040-Trinity-Logging",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:48:44Z",
+  "duration": 36.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120723_Landsat_m11040_Trinity_Logging/GSFC_20120723_Landsat_m11040_Trinity_Logging~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 36.553188
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 38,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      36.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120723-Landsat-m11040-Trinity-Logging.jpg",
+  "sheet_times": [
+    1.13,
+    3.38,
+    5.64,
+    7.9,
+    10.15,
+    12.41,
+    14.67,
+    16.92,
+    19.18,
+    21.43,
+    23.69,
+    25.95,
+    28.2,
+    30.46,
+    32.72,
+    34.97
+  ]
+}

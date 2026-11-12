@@ -1,0 +1,128 @@
+{
+  "asset_id": "nasa:GSFC_20140908_Mapping_m11633_Alaska",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Mapping Alaska's Forests",
+  "description": "NASA and the U.S. Forest Service are surveying the forests of Interior Alaska. The airborne study using an advanced instrument will create a 3D map of the forest composition. This will enable scientists to see patterns of fire recovery and provide a benchmark for assessing future changes to the region.",
+  "keywords": "Earth, Alaska, U.S. Forest Service, Forest Composition",
+  "date": "2014-09-08T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140908_Mapping_m11633_Alaska",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140908-Mapping-m11633-Alaska",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:49:54Z",
+  "duration": 53.77,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140908_Mapping_m11633_Alaska/GSFC_20140908_Mapping_m11633_Alaska~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 53.75975
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 5.0,
+      "text": "NASA has taken to the skies of Alaska."
+    },
+    {
+      "s": 5.0,
+      "e": 10.0,
+      "text": "An airborne study conducted in partnership with the US Forest Service aims to complete"
+    },
+    {
+      "s": 10.0,
+      "e": 13.0,
+      "text": "the detailed survey of the Tenana Valley Forest."
+    },
+    {
+      "s": 13.0,
+      "e": 20.0,
+      "text": "The 115 million acres of forest in Ontario, Alaska is particularly prone to wildfires"
+    },
+    {
+      "s": 20.0,
+      "e": 25.0,
+      "text": "and represents 15% of all forested land in the US."
+    },
+    {
+      "s": 25.0,
+      "e": 30.0,
+      "text": "Since the 1950s, 40 to 50% of the landscape has been burned."
+    },
+    {
+      "s": 30.0,
+      "e": 35.0,
+      "text": "The study will sample more than 80% of the burned areas by plane."
+    },
+    {
+      "s": 35.0,
+      "e": 40.0,
+      "text": "Live trees can be distinguished from standing dead trees using an instrument that maps"
+    },
+    {
+      "s": 40.0,
+      "e": 43.0,
+      "text": "the composition and 3D structure of the wilderness."
+    },
+    {
+      "s": 43.0,
+      "e": 47.0,
+      "text": "The measurements will enable scientists to see patterns of fire recovery"
+    },
+    {
+      "s": 47.0,
+      "e": 51.0,
+      "text": "and provide a benchmark for assessing future changes to the region."
+    }
+  ],
+  "scene_cuts": [
+    5.9,
+    8.73,
+    13.37,
+    16.13,
+    20.0,
+    24.73,
+    34.77,
+    37.2,
+    40.17,
+    43.47,
+    47.07,
+    51.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      52.2
+    ],
+    "silence_ends": [
+      53.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140908-Mapping-m11633-Alaska.jpg",
+  "sheet_times": [
+    1.66,
+    4.99,
+    8.32,
+    11.65,
+    14.98,
+    18.31,
+    21.64,
+    24.97,
+    28.3,
+    31.63,
+    34.96,
+    38.29,
+    41.61,
+    44.94,
+    48.27,
+    51.6
+  ]
+}

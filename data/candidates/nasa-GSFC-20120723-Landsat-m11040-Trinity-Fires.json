@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20120723_Landsat_m11040_Trinity_Fires",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Trinity County, California: Fires",
+  "description": "timelapse of Trinity County from 1995-2011, focusing on forest fires in the National Forest and the regrowth after. Data from Landsat satellites.",
+  "keywords": "Landsat, Forests, Forest Fires, Earth",
+  "date": "2012-07-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120723_Landsat_m11040_Trinity_Fires",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120723-Landsat-m11040-Trinity-Fires",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:46:17Z",
+  "duration": 31.33,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120723_Landsat_m11040_Trinity_Fires/GSFC_20120723_Landsat_m11040_Trinity_Fires~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 31.28125
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 32,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      31.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120723-Landsat-m11040-Trinity-Fires.jpg",
+  "sheet_times": [
+    0.96,
+    2.89,
+    4.82,
+    6.74,
+    8.67,
+    10.6,
+    12.53,
+    14.45,
+    16.38,
+    18.31,
+    20.23,
+    22.16,
+    24.09,
+    26.02,
+    27.94,
+    29.87
+  ]
+}

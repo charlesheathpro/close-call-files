@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20120723_Landsat_m11040_Trinity_Change",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Trinity County, California: Change",
+  "description": "Forest fires and logging are the two main drivers of change in this area within Trinity National Forest in northern California. Roger Eckart and his siblings bought a grandfathered-in piece of private land within the forest in 1972, and so together the Eckart family and the Landsat program have observed changes in the forest for over 40 years.",
+  "keywords": "Landsat, Forests, Forest Fires, Earth",
+  "date": "2012-07-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120723_Landsat_m11040_Trinity_Change",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120723-Landsat-m11040-Trinity-Change",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:47:24Z",
+  "duration": 16.08,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120723_Landsat_m11040_Trinity_Change/GSFC_20120723_Landsat_m11040_Trinity_Change~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 16.085333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 15,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      16.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120723-Landsat-m11040-Trinity-Change.jpg",
+  "sheet_times": [
+    0.49,
+    1.46,
+    2.44,
+    3.41,
+    4.38,
+    5.36,
+    6.33,
+    7.31,
+    8.28,
+    9.25,
+    10.23,
+    11.2,
+    12.18,
+    13.15,
+    14.12,
+    15.1
+  ]
+}
