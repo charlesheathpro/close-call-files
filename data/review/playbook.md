@@ -1,10 +1,10 @@
-# Playbook (computed 2026-11-12T04:07:03Z from 106 Shorts older than 48 hours)
+# Playbook (computed 2026-11-12T10:51:11Z from 106 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.42, 1 Shorts)
 - story: runaway boat with no one aboard (+0.4, 1 Shorts)
 - story: launch abort test (+0.39, 1 Shorts)
 - story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
@@ -23,9 +23,9 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: rocket engine test cut short (-0.23, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 43633 views, 83% watched
-- 17-year-old adrift at night, no paddle: 40635 views, 75% watched
-- Runaway boat circling with no one aboard: 8999 views, 98% watched
+- Flipped hull 11 miles out, 3 men on top: 43765 views, 83% watched
+- 17-year-old adrift at night, no paddle: 41682 views, 75% watched
+- Runaway boat circling with no one aboard: 9009 views, 98% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
 - Orion splashes down after the Moon: 9451 views, 95% watched
 
@@ -37,8 +37,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261105-04: Grainy 720p door-cam: the stranded man on the rock is never clearly shown, half the Short is noisy surf and orange-suit close-ups that do not match their lines, and it repeats the sea-cliff stranding already scheduled today (04-11) in a format that tested weak (Oregon cliff hikers 48% watched).
-- ccf-20261105-11: The source is one fixed camera on one landing for its full 3 minutes, so render 12 to 44 s is the same rear view of the orbiter shrinking into the distance with no new angle; nothing on screen looks dangerous and the crosswind line is not in any source.
 - ccf-20261105-21: Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable.
 - ccf-20261105-31: After the opening, most of the Short is distant figures walking slowly across flat ice, the same shot for about 15 seconds; no visible peril, and the 'helped him up the side' line plays over empty ice.
 - ccf-20261105-34: Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown.
@@ -52,3 +50,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
+
+## Changed tonight
+- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.43, 'aviation_naval': 0.48, 'hazards': 0.1}
+- query weights for 52 searches

@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-12T04:07:03Z",
+  "at": "2026-11-12T10:51:11Z",
   "mature": 106,
   "features": [
     {
@@ -10,7 +10,7 @@
     {
       "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
       "n": 1,
-      "effect": 0.41
+      "effect": 0.42
     },
     {
       "feature": "story: runaway boat with no one aboard",
@@ -63,12 +63,12 @@
       "effect": 0.25
     },
     {
-      "feature": "story: hiker stuck overnight on a frozen mountain, black hawk hoist through ice-covered trees",
+      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
       "n": 1,
-      "effect": 0.24
+      "effect": 0.25
     },
     {
-      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
+      "feature": "story: hiker stuck overnight on a frozen mountain, black hawk hoist through ice-covered trees",
       "n": 1,
       "effect": 0.24
     },
@@ -93,11 +93,6 @@
       "effect": 0.18
     },
     {
-      "feature": "music: rescue",
-      "n": 18,
-      "effect": 0.17
-    },
-    {
       "feature": "story: dog cliff fall, basket hoist",
       "n": 1,
       "effect": 0.17
@@ -106,6 +101,11 @@
       "feature": "story: rocket booster test with an anomaly",
       "n": 1,
       "effect": 0.17
+    },
+    {
+      "feature": "music: rescue",
+      "n": 18,
+      "effect": 0.16
     },
     {
       "feature": "story: sinking vessel",
@@ -627,37 +627,37 @@
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
-      "views": 43633.0,
+      "views": 43765.0,
       "ret": 82.63,
-      "score": 1.905
+      "score": 1.9
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 40635.0,
+      "views": 41682.0,
       "ret": 74.58,
-      "score": 1.644
+      "score": 1.648
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 8999.0,
+      "views": 9009.0,
       "ret": 97.87,
-      "score": 1.59
+      "score": 1.587
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5183.0,
       "ret": 96.97,
-      "score": 1.543
+      "score": 1.541
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9451.0,
       "ret": 95.01,
-      "score": 1.516
+      "score": 1.513
     }
   ],
   "bottom": [
@@ -666,35 +666,35 @@
       "title": "Mauna Loa erupts after 38 years",
       "views": 148.0,
       "ret": 63.75999999999999,
-      "score": -1.2
+      "score": -1.199
     },
     {
       "short_id": "ccf-20261108-22",
       "title": "Jet skier thrown into surf by a jetty",
       "views": 316.0,
       "ret": 44.14,
-      "score": -1.326
+      "score": -1.325
     },
     {
       "short_id": "ccf-20261102-01",
       "title": "Trapped in the attic as the flood rose",
       "views": 285.0,
       "ret": 42.06,
-      "score": -1.422
+      "score": -1.421
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 67.01,
-      "score": -1.815
+      "score": -1.811
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -2.159
+      "score": -2.154
     }
   ],
   "query_weights": {
@@ -758,14 +758,6 @@
   },
   "qa_rejections_7d": [
     {
-      "short_id": "ccf-20261105-04",
-      "notes": "Grainy 720p door-cam: the stranded man on the rock is never clearly shown, half the Short is noisy surf and orange-suit close-ups that do not match their lines, and it repeats the sea-cliff stranding already scheduled today (04-11) in a format that tested weak (Oregon cliff hikers 48% watched)."
-    },
-    {
-      "short_id": "ccf-20261105-11",
-      "notes": "The source is one fixed camera on one landing for its full 3 minutes, so render 12 to 44 s is the same rear view of the orbiter shrinking into the distance with no new angle; nothing on screen looks dangerous and the crosswind line is not in any source."
-    },
-    {
       "short_id": "ccf-20261105-21",
       "notes": "Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable."
     },
@@ -818,6 +810,9 @@
       "notes": "Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence."
     }
   ],
-  "config_changed_at": "2026-11-11T10:36:56Z",
-  "changed": []
+  "config_changed_at": "2026-11-12T10:51:11Z",
+  "changed": [
+    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.43, 'aviation_naval': 0.48, 'hazards': 0.1}",
+    "query weights for 52 searches"
+  ]
 }
