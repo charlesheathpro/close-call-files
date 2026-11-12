@@ -1,0 +1,150 @@
+{
+  "asset_id": "nasa:GSFC_20140925_CME_m11660_CCMC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "impact test",
+  "title": "Comparing CMEs",
+  "description": "This video features two model runs. One looks at a moderate coronal mass ejection (CME) from 2006. The second run examines the consequences of a large coronal mass ejection, such as The Carrington-Class CME of 1859. These model runs allow us to estimate consequences of a large event hitting Earth, so we can better protect power grids and satellites.  In an effort to understand and predict the impact of space weather events on Earth, the Community-Coordinated Modeling Center (CCMC) at NASA Goddard Space Flight Center, routinely runs computer models of the many historical events. These model runs are then compared to actual data to determine ways to improve the model, and therefore forecasts of future space weather events.  Sometimes we need an actual event to have data for comparison. Extreme space weather events are one example where researchers must test models with a rather limited set of data.  The vertical lines on the left represent magnetic field lines from the sun.",
+  "keywords": "Sun, CCMC",
+  "date": "2014-09-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140925_CME_m11660_CCMC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140925-CME-m11660-CCMC",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:37:24Z",
+  "duration": 133.67,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140925_CME_m11660_CCMC/GSFC_20140925_CME_m11660_CCMC~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 133.616817
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.29,
+      "e": 16.29,
+      "text": "In this visualization, Earth's magnetic field structure is represented by lines that correspond to the paths charged particles would travel close to the Earth."
+    },
+    {
+      "s": 16.29,
+      "e": 27.29,
+      "text": "The Sun's magnetic field, carried in the plasma of the solar wind, flows continuously by the Earth, distorting the planet's field and pulling it back into a windsock type structure."
+    },
+    {
+      "s": 27.29,
+      "e": 36.29,
+      "text": "The red illustrates the higher density plasma, which forms the magnetopause, the boundary between the magnetic influence of the Sun and the Earth."
+    },
+    {
+      "s": 36.29,
+      "e": 43.29,
+      "text": "The wind also forms a lower density magnetotail behind the Earth, represented by blue in this computer model."
+    },
+    {
+      "s": 43.29,
+      "e": 49.29,
+      "text": "This process is happening all the time, as the solar wind is constantly flowing by the Earth."
+    },
+    {
+      "s": 49.29,
+      "e": 53.29,
+      "text": "But a coronal mass ejection, or CME, can change things."
+    },
+    {
+      "s": 53.29,
+      "e": 62.29,
+      "text": "The higher density plasma, and stronger magnetic field carried within the CME, strikes Earth's field and significantly alters the structure."
+    },
+    {
+      "s": 62.29,
+      "e": 70.29,
+      "text": "Here we see the dramatic changes in Earth's magnetic field and the shape of the magnetopause as the CME passes Earth."
+    },
+    {
+      "s": 70.29,
+      "e": 78.29,
+      "text": "But close to Earth, the magnetic field is largely unchanged. Earth is protected from the intense solar event."
+    },
+    {
+      "s": 78.29,
+      "e": 86.29,
+      "text": "This is the case for a rather ordinary CME. In this example, a CME launched by an X-3 flare from December 2006."
+    },
+    {
+      "s": 86.29,
+      "e": 92.29,
+      "text": "But what would happen in the case of a more intense event, such as the Carrington Event of 1859?"
+    },
+    {
+      "s": 92.29,
+      "e": 98.29,
+      "text": "With the aim of similar computer models as before, we can explore some of these possibilities."
+    },
+    {
+      "s": 98.29,
+      "e": 108.29,
+      "text": "Here, a much stronger CME compresses the magnetic field between the Sun and Earth and generates more density in the Balschach, represented by darker red."
+    },
+    {
+      "s": 108.29,
+      "e": 112.29,
+      "text": "The front of the magnetopause is pushed much closer to the Earth than usual."
+    },
+    {
+      "s": 112.29,
+      "e": 118.29,
+      "text": "Even the field and plasma trailing behind the Earth are more strongly distorted."
+    }
+  ],
+  "scene_cuts": [
+    86.67,
+    92.63,
+    96.63,
+    102.97
+  ],
+  "drama_score": 51,
+  "audio": {
+    "silence_starts": [
+      77.3,
+      119.5,
+      121.8,
+      122.7,
+      123.7,
+      124.6
+    ],
+    "silence_ends": [
+      79.0,
+      120.7,
+      122.4,
+      123.4,
+      124.6,
+      133.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140925-CME-m11660-CCMC.jpg",
+  "sheet_times": [
+    4.16,
+    12.48,
+    20.81,
+    29.13,
+    37.45,
+    45.78,
+    54.1,
+    62.42,
+    70.74,
+    79.07,
+    87.39,
+    95.71,
+    104.04,
+    112.36,
+    120.68,
+    129.01
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "asset_id": "nasa:GSFC_20160602_Arctic_m12225_Greening",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "water landing",
+  "title": "Details of Arctic Greening in North America",
+  "description": "The northern reaches of North America are getting greener, according to a NASA study that provides the most detailed look yet at plant life across Alaska and Canada. In a changing climate, almost a third of the land cover – much of it Arctic tundra – is looking more like landscapes found in warmer ecosystems. With 87,000 images taken from Landsat satellites, converted into data that reflects the amount of healthy vegetation on the ground, the researchers found that western Alaska, Quebec and other regions became greener between 1984 and 2012. The new Landsat study further supports previous work that has shown changing vegetation in Arctic and boreal North America. Earlier studies showed increased vegetation was connected to increasing global carbon dioxide and increasing global temperatures.   Previous surveys of the vegetation across Alaska and Canada had taken a big-picture view of the region using coarse-resolution satellite sensors. To get a more detailed picture of the 4.1 million square-mile area, scientists used the NASA/USGS Landsat 5 and Landsat 7 satellites, which take a measurement for each 30-by-30 meter (98-by-98 foot) parcel of land.  Using the detailed Landsat data, NASA scientists found that there was extensive greening in the tundra of western Alaska, the northern coast of Canada, and the tundra of Quebec and Labrador. While northern forests greened in Canada, they tended to decline in Alaska. Overall, the scientists found that 29.4 percent of the region greened up, especially in shrublands and sparsely vegetated areas, while 2.9 percent showed vegetation decline.  With the large, continental-scale map complete, researchers will focus on the more human scale – looking at local conditions to see what might control the greening patterns, whether it’s local topography, nearby water sources, or particular types of habitat. They also plan to investigate forested areas, particularly in the greening Quebec.",
+  "keywords": "NDVI, Arctic, Climate Change, Vegetation Growth, Earth",
+  "date": "2016-06-02T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160602_Arctic_m12225_Greening",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160602-Arctic-m12225-Greening",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:36:36Z",
+  "duration": 89.41,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160602_Arctic_m12225_Greening/GSFC_20160602_Arctic_m12225_Greening~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 89.3893
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.37,
+    22.4,
+    86.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      86.7
+    ],
+    "silence_ends": [
+      89.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160602-Arctic-m12225-Greening.jpg",
+  "sheet_times": [
+    2.78,
+    8.34,
+    13.89,
+    19.45,
+    25.01,
+    30.56,
+    36.12,
+    41.68,
+    47.23,
+    52.79,
+    58.35,
+    63.9,
+    69.46,
+    75.02,
+    80.57,
+    86.13
+  ]
+}

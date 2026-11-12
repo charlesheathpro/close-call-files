@@ -1,0 +1,92 @@
+{
+  "asset_id": "nasa:GSFC_20170518_MtStHelens_m12612_Timelapse",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "water landing",
+  "title": "Landsat Tracks Mount St. Helens Recovery",
+  "description": "The May 18, 1980, eruption of Mount St. Helens came after two months of small earthquakes. During the eruption, an avalanche of debris and mud spread for miles from the former summit, and a blast of steam and hot ash covered an area of about 600 square kilometers (230 square miles).  In the decades since, scientists have studied the recovery of the ecosystem around the mountain using the Landsat series of satellites. By observing different wavelengths of light reflected of the surface, Landsat data can identify different types of landcover. This visualization uses red, near-infrared, and green to distinguish healthy vegetation (green) from bare ground (magenta).  NASA and the U.S. Department of the Interior through the U.S. Geological Survey (USGS) jointly manage Landsat, and the USGS preserves a 40-plus-year archive of Landsat images that is freely available over the Internet. Since the launch of Landsat 1 in 1972, Landsat satellites have become an integral part of many operational land management activities. Landsat satellites provide decision makers with key information about the world’s food, forests, water and how these and other land resources are being used.",
+  "keywords": "Biology, Volcano, Forests, Earth",
+  "date": "2017-05-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170518_MtStHelens_m12612_Timelapse",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170518-MtStHelens-m12612-Timelapse",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:35:56Z",
+  "duration": 78.4,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170518_MtStHelens_m12612_Timelapse/GSFC_20170518_MtStHelens_m12612_Timelapse~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 78.361625
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 5.0,
+      "text": "..."
+    },
+    {
+      "s": 5.0,
+      "e": 11.0,
+      "text": "..."
+    },
+    {
+      "s": 11.0,
+      "e": 15.0,
+      "text": "..."
+    },
+    {
+      "s": 15.0,
+      "e": 20.0,
+      "text": "..."
+    },
+    {
+      "s": 20.0,
+      "e": 25.0,
+      "text": "..."
+    }
+  ],
+  "scene_cuts": [
+    4.37,
+    8.7,
+    12.47,
+    15.1,
+    37.4,
+    63.93
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      76.8
+    ],
+    "silence_ends": [
+      78.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170518-MtStHelens-m12612-Timelapse.jpg",
+  "sheet_times": [
+    2.43,
+    7.3,
+    12.17,
+    17.04,
+    21.91,
+    26.78,
+    31.65,
+    36.52,
+    41.38,
+    46.25,
+    51.12,
+    55.99,
+    60.86,
+    65.73,
+    70.6,
+    75.47
+  ]
+}

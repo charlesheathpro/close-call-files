@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20120723_Landsat_m11042_Vermilion",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "water landing",
+  "title": "Vermilion Parish, LA",
+  "description": "Timelapse of six years in southern Vermilion Parish, Louisian (1973, 1980, 1986, 1992, 2003, 2010) land being overtaken by water.",
+  "keywords": "Hydrology, Landsat, Wetlands, Sea Level Rise, Earth",
+  "date": "2012-07-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20120723_Landsat_m11042_Vermilion",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20120723-Landsat-m11042-Vermilion",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:36:01Z",
+  "duration": 33.8,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20120723_Landsat_m11042_Vermilion/GSFC_20120723_Landsat_m11042_Vermilion~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 33.800433
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      33.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20120723-Landsat-m11042-Vermilion.jpg",
+  "sheet_times": [
+    1.04,
+    3.12,
+    5.2,
+    7.28,
+    9.37,
+    11.45,
+    13.53,
+    15.61,
+    17.69,
+    19.77,
+    21.85,
+    23.93,
+    26.02,
+    28.1,
+    30.18,
+    32.26
+  ]
+}

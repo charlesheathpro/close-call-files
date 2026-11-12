@@ -1,0 +1,157 @@
+{
+  "asset_id": "nasa:GSFC_20170217_m12518_ATom2_Hawaii",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "volcano",
+  "title": "ATom Postcard - Kona, Hawaii",
+  "description": "The ATom mission aboard NASA’s DC-8 aircraft and flying laboratory is sampling world-wide in one of the most extensive surveys of the atmosphere to date, measuring over 200 gases as well as airborne particles. The science team is particularly interested in methane, tropospheric ozone and black carbon particles, which have strong effects on climate and which all have both human and natural origins.",
+  "keywords": "Atmospheric Science, DC-8, Atmosphere, Sulfate Particles, Acid Rain, Atom, Earth",
+  "date": "2017-02-17T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170217_m12518_ATom2_Hawaii",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170217-m12518-ATom2-Hawaii",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:37:57Z",
+  "duration": 74.39,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170217_m12518_ATom2_Hawaii/GSFC_20170217_m12518_ATom2_Hawaii~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 74.3743
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.08,
+      "e": 7.56,
+      "text": "When we were coming in we saw really substantial plumes of vessel 2 that just the Caltech guys were measuring"
+    },
+    {
+      "s": 7.56,
+      "e": 9.56,
+      "text": "and we see signs of it in our instrument."
+    },
+    {
+      "s": 9.56,
+      "e": 13.04,
+      "text": "And then various sustained levels are defined sulfate aerosol."
+    },
+    {
+      "s": 13.04,
+      "e": 18.64,
+      "text": "And this is something that they call VOG, which is sort of like fog, except it's from a volcano."
+    },
+    {
+      "s": 18.64,
+      "e": 23.64,
+      "text": "And this is, the volcano is emitting a lot of vessel 2."
+    },
+    {
+      "s": 23.64,
+      "e": 26.84,
+      "text": "Some of volcanoes emit low levels all the time."
+    },
+    {
+      "s": 26.84,
+      "e": 30.04,
+      "text": "I think Kilo Way is emitting fairly high levels fairly often."
+    },
+    {
+      "s": 30.04,
+      "e": 32.72,
+      "text": "This stuff oxidizes to make sulfuric acid."
+    },
+    {
+      "s": 32.72,
+      "e": 37.4,
+      "text": "And that then forms small droplets of sulfuric acid."
+    },
+    {
+      "s": 37.4,
+      "e": 41.8,
+      "text": "And when these guys take up water they swell and make the real visible haze,"
+    },
+    {
+      "s": 41.8,
+      "e": 44.8,
+      "text": "the strong haze that we saw the whole time we were in Kona."
+    },
+    {
+      "s": 44.8,
+      "e": 47.4,
+      "text": "So, sulfuric acid is not good for you."
+    },
+    {
+      "s": 47.4,
+      "e": 49.52,
+      "text": "This is a big part of acid rain."
+    },
+    {
+      "s": 49.52,
+      "e": 53.52,
+      "text": "And same sort of chemistry happened in the US."
+    },
+    {
+      "s": 53.52,
+      "e": 55.2,
+      "text": "It precipitated the clean air act."
+    },
+    {
+      "s": 55.2,
+      "e": 58.84,
+      "text": "So all the SO2 in that case was mostly from coal burning."
+    },
+    {
+      "s": 58.88,
+      "e": 62.48,
+      "text": "But we did a lot to clean that up and reduce acid rain,"
+    },
+    {
+      "s": 62.48,
+      "e": 67.68,
+      "text": "certainly an environmental crisis in the eastern US probably 30 years ago."
+    }
+  ],
+  "scene_cuts": [
+    13.2,
+    23.67,
+    31.9,
+    44.47,
+    56.27,
+    67.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      67.6
+    ],
+    "silence_ends": [
+      74.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170217-m12518-ATom2-Hawaii.jpg",
+  "sheet_times": [
+    2.31,
+    6.93,
+    11.55,
+    16.16,
+    20.78,
+    25.4,
+    30.02,
+    34.64,
+    39.25,
+    43.87,
+    48.49,
+    53.11,
+    57.73,
+    62.34,
+    66.96,
+    71.58
+  ]
+}
