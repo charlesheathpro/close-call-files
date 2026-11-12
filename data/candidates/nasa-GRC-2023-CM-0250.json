@@ -1,0 +1,111 @@
+{
+  "asset_id": "nasa:GRC-2023-CM-0250",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Space Shuttle launch",
+  "title": "Ascent - Atlantis STS-135 Long-Range Tracking Cameras Footage",
+  "description": "Video footage showing two of the long-range tracking cameras at Kennedy Space Center during the STS-135 Atlantis launch.",
+  "keywords": "GRC-2023-CM-0250, Documentation, Launch, Mission Support, Orbiter, Space Shuttle, Kennedy Space Center, Engineering Footage, Atlantis, STS-135, Camera Operations, South Beach Camera Site, Universal Camera Site (USC) - 15",
+  "date": "2012-03-29T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GRC",
+  "credit": "NASA GRC video",
+  "page_url": "https://images.nasa.gov/details/GRC-2023-CM-0250",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GRC-2023-CM-0250",
+  "status": "new",
+  "harvested_at": "2026-11-12T01:13:35Z",
+  "duration": 153.22,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GRC-2023-CM-0250/GRC-2023-CM-0250~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 153.194708
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 4.0,
+      "text": "[Ambient sounds]"
+    },
+    {
+      "s": 4.0,
+      "e": 9.0,
+      "text": ">> 15"
+    },
+    {
+      "s": 9.0,
+      "e": 10.0,
+      "text": "10"
+    },
+    {
+      "s": 11.5,
+      "e": 12.5,
+      "text": "9"
+    },
+    {
+      "s": 12.5,
+      "e": 13.5,
+      "text": "8"
+    },
+    {
+      "s": 13.5,
+      "e": 14.5,
+      "text": "7"
+    },
+    {
+      "s": 14.0,
+      "e": 15.5,
+      "text": "6, [Camera sound]"
+    },
+    {
+      "s": 15.5,
+      "e": 16.5,
+      "text": "5"
+    },
+    {
+      "s": 16.5,
+      "e": 32.0,
+      "text": "[Shuttle launch sound]"
+    }
+  ],
+  "scene_cuts": [
+    0.93,
+    1.03,
+    1.1
+  ],
+  "drama_score": 46,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      75.0
+    ],
+    "silence_ends": [
+      0.6,
+      75.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-GRC-2023-CM-0250.jpg",
+  "sheet_times": [
+    4.77,
+    14.32,
+    23.86,
+    33.41,
+    42.95,
+    52.5,
+    62.04,
+    71.59,
+    81.13,
+    90.68,
+    100.22,
+    109.76,
+    119.31,
+    128.85,
+    138.4,
+    147.94
+  ]
+}

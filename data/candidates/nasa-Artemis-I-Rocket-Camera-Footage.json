@@ -1,0 +1,78 @@
+{
+  "asset_id": "nasa:Artemis I - Rocket Camera Footage",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "booster separation",
+  "title": "Artemis I Rocket Camera Footage of Ascent",
+  "description": "Description: Recent Artemis I footage captured by rocket cameras during ascent aboard the Artemis I spacecraft. Footage includes live recordings of Artemis I’s Booster Separation, and Artemis I’s Booster Jettison.",
+  "keywords": "NASA, Artemis I, Artemis I Rocket Camera Footage",
+  "date": "2022-11-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "page_url": "https://images.nasa.gov/details/Artemis%20I%20-%20Rocket%20Camera%20Footage",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Artemis-I-Rocket-Camera-Footage",
+  "status": "new",
+  "harvested_at": "2026-11-12T01:14:52Z",
+  "duration": 28.53,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Artemis%20I%20-%20Rocket%20Camera%20Footage/Artemis%20I%20-%20Rocket%20Camera%20Footage~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 28.52
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.74,
+      "e": 7205.86,
+      "text": "Captions Pending"
+    }
+  ],
+  "scene_cuts": [
+    4.97,
+    7.43,
+    8.73,
+    9.23,
+    13.27,
+    14.33,
+    20.93,
+    21.13,
+    21.63,
+    21.73,
+    21.83,
+    23.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      28.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-Artemis-I-Rocket-Camera-Footage.jpg",
+  "sheet_times": [
+    0.88,
+    2.63,
+    4.38,
+    6.13,
+    7.88,
+    9.64,
+    11.39,
+    13.14,
+    14.89,
+    16.64,
+    18.4,
+    20.15,
+    21.9,
+    23.65,
+    25.41,
+    27.16
+  ]
+}
