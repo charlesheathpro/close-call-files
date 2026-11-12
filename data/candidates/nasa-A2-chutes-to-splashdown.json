@@ -1,0 +1,61 @@
+{
+  "asset_id": "nasa:A2 chutes to splashdown",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "splashdown",
+  "title": "Artemis II  parachutes at splashdown",
+  "description": "A view through an Orion window of the spacecraft's three main parachutes at the moment of the Artemis II mission's splashdown in the Pacific Ocean on April 10, 2026.",
+  "keywords": "Artemis II",
+  "date": "2026-04-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/A2%20chutes%20to%20splashdown",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-A2-chutes-to-splashdown",
+  "status": "new",
+  "harvested_at": "2026-11-12T16:29:52Z",
+  "duration": 26.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/A2%20chutes%20to%20splashdown/A2%20chutes%20to%20splashdown~orig.mp4",
+    "width": 1642,
+    "height": 920,
+    "duration": 26.111979
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-A2-chutes-to-splashdown.jpg",
+  "sheet_times": [
+    0.8,
+    2.4,
+    4.0,
+    5.6,
+    7.2,
+    8.8,
+    10.4,
+    12.0,
+    13.6,
+    15.2,
+    16.8,
+    18.4,
+    20.0,
+    21.6,
+    23.2,
+    24.8
+  ]
+}

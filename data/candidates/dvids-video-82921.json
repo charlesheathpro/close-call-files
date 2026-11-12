@@ -1,0 +1,92 @@
+{
+  "asset_id": "video:82921",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Boater After Abandoning Ship",
+  "description": "B-roll of Coast Guard rescuers pulling a boater from the ocean into a helicopter after the boater had abandoned ship. Scenes include a Coast Guardsman being lowered into the water then being raised into the helicopter with the boater. Produced by Coast Guard Lt. Todd Vorenkamp.",
+  "keywords": "boater, abandoned ship, hoisted, helicopter, US Coast Guard, ocean, Water rescue",
+  "date": "2010-04-08T00:00:00-04:00",
+  "date_published": "2010-04-10T17:39:55-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "100408-G-3679V-001",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "At Sea",
+    "state_abbreviation": null,
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/82921/coast-guard-rescues-boater-after-abandoning-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 17.5175,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-82921",
+  "status": "new",
+  "harvested_at": "2026-11-12T16:30:44Z",
+  "duration": 280.45,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1004/DOD_100067982/DOD_100067982.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.52
+  ],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      51.0,
+      51.8,
+      62.3,
+      234.2,
+      235.2,
+      255.4,
+      257.7,
+      258.8,
+      260.3,
+      261.4
+    ],
+    "silence_ends": [
+      51.0,
+      51.8,
+      53.8,
+      226.4,
+      234.9,
+      253.3,
+      257.3,
+      258.8,
+      259.4,
+      261.4,
+      280.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-82921.jpg",
+  "sheet_times": [
+    25.72,
+    42.12,
+    58.52,
+    74.92,
+    91.33,
+    107.73,
+    124.13,
+    140.53,
+    156.93,
+    173.33,
+    189.74,
+    206.14,
+    222.54,
+    238.94,
+    255.34,
+    271.75
+  ]
+}
