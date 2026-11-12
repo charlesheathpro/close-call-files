@@ -1,37 +1,37 @@
-# Playbook (computed 2026-11-11T22:15:32Z from 104 Shorts older than 48 hours)
+# Playbook (computed 2026-11-12T04:07:03Z from 106 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.49, 1 Shorts)
-- story: runaway boat with no one aboard (+0.42, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.42, 1 Shorts)
-- story: launch abort test (+0.4, 1 Shorts)
-- story: splashdown recovery (+0.4, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.39, 1 Shorts)
-- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.38, 1 Shorts)
-- story: capsized boat, people in the water (+0.37, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: runaway boat with no one aboard (+0.4, 1 Shorts)
+- story: launch abort test (+0.39, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
+- story: splashdown recovery (+0.38, 1 Shorts)
+- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.37, 1 Shorts)
+- story: capsized boat, people in the water (+0.36, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.55, 1 Shorts)
+- story: dog hoist from sinking boat (-0.54, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.46, 1 Shorts)
-- music: hazards (-0.43, 4 Shorts)
-- story: volcano eruption (-0.38, 2 Shorts)
-- story: attic flood hoist (-0.37, 1 Shorts)
-- lane: hazards (-0.35, 3 Shorts)
-- story: capsized yacht hoist (-0.24, 1 Shorts)
-- story: sinking sailboat, boat crew (-0.23, 1 Shorts)
+- music: hazards (-0.42, 4 Shorts)
+- story: volcano eruption (-0.37, 2 Shorts)
+- story: attic flood hoist (-0.36, 1 Shorts)
+- lane: hazards (-0.34, 3 Shorts)
+- story: jet skier overboard in breaking surf at a rock jetty, swimmer carried over the waves to the beach on the hoist (-0.33, 1 Shorts)
+- story: rocket engine test cut short (-0.23, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 43468 views, 83% watched
-- 17-year-old adrift at night, no paddle: 39709 views, 75% watched
-- Runaway boat circling with no one aboard: 8976 views, 98% watched
+- Flipped hull 11 miles out, 3 men on top: 43633 views, 83% watched
+- 17-year-old adrift at night, no paddle: 40635 views, 75% watched
+- Runaway boat circling with no one aboard: 8999 views, 98% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
 - Orion splashes down after the Moon: 9451 views, 95% watched
 
 ## Weakest Shorts
-- Yacht broke in two on Lake Erie: 1225 views, 37% watched
 - Mauna Loa erupts after 38 years: 148 views, 64% watched
+- Jet skier thrown into surf by a jetty: 316 views, 44% watched
 - Trapped in the attic as the flood rose: 285 views, 42% watched
 - Clinging to a flipped boat 12 miles out: 31 views, 67% watched
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
