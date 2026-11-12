@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261112-02",
   "candidate_id": "nasa-jsc2022m000094-NTV-Video-File-Soyuz-MS-19-Landing-220330",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "soyuz capsule landing on land",
   "music_mood": "aviation",
@@ -9,7 +9,7 @@
   "hook": "Two men in here hadn't touched the ground in 355 days.",
   "narration": [
     "Two of the men inside had not touched the ground in three hundred fifty-five days.",
-    "NASA astronaut Mark Vande Hei and cosmonaut Pyotr Dubrov launched together the April before.",
+    "Before leaving, NASA astronaut Mark Vande Hei and cosmonaut Pyotr Dubrov said goodbye to the crew staying behind.",
     "On March thirtieth, their Soyuz backed away from the space station, with commander Anton Shkaplerov flying it by hand.",
     "Only the center section, called the descent module, returns to Earth.",
     "Hours later it was falling over Kazakhstan under a single striped parachute.",
@@ -33,16 +33,16 @@
     ],
     [
       {
-        "start": 175.0,
-        "end": 178.5,
+        "start": 67.5,
+        "end": 71.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 196.0,
-        "end": 199.5,
+        "start": 114.0,
+        "end": 117.5,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       }
     ],
     [
@@ -73,8 +73,8 @@
         "crop_x": 0.55
       },
       {
-        "start": 465.0,
-        "end": 468.5,
+        "start": 400.0,
+        "end": 403.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -137,16 +137,10 @@
     ],
     [
       {
-        "start": 890.0,
-        "end": 893.0,
+        "start": 810.5,
+        "end": 813.5,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 800.0,
-        "end": 803.0,
-        "layout": "crop",
-        "crop_x": 0.5
       },
       {
         "start": 694.5,
@@ -178,8 +172,8 @@
       "source_quote": "Vande Hei and Dubrov completed a 355-day mission spanning more than 150 million miles"
     },
     {
-      "claim": "They launched together the previous April",
-      "source_quote": "VANDE HEI HAVING LAUNCHED"
+      "claim": "Vande Hei said farewell to the crew staying aboard",
+      "source_quote": "VANDE HEI SAYING FAREWELL TO TOM"
     },
     {
       "claim": "Departed March 30, Shkaplerov in manual control",
@@ -202,5 +196,5 @@
       "source_quote": "During his mission, Vande Hei broke the record for longest single spaceflight for a U.S. astronaut"
     }
   ],
-  "preview_ok": "EMPTY flags are a single parachute and capsule against flat pale sky, and the DARK flag is the Soyuz against black space; checked, the subject is clearly in frame in each."
+  "preview_ok": "Rev 2 checked: EMPTY flags are the striped parachute and capsule against flat pale sky and the small Soyuz centered against grey space (L4 s2); DARK is the Soyuz against black space. Subject is clearly in frame in each."
 }
