@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261111-11",
-  "revision": 1,
+  "revision": 2,
   "status": "ok",
-  "built_at": "2026-11-12T00:18:15Z",
-  "duration": 19.37,
+  "built_at": "2026-11-12T00:28:44Z",
+  "duration": 20.01,
   "source_resolution": "1280x720",
   "timeline": [
     {
-      "text": "These men jumped into the open ocean to reach a sick one-year-old.",
+      "text": "These men jumped into the open ocean to reach a sick child.",
       "start": 0.05,
-      "end": 4.21,
+      "end": 3.77,
       "words": [
         {
           "w": "These",
@@ -23,294 +23,299 @@
         },
         {
           "w": "jumped",
-          "s": 0.77,
-          "e": 1.01
+          "s": 0.69,
+          "e": 0.93
         },
         {
           "w": "into",
-          "s": 1.13,
-          "e": 1.25
+          "s": 1.05,
+          "e": 1.17
         },
         {
           "w": "the",
-          "s": 1.29,
-          "e": 1.37
+          "s": 1.21,
+          "e": 1.29
         },
         {
           "w": "open",
-          "s": 1.49,
-          "e": 1.73
+          "s": 1.41,
+          "e": 1.65
         },
         {
           "w": "ocean",
-          "s": 1.81,
+          "s": 1.73,
           "e": 2.13
         },
         {
           "w": "to",
           "s": 2.21,
-          "e": 2.29
+          "e": 2.37
         },
         {
           "w": "reach",
-          "s": 2.37,
+          "s": 2.45,
           "e": 2.53
         },
         {
           "w": "a",
           "s": 2.61,
-          "e": 2.77
+          "e": 2.69
         },
         {
           "w": "sick",
-          "s": 2.85,
-          "e": 3.09
+          "s": 2.77,
+          "e": 3.01
         },
         {
-          "w": "one-year-old.",
-          "s": 3.17,
-          "e": 4.21
+          "w": "child.",
+          "s": 3.25,
+          "e": 3.77
         }
       ]
     },
     {
-      "text": "She was on a small sailboat with her family, nine hundred miles off Mexico.",
-      "start": 4.29,
-      "end": 9.01,
+      "text": "The family's sailboat was nine hundred miles off Mexico, and the crew watched them fall.",
+      "start": 4.05,
+      "end": 9.33,
       "words": [
         {
-          "w": "She",
-          "s": 4.29,
-          "e": 4.37
+          "w": "The",
+          "s": 4.05,
+          "e": 4.13
         },
         {
-          "w": "was",
-          "s": 4.45,
-          "e": 4.53
-        },
-        {
-          "w": "on",
-          "s": 4.57,
-          "e": 4.65
-        },
-        {
-          "w": "a",
-          "s": 4.69,
-          "e": 4.77
-        },
-        {
-          "w": "small",
-          "s": 4.93,
-          "e": 5.09
+          "w": "family's",
+          "s": 4.21,
+          "e": 4.61
         },
         {
           "w": "sailboat",
-          "s": 5.25,
-          "e": 5.65
+          "s": 4.65,
+          "e": 5.09
         },
         {
-          "w": "with",
-          "s": 5.73,
-          "e": 5.81
-        },
-        {
-          "w": "her",
-          "s": 5.89,
-          "e": 5.97
-        },
-        {
-          "w": "family,",
-          "s": 6.17,
-          "e": 6.69
+          "w": "was",
+          "s": 5.17,
+          "e": 5.41
         },
         {
           "w": "nine",
-          "s": 6.77,
-          "e": 7.01
+          "s": 5.49,
+          "e": 5.65
         },
         {
           "w": "hundred",
-          "s": 7.09,
-          "e": 7.33
+          "s": 5.73,
+          "e": 5.97
         },
         {
           "w": "miles",
-          "s": 7.41,
-          "e": 7.73
+          "s": 6.05,
+          "e": 6.37
         },
         {
           "w": "off",
-          "s": 7.81,
-          "e": 7.89
+          "s": 6.45,
+          "e": 6.53
         },
         {
-          "w": "Mexico.",
-          "s": 7.97,
-          "e": 9.01
+          "w": "Mexico,",
+          "s": 6.61,
+          "e": 7.57
+        },
+        {
+          "w": "and",
+          "s": 7.61,
+          "e": 7.69
+        },
+        {
+          "w": "the",
+          "s": 7.73,
+          "e": 7.81
+        },
+        {
+          "w": "crew",
+          "s": 7.89,
+          "e": 8.13
+        },
+        {
+          "w": "watched",
+          "s": 8.25,
+          "e": 8.41
+        },
+        {
+          "w": "them",
+          "s": 8.45,
+          "e": 8.61
+        },
+        {
+          "w": "fall.",
+          "s": 8.69,
+          "e": 9.33
         }
       ]
     },
     {
       "text": "Pararescuemen are paramedics who parachute, and four of them went out the back of the plane.",
-      "start": 9.13,
-      "end": 14.45,
+      "start": 9.65,
+      "end": 15.01,
       "words": [
         {
           "w": "Pararescuemen",
-          "s": 9.13,
-          "e": 9.89
+          "s": 9.65,
+          "e": 10.53
         },
         {
           "w": "are",
-          "s": 9.97,
-          "e": 10.05
-        },
-        {
-          "w": "paramedics",
-          "s": 10.13,
+          "s": 10.61,
           "e": 10.69
         },
         {
+          "w": "paramedics",
+          "s": 10.85,
+          "e": 11.25
+        },
+        {
           "w": "who",
-          "s": 10.77,
-          "e": 10.85
+          "s": 11.33,
+          "e": 11.41
         },
         {
           "w": "parachute,",
-          "s": 10.93,
-          "e": 11.81
+          "s": 11.49,
+          "e": 12.45
         },
         {
           "w": "and",
-          "s": 11.89,
-          "e": 12.13
-        },
-        {
-          "w": "four",
-          "s": 12.25,
-          "e": 12.37
-        },
-        {
-          "w": "of",
-          "s": 12.41,
-          "e": 12.49
-        },
-        {
-          "w": "them",
-          "s": 12.53,
+          "s": 12.57,
           "e": 12.69
         },
         {
-          "w": "went",
-          "s": 12.77,
-          "e": 12.85
-        },
-        {
-          "w": "out",
-          "s": 12.93,
-          "e": 13.01
-        },
-        {
-          "w": "the",
-          "s": 13.09,
-          "e": 13.17
-        },
-        {
-          "w": "back",
-          "s": 13.25,
-          "e": 13.33
+          "w": "four",
+          "s": 12.81,
+          "e": 12.93
         },
         {
           "w": "of",
-          "s": 13.37,
-          "e": 13.45
+          "s": 12.97,
+          "e": 13.05
+        },
+        {
+          "w": "them",
+          "s": 13.09,
+          "e": 13.25
+        },
+        {
+          "w": "went",
+          "s": 13.33,
+          "e": 13.41
+        },
+        {
+          "w": "out",
+          "s": 13.49,
+          "e": 13.57
         },
         {
           "w": "the",
-          "s": 13.45,
-          "e": 13.53
+          "s": 13.65,
+          "e": 13.73
+        },
+        {
+          "w": "back",
+          "s": 13.81,
+          "e": 13.89
+        },
+        {
+          "w": "of",
+          "s": 13.93,
+          "e": 14.01
+        },
+        {
+          "w": "the",
+          "s": 14.01,
+          "e": 14.09
         },
         {
           "w": "plane.",
-          "s": 13.57,
-          "e": 14.45
+          "s": 14.13,
+          "e": 15.01
         }
       ]
     },
     {
       "text": "Three days later, a Navy frigate took the family and all four jumpers aboard.",
-      "start": 14.57,
-      "end": 19.17,
+      "start": 15.09,
+      "end": 19.81,
       "words": [
         {
           "w": "Three",
-          "s": 14.57,
-          "e": 14.69
+          "s": 15.09,
+          "e": 15.25
         },
         {
           "w": "days",
-          "s": 14.81,
-          "e": 14.93
+          "s": 15.33,
+          "e": 15.57
         },
         {
           "w": "later,",
-          "s": 15.01,
-          "e": 15.49
+          "s": 15.65,
+          "e": 16.13
         },
         {
           "w": "a",
-          "s": 15.57,
-          "e": 15.65
+          "s": 16.21,
+          "e": 16.29
         },
         {
           "w": "Navy",
-          "s": 15.73,
-          "e": 15.97
-        },
-        {
-          "w": "frigate",
-          "s": 16.05,
-          "e": 16.45
-        },
-        {
-          "w": "took",
-          "s": 16.53,
+          "s": 16.33,
           "e": 16.61
         },
         {
-          "w": "the",
+          "w": "frigate",
           "s": 16.69,
-          "e": 16.77
+          "e": 17.09
         },
         {
-          "w": "family",
-          "s": 17.01,
+          "w": "took",
+          "s": 17.17,
           "e": 17.25
         },
         {
+          "w": "the",
+          "s": 17.33,
+          "e": 17.41
+        },
+        {
+          "w": "family",
+          "s": 17.65,
+          "e": 17.89
+        },
+        {
           "w": "and",
-          "s": 17.37,
-          "e": 17.49
+          "s": 18.01,
+          "e": 18.13
         },
         {
           "w": "all",
-          "s": 17.61,
-          "e": 17.73
-        },
-        {
-          "w": "four",
-          "s": 17.81,
-          "e": 17.97
-        },
-        {
-          "w": "jumpers",
-          "s": 18.05,
+          "s": 18.25,
           "e": 18.37
         },
         {
-          "w": "aboard.",
+          "w": "four",
           "s": 18.45,
-          "e": 19.17
+          "e": 18.61
+        },
+        {
+          "w": "jumpers",
+          "s": 18.69,
+          "e": 19.01
+        },
+        {
+          "w": "aboard.",
+          "s": 19.09,
+          "e": 19.81
         }
       ]
     }
@@ -322,23 +327,23 @@
     },
     "duration": {
       "ok": true,
-      "value": 19.4
+      "value": 20.03
     },
     "av_sync": {
       "ok": true,
-      "value": 0.03
+      "value": 0.023
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.23
+      "value": 0.22
     },
     "loudness": {
       "ok": true,
-      "value": -14.0
+      "value": -14.1
     },
     "true_peak": {
       "ok": true,
-      "value": -2.2
+      "value": -2.5
     },
     "dead_air": {
       "ok": true,
@@ -360,6 +365,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261111-11/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261111-11-r1.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261111-11-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261111-11/ccf-20261111-11.mp4"
 }
