@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:KSC_69-71212-sRGB",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Apollo",
+  "title": "KSC_69-71212-sRGB",
+  "description": "Apollo 11 launch transfer from 70mm",
+  "keywords": "Apollo, 11, launch, transfer, 70mm",
+  "date": "2020-02-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/KSC_69-71212-sRGB",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-69-71212-sRGB",
+  "status": "new",
+  "harvested_at": "2026-11-12T01:03:18Z",
+  "duration": 84.2,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC_69-71212-sRGB/KSC_69-71212-sRGB~medium.mp4",
+    "width": 720,
+    "height": 720,
+    "duration": 84.2
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 1.0,
+      "text": "No Captioning Avaiable at this time."
+    }
+  ],
+  "scene_cuts": [
+    0.3,
+    0.47,
+    1.2,
+    1.47,
+    1.9,
+    1.97,
+    2.3,
+    2.33,
+    83.73
+  ],
+  "drama_score": 40,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-KSC-69-71212-sRGB.jpg",
+  "sheet_times": [
+    2.62,
+    7.85,
+    13.08,
+    18.31,
+    23.54,
+    28.77,
+    34.0,
+    39.23,
+    44.47,
+    49.7,
+    54.93,
+    60.16,
+    65.39,
+    70.62,
+    75.85,
+    81.08
+  ]
+}
