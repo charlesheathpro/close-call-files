@@ -1,0 +1,60 @@
+{
+  "asset_id": "nasa:GSFC_20170721_Landsat_m11761_Atchafalaya",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "Land Changes in Atchafalaya Bay",
+  "description": "Since 1972, Landsat satellites have orbited our home planet, collecting data about the land surface we rely on. Changes in coastal wetlands, such as the growth of deltas in Atchafalaya Bay, are one example.  After a severe flood in 1973, enough sediment came down the Atchafalaya River to build sandbars into islands. In subsequent years, the delta has continued to grow, along with a companion at the Wax Lake Outlet to the West. Scientists at Louisiana State University estimate that the two deltas, together, have grown about one square mile each year.  It hasn't been continuous growth the whole time. Between 1989 and 1995 the two deltas added a combined 13 square miles of land, but due to a series of hurricanes between 1999 and 2004, they then lost a combined 0.8 square miles, according to the LSU team. During the later years, there were no major floods to replenish the sediments in the delta.  This video shows footage of the launch of the first Landsat satellite, on July 23, 1972, and yearly images of Atchafalaya Bay, Louisiana, using wavelengths in the green, near-infrared, and short wave-infrared regions of the spectrum.  The Landsat program is a joint NASA/USGS program that provides the longest continuous space-based record of Earth's land in existence. Every day, Landsat satellites provide essential information to help policy makers and land managers make wise decisions about our resources and our environment. They continue to deliver visually stunning and scientifically valuable images of our planet.",
+  "keywords": "Human Geography, Landsat, Physical Geography, Physical Oceanography, Land Surface, Landscape, Deltas, Sedimentation, Earth",
+  "date": "2017-07-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170721_Landsat_m11761_Atchafalaya",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170721-Landsat-m11761-Atchafalaya",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:36:42Z",
+  "duration": 90.9,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170721_Landsat_m11761_Atchafalaya/GSFC_20170721_Landsat_m11761_Atchafalaya~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 90.901333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.03,
+    4.03,
+    6.7,
+    12.3
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170721-Landsat-m11761-Atchafalaya.jpg",
+  "sheet_times": [
+    2.83,
+    8.48,
+    14.13,
+    19.78,
+    25.43,
+    31.08,
+    36.73,
+    42.38,
+    48.03,
+    53.68,
+    59.33,
+    64.98,
+    70.63,
+    76.28,
+    81.93,
+    87.58
+  ]
+}

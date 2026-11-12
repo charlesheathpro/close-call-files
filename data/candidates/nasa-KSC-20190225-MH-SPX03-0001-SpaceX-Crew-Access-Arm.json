@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:KSC-20190225-MH-SPX03-0001-SpaceX_Crew_Access_Arm",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "rocket launch",
+  "title": "SpaceX Crew Access Arm",
+  "description": "The Crew Access Arm for Launch Complex 39A at NASA’s Kennedy Space Center in Florida provides a bridge between the crew access tower and SpaceX’s Crew Dragon spacecraft. The Crew Dragon is designed to ultimately fly astronauts to the International Space Station on the company’s Falcon 9 rocket as part of NASA’s Commercial Crew Program. The inaugural uncrewed flight of the Crew Dragon, known as Demo-1, is scheduled to launch March 2, 2019. The uncrewed flight is an important step in returning human launches on American rockets and spacecraft to the space station from U.S. soil since 2011.",
+  "keywords": "NASA, NASA Commercial Crew Program, SpaceX, Demo-1, Demonstration Mission 1, Crew Dragon, Falcon 9, International Space Station, Crew Flights, Astronauts, Human Spaceflight, Crew Access Arm, Launch Complex 39A, Kennedy Space Center, American rockets",
+  "date": "2019-02-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190225-MH-SPX03-0001-SpaceX_Crew_Access_Arm",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190225-MH-SPX03-0001-SpaceX-Crew-Access-Arm",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:34:48Z",
+  "duration": 58.93,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190225-MH-SPX03-0001-SpaceX_Crew_Access_Arm/KSC-20190225-MH-SPX03-0001-SpaceX_Crew_Access_Arm~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 58.933333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.0,
+    14.07,
+    25.23,
+    38.4,
+    50.07,
+    58.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      58.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190225-MH-SPX03-0001-SpaceX-Crew-Access-Arm.jpg",
+  "sheet_times": [
+    1.83,
+    5.48,
+    9.13,
+    12.78,
+    16.43,
+    20.09,
+    23.74,
+    27.39,
+    31.04,
+    34.69,
+    38.35,
+    42.0,
+    45.65,
+    49.3,
+    52.96,
+    56.61
+  ]
+}
