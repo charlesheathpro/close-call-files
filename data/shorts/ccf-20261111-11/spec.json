@@ -4,10 +4,10 @@
   "lane": "rescue",
   "story_type": "pararescuemen parachute into the open ocean to reach a sick baby on a sailboat far offshore",
   "music_mood": "aviation",
-  "hook": "They jumped into the open ocean to reach a sick baby.",
+  "hook": "They jumped into the open ocean to reach a sick child.",
   "narration": [
-    "These men jumped into the open ocean to reach a sick one-year-old.",
-    "She was on a small sailboat with her family, nine hundred miles off Mexico.",
+    "These men jumped into the open ocean to reach a sick child.",
+    "The family's sailboat was nine hundred miles off Mexico, and the crew watched them fall.",
     "Pararescuemen are paramedics who parachute, and four of them went out the back of the plane."
   ],
   "outcome": "Three days later, a Navy frigate took the family and all four jumpers aboard.",
@@ -16,8 +16,8 @@
     "date": "April 3, 2014"
   },
   "keep_source_audio": false,
-  "title": "Jumped into the ocean for a sick baby",
-  "description": "On April 3, 2014, four pararescuemen from the California Air National Guard's 129th Rescue Wing parachuted from an MC-130P about 900 nautical miles off Mexico to reach a seriously ill 1-year-old aboard the sailboat Rebel Heart. The frigate USS Vandegrift later brought the family and the four pararescuemen aboard.\n\nFootage: U.S. Air National Guard video by Airman 1st Class Julia Bates, 129th Rescue Wing, via DVIDS: https://www.dvidshub.net/video/327601/four-pararescuemen-parachute-out-over-mexico-waters-perform-rescue-capabilities\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #pararescue #airnationalguard #rescue",
+  "title": "Jumped into the ocean for a sick child",
+  "description": "On April 3, 2014, four pararescuemen from the California Air National Guard's 129th Rescue Wing parachuted from an MC-130P about 900 nautical miles off Mexico to reach a seriously ill child aboard the sailboat Rebel Heart. The frigate USS Vandegrift later brought the family and the four pararescuemen aboard.\n\nFootage: U.S. Air National Guard video by Airman 1st Class Julia Bates, 129th Rescue Wing, via DVIDS: https://www.dvidshub.net/video/327601/four-pararescuemen-parachute-out-over-mexico-waters-perform-rescue-capabilities\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #pararescue #airnationalguard #rescue",
   "tags": [
     "pararescue",
     "PJ jump",
@@ -58,63 +58,63 @@
       "source_quote": "Vandegrift arrived on scene April 6 and brought the family and four pararescuemen aboard"
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "priority": 3,
   "line_shots": [
     [
       {
-        "start": 5.8,
-        "end": 8.3,
+        "start": 5.6,
+        "end": 8.0,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 9.6,
-        "end": 12.0,
+        "start": 8.0,
+        "end": 10.2,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 25.4,
+        "end": 27.6,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 27.7,
+        "end": 30.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 10.3,
+        "end": 12.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 12.4,
+        "end": 14.7,
         "layout": "crop",
         "crop_x": 0.4
       }
     ],
     [
       {
-        "start": 26.0,
-        "end": 28.6,
+        "start": 1.4,
+        "end": 3.5,
         "layout": "crop",
         "crop_x": 0.6
       },
       {
-        "start": 28.7,
-        "end": 31.2,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
-        "start": 12.2,
-        "end": 14.9,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
-        "start": 35.0,
-        "end": 37.3,
+        "start": 3.5,
+        "end": 5.6,
         "layout": "crop",
         "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 0.6,
-        "end": 3.1,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 3.3,
-        "end": 5.7,
-        "layout": "crop",
-        "crop_x": 0.6
       }
     ]
   ]
