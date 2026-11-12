@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20130515_LDCM_m11249_Medina",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "LDCM Medina and Jeddah, Saudi Arabia",
+  "description": "Medina and Jeddah, Saudi Arabia, as seen by the Landsat Data Continuity Mission on April 19, 2013. The full-resolution data in this animation shows the volcanoes in Harrat Khaybar lava field, the city of Medina, and then follows the Red Sea coastline down to the city of Jeddah.",
+  "keywords": "Landsat, Land Use, Physical Geography, Land Cover, Earth",
+  "date": "2013-05-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20130515_LDCM_m11249_Medina",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20130515-LDCM-m11249-Medina",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:40:41Z",
+  "duration": 88.97,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20130515_LDCM_m11249_Medina/GSFC_20130515_LDCM_m11249_Medina~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 88.96
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 62,
+  "audio": {
+    "silence_starts": [
+      86.9
+    ],
+    "silence_ends": [
+      89.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20130515-LDCM-m11249-Medina.jpg",
+  "sheet_times": [
+    2.76,
+    8.29,
+    13.82,
+    19.35,
+    24.88,
+    30.41,
+    35.94,
+    41.47,
+    47.0,
+    52.53,
+    58.06,
+    63.59,
+    69.11,
+    74.64,
+    80.17,
+    85.7
+  ]
+}

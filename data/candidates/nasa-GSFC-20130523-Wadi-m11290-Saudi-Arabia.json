@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20130523_Wadi_m11290_Saudi_Arabia",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "Pivot Irrigation in Saudi Arabia",
+  "description": "Saudi Arabia is drilling for a resource possibly more precious than oil. Over the last 24 years, it has tapped hidden reserves of water to grow wheat and other crops in the Syrian Desert. This time series of data shows images acquired by three different Landsat satellites operated by NASA and the U.S. Geological Survey.  The green fields that dot the desert draw on water that in part was trapped during the last Ice Age. In addition to rainwater that fell over several hundred thousand years, this fossil water filled aquifers that are now buried deep under the desert's shifting sands.  Saudi Arabia reaches these underground rivers and lakes by drilling through the desert floor, directly irrigating the fields with a circular sprinkler system. This technique is called center-pivot irrigation.  Because rainfall in this area is now only a few centimeters (about one inch) each year, water here is a non-renewable resource. Although no one knows how much water is beneath the desert, hydrologists estimate it will only be economical to pump water for about 50 years.  In this series of four Landsat images, the agricultural fields are about one kilometer (.62 miles) across. The images were created using reflected light from the short wave-infrared, near-infrared, and green portions of the electromagnetic spectrum (bands 7, 4, and 2 from Landsat 4 and 5 TM and Landsat 7 ETM+ sensors). Using this combination of wavelengths, healthy vegetation appears bright green while dry vegetation appears orange. Barren soil is a dark pink, and urban areas, like the town of Tubarjal at the top of each image, have a purple hue.  Landsat 4 launched in 1982 and provided scientific data for 11 years until 1993. NASA launched Landsat 5 in 1984 and it ran a record-breaking 28 years, sending back what was likely its last data in 2011. Landsat 7 is still up and running; it was launched in 1999. The data from these and other Landsat satellites has been instrumental in increasing our understanding of forest health, storm damage, agricultural trends, urban growth, and many other ongoing changes to our land.  NASA and the U.S. Department of the Interior through the U.S. Geological Survey (USGS) jointly manage Landsat, and the USGS preserves a 40-year archive of Landsat images that is freely available data over the Internet.",
+  "keywords": "Human Geography, Landsat, Physical Geography, Land use, Land Cover, Earth, Agricultural Lands",
+  "date": "2013-05-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20130523_Wadi_m11290_Saudi_Arabia",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20130523-Wadi-m11290-Saudi-Arabia",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:38:57Z",
+  "duration": 19.53,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20130523_Wadi_m11290_Saudi_Arabia/GSFC_20130523_Wadi_m11290_Saudi_Arabia~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 19.469458
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 26,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      19.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20130523-Wadi-m11290-Saudi-Arabia.jpg",
+  "sheet_times": [
+    0.59,
+    1.78,
+    2.97,
+    4.16,
+    5.35,
+    6.54,
+    7.73,
+    8.92,
+    10.11,
+    11.3,
+    12.49,
+    13.68,
+    14.87,
+    16.06,
+    17.25,
+    18.44
+  ]
+}

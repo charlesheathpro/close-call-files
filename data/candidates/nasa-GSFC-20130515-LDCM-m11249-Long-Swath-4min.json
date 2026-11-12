@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:GSFC_20130515_LDCM_m11249_Long_Swath_4min",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "LDCM Long Swath: 4min",
+  "description": "Highlights of animation of Landsat data collected in one continuous pass over Europe, the Middle East, and Africa, on April 19, 2013. The selections in this video feature the Volga River in Russia, the Tigris and Euphrates Rivers in Iraq, the cities of Medina and Jeddah in Saudi Arabia, Mt. Elgon and Lake Victoria in Uganda and Kenya, and the Great Dyke of Zimbabwe. The data was collected by the Landsat Data Continuity Mission observatory, also known as Landsat 8.",
+  "keywords": "Landsat, Land Use, Physical Geography, Land Cover, Earth",
+  "date": "2013-05-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20130515_LDCM_m11249_Long_Swath_4min",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20130515-LDCM-m11249-Long-Swath-4min",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:40:47Z",
+  "duration": 237.27,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20130515_LDCM_m11249_Long_Swath_4min/GSFC_20130515_LDCM_m11249_Long_Swath_4min~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 237.270367
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      44.7,
+      105.8,
+      196.4,
+      217.2,
+      222.3,
+      229.2,
+      234.9
+    ],
+    "silence_ends": [
+      46.0,
+      107.3,
+      197.1,
+      220.5,
+      226.1,
+      231.9,
+      237.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20130515-LDCM-m11249-Long-Swath-4min.jpg",
+  "sheet_times": [
+    7.4,
+    22.2,
+    37.0,
+    51.79,
+    66.59,
+    81.39,
+    96.19,
+    110.99,
+    125.78,
+    140.58,
+    155.38,
+    170.18,
+    184.98,
+    199.77,
+    214.57,
+    229.37
+  ]
+}

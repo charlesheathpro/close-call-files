@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:GSFC_20130515_LDCM_m11249_Volga",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "LDCM Volga River",
+  "description": "Ice on the Volga River is readily apparent in this animation of full-resolution Landsat data, collected on April 19, 2013, by the Landsat Data Continuity Mission. The rectangular pattern of the surrounding landscape reveals the presence of farm fields.",
+  "keywords": "Landsat, Land Use, Physical Geography, Land Cover, Earth",
+  "date": "2013-05-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20130515_LDCM_m11249_Volga",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20130515-LDCM-m11249-Volga",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:41:26Z",
+  "duration": 84.13,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20130515_LDCM_m11249_Volga/GSFC_20130515_LDCM_m11249_Volga~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 84.117367
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      82.4
+    ],
+    "silence_ends": [
+      84.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20130515-LDCM-m11249-Volga.jpg",
+  "sheet_times": [
+    2.61,
+    7.84,
+    13.07,
+    18.29,
+    23.52,
+    28.75,
+    33.98,
+    39.2,
+    44.43,
+    49.66,
+    54.88,
+    60.11,
+    65.34,
+    70.57,
+    75.79,
+    81.02
+  ]
+}
