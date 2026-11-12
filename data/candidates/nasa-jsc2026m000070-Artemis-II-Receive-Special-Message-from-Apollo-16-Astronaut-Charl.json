@@ -1,0 +1,80 @@
+{
+  "asset_id": "nasa:jsc2026m000070-Artemis_II_Receive_Special_Message_from_Apollo_16_Astronaut_Charlie_Duke",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Apollo",
+  "title": "Artemis II Receive Special Message from Apollo 16 Astronaut Charlie Duke",
+  "description": "As they woke up to start Flight Day 5, the crew of Artemis II, NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, received a special message from Apollo 16 astronaut Charlie Duke, the 10th person to walk on the Moon.",
+  "keywords": "Artemis II Resource Reel, Charlie Duke",
+  "date": "2026-04-05T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/jsc2026m000070-Artemis_II_Receive_Special_Message_from_Apollo_16_Astronaut_Charlie_Duke",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-jsc2026m000070-Artemis-II-Receive-Special-Message-from-Apollo-16-Astronaut-Charl",
+  "status": "new",
+  "harvested_at": "2026-11-12T01:08:55Z",
+  "duration": 58.4,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/jsc2026m000070-Artemis_II_Receive_Special_Message_from_Apollo_16_Astronaut_Charlie_Duke/jsc2026m000070-Artemis_II_Receive_Special_Message_from_Apollo_16_Astronaut_Charlie_Duke~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 58.374983
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[ambient]"
+    }
+  ],
+  "scene_cuts": [
+    23.57,
+    46.7
+  ],
+  "drama_score": 34,
+  "audio": {
+    "silence_starts": [
+      7.3,
+      9.8,
+      13.6,
+      20.8,
+      29.8,
+      39.6,
+      50.4
+    ],
+    "silence_ends": [
+      8.4,
+      10.5,
+      14.3,
+      21.6,
+      30.8,
+      40.4,
+      58.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-jsc2026m000070-Artemis-II-Receive-Special-Message-from-Apollo-16-Astronaut-Charl.jpg",
+  "sheet_times": [
+    1.81,
+    5.43,
+    9.05,
+    12.67,
+    16.28,
+    19.9,
+    23.52,
+    27.14,
+    30.76,
+    34.38,
+    38.0,
+    41.62,
+    45.23,
+    48.85,
+    52.47,
+    56.09
+  ]
+}
