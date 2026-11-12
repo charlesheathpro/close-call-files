@@ -1,0 +1,74 @@
+{
+  "asset_id": "nasa:NHQ20190502_AETC001",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "wind tunnel",
+  "title": "NHQ20190502_AETC001",
+  "description": "The Aerosciences Evaluation and Test Capabilities (AETC) Portfolio implemented the Capability Challenge “Optical Instrumentation for Advanced Flowfield Measurements”. The animation shows four optical measurement techniques developed by the Aeosciences Evaluation and Test Capabilities Portfolio to help advance NASA’s new air and space vehicles by providing relevant, high quality data which cannot be obtained in any other way. Pressure-Sensitive Paint (PSP) uses a luminescent paint whose brightness measures air pressure, thus showing where lift and buffet occur. High Speed Shadowgraph records density fluctuations in the air just as the human eye sees heat shimmer, but with enough speed and sensitivity to register shock waves and turbulence. Infra-red (IR) thermography measures the small changes in temperature which occur when air travelling around a model transitions from low drag laminar flow to turbulent or stalled flow. Femtosecond Laser Electronic Excitation and Tagging (FLEET) uses a high power laser beam to “write” a line of luminescent nitrogen in the air, which can be tracked to measure flow velocity. Using these techniques, and more, NASA’s ground test facilities fulfill a critical role in the agency’s mission to explore air and space.  Creator:  James Bell, Kimberly Scarberry, Jon Levy, Joshua Sams",
+  "keywords": "AETC Portfolio, Optical Instrumentation for Advanced Flowfield Measurements, Flowfield, Wind Tunnels, Pressure-Sensitive Paint, PSP, FLEET, Femtosecond Laser Electronic Excitation and Tagging, Ground test facilities",
+  "date": "2019-05-02T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "page_url": "https://images.nasa.gov/details/NHQ20190502_AETC001",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-NHQ20190502-AETC001",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:57:30Z",
+  "duration": 174.04,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/NHQ20190502_AETC001/NHQ20190502_AETC001~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 174.040533
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 3.2,
+      "e": 16.64,
+      "text": "[ music ]"
+    }
+  ],
+  "scene_cuts": [
+    6.37,
+    29.87,
+    73.1,
+    87.87,
+    91.2,
+    148.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      161.4
+    ],
+    "silence_ends": [
+      1.3,
+      174.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-NHQ20190502-AETC001.jpg",
+  "sheet_times": [
+    5.42,
+    16.27,
+    27.12,
+    37.96,
+    48.81,
+    59.65,
+    70.5,
+    81.35,
+    92.19,
+    103.04,
+    113.88,
+    124.73,
+    135.58,
+    146.42,
+    157.27,
+    168.11
+  ]
+}
