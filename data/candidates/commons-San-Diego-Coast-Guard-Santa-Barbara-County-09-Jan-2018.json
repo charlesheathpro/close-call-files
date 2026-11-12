@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-San-Diego-Coast-Guard-Santa-Barbara-County-09-Jan-2018",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T08:38:07Z",
   "duration": 316.72,
   "source_file": {
@@ -66,5 +66,6 @@
     266.81,
     286.58,
     306.34
-  ]
+  ],
+  "pass_reason": "same event as dropped ccf-20261106-42 (Montecito mudslide)"
 }

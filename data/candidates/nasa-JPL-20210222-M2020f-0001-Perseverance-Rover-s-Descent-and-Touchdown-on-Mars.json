@@ -1,10 +1,10 @@
 {
-  "asset_id": "nasa:JPL-20210222-M2020f-0001-Perseverance Rover’s Descent and Touchdown on Mars",
+  "asset_id": "nasa:JPL-20210222-M2020f-0001-Perseverance Rover\u2019s Descent and Touchdown on Mars",
   "source": "nasa",
   "lane": "aviation_naval",
   "matched_query": "rocket landing",
-  "title": "Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views",
-  "description": "NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021.  The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.  The audio embedded in the video comes from the mission control call-outs during entry, descent, and landing.   For more information about Perseverance, visit https://mars.nasa.gov/perseverance  Credit: NASA/JPL-Caltech",
+  "title": "Perseverance Rover\u2019s Descent and Touchdown on Mars: Onboard Camera Views",
+  "description": "NASA's Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars' Jezero Crater on Feb. 18, 2021.\u00a0 The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.  The audio embedded in the video comes from the mission control call-outs during entry, descent, and landing.\u00a0  For more information about Perseverance, visit https://mars.nasa.gov/perseverance  Credit: NASA/JPL-Caltech",
   "keywords": "NASA, Jet Propulsion Laboratory, JPL, Mars 2020, Mars, rover, rovers, Entry Descent and Landing, EDL, descent camera, microphone, skycrane, sky crane, landing on Mars, Mars landing, Red Planet, exploration, robots, ro botic exploration, tech, technology, robotics, engineering, space, science, tea, testing, Mars exploration, seven minutes, 7 minutes, terror, camera, camera suite, audio, touchdown, Perseverance, Jezero Crater, real Mars images, real Mars video",
   "date": "2021-02-22T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210222-M2020f-0001-Perseverance-Rover-s-Descent-and-Touchdown-on-Mars",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:39:00Z",
   "duration": 205.03,
   "source_file": {
@@ -428,5 +428,6 @@
     172.58,
     185.36,
     198.14
-  ]
+  ],
+  "pass_reason": "same event as ccf-20261105-03"
 }

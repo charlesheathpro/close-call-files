@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-445408",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:39:25Z",
   "duration": 105.45,
   "source_file": {
@@ -73,5 +73,6 @@
     89.18,
     95.49,
     101.8
-  ]
+  ],
+  "pass_reason": "turtle transport flight, no danger"
 }
