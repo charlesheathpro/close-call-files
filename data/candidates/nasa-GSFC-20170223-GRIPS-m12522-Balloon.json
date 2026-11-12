@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:GSFC_20170223_GRIPS_m12522_Balloon",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "parachute",
+  "title": "NASA Funded Balloon Recovered From Antarctica",
+  "description": "For 12 days in January 2016, a football-field-sized balloon with a telescope hanging beneath it floated 24 miles above the Antarctic continent, riding the spiraling polar vortex. On Jan. 31, 2016, scientists sent the pre-planned command to cut the balloon – and the telescope parachuted to the ground in the Queen Maud region of Antarctica. The telescope sat on the ice for an entire year.  The scientists did quickly recover the data vaults from the NASA-funded mission, called GRIPS, which is short for Gamma-Ray Imager/Polarimeter for Solar flares. But due to incoming winter weather – summer only runs October through February in Antarctica – they had to leave the remaining instruments on the ice and schedule a recovery effort for the following year. Finally, in January 2017, it was warm and safe enough to recover the instruments.",
+  "keywords": "Antarctic, Solar Wind, Sun, Space Weather, SDO, Solar Dynamics Observatory, Heliophysics, Scientific Instruments, Corona, Balloon, GRIPS",
+  "date": "2017-02-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170223_GRIPS_m12522_Balloon",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170223-GRIPS-m12522-Balloon",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:32:51Z",
+  "duration": 106.11,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170223_GRIPS_m12522_Balloon/GSFC_20170223_GRIPS_m12522_Balloon~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 106.112
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.0,
+    14.5,
+    18.53,
+    25.07,
+    30.07,
+    35.07,
+    37.8,
+    40.8,
+    45.83,
+    51.9,
+    57.93,
+    62.97,
+    72.0,
+    76.63,
+    81.17,
+    85.9,
+    90.47,
+    93.5,
+    99.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      105.4
+    ],
+    "silence_ends": [
+      106.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170223-GRIPS-m12522-Balloon.jpg",
+  "sheet_times": [
+    3.3,
+    9.9,
+    16.5,
+    23.1,
+    29.7,
+    36.3,
+    42.9,
+    49.51,
+    56.11,
+    62.71,
+    69.31,
+    75.91,
+    82.51,
+    89.11,
+    95.71,
+    102.31
+  ]
+}

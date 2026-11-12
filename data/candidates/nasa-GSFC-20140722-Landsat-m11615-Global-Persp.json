@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:GSFC_20140722_Landsat_m11615_Global_Persp",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "water landing",
+  "title": "Landsat's Global Perspective",
+  "description": "Celebrating the 40th anniversary of the 1972 launch of the Landsat 1 spacecraft, this is a \"greatest hits\" montage of Landsat data. Throughout the decades, the Landsat satellites have given us a detailed view of the changes to Earth's land surface. By collecting data in multiple wavelength regions, including thermal infrared wavelengths, the Landsat fleet has allowed us to study natural disasters, urban change, water quality and water usage, agriculture development, glaciers and ice sheets, and forest health.  NASA and the U.S. Department of the Interior through the U.S. Geological Survey (USGS) jointly manage Landsat, and the USGS preserves a 40-year archive of Landsat images that is freely available data over the Internet.",
+  "keywords": "Landsat, LDCM, Earth",
+  "date": "2014-07-22T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140722_Landsat_m11615_Global_Persp",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140722-Landsat-m11615-Global-Persp",
+  "status": "new",
+  "harvested_at": "2026-11-12T08:34:00Z",
+  "duration": 455.9,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140722_Landsat_m11615_Global_Persp/GSFC_20140722_Landsat_m11615_Global_Persp~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 455.893333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      170.3,
+      230.2,
+      289.7,
+      382.2,
+      454.1
+    ],
+    "silence_ends": [
+      172.5,
+      231.3,
+      291.0,
+      383.0,
+      455.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140722-Landsat-m11615-Global-Persp.jpg",
+  "sheet_times": [
+    14.23,
+    42.69,
+    71.16,
+    99.62,
+    128.08,
+    156.54,
+    185.01,
+    213.47,
+    241.93,
+    270.39,
+    298.86,
+    327.32,
+    355.78,
+    384.24,
+    412.71,
+    441.17
+  ]
+}
