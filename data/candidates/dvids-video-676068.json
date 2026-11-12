@@ -1,82 +1,83 @@
 {
-  "asset_id": "video:676068",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescues",
-  "title": "Rescue from Above",
-  "description": "U.S. Marines with Special Purpose Marine Air Ground Task Force Crisis Response-Central Command conduct a tactical recovery of aircraft and personnel exercise in Camp Buehring Kuwait, April 28, 2018. The SPMAGTF-CR-CC is a multiple force provider designed to employ ground, logistics and air capabilities throughout the Central Command area of responsibility. (U.S. Marine Corps photo by Lance Cpl. Mackenzie Binion)",
-  "keywords": "MV-22 Osprey, U.S. Marine Corps, 191, readiness, 1st Battalion 7th Marines, Crisis Response, Joint Fires Observer, designated marksman, vmm-165, SPMAGTF-CR-CC, Operation Inherent Resolve, CJTF-OIR, TRAPEX, Tactical Recovery of Aircraft and Personnel exercise, Task Force 51/5th Marine Expeditionary Brigade, BestofCentcom, Medium Tilt Rotor Squadron 165, Marines, deployed, U.S. Central Command, Camp Buehring, Radio, MARCENT, USMC, Charlie Co., SERE, USCENTCOM",
-  "date": "2019-04-28T00:00:00-04:00",
-  "date_published": "2019-04-30T08:20:10-04:00",
-  "branch": "Marines",
-  "unit_name": "U.S. Marine Corps Forces Central Command",
-  "credit": "Lance Cpl. Mackenzie Binion",
-  "category": "B-Roll",
-  "virin": "190428-M-UV498-1412",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "Kuwait",
-    "state_abbreviation": null,
-    "country_abbreviation": "KW"
-  },
-  "page_url": "https://www.dvidshub.net/video/676068/rescue-above",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-676068",
-  "status": "new",
-  "harvested_at": "2026-11-10T17:57:56Z",
-  "duration": 113.9,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1904/DOD_106690461/DOD_106690461.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 9779,
-    "size": 141256163
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    52.15,
-    56.16,
-    62.66,
-    68.67,
-    89.61,
-    101.62,
-    105.12
+ "asset_id": "video:676068",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescues",
+ "title": "Rescue from Above",
+ "description": "U.S. Marines with Special Purpose Marine Air Ground Task Force Crisis Response-Central Command conduct a tactical recovery of aircraft and personnel exercise in Camp Buehring Kuwait, April 28, 2018. The SPMAGTF-CR-CC is a multiple force provider designed to employ ground, logistics and air capabilities throughout the Central Command area of responsibility. (U.S. Marine Corps photo by Lance Cpl. Mackenzie Binion)",
+ "keywords": "MV-22 Osprey, U.S. Marine Corps, 191, readiness, 1st Battalion 7th Marines, Crisis Response, Joint Fires Observer, designated marksman, vmm-165, SPMAGTF-CR-CC, Operation Inherent Resolve, CJTF-OIR, TRAPEX, Tactical Recovery of Aircraft and Personnel exercise, Task Force 51/5th Marine Expeditionary Brigade, BestofCentcom, Medium Tilt Rotor Squadron 165, Marines, deployed, U.S. Central Command, Camp Buehring, Radio, MARCENT, USMC, Charlie Co., SERE, USCENTCOM",
+ "date": "2019-04-28T00:00:00-04:00",
+ "date_published": "2019-04-30T08:20:10-04:00",
+ "branch": "Marines",
+ "unit_name": "U.S. Marine Corps Forces Central Command",
+ "credit": "Lance Cpl. Mackenzie Binion",
+ "category": "B-Roll",
+ "virin": "190428-M-UV498-1412",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "Kuwait",
+  "state_abbreviation": null,
+  "country_abbreviation": "KW"
+ },
+ "page_url": "https://www.dvidshub.net/video/676068/rescue-above",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-676068",
+ "status": "passed_over",
+ "harvested_at": "2026-11-10T17:57:56Z",
+ "duration": 113.9,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1904/DOD_106690461/DOD_106690461.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 9779,
+  "size": 141256163
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  52.15,
+  56.16,
+  62.66,
+  68.67,
+  89.61,
+  101.62,
+  105.12
+ ],
+ "drama_score": 77,
+ "audio": {
+  "silence_starts": [
+   65.0,
+   80.8,
+   84.4
   ],
-  "drama_score": 77,
-  "audio": {
-    "silence_starts": [
-      65.0,
-      80.8,
-      84.4
-    ],
-    "silence_ends": [
-      65.7,
-      81.6,
-      85.1
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-676068.jpg",
-  "sheet_times": [
-    3.54,
-    10.63,
-    17.72,
-    24.81,
-    31.89,
-    38.98,
-    46.07,
-    53.16,
-    60.24,
-    67.33,
-    74.42,
-    81.51,
-    88.59,
-    95.68,
-    102.77,
-    109.86
+  "silence_ends": [
+   65.7,
+   81.6,
+   85.1
   ]
+ },
+ "sheet": "data/candidates/dvids-video-676068.jpg",
+ "sheet_times": [
+  3.54,
+  10.63,
+  17.72,
+  24.81,
+  31.89,
+  38.98,
+  46.07,
+  53.16,
+  60.24,
+  67.33,
+  74.42,
+  81.51,
+  88.59,
+  95.68,
+  102.77,
+  109.86
+ ],
+ "pass_reason": "exercise"
 }

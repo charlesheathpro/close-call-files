@@ -1,94 +1,95 @@
 {
-  "asset_id": "video:496954",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Ammok Island, Alaska, hoist of injured hiker",
-  "description": "A Coast Guard Air Station Kodiak MH-60T Jayhawk crew hoists an injured 58-year-old male hiker from a cabin up a bluff on Ammok Island near Kodiak, Alaska, Dec. 4, 2016. The aircrew transported the hiker to awaiting emergency medical services personnel at Air Station Kodiak. Video by Air Station Kodiak.",
-  "keywords": "Air Station Kodiak, hoist, injured hiker, Ammok Island",
-  "date": "2016-12-04T00:00:00-05:00",
-  "date_published": "2016-12-04T19:58:19-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Arctic",
-  "credit": "Petty Officer 1st Class William Colclough",
-  "category": "B-Roll",
-  "virin": "161204-G-G0217-1001",
-  "location": {
-    "city": "Kodiak",
-    "state": "Alaska",
-    "country": "United States",
-    "state_abbreviation": "AK",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/496954/ammok-island-alaska-hoist-injured-hiker",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.0587,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-496954",
-  "status": "new",
-  "harvested_at": "2026-11-08T16:59:57Z",
-  "duration": 47.27,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103904404/DOD_103904404.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 8806,
-    "size": 52780716
-  },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 9.55,
-      "e": 11.55,
-      "text": "standard"
-    }
+ "asset_id": "video:496954",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Ammok Island, Alaska, hoist of injured hiker",
+ "description": "A Coast Guard Air Station Kodiak MH-60T Jayhawk crew hoists an injured 58-year-old male hiker from a cabin up a bluff on Ammok Island near Kodiak, Alaska, Dec. 4, 2016. The aircrew transported the hiker to awaiting emergency medical services personnel at Air Station Kodiak. Video by Air Station Kodiak.",
+ "keywords": "Air Station Kodiak, hoist, injured hiker, Ammok Island",
+ "date": "2016-12-04T00:00:00-05:00",
+ "date_published": "2016-12-04T19:58:19-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Arctic",
+ "credit": "Petty Officer 1st Class William Colclough",
+ "category": "B-Roll",
+ "virin": "161204-G-G0217-1001",
+ "location": {
+  "city": "Kodiak",
+  "state": "Alaska",
+  "country": "United States",
+  "state_abbreviation": "AK",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/496954/ammok-island-alaska-hoist-injured-hiker",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.0587,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-496954",
+ "status": "passed_over",
+ "harvested_at": "2026-11-08T16:59:57Z",
+ "duration": 47.27,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103904404/DOD_103904404.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 8806,
+  "size": 52780716
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 9.55,
+   "e": 11.55,
+   "text": "standard"
+  }
+ ],
+ "scene_cuts": [
+  4.04
+ ],
+ "drama_score": 59,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   4.4,
+   12.4,
+   19.5,
+   23.1,
+   28.8,
+   34.9,
+   41.5,
+   43.9
   ],
-  "scene_cuts": [
-    4.04
-  ],
-  "drama_score": 59,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      4.4,
-      12.4,
-      19.5,
-      23.1,
-      28.8,
-      34.9,
-      41.5,
-      43.9
-    ],
-    "silence_ends": [
-      4.1,
-      7.9,
-      17.4,
-      20.4,
-      27.2,
-      33.9,
-      40.5,
-      43.4,
-      47.3
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-496954.jpg",
-  "sheet_times": [
-    5.39,
-    8.06,
-    10.73,
-    13.4,
-    16.07,
-    18.74,
-    21.41,
-    24.08,
-    26.75,
-    29.42,
-    32.09,
-    34.76,
-    37.43,
-    40.1,
-    42.77,
-    45.44
+  "silence_ends": [
+   4.1,
+   7.9,
+   17.4,
+   20.4,
+   27.2,
+   33.9,
+   40.5,
+   43.4,
+   47.3
   ]
+ },
+ "sheet": "data/candidates/dvids-video-496954.jpg",
+ "sheet_times": [
+  5.39,
+  8.06,
+  10.73,
+  13.4,
+  16.07,
+  18.74,
+  21.41,
+  24.08,
+  26.75,
+  29.42,
+  32.09,
+  34.76,
+  37.43,
+  40.1,
+  42.77,
+  45.44
+ ],
+ "pass_reason": "injured hiker medical hoist"
 }

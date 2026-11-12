@@ -1,73 +1,74 @@
 {
-  "asset_id": "video:1018022",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "ice rescue",
-  "title": "Border Patrol Agents Rescue Individual Suffering Heat Exhaustion in Jacumba Mountains",
-  "description": "On Aug. 1 at 3 p.m., agents from the Boulevard Station received notification from local law enforcement regarding an individual lost in the Jacumba Mountains with little to no water. The individual experienced symptoms consistent with heat exhaustion, including disorientation and blurred vision.\nWith temperatures reaching approximately 107 degrees Fahrenheit, Boulevard Station agents coordinated with El Centro Sector agents to search the remote, rugged area. Agents gathered heat stress supplies, water and ice before entering the terrain to locate the individual.\nAgents located the individual and provided basic medical aid. After requesting air support, local emergency services responded. Rescuers airlifted the individual to the Jacumba Interchange, where an ambulance transported the person to a hospital for treatment of heat-related injuries.",
-  "keywords": "border patrol, CBP, Rescue 1, AMO",
-  "date": "2026-08-01T00:00:00-04:00",
-  "date_published": "2026-08-11T10:57:24-04:00",
-  "branch": "Civilian",
-  "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
-  "credit": "Robert Frongello",
-  "category": "B-Roll",
-  "virin": "260801-H-FI643-1001",
-  "location": {
-    "city": "San Diego",
-    "state": "California",
-    "country": "United States",
-    "state_abbreviation": "CA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/1018022/border-patrol-agents-rescue-individual-suffering-heat-exhaustion-jacumba-mountains",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-1018022",
-  "status": "new",
-  "harvested_at": "2026-11-11T08:39:32Z",
-  "duration": 38.77,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111891141/DOD_111891141.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 0,
-    "size": 48205769
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    7.01,
-    13.31
+ "asset_id": "video:1018022",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "ice rescue",
+ "title": "Border Patrol Agents Rescue Individual Suffering Heat Exhaustion in Jacumba Mountains",
+ "description": "On Aug. 1 at 3 p.m., agents from the Boulevard Station received notification from local law enforcement regarding an individual lost in the Jacumba Mountains with little to no water. The individual experienced symptoms consistent with heat exhaustion, including disorientation and blurred vision.\nWith temperatures reaching approximately 107 degrees Fahrenheit, Boulevard Station agents coordinated with El Centro Sector agents to search the remote, rugged area. Agents gathered heat stress supplies, water and ice before entering the terrain to locate the individual.\nAgents located the individual and provided basic medical aid. After requesting air support, local emergency services responded. Rescuers airlifted the individual to the Jacumba Interchange, where an ambulance transported the person to a hospital for treatment of heat-related injuries.",
+ "keywords": "border patrol, CBP, Rescue 1, AMO",
+ "date": "2026-08-01T00:00:00-04:00",
+ "date_published": "2026-08-11T10:57:24-04:00",
+ "branch": "Civilian",
+ "unit_name": "U.S. Customs and Border Protection Office of Public Affairs - Visual Communications Division",
+ "credit": "Robert Frongello",
+ "category": "B-Roll",
+ "virin": "260801-H-FI643-1001",
+ "location": {
+  "city": "San Diego",
+  "state": "California",
+  "country": "United States",
+  "state_abbreviation": "CA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/1018022/border-patrol-agents-rescue-individual-suffering-heat-exhaustion-jacumba-mountains",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-1018022",
+ "status": "passed_over",
+ "harvested_at": "2026-11-11T08:39:32Z",
+ "duration": 38.77,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111891141/DOD_111891141.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 0,
+  "size": 48205769
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  7.01,
+  13.31
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      2.8
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-1018022.jpg",
-  "sheet_times": [
-    1.2,
-    3.59,
-    5.98,
-    8.37,
-    10.76,
-    13.16,
-    15.55,
-    17.94,
-    20.33,
-    22.72,
-    25.12,
-    27.51,
-    29.9,
-    32.29,
-    34.68,
-    37.08
+  "silence_ends": [
+   2.8
   ]
+ },
+ "sheet": "data/candidates/dvids-video-1018022.jpg",
+ "sheet_times": [
+  1.2,
+  3.59,
+  5.98,
+  8.37,
+  10.76,
+  13.16,
+  15.55,
+  17.94,
+  20.33,
+  22.72,
+  25.12,
+  27.51,
+  29.9,
+  32.29,
+  34.68,
+  37.08
+ ],
+ "pass_reason": "heat exhaustion, person in medical distress"
 }

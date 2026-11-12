@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:313263",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "hoist",
-  "title": "Coast Guard Air Station Port Angeles hoist",
-  "description": "SEATTLE (March 29, 2008)  The Coast Guard airlifts a 29-year-old male after he was injured in an ATV accident at Lake Tarboo, north of Quilcene, Wash., March 29, 2008.  COAST GUARD VIDEO FOR RELEASE",
-  "keywords": "CGVI",
-  "date": "2008-03-29T00:00:00-04:00",
-  "date_published": "2013-12-16T19:58:49-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northwest",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": null,
-  "location": {
-    "city": "Seattle",
-    "state": "Washington",
-    "country": "United States",
-    "state_abbreviation": "WA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/313263/coast-guard-air-station-port-angeles-hoist",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-313263",
-  "status": "new",
-  "harvested_at": "2026-11-08T17:01:23Z",
-  "duration": 88.0,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053632/DOD_101053632-720x480-2003k.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 2003,
-    "size": 23022281
-  },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 4.18,
-      "e": 5.18,
-      "text": "We're headed by crew."
-    }
-  ],
-  "scene_cuts": [],
-  "drama_score": 81,
-  "audio": {
-    "silence_starts": [],
-    "silence_ends": []
-  },
-  "sheet": "data/candidates/dvids-video-313263.jpg",
-  "sheet_times": [
-    2.73,
-    8.2,
-    13.67,
-    19.14,
-    24.61,
-    30.08,
-    35.55,
-    41.02,
-    46.49,
-    51.96,
-    57.42,
-    62.89,
-    68.36,
-    73.83,
-    79.3,
-    84.77
-  ]
+ "asset_id": "video:313263",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hoist",
+ "title": "Coast Guard Air Station Port Angeles hoist",
+ "description": "SEATTLE (March 29, 2008)  The Coast Guard airlifts a 29-year-old male after he was injured in an ATV accident at Lake Tarboo, north of Quilcene, Wash., March 29, 2008.  COAST GUARD VIDEO FOR RELEASE",
+ "keywords": "CGVI",
+ "date": "2008-03-29T00:00:00-04:00",
+ "date_published": "2013-12-16T19:58:49-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northwest",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": null,
+ "location": {
+  "city": "Seattle",
+  "state": "Washington",
+  "country": "United States",
+  "state_abbreviation": "WA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/313263/coast-guard-air-station-port-angeles-hoist",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-313263",
+ "status": "passed_over",
+ "harvested_at": "2026-11-08T17:01:23Z",
+ "duration": 88.0,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053632/DOD_101053632-720x480-2003k.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 2003,
+  "size": 23022281
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 4.18,
+   "e": 5.18,
+   "text": "We're headed by crew."
+  }
+ ],
+ "scene_cuts": [],
+ "drama_score": 81,
+ "audio": {
+  "silence_starts": [],
+  "silence_ends": []
+ },
+ "sheet": "data/candidates/dvids-video-313263.jpg",
+ "sheet_times": [
+  2.73,
+  8.2,
+  13.67,
+  19.14,
+  24.61,
+  30.08,
+  35.55,
+  41.02,
+  46.49,
+  51.96,
+  57.42,
+  62.89,
+  68.36,
+  73.83,
+  79.3,
+  84.77
+ ],
+ "pass_reason": "injured ATV rider, medical hoist"
 }

@@ -1,98 +1,99 @@
 {
-  "asset_id": "video:288967",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard Rescues 2 From Gulf of Mexico",
-  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew rescued a man and a woman from a damaged sailing vessel approximately 50 miles south of Terrebone Bay, in the Gulf of Mexico, May 03, 2013. The aircrew transported the man and women to Air Station New Orleans. U.S. Coast Guard video by Air Station New Orleans.",
-  "keywords": "Coast Guard Air Station New Orleans",
-  "date": "2013-05-03T00:00:00-04:00",
-  "date_published": "2013-05-03T17:35:28-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Heartland",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "130503-G-ZZ999-001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "United States",
-    "state_abbreviation": null,
-    "country_abbreviation": "US"
+ "asset_id": "video:288967",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard Rescues 2 From Gulf of Mexico",
+ "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew rescued a man and a woman from a damaged sailing vessel approximately 50 miles south of Terrebone Bay, in the Gulf of Mexico, May 03, 2013. The aircrew transported the man and women to Air Station New Orleans. U.S. Coast Guard video by Air Station New Orleans.",
+ "keywords": "Coast Guard Air Station New Orleans",
+ "date": "2013-05-03T00:00:00-04:00",
+ "date_published": "2013-05-03T17:35:28-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Heartland",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "130503-G-ZZ999-001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "United States",
+  "state_abbreviation": null,
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/288967/coast-guard-rescues-2-gulf-mexico",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-288967",
+ "status": "passed_over",
+ "harvested_at": "2026-11-12T00:22:11Z",
+ "duration": 61.4,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100803016/DOD_100803016-720x480-1484k.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 1484,
+  "size": 13951712
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 4.85,
+   "e": 10.31,
+   "text": "Yeah, there are two lines in the water right now, so that will help so you can get on the first one or the second one."
   },
-  "page_url": "https://www.dvidshub.net/video/288967/coast-guard-rescues-2-gulf-mexico",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-288967",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:22:11Z",
-  "duration": 61.4,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100803016/DOD_100803016-720x480-1484k.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 1484,
-    "size": 13951712
+  {
+   "s": 10.31,
+   "e": 12.65,
+   "text": "Roger that, give me 4' right, 40."
   },
-  "transcript_source": "whisper",
-  "transcript": [
-    {
-      "s": 4.85,
-      "e": 10.31,
-      "text": "Yeah, there are two lines in the water right now, so that will help so you can get on the first one or the second one."
-    },
-    {
-      "s": 10.31,
-      "e": 12.65,
-      "text": "Roger that, give me 4' right, 40."
-    },
-    {
-      "s": 12.65,
-      "e": 14.75,
-      "text": "Roger, 4' right, 30."
-    },
-    {
-      "s": 14.75,
-      "e": 17.8,
-      "text": "Hold it."
-    },
-    {
-      "s": 17.8,
-      "e": 37.26,
-      "text": "Here's the 5' left, Roger, take a lot of work."
-    }
+  {
+   "s": 12.65,
+   "e": 14.75,
+   "text": "Roger, 4' right, 30."
+  },
+  {
+   "s": 14.75,
+   "e": 17.8,
+   "text": "Hold it."
+  },
+  {
+   "s": 17.8,
+   "e": 37.26,
+   "text": "Here's the 5' left, Roger, take a lot of work."
+  }
+ ],
+ "scene_cuts": [
+  4.04
+ ],
+ "drama_score": 52,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "scene_cuts": [
-    4.04
-  ],
-  "drama_score": 52,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      4.1
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-288967.jpg",
-  "sheet_times": [
-    1.9,
-    5.71,
-    9.52,
-    13.32,
-    17.13,
-    20.93,
-    24.74,
-    28.55,
-    32.35,
-    36.16,
-    39.96,
-    43.77,
-    47.58,
-    51.38,
-    55.19,
-    58.99
+  "silence_ends": [
+   4.1
   ]
+ },
+ "sheet": "data/candidates/dvids-video-288967.jpg",
+ "sheet_times": [
+  1.9,
+  5.71,
+  9.52,
+  13.32,
+  17.13,
+  20.93,
+  24.74,
+  28.55,
+  32.35,
+  36.16,
+  39.96,
+  43.77,
+  47.58,
+  51.38,
+  55.19,
+  58.99
+ ],
+ "pass_reason": "tiny letterboxed 480p, calm sea, survivors never clear"
 }

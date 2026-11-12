@@ -1,80 +1,81 @@
 {
-  "asset_id": "video:334730",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Missing Boaters Rescued off Fort Pierce, Florida",
-  "description": "Two missing boaters were located by the crew of a Coast Guard Air Station Clearwater, Florida, HC-130 crew, approximately 12 miles off the coast of Fort Pierce, Florida.  The two men had no major medical concerns and were picked up by a good Samaritan before being transported to shore by a Coast Guard Station Fort Pierce boatcrew.",
-  "keywords": "Fort Pierce, capsize, Missing Boaters, Coast Guard, rescue",
-  "date": "2014-05-05T00:00:00-04:00",
-  "date_published": "2014-05-05T13:25:55-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Southeast",
-  "credit": "Petty Officer 3rd Class Jon-Paul Rios",
-  "category": "B-Roll",
-  "virin": "140505-G-KZ985-898",
-  "location": {
-    "city": "Fort Pierce",
-    "state": "Florida",
-    "country": "United States",
-    "state_abbreviation": "FL",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/334730/missing-boaters-rescued-off-fort-pierce-florida",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.004,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-334730",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:21:40Z",
-  "duration": 158.17,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101536481/DOD_101536481.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 8704,
-    "size": 176798616
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.0,
-    10.84,
-    15.48,
-    31.43,
-    78.14,
-    108.01,
-    134.3,
-    142.98,
-    153.09
+ "asset_id": "video:334730",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Missing Boaters Rescued off Fort Pierce, Florida",
+ "description": "Two missing boaters were located by the crew of a Coast Guard Air Station Clearwater, Florida, HC-130 crew, approximately 12 miles off the coast of Fort Pierce, Florida.  The two men had no major medical concerns and were picked up by a good Samaritan before being transported to shore by a Coast Guard Station Fort Pierce boatcrew.",
+ "keywords": "Fort Pierce, capsize, Missing Boaters, Coast Guard, rescue",
+ "date": "2014-05-05T00:00:00-04:00",
+ "date_published": "2014-05-05T13:25:55-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Southeast",
+ "credit": "Petty Officer 3rd Class Jon-Paul Rios",
+ "category": "B-Roll",
+ "virin": "140505-G-KZ985-898",
+ "location": {
+  "city": "Fort Pierce",
+  "state": "Florida",
+  "country": "United States",
+  "state_abbreviation": "FL",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/334730/missing-boaters-rescued-off-fort-pierce-florida",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.004,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-334730",
+ "status": "passed_over",
+ "harvested_at": "2026-11-12T00:21:40Z",
+ "duration": 158.17,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101536481/DOD_101536481.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 8704,
+  "size": 176798616
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.0,
+  10.84,
+  15.48,
+  31.43,
+  78.14,
+  108.01,
+  134.3,
+  142.98,
+  153.09
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      158.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-334730.jpg",
-  "sheet_times": [
-    8.81,
-    18.41,
-    28.01,
-    37.62,
-    47.22,
-    56.83,
-    66.43,
-    76.03,
-    85.64,
-    95.24,
-    104.84,
-    114.45,
-    124.05,
-    133.66,
-    143.26,
-    152.86
+  "silence_ends": [
+   158.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-334730.jpg",
+ "sheet_times": [
+  8.81,
+  18.41,
+  28.01,
+  37.62,
+  47.22,
+  56.83,
+  66.43,
+  76.03,
+  85.64,
+  95.24,
+  104.84,
+  114.45,
+  124.05,
+  133.66,
+  143.26,
+  152.86
+ ],
+ "pass_reason": "same event as ccf-20261102-07 (Fort Pierce, May 5, 2014)"
 }

@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:547848",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Station Grays Harbor Boat Crews Rescue Boaters",
-  "description": "Coast Guard Station Grays Harbor boat crew members rescue two boaters from a boat taking on water off the Washington coast, Sept. 2, 2017.\r\n\r\nTwo rescue crew members boarded the boat, delivered a radio and operated the dewatering pump as the Coast Guard boat crews escorted the boat back to shore.\r\n\r\nU.S. Coast Guard video by Coast Guard Sector Columbia River 6002.",
-  "keywords": "47-foot Motor Life Boat, Station Grays Harbor, 29-foot Response Boat-Small II, Coast Guard, USCG",
-  "date": "2017-09-02T00:00:00-04:00",
-  "date_published": "2017-09-02T19:00:26-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Northwest",
-  "credit": "Petty Officer 1st Class Levi Read",
-  "category": "B-Roll",
-  "virin": "170902-G-G0213-1001",
-  "location": {
-    "city": "Westport",
-    "state": "Washington",
-    "country": "United States",
-    "state_abbreviation": "WA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/547848/station-grays-harbor-boat-crews-rescue-boaters",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.2042,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-547848",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:21:36Z",
-  "duration": 47.38,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104799102/DOD_104799102.mp4",
-    "width": 1280,
-    "height": 720,
-    "bitrate": 9520,
-    "size": 56482357
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    8.17
+ "asset_id": "video:547848",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Station Grays Harbor Boat Crews Rescue Boaters",
+ "description": "Coast Guard Station Grays Harbor boat crew members rescue two boaters from a boat taking on water off the Washington coast, Sept. 2, 2017.\r\n\r\nTwo rescue crew members boarded the boat, delivered a radio and operated the dewatering pump as the Coast Guard boat crews escorted the boat back to shore.\r\n\r\nU.S. Coast Guard video by Coast Guard Sector Columbia River 6002.",
+ "keywords": "47-foot Motor Life Boat, Station Grays Harbor, 29-foot Response Boat-Small II, Coast Guard, USCG",
+ "date": "2017-09-02T00:00:00-04:00",
+ "date_published": "2017-09-02T19:00:26-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Northwest",
+ "credit": "Petty Officer 1st Class Levi Read",
+ "category": "B-Roll",
+ "virin": "170902-G-G0213-1001",
+ "location": {
+  "city": "Westport",
+  "state": "Washington",
+  "country": "United States",
+  "state_abbreviation": "WA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/547848/station-grays-harbor-boat-crews-rescue-boaters",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.2042,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-547848",
+ "status": "passed_over",
+ "harvested_at": "2026-11-12T00:21:36Z",
+ "duration": 47.38,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104799102/DOD_104799102.mp4",
+  "width": 1280,
+  "height": 720,
+  "bitrate": 9520,
+  "size": 56482357
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  8.17
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   5.1
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      5.1
-    ],
-    "silence_ends": [
-      4.1,
-      47.4
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-547848.jpg",
-  "sheet_times": [
-    5.54,
-    8.21,
-    10.87,
-    13.54,
-    16.21,
-    18.87,
-    21.54,
-    24.21,
-    26.88,
-    29.54,
-    32.21,
-    34.88,
-    37.55,
-    40.21,
-    42.88,
-    45.55
+  "silence_ends": [
+   4.1,
+   47.4
   ]
+ },
+ "sheet": "data/candidates/dvids-video-547848.jpg",
+ "sheet_times": [
+  5.54,
+  8.21,
+  10.87,
+  13.54,
+  16.21,
+  18.87,
+  21.54,
+  24.21,
+  26.88,
+  29.54,
+  32.21,
+  34.88,
+  37.55,
+  40.21,
+  42.88,
+  45.55
+ ],
+ "pass_reason": "calm boat-to-boat transfer, boat level, no visible danger"
 }
