@@ -1,0 +1,156 @@
+{
+  "asset_id": "nasa:GSFC_20140224_Landsat_m11491_OnionSkin",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "Landsat 8 Onion Skin",
+  "description": "Landsat satellites circle the globe every 99 minutes, collecting data about the land surfaces passing underneath. After 16 days, the Landsat satellite has passed over every spot on the globe, and recorded data in 11 different wavelength regions. The individual wavelength bands can be combined into color images, with different combinations of the 11 bands revealing different information about the condition of the land cover.  The data for this video was collected by Landsat 5 on November 10, 2011.",
+  "keywords": "Everglades, Landsat, Wavelengths, LDCM, Earth",
+  "date": "2014-02-24T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140224_Landsat_m11491_OnionSkin",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140224-Landsat-m11491-OnionSkin",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:42:52Z",
+  "duration": 176.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140224_Landsat_m11491_OnionSkin/GSFC_20140224_Landsat_m11491_OnionSkin~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 176.3762
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 4.58,
+      "text": "When we investigate land cover using the instruments aboard Landsat satellites,"
+    },
+    {
+      "s": 4.58,
+      "e": 7.5,
+      "text": "we collect sets of data for different wavelengths."
+    },
+    {
+      "s": 7.5,
+      "e": 13.5,
+      "text": "Some are in the infrared and others correspond to blue, green, and red visible light."
+    },
+    {
+      "s": 13.5,
+      "e": 19.0,
+      "text": "We can combine any three of the images to create different depictions of Earth's surface."
+    },
+    {
+      "s": 19.0,
+      "e": 27.54,
+      "text": "What you're seeing now is a Landsat image of Florida made with data from the blue, green, and red visible wavelengths."
+    },
+    {
+      "s": 28.54,
+      "e": 34.54,
+      "text": "We call this a natural color image because it looks approximately like what we would see with our naked eye,"
+    },
+    {
+      "s": 34.54,
+      "e": 36.54,
+      "text": "if we flew far above Florida."
+    },
+    {
+      "s": 36.54,
+      "e": 58.26,
+      "text": "But we could choose data from other wavelengths and map them to blue, green, and red colors to highlight different features of the land surface."
+    },
+    {
+      "s": 58.26,
+      "e": 73.44,
+      "text": "With this particular depiction of the multispectral data, for example,"
+    },
+    {
+      "s": 73.44,
+      "e": 81.44,
+      "text": "we can see much greater contrast between trees and shrubs and sawgrass marsh, than was apparent in the natural color image."
+    },
+    {
+      "s": 81.44,
+      "e": 90.85,
+      "text": "We call certain combinations of wavelength false color images because they do not replicate what we see with the naked eye."
+    },
+    {
+      "s": 90.85,
+      "e": 96.85,
+      "text": "Yet they allow us to create images where we can highlight or enhance different surface features."
+    },
+    {
+      "s": 102.1,
+      "e": 107.1,
+      "text": "The following depiction approximates the type of image that you can get from color infrared film."
+    },
+    {
+      "s": 110.46,
+      "e": 117.46,
+      "text": "It turns out that vegetation, growing active vegetation, reflects a lot of light in the near infrared."
+    },
+    {
+      "s": 117.46,
+      "e": 129.65,
+      "text": "And so areas with healthy growing vegetation jump out as red in these images."
+    },
+    {
+      "s": 129.65,
+      "e": 135.65,
+      "text": "You can easily distinguish the healthy agriculture more clearly than you can in the true color image."
+    },
+    {
+      "s": 135.65,
+      "e": 144.02,
+      "text": "Here you can look at the three different depictions of the multispectral data we use to create these images."
+    },
+    {
+      "s": 144.02,
+      "e": 150.02,
+      "text": "And you can see how the surface cover appears different with some features enhanced in the different depictions."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      167.7,
+      169.3,
+      170.3,
+      171.1
+    ],
+    "silence_ends": [
+      168.4,
+      169.9,
+      171.0,
+      176.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140224-Landsat-m11491-OnionSkin.jpg",
+  "sheet_times": [
+    5.5,
+    16.49,
+    27.48,
+    38.47,
+    49.46,
+    60.45,
+    71.45,
+    82.44,
+    93.43,
+    104.42,
+    115.41,
+    126.4,
+    137.4,
+    148.39,
+    159.38,
+    170.37
+  ]
+}

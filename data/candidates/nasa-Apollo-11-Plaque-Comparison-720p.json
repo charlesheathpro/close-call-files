@@ -1,0 +1,134 @@
+{
+  "asset_id": "nasa:Apollo_11_Plaque_Comparison_720p",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "Apollo_11_Plaque_Comparison_720p",
+  "description": "Neil Armstrong reads a commemorative plaque affixed to the Apollo 11 lunar module. The video compares existing footage with the partially restored video. The thumbnail image shows the new footage on the left and the old on the right.",
+  "keywords": "Neil Armstrong, Apollo 11, Earth's Moon, Moon, Lunar landing",
+  "date": "2017-08-03T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "page_url": "https://images.nasa.gov/details/Apollo_11_Plaque_Comparison_720p",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Apollo-11-Plaque-Comparison-720p",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:43:35Z",
+  "duration": 44.12,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Apollo_11_Plaque_Comparison_720p/Apollo_11_Plaque_Comparison_720p~medium.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 44.117
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 8.74,
+      "e": 10.01,
+      "text": ">> FOR THOSE WHO HAVEN'T, UH,"
+    },
+    {
+      "s": 10.01,
+      "e": 11.48,
+      "text": "READ THE PLAQUE, UH,"
+    },
+    {
+      "s": 11.48,
+      "e": 12.68,
+      "text": "WE'LL READ THE PLAQUE THAT'S"
+    },
+    {
+      "s": 12.68,
+      "e": 14.08,
+      "text": "ON THE FRONT LANDING GEAR"
+    },
+    {
+      "s": 14.08,
+      "e": 16.05,
+      "text": "OF THIS LM."
+    },
+    {
+      "s": 16.05,
+      "e": 18.62,
+      "text": "FIRST THERE'S TWO HEMISPHERES,"
+    },
+    {
+      "s": 18.62,
+      "e": 21.99,
+      "text": "ONE SHOWING EACH OF THE TWO"
+    },
+    {
+      "s": 21.99,
+      "e": 25.32,
+      "text": "HEMISPHERES OF EARTH."
+    },
+    {
+      "s": 25.32,
+      "e": 27.53,
+      "text": "UNDERNEATH IT SAYS,"
+    },
+    {
+      "s": 27.53,
+      "e": 29.76,
+      "text": "\"HERE MAN FROM THE PLANET EARTH"
+    },
+    {
+      "s": 29.76,
+      "e": 32.33,
+      "text": "\"FIRST SET FOOT UPON THE MOON,"
+    },
+    {
+      "s": 32.33,
+      "e": 34.8,
+      "text": "\"JULY 1969.\""
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 35,
+  "audio": {
+    "silence_starts": [
+      0.4,
+      14.6,
+      16.3,
+      19.2,
+      23.2,
+      26.2,
+      31.2,
+      33.9
+    ],
+    "silence_ends": [
+      8.6,
+      16.0,
+      17.1,
+      21.3,
+      25.2,
+      27.5,
+      32.2,
+      43.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-Apollo-11-Plaque-Comparison-720p.jpg",
+  "sheet_times": [
+    1.36,
+    4.09,
+    6.82,
+    9.54,
+    12.27,
+    14.99,
+    17.72,
+    20.45,
+    23.17,
+    25.9,
+    28.62,
+    31.35,
+    34.08,
+    36.8,
+    39.53,
+    42.25
+  ]
+}

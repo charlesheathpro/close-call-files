@@ -1,0 +1,172 @@
+{
+  "asset_id": "nasa:GSFC_20143101_MMS_m11308_Challenges",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "explosion",
+  "title": "MMS: Engineering Challenges",
+  "description": "It's hard enough to build one spacecraft, but the Magnetospheric Multiscale Mission (MMS) is building four. Together, the spacecraft will unlock the mysteries of magnetic reconnection, when magnetic fields explosively connect and disconnect, transferring energy.",
+  "keywords": "Magnetic Reconnection, Magnetosphere, Solar Wind, Sun, Sun-Earth Interactions, Space Weather, Heliophysics, Magnetic Field, MMS, Earth",
+  "date": "2014-01-31T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20143101_MMS_m11308_Challenges",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20143101-MMS-m11308-Challenges",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:43:54Z",
+  "duration": 106.2,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20143101_MMS_m11308_Challenges/GSFC_20143101_MMS_m11308_Challenges~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 106.139375
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 8.56,
+      "e": 11.56,
+      "text": "Imagine you work for the MMS mission."
+    },
+    {
+      "s": 11.56,
+      "e": 16.56,
+      "text": "Your goal is to measure how the suns and Earth's magnetic fields connect and disconnect,"
+    },
+    {
+      "s": 16.56,
+      "e": 19.56,
+      "text": "explosively transferring energy from one to the other."
+    },
+    {
+      "s": 19.56,
+      "e": 22.56,
+      "text": "We call this magnetic reconnection."
+    },
+    {
+      "s": 22.56,
+      "e": 26.56,
+      "text": "We want to get a 3D observation of magnetic reconnection."
+    },
+    {
+      "s": 26.56,
+      "e": 31.56,
+      "text": "To do this, you'll need measurements at four different points, a single base point,"
+    },
+    {
+      "s": 31.56,
+      "e": 34.56,
+      "text": "and one additional point for each dimension."
+    },
+    {
+      "s": 34.56,
+      "e": 38.56,
+      "text": "This means you have to build not one, but four spacecraft."
+    },
+    {
+      "s": 38.56,
+      "e": 42.56,
+      "text": "And you'll need to pack each one with 25 instruments."
+    },
+    {
+      "s": 42.56,
+      "e": 45.56,
+      "text": "You'll need to arrange them so that they are not blocking each other,"
+    },
+    {
+      "s": 45.56,
+      "e": 51.56,
+      "text": "and so that the magnetometers are held safely away from the spacecraft's body."
+    },
+    {
+      "s": 51.56,
+      "e": 57.56,
+      "text": "But wait, you only have four years to build, test, and launch all of them."
+    },
+    {
+      "s": 57.56,
+      "e": 63.56,
+      "text": "It typically takes four years to build just one, so you won't be able to build them one at a time."
+    },
+    {
+      "s": 63.56,
+      "e": 67.58,
+      "text": "You'll have to work on them concurrently."
+    },
+    {
+      "s": 67.58,
+      "e": 69.58,
+      "text": "You'll need a team to help you do that."
+    },
+    {
+      "s": 69.58,
+      "e": 72.58,
+      "text": "They will need space to work, so you'll have to build a clean room."
+    },
+    {
+      "s": 72.58,
+      "e": 76.58,
+      "text": "And you'll have to keep all of your people, paper, and tools organized"
+    },
+    {
+      "s": 76.58,
+      "e": 80.58,
+      "text": "because you'll have to wrap four sets of wires, and prepare four sets of flight hardware"
+    },
+    {
+      "s": 80.58,
+      "e": 85.58,
+      "text": "and do four sets of tests and make sure that everyone is working on the right project at the right time."
+    },
+    {
+      "s": 85.58,
+      "e": 90.14,
+      "text": "And now it's time to get to work."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      6.4,
+      86.2,
+      93.9,
+      96.8,
+      97.8,
+      98.8,
+      99.6
+    ],
+    "silence_ends": [
+      7.1,
+      86.9,
+      95.7,
+      97.5,
+      98.5,
+      99.5,
+      106.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20143101-MMS-m11308-Challenges.jpg",
+  "sheet_times": [
+    3.3,
+    9.91,
+    16.52,
+    23.12,
+    29.73,
+    36.33,
+    42.94,
+    49.55,
+    56.15,
+    62.76,
+    69.37,
+    75.97,
+    82.58,
+    89.18,
+    95.79,
+    102.4
+  ]
+}

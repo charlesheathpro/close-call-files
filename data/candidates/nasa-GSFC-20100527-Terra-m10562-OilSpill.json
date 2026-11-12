@@ -1,0 +1,73 @@
+{
+  "asset_id": "nasa:GSFC_20100527_Terra_m10562_OilSpill",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "explosion",
+  "title": "Gulf of Mexico Oil Spill",
+  "description": "This short video reveals a space-based view of the burning oil rig, the spill, and the location through April 1, 2011. The MODIS instrument, on board NASA's Terra and Aqua satellites, captured images of the oil spill in the Gulf of Mexico. The spill began on April 20, 2010 with the explosion of the Deepwater Horizon oil rig. The oil slick appears grayish-beige in the images and changes due to changing weather, ocean currents, and the use of oil dispersing chemicals.",
+  "keywords": "Biology, Environmental Science, Human Geography, Physical Geography, Pollution, Biosphere, Oceans, Oil Production, Gas Production, Oil Spill, Earth",
+  "date": "2010-05-27T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20100527_Terra_m10562_OilSpill",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20100527-Terra-m10562-OilSpill",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:44:08Z",
+  "duration": 204.95,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20100527_Terra_m10562_OilSpill/GSFC_20100527_Terra_m10562_OilSpill~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 204.949333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    190.27
+  ],
+  "drama_score": 32,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      6.9,
+      187.8,
+      190.6,
+      191.6,
+      192.6,
+      193.5
+    ],
+    "silence_ends": [
+      2.1,
+      8.9,
+      190.3,
+      191.3,
+      192.3,
+      193.5,
+      205.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20100527-Terra-m10562-OilSpill.jpg",
+  "sheet_times": [
+    6.39,
+    19.17,
+    31.95,
+    44.72,
+    57.5,
+    70.28,
+    83.06,
+    95.84,
+    108.61,
+    121.39,
+    134.17,
+    146.95,
+    159.73,
+    172.5,
+    185.28,
+    198.06
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "asset_id": "nasa:KSC-20200930-MH-FJM01_0001-New_NASA_Helicopters_Arrive_At_KSC-3259552",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "landing",
+  "title": "Arrival of New NASA Helicopters",
+  "description": "New NASA Helicopters Arrive at KSC",
+  "keywords": "KSCHELOS, KSC Helicopters, NASA Helicopters, KSCAirbusH135, NASAH135",
+  "date": "2020-09-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200930-MH-FJM01_0001-New_NASA_Helicopters_Arrive_At_KSC-3259552",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200930-MH-FJM01-0001-New-NASA-Helicopters-Arrive-At-KSC-3259552",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:43:21Z",
+  "duration": 204.8,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200930-MH-FJM01_0001-New_NASA_Helicopters_Arrive_At_KSC-3259552/KSC-20200930-MH-FJM01_0001-New_NASA_Helicopters_Arrive_At_KSC-3259552~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 204.8
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.03,
+    24.13,
+    103.83,
+    162.73,
+    170.97,
+    183.33
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      21.6,
+      24.1,
+      29.7,
+      38.0,
+      189.1,
+      195.3,
+      199.1,
+      199.9
+    ],
+    "silence_ends": [
+      13.0,
+      22.3,
+      25.0,
+      30.6,
+      39.6,
+      193.9,
+      197.4,
+      199.9,
+      204.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200930-MH-FJM01-0001-New-NASA-Helicopters-Arrive-At-KSC-3259552.jpg",
+  "sheet_times": [
+    6.38,
+    19.15,
+    31.92,
+    44.69,
+    57.46,
+    70.23,
+    83.0,
+    95.77,
+    108.53,
+    121.3,
+    134.07,
+    146.84,
+    159.61,
+    172.38,
+    185.15,
+    197.92
+  ]
+}
