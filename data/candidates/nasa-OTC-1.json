@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:OTC-1",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "Flight Day 1: Orion Completes First Outbound Trajectory Correction Burn",
+  "description": "art001m1203201437 (Nov. 16, 2022) Orion conducted the first outbound trajectory burn at 9:32 a.m. EST on Nov. 16, 2022. The burn tested Orion’s main engine for the first time and adjusted the spacecraft’s course toward the Moon. Several additional course correction burns are planned on journey.",
+  "keywords": "Artemis I resource reel, Artemis, Orion, Artemis I",
+  "date": "2022-11-16T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/OTC-1",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-OTC-1",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:30:26Z",
+  "duration": 526.59,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/OTC-1/OTC-1~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 526.591979
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 44,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      526.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-OTC-1.jpg",
+  "sheet_times": [
+    16.44,
+    49.32,
+    82.2,
+    115.08,
+    147.96,
+    180.84,
+    213.72,
+    246.61,
+    279.49,
+    312.37,
+    345.25,
+    378.13,
+    411.01,
+    443.89,
+    476.77,
+    509.65
+  ]
+}
