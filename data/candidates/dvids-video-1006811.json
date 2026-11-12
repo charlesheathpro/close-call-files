@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1006811",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:50:57Z",
   "duration": 404.24,
   "source_file": {
@@ -1066,5 +1066,6 @@
     340.65,
     365.89,
     391.12
-  ]
+  ],
+  "pass_reason": "Training school"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2022m000094-NTV-Video-File-Soyuz-MS-19-Landing-220330",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-05T01:37:47Z",
   "duration": 1059.07,
   "source_file": {
@@ -1546,5 +1546,6 @@
     959.33,
     1025.49
   ],
-  "pass_reason": "Touchdown not shown, mostly crowds; repeats capsule return of ccf-20261104-04"
+  "pass_reason": "Touchdown not shown, mostly crowds; repeats capsule return of ccf-20261104-04",
+  "used_by": "ccf-20261112-02"
 }

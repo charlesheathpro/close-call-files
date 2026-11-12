@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-782825",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:04:14Z",
   "duration": 144.78,
   "source_file": {
@@ -172,5 +172,6 @@
     121.73,
     130.75,
     139.77
-  ]
+  ],
+  "pass_reason": "720x480 purple-tinted door-cam, routine litter hoist through trees, injured man in litter"
 }

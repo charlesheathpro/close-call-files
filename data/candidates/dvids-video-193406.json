@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-193406",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:50:19Z",
   "duration": 609.26,
   "source_file": {
@@ -930,5 +930,6 @@
     513.64,
     551.69,
     589.73
-  ]
+  ],
+  "pass_reason": "Interview, low motion, a death in the story"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss062m261080759-NTV-VideoFile-Expedition-62-Landing-200416",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:39:09Z",
   "duration": 920.53,
   "source_file": {
@@ -1103,5 +1103,6 @@
     776.28,
     833.78,
     891.28
-  ]
+  ],
+  "pass_reason": "Second Soyuz landing would repeat today's MS-19 Short; no clear touchdown shot"
 }

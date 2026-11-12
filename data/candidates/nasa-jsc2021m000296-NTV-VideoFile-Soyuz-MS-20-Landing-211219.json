@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000296-NTV-VideoFile-Soyuz-MS-20-Landing-211219",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:38:07Z",
   "duration": 601.4,
   "source_file": {
@@ -214,5 +214,6 @@
     507.01,
     544.57,
     582.12
-  ]
+  ],
+  "pass_reason": "Second Soyuz landing would repeat today's MS-19 Short"
 }

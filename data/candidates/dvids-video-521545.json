@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-521545",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:48:23Z",
   "duration": 60.84,
   "source_file": {
@@ -62,5 +62,6 @@
     50.91,
     54.68,
     58.46
-  ]
+  ],
+  "pass_reason": "Medical extraction after a shipboard explosion, 480p, injured patients"
 }

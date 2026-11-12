@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-762061",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:21:37Z",
   "duration": 77.58,
   "source_file": {
@@ -68,5 +68,6 @@
     65.03,
     69.85,
     74.67
-  ]
+  ],
+  "pass_reason": "Heavy colour noise door-cam, subject unreadable"
 }

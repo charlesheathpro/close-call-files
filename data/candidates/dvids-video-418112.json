@@ -26,7 +26,7 @@
   "time_start": 3.02433,
   "aspect_ratio": "16:9",
   "id": "dvids-video-418112",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:36:55Z",
   "duration": 203.65,
   "source_file": {
@@ -156,5 +156,6 @@
     171.88,
     184.39,
     196.89
-  ]
+  ],
+  "pass_reason": "Reunion interviews, no rescue footage"
 }
