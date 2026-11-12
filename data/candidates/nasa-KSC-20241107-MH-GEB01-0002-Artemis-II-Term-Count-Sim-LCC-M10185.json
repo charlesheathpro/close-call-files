@@ -1,0 +1,81 @@
+{
+  "asset_id": "nasa:KSC-20241107-MH-GEB01-0002-Artemis_II_Term_Count_Sim_LCC-M10185",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Artemis II Terminal Count Simulation",
+  "description": "Artemis II Terminal Count Simulation in the LCC",
+  "keywords": "Artemis, Kennedy Space Center, Launch Control Center, Firing Room 1, Artemis launch",
+  "date": "2024-11-07T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20241107-MH-GEB01-0002-Artemis_II_Term_Count_Sim_LCC-M10185",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20241107-MH-GEB01-0002-Artemis-II-Term-Count-Sim-LCC-M10185",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:53:58Z",
+  "duration": 280.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20241107-MH-GEB01-0002-Artemis_II_Term_Count_Sim_LCC-M10185/KSC-20241107-MH-GEB01-0002-Artemis_II_Term_Count_Sim_LCC-M10185~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 280.085
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.93,
+    29.13,
+    40.03,
+    48.97,
+    62.7,
+    94.53,
+    106.6,
+    125.2,
+    139.43,
+    150.1,
+    163.43,
+    171.6,
+    176.63,
+    195.9,
+    213.2,
+    228.7,
+    241.7,
+    256.83,
+    271.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      256.8
+    ],
+    "silence_ends": [
+      12.0,
+      271.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20241107-MH-GEB01-0002-Artemis-II-Term-Count-Sim-LCC-M10185.jpg",
+  "sheet_times": [
+    8.74,
+    26.21,
+    43.69,
+    61.16,
+    78.64,
+    96.11,
+    113.59,
+    131.06,
+    148.54,
+    166.01,
+    183.49,
+    200.96,
+    218.44,
+    235.91,
+    253.39,
+    270.86
+  ]
+}

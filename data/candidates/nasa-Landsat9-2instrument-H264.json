@@ -1,0 +1,131 @@
+{
+  "asset_id": "nasa:Landsat9-2instrument_H264",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "fire",
+  "title": "Landsat9-2instrument_H264",
+  "description": "There are 2 instruments on Landsat 9 to collect all the science data. The Operational Land Imager 2 collects light, and works kind of like our eyes — or cameras — to make data-rich images. The Thermal Infrared Sensor 2 measures temperature, helping monitor plant health, fires, and more. From the series “9 Things About Landsat 9” https://svs.gsfc.nasa.gov/13917",
+  "keywords": "Landsat, technology, infrared, NASA, USGS, earth science, Landsat-9, U.S. Geological Survey",
+  "date": "2021-09-25T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/Landsat9-2instrument_H264",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-Landsat9-2instrument-H264",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:52:14Z",
+  "duration": 67.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/Landsat9-2instrument_H264/Landsat9-2instrument_H264~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 67.600875
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 18.15,
+      "e": 20.15,
+      "text": "Two Instruments That Make It All Happen"
+    },
+    {
+      "s": 20.15,
+      "e": 22.82,
+      "text": "There are two instruments aboard Landsat 9."
+    },
+    {
+      "s": 22.82,
+      "e": 25.86,
+      "text": "OLI- 2 is all about light."
+    },
+    {
+      "s": 27.29,
+      "e": 32.0,
+      "text": "Once in orbit, OLI-2 collects sunlight reflected off Earth’s surface."
+    },
+    {
+      "s": 33.27,
+      "e": 35.37,
+      "text": "The light passes through a set of filters,"
+    },
+    {
+      "s": 35.37,
+      "e": 38.07,
+      "text": "to separate out nine specific wavelength bands,"
+    },
+    {
+      "s": 38.07,
+      "e": 41.44,
+      "text": "in visible and infrared frequencies."
+    },
+    {
+      "s": 41.44,
+      "e": 44.91,
+      "text": "Each band provides different pieces of information about"
+    },
+    {
+      "s": 44.91,
+      "e": 46.91,
+      "text": "what is down on the surface."
+    },
+    {
+      "s": 47.78,
+      "e": 51.32,
+      "text": "The second instrument aboard Landsat 9, called TIRS-2,"
+    },
+    {
+      "s": 51.32,
+      "e": 53.92,
+      "text": "collects thermal infrared wavelengths,"
+    },
+    {
+      "s": 53.92,
+      "e": 58.16,
+      "text": "or temperature signatures emitted by the Earth itself."
+    }
+  ],
+  "scene_cuts": [
+    10.0,
+    15.0,
+    19.87,
+    19.97,
+    20.03,
+    32.5,
+    41.5,
+    62.3
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      61.7
+    ],
+    "silence_ends": [
+      15.0,
+      67.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-Landsat9-2instrument-H264.jpg",
+  "sheet_times": [
+    2.1,
+    6.29,
+    10.49,
+    14.68,
+    18.87,
+    23.07,
+    27.26,
+    31.46,
+    35.65,
+    39.84,
+    44.04,
+    48.23,
+    52.43,
+    56.62,
+    60.81,
+    65.01
+  ]
+}
