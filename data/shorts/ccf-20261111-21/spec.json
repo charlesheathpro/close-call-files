@@ -1,0 +1,142 @@
+{
+  "short_id": "ccf-20261111-21",
+  "revision": 1,
+  "candidate_id": "dvids-video-109120",
+  "lane": "rescue",
+  "story_type": "offshore oil platform on fire, helicopter hoists two workers",
+  "music_mood": "sea",
+  "hook": "An oil platform caught fire fifty miles out in the Gulf.",
+  "narration": [
+    "This oil platform caught fire fifty miles south of Grand Isle, Louisiana.",
+    "Black smoke poured off it, and the Coast Guard sent aircraft and boats.",
+    "On a Dolphin helicopter, the flight mechanic runs the hoist and talks the pilot into position.",
+    "Then two men from the platform came up in the rescue basket."
+  ],
+  "outcome": "The Air Station New Orleans crew hoisted both men into the helicopter.",
+  "location_card": {
+    "place": "Gulf of Mexico, off Grand Isle, La.",
+    "date": "March 6, 2011"
+  },
+  "keep_source_audio": false,
+  "title": "Oil platform on fire 50 miles out",
+  "description": "On March 6, 2011, a Coast Guard MH-65C crew from Air Station New Orleans hoisted two men who were on board the GI 102A oil production platform when it caught fire about 50 miles south of Grand Isle, Louisiana.\n\nFootage: U.S. Coast Guard video by Air Station New Orleans, via DVIDS: https://www.dvidshub.net/video/109120/coast-guard-rescues-2-after-platform-fire\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #oilplatform #rescue",
+  "tags": [
+    "coast guard",
+    "oil platform fire",
+    "Gulf of Mexico",
+    "Grand Isle",
+    "MH-65 Dolphin",
+    "helicopter hoist",
+    "rescue basket",
+    "offshore rescue",
+    "real footage"
+  ],
+  "question_comment": "Would you wait for the helicopter or jump for the water?",
+  "facts": [
+    {
+      "claim": "MH-65C crew from Air Station New Orleans hoisted two men who were on the platform",
+      "source_quote": "a Coast Guard MH-65C rescue helicopter crew from Air Station New Orleans hoisting two men who were on board the GI 102A oil production platform when it caught fire"
+    },
+    {
+      "claim": "About 50 miles south of Grand Isle, March 6, 2011",
+      "source_quote": "approximately 50 miles south of Grand Isle, March 6, 2011"
+    },
+    {
+      "claim": "Coast Guard sent multiple aircraft and boats",
+      "source_quote": "The Coast Guard responded with multiple air and sea assets after receiving the initial report of the fire."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Platform burning with heavy black smoke",
+      "seen_at": "source 4 to 15 s"
+    },
+    {
+      "claim": "Flight mechanic at the open door working the hoist",
+      "seen_at": "source 25 to 46 s"
+    },
+    {
+      "claim": "Rescue basket with a man in it at the cabin door",
+      "seen_at": "source 47 to 55 s"
+    }
+  ],
+  "priority": 4,
+  "line_shots": [
+    [
+      {
+        "start": 12.1,
+        "end": 14.7,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 4.4,
+        "end": 6.8,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 7.0,
+        "end": 9.4,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 9.6,
+        "end": 11.9,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 26.0,
+        "end": 28.6,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33.0,
+        "end": 35.6,
+        "layout": "crop",
+        "crop_x": 0.2
+      },
+      {
+        "start": 29.0,
+        "end": 31.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 47.2,
+        "end": 49.6,
+        "layout": "crop",
+        "crop_x": 0.05
+      },
+      {
+        "start": 50.0,
+        "end": 52.5,
+        "layout": "crop",
+        "crop_x": 0.12
+      }
+    ],
+    [
+      {
+        "start": 53.0,
+        "end": 55.4,
+        "layout": "crop",
+        "crop_x": 0.15
+      },
+      {
+        "start": 56.0,
+        "end": 58.4,
+        "layout": "crop",
+        "crop_x": 0.2
+      }
+    ]
+  ]
+}

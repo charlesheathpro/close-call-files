@@ -1,75 +1,76 @@
 {
-  "asset_id": "video:807337",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard aircrew rescues 3 on Chilkat River",
-  "description": "KODIAK, Alaska – A Coast Guard Air Station Sitka aircrew rescued three mariners on the Chilkat River near Haines, Sunday night.\r\n \r\nThe aircrew arrived on scene at 10:20 p.m. aboard an MH-60 Jayhawk helicopter and safely hoisted and transported two adult females and one adult male to awaiting local Emergency Medical Services personnel at the Haines airport.\r\n\r\nU.S. Coast Guard courtesy video.",
-  "keywords": "Haines, Coast Guard Air Station Sitka, Chilkat River, Alaska",
-  "date": "2021-07-18T00:00:00-04:00",
-  "date_published": "2021-07-20T13:35:55-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Arctic",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "210718-G-GO217-002",
-  "location": {
-    "city": "Kodiak",
-    "state": "Alaska",
-    "country": "United States",
-    "state_abbreviation": "AK",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/807337/coast-guard-aircrew-rescues-3-chilkat-river",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-807337",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:23:47Z",
-  "duration": 123.86,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108461517/DOD_108461517.mp4",
-    "width": 720,
-    "height": 480,
-    "bitrate": 9664,
-    "size": 149794148
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.97,
-    24.09,
-    39.07,
-    46.61
+ "asset_id": "video:807337",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard aircrew rescues 3 on Chilkat River",
+ "description": "KODIAK, Alaska \u2013 A Coast Guard Air Station Sitka aircrew rescued three mariners on the Chilkat River near Haines, Sunday night.\r\n \r\nThe aircrew arrived on scene at 10:20 p.m. aboard an MH-60 Jayhawk helicopter and safely hoisted and transported two adult females and one adult male to awaiting local Emergency Medical Services personnel at the Haines airport.\r\n\r\nU.S. Coast Guard courtesy video.",
+ "keywords": "Haines, Coast Guard Air Station Sitka, Chilkat River, Alaska",
+ "date": "2021-07-18T00:00:00-04:00",
+ "date_published": "2021-07-20T13:35:55-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Arctic",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "210718-G-GO217-002",
+ "location": {
+  "city": "Kodiak",
+  "state": "Alaska",
+  "country": "United States",
+  "state_abbreviation": "AK",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/807337/coast-guard-aircrew-rescues-3-chilkat-river",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-807337",
+ "status": "passed_over",
+ "harvested_at": "2026-11-12T00:23:47Z",
+ "duration": 123.86,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108461517/DOD_108461517.mp4",
+  "width": 720,
+  "height": 480,
+  "bitrate": 9664,
+  "size": 149794148
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.97,
+  24.09,
+  39.07,
+  46.61
+ ],
+ "drama_score": 84,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 84,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      123.8
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-807337.jpg",
-  "sheet_times": [
-    3.85,
-    11.56,
-    19.27,
-    26.98,
-    34.69,
-    42.4,
-    50.11,
-    57.82,
-    65.53,
-    73.24,
-    80.95,
-    88.66,
-    96.37,
-    104.08,
-    111.79,
-    119.5
+  "silence_ends": [
+   123.8
   ]
+ },
+ "sheet": "data/candidates/dvids-video-807337.jpg",
+ "sheet_times": [
+  3.85,
+  11.56,
+  19.27,
+  26.98,
+  34.69,
+  42.4,
+  50.11,
+  57.82,
+  65.53,
+  73.24,
+  80.95,
+  88.66,
+  96.37,
+  104.08,
+  111.79,
+  119.5
+ ],
+ "pass_reason": "480p night river hoist, courtesy video, survivors to EMS; little visible danger"
 }

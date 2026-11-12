@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:298524",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard rescues 4 at Columbia River entrance",
-  "description": "An MH-60 Jayhawk helicopter crew from Coast Guard Sector Columbia River, Ore., hoists two people from the water after their boat capsized near the entrance to the Columbia River, Aug. 10, 2013.\r\n\r\nCoast Guard Station Cape Disappointment, Wash., boat crews pulled an additional two people from the water, accounting for all four people originally on board the capsized vessel.\r\n\r\nU.S. Coast Guard video by Sector Columbia River",
-  "keywords": "capsized vessel, Jayhawk, Pacific Northwest, Air Station Astoria, Sector Columbia River, Station Cape Disappointment, PIW, D13",
-  "date": "2013-08-10T00:00:00-04:00",
-  "date_published": "2013-08-10T15:41:58-04:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard PADET Astoria",
-  "credit": "Petty Officer 3rd Class Nate Littlejohn",
-  "category": "B-Roll",
-  "virin": "130810-G-LS819-001",
-  "location": {
-    "city": "",
-    "state": "",
-    "country": "United States",
-    "state_abbreviation": null,
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/298524/coast-guard-rescues-4-columbia-river-entrance",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.3,
-  "aspect_ratio": "4:3",
-  "id": "dvids-video-298524",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:22:58Z",
-  "duration": 129.17,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100883724/DOD_100883724.mp4",
-    "width": 640,
-    "height": 480,
-    "bitrate": 10000,
-    "size": 165716289
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.3
+ "asset_id": "video:298524",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard rescues 4 at Columbia River entrance",
+ "description": "An MH-60 Jayhawk helicopter crew from Coast Guard Sector Columbia River, Ore., hoists two people from the water after their boat capsized near the entrance to the Columbia River, Aug. 10, 2013.\r\n\r\nCoast Guard Station Cape Disappointment, Wash., boat crews pulled an additional two people from the water, accounting for all four people originally on board the capsized vessel.\r\n\r\nU.S. Coast Guard video by Sector Columbia River",
+ "keywords": "capsized vessel, Jayhawk, Pacific Northwest, Air Station Astoria, Sector Columbia River, Station Cape Disappointment, PIW, D13",
+ "date": "2013-08-10T00:00:00-04:00",
+ "date_published": "2013-08-10T15:41:58-04:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard PADET Astoria",
+ "credit": "Petty Officer 3rd Class Nate Littlejohn",
+ "category": "B-Roll",
+ "virin": "130810-G-LS819-001",
+ "location": {
+  "city": "",
+  "state": "",
+  "country": "United States",
+  "state_abbreviation": null,
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/298524/coast-guard-rescues-4-columbia-river-entrance",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.3,
+ "aspect_ratio": "4:3",
+ "id": "dvids-video-298524",
+ "status": "passed_over",
+ "harvested_at": "2026-11-12T00:22:58Z",
+ "duration": 129.17,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100883724/DOD_100883724.mp4",
+  "width": 640,
+  "height": 480,
+  "bitrate": 10000,
+  "size": 165716289
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.3
+ ],
+ "drama_score": 82,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 82,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      129.2
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-298524.jpg",
-  "sheet_times": [
-    8.19,
-    15.96,
-    23.73,
-    31.51,
-    39.28,
-    47.05,
-    54.83,
-    62.6,
-    70.37,
-    78.15,
-    85.92,
-    93.69,
-    101.47,
-    109.24,
-    117.01,
-    124.79
+  "silence_ends": [
+   129.2
   ]
+ },
+ "sheet": "data/candidates/dvids-video-298524.jpg",
+ "sheet_times": [
+  8.19,
+  15.96,
+  23.73,
+  31.51,
+  39.28,
+  47.05,
+  54.83,
+  62.6,
+  70.37,
+  78.15,
+  85.92,
+  93.69,
+  101.47,
+  109.24,
+  117.01,
+  124.79
+ ],
+ "pass_reason": "capsized boat basket hoists repeat the capsized type publishing Nov 12 and 11-12 held to Nov 15; revisit after Nov 18"
 }

@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:109120",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "rescue",
-  "title": "Coast Guard rescues 2 after platform fire",
-  "description": "B-roll of a Coast Guard MH-65C rescue helicopter crew from Air Station New Orleans hoisting two men who were on board the GI 102A oil production platform when it caught fire approximately 50 miles south of Grand Isle, March 6, 2011. The Coast Guard responded with multiple air and sea assets after receiving the initial report of the fire.",
-  "keywords": "platform fire, Coast Guard",
-  "date": "2011-03-06T00:00:00-05:00",
-  "date_published": "2011-03-06T22:09:31-05:00",
-  "branch": "Coast Guard",
-  "unit_name": "U.S. Coast Guard Heartland",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "110305-G-1234A-001",
-  "location": {
-    "city": "New Orleans",
-    "state": "Louisiana",
-    "country": "United States",
-    "state_abbreviation": "LA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/109120/coast-guard-rescues-2-after-platform-fire",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-109120",
-  "status": "new",
-  "harvested_at": "2026-11-12T00:22:16Z",
-  "duration": 79.37,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1103/DOD_100137657/DOD_100137657.mpg",
-    "width": 720,
-    "height": 480,
-    "bitrate": null,
-    "size": null
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.04,
-    14.91,
-    24.66
+ "asset_id": "video:109120",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "rescue",
+ "title": "Coast Guard rescues 2 after platform fire",
+ "description": "B-roll of a Coast Guard MH-65C rescue helicopter crew from Air Station New Orleans hoisting two men who were on board the GI 102A oil production platform when it caught fire approximately 50 miles south of Grand Isle, March 6, 2011. The Coast Guard responded with multiple air and sea assets after receiving the initial report of the fire.",
+ "keywords": "platform fire, Coast Guard",
+ "date": "2011-03-06T00:00:00-05:00",
+ "date_published": "2011-03-06T22:09:31-05:00",
+ "branch": "Coast Guard",
+ "unit_name": "U.S. Coast Guard Heartland",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "110305-G-1234A-001",
+ "location": {
+  "city": "New Orleans",
+  "state": "Louisiana",
+  "country": "United States",
+  "state_abbreviation": "LA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/109120/coast-guard-rescues-2-after-platform-fire",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-109120",
+ "status": "used",
+ "harvested_at": "2026-11-12T00:22:16Z",
+ "duration": 79.37,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1103/DOD_100137657/DOD_100137657.mpg",
+  "width": 720,
+  "height": 480,
+  "bitrate": null,
+  "size": null
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.04,
+  14.91,
+  24.66
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      4.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-109120.jpg",
-  "sheet_times": [
-    2.46,
-    7.39,
-    12.32,
-    17.25,
-    22.18,
-    27.11,
-    32.04,
-    36.97,
-    41.9,
-    46.83,
-    51.76,
-    56.69,
-    61.62,
-    66.54,
-    71.47,
-    76.4
+  "silence_ends": [
+   4.0
   ]
+ },
+ "sheet": "data/candidates/dvids-video-109120.jpg",
+ "sheet_times": [
+  2.46,
+  7.39,
+  12.32,
+  17.25,
+  22.18,
+  27.11,
+  32.04,
+  36.97,
+  41.9,
+  46.83,
+  51.76,
+  56.69,
+  61.62,
+  66.54,
+  71.47,
+  76.4
+ ],
+ "used_by": "ccf-20261111-21"
 }
