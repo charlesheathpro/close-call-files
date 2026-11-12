@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Kaiser-Canyon-Fire-extreme-behavior",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:34:45Z",
   "duration": 24.28,
   "source_file": {
@@ -52,5 +52,6 @@
     20.07,
     21.55,
     23.04
-  ]
+  ],
+  "pass_reason": "24 s of fire behavior with no person and no stated outcome"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Los-Angeles-Fires-2025-20250112-FS-KG-09",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:27:56Z",
   "duration": 28.86,
   "source_file": {
@@ -58,5 +58,6 @@
     23.93,
     25.7,
     27.48
-  ]
+  ],
+  "pass_reason": "crews unloading gear at a staging center; no event on screen"
 }

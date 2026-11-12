@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-735099",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:21:30Z",
   "duration": 119.16,
   "source_file": {
@@ -81,5 +81,6 @@
     100.12,
     107.54,
     114.96
-  ]
+  ],
+  "pass_reason": "night door-cam blown out by searchlight; hiker never clearly visible"
 }
