@@ -1,72 +1,73 @@
 {
-  "asset_id": "video:299431",
-  "source": "dvids",
-  "lane": "rescue",
-  "matched_query": "ice rescue",
-  "title": "Colo. National Guard helps civil authorities rescue injured paraglider",
-  "description": "An injured paraglider is lifted approximately 150 feet from his crash site on Red Mountain in Glenwood Springs, Colo., by a U.S. Army UH-60 Black Hawk helicopter and crew from the Colorado Army National Guard's nearby High-altitude Army National Guard Aviation Training Site, Aug. 21, 2013. The site of the crash, a steep, 60-degree, rock-strewn gully more than a thousand feet up the mountainside, proved unsafe for civil rescuers on foot to ascend or descend with the patient, therefore the helicopter outfitted with a hoist was called in to assist civil authorities, as no civilian aircraft with the capability was available. (Garfield County Colorado Search and Rescue video by Tom Ice/Released) Available in high definition.",
-  "keywords": "patient, HAATS, COARNG, colorado national guard, hoist, Colorado, Garfield County, Red Mountain, paraglider, helicopter, soldier, search and rescue, rescue, blackhawk, CONG",
-  "date": "2013-08-21T00:00:00-04:00",
-  "date_published": "2013-08-22T19:47:24-04:00",
-  "branch": "Joint",
-  "unit_name": "Colorado National Guard",
-  "credit": "Courtesy",
-  "category": "B-Roll",
-  "virin": "130821-O-ZZ999-005",
-  "location": {
-    "city": "Glenwood Springs",
-    "state": "Colorado",
-    "country": "United States",
-    "state_abbreviation": "CO",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/299431/colo-national-guard-helps-civil-authorities-rescue-injured-paraglider",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 0.0,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-299431",
-  "status": "new",
-  "harvested_at": "2026-11-11T08:39:24Z",
-  "duration": 147.56,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100893076/DOD_100893076.mp4",
-    "width": 1280,
-    "height": 720,
-    "bitrate": 9425,
-    "size": 176976251
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      1.6,
-      78.1
-    ],
-    "silence_ends": [
-      2.8,
-      147.6
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-299431.jpg",
-  "sheet_times": [
-    4.6,
-    13.79,
-    22.98,
-    32.17,
-    41.36,
-    50.55,
-    59.74,
-    68.94,
-    78.13,
-    87.32,
-    96.51,
-    105.7,
-    114.89,
-    124.08,
-    133.28,
-    142.47
+ "asset_id": "video:299431",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "ice rescue",
+ "title": "Colo. National Guard helps civil authorities rescue injured paraglider",
+ "description": "An injured paraglider is lifted approximately 150 feet from his crash site on Red Mountain in Glenwood Springs, Colo., by a U.S. Army UH-60 Black Hawk helicopter and crew from the Colorado Army National Guard's nearby High-altitude Army National Guard Aviation Training Site, Aug. 21, 2013. The site of the crash, a steep, 60-degree, rock-strewn gully more than a thousand feet up the mountainside, proved unsafe for civil rescuers on foot to ascend or descend with the patient, therefore the helicopter outfitted with a hoist was called in to assist civil authorities, as no civilian aircraft with the capability was available. (Garfield County Colorado Search and Rescue video by Tom Ice/Released) Available in high definition.",
+ "keywords": "patient, HAATS, COARNG, colorado national guard, hoist, Colorado, Garfield County, Red Mountain, paraglider, helicopter, soldier, search and rescue, rescue, blackhawk, CONG",
+ "date": "2013-08-21T00:00:00-04:00",
+ "date_published": "2013-08-22T19:47:24-04:00",
+ "branch": "Joint",
+ "unit_name": "Colorado National Guard",
+ "credit": "Courtesy",
+ "category": "B-Roll",
+ "virin": "130821-O-ZZ999-005",
+ "location": {
+  "city": "Glenwood Springs",
+  "state": "Colorado",
+  "country": "United States",
+  "state_abbreviation": "CO",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/299431/colo-national-guard-helps-civil-authorities-rescue-injured-paraglider",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 0.0,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-299431",
+ "status": "passed_over",
+ "harvested_at": "2026-11-11T08:39:24Z",
+ "duration": 147.56,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1308/DOD_100893076/DOD_100893076.mp4",
+  "width": 1280,
+  "height": 720,
+  "bitrate": 9425,
+  "size": 176976251
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   1.6,
+   78.1
+  ],
+  "silence_ends": [
+   2.8,
+   147.6
   ]
+ },
+ "sheet": "data/candidates/dvids-video-299431.jpg",
+ "sheet_times": [
+  4.6,
+  13.79,
+  22.98,
+  32.17,
+  41.36,
+  50.55,
+  59.74,
+  68.94,
+  78.13,
+  87.32,
+  96.51,
+  105.7,
+  114.89,
+  124.08,
+  133.28,
+  142.47
+ ],
+ "pass_reason": "Garfield County SAR video, non-federal credit; injured paraglider"
 }
