@@ -1,0 +1,516 @@
+{
+  "asset_id": "nasa:JPL-20240306-CLIPPRf-0001-Spacecraft_Makers_Episode_04_2160cc",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "Spacecraft Makers: Europa Clipper's Instrument Integration",
+  "description": "Hardware for NASA’s Europa Clipper spacecraft was developed at various institutions and facilities across the U.S. and Europe, including NASA's Jet Propulsion Laboratory. That work included the science instruments and other spacecraft components, such as the propulsion module, radio frequency module, solar arrays, electronics vault, and more.  During the assembly, test, and launch operations phase of the mission, engineers put together the spacecraft, test its various components, and prepare it for its launch and journey to Jupiter’s ice-encrusted moon Europa.  In this episode of the Spacecraft Makers video series, spacecraft assembly, test, and launch operations mechanical engineer Steve Barajas and science systems engineer Jenny Kampmeier provide a behind-the-scenes look at the nearly completed spacecraft in the High Bay 1 clean room at JPL.   The propulsion module for the spacecraft was built by the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, with help from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and JPL.   The science instruments were developed by APL, the School of Earth and Space Exploration at Arizona State University, Southwest Research Institute in San Antonio, JPL, UCLA, University of Michigan, University of Texas at Austin, and the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder.  Spacecraft Makers is a video series that takes audiences behind the scenes to learn more about how space missions, like Europa Clipper, come together. Europa Clipper will explore this icy moon of Jupiter to see if there are conditions suitable for life. The spacecraft needs to be hardy enough to survive a 1.6 billion-mile, six-year journey to Jupiter – and sophisticated enough to perform a detailed science investigation of Europa once it arrives at the Jupiter system in 2030.  Europa Clipper is expected to launch in October 2024 from Kennedy Space Center in Florida.   When the spacecraft is in JPL’s clean room, viewers also can watch a 24-hour live feed of the spacecraft here.   For more information on the mission go to: https://europa.nasa.gov/.  For more information on this video series, visit: https://bit.ly/49MWe54.  Credit: NASA/JPL-Caltech",
+  "keywords": "Spacecraft Makers, Europa Clipper, Europa, Jupiter, NASA, JPL, Jet Propulsion Laboratory, spacecraft, satellite, animations, moon, ice, searching for life, exploration, Tech, technology, robotics, engineering, space, science, testing, astrobiology, surveying, icy moon, ice, life, planets, mission, universe, solar system, chemistry, energy, ocean world, design, behind the scenes, vault, propulsion module, instruments, magnetometer, plasma detector, dust detector, high gain antenna, imagers, cleanroom, clean room, spacecraft assembly, building a spacecraft, building spacecraft, how to build a spacecraft, high bay one, install, installation, Steve Barajas, Jenny Kampmeier",
+  "date": "2024-03-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JPL",
+  "credit": "NASA JPL video",
+  "page_url": "https://images.nasa.gov/details/JPL-20240306-CLIPPRf-0001-Spacecraft_Makers_Episode_04_2160cc",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-JPL-20240306-CLIPPRf-0001-Spacecraft-Makers-Episode-04-2160cc",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:27:26Z",
+  "duration": 212.65,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/JPL-20240306-CLIPPRf-0001-Spacecraft_Makers_Episode_04_2160cc/JPL-20240306-CLIPPRf-0001-Spacecraft_Makers_Episode_04_2160cc~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 212.651
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.03,
+      "e": 2.17,
+      "text": "[Raquel Villanueva] The  spacecraft behind me will travel"
+    },
+    {
+      "s": 2.17,
+      "e": 4.37,
+      "text": "to Jupiter to study an icy moon."
+    },
+    {
+      "s": 4.37,
+      "e": 7.37,
+      "text": "But first, all the parts have to come together."
+    },
+    {
+      "s": 7.77,
+      "e": 9.11,
+      "text": "Here's how it's done."
+    },
+    {
+      "s": 9.11,
+      "e": 11.91,
+      "text": "[Introduction music]"
+    },
+    {
+      "s": 22.42,
+      "e": 24.52,
+      "text": "Before we can go into the clean room,"
+    },
+    {
+      "s": 24.52,
+      "e": 25.86,
+      "text": "we've got to gown up."
+    },
+    {
+      "s": 26.39,
+      "e": 28.13,
+      "text": "[Steve Barajas] We need to put on these special garments"
+    },
+    {
+      "s": 28.13,
+      "e": 30.03,
+      "text": "for the clean room that we call bunny suits."
+    },
+    {
+      "s": 30.03,
+      "e": 32.9,
+      "text": "And so from head to toe, we need to be covered."
+    },
+    {
+      "s": 32.9,
+      "e": 34.23,
+      "text": "[Jenny Kampmeier] I typically work behind the scenes"
+    },
+    {
+      "s": 34.23,
+      "e": 37.24,
+      "text": "and so this is a really special opportunity to get to go in."
+    },
+    {
+      "s": 38.27,
+      "e": 40.21,
+      "text": "I'm here today to help explain what"
+    },
+    {
+      "s": 40.21,
+      "e": 42.71,
+      "text": "some of the instruments are, what they do."
+    },
+    {
+      "s": 42.71,
+      "e": 45.71,
+      "text": "It's really incredible to be in here for the first time"
+    },
+    {
+      "s": 46.15,
+      "e": 49.15,
+      "text": "to see the spacecraft with my own eyes."
+    },
+    {
+      "s": 49.62,
+      "e": 52.62,
+      "text": "[Raquel] Europa is an icy moon that orbits Jupiter."
+    },
+    {
+      "s": 52.82,
+      "e": 55.62,
+      "text": "Strong evidence suggests there's a global ocean"
+    },
+    {
+      "s": 55.62,
+      "e": 56.86,
+      "text": "beneath the surface"
+    },
+    {
+      "s": 56.86,
+      "e": 60.19,
+      "text": "and scientists want to find out if it could support life."
+    },
+    {
+      "s": 60.86,
+      "e": 63.23,
+      "text": "[Steve] The spacecraft started in thousands of pieces."
+    },
+    {
+      "s": 63.23,
+      "e": 65.9,
+      "text": "It definitely did not look like this when it first arrived."
+    },
+    {
+      "s": 65.9,
+      "e": 67.87,
+      "text": "[Jenny] The scientific instruments that we have"
+    },
+    {
+      "s": 67.87,
+      "e": 70.04,
+      "text": "on board Europa Clipper actually came from institutions"
+    },
+    {
+      "s": 70.04,
+      "e": 70.97,
+      "text": "all over the country."
+    },
+    {
+      "s": 70.97,
+      "e": 74.17,
+      "text": "We have several institutions that contributed instruments to"
+    },
+    {
+      "s": 74.17,
+      "e": 74.81,
+      "text": "the spacecraft."
+    },
+    {
+      "s": 77.11,
+      "e": 79.11,
+      "text": "[Raquel] Almost 70 people assemble and"
+    },
+    {
+      "s": 79.11,
+      "e": 82.58,
+      "text": "test the spacecraft at NASA's Jet Propulsion Laboratory..."
+    },
+    {
+      "s": 82.82,
+      "e": 85.69,
+      "text": "systems, mechanical and electrical..."
+    },
+    {
+      "s": 85.69,
+      "e": 88.69,
+      "text": "...affectionately known as “the Sparkies.”"
+    },
+    {
+      "s": 89.12,
+      "e": 91.46,
+      "text": "[Steve] We started off with the build of the vault."
+    },
+    {
+      "s": 91.46,
+      "e": 92.39,
+      "text": "That's kind of the section"
+    },
+    {
+      "s": 92.39,
+      "e": 94.29,
+      "text": "at the top of the spacecraft that you see."
+    },
+    {
+      "s": 94.29,
+      "e": 96.26,
+      "text": "That's what houses all of the electronics,"
+    },
+    {
+      "s": 96.26,
+      "e": 99.27,
+      "text": "the really the heart and brains of the spacecraft."
+    },
+    {
+      "s": 99.63,
+      "e": 101.5,
+      "text": "Down below you see the propulsion module."
+    },
+    {
+      "s": 101.5,
+      "e": 102.67,
+      "text": "That was a separate delivery"
+    },
+    {
+      "s": 102.67,
+      "e": 104.67,
+      "text": "from our partners at Johns Hopkins University."
+    },
+    {
+      "s": 105.04,
+      "e": 106.07,
+      "text": "And we’ve brought those two"
+    },
+    {
+      "s": 106.07,
+      "e": 108.04,
+      "text": "pieces together, and created the spacecraft."
+    },
+    {
+      "s": 108.04,
+      "e": 109.64,
+      "text": "And then after that, we added on the"
+    },
+    {
+      "s": 109.64,
+      "e": 111.74,
+      "text": "high-gain antenna, which you see there at the top."
+    },
+    {
+      "s": 111.74,
+      "e": 114.75,
+      "text": "So that's an operation that took well over 8 hours."
+    },
+    {
+      "s": 114.81,
+      "e": 117.75,
+      "text": "[Jenny] This is the thing that is getting our science data"
+    },
+    {
+      "s": 117.75,
+      "e": 119.32,
+      "text": "back down to the Earth."
+    },
+    {
+      "s": 119.32,
+      "e": 120.69,
+      "text": "[Steve] We've got our imagers."
+    },
+    {
+      "s": 120.69,
+      "e": 123.69,
+      "text": "Those will be pointing towards Europa as we fly by."
+    },
+    {
+      "s": 124.32,
+      "e": 127.33,
+      "text": "We've got our dust detector and our mass spectrometer,"
+    },
+    {
+      "s": 127.49,
+      "e": 129.83,
+      "text": "our plasma detector located up high there."
+    },
+    {
+      "s": 129.83,
+      "e": 131.4,
+      "text": "And it has a twin down below"
+    },
+    {
+      "s": 131.4,
+      "e": 134.63,
+      "text": "at the bottom of the spacecraft and our magnetometer located"
+    },
+    {
+      "s": 134.63,
+      "e": 136.5,
+      "text": "underneath the high-gain antenna."
+    },
+    {
+      "s": 136.5,
+      "e": 138.5,
+      "text": "[Jenny] We also have a instrument called an"
+    },
+    {
+      "s": 138.5,
+      "e": 139.97,
+      "text": "ice-penetrating radar that's gonna help us"
+    },
+    {
+      "s": 139.97,
+      "e": 142.98,
+      "text": "look inside the moon and understand its structure."
+    },
+    {
+      "s": 143.61,
+      "e": 146.01,
+      "text": "[Raquel] Getting this massive spacecraft to Jupiter"
+    },
+    {
+      "s": 146.01,
+      "e": 148.08,
+      "text": "requires serious power."
+    },
+    {
+      "s": 148.08,
+      "e": 151.08,
+      "text": "These solar arrays will be installed before launch."
+    },
+    {
+      "s": 151.38,
+      "e": 154.45,
+      "text": "They will span about the length of a basketball court."
+    },
+    {
+      "s": 154.79,
+      "e": 157.32,
+      "text": "But first, more testing."
+    },
+    {
+      "s": 157.32,
+      "e": 159.66,
+      "text": "[Steve] It may look stationary, but we're actually in the middle"
+    },
+    {
+      "s": 159.66,
+      "e": 161.53,
+      "text": "of something called System Test 2,"
+    },
+    {
+      "s": 161.53,
+      "e": 163.8,
+      "text": "and it's actually taking the spacecraft"
+    },
+    {
+      "s": 163.86,
+      "e": 166.23,
+      "text": "through the various phases of the mission."
+    },
+    {
+      "s": 166.23,
+      "e": 168.77,
+      "text": "-...command, go ahead and bind again"
+    },
+    {
+      "s": 169.13,
+      "e": 171.47,
+      "text": "- Power off [unintelligible]  and capture."
+    },
+    {
+      "s": 171.5,
+      "e": 172.24,
+      "text": "- Copy."
+    },
+    {
+      "s": 172.24,
+      "e": 173.81,
+      "text": "[Steve] While it doesn't look like it,"
+    },
+    {
+      "s": 173.81,
+      "e": 175.84,
+      "text": "the spacecraft is actually flying through space."
+    },
+    {
+      "s": 175.84,
+      "e": 178.58,
+      "text": "I think actually right now we’re entering orbit around Jupiter."
+    },
+    {
+      "s": 180.81,
+      "e": 182.51,
+      "text": "At the end of the day, we can't forget that"
+    },
+    {
+      "s": 182.51,
+      "e": 185.45,
+      "text": "people have to build the spacecraft and test it."
+    },
+    {
+      "s": 185.45,
+      "e": 187.69,
+      "text": "People have put in an incredible amount of effort"
+    },
+    {
+      "s": 187.69,
+      "e": 188.99,
+      "text": "to get us to this point"
+    },
+    {
+      "s": 188.99,
+      "e": 190.79,
+      "text": "and we know everybody on"
+    },
+    {
+      "s": 190.79,
+      "e": 192.49,
+      "text": "the Europa Clipper team is looking to see"
+    },
+    {
+      "s": 192.49,
+      "e": 194.56,
+      "text": "this spacecraft succeed."
+    },
+    {
+      "s": 197.63,
+      "e": 200.53,
+      "text": "[Raquel] Stay tuned to see Europa Clipper put to the test"
+    },
+    {
+      "s": 200.53,
+      "e": 203.84,
+      "text": "before its mission to Jupiter's icy moon this fall."
+    },
+    {
+      "s": 203.84,
+      "e": 205.81,
+      "text": "[Ending music]"
+    }
+  ],
+  "scene_cuts": [
+    4.67,
+    6.1,
+    7.7,
+    18.4,
+    20.37,
+    22.83,
+    24.3,
+    25.1,
+    27.27,
+    31.43,
+    33.9,
+    37.63,
+    39.73,
+    42.47,
+    44.73,
+    49.47,
+    66.2,
+    68.83,
+    84.67,
+    87.03,
+    88.93,
+    90.9,
+    92.23,
+    95.8,
+    99.27,
+    105.03,
+    116.97,
+    118.93,
+    120.33,
+    124.4,
+    127.8,
+    130.53,
+    133.23,
+    137.2,
+    140.43,
+    144.37,
+    158.0,
+    167.6,
+    169.43,
+    171.5,
+    176.2,
+    178.23,
+    180.1,
+    182.27,
+    184.23,
+    186.7,
+    189.37,
+    191.4,
+    193.4,
+    208.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      209.5
+    ],
+    "silence_ends": [
+      212.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-JPL-20240306-CLIPPRf-0001-Spacecraft-Makers-Episode-04-2160cc.jpg",
+  "sheet_times": [
+    6.63,
+    19.89,
+    33.15,
+    46.41,
+    59.67,
+    72.93,
+    86.19,
+    99.45,
+    112.7,
+    125.96,
+    139.22,
+    152.48,
+    165.74,
+    179.0,
+    192.26,
+    205.52
+  ]
+}

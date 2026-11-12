@@ -1,0 +1,74 @@
+{
+  "asset_id": "nasa:GSFC_20140418_MMS_m11524_Stack",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test",
+  "title": "3 Days in 1 Minute: Stacking the MMS Spacecraft",
+  "description": "The Magnetospheric Multiscale, or MMS, mission stacked all four of its spacecraft in preparation for vibration testing. This time lapse shows one image every thirty seconds over three days of work. First, the spacecraft are assembled into mini-stacks, or placed on top of each other in sets of two. To create a full stack, engineers lift one mini-stack on top of another.  Vibration testing simulates the conditions that the MMS spacecraft will experience during launch.  MMS will study how the sun and the Earth's magnetic fields connect and disconnect, an explosive process that can accelerate particles through space to nearly the speed of light. This process is called magnetic reconnection and can occur throughout all space.",
+  "keywords": "Magnetic Fields, Magnetic Reconnection, Solar Wind, Sun, Space Weather, Heliophysics, Corona, MMS, Earth, Coronal Mass Ejections",
+  "date": "2014-04-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20140418_MMS_m11524_Stack",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20140418-MMS-m11524-Stack",
+  "status": "new",
+  "harvested_at": "2026-11-12T00:27:11Z",
+  "duration": 95.57,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20140418_MMS_m11524_Stack/GSFC_20140418_MMS_m11524_Stack~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 95.562133
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    37.43,
+    45.63,
+    47.6,
+    55.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      5.1,
+      84.1,
+      86.2,
+      87.1,
+      88.1,
+      89.0
+    ],
+    "silence_ends": [
+      6.1,
+      85.1,
+      86.8,
+      87.8,
+      89.0,
+      95.6
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20140418-MMS-m11524-Stack.jpg",
+  "sheet_times": [
+    2.97,
+    8.91,
+    14.86,
+    20.8,
+    26.74,
+    32.68,
+    38.62,
+    44.57,
+    50.51,
+    56.45,
+    62.39,
+    68.33,
+    74.28,
+    80.22,
+    86.16,
+    92.1
+  ]
+}
