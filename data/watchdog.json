@@ -1,23 +1,23 @@
 {
- "at": "2026-11-12T08:34:00Z",
- "healthy": false,
- "numbers": {
-  "dropped": 48,
-  "uploaded": 121,
-  "held": 2,
-  "passed": 1,
-  "needs_qa": 0,
-  "needs_build": 0,
-  "scheduled_48h": 5
- },
- "found": [
-  "buffer thin: 5 scheduled in the next 48 h and nothing passed at start (fails the 20 and 25 thresholds)",
-  "upload run from 03:19Z still shows in_progress after 5 h, and no upload has landed since 03:32Z; a new push-triggered upload run is pending behind it",
-  "harvest 00:17Z succeeded but DVIDS searches were blocked; unused pool is mostly medevacs, training hoists and b-roll"
- ],
- "fixed": [
-  "QA repaired and passed 11-12-01 rev 2 (Haystack Rock kayakers)",
-  "editor pass: 4 more candidates reviewed, none cleared the viral bar, marked passed_over",
-  "pushed archive to triggers/harvest and a date to triggers/upload"
- ]
+  "at": "2026-11-12T16:30:33Z",
+  "healthy": false,
+  "numbers": {
+    "dropped": 48,
+    "uploaded": 122,
+    "held": 2,
+    "passed": 1,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_48h": 5
+  },
+  "found": [
+    "buffer thin: 5 scheduled in the next 48 h and 1 passed after this run (fails the 20 and 25 thresholds)",
+    "uploads landing (last 14:05Z), harvest 08:38Z and stats today; no repeated build errors; no auth or upload alerts in 24 h",
+    "unused pool searched again (DVIDS rescue, NASA tests and landings, Commons hazards): remaining clips are b-roll, training, medevacs, interviews or stories already told"
+  ],
+  "fixed": [
+    "QA repaired and passed 11-12-02 rev 2 (Soyuz MS-19 landing)",
+    "passed over Spirit Falls kayaker (washed-out 480p door-cam)",
+    "pushed archive to triggers/harvest"
+  ]
 }
