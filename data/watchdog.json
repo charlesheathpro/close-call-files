@@ -1,14 +1,23 @@
 {
- "at": "2026-11-11T16:35:51Z",
+ "at": "2026-11-12T00:37:39Z",
  "healthy": false,
- "numbers": {"dropped": 48, "uploaded": 118, "passed": 1, "held": 1, "needs_qa": 0, "needs_build": 0, "scheduled_48h": 2},
+ "numbers": {
+  "dropped": 48,
+  "uploaded": 120,
+  "passed": 1,
+  "held": 2,
+  "needs_qa": 0,
+  "needs_build": 0,
+  "scheduled_48h": 4
+ },
  "found": [
-  "buffer thin: 1 scheduled in the next 48 h at start, 1 Short in QA, nothing in build (fails the 20 and 25 thresholds)",
-  "upload (16:21Z), harvest (08:52Z) and stats (15:36Z) runs landing; no build errors in 24 h; no auth or upload_error alerts since Nov 8"
+  "buffer thin at start: 3 scheduled in the next 48 h, 1 spec waiting on build, nothing passed (fails the 20 and 25 thresholds)",
+  "build run 43098246883 (20:48Z push for 11-11) failed with its job never starting, and no later build ran, so 11-11 sat unbuilt for 3.5 h",
+  "harvest 18:35Z hit the DVIDS block and skipped the remaining DVIDS assets; upload and stats landing; no auth or upload_error alerts since Nov 8"
  ],
  "fixed": [
-  "QA passed 08-01 (Siesta Key hull, 8); upload scheduled it at 16:21Z",
-  "editor pass over the backlog (2,780 new; keyword sweeps for capsized, sinking, adrift, hurricane, abort, splashdown): wrote 11-03 from dvids-video-354790 (sailboat Walkabout torn apart in Hurricane Julio, facts backed by the Coast Guard news release), built and passed it (7)",
-  "passed over 8 more (calm flood evacuations, medical heat-stroke hoists, distant rip-current cam, no-outcome building search); high-res backlog has no strong rescues left, the rest is hurricane relief b-roll, routine medevacs and NASA manufacturing"
+  "re-triggered build; 11-11 built, was fixed by QA (rev 2) and passed, and uploaded at 00:30Z",
+  "kicked an archive harvest; DVIDS is reachable again and new candidates are landing (60 so far, run still going)",
+  "editor pass over the remaining rescue-titled DVIDS and NASA/Commons hazard backlog plus the new harvest: wrote 11-21 (Gulf oil platform fire, two men hoisted), built and passed (7); passed over 9 (calm desert hoists, medical medevacs, a second PJ ocean jump, a non-federal paraglider clip, a 576p ice hoist, Oregon cliff FLIR, a capsized hoist that repeats this week's capsized type)"
  ]
 }
