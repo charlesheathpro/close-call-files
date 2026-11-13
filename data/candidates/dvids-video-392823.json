@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:392823",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Fishermen in Consecutive Cases in Matagorda Bay, Texas",
+  "description": "A Sector Corpus Christi MH-65 Dolphin helicopter aircrew lowers a rescue swimmer and passes dewatering pumps to an aground fishing vessel in Matagorda Bay February 27, 2015. U.S. Coast Guard Video",
+  "keywords": "Coast Guard rescue, MH-65, Sector Corpus Christi, station port o'connor, Coast Guard, SAR, search and rescue, rescue, Corpus Christi, USCG",
+  "date": "2015-02-27T00:00:00-05:00",
+  "date_published": "2015-02-28T01:37:24-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "150227-G-xx999-001",
+  "location": {
+    "city": "",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/392823/coast-guard-rescues-fishermen-consecutive-cases-matagorda-bay-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-392823",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:50:53Z",
+  "duration": 99.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1502/DOD_102264429/DOD_102264429.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8636,
+    "size": 107780903
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    41.04,
+    66.43,
+    70.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      99.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-392823.jpg",
+  "sheet_times": [
+    7.0,
+    12.95,
+    18.9,
+    24.85,
+    30.8,
+    36.75,
+    42.7,
+    48.65,
+    54.6,
+    60.55,
+    66.51,
+    72.46,
+    78.41,
+    84.36,
+    90.31,
+    96.26
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "asset_id": "video:481421",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues two boaters from Galveston Bay, Texas",
+  "description": "Two men are helped by Coast Guard air and boat crews after their boat flipped near an island in Galveston Bay, Wednesday, Aug. 31, 2016. One man was rescued and taken back to Coast Guard Air Station Houston with a broken leg and another was taken to Station Houston with no injuries. Video and audio by U.S. Coast Guard.",
+  "keywords": "audio, Aug. 31, 2016, mayday, station houston, padet texas, 2016 Year in Review, search and rescue",
+  "date": "2016-08-31T00:00:00-04:00",
+  "date_published": "2016-08-31T17:28:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Petty Officer 3rd Class Jennifer Nease",
+  "category": "B-Roll",
+  "virin": "160831-G-QG329-001",
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/481421/coast-guard-rescues-two-boaters-galveston-bay-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-481421",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:50:50Z",
+  "duration": 214.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103624865/DOD_103624865.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 7555,
+    "size": 205547115
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 210.74,
+      "e": 212.74,
+      "text": "to provide more fuel."
+    }
+  ],
+  "scene_cuts": [
+    2.0,
+    4.0,
+    138.01,
+    138.35,
+    146.81,
+    147.52,
+    153.11,
+    186.73
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      146.8,
+      186.8
+    ],
+    "silence_ends": [
+      4.0,
+      147.8,
+      187.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-481421.jpg",
+  "sheet_times": [
+    10.58,
+    23.69,
+    36.8,
+    49.91,
+    63.02,
+    76.13,
+    89.24,
+    102.35,
+    115.45,
+    128.56,
+    141.67,
+    154.78,
+    167.89,
+    181.0,
+    194.11,
+    207.22
+  ]
+}

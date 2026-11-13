@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:917546",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescue two boaters near Beaufort, North Carolina",
+  "description": "A Coast Guard MH-65 Dolphin helicopter aircrew from Air Station Savannah rescued two stranded boaters near Beaufort, North Carolina, March 31, 2024. The helicopter crew deployed a rescue swimmer to meet the two boaters and transfer them to the Michael J Smith Airport. (U.S. Coast Guard video, courtesy Air Station Savannah)",
+  "keywords": "Air Station Savannah, Beaufort North Carolina",
+  "date": "2024-03-31T00:00:00-04:00",
+  "date_published": "2024-03-31T19:00:20-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240331-G-G0107-1151",
+  "location": {
+    "city": "Beaufort",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/917546/coast-guard-rescue-two-boaters-near-beaufort-north-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-917546",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:49:50Z",
+  "duration": 572.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2403/DOD_110208899/DOD_110208899.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 715274765
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      572.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-917546.jpg",
+  "sheet_times": [
+    17.86,
+    53.58,
+    89.31,
+    125.03,
+    160.75,
+    196.48,
+    232.2,
+    267.92,
+    303.65,
+    339.37,
+    375.09,
+    410.82,
+    446.54,
+    482.26,
+    517.99,
+    553.71
+  ]
+}

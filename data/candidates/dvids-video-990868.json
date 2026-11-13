@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:990868",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 from life raft near Molokai",
+  "description": "A Coast Guard Air Station Barbers Point MH-65 Dolphin helicopter crew rescues two men from a life raft off the coast of Molokai Dec. 17, 2025. When their 42-foot vessel began taking on water, the men boarded their life raft and activated their emergency position-indicating radio beacon, transmitting their position to the Coast Guard. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "keywords": "MH-65 Dolphin, Coast Guard Air Station Barbers Point",
+  "date": "2025-12-17T00:00:00-05:00",
+  "date_published": "2025-12-17T23:43:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "251217-G-G0214-1001",
+  "location": {
+    "city": "",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/990868/coast-guard-rescues-2-life-raft-near-molokai",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-990868",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:50:16Z",
+  "duration": 75.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111447782/DOD_111447782-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 76537812
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.97,
+      "e": 2.97,
+      "text": "That's it."
+    }
+  ],
+  "scene_cuts": [
+    25.4,
+    60.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-990868.jpg",
+  "sheet_times": [
+    2.34,
+    7.02,
+    11.71,
+    16.39,
+    21.07,
+    25.76,
+    30.44,
+    35.12,
+    39.81,
+    44.49,
+    49.17,
+    53.86,
+    58.54,
+    63.22,
+    67.91,
+    72.59
+  ]
+}

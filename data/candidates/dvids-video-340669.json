@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:340669",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues shark bite victim from Palmyra Atoll",
+  "description": "A NOAA researcher living on Palmyra Atoll was bitten in the hand by a black tip reef shark while tagging sharks in the area of the Atoll. A USCG C-130 Hercules aircrew from CG Air Station Barbers Point responded, providing medical care and transportation back to Oahu, Hawaii. The patient is in stable condition.",
+  "keywords": "bite, medevac, rescue, C-130, USCG, shark, Pacific",
+  "date": "2014-06-02T00:00:00-04:00",
+  "date_published": "2014-06-02T21:26:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Lt. Bryan Weber",
+  "category": "B-Roll",
+  "virin": "140602-G-ZY012-001",
+  "location": {
+    "city": "Kapolei",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/340669/coast-guard-rescues-shark-bite-victim-palmyra-atoll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-340669",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:50:47Z",
+  "duration": 30.17,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101711341/DOD_101711341.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9752,
+    "size": 37119435
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      26.0
+    ],
+    "silence_ends": [
+      4.2,
+      30.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-340669.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.64,
+    6.49,
+    8.34,
+    10.2,
+    12.05,
+    13.91,
+    15.76,
+    17.61,
+    19.47,
+    21.32,
+    23.18,
+    25.03,
+    26.88,
+    28.74
+  ]
+}
