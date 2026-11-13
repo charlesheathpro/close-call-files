@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:463545",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues sea turtle west of Longboat Key, Fla.",
+  "description": "Crewmembers from Coast Guard Station Cortez, Florida, free a sea turtle tangled in crab pot rigging west of Longboat Key, Florida, Thursday, May 12, 2016. The sea turtle sam away with no apparent injuries. (U.S. Coast Guard video by Seaman Connor Sullivan and Petty Officer 2nd Class Brigitta Lambright)",
+  "keywords": "turtle, Sea turtle, Cortez, Environmental News, Longboat Key, crab pot, Coast Guard, rescue, USCG",
+  "date": "2016-05-12T00:00:00-04:00",
+  "date_published": "2016-05-12T16:21:52-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160512-G-ZZ999-801",
+  "location": {
+    "city": "Cortez",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/463545/coast-guard-rescues-sea-turtle-west-longboat-key-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-463545",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:47:12Z",
+  "duration": 28.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1605/DOD_103301091/DOD_103301091.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8147,
+    "size": 29614123
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.31,
+      "e": 19.54,
+      "text": "Grab the top of his neck and he can't get you."
+    },
+    {
+      "s": 19.54,
+      "e": 20.54,
+      "text": "Almost done, buddy."
+    }
+  ],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-463545.jpg",
+  "sheet_times": [
+    4.78,
+    6.28,
+    7.79,
+    9.29,
+    10.8,
+    12.3,
+    13.81,
+    15.31,
+    16.82,
+    18.32,
+    19.83,
+    21.33,
+    22.84,
+    24.34,
+    25.85,
+    27.35
+  ]
+}

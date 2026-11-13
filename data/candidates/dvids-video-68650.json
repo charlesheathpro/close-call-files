@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:68650",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "U.S. Coast Guard Rescues Five Men Near Anclote Key",
+  "description": "B-roll of the Coast Guard rescuing five boaters Tuesday Sept. 15, at about 10:30 a.m., after their vessel began taking on water 31 miles west of Anclote Key, Fla.",
+  "keywords": "boaters, sinking vessel, Anclote Key, HH-60 Jayhawk rescue helicopter, Clearwater, AIR STATION CLEARWATER, Coast Guard, rescue, Fla.",
+  "date": "2009-09-15T00:00:00-04:00",
+  "date_published": "2009-09-15T16:42:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Anclote Key",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/68650/us-coast-guard-rescues-five-men-near-anclote-key",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.07073,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-68650",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:48:13Z",
+  "duration": 124.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0909/DOD_100052800/DOD_100052800.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.07,
+    10.28,
+    119.25
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      119.3
+    ],
+    "silence_ends": [
+      4.1,
+      124.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-68650.jpg",
+  "sheet_times": [
+    7.81,
+    15.28,
+    22.76,
+    30.23,
+    37.7,
+    45.18,
+    52.65,
+    60.12,
+    67.6,
+    75.07,
+    82.55,
+    90.02,
+    97.49,
+    104.97,
+    112.44,
+    119.92
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:950950",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 people near Bay of Jacmel, Haiti",
+  "description": "Coast Guard aircrews located and rescued two boaters, Friday, approximately 46 miles south of Jacmel, Haiti, after their sailing vessel started taking on water. (U.S. Coast Guard courtesy video)",
+  "keywords": "USCG, Coast Guard, OPBAT, Rescue, Haiti",
+  "date": "2025-01-31T16:11:00-05:00",
+  "date_published": "2025-01-31T21:16:06-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "250131-G-G0108-1001",
+  "location": {
+    "city": "Jacmel",
+    "state": "",
+    "country": "Haiti",
+    "state_abbreviation": null,
+    "country_abbreviation": "HT"
+  },
+  "page_url": "https://www.dvidshub.net/video/950950/coast-guard-rescues-2-people-near-bay-jacmel-haiti",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-950950",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:48:24Z",
+  "duration": 73.16,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2502/DOD_110790976/DOD_110790976.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 91743089
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    40.81,
+    51.45,
+    56.24
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      73.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-950950.jpg",
+  "sheet_times": [
+    2.27,
+    6.81,
+    11.35,
+    15.89,
+    20.43,
+    24.98,
+    29.52,
+    34.06,
+    38.6,
+    43.14,
+    47.68,
+    52.22,
+    56.76,
+    61.3,
+    65.84,
+    70.39
+  ]
+}

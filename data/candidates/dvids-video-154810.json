@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:154810",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Two Missing Men From Naushon Island",
+  "description": "Air Station Cape Cod rescued two missing men on Naushon Island near Gosnold, Mass., Sept. 10, 2012. The two men were hoisted and transported to Air Station Cape Cod by the MH-60 Jayhawk helicopter. U.S. Coast Guard video.",
+  "keywords": "MH-60, Jayhawk, MISSING MEN, NAUSHON ISLAND, helicopter, rescue",
+  "date": "2012-09-10T00:00:00-04:00",
+  "date_published": "2012-09-11T10:16:18-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "Telfair Brown",
+  "category": "B-Roll",
+  "virin": "120910-D-OY189-198",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/154810/coast-guard-rescues-two-missing-men-naushon-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-154810",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:46:48Z",
+  "duration": 309.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1209/DOD_100486706/DOD_100486706.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 9074,
+    "size": 351796938
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    76.21
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      310.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-154810.jpg",
+  "sheet_times": [
+    13.55,
+    32.64,
+    51.74,
+    70.83,
+    89.92,
+    109.02,
+    128.11,
+    147.2,
+    166.3,
+    185.39,
+    204.48,
+    223.58,
+    242.67,
+    261.76,
+    280.85,
+    299.95
+  ]
+}

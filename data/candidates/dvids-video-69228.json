@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:69228",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 1 Near Little Egg Inlet, N.J.",
+  "description": "B-roll of a rescue boat crew from Coast Guard Station Atlantic City, N.J. rescuing a man from the water after his boat sank near Little Egg Inlet, N.J. Scenes include an aerial view of the sunken vessel.",
+  "keywords": null,
+  "date": "2009-09-22T00:00:00-04:00",
+  "date_published": "2009-09-23T00:35:54-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Station Atlantic, N.J.",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/69228/coast-guard-rescues-1-near-little-egg-inlet-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-69228",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:48:21Z",
+  "duration": 34.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0909/DOD_100053409/DOD_100053409.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      3.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-69228.jpg",
+  "sheet_times": [
+    1.06,
+    3.17,
+    5.28,
+    7.39,
+    9.5,
+    11.61,
+    13.72,
+    15.83,
+    17.94,
+    20.05,
+    22.16,
+    24.27,
+    26.38,
+    28.49,
+    30.6,
+    32.71
+  ]
+}

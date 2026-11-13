@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:513472",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 missing jet skiers in Tampa Bay",
+  "description": "A 29-foot Response Boat Small-II boat crew from Station St. Petersburg, Florida, rescues two jet skiers after they went missing in Tampa Bay, Florida, Thursday, March 9, 2017. The jet skiers were missing for three hours when an MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, located the jet skiers in the bay. (U.S. Coast Guard video)",
+  "keywords": "missing, Jayhawk, AIR STATION CLEARWATER, Station St. Petersburg, jet skiers, 29-foot RBS-II, helicopter, Coast Guard, USCG",
+  "date": "2017-03-09T00:00:00-05:00",
+  "date_published": "2017-03-10T10:03:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 2nd Class Ashley Johnson",
+  "category": "B-Roll",
+  "virin": "170309-G-G0107-8001",
+  "location": {
+    "city": "Tampa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/513472/coast-guard-rescues-2-missing-jet-skiers-tampa-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-513472",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:48:07Z",
+  "duration": 62.88,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104152717/DOD_104152717.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8795,
+    "size": 69170843
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      62.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-513472.jpg",
+  "sheet_times": [
+    5.85,
+    9.5,
+    13.14,
+    16.79,
+    20.44,
+    24.08,
+    27.73,
+    31.38,
+    35.03,
+    38.67,
+    42.32,
+    45.97,
+    49.61,
+    53.26,
+    56.91,
+    60.56
+  ]
+}
