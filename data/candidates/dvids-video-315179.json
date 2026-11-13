@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:315179",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Man rescued after falling from mountain in Puerto Rico",
+  "description": "The crew of a Coast Guard Air Station Borinquen MH-65 Dolphin helicopter hoists a 60-year-old man, who reportedly sustained multiple injuries after falling over 100-feet from a mountain side Dec. 17, 2013 in Yauco, Puerto Rico. The man was transferred to a nearby baseball field, where he was transferred to local Emergency Medical Services personnel for transport to a local hospital.  (U.S. Coast Guard photo).",
+  "keywords": "goat, Rios, Yauco, Coast Guard, mountain, rescue, Puerto Rico",
+  "date": "2013-12-17T00:00:00-05:00",
+  "date_published": "2013-12-18T11:33:47-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 3rd Class Jon-Paul Rios",
+  "category": "B-Roll",
+  "virin": "131217-G-KZ985-785",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Puerto Rico",
+    "state_abbreviation": null,
+    "country_abbreviation": "PR"
+  },
+  "page_url": "https://www.dvidshub.net/video/315179/man-rescued-after-falling-mountain-puerto-rico",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-315179",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:42:04Z",
+  "duration": 101.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101056967/DOD_101056967.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 8788,
+    "size": 111808604
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    9.84,
+    18.55,
+    28.6,
+    36.64,
+    61.8,
+    66.87,
+    81.82,
+    84.35,
+    93.69
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      101.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-315179.jpg",
+  "sheet_times": [
+    7.04,
+    13.12,
+    19.2,
+    25.27,
+    31.35,
+    37.43,
+    43.51,
+    49.58,
+    55.66,
+    61.74,
+    67.81,
+    73.89,
+    79.97,
+    86.05,
+    92.12,
+    98.2
+  ]
+}

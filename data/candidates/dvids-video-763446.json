@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:763446",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 2 men near Wilmington River",
+  "description": "A Coast Guard Air Station Savannah MH-65 helicopter aircrew lowers a rescue basket to rescue two men who ran aground in Wilmington River, Georgia, Aug. 13, 2020. The two men were taken to Hunter Army Airfield and no injuries were reported. ( U.S. Coast Guard photo)",
+  "keywords": "savannah, D7, Air Station Savannah, Coast Guard, SAR, USCG",
+  "date": "2020-08-13T00:00:00-04:00",
+  "date_published": "2020-08-15T13:39:10-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Joe Perez",
+  "category": "B-Roll",
+  "virin": "200814-G-GO107-1209",
+  "location": {
+    "city": "Savannah",
+    "state": "Georgia",
+    "country": "United States",
+    "state_abbreviation": "GA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/763446/coast-guard-rescues-2-men-near-wilmington-river",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-763446",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:42:33Z",
+  "duration": 98.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2008/DOD_107943020/DOD_107943020.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8036,
+    "size": 100394514
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      98.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-763446.jpg",
+  "sheet_times": [
+    3.07,
+    9.2,
+    15.33,
+    21.47,
+    27.6,
+    33.73,
+    39.87,
+    46.0,
+    52.13,
+    58.27,
+    64.4,
+    70.53,
+    76.67,
+    82.8,
+    88.93,
+    95.07
+  ]
+}

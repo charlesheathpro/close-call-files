@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:282121",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues boater near Port Graham, Alaska",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station Kodiak rescues a stranded boater from the beach Monday, Feb. 18, 2013, near Port Graham, Alaska. The boater's 12-foot skiff became swamped in 28 mph winds and 6 to 8-foot seas while on a fishing trip prompting him to call for help. U.S. Coast Guard video by Air Station Kodiak.",
+  "keywords": "Homer, CGAS Kodiak, Coast Guard 17th District, Seldovia, rescue",
+  "date": "2013-02-18T00:00:00-05:00",
+  "date_published": "2013-02-19T19:10:50-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 1st Class Sara Muir",
+  "category": "B-Roll",
+  "virin": "130218-G-ZZ999-001",
+  "location": {
+    "city": "",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/282121/coast-guard-rescues-boater-near-port-graham-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-282121",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:42:18Z",
+  "duration": 30.14,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1302/DOD_100742995/DOD_100742995.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 7887,
+    "size": 29698958
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    6.64,
+    13.25,
+    20.02
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-282121.jpg",
+  "sheet_times": [
+    0.93,
+    2.78,
+    4.63,
+    6.48,
+    8.34,
+    10.19,
+    12.04,
+    13.9,
+    15.75,
+    17.6,
+    19.45,
+    21.31,
+    23.16,
+    25.01,
+    26.86,
+    28.72
+  ]
+}

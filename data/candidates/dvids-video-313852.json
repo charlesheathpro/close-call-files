@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:313852",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Work boat crew rescued by Good Samaritan off Gloucester",
+  "description": "GLOUCESTER, Mass. - Coast Guard crews from Station Gloucester monitor as a commercial salvage company tows the Providenza, a 38-foot work boat from here, after it capsized a half mile from the port's break wall today. (U.S. Coast Guard video)",
+  "keywords": "CGVI",
+  "date": "2009-01-19T19:45:52-05:00",
+  "date_published": "2013-12-17T02:29:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Gloucester",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313852/work-boat-crew-rescued-good-samaritan-off-gloucester",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313852",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:08Z",
+  "duration": 41.75,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054512/DOD_101054512-640x480-1226k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1226,
+    "size": 8003091
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      12.9,
+      18.0,
+      18.8,
+      19.9,
+      23.7,
+      25.7,
+      27.6,
+      29.2
+    ],
+    "silence_ends": [
+      10.2,
+      13.6,
+      18.8,
+      19.9,
+      23.7,
+      25.0,
+      26.6,
+      28.5,
+      29.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313852.jpg",
+  "sheet_times": [
+    1.29,
+    3.87,
+    6.45,
+    9.02,
+    11.6,
+    14.18,
+    16.76,
+    19.34,
+    21.91,
+    24.49,
+    27.07,
+    29.65,
+    32.23,
+    34.8,
+    37.38,
+    39.96
+  ]
+}

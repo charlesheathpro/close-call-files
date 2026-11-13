@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:396757",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Nine from Canadian Tall Ship",
+  "description": "Coast Guard search and rescue crews from Station Gloucester, Air Station Cape Cod and the Coast Guard Cutter Ocracoke rescued nine crewmembers from the Canadian tall ship Liana's Ransom 58 miles east of Gloucester, Monday. \r\nWatchstanders at the Sector Boston Command Center received notification at 12:35 a.m. that the vessel's engines were disabled and its sails were wrapped around the mast.  U.S. Coast Guard video.",
+  "keywords": "Coast Guard rescue, Liana's Ransom, Coast Guard",
+  "date": "2015-03-30T00:00:00-04:00",
+  "date_published": "2015-03-30T20:16:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 3rd Class Ross Ruddell",
+  "category": "B-Roll",
+  "virin": "300315-G-UL848-003",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/396757/coast-guard-rescues-nine-canadian-tall-ship",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-396757",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:05Z",
+  "duration": 38.81,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102333655/DOD_102333655.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8592,
+    "size": 41700858
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      38.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-396757.jpg",
+  "sheet_times": [
+    5.1,
+    7.24,
+    9.38,
+    11.52,
+    13.67,
+    15.81,
+    17.95,
+    20.09,
+    22.24,
+    24.38,
+    26.52,
+    28.66,
+    30.81,
+    32.95,
+    35.09,
+    37.23
+  ]
+}

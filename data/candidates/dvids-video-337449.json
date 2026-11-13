@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:337449",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Man Rescued by Coast Guard Near Tarpon Springs, Fla.",
+  "description": "A 54-year-old man is shown being  medically evacuated by the Coast Guard  seven miles west of Egmont Key, Florida, Friday, May 16, 2014. A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter from Air Station Clearwater hoisted the man and transported him to Tampa General Hospital for further care. U.S. Coast Guard video",
+  "keywords": "AIR STATION CLEARWATER, MH-60 Jayhawk helicopter, hoisted, medically evacuated, First Responder News, Egmont Key, Coast Guard, Florida, Water rescue",
+  "date": "2014-05-16T00:00:00-04:00",
+  "date_published": "2014-05-16T17:20:36-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 2nd Class Michael De Nyse",
+  "category": "B-Roll",
+  "virin": "140516-G-ZZ999-001",
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/337449/man-rescued-coast-guard-near-tarpon-springs-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-337449",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:41:57Z",
+  "duration": 112.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101646351/DOD_101646351.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 8175,
+    "size": 114575646
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    67.57,
+    101.3
+  ],
+  "drama_score": 74,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      112.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-337449.jpg",
+  "sheet_times": [
+    3.49,
+    10.46,
+    17.44,
+    24.41,
+    31.38,
+    38.36,
+    45.33,
+    52.31,
+    59.28,
+    66.25,
+    73.23,
+    80.2,
+    87.18,
+    94.15,
+    101.12,
+    108.1
+  ]
+}

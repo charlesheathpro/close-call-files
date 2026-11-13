@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:313387",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues four people in Galveston Bay, Texas",
+  "description": "HOUSTON- The Coast Guard rescued four people including a 5-year-old boy from their disabled boat in Galveston Bay, Texas, June 3, 2008.",
+  "keywords": "CGVI",
+  "date": "2008-06-03T20:59:15-04:00",
+  "date_published": "2013-12-16T21:28:45-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Houston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313387/coast-guard-rescues-four-people-galveston-bay-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313387",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:50Z",
+  "duration": 56.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101053848/DOD_101053848.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5848,
+    "size": 51192396
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    33.0
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313387.jpg",
+  "sheet_times": [
+    1.74,
+    5.23,
+    8.71,
+    12.19,
+    15.68,
+    19.16,
+    22.64,
+    26.13,
+    29.61,
+    33.09,
+    36.58,
+    40.06,
+    43.55,
+    47.03,
+    50.51,
+    54.0
+  ]
+}

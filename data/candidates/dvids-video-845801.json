@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:845801",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 4 boaters near Hopedale, Louisiana",
+  "description": "A Coast Guard Air Station New Orleans aircrew conducts a rescue of four boaters near Hopedale, Louisiana, on May 31, 2022. The four boaters were stranded after their 21-foot recreational vessel was beset by the weather. (U.S. Coast Guard courtesy video by Air Station New Orleans)",
+  "keywords": "hoist, CoastGuardNewsWire, rescue, New Orleans, district eight, Air Station New Orleans",
+  "date": "2022-05-31T00:00:00-04:00",
+  "date_published": "2022-06-01T15:57:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220601-G-G0108-1001",
+  "location": {
+    "city": "Hopedale",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/845801/coast-guard-rescues-4-boaters-near-hopedale-louisiana",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-845801",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:43Z",
+  "duration": 47.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2206/DOD_109031542/DOD_109031542-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 46704184
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.93,
+      "e": 13.65,
+      "text": "4x5, 8-cump 4x4, right."
+    },
+    {
+      "s": 13.65,
+      "e": 16.86,
+      "text": "4x4, right."
+    },
+    {
+      "s": 16.86,
+      "e": 20.7,
+      "text": "4x4, OK, so the swimmer is on the ground."
+    },
+    {
+      "s": 20.7,
+      "e": 25.8,
+      "text": "Swimmer is just connected, swimmer is OK."
+    },
+    {
+      "s": 25.8,
+      "e": 32.52,
+      "text": "Then they are halfway up, clear the move back and left."
+    },
+    {
+      "s": 32.52,
+      "e": 38.1,
+      "text": "Swimmer is good."
+    },
+    {
+      "s": 38.1,
+      "e": 40.94,
+      "text": "OK, so the swimmer's survivor are halfway up."
+    },
+    {
+      "s": 40.94,
+      "e": 41.94,
+      "text": "Roger."
+    },
+    {
+      "s": 41.94,
+      "e": 43.74,
+      "text": "Clear the move back and left."
+    },
+    {
+      "s": 43.74,
+      "e": 45.74,
+      "text": "So it's on the back and left."
+    }
+  ],
+  "scene_cuts": [
+    32.73
+  ],
+  "drama_score": 82,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-845801.jpg",
+  "sheet_times": [
+    1.46,
+    4.38,
+    7.3,
+    10.22,
+    13.14,
+    16.06,
+    18.98,
+    21.9,
+    24.82,
+    27.74,
+    30.66,
+    33.58,
+    36.5,
+    39.41,
+    42.33,
+    45.25
+  ]
+}

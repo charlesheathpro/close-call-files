@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:923415",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 4 boaters near Freeport, Texas",
+  "description": "A 45-foot Response Boat–Medium crew from Station Freeport locates a life raft near Freeport, Texas, May 13, 2024. The helicopter crew transported one of the boaters to University of Texas Medical Branch Galveston. (U.S. Coast Guard video, courtesy Air Station Corpus Christi)",
+  "keywords": "Coast Guard, SAR, dolphin",
+  "date": "2024-05-13T00:00:00-04:00",
+  "date_published": "2024-05-14T12:01:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240513-G-G0108-1001",
+  "location": {
+    "city": "Freeport",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/923415/coast-guard-rescues-4-boaters-near-freeport-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-923415",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:19Z",
+  "duration": 78.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2405/DOD_110306084/DOD_110306084-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 79752131
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.73,
+    55.55,
+    76.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      78.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-923415.jpg",
+  "sheet_times": [
+    2.42,
+    7.27,
+    12.12,
+    16.97,
+    21.82,
+    26.67,
+    31.52,
+    36.37,
+    41.22,
+    46.07,
+    50.91,
+    55.76,
+    60.61,
+    65.46,
+    70.31,
+    75.16
+  ]
+}

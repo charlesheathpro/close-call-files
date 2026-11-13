@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:916763",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues two boaters near New Orleans",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew from Air Station New Orleans assists two stranded boaters near New Orleans, March 22, 2024. The helicopter crew deployed a rescue swimmer to meet the two boaters and transfer them to the nearby Sheriff’s boat. (U.S. Coast Guard video, courtesy Air Station New Orleans)",
+  "keywords": "MH-60, District 8, Coast Guard, Air Station New Orleans",
+  "date": "2024-03-22T00:00:00-04:00",
+  "date_published": "2024-03-22T22:26:06-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240322-G-G0108-1001",
+  "location": {
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/916763/coast-guard-rescues-two-boaters-near-new-orleans",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-916763",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:43:27Z",
+  "duration": 152.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2403/DOD_110197230/DOD_110197230-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 158033460
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    32.63,
+    58.89
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      152.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-916763.jpg",
+  "sheet_times": [
+    4.76,
+    14.28,
+    23.8,
+    33.32,
+    42.84,
+    52.36,
+    61.88,
+    71.4,
+    80.92,
+    90.44,
+    99.96,
+    109.48,
+    119.0,
+    128.52,
+    138.04,
+    147.56
+  ]
+}

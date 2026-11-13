@@ -1,0 +1,86 @@
+{
+  "asset_id": "video:308468",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Two Hunters Near Sitka, Alaska",
+  "description": "A Coast Guard Air Station Sitka MH-60 Jayhawk helicopter crew rescues the survivors of an overturned skiff near Sitka, Alaska, Nov. 16, 2013. The aircrew was diverted to the scene during a routine training flight and safely transported the men to Sitka. U.S. Coast Guard video by Air Station Sitka.",
+  "keywords": "D17, Air Station Sitka, training, communications, SAR",
+  "date": "2013-11-16T00:00:00-05:00",
+  "date_published": "2013-11-18T17:37:08-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "Petty Officer 3rd Class Grant DeVuyst",
+  "category": "B-Roll",
+  "virin": "131116-G-YE680-001",
+  "location": {
+    "city": "Sitka",
+    "state": "Alaska",
+    "country": "United States",
+    "state_abbreviation": "AK",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/308468/coast-guard-rescues-two-hunters-near-sitka-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.004,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-308468",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:42:11Z",
+  "duration": 141.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1311/DOD_100957265/DOD_100957265.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9449,
+    "size": 169170344
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    24.82,
+    59.26,
+    60.76,
+    60.93,
+    61.09,
+    61.26,
+    61.43,
+    62.43,
+    65.93,
+    66.1,
+    82.62,
+    96.4,
+    108.17,
+    118.22
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      141.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-308468.jpg",
+  "sheet_times": [
+    8.28,
+    16.83,
+    25.38,
+    33.93,
+    42.48,
+    51.03,
+    59.58,
+    68.13,
+    76.68,
+    85.23,
+    93.78,
+    102.33,
+    110.89,
+    119.44,
+    127.99,
+    136.54
+  ]
+}
