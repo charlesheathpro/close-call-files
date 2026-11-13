@@ -1,19 +1,22 @@
 {
-  "at": "2026-11-13T00:33:59Z",
+  "at": "2026-11-13T08:32:05Z",
   "healthy": false,
   "numbers": {
     "dropped": 48,
-    "uploaded": 123,
+    "uploaded": 124,
     "held": 2,
     "passed": 1,
-    "scheduled_48h": 4
+    "scheduled_48h": 3
   },
   "found": [
-    "buffer thin: 4 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
-    "last upload run 20:25Z (nothing passed was waiting, so no slot was lost); harvest 18:10Z and stats today; no repeated build errors; no auth or upload alerts in 24 h",
-    "harvest still reports dvids_blocked with 0 new candidates; unused pool rechecked (Venezuela USAR and Marine SAR b-roll, Thailand cave interview, Kilauea and satellite storm clips): no clip with on-screen danger plus a resolved outcome"
+    "buffer thin: 3 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
+    "no upload run has landed since the 02:42Z commit (GitHub skipped the scheduled runs); nothing passed was waiting until now",
+    "harvest 18:10Z yesterday with 0 new candidates (dvids_blocked); stats ran 03:33Z; no repeated build errors; no auth or upload alerts in 24 h",
+    "rechecked the 4 rescue candidates harvested 16:30Z yesterday (Kellan A, Cordova beach, abandon-ship boater, Point Amelia beach) and scanned the rest of the new pool by keyword: none clear the viral bar"
   ],
   "fixed": [
-    "QA repaired and passed 11-12-03 rev 4 (Doolittle Raid launch)"
+    "QA repaired and passed 11-12-11 rev 4 (F/V Stella man overboard)",
+    "4 candidates marked passed_over",
+    "upload kicked and archive harvest restarted"
   ]
 }

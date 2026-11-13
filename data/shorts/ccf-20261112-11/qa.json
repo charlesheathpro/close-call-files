@@ -1,0 +1,13 @@
+{
+  "short_id": "ccf-20261112-11",
+  "revision": 4,
+  "verdict": "pass",
+  "at": "2026-11-13T08:31:54Z",
+  "score": 7,
+  "notes": "Strong number hook (25 minutes in 37 degree water) over a fishing boat rolling in heavy Alaska seas; every line now shows its footage, the litter rises over breaking water, and the last shot loops into the opening. Facts match the DVIDS release and nobody is named.",
+  "fixes": [
+    "rev 2: L4 shot 2 recropped to the hoist operator (crop_x 0.12), L5 shots recropped onto the litter and the boat instead of empty water",
+    "rev 3: Stella line moved from FLIR deck footage to the boat in heavy water (70.0 and 78.0 s, crop_x 1.0)",
+    "rev 4: removed the [short pause] tag after rev 3 failed dead_air at 27 s"
+  ]
+}
