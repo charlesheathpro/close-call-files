@@ -1,23 +1,19 @@
 {
-  "at": "2026-11-12T16:30:33Z",
+  "at": "2026-11-13T00:33:59Z",
   "healthy": false,
   "numbers": {
     "dropped": 48,
-    "uploaded": 122,
+    "uploaded": 123,
     "held": 2,
     "passed": 1,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 5
+    "scheduled_48h": 4
   },
   "found": [
-    "buffer thin: 5 scheduled in the next 48 h and 1 passed after this run (fails the 20 and 25 thresholds)",
-    "uploads landing (last 14:05Z), harvest 08:38Z and stats today; no repeated build errors; no auth or upload alerts in 24 h",
-    "unused pool searched again (DVIDS rescue, NASA tests and landings, Commons hazards): remaining clips are b-roll, training, medevacs, interviews or stories already told"
+    "buffer thin: 4 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
+    "last upload run 20:25Z (nothing passed was waiting, so no slot was lost); harvest 18:10Z and stats today; no repeated build errors; no auth or upload alerts in 24 h",
+    "harvest still reports dvids_blocked with 0 new candidates; unused pool rechecked (Venezuela USAR and Marine SAR b-roll, Thailand cave interview, Kilauea and satellite storm clips): no clip with on-screen danger plus a resolved outcome"
   ],
   "fixed": [
-    "QA repaired and passed 11-12-02 rev 2 (Soyuz MS-19 landing)",
-    "passed over Spirit Falls kayaker (washed-out 480p door-cam)",
-    "pushed archive to triggers/harvest"
+    "QA repaired and passed 11-12-03 rev 4 (Doolittle Raid launch)"
   ]
 }
