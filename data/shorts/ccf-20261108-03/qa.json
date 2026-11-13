@@ -1,0 +1,12 @@
+{
+ "short_id": "ccf-20261108-03",
+ "revision": 2,
+ "verdict": "pass",
+ "at": "2026-11-13T16:45:23Z",
+ "score": 7,
+ "notes": "Burning fishing boat, two men in a raft, cutter small boat pickup and the boat still ablaze at the end. Rev 2 replaced the letterboxed wides with crops on the raft and the burning boat and fixed the call line to match the release; all build checks pass.",
+ "fixes": [
+  "QA rev 2: lines 2 to 4 recropped (raft crop_x 0.0, boat crop_x 1.0) instead of letterboxed fits",
+  "Line 3 now says a crewman called from aboard the Portlock (release), dropping the unsourced 'radioed their position'"
+ ]
+}
