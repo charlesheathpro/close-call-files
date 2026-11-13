@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:660864",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues man 170 miles west of St. Petersburg",
+  "description": "A U.S. Coast Guard MH-60 Jayhawk helicopter crew from Air Station Clearwater, Florida, rescues a man from a 120-foot tug 170 miles west of St. Petersburg, Florida, Thursday, Feb. 21, 2019. The 57-year-old man was reportedly suffering from chest pains and was transferred to Tampa General Hospital in Tampa, Florida. (U.S. Coast Guard video)",
+  "keywords": "hoist, Clearwater, TAMPA, Coast Guard, medevac, rescue",
+  "date": "2019-02-21T00:00:00-05:00",
+  "date_published": "2019-02-21T19:50:07-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190221-G-G0107-1001",
+  "location": {
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/660864/coast-guard-rescues-man-170-miles-west-st-petersburg",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-660864",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:53:49Z",
+  "duration": 77.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1902/DOD_106472904/DOD_106472904.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9972,
+    "size": 96429932
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-660864.jpg",
+  "sheet_times": [
+    2.4,
+    7.2,
+    12.0,
+    16.8,
+    21.6,
+    26.4,
+    31.2,
+    36.0,
+    40.8,
+    45.59,
+    50.39,
+    55.19,
+    59.99,
+    64.79,
+    69.59,
+    74.39
+  ]
+}

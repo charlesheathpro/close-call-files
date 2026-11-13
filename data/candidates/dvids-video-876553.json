@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:876553",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues captain of sailing vessel off of Dulac, LA",
+  "description": "The Coast Guard rescues the captain of a sailing vessel 17 miles offshore of Dulac, Louisiana, on March 14, 2023. The captain called the Coast Guard after he injured his shoulder and was not able to maneuver the vessel safely. (U.S. Coast Guard video by U.S. Coast Guard Air Station New Orleans)",
+  "keywords": "Nola, Air Station, Jayhawk, CoastGuardNewsWire",
+  "date": "2023-03-14T00:00:00-04:00",
+  "date_published": "2023-03-15T10:21:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230314-G-G0108-1001",
+  "location": {
+    "city": "Dulac",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/876553/coast-guard-rescues-captain-sailing-vessel-off-dulac-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-876553",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:51:30Z",
+  "duration": 110.98,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109512121/DOD_109512121-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 120290546
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.64,
+    14.68,
+    32.33,
+    98.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      111.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-876553.jpg",
+  "sheet_times": [
+    3.45,
+    10.36,
+    17.26,
+    24.17,
+    31.07,
+    37.98,
+    44.88,
+    51.79,
+    58.69,
+    65.6,
+    72.5,
+    79.41,
+    86.31,
+    93.22,
+    100.12,
+    107.03
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:415480",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Air Station Humboldt Bay Rescues 3 people",
+  "description": "The Coast Guard rescued three people aboard a sailing vessel 53 miles west of Eureka, California, Friday morning",
+  "keywords": "Air Station Humboldt Bay, McKinleyville, District 11, Coast Guard, California, rescue",
+  "date": "2015-07-17T00:00:00-04:00",
+  "date_published": "2015-07-17T20:19:03-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 3rd Class Loumania Chenlo",
+  "category": "B-Roll",
+  "virin": "150717-G-AT057-879",
+  "location": {
+    "city": "Humboldt Bay",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/415480/coast-guard-air-station-humboldt-bay-rescues-3-people",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.9586,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-415480",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:52:34Z",
+  "duration": 22.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1507/DOD_102603478/DOD_102603478.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8440,
+    "size": 24497138
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-415480.jpg",
+  "sheet_times": [
+    4.54,
+    5.7,
+    6.85,
+    8.01,
+    9.17,
+    10.33,
+    11.49,
+    12.64,
+    13.8,
+    14.96,
+    16.12,
+    17.28,
+    18.43,
+    19.59,
+    20.75,
+    21.91
+  ]
+}

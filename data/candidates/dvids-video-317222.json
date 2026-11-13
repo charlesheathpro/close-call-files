@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:317222",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "CG-AirSta-rescues-two-men-near-Pine-Island-Fla",
+  "description": "CLEARWATER, Fla. - The Coast Guard rescued two men after their boat capsized 6-miles west off of Pine Island, Fla., Sept. 13, 2011. U.S. Coast Guard video",
+  "keywords": "CGVI",
+  "date": "2011-09-14T14:51:35-04:00",
+  "date_published": "2013-12-21T15:30:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Clearwater",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/317222/cg-airsta-rescues-two-men-near-pine-island-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-317222",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:52:38Z",
+  "duration": 120.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062131/DOD_101062131-720x480-1724k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1724,
+    "size": 27140205
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.0,
+    23.72,
+    28.73,
+    39.01,
+    50.22,
+    115.58
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      115.7
+    ],
+    "silence_ends": [
+      5.2,
+      120.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317222.jpg",
+  "sheet_times": [
+    3.76,
+    11.27,
+    18.79,
+    26.3,
+    33.82,
+    41.33,
+    48.85,
+    56.36,
+    63.88,
+    71.39,
+    78.91,
+    86.43,
+    93.94,
+    101.46,
+    108.97,
+    116.49
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "asset_id": "video:860114",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3 overdue boaters offshore Empire, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 Jayhawk helicopter aircrew hoists three boaters approximately 25 miles offshore Empire, Louisiana, Oct. 9, 2022. The three boaters went into the water after their 24-foot vessel sank, and were initially reported overdue by a concerned family member. (U.S. Coast Guard video by Air Station New Orleans)",
+  "keywords": "MH-60 Jayhawk, overdue, PIW, CoastGuardNewsWire, Louisiana, Air Station New Orleans",
+  "date": "2022-10-09T00:00:00-04:00",
+  "date_published": "2022-10-09T22:35:15-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "221009-G-G0108-3001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/860114/coast-guard-rescues-3-overdue-boaters-offshore-empire-la",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-860114",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:51:56Z",
+  "duration": 104.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2210/DOD_109261086/DOD_109261086-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 110381586
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.59,
+      "e": 2.59,
+      "text": "I'm just having a door going down."
+    },
+    {
+      "s": 2.59,
+      "e": 9.58,
+      "text": "Regent."
+    },
+    {
+      "s": 9.58,
+      "e": 26.74,
+      "text": "Helping, Linda."
+    }
+  ],
+  "scene_cuts": [
+    23.39,
+    60.63,
+    81.55
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      2.9,
+      9.4,
+      13.4,
+      17.6,
+      21.7,
+      27.5,
+      33.7,
+      37.9,
+      42.5,
+      44.4,
+      50.4,
+      53.5,
+      60.0,
+      67.4,
+      74.3,
+      77.5,
+      81.6
+    ],
+    "silence_ends": [
+      4.8,
+      10.9,
+      15.9,
+      19.7,
+      23.1,
+      29.1,
+      37.5,
+      38.5,
+      43.4,
+      47.8,
+      52.4,
+      54.1,
+      65.6,
+      68.8,
+      76.0,
+      80.4,
+      104.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-860114.jpg",
+  "sheet_times": [
+    3.23,
+    9.7,
+    16.17,
+    22.64,
+    29.11,
+    35.58,
+    42.05,
+    48.52,
+    54.99,
+    61.46,
+    67.92,
+    74.39,
+    80.86,
+    87.33,
+    93.8,
+    100.27
+  ]
+}

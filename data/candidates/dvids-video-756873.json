@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:756873",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 10 people from the water in Traverse City",
+  "description": "A U.S. Coast Guard rescue swimmer assists 10 people from a sinking 30-foot vessel to a Good Samaritan's vessel in Grand Traverse Bay, Traverse City, Michigan, Jun. 19, 2020. The vessel completely sank in about 250-feet of water. (U.S. Coast Guard Video)",
+  "keywords": "rescue swimmer, Traverse City, Jayhawks, helicopter, Coast Guard, rescue, Michigan",
+  "date": "2020-06-19T00:00:00-04:00",
+  "date_published": "2020-06-19T21:31:26-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "200619-G-G0109-1001",
+  "location": {
+    "city": "Traverse City",
+    "state": "Michigan",
+    "country": "United States",
+    "state_abbreviation": "MI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/756873/coast-guard-rescues-10-people-water-traverse-city",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-756873",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:52:13Z",
+  "duration": 565.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2006/DOD_107861438/DOD_107861438-640x480-922k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 923,
+    "size": 65418976
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-756873.jpg",
+  "sheet_times": [
+    17.65,
+    52.96,
+    88.27,
+    123.57,
+    158.88,
+    194.18,
+    229.49,
+    264.8,
+    300.1,
+    335.41,
+    370.71,
+    406.02,
+    441.33,
+    476.63,
+    511.94,
+    547.25
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:875365",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues boater 70 miles south of Mobile, Alabama.",
+  "description": "Coast Guard Air Station New Orleans aircrew rescues boater March 3, 2023, near Mobile, Alabama. Watchstanders at Coast Guard Sector Mobile received a report  of a 40-foot sailing vessel taking on water with one person aboard. (U.S. Coast Guard video by Coast Guard Air Station New Orleans)",
+  "keywords": "MH-60, District 8",
+  "date": "2023-03-03T00:00:00-05:00",
+  "date_published": "2023-03-04T14:29:04-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "220303-G-G0108-1001",
+  "location": {
+    "city": "",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/875365/coast-guard-rescues-boater-70-miles-south-mobile-alabama",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-875365",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:51:42Z",
+  "duration": 27.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109490588/DOD_109490588-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 29742395
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.22,
+    21.19
+  ],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      27.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-875365.jpg",
+  "sheet_times": [
+    0.83,
+    2.5,
+    4.17,
+    5.84,
+    7.51,
+    9.18,
+    10.84,
+    12.51,
+    14.18,
+    15.85,
+    17.52,
+    19.19,
+    20.85,
+    22.52,
+    24.19,
+    25.86
+  ]
+}
