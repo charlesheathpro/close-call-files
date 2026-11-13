@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:340904",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues downed pilot south of Corpus Christi",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew locates and rescues a pilot after his plane crashed Tuesday, June 3, 2014, south of Corpus Christi, Texas, near Baffin Bay. A rescue swimmer was lowered to assess the pilot’s condition and he was taken to Naval Air Station Corpus Christi where an ambulance was waiting. U.S. Coast Guard video.",
+  "keywords": "crash, mud, downed, MH-65D, helicopter, US Coast Guard, airplane, rescue, USCG",
+  "date": "2014-06-03T00:00:00-04:00",
+  "date_published": "2014-06-03T18:40:58-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140603-G-XX999-001",
+  "location": {
+    "city": "Baffin Bay",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/340904/coast-guard-rescues-downed-pilot-south-corpus-christi",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-340904",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:58Z",
+  "duration": 103.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101713190/DOD_101713190.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 7642,
+    "size": 99941129
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    73.57
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-340904.jpg",
+  "sheet_times": [
+    3.23,
+    9.68,
+    16.13,
+    22.58,
+    29.03,
+    35.48,
+    41.93,
+    48.39,
+    54.84,
+    61.29,
+    67.74,
+    74.19,
+    80.64,
+    87.09,
+    93.55,
+    100.0
+  ]
+}

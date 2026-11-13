@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:479433",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard finds, rescues 4 men reported overdue",
+  "description": "A Coast Guard aircrew aboard an MH-60 Jayhawk helicopter used night vision goggles and a forward looking infrared camera to locate four men reported overdue during a rafting trip on the Sandy River near Troutdale, Ore., Aug. 16, 2016.\r\n\r\nThe four men beached their rafts overnight after realizing they would not make their planned destination in time. \r\n\r\nU.S. Coast Guard video by Sector Columbia River.",
+  "keywords": "Troutdale, Sector Columbia River, Sandy River, Coast Guard, search and rescue, Oregon, USCG",
+  "date": "2016-08-16T00:00:00-04:00",
+  "date_published": "2016-08-16T15:00:49-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class Levi Read",
+  "category": "B-Roll",
+  "virin": "160816-G-ZZ999-001",
+  "location": {
+    "city": "Troutdale",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/479433/coast-guard-finds-rescues-4-men-reported-overdue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-479433",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:38Z",
+  "duration": 130.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1608/DOD_103576974/DOD_103576974.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 7572,
+    "size": 125102151
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    4.67,
+    41.67,
+    52.12,
+    68.4,
+    93.26,
+    107.61,
+    119.75
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      130.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-479433.jpg",
+  "sheet_times": [
+    7.95,
+    15.79,
+    23.63,
+    31.48,
+    39.32,
+    47.17,
+    55.01,
+    62.85,
+    70.7,
+    78.54,
+    86.39,
+    94.23,
+    102.07,
+    109.92,
+    117.76,
+    125.6
+  ]
+}

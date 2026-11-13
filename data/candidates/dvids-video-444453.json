@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:444453",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Swimmer in Distress Near Tillamook, Ore.",
+  "description": "A Coast Guard MH-60 Jayhawk helicopter crew hoists a swimmer in distress who reportedly suffered a leg injury near Cape Lookout State Park in Ore., Dec. 26, 2015. \r\n\r\nThe aircrew worked with Tillamook Fire Department to rescue the 18-year-old man, and transferred him to emergency medical service personnel in the Cape Lookout State Park parking lot. \r\n\r\nU.S. Coast Guard video courtesy of Coast Guard Air Station Astoria.",
+  "keywords": "MH-60, Jayhawk, distress, Coast Guard rescue, Tillamook, swimmer, search-and-rescue, Astoria",
+  "date": "2015-12-26T00:00:00-05:00",
+  "date_published": "2015-12-27T01:18:20-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Seaman Sarah Wilson",
+  "category": "B-Roll",
+  "virin": "151226-G-LS785-001",
+  "location": {
+    "city": "Tillamook",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/444453/coast-guard-rescues-swimmer-distress-near-tillamook-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.19217,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-444453",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:44Z",
+  "duration": 54.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102968874/DOD_102968874.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 8839,
+    "size": 59694155
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.31,
+    22.29,
+    22.42,
+    37.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      54.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-444453.jpg",
+  "sheet_times": [
+    5.73,
+    8.82,
+    11.9,
+    14.98,
+    18.06,
+    21.15,
+    24.23,
+    27.31,
+    30.4,
+    33.48,
+    36.56,
+    39.64,
+    42.73,
+    45.81,
+    48.89,
+    51.97
+  ]
+}

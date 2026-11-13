@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:347282",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, CBP rescue 2 near Bellingham, Wash.",
+  "description": "A Coast Guard boatcrew from Station Bellingham, Wash., rescues two men after their canoe capsized in Portage Channel near Lummi Island, Washington, Saturday morning. A CBP aircrew in the area responded to a Coast Guard urgent marine information broadcast, located the two men and was able to direct a Coast Guard boatcrew from Station Bellingham, Washington, to their location. U.S. Coast Guard video courtesy of U.S. Customs and Border Protection.",
+  "keywords": "Customs and Border Protection, Coast Guard, Washington, rescue, Bellingham",
+  "date": "2014-06-28T00:00:00-04:00",
+  "date_published": "2014-07-01T12:51:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140628-G-ZZ999-001",
+  "location": {
+    "city": "Bellingham",
+    "state": "Washington",
+    "country": "United States",
+    "state_abbreviation": "WA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/347282/coast-guard-cbp-rescue-2-near-bellingham-wash",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-347282",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:50Z",
+  "duration": 173.55,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101780726/DOD_101780726.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5994,
+    "size": 134155512
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.01,
+    149.58
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-347282.jpg",
+  "sheet_times": [
+    5.41,
+    16.22,
+    27.04,
+    37.85,
+    48.67,
+    59.48,
+    70.3,
+    81.12,
+    91.93,
+    102.75,
+    113.56,
+    124.38,
+    135.19,
+    146.01,
+    156.82,
+    167.64
+  ]
+}

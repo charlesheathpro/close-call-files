@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:458255",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues surfer near Agate Beach, ore.",
+  "description": "A Coast Guard aircrew aboard an MH-65 Dolphin helicopter from Air Facility Newport rescued a 22-year-old female surfer in distress near Agate Beach State Park, April 9, 2016. She was transferred to members of the Lincoln County Fire Department on the beach in good condition. U.S. Coast Guard video courtesy of Air Facility Newport",
+  "keywords": "Air Facility Newport, Agate Beach, Coast Guard, Oregon, rescue",
+  "date": "2016-04-09T00:00:00-04:00",
+  "date_published": "2016-04-10T01:22:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class George Degener",
+  "category": "B-Roll",
+  "virin": "160409-G-ZZ999-001",
+  "location": {
+    "city": "newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/458255/coast-guard-rescues-surfer-near-agate-beach-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-458255",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:42Z",
+  "duration": 105.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103194182/DOD_103194182.mp4",
+    "width": 960,
+    "height": 720,
+    "bitrate": 8273,
+    "size": 110277704
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    99.97
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.8
+    ],
+    "silence_ends": [
+      105.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-458255.jpg",
+  "sheet_times": [
+    3.27,
+    9.8,
+    16.33,
+    22.86,
+    29.39,
+    35.92,
+    42.45,
+    48.98,
+    55.52,
+    62.05,
+    68.58,
+    75.11,
+    81.64,
+    88.17,
+    94.7,
+    101.24
+  ]
+}

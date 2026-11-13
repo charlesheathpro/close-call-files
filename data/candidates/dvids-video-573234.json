@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:573234",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "AIRFAC Newport rescues injured surfer near Agate Beach",
+  "description": "A Coast Guard aircrew aboard an MH-65 Dolphin helicopter from Air Facility Newport rescues an injured surfer near Agate Beach in Newport, Ore., Dec. 13, 2017.\r\n\r\nThe surfer reportedly suffered a head injury after being separated from his surfboard and being pushed against the rocks near the beach.\r\n\r\nU.S. Coast Guard video by Sector North Bend 6501.",
+  "keywords": "MH-65 Dolphin helicopter, Sector North Bend, Air Facility Newport, Coast Guard, search and rescue, USCG",
+  "date": "2017-12-13T00:00:00-05:00",
+  "date_published": "2017-12-13T18:43:21-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "171213-G-G0213-1001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/573234/airfac-newport-rescues-injured-surfer-near-agate-beach",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-573234",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:35Z",
+  "duration": 68.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1712/DOD_105173772/DOD_105173772.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 8837,
+    "size": 76482208
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.14,
+    16.58,
+    46.75
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      1.7
+    ],
+    "silence_ends": [
+      68.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-573234.jpg",
+  "sheet_times": [
+    2.12,
+    6.35,
+    10.58,
+    14.81,
+    19.04,
+    23.27,
+    27.5,
+    31.74,
+    35.97,
+    40.2,
+    44.43,
+    48.66,
+    52.89,
+    57.12,
+    61.36,
+    65.59
+  ]
+}

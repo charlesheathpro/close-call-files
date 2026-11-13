@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:85824",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue Woman After Surviving 36 Hours At Sea",
+  "description": "JACKSONVILLE, Fla. - Rebecca Sullivan is helped off the 87-foot Coast Guard Cutter Yellowfin May 18, 2010, at Coast Guard Sector Jacksonville. Sullivan, Elias Nevarez and John J. Nevarez were rescued after their boat capsized May 16 and they treaded water for about 36 hours, 30-miles offshore. U.S. Coast Guard video by Petty Officer 3rd Class Michael Hulme.",
+  "keywords": "Coast Guard Cutter, Yellowfin, Rebecca Sullivan, Michael Hulme, US Coast Guard",
+  "date": "2010-05-18T00:00:00-04:00",
+  "date_published": "2010-05-19T16:10:35-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Ricky Allen",
+  "category": "B-Roll",
+  "virin": "100518-G-6008H-001",
+  "location": {
+    "city": "JACKSONVILLE",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/85824/coast-guard-rescue-woman-after-surviving-36-hours-sea",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-85824",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:45:34Z",
+  "duration": 30.53,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1005/DOD_100071079/DOD_100071079.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.04,
+    7.04,
+    7.11,
+    8.51,
+    18.49,
+    27.63
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      27.5
+    ],
+    "silence_ends": [
+      3.0,
+      30.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-85824.jpg",
+  "sheet_times": [
+    0.94,
+    2.82,
+    4.69,
+    6.57,
+    8.45,
+    10.32,
+    12.2,
+    14.08,
+    15.95,
+    17.83,
+    19.71,
+    21.58,
+    23.46,
+    25.34,
+    27.22,
+    29.09
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:547642",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard air crew conducts rescue in Beaumont, Texas",
+  "description": "A Coast Guard air crew conducts a rescue in support of Hurricane Harvey rescue operations near Beaumont, Texas, Aug. 30, 2017. The Coast Guard is working with federal, state and local agencies to continue to respond to rescue requests. (U.S. Coast Guard video, courtesy Air Station Houston/Released)",
+  "keywords": "hoist, Air Station, Beaumont, Hurricane Harvey, Coast Guard, Texas, rescue, flood, USCG",
+  "date": "2017-08-30T00:00:00-04:00",
+  "date_published": "2017-09-01T17:36:40-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "170830-G-G0108-1001",
+  "location": {
+    "city": "Beaumont",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/547642/coast-guard-air-crew-conducts-rescue-beaumont-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-547642",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:44:09Z",
+  "duration": 75.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1709/DOD_104794837/DOD_104794837.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 8865,
+    "size": 84276347
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    17.32,
+    17.48,
+    63.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-547642.jpg",
+  "sheet_times": [
+    2.33,
+    6.99,
+    11.66,
+    16.32,
+    20.98,
+    25.64,
+    30.3,
+    34.97,
+    39.63,
+    44.29,
+    48.95,
+    53.61,
+    58.28,
+    62.94,
+    67.6,
+    72.26
+  ]
+}
