@@ -1,22 +1,21 @@
 {
-  "at": "2026-11-13T08:32:05Z",
+  "at": "2026-11-13T16:49:44Z",
   "healthy": false,
   "numbers": {
     "dropped": 48,
-    "uploaded": 124,
-    "held": 2,
+    "uploaded": 126,
+    "held": 3,
     "passed": 1,
-    "scheduled_48h": 3
+    "scheduled_48h": 4
   },
   "found": [
-    "buffer thin: 3 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
-    "no upload run has landed since the 02:42Z commit (GitHub skipped the scheduled runs); nothing passed was waiting until now",
-    "harvest 18:10Z yesterday with 0 new candidates (dvids_blocked); stats ran 03:33Z; no repeated build errors; no auth or upload alerts in 24 h",
-    "rechecked the 4 rescue candidates harvested 16:30Z yesterday (Kellan A, Cordova beach, abandon-ship boater, Point Amelia beach) and scanned the rest of the new pool by keyword: none clear the viral bar"
+    "buffer thin: 4 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
+    "upload 13:49Z, harvest 08:41Z (dvids_blocked, 2 new), stats 15:38Z all landed; no repeated build errors; no auth or upload alerts in 24 h",
+    "keyword scan of the unused DVIDS/Commons pool found mostly hurricane and wildfire recovery b-roll, ceremonies and calm medevacs; the 12:50Z editor pass already passed over the newest clips, so no new specs this run"
   ],
   "fixed": [
-    "QA repaired and passed 11-12-11 rev 4 (F/V Stella man overboard)",
-    "4 candidates marked passed_over",
-    "upload kicked and archive harvest restarted"
+    "QA repaired and passed 11-08-03 rev 2 (Portlock fire and raft) and 11-13-01 rev 2 (Cemtex Venture heavy seas)",
+    "archive harvest restarted",
+    "upload kicked for the 2 passed Shorts"
   ]
 }
