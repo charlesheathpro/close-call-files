@@ -43,7 +43,7 @@
       "source_quote": "The man fell overboard from the vessel earlier in the day and was recovered from the ocean by the remaining crew after 25 minutes in the 37.6 degree water."
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -98,7 +98,7 @@
         "start": 34.0,
         "end": 36.5,
         "layout": "crop",
-        "crop_x": 0.8
+        "crop_x": 0.12
       }
     ],
     [
@@ -106,19 +106,19 @@
         "start": 36.8,
         "end": 39.3,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.4
       },
       {
         "start": 40.0,
         "end": 42.5,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 0.9
       },
       {
         "start": 44.0,
         "end": 46.5,
         "layout": "crop",
-        "crop_x": 1.0
+        "crop_x": 0.32
       }
     ],
     [
