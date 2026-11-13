@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-13T03:34:15Z from 114 Shorts older than 48 hours)
+# Playbook (computed 2026-11-13T10:45:55Z from 114 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -10,36 +10,33 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
 - story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.38, 1 Shorts)
 - story: splashdown recovery (+0.38, 1 Shorts)
-- hook names a child (+0.35, 13 Shorts)
+- story: capsized boat, people in the water (+0.36, 1 Shorts)
 
 ## Do less of
 - lane: hazards (-0.56, 4 Shorts)
-- story: security camera catches a tornado strike (-0.52, 1 Shorts)
-- story: historic rocket test stand implosion (-0.51, 1 Shorts)
+- story: security camera catches a tornado strike (-0.51, 1 Shorts)
+- story: historic rocket test stand implosion (-0.5, 1 Shorts)
 - story: dog hoist from sinking boat (-0.5, 1 Shorts)
-- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.43, 1 Shorts)
+- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.42, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.42, 1 Shorts)
 - music: hazards (-0.37, 4 Shorts)
 - story: attic flood hoist (-0.34, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 44434 views, 82% watched
-- Runaway boat circling with no one aboard: 9048 views, 98% watched
-- 17-year-old adrift at night, no paddle: 43196 views, 72% watched
+- Flipped hull 11 miles out, 3 men on top: 44508 views, 82% watched
+- Runaway boat circling with no one aboard: 9057 views, 98% watched
+- 17-year-old adrift at night, no paddle: 43445 views, 72% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
-- Five abandon a sinking fishing boat: 12425 views, 89% watched
+- Five abandon a sinking fishing boat: 12463 views, 89% watched
 
 ## Weakest Shorts
 - Clinging to a flipped boat 12 miles out: 31 views, 67% watched
-- Hurricane Ike rescue from the waves: 127 views, 41% watched
+- Hurricane Ike rescue from the waves: 131 views, 41% watched
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
-- Saturn V test tower comes down: 39 views, 48% watched
-- Security camera caught a tornado hit: 114 views, 28% watched
+- Saturn V test tower comes down: 44 views, 48% watched
+- Security camera caught a tornado hit: 119 views, 28% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261105-21: Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable.
-- ccf-20261105-31: After the opening, most of the Short is distant figures walking slowly across flat ice, the same shot for about 15 seconds; no visible peril, and the 'helped him up the side' line plays over empty ice.
-- ccf-20261105-34: Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown.
 - ccf-20261106-11: The kids are never visible: 28 seconds of one distant helicopter hovering over a dark rock pile at dusk from the same high angle, letterboxed and grainy. Nothing on screen looks dangerous, and the source has no closer shot to fix it.
 - ccf-20261106-21: The sinking houseboat is only a dark 4 s FLIR blob; the rest is the same calm top-down basket hoist from the door for about 25 s, which is the routine hoist the viral bar rules out. The cat payoff is nice but cannot carry it, and the source has no other footage.
 - ccf-20261107-02: Blurry, low-contrast footage of a boat that sits level the whole time; no visible sinking, and line 6 says basket over a pump case. Third sinking-boat Short in days. Dropped.
@@ -50,3 +47,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
+
+## Changed tonight
+- query weights for 53 searches

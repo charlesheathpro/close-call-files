@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-13T03:34:15Z",
+  "at": "2026-11-13T10:45:55Z",
   "mature": 114,
   "features": [
     {
@@ -38,18 +38,18 @@
       "effect": 0.38
     },
     {
-      "feature": "hook names a child",
-      "n": 13,
-      "effect": 0.35
-    },
-    {
       "feature": "story: capsized boat, people in the water",
       "n": 1,
-      "effect": 0.35
+      "effect": 0.36
     },
     {
       "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
       "n": 1,
+      "effect": 0.36
+    },
+    {
+      "feature": "hook names a child",
+      "n": 13,
       "effect": 0.35
     },
     {
@@ -135,7 +135,7 @@
     {
       "feature": "story: boat fire rescue",
       "n": 1,
-      "effect": 0.14
+      "effect": 0.13
     },
     {
       "feature": "story: hurricane hoist",
@@ -213,11 +213,6 @@
       "effect": 0.07
     },
     {
-      "feature": "story: mountain hoist",
-      "n": 2,
-      "effect": 0.07
-    },
-    {
       "feature": "story: space re-entry",
       "n": 1,
       "effect": 0.07
@@ -230,6 +225,11 @@
     {
       "feature": "lane: aviation_naval",
       "n": 18,
+      "effect": 0.06
+    },
+    {
+      "feature": "story: mountain hoist",
+      "n": 2,
       "effect": 0.06
     },
     {
@@ -343,12 +343,12 @@
       "effect": -0.0
     },
     {
-      "feature": "story: dog rescue hurricane",
-      "n": 1,
+      "feature": "length 45 s or more",
+      "n": 13,
       "effect": -0.01
     },
     {
-      "feature": "story: man overboard open ocean",
+      "feature": "story: dog rescue hurricane",
       "n": 1,
       "effect": -0.01
     },
@@ -358,12 +358,12 @@
       "effect": -0.01
     },
     {
-      "feature": "length 45 s or more",
-      "n": 13,
+      "feature": "story: crew capsule splashdown",
+      "n": 1,
       "effect": -0.02
     },
     {
-      "feature": "story: crew capsule splashdown",
+      "feature": "story: man overboard open ocean",
       "n": 1,
       "effect": -0.02
     },
@@ -371,6 +371,11 @@
       "feature": "story: surf drills in hurricane seas (training)",
       "n": 1,
       "effect": -0.02
+    },
+    {
+      "feature": "music: night",
+      "n": 4,
+      "effect": -0.03
     },
     {
       "feature": "story: aerial firefighting",
@@ -393,6 +398,11 @@
       "effect": -0.03
     },
     {
+      "feature": "story: offshore sailboat hoist with a destroyer refueling stop",
+      "n": 1,
+      "effect": -0.03
+    },
+    {
       "feature": "story: rooftop hoist",
       "n": 1,
       "effect": -0.03
@@ -401,11 +411,6 @@
       "feature": "story: would-be rescuers swim after a paddle boarder and need rescue themselves, helicopter basket hoist",
       "n": 1,
       "effect": -0.03
-    },
-    {
-      "feature": "music: night",
-      "n": 4,
-      "effect": -0.04
     },
     {
       "feature": "story: boat to boat family transfer in a storm",
@@ -418,12 +423,12 @@
       "effect": -0.04
     },
     {
-      "feature": "story: mother and daughter in the water after capsizing, basket hoist",
+      "feature": "story: helicopter hoist from a cargo ship in twenty-foot swells and gale winds",
       "n": 1,
       "effect": -0.04
     },
     {
-      "feature": "story: offshore sailboat hoist with a destroyer refueling stop",
+      "feature": "story: mother and daughter in the water after capsizing, basket hoist",
       "n": 1,
       "effect": -0.04
     },
@@ -439,11 +444,6 @@
     },
     {
       "feature": "story: fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
-      "n": 1,
-      "effect": -0.05
-    },
-    {
-      "feature": "story: helicopter hoist from a cargo ship in twenty-foot swells and gale winds",
       "n": 1,
       "effect": -0.05
     },
@@ -503,11 +503,6 @@
       "effect": -0.11
     },
     {
-      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
-      "n": 1,
-      "effect": -0.12
-    },
-    {
       "feature": "story: flood hoist from rooftop",
       "n": 1,
       "effect": -0.12
@@ -516,6 +511,11 @@
       "feature": "story: stranded on sea cliffs, jump to boat",
       "n": 1,
       "effect": -0.12
+    },
+    {
+      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
+      "n": 1,
+      "effect": -0.13
     },
     {
       "feature": "story: hurricane flood, people hoisted off rooftops by air force rescue helicopter",
@@ -528,17 +528,17 @@
       "effect": -0.14
     },
     {
-      "feature": "story: moon rocket launch, close-up slow motion",
-      "n": 1,
-      "effect": -0.14
-    },
-    {
       "feature": "flood or hurricane story",
       "n": 23,
       "effect": -0.15
     },
     {
       "feature": "story: airliner down in a lagoon, boat pickup off the wing",
+      "n": 1,
+      "effect": -0.15
+    },
+    {
+      "feature": "story: moon rocket launch, close-up slow motion",
       "n": 1,
       "effect": -0.15
     },
@@ -570,7 +570,7 @@
     {
       "feature": "story: elderly man swept from his car into a flooded river, guard rescuer rides the hoist into the current",
       "n": 1,
-      "effect": -0.18
+      "effect": -0.19
     },
     {
       "feature": "story: wildfire rescue",
@@ -640,7 +640,7 @@
     {
       "feature": "story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist",
       "n": 1,
-      "effect": -0.43
+      "effect": -0.42
     },
     {
       "feature": "story: dog hoist from sinking boat",
@@ -650,12 +650,12 @@
     {
       "feature": "story: historic rocket test stand implosion",
       "n": 1,
-      "effect": -0.51
+      "effect": -0.5
     },
     {
       "feature": "story: security camera catches a tornado strike",
       "n": 1,
-      "effect": -0.52
+      "effect": -0.51
     },
     {
       "feature": "lane: hazards",
@@ -667,23 +667,23 @@
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
-      "views": 44434.0,
+      "views": 44508.0,
       "ret": 82.11,
-      "score": 1.858
+      "score": 1.861
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 9048.0,
+      "views": 9057.0,
       "ret": 97.85,
-      "score": 1.599
+      "score": 1.6
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 43196.0,
+      "views": 43445.0,
       "ret": 72.33,
-      "score": 1.595
+      "score": 1.599
     },
     {
       "short_id": "ccf-20261028-08",
@@ -695,9 +695,9 @@
     {
       "short_id": "ccf-20261101-08",
       "title": "Five abandon a sinking fishing boat",
-      "views": 12425.0,
+      "views": 12463.0,
       "ret": 88.54,
-      "score": 1.523
+      "score": 1.524
     }
   ],
   "bottom": [
@@ -706,42 +706,42 @@
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 31.0,
       "ret": 67.01,
-      "score": -1.662
+      "score": -1.667
     },
     {
       "short_id": "ccf-20261109-41",
       "title": "Hurricane Ike rescue from the waves",
-      "views": 127.0,
+      "views": 131.0,
       "ret": 41.49,
-      "score": -1.687
+      "score": -1.678
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 10.0,
       "ret": 72.72,
-      "score": -1.976
+      "score": -1.982
     },
     {
       "short_id": "ccf-20261108-24",
       "title": "Saturn V test tower comes down",
-      "views": 39.0,
+      "views": 44.0,
       "ret": 47.58,
-      "score": -2.032
+      "score": -1.987
     },
     {
       "short_id": "ccf-20261109-31",
       "title": "Security camera caught a tornado hit",
-      "views": 114.0,
+      "views": 119.0,
       "ret": 28.28,
-      "score": -2.048
+      "score": -2.034
     }
   ],
   "query_weights": {
     "rescue infant": 1.01,
     "Hurricane Florence rescue": 1.02,
     "rescues dog": 0.97,
-    "rescue": 1.12,
+    "rescue": 1.13,
     "rooftop rescue": 0.98,
     "Hurricane Helene rescue": 1.02,
     "Hurricane Milton rescue": 0.99,
@@ -755,10 +755,10 @@
     "lava flow": 0.85,
     "rescues family": 1.22,
     "launch abort": 1.18,
-    "splashdown": 1.13,
+    "splashdown": 1.12,
     "FEMA urban search and rescue": 0.93,
     "vessel fire": 1.25,
-    "sinking vessel": 0.95,
+    "sinking vessel": 0.96,
     "lava USGS": 0.92,
     "wildfire": 0.89,
     "capsized vessel rescue": 0.76,
@@ -789,7 +789,7 @@
     "aircrew rescues": 0.9,
     "ship heavy seas": 1.04,
     "rescues": 0.93,
-    "hoist": 0.99,
+    "hoist": 1.0,
     "tornado damage": 0.74
   },
   "lane_scores": {
@@ -798,18 +798,6 @@
     "aviation_naval": 0.05
   },
   "qa_rejections_7d": [
-    {
-      "short_id": "ccf-20261105-21",
-      "notes": "Three men sit calmly in a skiff in daylight, then 25 seconds of murky night infrared of a ship deck with a long static stretch; no visible danger and the pickup is unreadable."
-    },
-    {
-      "short_id": "ccf-20261105-31",
-      "notes": "After the opening, most of the Short is distant figures walking slowly across flat ice, the same shot for about 15 seconds; no visible peril, and the 'helped him up the side' line plays over empty ice."
-    },
-    {
-      "short_id": "ccf-20261105-34",
-      "notes": "Only a capsized hull and two letterboxed HUD frames; the fisherman and his rescue are never on screen, so the payoff is told and not shown."
-    },
     {
       "short_id": "ccf-20261106-11",
       "notes": "The kids are never visible: 28 seconds of one distant helicopter hovering over a dark rock pile at dusk from the same high angle, letterboxed and grainy. Nothing on screen looks dangerous, and the source has no closer shot to fix it."
@@ -851,6 +839,8 @@
       "notes": "Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence."
     }
   ],
-  "config_changed_at": "2026-11-12T10:51:11Z",
-  "changed": []
+  "config_changed_at": "2026-11-13T10:45:55Z",
+  "changed": [
+    "query weights for 53 searches"
+  ]
 }
