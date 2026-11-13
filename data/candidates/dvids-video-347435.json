@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:347435",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 19 near Port Canaveral, Fla.",
+  "description": "Two MH-60 Jayhawk helicopter crews from Coast Guard Air Station Clearwater, Florida, rescue 19 crewmembers aboard a 584-foot cargo ship three miles off Port Canaveral, Florida, Tuesday, July 1, 2014. The crew aboard the cargo ship, JS Comet were suffering from food poisoning like symptoms deeming it necessary to medically evacuate them to a local hospital. U.S. Coast Guard video",
+  "keywords": "Coast Guard Air Station Clearwater, Port Canaveral, JS Comet, 19 sick crewmembers, medevac",
+  "date": "2014-07-01T00:00:00-04:00",
+  "date_published": "2014-07-01T21:05:23-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Petty Officer 1st Class Crystalynn Kneen",
+  "category": "B-Roll",
+  "virin": "140701-G-ZZ999-001",
+  "location": {
+    "city": "Port Canaveral",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/347435/coast-guard-rescues-19-near-port-canaveral-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-347435",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:40:47Z",
+  "duration": 50.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101782439/DOD_101782439.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8242,
+    "size": 52158233
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.71,
+    29.73,
+    41.14
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      50.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-347435.jpg",
+  "sheet_times": [
+    1.57,
+    4.7,
+    7.83,
+    10.96,
+    14.1,
+    17.23,
+    20.36,
+    23.5,
+    26.63,
+    29.76,
+    32.89,
+    36.03,
+    39.16,
+    42.29,
+    45.42,
+    48.56
+  ]
+}

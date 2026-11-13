@@ -1,0 +1,85 @@
+{
+  "asset_id": "video:96916",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3 from Galveston jetties",
+  "description": "HOUSTON — The Coast Guard rescued three individuals trapped on the jetties near Galveston Island Saturday.\n\nCoast Guard Sector Houston-Galveston watchstanders received a report from a good Samaritan at approximately 4:57 p.m., that a 19-foot white and blue pleasure craft capsized near the Galveston south jetties. The good Samaritan reported seeing three people swim to the jetties.\n\nThe Coast Guard Air Station Houston launched an MH-65 Dolphin helicopter and rescue crew at 5:38 p.m.  Once on scene, the crew successfully hoisted the three individuals off the jetties. They were transported to awaiting emergency medical services and were taken to the University of Texas Medical Branch in Galveston.\n\nTheir current condition is unknown, and the cause of the incident is under investigation.",
+  "keywords": "Galveston, MH-65, Coast Guard, SAR, rescue, Air Station Houston",
+  "date": "2010-10-02T00:00:00-04:00",
+  "date_published": "2010-10-03T01:24:14-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Texas",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "101002-G-5352G-001",
+  "location": {
+    "city": "Galveston",
+    "state": "Texas",
+    "country": "United States",
+    "state_abbreviation": "TX",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/96916/coast-guard-rescues-3-galveston-jetties",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-96916",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:39:54Z",
+  "duration": 245.02,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1010/DOD_100088060/DOD_100088060.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 171.63,
+      "e": 172.63,
+      "text": "take off and then..."
+    }
+  ],
+  "scene_cuts": [
+    17.02,
+    228.03
+  ],
+  "drama_score": 83,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      174.0,
+      204.7,
+      227.1
+    ],
+    "silence_ends": [
+      17.0,
+      204.2,
+      223.0,
+      245.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-96916.jpg",
+  "sheet_times": [
+    7.64,
+    22.92,
+    38.21,
+    53.49,
+    68.77,
+    84.05,
+    99.33,
+    114.62,
+    129.9,
+    145.18,
+    160.46,
+    175.75,
+    191.03,
+    206.31,
+    221.59,
+    236.87
+  ]
+}

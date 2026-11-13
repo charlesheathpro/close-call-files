@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:110327",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Four rescued from sailboat in Santa Barbara Harbor",
+  "description": "B-roll of the Coast Guard and Santa Barbara Harbor Patrol rescuing a family of four, including a six-month-old baby and a dog, after their sailboat broke free from its mooring in Santa Barbara, Calif., early Sunday. An MH-65 Dolphin rescue helicopter from Air Station Los Angeles, a 47-foot motor lifeboat from Station Channel Islands Harbor, and a boat from harbor patrol were all sent to help. A rescue swimmer was lowered from the helicopter onto the deck of the sailboat to check on the conditions of the two adults and two children. The family was safely transferred to the harbor patrol boat and brought ashore. No injuries were reported. Weather conditions at the time were winds gust of 30-40 knots with sea swells between six-eight feet.",
+  "keywords": "Air Station Los Angeles, Santa Barbara Harbor Patrol, Coast Guard, rescue",
+  "date": "2011-03-20T00:00:00-04:00",
+  "date_published": "2011-03-20T23:00:44-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Los Angeles",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "110320-G-7518E-001",
+  "location": {
+    "city": "San Pedro",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/110327/four-rescued-sailboat-santa-barbara-harbor",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-110327",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:40:10Z",
+  "duration": 145.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1103/DOD_100145298/DOD_100145298.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.97,
+    56.82,
+    65.17,
+    82.65,
+    113.88,
+    133.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      113.9,
+      144.6
+    ],
+    "silence_ends": [
+      56.8,
+      133.3,
+      145.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-110327.jpg",
+  "sheet_times": [
+    4.54,
+    13.62,
+    22.7,
+    31.78,
+    40.86,
+    49.94,
+    59.02,
+    68.1,
+    77.18,
+    86.26,
+    95.34,
+    104.42,
+    113.5,
+    122.58,
+    131.66,
+    140.74
+  ]
+}

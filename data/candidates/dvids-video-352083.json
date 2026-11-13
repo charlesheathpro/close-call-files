@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:352083",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 3 from adrift sailboat",
+  "description": "Coast Guard Station Niagara crew tows a 30-foot sailboat after the vessel's sail tore in high winds on Lake Ontario. The crew took three people off the boat before towing it back to the station.\r\n\r\nU.S. Coast Guard video by Petty Officer 1st Class Peter York",
+  "keywords": "sailboat, Coast Guard rescue, tow, Lake Ontario, Coast Guard Station Niagara, Coast Guard 9th District, search and rescue",
+  "date": "2014-07-28T00:00:00-04:00",
+  "date_published": "2014-07-28T14:47:12-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Great Lakes",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "140728-G-ZZ999-001",
+  "location": {
+    "city": "Lake Ontario",
+    "state": "New York",
+    "country": "United States",
+    "state_abbreviation": "NY",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/352083/coast-guard-rescues-3-adrift-sailboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.13747,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-352083",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:40:03Z",
+  "duration": 21.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1407/DOD_101836098/DOD_101836098-720x480-1587k.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 1587,
+    "size": 5630327
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.14
+  ],
+  "drama_score": 92,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-352083.jpg",
+  "sheet_times": [
+    4.67,
+    5.74,
+    6.81,
+    7.88,
+    8.95,
+    10.02,
+    11.09,
+    12.16,
+    13.23,
+    14.3,
+    15.37,
+    16.44,
+    17.51,
+    18.58,
+    19.65,
+    20.72
+  ]
+}

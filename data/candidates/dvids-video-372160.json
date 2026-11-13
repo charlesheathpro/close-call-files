@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:372160",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 2 Aboard Disabled Sailboat",
+  "description": "U.S. Coast Guard crews from Sector San Diego and Station San Diego worked together to rescue two people from a disabled sailboat approximately 1.5 miles south of Point Loma, Nov. 4, 2014. The people aboard the sailboat signaled to an MH-60 Jayhawk helicopter crew who were in the area on a training flight and a 45-foot Response Boat crew was called in to tow the boat to safety. U.S. Coast Guard video by Sector San Diego.",
+  "keywords": "Jayhawk, sailboat, Station San Diego, rescue, San Diego",
+  "date": "2014-11-04T00:00:00-05:00",
+  "date_published": "2014-11-05T15:06:58-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET San Diego",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "141104-G-ZZ999-001",
+  "location": {
+    "city": "San Diego",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/372160/coast-guard-rescues-2-aboard-disabled-sailboat",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-372160",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:40:16Z",
+  "duration": 77.44,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1411/DOD_102070711/DOD_102070711.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8186,
+    "size": 79332498
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    23.19,
+    47.41,
+    74.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-372160.jpg",
+  "sheet_times": [
+    6.3,
+    10.86,
+    15.42,
+    19.98,
+    24.53,
+    29.09,
+    33.65,
+    38.21,
+    42.76,
+    47.32,
+    51.88,
+    56.44,
+    60.99,
+    65.55,
+    70.11,
+    74.67
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:453144",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 2 Fishermen After Boat Sinks",
+  "description": "A 45-foot Response Boat-Medium boatcrew from Coast Guard Station Cortez, Florida, rescues two fishermen in a life raft after their 37-foot commercial fishing boat sinks, 51 miles northwest of Boca Grande, Florida, Monday, March 7, 2016. The St. Petersburg, Florida, fishermen utilized an EPIRB, strobe light and flares to signal rescue crews to their location. (U.S. Coast Guard video)",
+  "keywords": "Clearwater, Flares, EPIRB, station cortez, Boca Grande, strobe light, Coast Guard, Florida, rescue, USCG, emergency",
+  "date": "2016-03-07T00:00:00-05:00",
+  "date_published": "2016-03-07T12:20:29-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Tampa Bay",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160307-G-ZZ999-801",
+  "location": {
+    "city": "Cortez",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/453144/coast-guard-rescues-2-fishermen-after-boat-sinks",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.1588,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-453144",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:40:59Z",
+  "duration": 59.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103102773/DOD_103102773.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5906,
+    "size": 43916311
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.78,
+      "e": 7.78,
+      "text": "Second"
+    }
+  ],
+  "scene_cuts": [
+    11.71,
+    19.42,
+    23.16,
+    29.63,
+    36.84
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      11.8,
+      21.3,
+      34.4
+    ],
+    "silence_ends": [
+      4.4,
+      19.7,
+      30.1,
+      59.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-453144.jpg",
+  "sheet_times": [
+    5.86,
+    9.28,
+    12.69,
+    16.1,
+    19.51,
+    22.92,
+    26.33,
+    29.74,
+    33.16,
+    36.57,
+    39.98,
+    43.39,
+    46.8,
+    50.21,
+    53.62,
+    57.04
+  ]
+}

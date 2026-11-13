@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:75049",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Coordinates Rescue of 3 People East of Bermuda",
+  "description": "B-roll of Coast Guard Air Station Elizabeth City coordinating the rescue of 3 people from their boat near Bermuda. Scenes include the Coast Guard rescuing people from  the small boat alongside the large Coast Guard rescue ship. Video by Petty Officer Andrew Kendrick.",
+  "keywords": "Coast Guard rescue, Bermuda, Coast Guard Air Station Elizabeth City, Eliabeth City",
+  "date": "2009-12-13T00:00:00-05:00",
+  "date_published": "2009-12-14T15:16:49-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Elizabeth City",
+    "state": "",
+    "country": "Bermuda",
+    "state_abbreviation": null,
+    "country_abbreviation": "BM"
+  },
+  "page_url": "https://www.dvidshub.net/video/75049/coast-guard-coordinates-rescue-3-people-east-bermuda",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.3043,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-75049",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:41:28Z",
+  "duration": 85.78,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0912/DOD_100059587/DOD_100059587.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3,
+    36.17,
+    57.69,
+    57.89,
+    58.22,
+    71.47,
+    85.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      85.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-75049.jpg",
+  "sheet_times": [
+    6.83,
+    11.9,
+    16.96,
+    22.02,
+    27.08,
+    32.14,
+    37.2,
+    42.26,
+    47.32,
+    52.38,
+    57.44,
+    62.5,
+    67.56,
+    72.62,
+    77.68,
+    82.75
+  ]
+}

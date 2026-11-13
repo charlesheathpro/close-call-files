@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:806145",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 5 from Otter Island, SC",
+  "description": "A Coast Guard MH-65 Dolphin helicopter rescue crew from Air Station Savannah, Georgia, hoists five women from Otter Island, South Carolina, Wednesday, July 7, 2021. The women were transported to Charleston Executive Airport with no medical concerns. Video courtesy of Air Station Savannah",
+  "keywords": "hoist, CoastGuardNewsWire, rescue, dolphin",
+  "date": "2021-07-07T00:00:00-04:00",
+  "date_published": "2021-07-08T11:13:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Petty Officer 1st Class David Micallef",
+  "category": "B-Roll",
+  "virin": "210707-G-GG010-561",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/806145/coast-guard-rescues-5-otter-island-sc",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-806145",
+  "status": "new",
+  "harvested_at": "2026-11-13T17:41:33Z",
+  "duration": 99.35,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108441776/DOD_108441776.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 10073,
+    "size": 126768051
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    78.61
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      99.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-806145.jpg",
+  "sheet_times": [
+    3.09,
+    9.27,
+    15.45,
+    21.62,
+    27.8,
+    33.98,
+    40.16,
+    46.34,
+    52.51,
+    58.69,
+    64.87,
+    71.05,
+    77.23,
+    83.4,
+    89.58,
+    95.76
+  ]
+}
