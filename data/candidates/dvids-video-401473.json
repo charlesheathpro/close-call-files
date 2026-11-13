@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-401473",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:47:00Z",
   "duration": 49.88,
   "source_file": {
@@ -70,5 +70,6 @@
     42.29,
     45.13,
     47.96
-  ]
+  ],
+  "pass_reason": "grainy FLIR and door-cam of a man in the water; murky"
 }

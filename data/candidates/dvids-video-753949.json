@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-753949",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:49:45Z",
   "duration": 63.99,
   "source_file": {
@@ -66,5 +66,6 @@
     53.57,
     57.54,
     61.51
-  ]
+  ],
+  "pass_reason": "night door-cam blown out to white"
 }

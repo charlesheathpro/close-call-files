@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-283348",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:52:52Z",
   "duration": 387.09,
   "source_file": {
@@ -73,5 +73,6 @@
     326.19,
     350.35,
     374.51
-  ]
+  ],
+  "pass_reason": "cabin cam and distant door-cam"
 }

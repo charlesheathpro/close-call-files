@@ -26,7 +26,7 @@
   "time_start": 4.1588,
   "aspect_ratio": "4:3",
   "id": "dvids-video-453144",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:40:59Z",
   "duration": 59.24,
   "source_file": {
@@ -84,5 +84,6 @@
     50.21,
     53.62,
     57.04
-  ]
+  ],
+  "pass_reason": "text cards plus grainy FLIR; sinking barely readable"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-159583",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:53:24Z",
   "duration": 690.69,
   "source_file": {
@@ -1021,5 +1021,6 @@
     582.35,
     625.48,
     668.62
-  ]
+  ],
+  "pass_reason": "HMS Bounty duplicate: heavy color-noise door-cam, survivors are specks"
 }

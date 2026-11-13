@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-317801",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:47:41Z",
   "duration": 690.82,
   "source_file": {
@@ -896,5 +896,6 @@
     582.45,
     625.6,
     668.74
-  ]
+  ],
+  "pass_reason": "HMS Bounty: heavy color-noise door-cam with survivors as specks; two crew lost"
 }

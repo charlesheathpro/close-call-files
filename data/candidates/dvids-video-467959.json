@@ -26,7 +26,7 @@
   "time_start": 4.0587,
   "aspect_ratio": "4:3",
   "id": "dvids-video-467959",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:42:42Z",
   "duration": 108.63,
   "source_file": {
@@ -78,5 +78,6 @@
     91.87,
     98.37,
     104.88
-  ]
+  ],
+  "pass_reason": "half the runtime is grainy grayscale sensor footage with burned-in timestamps"
 }

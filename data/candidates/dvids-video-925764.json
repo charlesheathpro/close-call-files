@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-925764",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:51:02Z",
   "duration": 27.47,
   "source_file": {
@@ -66,5 +66,6 @@
     22.75,
     24.44,
     26.12
-  ]
+  ],
+  "pass_reason": "helicopter far away over calm water"
 }

@@ -26,7 +26,7 @@
   "time_start": 5.7057,
   "aspect_ratio": "16:9",
   "id": "dvids-video-508057",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:41:38Z",
   "duration": 24.99,
   "source_file": {
@@ -64,5 +64,6 @@
     21.56,
     22.73,
     23.9
-  ]
+  ],
+  "pass_reason": "19 s of distant ship footage, no rescue on screen"
 }

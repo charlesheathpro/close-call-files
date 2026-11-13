@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-282121",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:42:18Z",
   "duration": 30.14,
   "source_file": {
@@ -71,5 +71,6 @@
     25.01,
     26.86,
     28.72
-  ]
+  ],
+  "pass_reason": "grayscale FLIR, 30 s"
 }

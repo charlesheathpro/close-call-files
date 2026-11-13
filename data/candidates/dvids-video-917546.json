@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-917546",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:49:50Z",
   "duration": 572.07,
   "source_file": {
@@ -66,5 +66,6 @@
     482.26,
     517.99,
     553.71
-  ]
+  ],
+  "pass_reason": "night door-cam"
 }

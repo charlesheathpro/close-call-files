@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-347282",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:44:50Z",
   "duration": 173.55,
   "source_file": {
@@ -69,5 +69,6 @@
     146.01,
     156.82,
     167.64
-  ]
+  ],
+  "pass_reason": "camera tracking jumps and the men drift off a vertical crop in half the shots; purple-tinted sensor"
 }

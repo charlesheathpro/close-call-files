@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-94670",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:46:31Z",
   "duration": 246.77,
   "source_file": {
@@ -613,5 +613,6 @@
     207.79,
     223.18,
     238.57
-  ]
+  ],
+  "pass_reason": "night footage, nearly black"
 }

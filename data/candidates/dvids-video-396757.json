@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-396757",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:43:05Z",
   "duration": 38.81,
   "source_file": {
@@ -68,5 +68,6 @@
     32.95,
     35.09,
     37.23
-  ]
+  ],
+  "pass_reason": "duplicate of dvids-video-396880 (same tall ship rescue), used as ccf-20261113-03"
 }

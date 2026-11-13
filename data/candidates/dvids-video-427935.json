@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-427935",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:50:40Z",
   "duration": 57.21,
   "source_file": {
@@ -69,5 +69,6 @@
     47.85,
     51.4,
     54.94
-  ]
+  ],
+  "pass_reason": "grayscale sensor footage of a dismasted sailboat; music under Creative Commons"
 }
