@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1010590",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:47:02Z",
   "duration": 215.05,
   "source_file": {
@@ -423,5 +423,6 @@
     181.03,
     194.43,
     207.84
-  ]
+  ],
+  "pass_reason": "interview about MRE deliveries for the Thailand cave rescue; no rescue footage"
 }

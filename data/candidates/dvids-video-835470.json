@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "Injured Hiker Rescued by Air and Marine Operations from Arizona Mountains",
-  "description": "CBP’s Air and Marine Operations (AMO) extracted a hiker suffering from injuries sustained in a fall, high in the Huachucha Mountains of Arizona on March 16, 2022. Agents packaged the hiker in an air rescue vest, hoisted her into the helicopter, and transferred her to Cochise County Search and Rescue personnel.",
+  "description": "CBP\u2019s Air and Marine Operations (AMO) extracted a hiker suffering from injuries sustained in a fall, high in the Huachucha Mountains of Arizona on March 16, 2022. Agents packaged the hiker in an air rescue vest, hoisted her into the helicopter, and transferred her to Cochise County Search and Rescue personnel.",
   "keywords": "CBP, Air and Marine, U.S. Customs and Border Protection, CBPSAR",
   "date": "2022-03-16T00:00:00-04:00",
   "date_published": "2022-03-21T16:39:25-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-835470",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:56:56Z",
   "duration": 59.09,
   "source_file": {
@@ -109,5 +109,6 @@
     49.44,
     53.1,
     56.76
-  ]
+  ],
+  "pass_reason": "burned-in caption text over most frames, blurred faces, and medical care scenes at the end"
 }
