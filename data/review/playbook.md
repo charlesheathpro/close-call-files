@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-13T10:45:55Z from 114 Shorts older than 48 hours)
+# Playbook (computed 2026-11-13T15:39:16Z from 116 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
-- story: launch abort test (+0.4, 1 Shorts)
-- story: runaway boat with no one aboard (+0.4, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.46, 1 Shorts)
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
-- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.38, 1 Shorts)
-- story: splashdown recovery (+0.38, 1 Shorts)
-- story: capsized boat, people in the water (+0.36, 1 Shorts)
+- story: launch abort test (+0.38, 1 Shorts)
+- story: runaway boat with no one aboard (+0.38, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
+- story: splashdown recovery (+0.37, 1 Shorts)
+- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.36, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
 
 ## Do less of
-- lane: hazards (-0.56, 4 Shorts)
-- story: security camera catches a tornado strike (-0.51, 1 Shorts)
-- story: historic rocket test stand implosion (-0.5, 1 Shorts)
-- story: dog hoist from sinking boat (-0.5, 1 Shorts)
-- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.42, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.42, 1 Shorts)
-- music: hazards (-0.37, 4 Shorts)
-- story: attic flood hoist (-0.34, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.62, 1 Shorts)
+- lane: hazards (-0.52, 4 Shorts)
+- story: dog hoist from sinking boat (-0.49, 1 Shorts)
+- story: security camera catches a tornado strike (-0.47, 1 Shorts)
+- story: historic rocket test stand implosion (-0.47, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.41, 1 Shorts)
+- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.39, 1 Shorts)
+- story: stranded man's signal fire spreads, hoist through the smoke (-0.36, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 44508 views, 82% watched
-- Runaway boat circling with no one aboard: 9057 views, 98% watched
-- 17-year-old adrift at night, no paddle: 43445 views, 72% watched
+- Flipped hull 11 miles out, 3 men on top: 44554 views, 82% watched
+- 17-year-old adrift at night, no paddle: 43774 views, 72% watched
+- Runaway boat circling with no one aboard: 9058 views, 98% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
-- Five abandon a sinking fishing boat: 12463 views, 89% watched
+- Five abandon a sinking fishing boat: 12497 views, 89% watched
 
 ## Weakest Shorts
 - Clinging to a flipped boat 12 miles out: 31 views, 67% watched
-- Hurricane Ike rescue from the waves: 131 views, 41% watched
-- Dog hoisted from a sinking catamaran: 10 views, 73% watched
+- Security camera caught a tornado hit: 124 views, 28% watched
 - Saturn V test tower comes down: 44 views, 48% watched
-- Security camera caught a tornado hit: 119 views, 28% watched
+- Dog hoisted from a sinking catamaran: 10 views, 73% watched
+- Florence: 67 people, 12 pets in one day: 122 views, 0% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261106-11: The kids are never visible: 28 seconds of one distant helicopter hovering over a dark rock pile at dusk from the same high angle, letterboxed and grainy. Nothing on screen looks dangerous, and the source has no closer shot to fix it.
@@ -47,6 +47,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
-
-## Changed tonight
-- query weights for 53 searches
