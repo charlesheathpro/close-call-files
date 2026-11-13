@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-79483",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:53:21Z",
   "duration": 256.73,
   "source_file": {
@@ -279,5 +279,6 @@
     216.82,
     232.58,
     248.35
-  ]
+  ],
+  "pass_reason": "door-cam litter hoist against a ship hull, routine medevac"
 }

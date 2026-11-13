@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314583",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:44:58Z",
   "duration": 125.16,
   "source_file": {
@@ -68,5 +68,6 @@
     105.18,
     112.97,
     120.76
-  ]
+  ],
+  "pass_reason": "door-cam litter hoist, calm, medical"
 }

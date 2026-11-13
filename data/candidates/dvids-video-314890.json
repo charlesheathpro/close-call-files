@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314890",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:52:12Z",
   "duration": 98.5,
   "source_file": {
@@ -253,5 +253,6 @@
     82.69,
     88.81,
     94.94
-  ]
+  ],
+  "pass_reason": "Alaskan Leader door-cam: washed-out fisheye view of the deck, routine hoist"
 }

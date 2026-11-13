@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-743028",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:31:56Z",
   "duration": 102.07,
   "source_file": {
@@ -440,5 +440,6 @@
     85.7,
     92.05,
     98.39
-  ]
+  ],
+  "pass_reason": "top-down door-cam routine hoist, calm"
 }
