@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261108-03",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-67539",
  "lane": "rescue",
  "story_type": "burning fishing boat, two men in a life raft, cutter small boat pickup",
@@ -10,7 +10,7 @@
  "narration": [
   "Their fishing boat was burning ten miles off Washington, and the two men aboard were in a life raft.",
   "The sixty foot Portlock had caught fire off Long Beach.",
-  "Before abandoning ship into the raft, they radioed their position to the Coast Guard.",
+  "One of them called the Coast Guard from aboard the Portlock, and both men got off into the raft.",
   "A canister life raft inflates itself in seconds when its line is pulled, so a crew can get clear of a fire fast.",
   "The Cutter Active arrived and launched a small boat crew to the raft.",
   "They pulled both men out and brought them away from the fire.",
@@ -41,7 +41,7 @@
    "source_quote": "Coast Guard crews responded to a boat fire approximately 10 miles from the coast of Long Beach, Wash.,"
   },
   {
-   "claim": "Call from a crewman aboard the 60-foot fishing vessel Portlock",
+   "claim": "A crewman aboard the Portlock called the Coast Guard",
    "source_quote": "Coast Guard Group/Air Station Astoria received a call at 4 p.m. from a crewman aboard the 60-foot fishing vessel Portlock"
   },
   {
@@ -100,10 +100,10 @@
     "crop_x": 0.6
    },
    {
-    "start": 5.0,
-    "end": 7.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 9.0,
+    "end": 11.5,
+    "layout": "crop",
+    "crop_x": 1.0
    }
   ],
   [
@@ -114,24 +114,30 @@
     "crop_x": 0.5
    },
    {
-    "start": 9.0,
-    "end": 11.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 5.0,
+    "end": 7.5,
+    "layout": "crop",
+    "crop_x": 0.0
    }
   ],
   [
    {
-    "start": 12.0,
-    "end": 14.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 11.6,
+    "end": 14.0,
+    "layout": "crop",
+    "crop_x": 0.0
+   },
+   {
+    "start": 14.0,
+    "end": 16.3,
+    "layout": "crop",
+    "crop_x": 1.0
    },
    {
     "start": 17.0,
     "end": 19.4,
     "layout": "crop",
-    "crop_x": 0.15
+    "crop_x": 0.05
    }
   ],
   [
@@ -151,7 +157,7 @@
     "start": 58.5,
     "end": 61.0,
     "layout": "crop",
-    "crop_x": 0.6
+    "crop_x": 0.5
    }
   ],
   [
@@ -171,7 +177,7 @@
     "start": 70.5,
     "end": 73.0,
     "layout": "crop",
-    "crop_x": 0.25
+    "crop_x": 0.1
    }
   ],
   [
@@ -215,5 +221,5 @@
    }
   ]
  ],
- "preview_ok": "L6 is the cutter's orange small boat on open grey water; the boat and crew are in frame in every sampled frame, EMPTY misfires on the uniform sea."
+ "preview_ok": "QA rev 2: letterboxed wides on lines 2 to 4 replaced with crops on the raft and the burning boat; L5 keeps one wide establishing shot (cutter, raft, boat). Remaining EMPTY warnings are misfires on uniform sea with the red raft or orange small boat plainly in frame."
 }
