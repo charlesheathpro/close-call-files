@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261113-01",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-449390",
   "lane": "rescue",
   "story_type": "cargo ship slamming into heavy seas far offshore, helicopter hoists two hurt crewmen",
@@ -10,9 +10,9 @@
   "narration": [
     "This seven hundred and twenty-eight foot cargo ship was burying its bow in nineteen foot seas.",
     "Two hundred and twenty miles southeast of Kodiak, Alaska, two of its crewmen had been hurt in falls during the heavy weather.",
-    "That was too far out to wait. The ship turned toward Kodiak Island to close the distance.",
-    "A Jayhawk helicopter and a Hercules plane launched from Kodiak to meet it.",
-    "A loaded cargo ship cannot stop for a hoist. The pilot flies alongside at the same speed while the hoist operator watches the deck rise and fall.",
+    "The ship turned toward Kodiak Island to close the distance.",
+    "A Jayhawk helicopter crew from Air Station Kodiak flew out to meet it.",
+    "For a hoist, the ship holds a steady course while the pilot matches its speed and the hoist operator times each lift to the rolling deck.",
     "[short pause] And the whole time, the bow kept plowing into the seas."
   ],
   "outcome": "The Jayhawk crew hoisted both men off the ship and flew them back to Kodiak.",
@@ -38,7 +38,7 @@
   "question_comment": "Would you work on a ship that takes waves like that?",
   "facts": [
     {
-      "claim": "Jayhawk from Kodiak, two injured crewmen, 728-foot Cemtex Venture, 220 miles southeast of Kodiak, Feb. 9, 2016",
+      "claim": "Air Station Kodiak MH-60 Jayhawk crew, two injured crewmen, 728-foot Cemtex Venture, 220 miles southeast of Kodiak, Feb. 9, 2016",
       "source_quote": "A Coast Guard Air Station Kodiak, Alaska, MH-60 Jayhawk helicopter aircrew medevacs two injured crewmen from the 728-foot cargo ship Cemtex Venture approximately 220 miles southeast of Kodiak, Feb. 9, 2016."
     },
     {
@@ -61,11 +61,15 @@
   "visible_facts": [
     {
       "claim": "Bow buries into a breaking sea",
-      "seen_at": "source 76 to 81 s and 93 to 97 s"
+      "seen_at": "source 76 to 87 s and 93 to 97 s"
     },
     {
       "claim": "Jayhawk flying low alongside the ship",
       "seen_at": "source 36 to 72 s"
+    },
+    {
+      "claim": "Ship swings through heavy seas with spray around the hull",
+      "seen_at": "source 66 to 75 s"
     }
   ],
   "extra_sources": [
@@ -129,12 +133,6 @@
         "end": 68.5,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 69.0,
-        "end": 71.5,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ],
     [
@@ -165,28 +163,22 @@
         "crop_x": 0.55
       },
       {
-        "start": 54.0,
-        "end": 56.5,
+        "start": 69.0,
+        "end": 71.5,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 57.5,
-        "end": 60.0,
+        "start": 72.0,
+        "end": 74.5,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 86.5,
-        "end": 89.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 89.0,
-        "end": 91.5,
+        "start": 83.6,
+        "end": 87.4,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -199,12 +191,12 @@
         "crop_x": 0.6
       },
       {
-        "start": 73.0,
-        "end": 75.8,
+        "start": 89.0,
+        "end": 91.5,
         "layout": "crop",
         "crop_x": 0.5
       }
     ]
   ],
-  "preview_ok": "Checked every flagged frame: L1 shots show the wave breaking over the bow and L6 shots show the ship's hull and the Jayhawk alongside; the EMPTY flag misfires on the grey low-contrast sea and spray."
+  "preview_ok": "QA rev 2: unsourced Hercules line removed, hoist explanation made accurate, bow-plowing line now over the bow burying into spray (83.6 to 87.4 s), helicopter-over-water stretch broken up with the ship swinging through spray."
 }
