@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261112-03",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-516425",
   "lane": "aviation_naval",
   "story_type": "historic bomber launch from a carrier in heavy seas, deck crashes",
@@ -11,7 +11,6 @@
     "It was April eighteenth, nineteen forty two, and the target was Japan.",
     "At seven thirty eight that morning, a Japanese patrol boat spotted the ships.",
     "The Hornet was still about six hundred fifty nautical miles from Japan, so the bombers had to launch early.",
-    "Carriers steam into the wind for a launch, so air is already rushing over the deck before a plane starts rolling.",
     "The lead bomber had just four hundred sixty seven feet to get airborne.",
     "And the flight deck pitched and rolled in the Pacific swells.",
     "The same Navy film shows what a moving deck could do. A fighter nosed over on landing.",
@@ -27,15 +26,15 @@
     [
       {
         "start": 146.5,
-        "end": 149.5,
+        "end": 149.8,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 152.0,
-        "end": 154.0,
+        "start": 170.6,
+        "end": 173.2,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       }
     ],
     [
@@ -82,8 +81,8 @@
     ],
     [
       {
-        "start": 74.0,
-        "end": 77.5,
+        "start": 77.5,
+        "end": 81.0,
         "layout": "crop",
         "crop_x": 0.45
       },
@@ -96,61 +95,35 @@
     ],
     [
       {
-        "start": 77.5,
-        "end": 81.0,
+        "start": 152.0,
+        "end": 155.6,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 154.0,
-        "end": 157.0,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 157.0,
-        "end": 160.5,
+        "start": 198.5,
+        "end": 201.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 125.0,
-        "end": 128.0,
-        "layout": "crop",
-        "crop_x": 0.12
-      }
-    ],
-    [
-      {
-        "start": 199.0,
-        "end": 201.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 191.0,
-        "end": 193.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 196.0,
-        "end": 198.3,
+        "start": 190.2,
+        "end": 194.0,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 240.0,
-        "end": 242.6,
+        "start": 243.8,
+        "end": 247.6,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       },
       {
-        "start": 248.8,
+        "start": 249.5,
         "end": 251.6,
         "layout": "fit",
         "crop_x": 0.5
@@ -164,19 +137,18 @@
         "crop_x": 0.6
       },
       {
-        "start": 170.6,
-        "end": 173.5,
+        "start": 125.0,
+        "end": 128.0,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.12
       }
     ],
     [
       {
-        "start": 173.5,
-        "end": 177.0,
+        "start": 173.2,
+        "end": 178.0,
         "layout": "crop",
-        "crop_x": 0.5,
-        "speed": 0.85
+        "crop_x": 0.5
       }
     ]
   ],
@@ -263,5 +235,5 @@
     }
   ],
   "priority": 3,
-  "preview_ok": "EMPTY flags on L10 shot 2 and the outcome shot are the B-25 bomber flying across a pale overcast sky; checked the preview and the plane fills the middle of every crop."
+  "preview_ok": "EMPTY flags on L1 shot 2 and OUT are the B-25 crossing a pale overcast sky with the plane centred in every crop; DARK on L8 shot 1 is the crashed SBD in the catwalk, clearly visible in the preview."
 }
