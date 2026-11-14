@@ -155,5 +155,7 @@
       }
     ]
   ],
-  "preview_pending": "Editor could not run preview_shots: Wikimedia returned HTTP 429 for the source file all run. Shots were picked from the 16-frame candidate sheet, with fit layout where the subject position was uncertain. QA: check the render sheet for empty or cut-off shots."
+  "preview_pending": "Editor could not run preview_shots: Wikimedia returned HTTP 429 for the source file all run. Shots were picked from the 16-frame candidate sheet, with fit layout where the subject position was uncertain. QA: check the render sheet for empty or cut-off shots.",
+  "status": "dropped",
+  "drop_reason": "Monotonous steady refueling footage with no visible danger or turn; cannot reach the viral bar by re-cutting."
 }

@@ -63,7 +63,7 @@
   "extra_sources": [
     {
       "url": "https://science.nasa.gov/blogs/goes/2022/03/01/goes-t-separates-from-spacecraft-continues-on-journey-to-save-lives",
-      "excerpt": "Following completion of a third planned start and then cutoff of the United Launch Alliance Atlas V 541 Centaur main engine, the National Oceanic and Atmospheric Administration’s (NOAA) Geostationary Operational Environmental Satellite-T (GOES-T) satellite separated from the spacecraft and is continuing on its journey to help meteorologists observe and predict local weather events, including thunderstorms, tornadoes, fog, hurricanes, flash floods and other severe weather. In addition, GOES observations have proven helpful in monitoring dust storms, volcanic eruptions, and forest fires."
+      "excerpt": "Following completion of a third planned start and then cutoff of the United Launch Alliance Atlas V 541 Centaur main engine, the National Oceanic and Atmospheric Administration\u2019s (NOAA) Geostationary Operational Environmental Satellite-T (GOES-T) satellite separated from the spacecraft and is continuing on its journey to help meteorologists observe and predict local weather events, including thunderstorms, tornadoes, fog, hurricanes, flash floods and other severe weather. In addition, GOES observations have proven helpful in monitoring dust storms, volcanic eruptions, and forest fires."
     }
   ],
   "visible_facts": [
@@ -198,5 +198,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "Near duplicate of ccf-20261114-33 (Atlas V rocket cam, booster separation over Earth); rocket stories saturated in the queue."
 }

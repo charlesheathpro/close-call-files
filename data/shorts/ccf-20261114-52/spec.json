@@ -38,7 +38,7 @@
   "facts": [
     {
       "claim": "First time NASA astronauts launched from American soil in a commercially built spacecraft; Behnken and Hurley, 3:22 p.m. May 30 from LC-39A at Kennedy",
-      "source_quote": "For the first time in history, NASA astronauts have launched from American soil in a commercially built and operated American crew spacecraft on its way to the International Space Station. The SpaceX Crew Dragon spacecraft carrying NASA astronauts Robert Behnken and Douglas Hurley lifted off at 3:22 p.m. EDT, May 30th on the company’s Falcon 9 rocket from Launch Complex 39A at NASA’s Kennedy Space Center in Florida."
+      "source_quote": "For the first time in history, NASA astronauts have launched from American soil in a commercially built and operated American crew spacecraft on its way to the International Space Station. The SpaceX Crew Dragon spacecraft carrying NASA astronauts Robert Behnken and Douglas Hurley lifted off at 3:22 p.m. EDT, May 30th on the company\u2019s Falcon 9 rocket from Launch Complex 39A at NASA\u2019s Kennedy Space Center in Florida."
     },
     {
       "claim": "Supersonic",
@@ -68,7 +68,7 @@
     }
   ],
   "short_id": "ccf-20261114-52",
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -135,13 +135,15 @@
         "start": 172.0,
         "end": 174.4,
         "layout": "crop",
-        "crop_x": 0.84
+        "crop_x": 0.807,
+        "zoom": 1.5
       },
       {
         "start": 176.0,
         "end": 178.4,
         "layout": "crop",
-        "crop_x": 0.84
+        "crop_x": 0.807,
+        "zoom": 1.5
       }
     ],
     [
@@ -149,19 +151,22 @@
         "start": 335.0,
         "end": 337.4,
         "layout": "crop",
-        "crop_x": 0.84
+        "crop_x": 0.807,
+        "zoom": 1.5
+      },
+      {
+        "start": 452.0,
+        "end": 454.4,
+        "layout": "crop",
+        "crop_x": 0.807,
+        "zoom": 1.5
       },
       {
         "start": 500.0,
         "end": 502.4,
         "layout": "crop",
-        "crop_x": 0.84
-      },
-      {
-        "start": 192.0,
-        "end": 194.4,
-        "layout": "crop",
-        "crop_x": 0.02
+        "crop_x": 0.807,
+        "zoom": 1.5
       }
     ],
     [
@@ -175,13 +180,15 @@
         "start": 589.0,
         "end": 591.4,
         "layout": "crop",
-        "crop_x": 0.13
+        "crop_x": 0.193,
+        "zoom": 1.5
       },
       {
         "start": 594.0,
         "end": 596.4,
         "layout": "crop",
-        "crop_x": 0.13
+        "crop_x": 0.193,
+        "zoom": 1.5
       }
     ],
     [
@@ -189,13 +196,15 @@
         "start": 690.0,
         "end": 692.4,
         "layout": "crop",
-        "crop_x": 0.84
+        "crop_x": 0.807,
+        "zoom": 1.5
       },
       {
         "start": 692.4,
         "end": 694.8,
         "layout": "crop",
-        "crop_x": 0.84
+        "crop_x": 0.807,
+        "zoom": 1.5
       }
     ],
     [
@@ -203,13 +212,15 @@
         "start": 750.0,
         "end": 752.4,
         "layout": "crop",
-        "crop_x": 0.72
+        "crop_x": 0.58,
+        "zoom": 1.3
       },
       {
         "start": 753.0,
         "end": 755.4,
         "layout": "crop",
-        "crop_x": 0.72
+        "crop_x": 0.58,
+        "zoom": 1.3
       },
       {
         "start": 9.6,

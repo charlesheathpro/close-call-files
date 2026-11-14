@@ -13,7 +13,7 @@
     "[short pause] Wheels up came at seven twenty-two in the morning.",
     "Then the pair began a twenty-minute farewell flyover of Florida's Space Coast."
   ],
-  "outcome": "Endeavour landed at Los Angeles International Airport, bound for public display at the California Science Center.",
+  "outcome": "Endeavour flew on toward Los Angeles, where the retired shuttle would go on display.",
   "location_card": {
     "place": "Kennedy Space Center, Florida",
     "date": "Sept. 19, 2012"
@@ -51,8 +51,8 @@
       "source_quote": "flyover of the Space Coast area."
     },
     {
-      "claim": "Outcome: landed at LAX for display at the California Science Center",
-      "source_quote": "where it will go on display."
+      "claim": "Outcome: flew on to begin delivery to Los Angeles, where it will go on display",
+      "source_quote": "to begin the first leg of a mission to deliver the retired shuttle to Los Angeles where it will go on display"
     }
   ],
   "extra_sources": [
@@ -62,7 +62,7 @@
     }
   ],
   "short_id": "ccf-20261114-57",
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -147,41 +147,48 @@
       {
         "start": 58.8,
         "end": 61.2,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.6
       },
       {
         "start": 63.0,
         "end": 65.4,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.57
       }
     ],
     [
       {
         "start": 70.0,
         "end": 72.4,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
         "start": 77.0,
         "end": 79.4,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
         "start": 83.0,
         "end": 85.4,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
       {
         "start": 89.0,
         "end": 91.4,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
         "start": 94.5,
         "end": 96.9,
-        "layout": "fit"
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
         "start": 43.6,
