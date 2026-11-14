@@ -1,16 +1,21 @@
 {
-  "at": "2026-11-14T07:16:00Z",
-  "healthy": false,
-  "numbers_at_start": {"uploaded": 129, "dropped": 48, "needs_qa": 13, "scheduled_48h": 5},
-  "numbers_at_end": {"uploaded": 135, "dropped": 49, "passed": 16, "scheduled_nov14_ET": 10, "scheduled_nov15_ET": 1},
-  "found": [
-    "buffer thin: 5 scheduled in the next 48 h and 0 passed; 13 Shorts waiting for QA",
-    "upload ran 05:37Z and 06:22Z, harvest 17:57Z Nov 13 (dvids_blocked), stats landed Nov 13; no build error repeated; last upload_error alert Nov 8"
-  ],
-  "fixed": [
-    "QA passed 13 of 13 waiting (11-13-02 and 11-14-06 fixed to rev 2 in this run)",
-    "editor pass in this run: 10 new specs, 9 built and passed, ccf-20261114-41 dropped after two failed builds",
-    "harvest restarted in archive mode (ran 06:51Z); upload triggered twice"
-  ],
-  "supply": "rescue, explosion and ship pools are nearly exhausted among new candidates; NASA pool mostly RS-25 tests, rollouts and briefings. Next harvest should target EOD/detonation, heavy seas, splashdowns, parachute and drop tests."
+ "at": "2026-11-14T10:27:52Z",
+ "healthy": false,
+ "numbers": {
+  "dropped": 53,
+  "uploaded": 135,
+  "passed": 20,
+  "scheduled_by_day_MT": {
+   "2026-11-14": 10,
+   "2026-11-15": 1
+  }
+ },
+ "found": [
+  "YouTube uploadLimitExceeded since 06:22Z (10 uploads in 24 h); limit lifts 16:51Z, upload.yml runs every 3 h and will resume on its own",
+  "Nov 15 has 1 scheduled; 20 passed Shorts waiting cover Nov 15 and most of Nov 16 once the limit lifts",
+  "harvest 06:57Z found 0 new candidates (dvids_blocked) but 3,022 unreviewed candidates remain; no repeated build error; no auth alert"
+ ],
+ "fixed": [
+  "QA: passed 4 (51, 58, 52 r2, 57 r2), dropped 4 (53, 54, 55, 56)"
+ ]
 }
