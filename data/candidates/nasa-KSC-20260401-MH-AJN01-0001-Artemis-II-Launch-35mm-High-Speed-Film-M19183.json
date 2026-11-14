@@ -4,8 +4,8 @@
   "lane": "aviation_naval",
   "matched_query": "launch",
   "title": "Artemis II Launch - 35mm High Speed Film",
-  "description": "NASA’s SLS (Space Launch System) rocket with the Orion spacecraft carrying Artemis II Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, along with Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency), lifts off at 6:35 p.m. EDT on Wednesday, April 1, 2026, from Launch Complex 39B at NASA Kennedy. The Artemis II test flight will take the crew members on a 10-day journey around the Moon and back.",
-  "keywords": "John. F. Kennedy Space Center,  Kennedy, Kennedy Space Center, KSC, Spaceport, Cape Canaveral, NASA, rocket ranch, Florida, multi-user spaceport, premier spaceport, space coast, cape, Artemis II, Artemis, Orion, SLS, Space Launch System, EGS, Exploration Ground Systems, Pad 39B, Pad B, Moon, Mars",
+  "description": "NASA\u2019s SLS (Space Launch System) rocket with the Orion spacecraft carrying Artemis II Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, along with Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency), lifts off at 6:35 p.m. EDT on Wednesday, April 1, 2026, from Launch Complex 39B at NASA Kennedy. The Artemis II test flight will take the crew members on a 10-day journey around the Moon and back.",
+  "keywords": "John. F. Kennedy Space Center, \u00a0Kennedy, Kennedy Space Center, KSC, Spaceport, Cape Canaveral, NASA, rocket ranch, Florida, multi-user spaceport, premier spaceport, space coast, cape, Artemis II, Artemis, Orion, SLS, Space Launch System, EGS, Exploration Ground Systems, Pad 39B, Pad B, Moon, Mars",
   "date": "2026-04-01T00:00:00Z",
   "branch": "NASA",
   "unit_name": "NASA KSC",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-AJN01-0001-Artemis-II-Launch-35mm-High-Speed-Film-M19183",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:17:56Z",
   "duration": 534.9,
   "source_file": {
@@ -69,5 +69,6 @@
     450.9,
     484.3,
     517.7
-  ]
+  ],
+  "pass_reason": "Artemis II liftoff already queued (ccf-20261114-03); rocket Shorts saturated"
 }

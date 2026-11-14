@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Helicopter-overflight-of-a-fast-moving-lava-flow-emerging-fr",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:53:48Z",
   "duration": 33.55,
   "source_file": {
@@ -60,5 +60,6 @@
     27.88,
     29.95,
     32.02
-  ]
+  ],
+  "pass_reason": "third lava Short in the queue today and no resolving outcome in the source; revisit later"
 }

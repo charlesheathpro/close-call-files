@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-545019",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:40:39Z",
   "duration": 96.43,
   "source_file": {
@@ -282,5 +282,6 @@
     80.94,
     86.94,
     92.93
-  ]
+  ],
+  "pass_reason": "training montage with third-party soundtrack; no event to resolve"
 }
