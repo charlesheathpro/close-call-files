@@ -1,7 +1,589 @@
 {
   "short_id": "ccf-20261114-75",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-14T17:20:29Z",
-  "error": "line 2: shots are 4.3, 2.4, 6.5s even after extending, but the line needs 9.7s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-14T18:42:18Z",
+  "duration": 36.73,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "This is a C-130 Hercules coming down onto a public highway in Montana.",
+      "start": 0.05,
+      "end": 4.93,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.375
+        },
+        {
+          "w": "is",
+          "s": 0.375,
+          "e": 0.538
+        },
+        {
+          "w": "a",
+          "s": 0.538,
+          "e": 0.701
+        },
+        {
+          "w": "C-130",
+          "s": 0.701,
+          "e": 1.107
+        },
+        {
+          "w": "Hercules",
+          "s": 1.107,
+          "e": 1.758
+        },
+        {
+          "w": "coming",
+          "s": 1.758,
+          "e": 2.246
+        },
+        {
+          "w": "down",
+          "s": 2.246,
+          "e": 2.571
+        },
+        {
+          "w": "onto",
+          "s": 2.571,
+          "e": 2.897
+        },
+        {
+          "w": "a",
+          "s": 2.897,
+          "e": 3.059
+        },
+        {
+          "w": "public",
+          "s": 3.059,
+          "e": 3.547
+        },
+        {
+          "w": "highway",
+          "s": 3.547,
+          "e": 4.117
+        },
+        {
+          "w": "in",
+          "s": 4.117,
+          "e": 4.279
+        },
+        {
+          "w": "Montana.",
+          "s": 4.279,
+          "e": 4.93
+        }
+      ]
+    },
+    {
+      "text": "Montana Air National Guard airmen practiced it on U.S. Highway 87 near Great Falls.",
+      "start": 5.25,
+      "end": 11.17,
+      "words": [
+        {
+          "w": "Montana",
+          "s": 5.25,
+          "e": 5.81
+        },
+        {
+          "w": "Air",
+          "s": 5.89,
+          "e": 6.05
+        },
+        {
+          "w": "National",
+          "s": 6.13,
+          "e": 6.45
+        },
+        {
+          "w": "Guard",
+          "s": 6.61,
+          "e": 6.77
+        },
+        {
+          "w": "airmen",
+          "s": 6.93,
+          "e": 7.33
+        },
+        {
+          "w": "practiced",
+          "s": 7.41,
+          "e": 7.89
+        },
+        {
+          "w": "it",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "on",
+          "s": 8.13,
+          "e": 8.21
+        },
+        {
+          "w": "U.S.",
+          "s": 8.29,
+          "e": 8.53
+        },
+        {
+          "w": "Highway",
+          "s": 8.61,
+          "e": 8.93
+        },
+        {
+          "w": "87",
+          "s": 9.09,
+          "e": 9.65
+        },
+        {
+          "w": "near",
+          "s": 9.73,
+          "e": 9.89
+        },
+        {
+          "w": "Great",
+          "s": 9.97,
+          "e": 10.13
+        },
+        {
+          "w": "Falls.",
+          "s": 10.21,
+          "e": 11.17
+        }
+      ]
+    },
+    {
+      "text": "From the cockpit, the runway was a two-lane road, painted center lines and all.",
+      "start": 11.25,
+      "end": 16.13,
+      "words": [
+        {
+          "w": "From",
+          "s": 11.25,
+          "e": 11.33
+        },
+        {
+          "w": "the",
+          "s": 11.41,
+          "e": 11.49
+        },
+        {
+          "w": "cockpit,",
+          "s": 11.65,
+          "e": 12.29
+        },
+        {
+          "w": "the",
+          "s": 12.37,
+          "e": 12.45
+        },
+        {
+          "w": "runway",
+          "s": 12.53,
+          "e": 12.85
+        },
+        {
+          "w": "was",
+          "s": 12.93,
+          "e": 13.01
+        },
+        {
+          "w": "a",
+          "s": 13.13,
+          "e": 13.25
+        },
+        {
+          "w": "two-lane",
+          "s": 13.33,
+          "e": 13.65
+        },
+        {
+          "w": "road,",
+          "s": 13.73,
+          "e": 14.37
+        },
+        {
+          "w": "painted",
+          "s": 14.41,
+          "e": 14.77
+        },
+        {
+          "w": "center",
+          "s": 14.85,
+          "e": 15.09
+        },
+        {
+          "w": "lines",
+          "s": 15.25,
+          "e": 15.41
+        },
+        {
+          "w": "and",
+          "s": 15.45,
+          "e": 15.53
+        },
+        {
+          "w": "all.",
+          "s": 15.57,
+          "e": 16.13
+        }
+      ]
+    },
+    {
+      "text": "Crews train for this because in an emergency, in remote places or in combat, the nearest airfield may not be usable.",
+      "start": 16.45,
+      "end": 23.65,
+      "words": [
+        {
+          "w": "Crews",
+          "s": 16.45,
+          "e": 16.77
+        },
+        {
+          "w": "train",
+          "s": 16.85,
+          "e": 17.09
+        },
+        {
+          "w": "for",
+          "s": 17.17,
+          "e": 17.25
+        },
+        {
+          "w": "this",
+          "s": 17.37,
+          "e": 17.49
+        },
+        {
+          "w": "because",
+          "s": 17.57,
+          "e": 17.89
+        },
+        {
+          "w": "in",
+          "s": 17.97,
+          "e": 18.05
+        },
+        {
+          "w": "an",
+          "s": 18.13,
+          "e": 18.21
+        },
+        {
+          "w": "emergency,",
+          "s": 18.21,
+          "e": 19.17
+        },
+        {
+          "w": "in",
+          "s": 19.25,
+          "e": 19.33
+        },
+        {
+          "w": "remote",
+          "s": 19.53,
+          "e": 19.73
+        },
+        {
+          "w": "places",
+          "s": 19.81,
+          "e": 20.21
+        },
+        {
+          "w": "or",
+          "s": 20.29,
+          "e": 20.45
+        },
+        {
+          "w": "in",
+          "s": 20.49,
+          "e": 20.57
+        },
+        {
+          "w": "combat,",
+          "s": 20.61,
+          "e": 21.49
+        },
+        {
+          "w": "the",
+          "s": 21.57,
+          "e": 21.65
+        },
+        {
+          "w": "nearest",
+          "s": 21.73,
+          "e": 22.05
+        },
+        {
+          "w": "airfield",
+          "s": 22.13,
+          "e": 22.61
+        },
+        {
+          "w": "may",
+          "s": 22.69,
+          "e": 22.85
+        },
+        {
+          "w": "not",
+          "s": 22.93,
+          "e": 23.01
+        },
+        {
+          "w": "be",
+          "s": 23.09,
+          "e": 23.17
+        },
+        {
+          "w": "usable.",
+          "s": 23.25,
+          "e": 23.65
+        }
+      ]
+    },
+    {
+      "text": "The Hercules is built for it. It can set down on a short, rough strip, turn around and go again.",
+      "start": 24.21,
+      "end": 30.29,
+      "words": [
+        {
+          "w": "The",
+          "s": 24.21,
+          "e": 24.29
+        },
+        {
+          "w": "Hercules",
+          "s": 24.37,
+          "e": 24.85
+        },
+        {
+          "w": "is",
+          "s": 24.97,
+          "e": 25.09
+        },
+        {
+          "w": "built",
+          "s": 25.21,
+          "e": 25.33
+        },
+        {
+          "w": "for",
+          "s": 25.41,
+          "e": 25.49
+        },
+        {
+          "w": "it.",
+          "s": 25.57,
+          "e": 25.73
+        },
+        {
+          "w": "It",
+          "s": 26.13,
+          "e": 26.21
+        },
+        {
+          "w": "can",
+          "s": 26.33,
+          "e": 26.45
+        },
+        {
+          "w": "set",
+          "s": 26.57,
+          "e": 26.69
+        },
+        {
+          "w": "down",
+          "s": 26.81,
+          "e": 26.93
+        },
+        {
+          "w": "on",
+          "s": 26.97,
+          "e": 27.05
+        },
+        {
+          "w": "a",
+          "s": 27.09,
+          "e": 27.17
+        },
+        {
+          "w": "short,",
+          "s": 27.25,
+          "e": 27.73
+        },
+        {
+          "w": "rough",
+          "s": 27.81,
+          "e": 27.89
+        },
+        {
+          "w": "strip,",
+          "s": 27.97,
+          "e": 28.69
+        },
+        {
+          "w": "turn",
+          "s": 28.77,
+          "e": 28.93
+        },
+        {
+          "w": "around",
+          "s": 29.01,
+          "e": 29.41
+        },
+        {
+          "w": "and",
+          "s": 29.49,
+          "e": 29.65
+        },
+        {
+          "w": "go",
+          "s": 29.73,
+          "e": 29.81
+        },
+        {
+          "w": "again.",
+          "s": 29.89,
+          "e": 30.29
+        }
+      ]
+    },
+    {
+      "text": "Then the Hercules powered up, rolled down the highway and lifted off into the Montana sky.",
+      "start": 31.01,
+      "end": 36.53,
+      "words": [
+        {
+          "w": "Then",
+          "s": 31.01,
+          "e": 31.17
+        },
+        {
+          "w": "the",
+          "s": 31.25,
+          "e": 31.33
+        },
+        {
+          "w": "Hercules",
+          "s": 31.33,
+          "e": 31.89
+        },
+        {
+          "w": "powered",
+          "s": 32.05,
+          "e": 32.21
+        },
+        {
+          "w": "up,",
+          "s": 32.29,
+          "e": 32.77
+        },
+        {
+          "w": "rolled",
+          "s": 32.85,
+          "e": 33.09
+        },
+        {
+          "w": "down",
+          "s": 33.17,
+          "e": 33.25
+        },
+        {
+          "w": "the",
+          "s": 33.33,
+          "e": 33.41
+        },
+        {
+          "w": "highway",
+          "s": 33.41,
+          "e": 33.89
+        },
+        {
+          "w": "and",
+          "s": 34.13,
+          "e": 34.29
+        },
+        {
+          "w": "lifted",
+          "s": 34.45,
+          "e": 34.69
+        },
+        {
+          "w": "off",
+          "s": 34.77,
+          "e": 35.01
+        },
+        {
+          "w": "into",
+          "s": 35.09,
+          "e": 35.17
+        },
+        {
+          "w": "the",
+          "s": 35.25,
+          "e": 35.33
+        },
+        {
+          "w": "Montana",
+          "s": 35.45,
+          "e": 35.81
+        },
+        {
+          "w": "sky.",
+          "s": 36.01,
+          "e": 36.53
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 36.73
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.003
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.5
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261114-75/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261114-75-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261114-75/ccf-20261114-75.mp4"
 }
