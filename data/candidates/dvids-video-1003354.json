@@ -1,0 +1,88 @@
+{
+  "asset_id": "video:1003354",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues hiker on Devil’s Slide Trail in Pacifica, Calif.",
+  "description": "A Coast Guard Air Station San Francisco MH-65 Dolphin helicopter crew rescues an injured hiker inland of Devil’s Slide Trail in Pacifica, California, April 19, 2026. The crew deployed a rescue swimmer to hoist the victim into the helicopter, where he was transferred to awaiting San Mateo County EMS at the Devil’s Slide Trail parking lot. (U.S. Coast Guard courtesy video)",
+  "keywords": "hiker, helicopter, SAR, search and rescue",
+  "date": "2026-04-19T00:00:00-04:00",
+  "date_published": "2026-04-21T13:38:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "260420-G-G0211-1001",
+  "location": {
+    "city": "Pacifica",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1003354/coast-guard-rescues-hiker-devils-slide-trail-pacifica-calif",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1003354",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:35:12Z",
+  "duration": 51.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2604/DOD_111644583/DOD_111644583.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 64543966
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.1,
+      "e": 2.1,
+      "text": "on their way up."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      3.5,
+      9.0,
+      12.6,
+      19.2,
+      24.9,
+      30.7,
+      46.0
+    ],
+    "silence_ends": [
+      4.5,
+      10.0,
+      16.6,
+      21.2,
+      28.8,
+      35.9,
+      48.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1003354.jpg",
+  "sheet_times": [
+    1.6,
+    4.81,
+    8.01,
+    11.21,
+    14.42,
+    17.62,
+    20.83,
+    24.03,
+    27.24,
+    30.44,
+    33.64,
+    36.85,
+    40.05,
+    43.26,
+    46.46,
+    49.66
+  ]
+}

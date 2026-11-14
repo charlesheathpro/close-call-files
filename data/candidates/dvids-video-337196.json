@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:337196",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues Sailors 1,200 Miles Southeast of Cape Cod",
+  "description": "BOSTON — Three sailors aboard the Tao are rescued by the fishing vessel Robero approximately 1,200 miles east of Cape Cod, Massachusetts, May 15, 2014. The crew of Robero diverted to assist the Tao after request from the 1st Coast Guard District. U.S. Coast Guard photo by Coast Guard Air Station Elizabeth City.",
+  "keywords": "Coast Guard Air Station Elizabeth City, D1, 1st Coast Guard District, sailing vessel, Robero, Water rescue, Massachusetts, cape cod, Spain, TAO",
+  "date": "2014-05-15T00:00:00-04:00",
+  "date_published": "2014-05-15T20:00:48-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "140514-G-GV559-001",
+  "location": {
+    "city": "",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/337196/coast-guard-rescues-sailors-1200-miles-southeast-cape-cod",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.3043,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-337196",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:34:57Z",
+  "duration": 110.85,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1405/DOD_101635676/DOD_101635676.mp4",
+    "width": 854,
+    "height": 480,
+    "bitrate": 7462,
+    "size": 104988918
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.3
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      110.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-337196.jpg",
+  "sheet_times": [
+    7.62,
+    14.25,
+    20.87,
+    27.5,
+    34.13,
+    40.76,
+    47.38,
+    54.01,
+    60.64,
+    67.27,
+    73.9,
+    80.52,
+    87.15,
+    93.78,
+    100.41,
+    107.03
+  ]
+}

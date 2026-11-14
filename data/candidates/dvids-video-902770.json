@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:902770",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hoist",
+  "title": "Coast Guard rescues man from aground sailboat near Charleston, South Carolina",
+  "description": "A Coast Guard Air Station Savannah helicopter crew hoists a man after his 31-foot sailboat ran aground on the Charleston jetties and began taking on water near Charleston, South Carolina, Nov. 2, 2023. The helicopter crew safely transported the man to Charleston Executive Airport in Johns Island. (U.S. Coast Guard video, courtesy Air Station Savannah)",
+  "keywords": "sailboat, Air Station Savannah, rescue, Charleston",
+  "date": "2023-11-02T00:00:00-04:00",
+  "date_published": "2023-11-03T15:32:34-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "231102-G-G0107-1001",
+  "location": {
+    "city": "Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "state_abbreviation": "SC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/902770/coast-guard-rescues-man-aground-sailboat-near-charleston-south-carolina",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-902770",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:36:00Z",
+  "duration": 72.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2311/DOD_109975777/DOD_109975777-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 73606408
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 95,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      72.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-902770.jpg",
+  "sheet_times": [
+    2.25,
+    6.74,
+    11.24,
+    15.73,
+    20.22,
+    24.72,
+    29.21,
+    33.71,
+    38.2,
+    42.69,
+    47.19,
+    51.68,
+    56.18,
+    60.67,
+    65.16,
+    69.66
+  ]
+}

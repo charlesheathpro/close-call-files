@@ -1,0 +1,90 @@
+{
+  "asset_id": "video:290414",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, AMVER Rescue 4 Sailors Southeast of Cape Cod",
+  "description": "BOSTON — The Coast Guard and a good Samaritan crew rescued four sailors approximately 350 miles southeast of Cape Cod, Mass., at approximately 9:30 p.m. May 12, 2013.\r\n\r\nWatch-standers from the 1st Coast Guard District command center in Boston were notified of a distress call from a Canadian-registered 406 MHz emergency position indicating radio beacon registered to the Romarin II. The Coast Guard contacted Automated Mutual-Assistance Vessel Rescue System (AMVER) vessels in the area to assist. The 1,105-foot motor vessel MSC Chicago was approximately 30 miles away and responded. \r\n\r\nThe MSC Chicago is enroute to Gioia Taruo, Italy, where the crew will be able to return to Canada.\r\n\r\nU.S. Coast Guard video by Air Station Cape Cod.",
+  "keywords": "falcon, Air Station, Otis, AMVER, HU-25, Chicago, cape cod",
+  "date": "2013-05-12T00:00:00-04:00",
+  "date_published": "2013-05-13T11:23:50-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Petty Officer 2nd Class Robert Simpson",
+  "category": "B-Roll",
+  "virin": "130512-G-GV559-169",
+  "location": {
+    "city": "",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/290414/coast-guard-amver-rescue-4-sailors-southeast-cape-cod",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-290414",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:35:03Z",
+  "duration": 38.66,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100812004/DOD_100812004.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 5318,
+    "size": 26853710
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 7.25,
+      "e": 9.25,
+      "text": "Max, is your ass pleased?"
+    },
+    {
+      "s": 9.25,
+      "e": 10.25,
+      "text": "Yep."
+    }
+  ],
+  "scene_cuts": [
+    5.04,
+    6.34,
+    6.41,
+    6.44,
+    6.51,
+    31.6
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      31.7
+    ],
+    "silence_ends": [
+      5.7,
+      38.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-290414.jpg",
+  "sheet_times": [
+    1.19,
+    3.58,
+    5.96,
+    8.35,
+    10.73,
+    13.12,
+    15.5,
+    17.89,
+    20.27,
+    22.66,
+    25.04,
+    27.42,
+    29.81,
+    32.19,
+    34.58,
+    36.96
+  ]
+}

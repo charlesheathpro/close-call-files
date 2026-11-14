@@ -1,0 +1,120 @@
+{
+  "asset_id": "video:341222",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescues 1 from Jetty in Cape May, NJ",
+  "description": "The Coast Guard rescued a man from a jetty in Cape May, New Jersey, at about 3 p.m. Wednesday, June 4, after he was thrown from his fishing boat by another boat’s wake. A 45-foot Response Boat ⎯ Medium crew from Coast Guard Station Cape May responded to the distress and rescued the man from the jetty.",
+  "keywords": "Station Cape May, rescue, New Jersey",
+  "date": "2014-06-04T00:00:00-04:00",
+  "date_published": "2014-06-05T13:03:47-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard East",
+  "credit": "Petty Officer 3rd Class Cynthia Oldham",
+  "category": "B-Roll",
+  "virin": "140604-G-ZZ999-001",
+  "location": {
+    "city": "Cape May",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/341222/coast-guard-rescues-1-jetty-cape-may-nj",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.07173,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-341222",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:35:32Z",
+  "duration": 64.34,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101716694/DOD_101716694.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 5282,
+    "size": 44368297
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.94,
+      "e": 5.94,
+      "text": "George."
+    },
+    {
+      "s": 5.94,
+      "e": 9.35,
+      "text": "5-day green state, you know it."
+    },
+    {
+      "s": 9.35,
+      "e": 13.35,
+      "text": "Stage in 5-day green, the advise, the instinct in front of us."
+    },
+    {
+      "s": 13.35,
+      "e": 16.35,
+      "text": "The reward's out of the way."
+    },
+    {
+      "s": 16.35,
+      "e": 19.35,
+      "text": "So, we're entering K-M-A-Jenny right now."
+    },
+    {
+      "s": 19.35,
+      "e": 33.18,
+      "text": "We're going to stand by in the turning phase and wait for the 6-6-5 over 5-day green state."
+    },
+    {
+      "s": 33.18,
+      "e": 34.18,
+      "text": "The logic is up."
+    },
+    {
+      "s": 34.18,
+      "e": 39.0,
+      "text": "One of those turns 10-0, you've got it."
+    },
+    {
+      "s": 39.0,
+      "e": 43.3,
+      "text": "Yep."
+    }
+  ],
+  "scene_cuts": [
+    59.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      59.1
+    ],
+    "silence_ends": [
+      5.1,
+      64.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-341222.jpg",
+  "sheet_times": [
+    6.91,
+    10.58,
+    14.25,
+    17.93,
+    21.6,
+    25.27,
+    28.95,
+    32.62,
+    36.29,
+    39.97,
+    43.64,
+    47.31,
+    50.99,
+    54.66,
+    58.33,
+    62.0
+  ]
+}

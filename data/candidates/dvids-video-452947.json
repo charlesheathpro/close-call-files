@@ -1,0 +1,81 @@
+{
+  "asset_id": "video:452947",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues surfers near Devil's Punchbowl State Park",
+  "description": "A Coast Guard aircrew aboard an MH-65 Dolphin helicopter from Air Facility Newport rescues three surfers in distress near Devil’s Punchbowl State Park, March 5, 2016. All three men were safely transported to Air Facility Newport, checked by local EMS and released in good condition. U.S. Coast Guard video courtesy of Air Facility Newport.",
+  "keywords": "hoist, Coast Guard rescue, North Bend, Newport, Coast Guard, SAR, Oregon, surfers",
+  "date": "2016-03-05T00:00:00-05:00",
+  "date_published": "2016-03-05T21:57:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 1st Class George Degener",
+  "category": "B-Roll",
+  "virin": "160305-G-ZZ999-001",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/452947/coast-guard-rescues-surfers-near-devils-punchbowl-state-park",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-452947",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:35:50Z",
+  "duration": 113.79,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103099660/DOD_103099660.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 8938,
+    "size": 129024932
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.0,
+    4.0
+  ],
+  "drama_score": 89,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      53.5,
+      54.9,
+      55.7,
+      56.4
+    ],
+    "silence_ends": [
+      4.1,
+      54.9,
+      55.5,
+      56.4,
+      58.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-452947.jpg",
+  "sheet_times": [
+    7.44,
+    14.27,
+    21.1,
+    27.93,
+    34.76,
+    41.59,
+    48.41,
+    55.24,
+    62.07,
+    68.9,
+    75.73,
+    82.56,
+    89.39,
+    96.22,
+    103.05,
+    109.88
+  ]
+}
