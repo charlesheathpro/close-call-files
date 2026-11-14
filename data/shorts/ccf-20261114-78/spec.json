@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261114-78",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "nasa-GSFC-20161208-IceBridge-m12449-IceBridge",
   "lane": "hazards",
   "story_type": "giant rift across an Antarctic ice shelf, iceberg breaks off",
@@ -11,7 +11,7 @@
     "This crack in Antarctica was seventy miles long, and it cut right through the ice shelf beneath it.",
     "NASA's Operation IceBridge flew over it and measured it: more than three hundred feet wide, and about a third of a mile deep.",
     "An ice shelf is the floating edge of a glacier. It holds back the ice behind it, like a brake.",
-    "Next door, a smaller shelf had fallen apart in 2002, after a rift like this one.",
+    "Next door, a smaller shelf fell apart in 2002, after a rift like this one.",
     "[short pause] The crack had not yet reached all the way across. Once it did, a giant iceberg would break free."
   ],
   "outcome": "In July 2017 it broke through, and an iceberg about the size of Delaware split away from the Larsen C ice shelf.",
@@ -137,8 +137,8 @@
         "crop_x": 0.45
       },
       {
-        "start": 76.9,
-        "end": 78.9,
+        "start": 71.0,
+        "end": 74.6,
         "layout": "crop",
         "crop_x": 0.5
       },
