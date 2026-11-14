@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20231024-MH-CSH01-0001-Artemis-II-Water-Deluge-Test-39-B-M1718",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-11T18:26:59Z",
   "duration": 119.5,
   "source_file": {
@@ -98,5 +98,6 @@
     100.41,
     107.84,
     115.28
-  ]
+  ],
+  "used_by": "ccf-20261114-04"
 }
