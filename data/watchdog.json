@@ -1,21 +1,22 @@
 {
- "at": "2026-11-14T10:27:52Z",
+ "at": "2026-11-14T14:27:56Z",
  "healthy": false,
  "numbers": {
   "dropped": 53,
   "uploaded": 135,
-  "passed": 20,
+  "passed": 23,
+  "scheduled_next_48h": 9,
   "scheduled_by_day_MT": {
-   "2026-11-14": 10,
+   "2026-11-14": 8,
    "2026-11-15": 1
   }
  },
  "found": [
-  "YouTube uploadLimitExceeded since 06:22Z (10 uploads in 24 h); limit lifts 16:51Z, upload.yml runs every 3 h and will resume on its own",
-  "Nov 15 has 1 scheduled; 20 passed Shorts waiting cover Nov 15 and most of Nov 16 once the limit lifts",
-  "harvest 06:57Z found 0 new candidates (dvids_blocked) but 3,022 unreviewed candidates remain; no repeated build error; no auth alert"
+  "YouTube uploadLimitExceeded hold until 16:51Z; upload.yml (every 3 h) resumes after it",
+  "Nov 15 and Nov 16 under 10 scheduled, but 23 passed Shorts are waiting, enough to fill both days once uploads resume",
+  "harvest 06:57Z found 0 new (dvids_blocked) with thousands of unreviewed candidates left; no repeated build error; no auth or upload_error alert in 24 h"
  ],
  "fixed": [
-  "QA: passed 4 (51, 58, 52 r2, 57 r2), dropped 4 (53, 54, 55, 56)"
+  "QA: passed ccf-20261114-63; rev 2 and pass for -61 and -62"
  ]
 }
