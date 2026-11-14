@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-796160",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:34:33Z",
   "duration": 42.41,
   "source_file": {
@@ -93,5 +93,6 @@
     35.36,
     37.98,
     40.6
-  ]
+  ],
+  "pass_reason": "Vertical phone video, chaotic; the man in the water is never clearly on screen."
 }

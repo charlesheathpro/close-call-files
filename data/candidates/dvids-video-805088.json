@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-805088",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:34:07Z",
   "duration": 184.9,
   "source_file": {
@@ -129,5 +129,6 @@
     155.58,
     167.11,
     178.63
-  ]
+  ],
+  "pass_reason": "540p overhead of flat ice; basket and hunters are tiny, most frames are empty white."
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-313609",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:33:27Z",
   "duration": 266.12,
   "source_file": {
@@ -67,5 +67,6 @@
     224.12,
     240.72,
     257.32
-  ]
+  ],
+  "pass_reason": "Washed-out blue murk for nearly the whole clip; the hang glider pilot and cliff are never visible."
 }
