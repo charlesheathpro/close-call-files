@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Sentinel-6-Launch-Footage",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T00:54:27Z",
   "duration": 90.54,
   "source_file": {
@@ -126,5 +126,6 @@
     75.97,
     81.6,
     87.22
-  ]
+  ],
+  "used_by": "ccf-20261114-54"
 }

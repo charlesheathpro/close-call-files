@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2020m000074-VF-MS-13-Hatch-Closing-Undocking-Landing-Coverage-2020-0206",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:42:15Z",
   "duration": 1163.4,
   "source_file": {
@@ -10827,5 +10827,6 @@
     981.2,
     1053.88,
     1126.56
-  ]
+  ],
+  "pass_reason": "Soyuz landing story told on Nov 12 (ccf-20261112-02)"
 }

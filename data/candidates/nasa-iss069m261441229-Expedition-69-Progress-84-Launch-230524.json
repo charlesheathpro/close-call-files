@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss069m261441229-Expedition-69-Progress-84-Launch-230524",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:22:26Z",
   "duration": 2284.2,
   "source_file": {
@@ -313,5 +313,6 @@
     1926.87,
     2069.6,
     2212.33
-  ]
+  ],
+  "pass_reason": "mostly static pad views, launch is a distant speck"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-765151",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:50:51Z",
   "duration": 498.53,
   "source_file": {
@@ -72,5 +72,6 @@
     420.21,
     451.34,
     482.47
-  ]
+  ],
+  "pass_reason": "same Ocean Applaud mission as ccf-20261114-55; mostly flight line takeoffs at dusk"
 }
