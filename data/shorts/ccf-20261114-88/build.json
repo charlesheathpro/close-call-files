@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261114-88",
-  "revision": 1,
-  "status": "checks_failed",
-  "built_at": "2026-11-14T21:26:05Z",
-  "duration": 31.13,
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-14T22:31:27Z",
+  "duration": 28.25,
   "source_resolution": "1280x720",
   "timeline": [
     {
       "text": "This rescue swimmer is dangling on a cable, right beside a tanker's mast.",
       "start": 0.05,
-      "end": 4.81,
+      "end": 4.85,
       "words": [
         {
           "w": "This",
@@ -19,190 +19,190 @@
         {
           "w": "rescue",
           "s": 0.37,
-          "e": 0.77
+          "e": 0.69
         },
         {
           "w": "swimmer",
-          "s": 0.85,
-          "e": 1.17
+          "s": 0.77,
+          "e": 1.09
         },
         {
           "w": "is",
-          "s": 1.25,
-          "e": 1.41
+          "s": 1.21,
+          "e": 1.33
         },
         {
           "w": "dangling",
-          "s": 1.49,
-          "e": 1.89
+          "s": 1.41,
+          "e": 1.81
         },
         {
           "w": "on",
-          "s": 1.93,
-          "e": 2.01
+          "s": 1.85,
+          "e": 1.93
         },
         {
           "w": "a",
-          "s": 2.05,
-          "e": 2.13
+          "s": 1.97,
+          "e": 2.05
         },
         {
           "w": "cable,",
-          "s": 2.21,
-          "e": 2.85
+          "s": 2.09,
+          "e": 2.77
         },
         {
           "w": "right",
-          "s": 3.01,
-          "e": 3.17
+          "s": 2.85,
+          "e": 3.01
         },
         {
           "w": "beside",
-          "s": 3.25,
-          "e": 3.49
+          "s": 3.09,
+          "e": 3.33
         },
         {
           "w": "a",
-          "s": 3.57,
-          "e": 3.65
+          "s": 3.41,
+          "e": 3.49
         },
         {
           "w": "tanker's",
-          "s": 3.77,
-          "e": 4.05
+          "s": 3.61,
+          "e": 3.89
         },
         {
           "w": "mast.",
-          "s": 4.13,
-          "e": 4.81
+          "s": 3.97,
+          "e": 4.85
         }
       ]
     },
     {
-      "text": "Two hundred twenty-three miles southeast of Cape Hatteras, an injured crewman aboard the tanker needed a hospital.",
-      "start": 5.09,
-      "end": 11.81,
+      "text": "Two hundred twenty-three miles southeast of Cape Hatteras, a forty-one-year-old man aboard the tanker needed a hospital.",
+      "start": 4.93,
+      "end": 11.89,
       "words": [
         {
           "w": "Two",
-          "s": 5.09,
-          "e": 5.25
+          "s": 4.93,
+          "e": 5.01
         },
         {
           "w": "hundred",
-          "s": 5.41,
-          "e": 5.57
+          "s": 5.09,
+          "e": 5.33
         },
         {
           "w": "twenty-three",
-          "s": 5.73,
-          "e": 6.13
+          "s": 5.49,
+          "e": 5.89
         },
         {
           "w": "miles",
-          "s": 6.29,
-          "e": 6.61
+          "s": 6.05,
+          "e": 6.37
         },
         {
           "w": "southeast",
-          "s": 6.77,
-          "e": 7.25
+          "s": 6.45,
+          "e": 6.93
         },
         {
           "w": "of",
-          "s": 7.29,
-          "e": 7.37
+          "s": 7.01,
+          "e": 7.09
         },
         {
           "w": "Cape",
-          "s": 7.41,
-          "e": 7.57
+          "s": 7.17,
+          "e": 7.33
         },
         {
           "w": "Hatteras,",
-          "s": 7.65,
-          "e": 8.53
+          "s": 7.41,
+          "e": 8.21
         },
         {
-          "w": "an",
-          "s": 8.61,
-          "e": 8.77
+          "w": "a",
+          "s": 8.29,
+          "e": 8.45
         },
         {
-          "w": "injured",
-          "s": 8.85,
-          "e": 9.17
+          "w": "forty-one-year-old",
+          "s": 8.57,
+          "e": 9.33
         },
         {
-          "w": "crewman",
-          "s": 9.25,
+          "w": "man",
+          "s": 9.45,
           "e": 9.57
         },
         {
           "w": "aboard",
           "s": 9.65,
-          "e": 9.81
+          "e": 9.89
         },
         {
           "w": "the",
-          "s": 9.89,
-          "e": 9.97
+          "s": 9.93,
+          "e": 10.01
         },
         {
           "w": "tanker",
           "s": 10.05,
-          "e": 10.37
+          "e": 10.45
         },
         {
           "w": "needed",
-          "s": 10.45,
-          "e": 10.69
+          "s": 10.53,
+          "e": 10.77
         },
         {
           "w": "a",
-          "s": 10.73,
-          "e": 10.81
+          "s": 10.81,
+          "e": 10.89
         },
         {
           "w": "hospital.",
-          "s": 11.01,
-          "e": 11.81
+          "s": 11.09,
+          "e": 11.89
         }
       ]
     },
     {
       "text": "A Jayhawk crew from Coast Guard Air Station Elizabeth City flew out to get him.",
-      "start": 11.89,
+      "start": 11.97,
       "end": 16.69,
       "words": [
         {
           "w": "A",
-          "s": 11.89,
-          "e": 11.97
+          "s": 11.97,
+          "e": 12.05
         },
         {
           "w": "Jayhawk",
-          "s": 12.05,
-          "e": 12.53
+          "s": 12.13,
+          "e": 12.61
         },
         {
           "w": "crew",
-          "s": 12.65,
-          "e": 12.77
+          "s": 12.73,
+          "e": 12.85
         },
         {
           "w": "from",
-          "s": 12.85,
-          "e": 12.93
+          "s": 12.93,
+          "e": 13.09
         },
         {
           "w": "Coast",
-          "s": 13.09,
-          "e": 13.25
+          "s": 13.13,
+          "e": 13.33
         },
         {
           "w": "Guard",
-          "s": 13.33,
+          "s": 13.41,
           "e": 13.57
         },
         {
@@ -218,16 +218,16 @@
         {
           "w": "Elizabeth",
           "s": 14.29,
-          "e": 14.69
+          "e": 14.77
         },
         {
           "w": "City",
-          "s": 14.77,
+          "s": 15.01,
           "e": 15.25
         },
         {
           "w": "flew",
-          "s": 15.29,
+          "s": 15.33,
           "e": 15.49
         },
         {
@@ -237,242 +237,202 @@
         },
         {
           "w": "to",
-          "s": 15.69,
-          "e": 15.77
+          "s": 15.73,
+          "e": 15.81
         },
         {
           "w": "get",
-          "s": 15.81,
-          "e": 15.89
+          "s": 15.89,
+          "e": 15.97
         },
         {
           "w": "him.",
-          "s": 15.97,
+          "s": 16.05,
           "e": 16.69
         }
       ]
     },
     {
-      "text": "A ship's masts and rigging can snag a hoist cable, so the pilot has to hold a steady hover while the swimmer is lowered to the deck.",
-      "start": 16.77,
-      "end": 24.077,
+      "text": "Masts and rigging can snag a hoist cable, so the pilot has to hold a rock steady hover.",
+      "start": 16.85,
+      "end": 22.45,
       "words": [
         {
-          "w": "A",
-          "s": 16.77,
-          "e": 16.85
-        },
-        {
-          "w": "ship's",
-          "s": 16.93,
-          "e": 17.33
-        },
-        {
-          "w": "masts",
-          "s": 17.37,
-          "e": 17.81
+          "w": "Masts",
+          "s": 16.85,
+          "e": 17.25
         },
         {
           "w": "and",
-          "s": 17.85,
-          "e": 17.93
+          "s": 17.29,
+          "e": 17.37
         },
         {
           "w": "rigging",
-          "s": 17.97,
-          "e": 18.37
+          "s": 17.41,
+          "e": 17.81
         },
         {
           "w": "can",
-          "s": 18.49,
-          "e": 18.61
+          "s": 17.93,
+          "e": 18.05
         },
         {
           "w": "snag",
-          "s": 18.69,
-          "e": 18.93
+          "s": 18.13,
+          "e": 18.37
         },
         {
           "w": "a",
-          "s": 19.01,
-          "e": 19.09
+          "s": 18.41,
+          "e": 18.49
         },
         {
           "w": "hoist",
-          "s": 19.09,
-          "e": 19.33
+          "s": 18.53,
+          "e": 18.77
         },
         {
           "w": "cable,",
-          "s": 19.37,
-          "e": 20.05
+          "s": 18.877,
+          "e": 19.49
         },
         {
           "w": "so",
-          "s": 20.13,
-          "e": 20.21
+          "s": 19.57,
+          "e": 19.65
         },
         {
           "w": "the",
+          "s": 19.73,
+          "e": 19.81
+        },
+        {
+          "w": "pilot",
+          "s": 19.85,
+          "e": 20.21
+        },
+        {
+          "w": "has",
           "s": 20.29,
           "e": 20.37
         },
         {
-          "w": "pilot",
-          "s": 20.45,
-          "e": 20.77
-        },
-        {
-          "w": "has",
-          "s": 20.85,
-          "e": 20.93
-        },
-        {
           "w": "to",
-          "s": 21.01,
-          "e": 21.09
+          "s": 20.45,
+          "e": 20.53
         },
         {
           "w": "hold",
-          "s": 21.17,
-          "e": 21.25
+          "s": 20.61,
+          "e": 20.69
         },
         {
           "w": "a",
-          "s": 21.33,
-          "e": 21.41
+          "s": 20.77,
+          "e": 20.93
+        },
+        {
+          "w": "rock",
+          "s": 21.05,
+          "e": 21.17
         },
         {
           "w": "steady",
-          "s": 21.49,
-          "e": 21.81
+          "s": 21.25,
+          "e": 21.57
         },
         {
-          "w": "hover",
-          "s": 21.89,
-          "e": 22.37
-        },
-        {
-          "w": "while",
-          "s": 22.41,
-          "e": 22.49
-        },
-        {
-          "w": "the",
-          "s": 22.53,
-          "e": 22.61
-        },
-        {
-          "w": "swimmer",
-          "s": 22.69,
-          "e": 23.01
-        },
-        {
-          "w": "is",
-          "s": 23.09,
-          "e": 23.17
-        },
-        {
-          "w": "lowered",
-          "s": 23.25,
-          "e": 23.49
-        },
-        {
-          "w": "to",
-          "s": 23.53,
-          "e": 23.61
-        },
-        {
-          "w": "the",
-          "s": 23.65,
-          "e": 23.73
-        },
-        {
-          "w": "deck.",
-          "s": 23.89,
-          "e": 24.077
+          "w": "hover.",
+          "s": 21.73,
+          "e": 22.45
         }
       ]
     },
     {
-      "text": "The Jayhawk crew hoisted the forty-one-year-old man and flew him to Sentara Norfolk General Hospital.",
-      "start": 25.25,
-      "end": 30.93,
+      "text": "The Jayhawk crew hoisted him off the tanker and flew him to Sentara Norfolk General Hospital.",
+      "start": 22.53,
+      "end": 28.05,
       "words": [
         {
           "w": "The",
-          "s": 25.25,
-          "e": 25.33
+          "s": 22.53,
+          "e": 22.61
         },
         {
           "w": "Jayhawk",
-          "s": 25.45,
-          "e": 25.81
+          "s": 22.69,
+          "e": 23.09
         },
         {
           "w": "crew",
-          "s": 25.89,
-          "e": 26.13
+          "s": 23.17,
+          "e": 23.49
         },
         {
           "w": "hoisted",
-          "s": 26.21,
-          "e": 26.61
-        },
-        {
-          "w": "the",
-          "s": 26.69,
-          "e": 26.77
-        },
-        {
-          "w": "forty-one-year-old",
-          "s": 26.89,
-          "e": 27.57
-        },
-        {
-          "w": "man",
-          "s": 27.81,
-          "e": 28.05
-        },
-        {
-          "w": "and",
-          "s": 28.13,
-          "e": 28.29
-        },
-        {
-          "w": "flew",
-          "s": 28.33,
-          "e": 28.45
+          "s": 23.53,
+          "e": 23.89
         },
         {
           "w": "him",
-          "s": 28.53,
-          "e": 28.69
+          "s": 23.97,
+          "e": 24.05
+        },
+        {
+          "w": "off",
+          "s": 24.13,
+          "e": 24.21
+        },
+        {
+          "w": "the",
+          "s": 24.29,
+          "e": 24.37
+        },
+        {
+          "w": "tanker",
+          "s": 24.49,
+          "e": 25.01
+        },
+        {
+          "w": "and",
+          "s": 25.09,
+          "e": 25.25
+        },
+        {
+          "w": "flew",
+          "s": 25.29,
+          "e": 25.49
+        },
+        {
+          "w": "him",
+          "s": 25.61,
+          "e": 25.73
         },
         {
           "w": "to",
-          "s": 28.77,
-          "e": 28.85
+          "s": 25.77,
+          "e": 25.85
         },
         {
           "w": "Sentara",
-          "s": 29.01,
-          "e": 29.33
+          "s": 25.97,
+          "e": 26.45
         },
         {
           "w": "Norfolk",
-          "s": 29.49,
-          "e": 29.81
+          "s": 26.53,
+          "e": 26.93
         },
         {
           "w": "General",
-          "s": 29.89,
-          "e": 30.13
+          "s": 27.09,
+          "e": 27.25
         },
         {
           "w": "Hospital.",
-          "s": 30.21,
-          "e": 30.93
+          "s": 27.33,
+          "e": 28.05
         }
       ]
     }
@@ -484,32 +444,27 @@
     },
     "duration": {
       "ok": true,
-      "value": 31.13
+      "value": 28.27
     },
     "av_sync": {
       "ok": true,
-      "value": 0.003
+      "value": 0.016
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.2
+      "value": 0.22
     },
     "loudness": {
       "ok": true,
-      "value": -14.0
+      "value": -14.1
     },
     "true_peak": {
       "ok": true,
-      "value": -2.5
+      "value": -2.7
     },
     "dead_air": {
-      "ok": false,
-      "value": [
-        [
-          24.15,
-          25.2
-        ]
-      ]
+      "ok": true,
+      "value": []
     },
     "starts_talking": {
       "ok": true,
@@ -525,10 +480,8 @@
       "value": []
     }
   },
-  "failed_checks": [
-    "dead_air"
-  ],
+  "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261114-88/render_sheet.jpg",
-  "asset_url": null,
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261114-88-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261114-88/ccf-20261114-88.mp4"
 }
