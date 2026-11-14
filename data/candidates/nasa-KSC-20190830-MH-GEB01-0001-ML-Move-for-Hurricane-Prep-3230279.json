@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190830-MH-GEB01-0001-ML-Move-for-Hurricane-Prep-3230279",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:08:27Z",
   "duration": 66.8,
   "source_file": {
@@ -62,5 +62,6 @@
     55.94,
     60.08,
     64.23
-  ]
+  ],
+  "used_by": "ccf-20261114-85"
 }

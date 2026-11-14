@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-69-71212-sRGB",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:03:18Z",
   "duration": 84.2,
   "source_file": {
@@ -67,5 +67,6 @@
     70.62,
     75.85,
     81.08
-  ]
+  ],
+  "pass_reason": "Apollo 11 launch already covered by ccf-20261105-02"
 }

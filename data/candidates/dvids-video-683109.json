@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-683109",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:34:35Z",
   "duration": 56.4,
   "source_file": {
@@ -74,5 +74,6 @@
     47.17,
     50.66,
     54.16
-  ]
+  ],
+  "pass_reason": "grainy black-and-white sensor footage; the man is a small dark figure on a gray hull for 25 s"
 }

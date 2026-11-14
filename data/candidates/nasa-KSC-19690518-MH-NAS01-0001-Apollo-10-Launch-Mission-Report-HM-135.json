@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-19690518-MH-NAS01-0001-Apollo-10-Launch-Mission-Report-HM-135",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:00:00Z",
   "duration": 1154.17,
   "source_file": {
@@ -1278,5 +1278,6 @@
     973.41,
     1045.51,
     1117.61
-  ]
+  ],
+  "pass_reason": "19-minute film, mostly mission control and slow lunar views; no sourced close call"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190828-MH-DJN01-0001-Hurricane-Dorian-Preps-Crawler-Transporter-Move-to-Pa",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:10:39Z",
   "duration": 97.17,
   "source_file": {
@@ -67,5 +67,6 @@
     81.56,
     87.6,
     93.65
-  ]
+  ],
+  "pass_reason": "same Dorian crawler move as ccf-20261114-85"
 }

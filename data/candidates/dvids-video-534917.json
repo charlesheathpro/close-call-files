@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-534917",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:37:19Z",
   "duration": 255.05,
   "source_file": {
@@ -62,5 +62,6 @@
     214.77,
     230.68,
     246.59
-  ]
+  ],
+  "pass_reason": "one static shot of police trucks on a road"
 }
