@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261113-02",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-773353",
   "lane": "rescue",
   "story_type": "fisherman overboard at night far offshore, crew recovers him, swimmer rides the hoist to a pitching deck",
@@ -108,29 +108,23 @@
     [
       {
         "start": 27.0,
-        "end": 30.0,
+        "end": 30.4,
         "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 30.0,
-        "end": 33.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 33.0,
-        "end": 36.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 31.3,
+        "end": 34.0,
+        "layout": "crop",
+        "crop_x": 0.2
       },
       {
-        "start": 36.0,
-        "end": 38.5,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 34.0,
+        "end": 36.6,
+        "layout": "crop",
+        "crop_x": 0.1
       }
     ],
     [
