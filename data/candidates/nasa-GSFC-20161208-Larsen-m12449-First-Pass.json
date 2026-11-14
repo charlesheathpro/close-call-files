@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20161208-Larsen-m12449-First-Pass",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:34:21Z",
   "duration": 113.43,
   "source_file": {
@@ -56,5 +56,6 @@
     95.28,
     102.34,
     109.4
-  ]
+  ],
+  "pass_reason": "Same Larsen C rift as ccf-20261114-78; static low-contrast window footage."
 }

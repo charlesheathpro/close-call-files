@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20161208-IceBridge-m12449-IceBridge",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-27T23:33:27Z",
   "duration": 131.35,
   "source_file": {
@@ -241,5 +241,6 @@
     110.4,
     118.58,
     126.76
-  ]
+  ],
+  "used_by": "ccf-20261114-78"
 }

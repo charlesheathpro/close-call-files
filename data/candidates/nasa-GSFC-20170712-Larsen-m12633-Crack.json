@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20170712-Larsen-m12633-Crack",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:29:45Z",
   "duration": 9.57,
   "source_file": {
@@ -50,5 +50,6 @@
     7.65,
     8.22,
     8.78
-  ]
+  ],
+  "pass_reason": "9 s satellite loop; its release is cited as the outcome source in ccf-20261114-78."
 }
