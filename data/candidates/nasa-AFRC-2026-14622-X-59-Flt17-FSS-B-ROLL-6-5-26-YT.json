@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14622-X-59-Flt17-FSS-B-ROLL-6-5-26-YT",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-02T09:59:44Z",
   "duration": 521.7,
   "source_file": {
@@ -657,5 +657,6 @@
     439.76,
     472.34,
     504.91
-  ]
+  ],
+  "used_by": "ccf-20261114-06"
 }
