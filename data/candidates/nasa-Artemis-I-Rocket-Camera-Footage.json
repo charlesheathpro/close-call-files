@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Artemis-I-Rocket-Camera-Footage",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:14:52Z",
   "duration": 28.53,
   "source_file": {
@@ -74,5 +74,6 @@
     23.65,
     25.41,
     27.16
-  ]
+  ],
+  "pass_reason": "only about 8 usable seconds, rest dark or fogged"
 }

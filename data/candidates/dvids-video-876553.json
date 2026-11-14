@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-876553",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:51:30Z",
   "duration": 110.98,
   "source_file": {
@@ -71,5 +71,6 @@
     93.22,
     100.12,
     107.03
-  ]
+  ],
+  "pass_reason": "medical shoulder injury case"
 }

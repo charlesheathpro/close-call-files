@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-481421",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:50:50Z",
   "duration": 214.27,
   "source_file": {
@@ -85,5 +85,6 @@
     181.0,
     194.11,
     207.22
-  ]
+  ],
+  "pass_reason": "door-cam glare, injured man in basket"
 }

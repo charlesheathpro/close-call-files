@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-art002m1200912222-Liftoff-1",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T01:34:35Z",
   "duration": 53.8,
   "source_file": {
@@ -61,5 +61,6 @@
     44.97,
     48.3,
     51.63
-  ]
+  ],
+  "used_by": "ccf-20261114-03"
 }

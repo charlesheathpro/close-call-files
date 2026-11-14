@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2023-CM-0250",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:13:35Z",
   "duration": 153.22,
   "source_file": {
@@ -107,5 +107,6 @@
     128.85,
     138.4,
     147.94
-  ]
+  ],
+  "pass_reason": "camera operators, launch distant"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-772344",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:50:04Z",
   "duration": 98.63,
   "source_file": {
@@ -233,5 +233,6 @@
     82.8,
     88.93,
     95.07
-  ]
+  ],
+  "pass_reason": "black and white night door-cam, nothing readable"
 }
