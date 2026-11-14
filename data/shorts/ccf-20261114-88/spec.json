@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261114-88",
   "candidate_id": "dvids-video-807225",
-  "revision": 1,
+  "revision": 2,
   "lane": "rescue",
   "story_type": "swimmer lowered beside a tanker's mast far offshore",
   "music_mood": "aviation",
@@ -9,11 +9,11 @@
   "hook": "A rescue swimmer on a cable, right beside a tanker's mast.",
   "narration": [
     "This rescue swimmer is dangling on a cable, right beside a tanker's mast.",
-    "Two hundred twenty-three miles southeast of Cape Hatteras, an injured crewman aboard the tanker needed a hospital.",
+    "Two hundred twenty-three miles southeast of Cape Hatteras, a forty-one-year-old man aboard the tanker needed a hospital.",
     "A Jayhawk crew from Coast Guard Air Station Elizabeth City flew out to get him.",
-    "A ship's masts and rigging can snag a hoist cable, so the pilot has to hold a steady hover while the swimmer is lowered to the deck. [short pause]"
+    "Masts and rigging can snag a hoist cable, so the pilot has to hold a rock steady hover."
   ],
-  "outcome": "The Jayhawk crew hoisted the forty-one-year-old man and flew him to Sentara Norfolk General Hospital.",
+  "outcome": "The Jayhawk crew hoisted him off the tanker and flew him to Sentara Norfolk General Hospital.",
   "location_card": {
     "place": "223 miles southeast of Cape Hatteras, North Carolina",
     "date": "July 19, 2021"
@@ -58,13 +58,13 @@
         "start": 3.2,
         "end": 5.6,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.4
       },
       {
         "start": 5.6,
         "end": 8.0,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.45
       }
     ],
     [
@@ -75,22 +75,10 @@
         "crop_x": 0.3
       },
       {
-        "start": 0.3,
-        "end": 2.0,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
         "start": 25.5,
-        "end": 28.0,
+        "end": 27.8,
         "layout": "crop",
         "crop_x": 0.35
-      },
-      {
-        "start": 8.9,
-        "end": 10.0,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ],
     [
@@ -114,9 +102,9 @@
       }
     ]
   ],
-  "keep_source_audio": false,
+  "keep_source_audio": true,
   "title": "Swimmer lowered beside a tanker mast",
-  "description": "A Coast Guard Air Station Elizabeth City MH-60 Jayhawk crew lowered a rescue swimmer to a tanker about 223 miles southeast of Cape Hatteras, North Carolina, on July 19, 2021, and flew an injured 41-year-old crewman to Sentara Norfolk General Hospital.\n\nFootage: U.S. Coast Guard courtesy video, via DVIDS: https://www.dvidshub.net/video/807225/coast-guard-hoists-injured-mariner-approximately-223-miles-southeast-cape-hatteras-north-carolina\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #helicopter",
+  "description": "A Coast Guard Air Station Elizabeth City MH-60 Jayhawk crew lowered a rescue swimmer to a tanker about 223 miles southeast of Cape Hatteras, North Carolina, on July 19, 2021, and flew a 41-year-old man to Sentara Norfolk General Hospital.\n\nFootage: U.S. Coast Guard courtesy video, via DVIDS: https://www.dvidshub.net/video/807225/coast-guard-hoists-injured-mariner-approximately-223-miles-southeast-cape-hatteras-north-carolina\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #coastguard #rescue #helicopter",
   "tags": [
     "coast guard",
     "rescue",
