@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2025m000148-Hurricane-Erin-Seen-From-International-Space-Station",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:53:29Z",
   "duration": 190.7,
   "source_file": {
@@ -62,5 +62,6 @@
     160.48,
     172.37,
     184.26
-  ]
+  ],
+  "pass_reason": "Slow static cloud tops from orbit; the release only forecasts the track, no outcome."
 }
