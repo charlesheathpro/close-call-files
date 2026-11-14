@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Testing-Mars-Sample-Return-UHD-H264",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:30:27Z",
   "duration": 179.58,
   "source_file": {
@@ -623,5 +623,6 @@
     151.1,
     162.29,
     173.49
-  ]
+  ],
+  "pass_reason": "duplicate of JPL Mars Sample Return testing video; talking heads and animation"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314786",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:22:55Z",
   "duration": 279.06,
   "source_file": {
@@ -82,5 +82,6 @@
     235.03,
     252.44,
     269.85
-  ]
+  ],
+  "pass_reason": "Same Bodega Bay surf training day as ccf-20261114-43 (MLB 47257); would be a repeat, and lens spotting is heavy"
 }

@@ -1,0 +1,158 @@
+{
+  "candidate_id": "nasa-Apollo-15-Never-Been-on-a-Ride-like-this-Before",
+  "lane": "aviation_naval",
+  "story_type": "spacecraft parachute failure at splashdown",
+  "music_mood": "sea",
+  "priority": 4,
+  "hook": "One of Apollo 15's three parachutes collapsed on the way home.",
+  "narration": [
+    "One of Apollo 15's parachutes collapsed on the way home.",
+    "Three astronauts were ending a twelve-day Moon landing mission.",
+    "Two of them had driven the first car on the Moon, and its camera filmed them blasting off.",
+    "Burning thruster fuel ate through its lines. It streamed at a fifth of its normal pull.",
+    "[short pause] Apollo was built to land on two chutes. It just hit harder."
+  ],
+  "outcome": "Apollo 15 hit the Pacific hard but safely, and all three astronauts were recovered.",
+  "location_card": {
+    "place": "Pacific Ocean, 330 miles north of Honolulu",
+    "date": "Aug. 7, 1971"
+  },
+  "keep_source_audio": false,
+  "title": "Apollo 15 splashed down on two chutes",
+  "description": "One of Apollo 15's three main parachutes collapsed during the descent to the Pacific Ocean on Aug. 7, 1971, after burning thruster fuel damaged its risers. The capsule landed hard on two chutes and the crew was recovered safely.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/Apollo%2015%20Never%20Been%20on%20a%20Ride%20like%20this%20Before\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #apollo #nasa #splashdown",
+  "tags": [
+    "apollo 15",
+    "nasa",
+    "splashdown",
+    "parachute failure",
+    "moon mission",
+    "lunar rover",
+    "space history",
+    "uss okinawa",
+    "real footage"
+  ],
+  "question_comment": "Would you trust two parachutes out of three?",
+  "facts": [
+    {
+      "claim": "Fuel burned through the risers of one chute, which streamed at about a fifth of capacity",
+      "source_quote": "During re-entry the burning reaction control system fuel burned through the risers of one of the shoots, and that shoot streamed and effectively became about one fifth of its normal capacity."
+    },
+    {
+      "claim": "Designed to land on two chutes; hard but safe landing",
+      "source_quote": "Apollo 15 landed on two shoots. It was designed to do that, but it did mean a hard landing, but a safe landing."
+    },
+    {
+      "claim": "Longest crewed lunar mission; first lunar rover",
+      "source_quote": "The first use of the Lunar Rover,"
+    },
+    {
+      "claim": "Rover TV camera filmed the ascent stage taking off",
+      "source_quote": "The Lunar Rover had a TV camera on it, and for the first time we were privileged to see the asset stage take off from the moon."
+    },
+    {
+      "claim": "Splashdown Aug. 7, 1971, 330 miles north of Honolulu; one main chute collapsed; Okinawa recovered the crew",
+      "source_quote": "One of the three main parachutes collapsed during the descent, but did not harm the astronauts."
+    }
+  ],
+  "extra_sources": [
+    {
+      "url": "https://nasa.gov/history/50-years-ago-apollo-15-home-from-the-moon",
+      "excerpt": "On Aug. 7, 1971, Apollo 15 astronauts David R. Scott, Alfred M. Worden and James B. Irwin ended their successful 12-day Moon landing mission with a splashdown in their Command Module (CM) Endeavour in the Pacific Ocean. The splashdown point 330 miles north of Honolulu was 1 mile from the target and about 6 miles from the prime recovery ship U.S.S. Okinawa (LPH-3). ... One of the three main parachutes collapsed during the descent, but did not harm the astronauts. ... Recovery forces from the U.S.S. Okinawa monitored the descent and landing and retrieved the astronauts and their spacecraft."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Two full chutes and one collapsed, streaming chute over the ocean; splash; crew stepping off a helicopter on the recovery ship",
+      "seen_at": "source 247 to 264 s"
+    }
+  ],
+  "short_id": "ccf-20261114-34",
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 254.0,
+        "end": 257.1,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 8.8,
+        "end": 11.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 15.0,
+        "end": 17.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 47.8,
+        "end": 50.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 194.8,
+        "end": 197.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 247.4,
+        "end": 249.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 249.6,
+        "end": 251.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 251.8,
+        "end": 254.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 244.0,
+        "end": 246.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 257.2,
+        "end": 259.62,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 259.8,
+        "end": 262.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 262.4,
+        "end": 265.1,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ],
+  "preview_ok": "L5 shot 2: deep blue ocean behind the two good chutes and the streaming one, capsule visible and splash at the end; DARK misfires on the dark water (checked in preview)"
+}

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000907-Apollo-Digest-Series-Testing-Apollo",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-11T18:35:32Z",
   "duration": 328.83,
   "source_file": {
@@ -496,5 +496,6 @@
     277.03,
     297.55,
     318.07
-  ]
+  ],
+  "used_by": "ccf-20261114-31"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20240605-MH-RKL01-0001-Rocket-Lab-PREFIRE-and-Ice-Launch-1080p-M6988",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:14:39Z",
   "duration": 55.77,
   "source_file": {
@@ -70,5 +70,6 @@
     46.63,
     50.09,
     53.54
-  ]
+  ],
+  "pass_reason": "routine small-rocket launch, no outcome in release, low drama"
 }

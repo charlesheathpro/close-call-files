@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220519-MH-AJN01-0001-Boeing-OFT-2-Isolated-Launch-Views-1080p-3302909",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T00:38:45Z",
   "duration": 502.95,
   "source_file": {
@@ -557,5 +557,6 @@
     423.95,
     455.35,
     486.75
-  ]
+  ],
+  "used_by": "ccf-20261114-33"
 }

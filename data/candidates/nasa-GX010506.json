@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GX010506",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:40:05Z",
   "duration": 115.86,
   "source_file": {
@@ -61,5 +61,6 @@
     97.34,
     104.55,
     111.76
-  ]
+  ],
+  "pass_reason": "same Artemis I launch as ccf-20261114-32 (its description is cited there as an extra source)"
 }

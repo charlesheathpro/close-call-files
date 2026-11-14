@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20211210-MSRf-0001-Testing-Mars-Sample-Return",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:38:08Z",
   "duration": 160.45,
   "source_file": {
@@ -303,5 +303,6 @@
     134.96,
     144.95,
     154.95
-  ]
+  ],
+  "pass_reason": "mostly talking heads and animation; tests brief, no clear outcome"
 }

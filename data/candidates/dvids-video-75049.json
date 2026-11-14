@@ -26,7 +26,7 @@
   "time_start": 4.3043,
   "aspect_ratio": "4:3",
   "id": "dvids-video-75049",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:41:28Z",
   "duration": 85.78,
   "source_file": {
@@ -74,5 +74,6 @@
     72.62,
     77.68,
     82.75
-  ]
+  ],
+  "pass_reason": "smeared old thermal footage"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-314005",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:24:05Z",
   "duration": 151.77,
   "source_file": {
@@ -72,5 +72,6 @@
     127.63,
     137.08,
     146.54
-  ]
+  ],
+  "pass_reason": "640x480 with letterbox (about 360 lines of picture), camera mostly on crew backs; Bodega Bay bow-cam used instead"
 }

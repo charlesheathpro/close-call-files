@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-940173",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T21:00:19Z",
   "duration": 58.63,
   "source_file": {
@@ -62,5 +62,6 @@
     49.04,
     52.68,
     56.31
-  ]
+  ],
+  "pass_reason": "duplicate of 940515 (Galveston jetty medevac), calm vertical phone clip"
 }

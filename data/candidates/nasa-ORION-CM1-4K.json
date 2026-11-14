@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ORION-CM1-4K",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:21:23Z",
   "duration": 181.87,
   "source_file": {
@@ -89,5 +89,6 @@
     153.03,
     164.36,
     175.7
-  ]
+  ],
+  "pass_reason": "documentary of the capsule returning to Glenn for testing, static handling footage"
 }

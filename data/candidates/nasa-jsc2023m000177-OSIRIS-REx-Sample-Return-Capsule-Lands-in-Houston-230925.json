@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2023m000177-OSIRIS-REx-Sample-Return-Capsule-Lands-in-Houston-230925",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:38:38Z",
   "duration": 378.28,
   "source_file": {
@@ -86,5 +86,6 @@
     318.75,
     342.36,
     365.98
-  ]
+  ],
+  "pass_reason": "shows the capsule being flown and driven to Houston, not the desert landing"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-691110",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:50:31Z",
   "duration": 176.38,
   "source_file": {
@@ -214,5 +214,6 @@
     148.4,
     159.39,
     170.38
-  ]
+  ],
+  "pass_reason": "yellow-tinted FLIR and fisheye door-cam, murky; hiker hard to read"
 }

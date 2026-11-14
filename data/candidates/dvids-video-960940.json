@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-960940",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:19:32Z",
   "duration": 51.03,
   "source_file": {
@@ -79,5 +79,6 @@
     42.64,
     45.8,
     48.96
-  ]
+  ],
+  "pass_reason": "Routine controlled burn b-roll, low flames, no story or outcome"
 }

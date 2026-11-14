@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Apollo-15-Never-Been-on-a-Ride-like-this-Before",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-12T00:59:16Z",
   "duration": 299.01,
   "source_file": {
@@ -659,5 +659,6 @@
     251.87,
     270.52,
     289.18
-  ]
+  ],
+  "used_by": "ccf-20261114-34"
 }
