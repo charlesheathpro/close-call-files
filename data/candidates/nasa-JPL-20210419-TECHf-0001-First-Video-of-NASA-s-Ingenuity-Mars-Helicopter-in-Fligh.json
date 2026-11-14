@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210419-TECHf-0001-First-Video-of-NASA-s-Ingenuity-Mars-Helicopter-in-Fligh",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:38:28Z",
   "duration": 57.0,
   "source_file": {
@@ -61,5 +61,6 @@
     47.67,
     51.2,
     54.74
-  ]
+  ],
+  "pass_reason": "helicopter is a speck in one static view"
 }

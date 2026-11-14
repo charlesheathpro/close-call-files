@@ -1,0 +1,177 @@
+{
+  "candidate_id": "nasa-SSC-2025-11-12-RS-25-Engine-Test",
+  "lane": "aviation_naval",
+  "story_type": "rocket engine full-duration test fire",
+  "music_mood": "hazards",
+  "priority": 7,
+  "hook": "This rocket engine fired for 500 seconds straight.",
+  "narration": [
+    "This rocket engine fired for eight minutes and twenty seconds without stopping.",
+    "It is an RS-25, built to launch NASA's Moon rocket. Four of them fire together at liftoff.",
+    "This one was brand new. NASA tested it at Stennis Space Center in Mississippi on November twelfth, 2025.",
+    "It ran at up to one hundred and eleven percent power.",
+    "The white cloud is mostly steam. The engine burns hydrogen and oxygen, so its exhaust is water.",
+    "[short pause] The frost on the pipes comes from fuel colder than four hundred degrees below zero."
+  ],
+  "outcome": "The test ran the full five hundred seconds before the engine shut down.",
+  "location_card": {
+    "place": "Stennis Space Center, Mississippi",
+    "date": "Nov. 12, 2025"
+  },
+  "keep_source_audio": true,
+  "title": "Rocket engine fired for 500 seconds",
+  "description": "On Nov. 12, 2025, NASA tested a new production RS-25 engine for the SLS Moon rocket on the Fred Haise Test Stand at Stennis Space Center in Mississippi, firing it for 500 seconds at up to 111% power.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/SSC_2025-11-12_RS-25_Engine_Test\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #rocketengine #artemis",
+  "tags": [
+    "rs-25",
+    "rocket engine",
+    "nasa",
+    "stennis space center",
+    "sls",
+    "artemis",
+    "hot fire",
+    "engine test",
+    "moon rocket",
+    "real footage"
+  ],
+  "question_comment": "Would you want to stand this close to a rocket engine test?",
+  "facts": [
+    {
+      "claim": "New production RS-25 tested Nov. 12, 2025, Stennis, Fred Haise Test Stand, Mississippi",
+      "source_quote": "Teams at NASA’s Stennis Space Center tested a new production RS-25 engine on Nov. 12, 2025, on the Fred Haise Test Stand in south Mississippi."
+    },
+    {
+      "claim": "500 seconds at up to 111% power",
+      "source_quote": "had a duration of 500 seconds with a maximum 111% power level."
+    },
+    {
+      "claim": "Four RS-25s launch SLS",
+      "source_quote": "Four RS-25 engines are used to help launch NASA’s SLS (Space Launch System) rocket"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Engine firing, steam cloud billowing from the stand, frost on plumbing, shutdown flame",
+      "seen_at": "source 8 to 518 s"
+    }
+  ],
+  "short_id": "ccf-20261114-08",
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 137.0,
+        "end": 139.5,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 68.0,
+        "end": 70.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 26.0,
+        "end": 28.5,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 41.0,
+        "end": 43.5,
+        "layout": "crop",
+        "crop_x": 0.15
+      },
+      {
+        "start": 200.5,
+        "end": 203.0,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 245.0,
+        "end": 247.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 29.5,
+        "end": 32.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 141.5,
+        "end": 144.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 285.0,
+        "end": 287.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 350.5,
+        "end": 353.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 45.0,
+        "end": 47.5,
+        "layout": "crop",
+        "crop_x": 0.2
+      }
+    ],
+    [
+      {
+        "start": 52.0,
+        "end": 54.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 58.0,
+        "end": 60.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 368.0,
+        "end": 370.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 511.0,
+        "end": 513.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 514.5,
+        "end": 517.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

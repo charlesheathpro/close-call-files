@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-art002m1200912239B-Core-Seperation-SAW2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:35:40Z",
   "duration": 296.47,
   "source_file": {
@@ -61,5 +61,6 @@
     249.72,
     268.22,
     286.72
-  ]
+  ],
+  "pass_reason": "one static camera, purple lens flare, separation not readable"
 }
