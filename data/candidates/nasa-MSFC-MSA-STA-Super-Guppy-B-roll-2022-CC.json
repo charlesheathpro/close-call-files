@@ -1,0 +1,95 @@
+{
+  "asset_id": "nasa:MSFC_MSA_STA_Super_Guppy_B_roll_2022_CC",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor targeted search",
+  "title": "NASA’s Super Guppy Delivers SLS Rocket Test Hardware to Marshall",
+  "description": "NASA’s Super Guppy aircraft arrived at NASA’s Marshall Space Flight Center in Huntsville, Ala., with the Orion stage adapter (OSA) structural test article Aug. 10.  The Super Guppy is capable of hauling heavy, large cargo, and its unique, hinged nose can open up to 110 degrees, allowing NASA teams to load and unload that heavy, bulky cargo from the front of the aircraft. Engineers at Marshall designed and built the OSA test hardware to help prepare the agency’s Space Launch System (SLS) rocket for flight. The OSA connects the rocket’s interim cryogenic propulsion stage to the Orion spacecraft. The flight version of the Orion stage adapter is integrated with the SLS rocket ahead of the agency’s Artemis I mission at NASA’s Kennedy Space Center in Florida. The Artemis I OSA will deploy 10 different CubeSats, or small satellites, to conduct various science and technology demonstrations in deep space. For more information about Marshall, visit nasa.gov/marshall",
+  "keywords": "Space Launch System, SLS, Artemis, NASA, Marshall Space Flight Center, rocket science, rocket, launch vehicle, Moon",
+  "date": "2022-08-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/MSFC_MSA_STA_Super_Guppy_B_roll_2022_CC",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-MSFC-MSA-STA-Super-Guppy-B-roll-2022-CC",
+  "status": "passed_over",
+  "harvested_at": "2026-11-14T21:10:54Z",
+  "duration": 299.65,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/MSFC_MSA_STA_Super_Guppy_B_roll_2022_CC/MSFC_MSA_STA_Super_Guppy_B_roll_2022_CC~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 299.633333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 49.3,
+      "e": 130.7,
+      "text": "NASA Super"
+    },
+    {
+      "s": 130.7,
+      "e": 171.43,
+      "text": "Guppy"
+    },
+    {
+      "s": 171.43,
+      "e": 212.13,
+      "text": "arrival"
+    },
+    {
+      "s": 212.13,
+      "e": 293.5,
+      "text": "with cargo"
+    }
+  ],
+  "scene_cuts": [
+    0.93,
+    30.77,
+    45.13,
+    78.67,
+    146.2,
+    166.2,
+    188.83,
+    209.33,
+    259.87,
+    276.87,
+    297.37
+  ],
+  "drama_score": 42,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      297.4
+    ],
+    "silence_ends": [
+      1.0,
+      299.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-MSFC-MSA-STA-Super-Guppy-B-roll-2022-CC.jpg",
+  "sheet_times": [
+    9.35,
+    28.05,
+    46.74,
+    65.44,
+    84.14,
+    102.83,
+    121.53,
+    140.23,
+    158.92,
+    177.62,
+    196.32,
+    215.01,
+    233.71,
+    252.41,
+    271.1,
+    289.8
+  ],
+  "pass_reason": "same aircraft as ccf-20261114-86; cited only as a fact source"
+}

@@ -1,0 +1,79 @@
+{
+  "asset_id": "nasa:NASA_MSFC_2023_Super_Guppy_Arrival",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor targeted search",
+  "title": "Super Guppy Arrives in Alabama to Drop Off Artemis I Heat Shield",
+  "description": "NASA's Super Guppy arrives in Alabama on Nov. 6, 2023, carrying the heat shield that protected Orion’s crew module during its flight on Artemis I. The one-of-a-kind, turboprop-powered aircraft ferried the heat shield from NASA’s Kennedy Space Center in Florida to Huntsville International Airport for transport to the agency’s Marshall Space Flight Center. Technicians at Marshall will use the center’s specialized milling tool to remove the heat shield’s outer layer of ablative material, a protective coating called Avcoat, as part of routine post-flight analysis.",
+  "keywords": "Super Guppy, NASA Marshall Space Flight Center",
+  "date": "2023-11-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA MSFC",
+  "credit": "NASA MSFC video",
+  "page_url": "https://images.nasa.gov/details/NASA_MSFC_2023_Super_Guppy_Arrival",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-NASA-MSFC-2023-Super-Guppy-Arrival",
+  "status": "used",
+  "harvested_at": "2026-11-14T21:11:13Z",
+  "duration": 156.97,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/NASA_MSFC_2023_Super_Guppy_Arrival/NASA_MSFC_2023_Super_Guppy_Arrival~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 156.966667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[Ambient sounds]"
+    }
+  ],
+  "scene_cuts": [
+    46.77,
+    82.23,
+    97.17,
+    120.2,
+    139.03,
+    151.93
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [
+      0.4,
+      3.1,
+      5.2,
+      152.0
+    ],
+    "silence_ends": [
+      2.0,
+      5.2,
+      6.9,
+      157.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-NASA-MSFC-2023-Super-Guppy-Arrival.jpg",
+  "sheet_times": [
+    4.89,
+    14.67,
+    24.45,
+    34.23,
+    44.01,
+    53.79,
+    63.57,
+    73.35,
+    83.12,
+    92.9,
+    102.68,
+    112.46,
+    122.24,
+    132.02,
+    141.8,
+    151.58
+  ],
+  "used_by": "ccf-20261114-86"
+}
