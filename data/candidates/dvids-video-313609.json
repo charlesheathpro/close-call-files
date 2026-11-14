@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:313609",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "U.S. Coast Guard Helicopter Crew Rescues Hang Glider",
+  "description": "A U.S. Coast Guard Air Station San Francisco helicopter crew rescues a stranded hang glider from a sandy cliff after the hang glider  crashed.  The National Park Service and the local fire department were unable to reach the stranded man and requested Coast Guard assistance for an airlift. (Coast Guard video)",
+  "keywords": "CGVI",
+  "date": "2008-09-08T00:00:00-04:00",
+  "date_published": "2013-12-16T23:23:23-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313609/us-coast-guard-helicopter-crew-rescues-hang-glider",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313609",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:33:27Z",
+  "duration": 266.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054165/DOD_101054165-640x480-614k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 614,
+    "size": 24080071
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    22.59,
+    252.82
+  ],
+  "drama_score": 29,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      266.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313609.jpg",
+  "sheet_times": [
+    8.3,
+    24.9,
+    41.5,
+    58.11,
+    74.71,
+    91.31,
+    107.91,
+    124.51,
+    141.11,
+    157.71,
+    174.32,
+    190.92,
+    207.52,
+    224.12,
+    240.72,
+    257.32
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "asset_id": "video:313874",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Smith River Rescue by CG Air Station Humboldt Bay",
+  "description": "MCKINLEYVILLE, Calif.- An HH-65 Dolphin helicopter crew from Coast Guard Air Station Humboldt Bay recues two men who were stranded on the North Fork of the Smith River after being separated from their raft.",
+  "keywords": "CGVI",
+  "date": "2009-01-28T00:00:00-05:00",
+  "date_published": "2013-12-17T02:41:25-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "McKinleyville",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/313874/smith-river-rescue-cg-air-station-humboldt-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-313874",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:33:14Z",
+  "duration": 245.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101054534/DOD_101054534-640x480-1576k.mp4",
+    "width": 640,
+    "height": 480,
+    "bitrate": 1576,
+    "size": 52441214
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 9.74,
+      "e": 10.74,
+      "text": "He's going down."
+    },
+    {
+      "s": 11.24,
+      "e": 12.24,
+      "text": "He's going right."
+    },
+    {
+      "s": 13.99,
+      "e": 14.99,
+      "text": "He's going right."
+    },
+    {
+      "s": 15.99,
+      "e": 16.99,
+      "text": "He's going right."
+    },
+    {
+      "s": 17.49,
+      "e": 44.07,
+      "text": "He's going down."
+    }
+  ],
+  "scene_cuts": [
+    6.01,
+    135.74
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-313874.jpg",
+  "sheet_times": [
+    7.67,
+    23.01,
+    38.34,
+    53.68,
+    69.02,
+    84.36,
+    99.69,
+    115.03,
+    130.37,
+    145.71,
+    161.04,
+    176.38,
+    191.72,
+    207.06,
+    222.39,
+    237.73
+  ]
+}

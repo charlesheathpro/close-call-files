@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:882073",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, partners rescue 3 overdue mariners in Kiribati",
+  "description": "Coast Guard, Rescue Coordination Center Fiji. and the merchant vessel Natinteraoi crews rescued three overdue mariners 63 nautical miles west of Abaiang Island, Tuesday.",
+  "keywords": "search and rescue, USCG",
+  "date": "2023-05-01T00:00:00-04:00",
+  "date_published": "2023-05-03T20:38:09-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Oceania",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230501-G-G2014-1001",
+  "location": {
+    "city": "HONOLULU",
+    "state": "Hawaii",
+    "country": "United States",
+    "state_abbreviation": "HI",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/882073/coast-guard-partners-rescue-3-overdue-mariners-kiribati",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-882073",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:34:00Z",
+  "duration": 16.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109614795/DOD_109614795-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 16958373
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.43,
+    13.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      16.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-882073.jpg",
+  "sheet_times": [
+    0.51,
+    1.54,
+    2.56,
+    3.59,
+    4.61,
+    5.64,
+    6.66,
+    7.69,
+    8.71,
+    9.74,
+    10.76,
+    11.79,
+    12.81,
+    13.84,
+    14.86,
+    15.89
+  ]
+}

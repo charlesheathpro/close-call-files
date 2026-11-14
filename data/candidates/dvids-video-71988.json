@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:71988",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard Rescue 100 Miles West of Key West, Fla.",
+  "description": "B-roll of members of Coast Guard Sector Key West from Coast Guard Air Station Clearwater performing a Medevac rescue 100 miles west of Key West, Fla. Scenes include aerial shots of the Munin Explorer ship from a helicopter and a person being lifted up from the ship to the helicopter.",
+  "keywords": "Clearwater, Munin Explorer ship, key west, U.S. Coast Guard Sector Key West",
+  "date": "2009-11-03T00:00:00-05:00",
+  "date_published": "2009-11-03T18:23:08-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Atlantic Area",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Key West",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/71988/coast-guard-rescue-100-miles-west-key-west-fla",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 3.93727,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-71988",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:34:18Z",
+  "duration": 93.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0911/DOD_100056334/DOD_100056334.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.94,
+    12.41,
+    19.62,
+    86.55,
+    88.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      88.4
+    ],
+    "silence_ends": [
+      3.9,
+      93.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-71988.jpg",
+  "sheet_times": [
+    6.73,
+    12.31,
+    17.89,
+    23.47,
+    29.05,
+    34.64,
+    40.22,
+    45.8,
+    51.38,
+    56.96,
+    62.54,
+    68.13,
+    73.71,
+    79.29,
+    84.87,
+    90.45
+  ]
+}

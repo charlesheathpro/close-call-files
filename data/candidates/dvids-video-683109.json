@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:683109",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard coordinates rescue approximately 500 NM off Nantucket",
+  "description": "An Air Station Cape Cod HC-144 aircrew responded to the rescue of a 63 year-old man after his sailboat, Undaunted, lost power approximately 500 NM SE of Nantucket. An Amver oil tanker, Front Leopard, assisted and rescued the man from his disabled boat. (U.S. Coast Guard video)",
+  "keywords": "Air Station, Nantucket, ocean sentry, AMVER, HC-144, Undaunted, First District, Front Leopard, Coast Guard, cape cod",
+  "date": "2019-05-23T00:00:00-04:00",
+  "date_published": "2019-05-24T15:23:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190524-G-G0101-1000",
+  "location": {
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/683109/coast-guard-coordinates-rescue-approximately-500-nm-off-nantucket",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-683109",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:34:35Z",
+  "duration": 56.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1905/DOD_106796487/DOD_106796487.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 10140,
+    "size": 72494843
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    1.0,
+    1.2,
+    1.27,
+    1.53,
+    4.74,
+    4.84,
+    4.9
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      56.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-683109.jpg",
+  "sheet_times": [
+    1.75,
+    5.24,
+    8.74,
+    12.23,
+    15.72,
+    19.22,
+    22.71,
+    26.21,
+    29.7,
+    33.19,
+    36.69,
+    40.18,
+    43.68,
+    47.17,
+    50.66,
+    54.16
+  ]
+}

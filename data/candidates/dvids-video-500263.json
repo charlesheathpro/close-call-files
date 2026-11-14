@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:500263",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard, Local Agencies Rescue Boater Off Chatham, MA",
+  "description": "Coast Guard Air Station Cape Cod MH-60 Jayhawk helicopter aircrew airlifts a boater Tuesday off Chatham Bar, Dec. 14, 2016. The boater capsized his 20-foot runabout boat and no injuries have been reported. (U.S. Coast Guard video by Air Station Cape Cod)",
+  "keywords": "Air Station Cape Cod, Chatham, chatham harbormaster",
+  "date": "2016-12-13T00:00:00-05:00",
+  "date_published": "2016-12-14T14:46:31-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "161214-G-OS599-001",
+  "location": {
+    "city": "Cape Cod",
+    "state": "Massachusetts",
+    "country": "United States",
+    "state_abbreviation": "MA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/500263/coast-guard-local-agencies-rescue-boater-off-chatham-ma",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-500263",
+  "status": "new",
+  "harvested_at": "2026-11-14T16:34:44Z",
+  "duration": 103.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1612/DOD_103943701/DOD_103943701.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9822,
+    "size": 127354526
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-500263.jpg",
+  "sheet_times": [
+    7.12,
+    13.32,
+    19.51,
+    25.71,
+    31.9,
+    38.09,
+    44.29,
+    50.48,
+    56.68,
+    62.87,
+    69.07,
+    75.26,
+    81.46,
+    87.65,
+    93.85,
+    100.04
+  ]
+}
