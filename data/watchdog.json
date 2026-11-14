@@ -1,21 +1,25 @@
 {
-  "at": "2026-11-13T16:49:44Z",
+  "at": "2026-11-14T00:45:00Z",
   "healthy": false,
   "numbers": {
     "dropped": 48,
-    "uploaded": 126,
-    "held": 3,
-    "passed": 1,
+    "uploaded": 127,
+    "held": 5,
+    "passed": 2,
+    "needs_qa": 0,
     "scheduled_48h": 4
   },
   "found": [
-    "buffer thin: 4 scheduled in the next 48 h and 1 passed (fails the 20 and 25 thresholds)",
-    "upload 13:49Z, harvest 08:41Z (dvids_blocked, 2 new), stats 15:38Z all landed; no repeated build errors; no auth or upload alerts in 24 h",
-    "keyword scan of the unused DVIDS/Commons pool found mostly hurricane and wildfire recovery b-roll, ceremonies and calm medevacs; the 12:50Z editor pass already passed over the newest clips, so no new specs this run"
+    "buffer thin: 4 scheduled in the next 48 h plus 2 passed (fails the 20 and 25 thresholds)",
+    "upload 00:21Z, harvest 17:57Z Nov 13 (dvids_blocked), stats landed Nov 13; no build errors; last upload_error alert Nov 8",
+    "keyword scan of 3,141 new candidates: mostly NASA features, hurricane and wildfire recovery b-roll and calm medevacs"
   ],
   "fixed": [
-    "QA repaired and passed 11-08-03 rev 2 (Portlock fire and raft) and 11-13-01 rev 2 (Cemtex Venture heavy seas)",
-    "archive harvest restarted",
-    "upload kicked for the 2 passed Shorts"
+    "QA passed 11-13-03 and 11-13-05 (rev 2, fixed in this run)"
+  ],
+  "not_done": [
+    "editor pass stopped: writing a new spec was blocked by this session's permission check. Strongest lead for the next editor run: dvids-video-860117 (Empire, La., Oct. 9, 2022: boat sank Saturday, two boaters fending off sharks when the Station Venice crew arrived, Jayhawk hoisted the third; Coast Guard bulletin https://content.govdelivery.com/accounts/USDHSCG/bulletins/3315788). Hoist at source 43 to 56 s, boat scene 57 to 116 s, scene cuts at 42.8 and 92.2 s; sharks never visible; verify bulletin excerpts verbatim.",
+    "passed over on look (candidate status not changed): dvids-video-923415 (Freeport raft is a speck for most of the clip), 936759 (dark top-down hoist, 25 s), 845801 (calm marsh hoist), 968743 (blurry pillarboxed phone video, interview heavy)",
+    "upload not kicked: the 2 passed Shorts go out with the next scheduled upload run"
   ]
 }
