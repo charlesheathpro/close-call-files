@@ -203,5 +203,10 @@
     "at": "2026-11-08T10:12:35Z",
     "kind": "upload_error",
     "message": "ccf-20261107-04: 504 Server Error: Gateway Time-out for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261107-04-r2.mp4"
+  },
+  {
+    "at": "2026-11-14T06:22:34Z",
+    "kind": "upload_limit",
+    "message": "YouTube said uploadLimitExceeded after 6 uploads this run"
   }
 ]
