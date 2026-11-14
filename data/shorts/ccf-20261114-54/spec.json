@@ -63,7 +63,7 @@
     },
     {
       "url": "https://science.nasa.gov/blogs/sentinel-6/2020/11/21/sentinel-6-michael-freilich-satellite-in-earth-orbit-mission-begins-to-map-sea-levels",
-      "excerpt": "Following launch, the SpaceX Falcon 9 first stage separated and returned to Earth for a vertical landing at VAFB. After arriving in orbit, the Sentinel-6 Michael Freilich satellite separated from the rocket’s second stage and unfolded its twin sets of solar arrays. Ground controllers successfully acquired the satellite’s signal, and initial telemetry reports showed the spacecraft in good health."
+      "excerpt": "Following launch, the SpaceX Falcon 9 first stage separated and returned to Earth for a vertical landing at VAFB. After arriving in orbit, the Sentinel-6 Michael Freilich satellite separated from the rocket\u2019s second stage and unfolded its twin sets of solar arrays. Ground controllers successfully acquired the satellite\u2019s signal, and initial telemetry reports showed the spacecraft in good health."
     }
   ],
   "visible_facts": [
@@ -182,5 +182,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "Failed to build twice (line 3 footage too short) and is a third rocket-cam liftoff in a queue already saturated with rocket Shorts (-33, -03, -32)."
 }
