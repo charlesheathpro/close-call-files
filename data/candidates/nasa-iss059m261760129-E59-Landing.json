@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss059m261760129-E59-Landing",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:39:41Z",
   "duration": 578.5,
   "source_file": {
@@ -618,5 +618,6 @@
     487.69,
     523.81,
     559.94
-  ]
+  ],
+  "pass_reason": "Roscosmos logo on landing footage (non-federal credit); Soyuz landing ran Nov 12"
 }

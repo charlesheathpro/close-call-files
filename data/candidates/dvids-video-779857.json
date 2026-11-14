@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "rescue",
   "title": "Coast Guard rescues 3 mariners near Anna Maria Island",
-  "description": "A Coast Guard Station Cortez 45-foot Response Boat-Medium boat crew took  three crew members off a 70-foot commercial fishing vessel taking on water and transferred them to a dock in Cortez, Florida, Jan. 8, 2021. There are no medical concerns and the Coast Guard continues to monitor the vessel for possible pollution. U.S. Coast Guard courtesy video.",
+  "description": "A Coast Guard Station Cortez 45-foot Response Boat-Medium boat crew took  three crew members\u00a0off\u00a0a 70-foot commercial fishing vessel taking on water and transferred\u00a0them to a dock in Cortez, Florida, Jan. 8, 2021. There are no medical concerns and the Coast Guard continues to monitor the vessel for possible pollution. U.S. Coast Guard courtesy video.",
   "keywords": "St. Petersburg, Commercial fishing, Anna Maria Island, Coast Guard Station Cortez, search and rescue, Florida",
   "date": "2021-01-08T00:00:00-05:00",
   "date_published": "2021-01-09T07:47:09-05:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-779857",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:49:41Z",
   "duration": 15.37,
   "source_file": {
@@ -66,5 +66,6 @@
     12.55,
     13.48,
     14.41
-  ]
+  ],
+  "pass_reason": "grainy FLIR at 480p, 15 s"
 }

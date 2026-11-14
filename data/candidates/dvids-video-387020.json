@@ -26,7 +26,7 @@
   "time_start": 7.09507,
   "aspect_ratio": "16:9",
   "id": "dvids-video-387020",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:42:21Z",
   "duration": 127.85,
   "source_file": {
@@ -73,5 +73,6 @@
     108.56,
     116.08,
     123.59
-  ]
+  ],
+  "pass_reason": "grainy black-and-white door-cam"
 }

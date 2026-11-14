@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-697285",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:17:03Z",
   "duration": 37.01,
   "source_file": {
@@ -62,5 +62,6 @@
     30.81,
     33.09,
     35.37
-  ]
+  ],
+  "pass_reason": "single routine dirt-strip landing; plane distant after 17 s"
 }
