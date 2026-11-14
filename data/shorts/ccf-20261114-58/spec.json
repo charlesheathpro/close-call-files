@@ -1,0 +1,163 @@
+{
+  "candidate_id": "commons-This-short-video-compilation-shows-conditions-at-Kapoho-Bay-",
+  "lane": "hazards",
+  "story_type": "lava pouring into the ocean, steam wall beside homes",
+  "music_mood": "hazards",
+  "priority": 6,
+  "hook": "This wall of steam is lava pouring into the ocean.",
+  "narration": [
+    "This wall of steam is lava pouring into the Pacific along half a mile of coastline.",
+    "On June fourth, 2018, a USGS helicopter flew over Kapoho Bay on Hawaii's Big Island.",
+    "By six fifteen that morning, lava from fissure eight had been entering the ocean for more than seven hours.",
+    "When lava hits seawater, the water flashes to steam, carrying acid and tiny shards of volcanic glass. Scientists call it laze.",
+    "[short pause] Look at the houses along the shore, right beside it."
+  ],
+  "outcome": "By afternoon, lava was filling the shallow bay, building new land out into the water.",
+  "location_card": {
+    "place": "Kapoho Bay, Hawaii",
+    "date": "June 4, 2018"
+  },
+  "keep_source_audio": false,
+  "title": "Lava pours into a Hawaii bay",
+  "description": "Lava from Kilauea's fissure 8 poured into Kapoho Bay on Hawaii's Big Island on June 4, 2018, building a delta and sending a laze plume along the coast, seen from a USGS helicopter overflight.\n\nFootage: USGS Hawaiian Volcano Observatory video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:This_short_video_compilation_shows_conditions_at_Kapoho_Bay_during_a_helicopt....webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #lava #volcano #hawaii",
+  "tags": [
+    "lava",
+    "kilauea",
+    "kapoho bay",
+    "volcano",
+    "laze",
+    "ocean entry",
+    "usgs",
+    "hawaii",
+    "2018 eruption",
+    "real footage"
+  ],
+  "question_comment": "Would you have stayed to watch, or left the coast?",
+  "facts": [
+    {
+      "claim": "June 4, 2018 overflight; lava from fissure 8 entering the ocean over seven hours by 6:15 AM",
+      "source_quote": "This short video compilation shows conditions at Kapoho Bay during a helicopter overflight on June 4, 2018, around 6:15 AM and again around 1:38 PM. By 6:15 AM, lava from fissure 8 has been entering the ocean for over seven hours."
+    },
+    {
+      "claim": "Ocean entry half a mile wide, delta a few hundred yards into the bay, laze plume",
+      "source_quote": "The ocean entry is about a half-mile wide and lava is building a delta a few hundred yards into the bay. The flow sends a large laze plume into the air along the coastline."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "End card: in video 2, a helicopter overflight around 1:38 PM shows how lava is filling the shallow bay",
+      "seen_at": "source 58 to 60.7 s"
+    },
+    {
+      "claim": "Houses along the shore beside the steam plume",
+      "seen_at": "source 39 to 51 s"
+    }
+  ],
+  "short_id": "ccf-20261114-58",
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 9.5,
+        "end": 11.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 13.0,
+        "end": 15.4,
+        "layout": "crop",
+        "crop_x": 0.35
+      }
+    ],
+    [
+      {
+        "start": 17.0,
+        "end": 19.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 21.0,
+        "end": 23.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 24.5,
+        "end": 26.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 28.0,
+        "end": 30.4,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 30.5,
+        "end": 32.9,
+        "layout": "crop",
+        "crop_x": 0.25
+      }
+    ],
+    [
+      {
+        "start": 39.0,
+        "end": 41.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 44.5,
+        "end": 46.9,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 54.0,
+        "end": 56.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 42.0,
+        "end": 44.4,
+        "layout": "crop",
+        "crop_x": 0.8
+      },
+      {
+        "start": 47.0,
+        "end": 49.4,
+        "layout": "crop",
+        "crop_x": 0.75
+      }
+    ],
+    [
+      {
+        "start": 49.2,
+        "end": 51.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 51.6,
+        "end": 53.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 7.5,
+        "end": 9.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "preview_pending": "Editor could not run preview_shots: Wikimedia returned HTTP 429 for the source file all run. Shots were picked from the 16-frame candidate sheet, with fit layout where the subject position was uncertain. QA: check the render sheet for empty or cut-off shots."
+}

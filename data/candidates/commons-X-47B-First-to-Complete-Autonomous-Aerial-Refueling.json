@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-X-47B-First-to-Complete-Autonomous-Aerial-Refueling",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-02T09:27:07Z",
   "duration": 89.88,
   "source_file": {
@@ -122,5 +122,6 @@
     75.42,
     81.0,
     86.59
-  ]
+  ],
+  "used_by": "ccf-20261114-56"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-895761",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:29:47Z",
   "duration": 183.28,
   "source_file": {
@@ -166,5 +166,6 @@
     154.22,
     165.65,
     177.07
-  ]
+  ],
+  "pass_reason": "logistics b-roll, no rescue on screen"
 }

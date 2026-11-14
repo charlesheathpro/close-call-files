@@ -1,0 +1,159 @@
+{
+  "candidate_id": "commons-X-47B-First-to-Complete-Autonomous-Aerial-Refueling",
+  "lane": "aviation_naval",
+  "story_type": "first autonomous aerial refueling by a drone",
+  "music_mood": "aviation",
+  "priority": 4,
+  "hook": "Nobody was flying this jet as it plugged into a tanker midair.",
+  "narration": [
+    "Nobody was flying this jet as it plugged into a tanker in midair.",
+    "The Navy's X-47B test drone did it on April twenty-second, 2015, near Patuxent River, Maryland.",
+    "It was the first time an unmanned aircraft had ever refueled itself in flight.",
+    "The tanker trails a hose with a basket on the end. The receiving aircraft has to fly its probe into that basket while both planes hold the same speed.",
+    "[short pause] Here the computer did all of it, holding the jet steady behind the tanker on its own."
+  ],
+  "outcome": "The X-47B finished the refueling with no pilot aboard, completing the last test of the Navy's drone demonstration program.",
+  "location_card": {
+    "place": "Near Patuxent River, Maryland",
+    "date": "April 22, 2015"
+  },
+  "keep_source_audio": false,
+  "title": "Drone refuels itself in midair",
+  "description": "The Navy's X-47B became the first unmanned aircraft to complete autonomous aerial refueling, near Patuxent River, Maryland, on April 22, 2015.\n\nFootage: U.S. Navy video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:X-47B_First_to_Complete_Autonomous_Aerial_Refueling.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #navy #drone #aviation",
+  "tags": [
+    "x-47b",
+    "navy",
+    "drone",
+    "aerial refueling",
+    "unmanned aircraft",
+    "autonomous",
+    "patuxent river",
+    "test flight",
+    "real footage"
+  ],
+  "question_comment": "Would you trust a computer to fly a few feet behind a tanker?",
+  "facts": [
+    {
+      "claim": "X-47B conducted the first ever autonomous aerial refueling of an unmanned aircraft on April 22, completing the final UCAS-D test objective",
+      "source_quote": "The X-47B successfully conducted the first ever Autonomous Aerial Refueling (AAR) of an unmanned aircraft April 22, completing the final test objective under the Navy's Unmanned Combat Air System demonstration program."
+    },
+    {
+      "claim": "Location: Patuxent River, Md., April 22, 2015",
+      "source_quote": "PATUXENT RIVER, Md. (April 22, 2015)"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "X-47B with its refueling probe connected to a tanker hose and basket; wide shots show the tanker ahead",
+      "seen_at": "source 0 to 90 s"
+    }
+  ],
+  "short_id": "ccf-20261114-56",
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 36.0,
+        "end": 38.4,
+        "layout": "fit"
+      },
+      {
+        "start": 41.0,
+        "end": 43.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 2.0,
+        "end": 4.4,
+        "layout": "fit"
+      },
+      {
+        "start": 8.0,
+        "end": 10.4,
+        "layout": "fit"
+      },
+      {
+        "start": 13.0,
+        "end": 15.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 58.0,
+        "end": 60.4,
+        "layout": "fit"
+      },
+      {
+        "start": 62.5,
+        "end": 64.9,
+        "layout": "fit"
+      }
+    ],
+    [
+      {
+        "start": 19.0,
+        "end": 21.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 24.0,
+        "end": 26.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 68.5,
+        "end": 70.9,
+        "layout": "fit"
+      },
+      {
+        "start": 29.0,
+        "end": 31.4,
+        "layout": "fit"
+      }
+    ],
+    [
+      {
+        "start": 46.0,
+        "end": 48.4,
+        "layout": "fit"
+      },
+      {
+        "start": 51.0,
+        "end": 53.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 77.0,
+        "end": 79.4,
+        "layout": "fit"
+      }
+    ],
+    [
+      {
+        "start": 82.0,
+        "end": 84.4,
+        "layout": "fit"
+      },
+      {
+        "start": 86.0,
+        "end": 88.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33.4,
+        "end": 35.9,
+        "layout": "fit"
+      }
+    ]
+  ],
+  "preview_pending": "Editor could not run preview_shots: Wikimedia returned HTTP 429 for the source file all run. Shots were picked from the 16-frame candidate sheet, with fit layout where the subject position was uncertain. QA: check the render sheet for empty or cut-off shots."
+}
