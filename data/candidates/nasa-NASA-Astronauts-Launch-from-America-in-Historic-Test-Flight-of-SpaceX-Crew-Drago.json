@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Astronauts-Launch-from-America-in-Historic-Test-Flight-of-SpaceX-Crew-Drago",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T00:34:07Z",
   "duration": 931.13,
   "source_file": {
@@ -2073,5 +2073,6 @@
     785.22,
     843.39,
     901.55
-  ]
+  ],
+  "used_by": "ccf-20261114-52"
 }

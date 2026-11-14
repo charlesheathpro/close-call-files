@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220301-MH-AJW01-0001-GOES-T-Isolated-Launch-Views-4K-3295642",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-10-28T00:54:09Z",
   "duration": 635.5,
   "source_file": {
@@ -641,5 +641,6 @@
     575.47,
     615.16
   ],
-  "pass_reason": "Atlas V rocket cam nearly identical to Starliner OFT-2 rocket cam used in ccf-20261114-33"
+  "pass_reason": "Atlas V rocket cam nearly identical to Starliner OFT-2 rocket cam used in ccf-20261114-33",
+  "used_by": "ccf-20261114-53"
 }

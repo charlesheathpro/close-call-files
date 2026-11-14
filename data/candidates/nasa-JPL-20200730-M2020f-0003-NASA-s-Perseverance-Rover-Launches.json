@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20200730-M2020f-0003-NASA-s-Perseverance-Rover-Launches",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:41:31Z",
   "duration": 71.23,
   "source_file": {
@@ -107,5 +107,6 @@
     59.68,
     64.1,
     68.52
-  ]
+  ],
+  "pass_reason": "only about 20 seconds of real launch footage, rest is animation"
 }

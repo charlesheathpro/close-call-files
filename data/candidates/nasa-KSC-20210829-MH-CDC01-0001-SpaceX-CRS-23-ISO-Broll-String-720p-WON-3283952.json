@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210829-MH-CDC01-0001-SpaceX-CRS-23-ISO-Broll-String-720p-WON-3283952",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:11:13Z",
   "duration": 938.9,
   "source_file": {
@@ -635,5 +635,6 @@
     791.77,
     850.42,
     909.07
-  ]
+  ],
+  "pass_reason": "night launch mostly dark, landing not confirmed"
 }

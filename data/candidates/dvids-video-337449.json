@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-337449",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:41:57Z",
   "duration": 112.09,
   "source_file": {
@@ -69,5 +69,6 @@
     94.15,
     101.12,
     108.1
-  ]
+  ],
+  "pass_reason": "medical evacuation"
 }

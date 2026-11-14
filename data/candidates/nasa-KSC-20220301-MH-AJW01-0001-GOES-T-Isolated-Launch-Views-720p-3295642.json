@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220301-MH-AJW01-0001-GOES-T-Isolated-Launch-Views-720p-3295642",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:56:06Z",
   "duration": 812.93,
   "source_file": {
@@ -824,5 +824,6 @@
     685.49,
     736.27,
     787.04
-  ]
+  ],
+  "pass_reason": "duplicate of the 4K version used by ccf-20261114-53"
 }

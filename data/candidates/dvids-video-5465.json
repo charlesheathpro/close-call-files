@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-5465",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:49:13Z",
   "duration": 126.93,
   "source_file": {
@@ -271,5 +271,6 @@
     106.67,
     114.57,
     122.48
-  ]
+  ],
+  "pass_reason": "Katrina story already covered by ccf-20261114-51; package with a man's medical details"
 }

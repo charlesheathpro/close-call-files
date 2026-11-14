@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-FD-20-1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:58:56Z",
   "duration": 284.12,
   "source_file": {
@@ -60,5 +60,6 @@
     239.3,
     257.03,
     274.75
-  ]
+  ],
+  "pass_reason": "static camera view, nothing moves"
 }
