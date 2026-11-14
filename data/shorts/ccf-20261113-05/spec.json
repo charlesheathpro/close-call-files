@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261113-05",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-694919",
   "lane": "rescue",
   "story_type": "teen sailors in a swamped dinghy in high wind, Coast Guard surface swimmer jumps in and brings them to the lifeboat",
@@ -9,10 +9,10 @@
   "hook": "Seven sailboats in trouble at once. Two teens still on this one.",
   "narration": [
     "Two teenage sailors were stuck on a small boat that was filling with water.",
-    "It was a Tuesday evening on Tomales Bay.",
-    "A local yacht club called the Coast Guard. Seven of its sailboats, two sailors on each, were in trouble.",
+    "Strong winds had overwhelmed a group of sailors on Tomales Bay, California.",
+    "Their yacht club called the Coast Guard. Seven of its sailboats, two sailors on each, were in trouble.",
     "Three had capsized. The rest were swamped by the weather.",
-    "Lifeboat crews raced out from Station Bodega Bay.",
+    "A forty-seven foot lifeboat crew came out from Station Bodega Bay.",
     "Petty Officer Daniel Langley went over the side as the surface swimmer.",
     "He swam out to the sailboat through the chop.",
     "The water was in the low fifties. A wetsuit traps a thin layer of water that the body warms, which holds off hypothermia.",
@@ -59,6 +59,14 @@
     {
       "claim": "Outcome: swimmer brought both teens aboard; other 12 brought ashore",
       "source_quote": "The other 12 sailors and their sailboats were reportedly brought to shore by the yacht club's safety vessel."
+    },
+    {
+      "claim": "Strong winds overwhelmed yacht club sailors",
+      "source_quote": "after strong winds overwhelmed a group of sailors from a local yacht club"
+    },
+    {
+      "claim": "Surface swimmer brought both teens aboard the 47-foot MLB",
+      "source_quote": "the rescue crew deployed a surface swimmer, who brought the two teenage sailors from the sailboat aboard the 47-foot MLB."
     }
   ],
   "visible_facts": [
@@ -118,6 +126,12 @@
         "end": 21.3,
         "layout": "crop",
         "crop_x": 0.5
+      },
+      {
+        "start": 21.3,
+        "end": 23.5,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
@@ -156,27 +170,27 @@
     ],
     [
       {
-        "start": 2.0,
-        "end": 4.0,
+        "start": 0.0,
+        "end": 2.2,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.35
       },
       {
-        "start": 100.0,
-        "end": 102.5,
+        "start": 2.2,
+        "end": 4.3,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 4.0,
-        "end": 6.0,
+        "start": 4.3,
+        "end": 6.4,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 6.0,
+        "start": 6.4,
         "end": 8.5,
         "layout": "crop",
         "crop_x": 0.5
@@ -210,14 +224,14 @@
         "crop_x": 0.5
       },
       {
-        "start": 78.5,
-        "end": 81.0,
+        "start": 81.0,
+        "end": 83.5,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 81.0,
-        "end": 83.5,
+        "start": 83.5,
+        "end": 86.0,
         "layout": "crop",
         "crop_x": 0.5
       }
