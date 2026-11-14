@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-358110",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:33:43Z",
   "duration": 72.79,
   "source_file": {
@@ -162,5 +162,6 @@
     60.99,
     65.51,
     70.03
-  ]
+  ],
+  "pass_reason": "smeared 2014 FLIR with heavy color artifacts"
 }

@@ -1,0 +1,64 @@
+{
+  "asset_id": "nasa:jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor targeted search",
+  "title": "jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station",
+  "description": "While orbiting approximately 250 miles above Earth, external cameras aboard the International Space Station captured the sixth test flight of SpaceX’s Starship after liftoff at 4 p.m. CST on Tuesday, Nov. 19. For Artemis III, the first crewed return to the Moon in over 50 years, NASA is working with SpaceX to develop Starship as a lunar lander. Prior to the crewed Artemis III mission, SpaceX will perform an uncrewed landing demonstration mission on the Moon.",
+  "keywords": "ISS, Starship",
+  "date": "2024-12-03T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-jsc2024m000188-Views-of-Starship-Flight-6-from-International-Space-Station",
+  "status": "passed_over",
+  "harvested_at": "2026-11-14T20:46:10Z",
+  "duration": 165.43,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station/jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 165.365208
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    60.27,
+    60.53,
+    78.67
+  ],
+  "drama_score": 44,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      165.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-jsc2024m000188-Views-of-Starship-Flight-6-from-International-Space-Station.jpg",
+  "sheet_times": [
+    5.15,
+    15.46,
+    25.77,
+    36.08,
+    46.39,
+    56.7,
+    67.0,
+    77.31,
+    87.62,
+    97.93,
+    108.24,
+    118.55,
+    128.85,
+    139.16,
+    149.47,
+    159.78
+  ],
+  "pass_reason": "rocket is a tiny streak seen from orbit"
+}

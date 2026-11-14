@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-963465",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:35:07Z",
   "duration": 457.0,
   "source_file": {
@@ -967,5 +967,6 @@
     385.17,
     413.7,
     442.23
-  ]
+  ],
+  "pass_reason": "interview feature; rescue shots are TV news footage with a station chyron"
 }

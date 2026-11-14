@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:KSC-20200802-MH-MTD01-0001-SpaceX_Demo-2_Splashdown_4K-3255694",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor targeted search",
+  "title": "SpaceX Demo-2 Splashdown",
+  "description": "SpaceX Demo-2 Splashdown",
+  "keywords": "SpaceX, Demo-2, CCP, Commercial Crew Program, Splashdown, Astronauts, Crew Return, Bob Behnken, Doug Hurley",
+  "date": "2020-08-02T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200802-MH-MTD01-0001-SpaceX_Demo-2_Splashdown_4K-3255694",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200802-MH-MTD01-0001-SpaceX-Demo-2-Splashdown-4K-3255694",
+  "status": "used",
+  "harvested_at": "2026-11-14T20:45:09Z",
+  "duration": 138.1,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200802-MH-MTD01-0001-SpaceX_Demo-2_Splashdown_4K-3255694/KSC-20200802-MH-MTD01-0001-SpaceX_Demo-2_Splashdown_4K-3255694~large.mp4",
+    "width": 1920,
+    "height": 1012,
+    "duration": 138.1
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.03
+  ],
+  "drama_score": 16,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      138.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200802-MH-MTD01-0001-SpaceX-Demo-2-Splashdown-4K-3255694.jpg",
+  "sheet_times": [
+    4.3,
+    12.9,
+    21.5,
+    30.1,
+    38.7,
+    47.3,
+    55.9,
+    64.5,
+    73.1,
+    81.7,
+    90.3,
+    98.9,
+    107.5,
+    116.1,
+    124.7,
+    133.3
+  ],
+  "used_by": "ccf-20261114-81"
+}

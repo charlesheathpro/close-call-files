@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2024m000168-Additional-Views-of-Hurricane-Helene-from-the-International-Space",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:52:32Z",
   "duration": 227.57,
   "source_file": {
@@ -60,5 +60,6 @@
     191.59,
     205.78,
     219.97
-  ]
+  ],
+  "pass_reason": "slow single ISS view of a storm (same reason Dorian was dropped)"
 }

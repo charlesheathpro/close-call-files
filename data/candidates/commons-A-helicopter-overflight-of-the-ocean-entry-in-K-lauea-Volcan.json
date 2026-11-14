@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-A-helicopter-overflight-of-the-ocean-entry-in-K-lauea-Volcan",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:08:03Z",
   "duration": 73.1,
   "source_file": {
@@ -58,5 +58,6 @@
     61.26,
     65.8,
     70.33
-  ]
+  ],
+  "pass_reason": "same 2018 Kapoho lava delta as queued ccf-20261114-58"
 }

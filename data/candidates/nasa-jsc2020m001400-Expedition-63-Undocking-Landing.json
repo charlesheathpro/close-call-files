@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2020m001400-Expedition-63-Undocking-Landing",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:40:02Z",
   "duration": 847.97,
   "source_file": {
@@ -231,5 +231,6 @@
     715.05,
     768.02,
     820.98
-  ]
+  ],
+  "pass_reason": "no landing burn on screen; mostly crew being carried and checked"
 }

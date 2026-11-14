@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-966645",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:36:29Z",
   "duration": 78.41,
   "source_file": {
@@ -194,5 +194,6 @@
     65.74,
     70.61,
     75.48
-  ]
+  ],
+  "pass_reason": "medevac interior with a patient on screen"
 }
