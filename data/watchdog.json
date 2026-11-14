@@ -1,25 +1,17 @@
 {
- "at": "2026-11-14T18:50:05Z",
- "healthy": false,
+ "at": "2026-11-14T22:32:05Z",
+ "healthy": true,
  "numbers": {
-  "dropped": 53,
+  "dropped": 54,
   "uploaded": 145,
-  "passed": 21,
-  "scheduled_next_48h": 17,
-  "scheduled_by_day_MT": {
-   "2026-11-14": 6,
+  "passed": 28,
+  "scheduled_48h": 14,
+  "by_day_mt": {
+   "2026-11-14": 10,
+   "2026-11-13": 2,
    "2026-11-15": 10,
    "2026-11-16": 1
   }
  },
- "found": [
-  "YouTube uploadLimitExceeded hold until 2026-11-15T00:38Z; upload.yml (every 3 h) resumes after it",
-  "Nov 16 has 1 scheduled, but 21 passed Shorts are waiting, enough to fill Nov 16 and most of Nov 17 once uploads resume",
-  "Upload ran 17:40Z, harvest 16:39Z (dvids_blocked, 32 new), stats today; no repeated build error; no auth or upload_error alert in 24 h",
-  "ccf-20261114-75 failed to build on line length (single Short, not systemic)"
- ],
- "fixed": [
-  "QA passed all 8 Shorts in the queue (5 after spec fixes and rebuilds in this run), including -75 rev 2 and -78 rev 3 which had failed on line length",
-  "No editor pass: passed backlog covers the next-48h gap; the binding limit is YouTube's daily upload cap"
- ]
+ "notes": "Nov 16 has 1 scheduled; 27 passed waiting cover it once the YouTube uploadLimitExceeded hold lifts (until 2026-11-15T00:38Z). DVIDS harvest blocked but NASA/Commons supply fine. No editor pass needed."
 }
