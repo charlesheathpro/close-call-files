@@ -1,6 +1,6 @@
 # Close Call Files
 
-Fully automated YouTube Shorts channel (@officialclosecall): real rescues and close calls told in under a minute from public-domain U.S. government footage: DVIDS, the NASA Image and Video Library, and U.S. federal works hosted on Wikimedia Commons (USGS, NOAA, NPS, Forest Service, military). Everything runs in the cloud. Nothing depends on Charles's Mac.
+Fully automated YouTube Shorts channel (@officialclosecall), 10 Shorts every day without exception (owner, Nov 13): real close calls, raw power and extreme machines (rescues, rockets and spacecraft, aircraft and carrier ops, explosions, ships in heavy seas, eruptions, wildfire and storms) told in about a minute from public-domain U.S. government footage: DVIDS, the NASA Image and Video Library, and U.S. federal works hosted on Wikimedia Commons (USGS, NOAA, NPS, Forest Service, military). Everything runs in the cloud. Nothing depends on Charles's Mac.
 
 ## How a Short moves through the system
 
