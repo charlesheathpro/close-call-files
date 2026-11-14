@@ -1,22 +1,25 @@
 {
- "at": "2026-11-14T14:27:56Z",
+ "at": "2026-11-14T18:50:05Z",
  "healthy": false,
  "numbers": {
   "dropped": 53,
-  "uploaded": 135,
-  "passed": 23,
-  "scheduled_next_48h": 9,
+  "uploaded": 145,
+  "passed": 21,
+  "scheduled_next_48h": 17,
   "scheduled_by_day_MT": {
-   "2026-11-14": 8,
-   "2026-11-15": 1
+   "2026-11-14": 6,
+   "2026-11-15": 10,
+   "2026-11-16": 1
   }
  },
  "found": [
-  "YouTube uploadLimitExceeded hold until 16:51Z; upload.yml (every 3 h) resumes after it",
-  "Nov 15 and Nov 16 under 10 scheduled, but 23 passed Shorts are waiting, enough to fill both days once uploads resume",
-  "harvest 06:57Z found 0 new (dvids_blocked) with thousands of unreviewed candidates left; no repeated build error; no auth or upload_error alert in 24 h"
+  "YouTube uploadLimitExceeded hold until 2026-11-15T00:38Z; upload.yml (every 3 h) resumes after it",
+  "Nov 16 has 1 scheduled, but 21 passed Shorts are waiting, enough to fill Nov 16 and most of Nov 17 once uploads resume",
+  "Upload ran 17:40Z, harvest 16:39Z (dvids_blocked, 32 new), stats today; no repeated build error; no auth or upload_error alert in 24 h",
+  "ccf-20261114-75 failed to build on line length (single Short, not systemic)"
  ],
  "fixed": [
-  "QA: passed ccf-20261114-63; rev 2 and pass for -61 and -62"
+  "QA passed all 8 Shorts in the queue (5 after spec fixes and rebuilds in this run), including -75 rev 2 and -78 rev 3 which had failed on line length",
+  "No editor pass: passed backlog covers the next-48h gap; the binding limit is YouTube's daily upload cap"
  ]
 }
