@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261114-62",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-581863",
   "lane": "aviation_naval",
   "story_type": "C-130 air tankers low over a record wildfire",
@@ -8,7 +8,7 @@
   "priority": 3,
   "hook": "A C-130 dropping retardant just over the treetops.",
   "narration": [
-    "This C-130 is laying a red line of retardant just over the treetops of the largest fire in California's history.",
+    "This C-130 is dropping retardant just over the treetops, on what was then California's largest fire.",
     "C-130s from the 146th Airlift Wing were called in to help CAL FIRE fight it.",
     "The crews dipped down into canyons, flew through smoke, and buzzed the treetops.",
     "One pilot put it plainly: at a hundred and fifty feet and a hundred and twenty knots, you are flying the airplane on the edge of its envelope.",
@@ -16,14 +16,14 @@
     "For some of them, this was home. One could see the smoke from his own house.",
     "[short pause] People in their own unit had lost places to live."
   ],
-  "outcome": "Back at the fire bases, ground crews black with ash gave them fist bumps for every load that came down.",
+  "outcome": "Back at the fire bases, crews filthy with soot and ash gave them fist bumps for every load.",
   "location_card": {
     "place": "Ventura, California",
     "date": "Jan. 2018 release"
   },
   "keep_source_audio": false,
   "title": "C-130 at 150 feet over a wildfire",
-  "description": "C-130s of the 146th Airlift Wing flew Modular Airborne Fire Fighting System missions for CAL FIRE against the largest fire in California's history, around Ventura, California (released Jan. 2018).\n\nFootage: U.S. Air Force video by Tech. Sgt. Perry Aston, Airman Magazine, via DVIDS: https://www.dvidshub.net/video/581863/c-130s-fight-californias-largest-wildfire\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #wildfire #c130 #aviation",
+  "description": "C-130s of the 146th Airlift Wing flew Modular Airborne Fire Fighting System missions for CAL FIRE against what was then the largest fire in California's history, around Ventura, California (released Jan. 2018).\n\nFootage: U.S. Air Force video by Tech. Sgt. Perry Aston, Airman Magazine, with additional U.S. Department of Agriculture footage, via DVIDS: https://www.dvidshub.net/video/581863/c-130s-fight-californias-largest-wildfire\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #wildfire #c130 #aviation",
   "tags": [
     "c-130",
     "wildfire",
@@ -54,21 +54,41 @@
       "source_quote": "Being that proximal, at 150 feet above the ground at 120 knots, you're flying the airplane on the edge of its envelope"
     },
     {
-      "claim": "Smoke from his house; unit members lost places to live; fist bumps",
+      "claim": "Smoke from his house",
       "source_quote": "I can see the smoke from my house"
+    },
+    {
+      "claim": "Unit members lost places to live",
+      "source_quote": "We have people in our unit who have lost places to live"
+    },
+    {
+      "claim": "Fist bumps from crews filthy with soot and ash at the fire bases",
+      "source_quote": "once we're back on the ground at the fire bases"
+    },
+    {
+      "claim": "fist bump",
+      "source_quote": "who are just filthy with dirt and soot and ash, and they're giving us a fist bump and a thank you"
     }
   ],
   "line_shots": [
     [
       {
-        "start": 0.4,
-        "end": 3.6,
-        "layout": "fit"
+        "start": 87.5,
+        "end": 89.7,
+        "layout": "crop",
+        "crop_x": 0.5
       },
       {
-        "start": 87.6,
-        "end": 89.8,
-        "layout": "fit"
+        "start": 91.3,
+        "end": 94.1,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 0.4,
+        "end": 3.0,
+        "layout": "crop",
+        "crop_x": 0.2
       }
     ],
     [
@@ -181,29 +201,24 @@
     ],
     [
       {
+        "start": 124.8,
+        "end": 127.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 129.5,
+        "end": 132.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
         "start": 113.2,
-        "end": 115.7,
+        "end": 115.8,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 108.4,
-        "end": 110.3,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 125.0,
-        "end": 127.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 91.4,
-        "end": 94.0,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ]
-  ]
+  ],
+  "preview_ok": "L1 shots 1 and 3 flag EMPTY on flat grey smoke, but the C-130 and its red retardant fill the frame."
 }
