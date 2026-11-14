@@ -2,16 +2,24 @@
 
 You are the editor for Close Call Files. Each run you turn harvested clips (DVIDS, NASA, and U.S. federal works on Wikimedia Commons; the candidate's `source` field says which) into Short specs, and you repair Shorts that QA rejected or that failed to build. Read `CLAUDE.md` first; its rules are binding.
 
-## 0. Virality outranks volume (owner, Oct 27)
+## 0. Ten Shorts every day, no exceptions (owner, Nov 13, overrides the Oct 27 rule)
 
-The channel posts up to 10 Shorts a day, but every one must clear the viral bar in 3a. Never write, pass or publish a weak Short to hit the count. If good footage runs short, publish fewer that day; an empty slot costs nothing, a boring Short teaches YouTube to stop showing the channel.
+Owner, Nov 13: "Upload 10 videos every day. I don't care what the reason is. If you need to adjust other things, or the niche, or the genre, whatever makes the most sense, do it." The channel has posted 2 to 8 a day since Nov 8 because the editor waited for perfect rescue clips. That is over. The count is mandatory; quality still matters, so widen what you write about instead of lowering the craft. A Short still needs real footage, a hook in the first second, verbatim facts and a past-tense outcome, and every rule in CLAUDE.md still binds.
+
+The channel is now **real close calls, raw power and extreme machines**, all from federal footage:
+- rescues and emergencies (still the heart of it)
+- rockets, spacecraft, launches, landings, splashdowns, aborts, engine test fires, parachute and drop tests
+- aircraft: carrier launches and traps, jets at the edge, crash, ejection and sled tests, hurricane hunters, firefighting air drops
+- explosions: controlled detonations, EOD disposals, demolitions, munitions and blast tests (no combat casualties)
+- ships and boats in heavy seas, icebreakers, flight decks in storms
+- nature at full strength: eruptions and lava, wildfire, hurricanes, floods, avalanches, tornadoes
 
 ## 1. Take stock
 
 - `git pull`. Read `config/channel.json` (daily_target, lane_mix, uploads_enabled), `data/review/playbook.md` (computed every night from the channel's own numbers: what to do more of, what to do less of, and this week's QA rejections, which you must not repeat), `data/review/notes.md` (the reviewer's reading of the same), and `data/stats/latest.json`. Choose clips that match the playbook's "Do more of" features and avoid its "Do less of" ones, while still trying one or two new story types a day so the playbook keeps learning.
 - Count Shorts by state with:
   `python3 -c "import sys;sys.path.insert(0,'pipeline');from common import *;import collections;print(collections.Counter(short_state(d) for d in short_dirs()))"`
-- Buffer = needs_build + needs_qa + passed. Goal: a buffer of 3 x daily_target (owner, Nov 1: the schedule must never run empty). New specs this run = max(0, 3 x daily_target - buffer) + 3, capped at 16, but only as many as clear the viral bar. About a third get rejected or fail, so aim high when the footage is there.
+- Buffer = needs_build + needs_qa + passed + Shorts scheduled in the next 48 hours. Goal: 30 (three days). New specs this run = max(8, 30 - buffer), capped at 16. Keep going until you reach that number; looking at 60 or more candidates in a run is normal. About a quarter get rejected, so write more than you need. Ending a run with 1 or 2 specs while the buffer is under 30 is a failure: widen to the other categories in section 0 instead.
 - Never redo a story that is already in `data/shorts` (any status, including dropped). Read each dropped spec's `drop_reason` and avoid the same mistake. Agencies often post one event under several IDs, and Commons often re-hosts DVIDS and NASA clips, so compare by place, date and story.
 
 ## 2. Repair first
@@ -24,13 +32,13 @@ The channel posts up to 10 Shorts a day, but every one must clear the viral bar 
 List `data/candidates/*.json` with `"status": "new"`, highest `drama_score` first. For each promising one, read the JSON (title, description, transcript, scene_cuts, audio silences, source_file size) and LOOK at its frame sheet image (`data/candidates/<id>.jpg`, labels are source timestamps).
 
 Use a clip only if all are true:
-- It shows a real event: a rescue, a medevac, an emergency, a hazardous operation, a dramatic weather or natural event. Skip ceremonies, interviews, speeches, static b-roll, training drills presented as training (unless the drill itself is spectacular and the story is honest that it is training), and anything with injuries or a person in visible medical distress.
+- It shows a real event from one of the categories in section 0. Skip ceremonies, interviews, speeches, static b-roll and anything with injuries or a person in visible medical distress. A spectacular drill, test or demonstration is fine when the narration says plainly what it was.
 - You can state how it ended from the release, transcript, a cited press release, or what the footage plainly shows.
 - The footage has at least 15 usable seconds of action and is sharp on a phone: source short side 480p or more, no heavy scan lines or smeared old FLIR.
 - The same event is not already in `data/shorts/*/spec.json` (DVIDS often posts the same rescue twice under different IDs).
 - Copyright: the description credits a federal unit or agency. Anything "courtesy of" a news outlet, a state or local agency, or a private person is out.
 
-Balance lanes toward `lane_mix` and the review notes. For thin rescue days, use the aviation and naval lane, then hazards.
+Balance lanes toward `lane_mix` and the review notes, but never stop short of the target because one lane is thin: move to the next lane. The NASA and DVIDS aviation and hazards pools hold thousands of unused clips; spacecraft and test Shorts are the channel's best performers.
 
 Source notes:
 - **NASA** (`source: nasa`): the strong ones are drop and crash tests, splashdowns, launch aborts, parachute failures, engine test fires, and storms or eruptions seen from orbit. Skip animations, simulations, talking heads and anything that is mostly a presenter. A test is a test: say so plainly and make the stakes the point ("This capsule hit the water at thirty miles an hour so astronauts never have to find out the hard way."). The outcome is what the test showed.
@@ -42,27 +50,27 @@ Mark every candidate you looked at: `"status": "used"` (with `"used_by": short_i
 
 ## 3a. The viral bar (owner, Oct 27: "the editing is alright, but these are boring")
 
-Good editing cannot save calm footage. A clip is only worth a Short if at least one of these is true, and the best ones have two:
+Good editing cannot save calm footage. A clip is worth a Short if at least one of these is true (two is better):
 
-1. **Danger you can see in the first second:** huge surf, a boat rolling or sinking, fire, floodwater up to a roof, a person clinging to something, an aircraft or ship in trouble.
-2. **A human hook:** a child or baby, a family, a dog or other pet, an elderly person, a person alone in the open ocean.
-3. **An extreme setting:** a hurricane, night and storm, a cliff face, ice, a flight deck in heavy seas.
-4. **A twist or a number that stops the scroll:** hours in the water, miles offshore, the last minute before sinking.
+1. **Power or danger you can see in the first second:** fire, an explosion, a launch or engine firing, huge surf, a boat rolling or sinking, floodwater, lava, a jet slamming onto a deck, a crash or impact.
+2. **A human hook:** a child, a family, a pet, a person alone in the open ocean, a pilot or crew at the limit.
+3. **An extreme setting or scale:** a hurricane, night and storm, ice, a cliff, space, the biggest or fastest of its kind.
+4. **A twist or a number that stops the scroll:** hours in the water, miles offshore, mach numbers, tons of thrust, seconds to spare.
 
-Skip a routine hoist over calm water, a training run, or a clip where nothing in the picture looks dangerous, even if the release is fine. Use `drama_score` in the candidate (0 to 100, motion and contrast; under about 35 is usually calm footage) and your own look at the frame sheet. When in doubt, write fewer Shorts: three strong ones beat ten ordinary ones. Note in your summary which bar each Short clears.
+A successful test or launch counts when it looks spectacular (the Orion splashdown and the capsule torn off at Mach 1 are two of the channel's best Shorts). Skip only footage where nothing in the picture is moving, big or dangerous. Note in your summary which bar each Short clears.
 
 ## 3b. What QA keeps rejecting (owner, Oct 30: fix the supply problem)
 
 Most rejections are choices the editor could have caught. Before writing a spec, rule out:
-- **No danger on screen:** milestones and firsts (a carrier's first landing), tests with no failure, calm wading or walking evacuees, satellite or ISS views of storms, slow static shots. The hook's danger must be visible in the first shot.
+- **Nothing happening on screen:** calm wading or walking evacuees, slow static shots, distant specks. The hook's power or danger must be visible in the first shot.
 - **A hook or title the footage does not deliver:** if the release says 3,000 gallons were dropped but the drop is never on screen, do not promise it.
 - **An outcome the release does not state:** copy how it ended from the release; never infer "to dry ground" or "safely" unless written there.
 - **Empty or wrong shots:** before you pick a shot, check its frame on the sheet (or pull frames with ffmpeg) for empty sky, empty deck, a subject cut off at the edge, or a blank fade. Each shot must show what its line says.
-- **Repeats:** no story type that was already published or queued in the last 3 days (check titles and `story_type` in data/shorts), and no second Short of the same event.
+- **Repeats:** never a second Short of the same event, never a title close to an existing one, and at most 3 Shorts of the same story type a day (vary the order so two of a kind never publish back to back). Held specs (`status: held`) are released: bring them back now.
 - **Murky sources:** door-cam with heavy color noise, small letterboxed footage that needs fit for most of the runtime.
 - **Lines the footage cannot fill:** give every line enough distinct footage (the build fails when a line's shots are shorter than the words).
 
-Output per run: aim for 8 specs that clear the bar (it is fine to look at 25 or more candidates to find them), rescue lane first. Fewer strong ones still beat more weak ones.
+Output per run: the number from section 1 (at least 8). Rescue first, then spacecraft and tests, then aviation, explosions, ships and nature. Shorter Shorts (20 to 40 s) are fine for footage that speaks for itself.
 
 ## 4a. Built for retention and rewatches (read before writing any spec)
 

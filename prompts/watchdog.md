@@ -28,7 +28,8 @@ Also read `data/upload_last.json`, `data/upload_limit.json`, `data/harvest_last.
 
 Healthy means all of these hold:
 - scheduled in the next 48 hours + passed >= 20 (uploads fill slots 24 to 48 hours ahead, so the whole next day is scheduled by the evening before; from Nov 10 on, fewer than 10 scheduled for tomorrow by 6 PM Mountain is unhealthy)
-- needs_build + needs_qa + passed + scheduled >= 25
+- needs_build + needs_qa + passed + scheduled >= 30
+- every day in the next 48 hours that has fewer than 10 scheduled is a gap: close it now with an editor pass (owner, Nov 13: 10 every day, no excuses)
 - an upload run landed in the last 3 hours, a harvest in the last 30 hours, stats in the last 30 hours
 - no build error repeated on 3 or more Shorts in the last 24 hours
 - no `auth` or `upload_error` alert in the last 24 hours
@@ -45,7 +46,7 @@ Work through what failed, in this order:
 - **Passed Shorts waiting but nothing uploading**: read `data/upload_limit.json`; if no limit is active, push `date > triggers/upload`.
 - **Sign-in or upload errors**: YouTube auth problems need Charles; put them in the first line.
 
-Keep the quality bar: never pass a Short below 7 to fill a slot. Never touch the Critical Incident channel, its Control Room, or anything on Charles's computer.
+Keep the craft bar (7 or better), and meet the count by widening the categories in prompts/editor.md section 0, never by waiting. You are authorized to write new specs in this run (owner, Nov 13). Never touch the Critical Incident channel, its Control Room, or anything on Charles's computer.
 
 ## 3. Record
 

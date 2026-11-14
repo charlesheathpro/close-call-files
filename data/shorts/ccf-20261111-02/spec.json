@@ -4,7 +4,6 @@
   "lane": "rescue",
   "story_type": "man in fast hurricane floodwater, agent brings him back along a rope with a raft",
   "music_mood": "storm",
-  "hold": "Held until Nov 14: flood-current stories published Nov 9 (81 and swept into a flooded river) and Nov 11 (Florence day). Next editor run on or after Nov 14 removes this field so it builds.",
   "hook": "Chest deep in Harvey's floodwater, and it was moving.",
   "narration": [
     "Harvey's floodwater was chest deep here, and it was moving fast.",
@@ -116,5 +115,6 @@
     }
   ],
   "revision": 1,
-  "priority": 5
+  "priority": 5,
+  "released_from_hold": "2026-11-14 (owner: 10 a day)"
 }
