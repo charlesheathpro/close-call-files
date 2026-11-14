@@ -1234,7 +1234,7 @@
     "min_short_side": 480,
     "query_weights": {
       "rescue infant": 1.01,
-      "Hurricane Florence rescue": 1.02,
+      "Hurricane Florence rescue": 0.86,
       "rescues dog": 0.97,
       "rescue": 1.13,
       "rooftop rescue": 0.98,
@@ -1268,12 +1268,12 @@
       "MH-60 Jayhawk rescue": 1.0,
       "Air Station Port Angeles rescue": 1.26,
       "mountain rescue": 0.99,
-      "rescue swimmer": 0.95,
+      "rescue swimmer": 0.94,
       "parachute rescue": 1.07,
       "hot fire test": 1.15,
       "motor lifeboat surf": 0.99,
       "ejection": 1.01,
-      "flight test": 0.77,
+      "flight test": 0.79,
       "engine test fire": 0.89,
       "survivors": 0.88,
       "launch": 0.92,
@@ -1284,8 +1284,8 @@
       "aircrew rescues": 0.9,
       "ship heavy seas": 1.04,
       "rescues": 0.93,
-      "hoist": 1.0,
-      "tornado damage": 0.74
+      "hoist": 1.06,
+      "tornado damage": 0.78
     }
   },
   "mix": {

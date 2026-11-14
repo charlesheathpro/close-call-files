@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-14T03:30:40Z from 116 Shorts older than 48 hours)
+# Playbook (computed 2026-11-14T10:00:13Z from 116 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -10,30 +10,30 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
 - story: splashdown recovery (+0.38, 1 Shorts)
 - story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.37, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.37, 1 Shorts)
 
 ## Do less of
 - lane: hazards (-0.51, 4 Shorts)
 - story: dog hoist from sinking boat (-0.49, 1 Shorts)
-- story: historic rocket test stand implosion (-0.47, 1 Shorts)
+- story: historic rocket test stand implosion (-0.46, 1 Shorts)
 - story: security camera catches a tornado strike (-0.43, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.42, 1 Shorts)
 - story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
-- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.37, 1 Shorts)
 - music: hazards (-0.37, 4 Shorts)
+- story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist (-0.36, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 45225 views, 82% watched
-- Runaway boat circling with no one aboard: 9086 views, 98% watched
-- 17-year-old adrift at night, no paddle: 45920 views, 71% watched
+- Flipped hull 11 miles out, 3 men on top: 45334 views, 82% watched
+- Runaway boat circling with no one aboard: 9228 views, 98% watched
+- 17-year-old adrift at night, no paddle: 46930 views, 71% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
 - Orion splashes down after the Moon: 9451 views, 95% watched
 
 ## Weakest Shorts
 - Clinging to a flipped boat 12 miles out: 31 views, 67% watched
-- Florence: 67 people, 12 pets in one day: 122 views, 43% watched
-- Security camera caught a tornado hit: 139 views, 39% watched
-- Saturn V test tower comes down: 45 views, 52% watched
+- Florence: 67 people, 12 pets in one day: 123 views, 43% watched
+- Security camera caught a tornado hit: 145 views, 39% watched
+- Saturn V test tower comes down: 48 views, 52% watched
 - Dog hoisted from a sinking catamaran: 10 views, 73% watched
 
 ## QA rejections this week (do not repeat these)
@@ -45,3 +45,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
+
+## Changed tonight
+- query weights for 53 searches
