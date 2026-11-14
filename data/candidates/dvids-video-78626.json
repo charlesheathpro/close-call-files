@@ -26,7 +26,7 @@
   "time_start": 4.07073,
   "aspect_ratio": "4:3",
   "id": "dvids-video-78626",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:41:19Z",
   "duration": 178.22,
   "source_file": {
@@ -150,5 +150,6 @@
     150.59,
     161.44,
     172.3
-  ]
+  ],
+  "pass_reason": "compilation, training or calm door-cam with no single story"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-763160",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:43:57Z",
   "duration": 111.58,
   "source_file": {
@@ -62,5 +62,6 @@
     93.72,
     100.66,
     107.61
-  ]
+  ],
+  "pass_reason": "weak picture: calm door-cam, aftermath on a dock, or empty water"
 }
