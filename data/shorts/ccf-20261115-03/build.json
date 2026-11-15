@@ -1,7 +1,621 @@
 {
   "short_id": "ccf-20261115-03",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-15T09:12:07Z",
-  "error": "line 1: shots are 2.6, 6.2s even after extending, but the line needs 6.5s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-15T09:31:03Z",
+  "duration": 39.21,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Above sixty-four thousand feet, blood can boil. This pilot flies higher.",
+      "start": 0.05,
+      "end": 5.33,
+      "words": [
+        {
+          "w": "Above",
+          "s": 0.05,
+          "e": 0.45
+        },
+        {
+          "w": "sixty-four",
+          "s": 0.53,
+          "e": 0.93
+        },
+        {
+          "w": "thousand",
+          "s": 1.09,
+          "e": 1.41
+        },
+        {
+          "w": "feet,",
+          "s": 1.57,
+          "e": 2.13
+        },
+        {
+          "w": "blood",
+          "s": 2.21,
+          "e": 2.45
+        },
+        {
+          "w": "can",
+          "s": 2.53,
+          "e": 2.69
+        },
+        {
+          "w": "boil.",
+          "s": 2.77,
+          "e": 3.45
+        },
+        {
+          "w": "This",
+          "s": 3.73,
+          "e": 3.97
+        },
+        {
+          "w": "pilot",
+          "s": 4.05,
+          "e": 4.45
+        },
+        {
+          "w": "flies",
+          "s": 4.53,
+          "e": 4.85
+        },
+        {
+          "w": "higher.",
+          "s": 4.93,
+          "e": 5.33
+        }
+      ]
+    },
+    {
+      "text": "Stu Broce flies NASA's ER-2, as one of only four pilots in the world.",
+      "start": 5.97,
+      "end": 11.25,
+      "words": [
+        {
+          "w": "Stu",
+          "s": 5.97,
+          "e": 6.21
+        },
+        {
+          "w": "Broce",
+          "s": 6.29,
+          "e": 6.61
+        },
+        {
+          "w": "flies",
+          "s": 6.69,
+          "e": 6.93
+        },
+        {
+          "w": "NASA's",
+          "s": 7.01,
+          "e": 7.57
+        },
+        {
+          "w": "ER-2,",
+          "s": 7.65,
+          "e": 8.61
+        },
+        {
+          "w": "as",
+          "s": 8.69,
+          "e": 8.85
+        },
+        {
+          "w": "one",
+          "s": 8.93,
+          "e": 9.01
+        },
+        {
+          "w": "of",
+          "s": 9.05,
+          "e": 9.13
+        },
+        {
+          "w": "only",
+          "s": 9.17,
+          "e": 9.49
+        },
+        {
+          "w": "four",
+          "s": 9.57,
+          "e": 9.65
+        },
+        {
+          "w": "pilots",
+          "s": 9.81,
+          "e": 10.13
+        },
+        {
+          "w": "in",
+          "s": 10.21,
+          "e": 10.29
+        },
+        {
+          "w": "the",
+          "s": 10.29,
+          "e": 10.37
+        },
+        {
+          "w": "world.",
+          "s": 10.57,
+          "e": 11.25
+        }
+      ]
+    },
+    {
+      "text": "He suits up like an astronaut, then rides out to the plane in a van.",
+      "start": 11.37,
+      "end": 15.49,
+      "words": [
+        {
+          "w": "He",
+          "s": 11.37,
+          "e": 11.49
+        },
+        {
+          "w": "suits",
+          "s": 11.53,
+          "e": 11.73
+        },
+        {
+          "w": "up",
+          "s": 11.81,
+          "e": 11.89
+        },
+        {
+          "w": "like",
+          "s": 11.97,
+          "e": 12.05
+        },
+        {
+          "w": "an",
+          "s": 12.13,
+          "e": 12.21
+        },
+        {
+          "w": "astronaut,",
+          "s": 12.37,
+          "e": 13.09
+        },
+        {
+          "w": "then",
+          "s": 13.21,
+          "e": 13.33
+        },
+        {
+          "w": "rides",
+          "s": 13.41,
+          "e": 13.65
+        },
+        {
+          "w": "out",
+          "s": 13.73,
+          "e": 13.81
+        },
+        {
+          "w": "to",
+          "s": 13.89,
+          "e": 13.97
+        },
+        {
+          "w": "the",
+          "s": 14.01,
+          "e": 14.09
+        },
+        {
+          "w": "plane",
+          "s": 14.13,
+          "e": 14.37
+        },
+        {
+          "w": "in",
+          "s": 14.41,
+          "e": 14.49
+        },
+        {
+          "w": "a",
+          "s": 14.49,
+          "e": 14.57
+        },
+        {
+          "w": "van.",
+          "s": 14.61,
+          "e": 15.49
+        }
+      ]
+    },
+    {
+      "text": "The ER-2 gets off the ground fast, with a huge wing and a very powerful engine.",
+      "start": 15.57,
+      "end": 20.93,
+      "words": [
+        {
+          "w": "The",
+          "s": 15.57,
+          "e": 15.65
+        },
+        {
+          "w": "ER-2",
+          "s": 15.73,
+          "e": 16.29
+        },
+        {
+          "w": "gets",
+          "s": 16.37,
+          "e": 16.53
+        },
+        {
+          "w": "off",
+          "s": 16.61,
+          "e": 16.69
+        },
+        {
+          "w": "the",
+          "s": 16.73,
+          "e": 16.81
+        },
+        {
+          "w": "ground",
+          "s": 16.85,
+          "e": 17.17
+        },
+        {
+          "w": "fast,",
+          "s": 17.41,
+          "e": 17.89
+        },
+        {
+          "w": "with",
+          "s": 17.97,
+          "e": 18.05
+        },
+        {
+          "w": "a",
+          "s": 18.13,
+          "e": 18.21
+        },
+        {
+          "w": "huge",
+          "s": 18.29,
+          "e": 18.61
+        },
+        {
+          "w": "wing",
+          "s": 18.69,
+          "e": 19.01
+        },
+        {
+          "w": "and",
+          "s": 19.05,
+          "e": 19.13
+        },
+        {
+          "w": "a",
+          "s": 19.17,
+          "e": 19.33
+        },
+        {
+          "w": "very",
+          "s": 19.41,
+          "e": 19.65
+        },
+        {
+          "w": "powerful",
+          "s": 19.73,
+          "e": 20.05
+        },
+        {
+          "w": "engine.",
+          "s": 20.13,
+          "e": 20.93
+        }
+      ]
+    },
+    {
+      "text": "It can climb above seventy thousand feet, carrying science instruments over the weather.",
+      "start": 21.01,
+      "end": 25.677,
+      "words": [
+        {
+          "w": "It",
+          "s": 21.01,
+          "e": 21.09
+        },
+        {
+          "w": "can",
+          "s": 21.17,
+          "e": 21.25
+        },
+        {
+          "w": "climb",
+          "s": 21.33,
+          "e": 21.57
+        },
+        {
+          "w": "above",
+          "s": 21.77,
+          "e": 21.97
+        },
+        {
+          "w": "seventy",
+          "s": 22.05,
+          "e": 22.37
+        },
+        {
+          "w": "thousand",
+          "s": 22.45,
+          "e": 22.85
+        },
+        {
+          "w": "feet,",
+          "s": 22.93,
+          "e": 23.49
+        },
+        {
+          "w": "carrying",
+          "s": 23.57,
+          "e": 23.97
+        },
+        {
+          "w": "science",
+          "s": 24.05,
+          "e": 24.37
+        },
+        {
+          "w": "instruments",
+          "s": 24.45,
+          "e": 24.93
+        },
+        {
+          "w": "over",
+          "s": 25.01,
+          "e": 25.17
+        },
+        {
+          "w": "the",
+          "s": 25.25,
+          "e": 25.33
+        },
+        {
+          "w": "weather.",
+          "s": 25.49,
+          "e": 25.677
+        }
+      ]
+    },
+    {
+      "text": "The suit keeps pressure on his body. Up here, without it, he could not live.",
+      "start": 26.57,
+      "end": 31.89,
+      "words": [
+        {
+          "w": "The",
+          "s": 26.57,
+          "e": 26.65
+        },
+        {
+          "w": "suit",
+          "s": 26.77,
+          "e": 27.01
+        },
+        {
+          "w": "keeps",
+          "s": 27.05,
+          "e": 27.25
+        },
+        {
+          "w": "pressure",
+          "s": 27.33,
+          "e": 27.73
+        },
+        {
+          "w": "on",
+          "s": 27.77,
+          "e": 27.85
+        },
+        {
+          "w": "his",
+          "s": 27.89,
+          "e": 27.97
+        },
+        {
+          "w": "body.",
+          "s": 28.05,
+          "e": 28.85
+        },
+        {
+          "w": "Up",
+          "s": 28.93,
+          "e": 29.09
+        },
+        {
+          "w": "here,",
+          "s": 29.25,
+          "e": 29.57
+        },
+        {
+          "w": "without",
+          "s": 29.77,
+          "e": 29.97
+        },
+        {
+          "w": "it,",
+          "s": 30.05,
+          "e": 30.37
+        },
+        {
+          "w": "he",
+          "s": 30.45,
+          "e": 30.53
+        },
+        {
+          "w": "could",
+          "s": 30.61,
+          "e": 30.69
+        },
+        {
+          "w": "not",
+          "s": 30.77,
+          "e": 30.93
+        },
+        {
+          "w": "live.",
+          "s": 31.01,
+          "e": 31.89
+        }
+      ]
+    },
+    {
+      "text": "Stu Broce took the ER-2 above seventy thousand feet, where the sky turns dark blue and Earth curves away.",
+      "start": 31.97,
+      "end": 39.01,
+      "words": [
+        {
+          "w": "Stu",
+          "s": 31.97,
+          "e": 32.21
+        },
+        {
+          "w": "Broce",
+          "s": 32.29,
+          "e": 32.61
+        },
+        {
+          "w": "took",
+          "s": 32.69,
+          "e": 32.77
+        },
+        {
+          "w": "the",
+          "s": 32.85,
+          "e": 32.93
+        },
+        {
+          "w": "ER-2",
+          "s": 33.01,
+          "e": 33.57
+        },
+        {
+          "w": "above",
+          "s": 33.73,
+          "e": 33.89
+        },
+        {
+          "w": "seventy",
+          "s": 34.05,
+          "e": 34.37
+        },
+        {
+          "w": "thousand",
+          "s": 34.45,
+          "e": 34.77
+        },
+        {
+          "w": "feet,",
+          "s": 34.85,
+          "e": 35.49
+        },
+        {
+          "w": "where",
+          "s": 35.57,
+          "e": 35.65
+        },
+        {
+          "w": "the",
+          "s": 35.73,
+          "e": 35.81
+        },
+        {
+          "w": "sky",
+          "s": 35.81,
+          "e": 36.13
+        },
+        {
+          "w": "turns",
+          "s": 36.21,
+          "e": 36.53
+        },
+        {
+          "w": "dark",
+          "s": 36.61,
+          "e": 36.85
+        },
+        {
+          "w": "blue",
+          "s": 36.93,
+          "e": 37.25
+        },
+        {
+          "w": "and",
+          "s": 37.49,
+          "e": 37.65
+        },
+        {
+          "w": "Earth",
+          "s": 37.73,
+          "e": 37.97
+        },
+        {
+          "w": "curves",
+          "s": 38.05,
+          "e": 38.29
+        },
+        {
+          "w": "away.",
+          "s": 38.49,
+          "e": 39.01
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 39.23
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.023
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.6
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261115-03/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261115-03-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261115-03/ccf-20261115-03.mp4"
 }
