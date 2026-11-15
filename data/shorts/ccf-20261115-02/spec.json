@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261115-02",
-  "revision": 3,
+  "revision": 4,
   "candidate_id": "nasa-GSFC-20201021-M13745-TAG",
   "lane": "aviation_naval",
   "story_type": "spacecraft touches an asteroid",
@@ -71,6 +71,12 @@
       }
     ],
     [
+      {
+        "start": 11.8,
+        "end": 13.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
       {
         "start": 14.0,
         "end": 17.5,
