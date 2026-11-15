@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC2026m000163-Thad-Cochran-Test-Stand-Flush-Time-Warp",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:37:50Z",
   "duration": 69.5,
   "source_file": {
@@ -66,5 +66,6 @@
     58.22,
     62.53,
     66.84
-  ]
+  ],
+  "pass_reason": "Burned-in captions and four near-identical white-water angles; repeats the queued launch pad deluge test"
 }

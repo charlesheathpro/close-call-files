@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20220623-TECHf-0001-Mars-Helicopter-Testing-Media-Reel",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:29:05Z",
   "duration": 237.72,
   "source_file": {
@@ -224,5 +224,6 @@
     200.15,
     214.98,
     229.8
-  ]
+  ],
+  "pass_reason": "Static wide shots of a small helicopter hovering in a chamber; nothing big or dangerous"
 }
