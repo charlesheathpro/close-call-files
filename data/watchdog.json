@@ -1,19 +1,19 @@
 {
-  "at": "2026-11-15T18:40:00Z",
+  "at": "2026-11-15T22:40:00Z",
   "healthy": false,
   "numbers": {
-    "dropped": 57,
+    "dropped": 58,
     "uploaded": 155,
-    "passed": 36,
-    "needs_qa": 2,
+    "passed": 40,
+    "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_48h": 17,
+    "scheduled_48h": 14,
     "scheduled_by_day_mt": {
       "2026-11-15": 10,
       "2026-11-16": 10,
       "2026-11-17": 1
     }
   },
-  "found": "Nov 15 and Nov 16 MT are full (10 each). Nov 17 MT has 1 of 10: the 17:07Z upload run filled 10 slots, then YouTube uploadLimitExceeded returned (data/upload_limit.json until 2026-11-16T17:08Z). Harvest landed 17:13Z with 36 new candidates (DVIDS search blocked, 3 errors). Builds, stats, uploads all landing. No repeated build errors, no auth alerts.",
-  "fixed": "No editor pass: 36 passed Shorts already wait, so the Nov 17 gap is the YouTube daily upload cap, not supply. The next upload run after 17:08Z on Nov 16 can fill Nov 17. QA passed 6 new Shorts and fixed 2."
+  "found": "Nov 15 and 16 MT full (10 each); Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. Harvest (17:13Z), builds, stats and uploads all landing; no repeated build errors, no auth alerts.",
+  "fixed": "No editor pass: 40 passed Shorts wait, so the Nov 17 gap is the YouTube daily cap, not supply. Upload runs after 17:08Z Nov 16 will fill Nov 17. QA fixed and passed 31 and 32, dropped 33."
 }
