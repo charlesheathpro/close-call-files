@@ -1,0 +1,58 @@
+{
+  "asset_id": "nasa:JSC-Orion-12-5-2014-GA_EFT-1_reentry",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor search",
+  "title": "JSC-Orion-12-5-2014-GA_EFT-1_reentry",
+  "description": "View from Orion's top hatch camera as it reenters the atmosphere during Exploration Flight Test -1 flight on December 5, 2014.",
+  "keywords": "EFT-1, Orion, Reentry",
+  "date": "2014-12-05T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/JSC-Orion-12-5-2014-GA_EFT-1_reentry",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-JSC-Orion-12-5-2014-GA-EFT-1-reentry",
+  "status": "used",
+  "harvested_at": "2026-11-15T04:47:15Z",
+  "duration": 1035.77,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/JSC-Orion-12-5-2014-GA_EFT-1_reentry/JSC-Orion-12-5-2014-GA_EFT-1_reentry~orig.mp4",
+    "width": 640,
+    "height": 640,
+    "duration": 1035.713924
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    310.63
+  ],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-JSC-Orion-12-5-2014-GA-EFT-1-reentry.jpg",
+  "sheet_times": [
+    32.35,
+    97.06,
+    161.76,
+    226.46,
+    291.17,
+    355.87,
+    420.58,
+    485.28,
+    549.99,
+    614.69,
+    679.39,
+    744.1,
+    808.8,
+    873.51,
+    938.21,
+    1002.91
+  ],
+  "used_by": "ccf-20261114-91"
+}

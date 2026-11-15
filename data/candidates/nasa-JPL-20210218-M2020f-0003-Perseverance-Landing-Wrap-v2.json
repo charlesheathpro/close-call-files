@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210218-M2020f-0003-Perseverance-Landing-Wrap-v2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:36:22Z",
   "duration": 64.7,
   "source_file": {
@@ -203,5 +203,6 @@
     54.17,
     58.18,
     62.19
-  ]
+  ],
+  "pass_reason": "Perseverance landing already done (ccf-20261105-03); landing shots are animation"
 }

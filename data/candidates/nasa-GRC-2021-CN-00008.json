@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2021-CN-00008",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:47:26Z",
   "duration": 76.0,
   "source_file": {
@@ -51,5 +51,6 @@
     63.7,
     68.42,
     73.14
-  ]
+  ],
+  "pass_reason": "abstract green lab footage of small flames; nothing reads on a phone"
 }
