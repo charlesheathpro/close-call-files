@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210422-TECHf-0001-Ingenuity-2nd-Flight-Recap",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:30:14Z",
   "duration": 48.0,
   "source_file": {
@@ -172,5 +172,6 @@
     40.08,
     43.05,
     46.02
-  ]
+  ],
+  "pass_reason": "mostly control room; helicopter a speck"
 }

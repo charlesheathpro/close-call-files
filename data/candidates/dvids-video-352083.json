@@ -26,7 +26,7 @@
   "time_start": 4.13747,
   "aspect_ratio": "4:3",
   "id": "dvids-video-352083",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:40:03Z",
   "duration": 21.76,
   "source_file": {
@@ -68,5 +68,6 @@
     18.58,
     19.65,
     20.72
-  ]
+  ],
+  "pass_reason": "720x480, sailboat a distant speck being towed; too small for a vertical crop"
 }

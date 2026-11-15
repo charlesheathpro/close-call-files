@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210430-TECHs-0002-Ingenuity-4th-Flight-Recap",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:30:25Z",
   "duration": 34.41,
   "source_file": {
@@ -135,5 +135,6 @@
     28.61,
     30.73,
     32.85
-  ]
+  ],
+  "pass_reason": "mostly control room; helicopter a speck"
 }

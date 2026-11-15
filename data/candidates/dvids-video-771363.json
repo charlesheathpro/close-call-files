@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-771363",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:31:55Z",
   "duration": 58.31,
   "source_file": {
@@ -190,5 +190,6 @@
     48.78,
     52.39,
     56.0
-  ]
+  ],
+  "pass_reason": "interview about a radio patch, no aircraft emergency on screen"
 }

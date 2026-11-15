@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026491",
   "asset_id": "video:1026491",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "aerial refueling",
   "harvested_at": "2026-10-27T15:51:16Z",
@@ -89,5 +89,6 @@
     120.11,
     129.01,
     137.9
-  ]
+  ],
+  "pass_reason": "grainy night vision refueling"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.22553,
   "aspect_ratio": "16:9",
   "id": "dvids-video-420225",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:28:10Z",
   "duration": 288.0,
   "source_file": {
@@ -80,5 +80,6 @@
     243.24,
     260.94,
     278.65
-  ]
+  ],
+  "pass_reason": "routine Chinook bucket drops with no one at risk (same as dropped ccf-20261104-05)"
 }

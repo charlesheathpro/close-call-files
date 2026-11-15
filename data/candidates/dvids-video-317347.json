@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317347",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:39:24Z",
   "duration": 56.98,
   "source_file": {
@@ -66,5 +66,6 @@
     47.65,
     51.18,
     54.71
-  ]
+  ],
+  "pass_reason": "640x480 hypothermia transfer, calm"
 }

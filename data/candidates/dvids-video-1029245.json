@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1029245",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-14T16:36:08Z",
   "duration": 114.88,
   "source_file": {
@@ -66,5 +66,6 @@
     96.51,
     103.66,
     110.81
-  ]
+  ],
+  "pass_reason": "grainy night sensor footage of a food poisoning medevac"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Los-Angeles-Fires-2025-20250112-FS-KG-11",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:29:22Z",
   "duration": 23.55,
   "source_file": {
@@ -63,5 +63,6 @@
     19.45,
     20.89,
     22.33
-  ]
+  ],
+  "pass_reason": "crew loading bags in a parking lot, no fire"
 }

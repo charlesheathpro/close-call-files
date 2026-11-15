@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss070m260970800-NASA-Astronaut-Loral-O-Hara-Returns-Home-to-Earth-Part-3",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T08:33:05Z",
   "duration": 773.43,
   "source_file": {
@@ -286,5 +286,6 @@
     652.16,
     700.47,
     748.78
-  ]
+  ],
+  "pass_reason": "crowd and chair scenes after landing, landing itself only a distant parachute"
 }
