@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261115-03",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "nasa-ARC-20131028-AAV3505-Pilot-Soars-to-70000-Ft",
   "lane": "aviation_naval",
   "story_type": "high-altitude jet in a pressure suit",
@@ -8,7 +8,7 @@
   "priority": 3,
   "hook": "Above 64,000 feet, blood boils. He flies higher.",
   "narration": [
-    "Above sixty-four thousand feet, your blood can boil. This pilot flies higher than that.",
+    "Above sixty-four thousand feet, blood can boil. This pilot flies higher.",
     "Stu Broce flies NASA's ER-2, as one of only four pilots in the world.",
     "He suits up like an astronaut, then rides out to the plane in a van.",
     "The ER-2 gets off the ground fast, with a huge wing and a very powerful engine.",
@@ -73,6 +73,12 @@
       {
         "start": 67.3,
         "end": 70.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 48.5,
+        "end": 51.1,
         "layout": "crop",
         "crop_x": 0.5
       }
