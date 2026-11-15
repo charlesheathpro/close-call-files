@@ -1,16 +1,17 @@
 {
-  "at": "2026-11-15T06:24:06Z",
+  "at": "2026-11-15T10:21:00Z",
   "healthy": false,
   "numbers": {
-    "dropped": 54,
+    "dropped": 55,
     "uploaded": 145,
-    "passed": 33,
+    "passed": 36,
+    "needs_build": 1,
     "scheduled_48h": 11,
     "scheduled_by_day_mt": {
       "2026-11-15": 10,
       "2026-11-16": 1
     }
   },
-  "found": "Nov 16 MT has 1 of 10 slots scheduled while 33 passed Shorts wait; uploads blocked by YouTube uploadLimitExceeded (limit window ended 06:24Z). Harvest ran but DVIDS is blocked and it found 0 new candidates.",
-  "fixed": "No code fix possible for the YouTube cap; hourly upload run (:41) resumes now that the window has lapsed. No editor pass: 33 passed waiting covers the gap. QA passed -91, -92 r2, -93."
+  "found": "Nov 16 MT still has 1 of 10 scheduled. The 06:28Z upload run hit YouTube uploadLimitExceeded again with 0 uploads; limit window runs until 16:56Z. 36 passed Shorts wait. Harvest landed 05:11Z with 0 new candidates (DVIDS blocked); stats and builds landing normally.",
+  "fixed": "Nothing fixable on our side: the cap is YouTube's rolling 24 h upload window, and the hourly upload run (:41) resumes on its own after 16:56Z. No editor pass: 36 passed plus 1 rebuilding covers the next two days. QA passed 15-01, -03, -04, dropped -05, rev 3 for -02."
 }
