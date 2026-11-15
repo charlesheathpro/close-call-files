@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261115-21",
   "candidate_id": "dvids-video-337573",
-  "revision": 1,
+  "revision": 2,
   "lane": "hazards",
   "story_type": "Marine helicopters carry seawater buckets into a base wildfire",
   "music_mood": "hazards",
@@ -82,16 +82,16 @@
   "line_shots": [
     [
       {
-        "start": 31.0,
-        "end": 33.8,
+        "start": 31.6,
+        "end": 34.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 89.2,
-        "end": 91.5,
+        "start": 36.1,
+        "end": 38.5,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.5
       }
     ],
     [
@@ -258,6 +258,5 @@
         "crop_x": 0.5
       }
     ]
-  ],
-  "preview_ok": "L1 shot 2 tail is brown brush with the burning fire edge and the bucket in frame; single-colour ground trips the EMPTY check"
+  ]
 }
