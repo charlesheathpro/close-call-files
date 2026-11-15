@@ -1,26 +1,25 @@
-# Editor notes (review of Nov 14, 2026 UTC)
+# Editor notes (review of Nov 15, 2026 UTC)
 
 ## Where we are
-153 subscribers (up 3), 356,028 views, 129 Shorts uploaded, no rejections. Only 5 Shorts booked for the next 24 hours (target 10). Passed buffer 0; 5 specs waiting to build. Cause: the Nov 13 editor run wrote only 4 specs. Supply is fine: 117 new clips on Nov 13, 3,141 unused.
+172 subscribers (up 5 since last night, up 19 in two days), 366,763 channel views, 145 Shorts uploaded, no rejections, all live ones public. Next 24 hours: 10 of 10 booked. Passed buffer 30, nothing waiting to build or QA. Supply fine: 2,949 unused clips, 32 new on Nov 14.
 
 ## Today's job
-Owner, Nov 13: 10 every day. Write until the buffer (needs_build + needs_qa + passed + scheduled in 48 h) reaches 30, about 20 specs today. When rescue runs thin, move to spacecraft and tests, then aviation, explosions, ships, nature.
+Keep the flow at 10 a day. The buffer (passed + scheduled in 48 h) is about 41, above the 30 goal, so write about 10 strong specs, no filler.
 
-## Numbers (116 mature Shorts)
-- Rescue: 94, median 1,330 views, 65% watched, 149 subs. Aviation and naval: 18, median 1,098, 68%, 24 subs. Hazards: 4, median 303, 1 sub.
-- Top: 17-year-old adrift (45,920); flipped hull, 3 men on top (45,225); sailboat on a rock wall (26,859).
-- Last 10 median watched: 58. Dragging: tornado cam 39, Florence flood day 43, Ike waves 49.
-- Early: "Jumped into the ocean for a sick child" 3,707 views in a day. "Sailboat torn apart by a hurricane" 42.
+## Numbers (121 mature Shorts)
+- Rescue: 99, median 1,343 views, 65% watched, 156 subs. Aviation and naval: 18, median 1,099, 68%, 24 subs. Hazards: 4, median 304, 1 sub.
+- Top: 17-year-old adrift (49,312, 71%); flipped hull, 3 men on top (45,821, 82%); sailboat on a rock wall (33,642, 76%).
+- Last 10 median watched: 55.3, right at the 55 floor. Dragging: tornado cam 40, crab boat at night 41, Florence flood day 43, Ike waves 49, hurricane sailboat 53.
+- Lifted it: "Jumped into the ocean for a sick child" 86%, "Four stuck on an upside down boat" 5,830 views.
 
 ## Do more
-- People on a flipped or sinking boat, clearly on screen, number in the hook.
-- A young person or child in trouble, age in the hook.
-- NASA aborts, splashdowns and tests that look spectacular (abort 97% watched, Orion 95%).
+- People clearly on screen on a flipped or sinking boat, count or age in the hook.
+- Bold rescuer action: a jump, a swimmer going in, a parachute drop.
+- NASA aborts, splashdowns and tests where something dramatic happens.
 
 ## Do less
-- Storm aftermath with no person in visible danger. Old tests with nothing moving.
-- Calm door-cam hoists, grainy FLIR, distant specks.
-- Reusing a hook number or wording within 3 days.
+- Hurricane and storm aftermath, night FLIR, survivors as distant specks. These are what pull watch time under 55.
+- Calm door-cam hoists. Repeating a hook number or wording within 3 days.
 
 ## Lane mix
-Rescue 0.45, aviation and naval 0.45, hazards 0.1. Learner left it unchanged; it stands. Spacecraft, tests and explosions count as aviation and naval.
+Rescue 0.45, aviation and naval 0.45, hazards 0.1. Learner left it unchanged; it stands.
