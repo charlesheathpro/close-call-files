@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20220527-M2020f-0001-NASAs-Ingenuity-Mars-Helicopter-Captures-Video-of-Recor",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-15T04:48:28Z",
   "duration": 35.05,
   "source_file": {
@@ -61,5 +61,6 @@
     29.15,
     31.31,
     33.47
-  ]
+  ],
+  "pass_reason": "640x480 black-and-white navcam, 35 s; too soft and slow for a phone"
 }

@@ -1,0 +1,180 @@
+{
+  "candidate_id": "nasa-jsc2019m000397",
+  "lane": "aviation_naval",
+  "story_type": "spacecraft uprighting test at sea",
+  "music_mood": "sea",
+  "priority": 5,
+  "hook": "This space capsule is upside down. It has to flip itself back.",
+  "narration": [
+    "This space capsule is upside down in the ocean. It has to flip itself back.",
+    "It is a test version of NASA's Orion, the capsule built to carry astronauts to the Moon.",
+    "A Coast Guard ship carried it out and lowered it into open water.",
+    "Then crews left it floating upside down in the waves.",
+    "Five bags packed on top of the capsule inflate and push it back over.",
+    "[short pause] Small boats stood by to see if it would work."
+  ],
+  "outcome": "The bags filled, and the capsule rolled upright in the waves.",
+  "location_card": {
+    "place": "Offshore test, Orion uprighting system",
+    "date": "2018"
+  },
+  "keep_source_audio": false,
+  "title": "Space capsule flips itself upright",
+  "description": "NASA and the U.S. Coast Guard test the Orion Crew Module Uprighting System at sea: a test capsule left upside down in open water rolls itself upright as its red bags inflate.\n\nFootage: NASA JSC video, via the NASA Image and Video Library: https://images.nasa.gov/details/jsc2019m000397\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #orion #coastguard",
+  "tags": [
+    "orion",
+    "nasa",
+    "uprighting system",
+    "coast guard",
+    "space capsule",
+    "splashdown",
+    "artemis",
+    "sea test",
+    "real footage"
+  ],
+  "question_comment": "Would you trust five balloons to turn your spaceship right side up?",
+  "facts": [
+    {
+      "claim": "Footage shows the Orion Crew Module Uprighting System offshore testing",
+      "source_quote": "Includes footage of Orion Crew Module Uprighting System (CMUS) Offshore Training."
+    },
+    {
+      "claim": "Five bags packed atop the capsule",
+      "source_quote": "consists of five bags that are packed tightly in containers and stored atop the Orion capsule."
+    },
+    {
+      "claim": "Purpose: reorient the capsule and keep it upright after splashdown",
+      "source_quote": "reorient the capsule and keep it upright and stable after splashdown."
+    },
+    {
+      "claim": "NASA works with the Coast Guard on these tests",
+      "source_quote": "partnered with the United States Coast Guard (USCG) and Air Force"
+    }
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.nasa.gov/missions/artemis/orion/tests-ensure-orion-spacecraft-is-upright-after-splashdown/",
+      "excerpt": "consists of five bags that are packed tightly in containers and stored atop the Orion capsule. ... reorient the capsule and keep it upright and stable after splashdown. ... partnered with the United States Coast Guard (USCG) and Air Force"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Coast Guard ship lowers the capsule into the sea; capsule floats upside down; red bags inflate and it rolls upright; small boats alongside",
+      "seen_at": "source 39 to 85 s"
+    }
+  ],
+  "short_id": "ccf-20261114-93",
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 71.4,
+        "end": 74.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 74.0,
+        "end": 75.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 20.4,
+        "end": 22.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 22.9,
+        "end": 25.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 25.5,
+        "end": 27.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 86.6,
+        "end": 88.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 41.0,
+        "end": 43.6,
+        "layout": "crop",
+        "crop_x": 0.75
+      },
+      {
+        "start": 44.5,
+        "end": 47.1,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 61.1,
+        "end": 63.7,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 64.0,
+        "end": 66.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 66.6,
+        "end": 69.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 69.0,
+        "end": 71.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 57.0,
+        "end": 60.9,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 82.3,
+        "end": 84.4,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 76.0,
+        "end": 79.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 79.1,
+        "end": 82.2,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ]
+  ]
+}
