@@ -37,6 +37,10 @@
   "question_comment": "Would you have wanted to be in the control room for take two?",
   "facts": [
     {
+      "claim": "The first hot fire, two months earlier, shut down after about a minute (67.2 seconds) instead of 8 minutes",
+      "source_quote": "the shutdown after firing the engines for 67.2-seconds on Jan.16 was triggered by test parameters"
+    },
+    {
       "claim": "Full-duration hot fire of the first SLS core stage on March 18, 2021 at Stennis",
       "source_quote": "conducted a hot fire test of the first SLS core stage on March 18, 2021, on the B-2 Test Stand at Stennis Space Center"
     },
@@ -61,6 +65,10 @@
     {
       "url": "https://www.nasa.gov/blogs/missions/2021/03/18/green-run-update-full-duration-hot-fire-successfully-completed-on-mar-18",
       "excerpt": "a successful full-duration 8 minute (499.6 seconds) hot fire of the Artemis I core stage ... all four RS-25 engines ignited successfully and produced 1.6 million pounds of thrust ... During the test the engines consumed more than 700,000 gallons of liquid oxygen and liquid hydrogen propellant."
+    },
+    {
+      "url": "https://www.nasa.gov/blogs/missions/2021/01/19/green-run-update-data-and-inspections-indicate-core-stage-in-good-condition",
+      "excerpt": "the shutdown after firing the engines for 67.2-seconds on Jan.16 was triggered by test parameters ... the test planned to fire the four engines for about 8 minutes"
     }
   ],
   "revision": 1,
