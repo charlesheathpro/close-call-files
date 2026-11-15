@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261115-02",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "nasa-GSFC-20201021-M13745-TAG",
   "lane": "aviation_naval",
   "story_type": "spacecraft touches an asteroid",
@@ -10,6 +10,7 @@
   "narration": [
     "This spacecraft just touched an asteroid.",
     "NASA's OSIRIS-REx, coming down on the asteroid Bennu.",
+    "Its camera took eighty-two pictures on the way down.",
     "A puff of gas kicks up rock and dust.",
     "On Earth, at 6:08 p.m. Eastern, confirmation came in."
   ],
@@ -35,7 +36,7 @@
   "facts": [
     {
       "claim": "SamCam images of the approach and touchdown on Bennu during TAG on Oct. 20",
-      "source_quote": "Captured on Oct. 20, during the OSIRIS-REx mission\u2019s Touch-And-Go (TAG) sample collection event, this series of 82 images shows the SamCam imager\u2019s field of view as the NASA spacecraft approaches and touches down on asteroid Bennu\u2019s surface."
+      "source_quote": "Captured on Oct. 20, during the OSIRIS-REx mission’s Touch-And-Go (TAG) sample collection event, this series of 82 images shows the SamCam imager’s field of view as the NASA spacecraft approaches and touches down on asteroid Bennu’s surface."
     },
     {
       "claim": "Came down to sample site Nightingale",
@@ -47,7 +48,11 @@
     },
     {
       "claim": "About six seconds, then a back-away burn",
-      "source_quote": "Preliminary data show the sampling head touched Bennu\u2019s surface for approximately 6 seconds, after which the spacecraft performed a back-away burn."
+      "source_quote": "Preliminary data show the sampling head touched Bennu’s surface for approximately 6 seconds, after which the spacecraft performed a back-away burn."
+    },
+    {
+      "claim": "SamCam recorded 82 images of the approach and touchdown",
+      "source_quote": "this series of 82 images shows the SamCam imager’s field of view as the NASA spacecraft approaches and touches down on asteroid Bennu’s surface."
     }
   ],
   "visible_facts": [
@@ -67,16 +72,18 @@
     ],
     [
       {
-        "start": 23.0,
-        "end": 27.2,
-        "layout": "crop",
-        "crop_x": 0.42
-      },
-      {
         "start": 14.0,
         "end": 17.5,
         "layout": "crop",
         "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 23.0,
+        "end": 27.2,
+        "layout": "crop",
+        "crop_x": 0.43
       }
     ],
     [
