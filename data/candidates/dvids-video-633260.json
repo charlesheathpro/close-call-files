@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-633260",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:46:17Z",
   "duration": 115.85,
   "source_file": {
@@ -67,5 +67,6 @@
     97.33,
     104.54,
     111.74
-  ]
+  ],
+  "pass_reason": "distant FLIR of a helicopter beside a cruise ship"
 }

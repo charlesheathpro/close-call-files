@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2019m000806-Hurricane-Dorian-190902",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:02:01Z",
   "duration": 191.67,
   "source_file": {
@@ -62,5 +62,6 @@
     161.3,
     173.24,
     185.19
-  ]
+  ],
+  "pass_reason": "release gives a forecast, no outcome; slow ISS view"
 }

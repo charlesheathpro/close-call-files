@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-892552",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:54:16Z",
   "duration": 77.58,
   "source_file": {
@@ -139,5 +139,6 @@
     65.03,
     69.85,
     74.67
-  ]
+  ],
+  "pass_reason": "washed-out FLIR at night"
 }

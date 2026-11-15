@@ -16,13 +16,14 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-Drop-Test-of-Orion-Spacecraft-for-Crewed-Artemis-Missions",
-  "status": "passed_over",
-  "harvested_at": "2026-10-28T01:18:22Z",
+  "status": "used",
+  "harvested_at": "2026-11-15T12:49:42Z",
   "duration": 29.57,
   "source_file": {
     "src": "https://images-assets.nasa.gov/video/NASA%20Drop%20Test%20of%20Orion%20Spacecraft%20for%20Crewed%20Artemis%20Missions/NASA%20Drop%20Test%20of%20Orion%20Spacecraft%20for%20Crewed%20Artemis%20Missions~orig.mp4",
     "width": 1280,
-    "height": 720
+    "height": 720,
+    "duration": 29.5295
   },
   "transcript_source": "captions",
   "transcript": [
@@ -84,5 +85,5 @@
     26.34,
     28.16
   ],
-  "pass_reason": "one calm splash in a test pool; too thin for the viral bar"
+  "used_by": "ccf-20261115-15"
 }

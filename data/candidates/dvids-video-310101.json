@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-310101",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:47:26Z",
   "duration": 115.93,
   "source_file": {
@@ -110,5 +110,6 @@
     97.39,
     104.6,
     111.82
-  ]
+  ],
+  "pass_reason": "mostly ambulance handoff on the ramp"
 }

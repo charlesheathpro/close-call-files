@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-487490",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:44:10Z",
   "duration": 161.47,
   "source_file": {
@@ -70,5 +70,6 @@
     136.45,
     146.26,
     156.07
-  ]
+  ],
+  "pass_reason": "slow single ISS view of a storm; same reason the Dorian from space Short was dropped"
 }

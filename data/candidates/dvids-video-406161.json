@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-406161",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:46:51Z",
   "duration": 155.72,
   "source_file": {
@@ -271,5 +271,6 @@
     131.6,
     141.05,
     150.5
-  ]
+  ],
+  "pass_reason": "black-and-white FLIR, calm water"
 }
