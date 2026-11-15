@@ -26,7 +26,7 @@
   "time_start": 5.005,
   "aspect_ratio": "16:9",
   "id": "dvids-video-304842",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:08:32Z",
   "duration": 66.11,
   "source_file": {
@@ -172,5 +172,6 @@
     56.14,
     59.93,
     63.72
-  ]
+  ],
+  "pass_reason": "engineer unit feature with garbled interview audio; no explosion story with an outcome"
 }
