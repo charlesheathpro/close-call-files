@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-860090",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:14:13Z",
   "duration": 100.97,
   "source_file": {
@@ -102,5 +102,6 @@
     84.77,
     91.05,
     97.33
-  ]
+  ],
+  "pass_reason": "calm door-cam medevac, survivors tiny"
 }

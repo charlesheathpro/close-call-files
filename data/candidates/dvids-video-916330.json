@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-916330",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:02:04Z",
   "duration": 636.27,
   "source_file": {
@@ -107,5 +107,6 @@
     536.43,
     576.17,
     615.9
-  ]
+  ],
+  "pass_reason": "distant training hoists, calm"
 }

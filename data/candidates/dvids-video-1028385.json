@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1028385",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:35:48Z",
   "duration": 61.77,
   "source_file": {
@@ -257,5 +257,6 @@
     51.69,
     55.52,
     59.35
-  ]
+  ],
+  "pass_reason": "pillarboxed night black-and-white, unreadable"
 }

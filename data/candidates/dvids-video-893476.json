@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-893476",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:46:36Z",
   "duration": 151.4,
   "source_file": {
@@ -78,5 +78,6 @@
     127.32,
     136.75,
     146.19
-  ]
+  ],
+  "pass_reason": "ground ops only, no drop on screen"
 }

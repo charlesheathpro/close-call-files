@@ -1,0 +1,98 @@
+{
+  "short_id": "ccf-20261115-33",
+  "candidate_id": "commons-YF-12C-Takeoff-from-Edwards-Air-Force-Base",
+  "revision": 1,
+  "lane": "aviation_naval",
+  "story_type": "disguised spy jet takeoff, historic film",
+  "music_mood": "aviation",
+  "priority": 8,
+  "hook": "This NASA jet took off under a fake serial number.",
+  "narration": [
+    "This NASA jet took off under a fake serial number.",
+    "NASA labeled this 1970s takeoff a YF-12C.",
+    "It was really an SR-71 Blackbird, the second one ever built, hidden behind a false number."
+  ],
+  "outcome": "Then the disguised Blackbird climbed away over the Mojave.",
+  "location_card": {
+    "place": "Edwards Air Force Base, California",
+    "date": "1970s"
+  },
+  "keep_source_audio": false,
+  "title": "The Blackbird with a fake number",
+  "description": "A 1970s NASA film of a so-called YF-12C taking off from Edwards Air Force Base in California's Mojave Desert. The jet was really SR-71 airframe 61-7951, loaned to NASA under the false number 60-6937 to hide its identity.\n\nFootage: NASA Armstrong Flight Research Center video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:YF-12C_Takeoff_from_Edwards_Air_Force_Base.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #sr71 #blackbird #aviationhistory",
+  "tags": [
+    "yf-12c",
+    "sr-71",
+    "blackbird",
+    "nasa",
+    "edwards air force base",
+    "cold war",
+    "spy plane",
+    "aviation history",
+    "real footage"
+  ],
+  "question_comment": "Why do you think they hid this jet behind a fake number?",
+  "facts": [
+    {
+      "claim": "1970s video of a purported YF-12C takeoff from Edwards",
+      "source_quote": "This 20-second video from the 1970s shows a purported YF-12C takeoff from Edwards Air Force Base."
+    },
+    {
+      "claim": "It was really the second production SR-71 under a false number to hide its identity",
+      "source_quote": "In actuality, this aircraft was the second production SR-71 Blackbird airframe, serial number 61-7951, which was loaned to NASA under the false number 60-6937 to hide its identity."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 8.0,
+        "end": 10.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 10.4,
+        "end": 12.6,
+        "layout": "crop",
+        "crop_x": 0.62
+      }
+    ],
+    [
+      {
+        "start": 1.6,
+        "end": 4.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 4.1,
+        "end": 6.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 12.7,
+        "end": 15.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 15.1,
+        "end": 17.2,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 17.3,
+        "end": 19.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "preview_ok": "EMPTY flags are the jet climbing against plain sky over the lakebed; the aircraft is in every frame"
+}

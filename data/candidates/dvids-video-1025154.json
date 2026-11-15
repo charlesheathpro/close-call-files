@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1025154",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:00:04Z",
   "duration": 198.03,
   "source_file": {
@@ -77,5 +77,6 @@
     166.67,
     179.01,
     191.36
-  ]
+  ],
+  "pass_reason": "training hoist, mostly dark cabin silhouettes"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-916332",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:58:01Z",
   "duration": 33.3,
   "source_file": {
@@ -62,5 +62,6 @@
     27.67,
     29.72,
     31.77
-  ]
+  ],
+  "pass_reason": "vertical promo with burned-in text"
 }

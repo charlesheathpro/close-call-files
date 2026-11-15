@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-230830-1874509",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:51:33Z",
   "duration": 804.1,
   "source_file": {
@@ -74,5 +74,6 @@
     678.04,
     728.26,
     778.49
-  ]
+  ],
+  "pass_reason": "slow ISS storm view; QA rejected same type (ccf-20261030-09)"
 }
