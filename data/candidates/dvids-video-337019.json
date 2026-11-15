@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-337019",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:42:34Z",
   "duration": 140.37,
   "source_file": {
@@ -78,5 +78,6 @@
     118.64,
     127.14,
     135.63
-  ]
+  ],
+  "pass_reason": "bucket b-roll without fire on screen; release thin"
 }

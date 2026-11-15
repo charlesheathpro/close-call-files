@@ -1,0 +1,183 @@
+{
+  "short_id": "ccf-20261115-03",
+  "revision": 1,
+  "candidate_id": "nasa-ARC-20131028-AAV3505-Pilot-Soars-to-70000-Ft",
+  "lane": "aviation_naval",
+  "story_type": "high-altitude jet in a pressure suit",
+  "music_mood": "aviation",
+  "priority": 3,
+  "hook": "Above 64,000 feet, blood boils. He flies higher.",
+  "narration": [
+    "Above sixty-four thousand feet, your blood can boil. This pilot flies higher than that.",
+    "Stu Broce flies NASA's ER-2, as one of only four pilots in the world.",
+    "He suits up like an astronaut, then rides out to the plane in a van.",
+    "The ER-2 gets off the ground fast, with a huge wing and a very powerful engine.",
+    "It can climb above seventy thousand feet, carrying science instruments over the weather.",
+    "[short pause] The suit keeps pressure on his body. Up here, without it, he could not live."
+  ],
+  "outcome": "Stu Broce took the ER-2 above seventy thousand feet, where the sky turns dark blue and Earth curves away.",
+  "location_card": {
+    "place": "NASA ER-2, SEAC4RS science flight",
+    "date": "2013"
+  },
+  "keep_source_audio": false,
+  "title": "Flying so high his blood could boil",
+  "description": "NASA ER-2 pilot Stuart Broce suits up and flies to 70,000 feet to collect atmospheric data for NASA's SEAC4RS airborne science mission, in a 2013 NASA Ames video.\n\nFootage: NASA Ames video, via the NASA Image and Video Library: https://images.nasa.gov/details/ARC-20131028-AAV3505-Pilot-Soars-to-70000-Ft\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #aviation #er2",
+  "tags": [
+    "er-2",
+    "nasa",
+    "pressure suit",
+    "high altitude",
+    "u-2",
+    "aviation",
+    "pilot",
+    "real footage"
+  ],
+  "question_comment": "Would you fly at seventy thousand feet in a pressure suit?",
+  "facts": [
+    {
+      "claim": "Pilot flies to 70,000 feet in a NASA ER-2",
+      "source_quote": "Pilot Stuart Broce flies up to 70,000 Feet in a NASA ER-2 aircraft."
+    },
+    {
+      "claim": "One of four ER-2 pilots in the world",
+      "source_quote": "I'm a NASA ER-2 pilot. One of four in the world now"
+    },
+    {
+      "claim": "Quick takeoff, huge wing, powerful engine",
+      "source_quote": "The ER-2 gets off the ground pretty quick,"
+    },
+    {
+      "claim": "Above 70,000 feet",
+      "source_quote": "NASA ER-2 it's capable of flying at altitudes"
+    },
+    {
+      "claim": "Suit keeps pressure; blood boils above 64,000 feet",
+      "source_quote": "Anything above 64,000 feet, water boils and blood boils"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Pilot in a pressure suit and helmet, van ride, runway, dark blue sky and curved horizon from the cockpit",
+      "seen_at": "source 2 to 96 s"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 57.6,
+        "end": 60.2,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 67.3,
+        "end": 70.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 2.0,
+        "end": 5.0,
+        "layout": "crop",
+        "crop_x": 0.62
+      },
+      {
+        "start": 5.0,
+        "end": 8.3,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 16.0,
+        "end": 18.1,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 18.4,
+        "end": 21.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 21.2,
+        "end": 24.0,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 30.0,
+        "end": 32.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 33.0,
+        "end": 35.8,
+        "layout": "crop",
+        "crop_x": 0.52
+      }
+    ],
+    [
+      {
+        "start": 78.5,
+        "end": 81.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 81.5,
+        "end": 84.0,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 93.4,
+        "end": 96.2,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 70.2,
+        "end": 72.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 73.0,
+        "end": 75.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 87.5,
+        "end": 90.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 90.3,
+        "end": 93.0,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 75.9,
+        "end": 78.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

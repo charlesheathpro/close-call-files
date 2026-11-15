@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-829117",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:33:52Z",
   "duration": 63.46,
   "source_file": {
@@ -214,5 +214,6 @@
     53.13,
     57.06,
     61.0
-  ]
+  ],
+  "pass_reason": "stylized montage, mostly dark interiors, no story"
 }

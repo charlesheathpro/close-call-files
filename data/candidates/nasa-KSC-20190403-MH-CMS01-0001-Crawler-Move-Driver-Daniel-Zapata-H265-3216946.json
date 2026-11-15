@@ -1,0 +1,82 @@
+{
+  "asset_id": "nasa:KSC-20190403-MH-CMS01_0001-Crawler_Move_Driver_Daniel_Zapata_H265-3216946",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor",
+  "title": "Crawler Move B-roll and Timelapse featuring Driver Daniel Zapata",
+  "description": "Crawler Move B-roll and Timelapse featuring Driver Daniel Zapata",
+  "keywords": "crawler, EM-1, crawler-transporter, CT, CT-2, EGS, Exploration Ground Systems",
+  "date": "2019-04-03T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20190403-MH-CMS01_0001-Crawler_Move_Driver_Daniel_Zapata_H265-3216946",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20190403-MH-CMS01-0001-Crawler-Move-Driver-Daniel-Zapata-H265-3216946",
+  "status": "passed_over",
+  "harvested_at": "2026-11-15T08:53:38Z",
+  "duration": 175.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20190403-MH-CMS01_0001-Crawler_Move_Driver_Daniel_Zapata_H265-3216946/KSC-20190403-MH-CMS01_0001-Crawler_Move_Driver_Daniel_Zapata_H265-3216946~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 175.3
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.5,
+    20.63,
+    36.77,
+    46.37,
+    61.27,
+    65.57,
+    71.43,
+    79.77,
+    89.3,
+    92.73,
+    103.23,
+    111.97,
+    118.07,
+    123.73,
+    134.0,
+    140.37,
+    148.83,
+    152.37,
+    159.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      159.7
+    ],
+    "silence_ends": [
+      13.5,
+      175.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20190403-MH-CMS01-0001-Crawler-Move-Driver-Daniel-Zapata-H265-3216946.jpg",
+  "sheet_times": [
+    5.46,
+    16.39,
+    27.31,
+    38.24,
+    49.16,
+    60.09,
+    71.01,
+    81.94,
+    92.86,
+    103.79,
+    114.71,
+    125.64,
+    136.56,
+    147.49,
+    158.41,
+    169.34
+  ],
+  "pass_reason": "slow crawler b-roll, no release text, no stakes"
+}

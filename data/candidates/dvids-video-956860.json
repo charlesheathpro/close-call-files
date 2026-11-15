@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-956860",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:41:34Z",
   "duration": 95.3,
   "source_file": {
@@ -201,5 +201,6 @@
     79.99,
     85.91,
     91.84
-  ]
+  ],
+  "pass_reason": "tinted sensor footage, calm hoist"
 }

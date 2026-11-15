@@ -1,0 +1,113 @@
+{
+  "short_id": "ccf-20261115-02",
+  "revision": 1,
+  "candidate_id": "nasa-GSFC-20201021-M13745-TAG",
+  "lane": "aviation_naval",
+  "story_type": "spacecraft touches an asteroid",
+  "music_mood": "night",
+  "priority": 3,
+  "hook": "This spacecraft touched an asteroid for six seconds.",
+  "narration": [
+    "This spacecraft just touched an asteroid.",
+    "NASA's OSIRIS-REx, coming down on a site called Nightingale, on Bennu.",
+    "A puff of gas kicks up rock and dust.",
+    "On Earth, at 6:08 p.m. Eastern, confirmation came in."
+  ],
+  "outcome": "It touched Bennu for about six seconds, then backed away.",
+  "location_card": {
+    "place": "Asteroid Bennu, sample site Nightingale",
+    "date": "Oct. 20, 2020"
+  },
+  "keep_source_audio": false,
+  "title": "Spacecraft touches an asteroid",
+  "description": "On Oct. 20, 2020, NASA's OSIRIS-REx spacecraft touched down on asteroid Bennu at sample site Nightingale. Its SamCam imager recorded the approach, the touch and the burst of rock and dust.\n\nFootage: NASA GSFC video, via the NASA Image and Video Library: https://images.nasa.gov/details/GSFC_20201021_M13745_TAG\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #asteroid #space",
+  "tags": [
+    "osiris-rex",
+    "bennu",
+    "asteroid",
+    "nasa",
+    "touch and go",
+    "spacecraft",
+    "sample return",
+    "real footage"
+  ],
+  "question_comment": "Would you have bet on a spacecraft landing on a pile of loose rocks?",
+  "facts": [
+    {
+      "claim": "SamCam images of the approach and touchdown on Bennu during TAG on Oct. 20",
+      "source_quote": "Captured on Oct. 20, during the OSIRIS-REx mission\u2019s Touch-And-Go (TAG) sample collection event, this series of 82 images shows the SamCam imager\u2019s field of view as the NASA spacecraft approaches and touches down on asteroid Bennu\u2019s surface."
+    },
+    {
+      "claim": "Came down to sample site Nightingale",
+      "source_quote": "The sampling event brought the spacecraft all the way down to sample site Nightingale"
+    },
+    {
+      "claim": "Confirmation at 6:08 pm EDT",
+      "source_quote": "the team on Earth received confirmation of successful touchdown at 6:08 pm EDT"
+    },
+    {
+      "claim": "About six seconds, then a back-away burn",
+      "source_quote": "Preliminary data show the sampling head touched Bennu\u2019s surface for approximately 6 seconds, after which the spacecraft performed a back-away burn."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Sampling head descends onto the rocky surface and a burst of rock and dust erupts; control room team cheers",
+      "seen_at": "source 23 to 36 s and 37 to 49 s"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 32.9,
+        "end": 36.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 23.0,
+        "end": 27.2,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 15.5,
+        "end": 17.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 28.5,
+        "end": 32.8,
+        "layout": "crop",
+        "crop_x": 0.43
+      }
+    ],
+    [
+      {
+        "start": 37.0,
+        "end": 40.2,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 40.3,
+        "end": 43.5,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 44.9,
+        "end": 49.1,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "asset_id": "nasa:GSFC_20160519_SPB_m12262_Balloons",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor",
+  "title": "NASA Launches Super-Pressure Balloon",
+  "description": "NASA successfully launched a super pressure balloon (SPB) from Wanaka Airport, New Zealand, at 11:35 a.m. Tuesday, May 17, (7:35 p.m. EDT Monday, May 16) on a potentially record-breaking, around-the-world test flight.  The balloon flies at an altitude of about 110,000 feet, in a layer of Earth's atmosphere known as the stratosphere. The purpose of the flight is to test and validate the SPB technology with the goal of long-duration flight (100+ days) at mid-latitudes. In addition, the gondola is carrying the Compton Spectrometer and Imager (COSI) gamma-ray telescope as a mission of opportunity.  Another mission of opportunity is the Carolina Infrasound instrument, a small, 3-kilogram payload with infrasound microphones designed to record acoustic wave field activity in the stratosphere. Developed by the University of North Carolina at Chapel Hill, previous balloon flights of the instrument have recorded low-frequency sounds in the stratosphere, some of which are believed to be new to science.  As the balloon travels around the Earth, it may be visible from the ground, particularly at sunrise and sunset, to those who live in the southern hemisphere’s mid-latitudes, such as Argentina and South Africa.  NASA’s scientific balloons offer low-cost, near-space access for conducting scientific investigations in fields such as astrophysics, heliophysics and atmospheric research.  NASA’s Wallops Flight Facility in Virginia manages the agency’s scientific balloon flight program with 10 to 15 flights each year from launch sites worldwide. Orbital ATK, which operates NASA’s Columbia Scientific Balloon Facility in Palestine, Texas, provides mission planning, engineering services and field operations for NASA’s scientific balloon program. The CSBF team has launched more than 1,700 scientific balloons in the over 35 years of operation.",
+  "keywords": "Earth, New Zealand, Stratosphere",
+  "date": "2016-05-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20160519_SPB_m12262_Balloons",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20160519-SPB-m12262-Balloons",
+  "status": "passed_over",
+  "harvested_at": "2026-11-15T08:51:41Z",
+  "duration": 84.31,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20160519_SPB_m12262_Balloons/GSFC_20160519_SPB_m12262_Balloons~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 84.309333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.67,
+    12.37,
+    16.0,
+    19.67,
+    23.93,
+    27.57,
+    31.67,
+    51.37,
+    67.7,
+    79.3
+  ],
+  "drama_score": 58,
+  "audio": {
+    "silence_starts": [
+      83.3
+    ],
+    "silence_ends": [
+      84.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20160519-SPB-m12262-Balloons.jpg",
+  "sheet_times": [
+    2.62,
+    7.86,
+    13.1,
+    18.33,
+    23.57,
+    28.81,
+    34.05,
+    39.29,
+    44.52,
+    49.76,
+    55.0,
+    60.24,
+    65.48,
+    70.71,
+    75.95,
+    81.19
+  ],
+  "pass_reason": "burned-in caption text over most shots; calm balloon launch"
+}

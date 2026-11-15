@@ -26,7 +26,7 @@
   "time_start": 4.1041,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135827",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:46:43Z",
   "duration": 130.62,
   "source_file": {
@@ -262,5 +262,6 @@
     110.43,
     118.31,
     126.19
-  ]
+  ],
+  "pass_reason": "infantry range walking, nothing big on screen"
 }

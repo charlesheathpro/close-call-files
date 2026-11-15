@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-156141",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:43:40Z",
   "duration": 64.58,
   "source_file": {
@@ -80,5 +80,6 @@
     54.06,
     58.07,
     62.07
-  ]
+  ],
+  "pass_reason": "distant bucket drops; release gives no outcome"
 }

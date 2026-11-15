@@ -1,0 +1,75 @@
+{
+  "asset_id": "nasa:GSFC_20201021_M13745_TAG",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor",
+  "title": "OSIRIS-REx Touches Asteroid Bennu",
+  "description": "Captured on Oct. 20, during the OSIRIS-REx mission’s Touch-And-Go (TAG) sample collection event, this series of 82 images shows the SamCam imager’s field of view as the NASA spacecraft approaches and touches down on asteroid Bennu’s surface. The sampling event brought the spacecraft all the way down to sample site Nightingale, and the team on Earth received confirmation of successful touchdown at 6:08 pm EDT. Preliminary data show the sampling head touched Bennu’s surface for approximately 6 seconds, after which the spacecraft performed a back-away burn.",
+  "keywords": "OSIRIS-REx, OSIRIS, Bennu, asteroid, sample return, TAG, SamCam, Nightingale",
+  "date": "2020-10-21T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20201021_M13745_TAG",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20201021-M13745-TAG",
+  "status": "used",
+  "harvested_at": "2026-11-15T08:46:59Z",
+  "duration": 59.57,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20201021_M13745_TAG/GSFC_20201021_M13745_TAG~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 59.566667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.0,
+      "e": 2.88,
+      "text": "[Music Throughout]"
+    }
+  ],
+  "scene_cuts": [
+    11.8,
+    13.8,
+    15.37,
+    17.57,
+    27.27,
+    28.4,
+    30.93,
+    36.47,
+    43.6,
+    44.87,
+    46.43,
+    49.2
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GSFC-20201021-M13745-TAG.jpg",
+  "sheet_times": [
+    1.85,
+    5.54,
+    9.23,
+    12.92,
+    16.61,
+    20.3,
+    24.0,
+    27.69,
+    31.38,
+    35.07,
+    38.76,
+    42.45,
+    46.15,
+    49.84,
+    53.53,
+    57.22
+  ],
+  "used_by": "ccf-20261115-02"
+}

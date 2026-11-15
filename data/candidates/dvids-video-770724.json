@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-770724",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:29:57Z",
   "duration": 193.0,
   "source_file": {
@@ -483,5 +483,6 @@
     162.42,
     174.46,
     186.49
-  ]
+  ],
+  "pass_reason": "Cal Guard package with interviews and graphics; C-130 wildfire drop ran Nov 14"
 }
