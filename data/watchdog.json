@@ -1,16 +1,16 @@
 {
- "at": "2026-11-15T02:24:03Z",
- "healthy": true,
- "numbers": {
-  "dropped": 54,
-  "uploaded": 145,
-  "passed": 30,
-  "scheduled_48h": 12,
-  "by_day_mt": {
-   "2026-11-14": 10,
-   "2026-11-15": 10,
-   "2026-11-16": 1
-  }
- },
- "notes": "Nov 16 MT has 1 scheduled; 30 passed Shorts waiting cover it once the YouTube uploadLimitExceeded hold lifts (until 2026-11-15T06:24Z); upload runs every 3 h. Supply is ample, so no editor pass. Harvest still reports DVIDS blocked; NASA/Commons supply fine. Upload, build, harvest and stats runs all landing."
+  "at": "2026-11-15T06:24:06Z",
+  "healthy": false,
+  "numbers": {
+    "dropped": 54,
+    "uploaded": 145,
+    "passed": 33,
+    "scheduled_48h": 11,
+    "scheduled_by_day_mt": {
+      "2026-11-15": 10,
+      "2026-11-16": 1
+    }
+  },
+  "found": "Nov 16 MT has 1 of 10 slots scheduled while 33 passed Shorts wait; uploads blocked by YouTube uploadLimitExceeded (limit window ended 06:24Z). Harvest ran but DVIDS is blocked and it found 0 new candidates.",
+  "fixed": "No code fix possible for the YouTube cap; hourly upload run (:41) resumes now that the window has lapsed. No editor pass: 33 passed waiting covers the gap. QA passed -91, -92 r2, -93."
 }
