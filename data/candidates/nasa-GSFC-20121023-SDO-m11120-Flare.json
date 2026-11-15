@@ -1,0 +1,63 @@
+{
+  "asset_id": "nasa:GSFC_20121023_SDO_m11120_Flare",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "X-15",
+  "title": "Active Region on the Sun Emits Another Flare",
+  "description": "The sun emitted a significant solar flare on Oct. 22, 2012, peaking at 11:17 p.m. EDT. The flare came from an active region on the left side of the sun that has been numbered AR 1598, which has already been the source of a number of weaker flares. This flare was classified as an X.1-class flare. \"X-class\" denotes the most intense flares, while the number provides more information about its strength. An X2 is twice as intense as an X1, an X3 is three times as intense, and on. An X-class flare of this intensity can cause degradation or blackouts of radio communications for about an hour.  Solar flares are powerful bursts of radiation. Harmful radiation from a flare cannot pass through Earth's atmosphere to physically affect humans on the ground, however — when intense enough — they can disturb the atmosphere in the layer where GPS and communications signals travel. This can disrupt radio signals for anywhere from minutes to hours.  The National Oceanic and Atmospheric Association, which is the United States government's official source for space weather forecasts and alerts, categorized the radio blackout associated with this flare as an R3, on a scale from R1 to R5. It has since subsided.  Increased numbers of flares are quite common at the moment, since the sun's normal 11-year activity cycle is ramping up toward solar maximum, which is expected in 2013. Humans have tracked this solar cycle continuously since it was discovered in 1843, and it is normal for there to be many flares a day during the sun's peak activity. The first X-class flare of the current solar cycle occurred on Feb. 15, 2011 and there have been 15 X-class flares total in this cycle, including this one. The largest X-class flare in this cycle was an X6.9 on Aug. 9, 2011. This is the 7th X-class flare in 2012 with the largest being an X5.4 flare on March 7.  This flare did not have an associated Earth-directed coronal mass ejection (CME), another solar phenomenon that can send solar particles into space and affect electronic systems in satellites and on Earth.",
+  "keywords": "Sun, Sun-Earth Interactions, Solar Flares, Solar Ultraviolet, Space Weather, SDO, Solar Dynamics Observatory, Heliophysics, Corona",
+  "date": "2012-10-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20121023_SDO_m11120_Flare",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20121023-SDO-m11120-Flare",
+  "status": "new",
+  "harvested_at": "2026-11-15T16:53:31Z",
+  "duration": 38.13,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20121023_SDO_m11120_Flare/GSFC_20121023_SDO_m11120_Flare~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 38.071375
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.27,
+    18.1,
+    28.1
+  ],
+  "drama_score": 37,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      38.1
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20121023-SDO-m11120-Flare.jpg",
+  "sheet_times": [
+    1.18,
+    3.53,
+    5.88,
+    8.23,
+    10.58,
+    12.94,
+    15.29,
+    17.64,
+    19.99,
+    22.34,
+    24.7,
+    27.05,
+    29.4,
+    31.75,
+    34.11,
+    36.46
+  ]
+}

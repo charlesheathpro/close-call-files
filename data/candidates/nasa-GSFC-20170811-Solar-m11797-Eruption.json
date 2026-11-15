@@ -1,0 +1,197 @@
+{
+  "asset_id": "nasa:GSFC_20170811_Solar_m11797_Eruption",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "sounding rocket",
+  "title": "Sun Shreds Its Own Eruption",
+  "description": "On September 30, 2014, multiple NASA observatories watched what appeared to be the beginnings of a solar eruption. A filament — a serpentine structure consisting of dense solar material and often associated with solar eruptions — rose from the surface, gaining energy and speed as it soared. But instead of erupting from the Sun, the filament collapsed, shredded to pieces by invisible magnetic forces.",
+  "keywords": "Eruption, Solar Wind, Sun, Space Weather, SDO, Solar Dynamics Observatory, Heliophysics, Hinode, Corona, IRIS Mission, Sounding Rocket",
+  "date": "2017-08-11T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GSFC",
+  "credit": "NASA GSFC video",
+  "page_url": "https://images.nasa.gov/details/GSFC_20170811_Solar_m11797_Eruption",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GSFC-20170811-Solar-m11797-Eruption",
+  "status": "new",
+  "harvested_at": "2026-11-15T16:51:22Z",
+  "duration": 107.4,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GSFC_20170811_Solar_m11797_Eruption/GSFC_20170811_Solar_m11797_Eruption~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 107.340567
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.4,
+      "e": 5.26,
+      "text": "Did you see that?"
+    },
+    {
+      "s": 5.26,
+      "e": 9.1,
+      "text": "The sun was caught on camera, ripping apart a structure that was about to erupt."
+    },
+    {
+      "s": 9.1,
+      "e": 10.5,
+      "text": "Didn't catch it?"
+    },
+    {
+      "s": 10.5,
+      "e": 12.9,
+      "text": "Let's watch again."
+    },
+    {
+      "s": 12.9,
+      "e": 17.54,
+      "text": "A structure began rising from the surface, gaining energy as it lifted, but then nothing"
+    },
+    {
+      "s": 17.54,
+      "e": 19.38,
+      "text": "happened."
+    },
+    {
+      "s": 19.38,
+      "e": 23.58,
+      "text": "This is the first time anyone has witnessed the tear down of a structure on the sun's"
+    },
+    {
+      "s": 23.58,
+      "e": 24.58,
+      "text": "surface."
+    },
+    {
+      "s": 24.58,
+      "e": 30.14,
+      "text": "Fortunately, at the time of this event, multiple spacecraft were making simultaneous observations"
+    },
+    {
+      "s": 30.14,
+      "e": 32.02,
+      "text": "in various temperatures."
+    },
+    {
+      "s": 32.02,
+      "e": 37.1,
+      "text": "Scientists use those unique views to investigate why the eruption failed."
+    },
+    {
+      "s": 37.1,
+      "e": 40.78,
+      "text": "The sun's landscape is controlled by magnetic forces."
+    },
+    {
+      "s": 40.78,
+      "e": 44.66,
+      "text": "Within this environment, there are locations where a rapid release of energy is more likely"
+    },
+    {
+      "s": 44.66,
+      "e": 45.98,
+      "text": "to occur."
+    },
+    {
+      "s": 45.98,
+      "e": 51.3,
+      "text": "Known as magnetic topology, distinctive magnetic field lines rule these special areas, and"
+    },
+    {
+      "s": 51.3,
+      "e": 55.98,
+      "text": "they determine how or whether underlying structures can move outwards."
+    },
+    {
+      "s": 55.98,
+      "e": 60.1,
+      "text": "When solar structures with opposite magnetic orientation collide, we expect a new environment"
+    },
+    {
+      "s": 60.1,
+      "e": 64.86,
+      "text": "to see them explosively release energy, yielding a flare and a burst of material called a"
+    },
+    {
+      "s": 64.86,
+      "e": 66.58,
+      "text": "coronal mass ejection."
+    },
+    {
+      "s": 66.58,
+      "e": 72.3,
+      "text": "However, if the magnetic structure dares to move into a less hospitable magnetic region,"
+    },
+    {
+      "s": 72.3,
+      "e": 77.7,
+      "text": "the surrounding topology will shred the structure, effectively removing magnetic energy and"
+    },
+    {
+      "s": 77.7,
+      "e": 81.54,
+      "text": "preventing the potential eruption."
+    },
+    {
+      "s": 81.54,
+      "e": 86.02,
+      "text": "This observation highlights how the sun's magnetic topology is a key factor in whether"
+    },
+    {
+      "s": 86.02,
+      "e": 87.74,
+      "text": "or not an eruption is successful."
+    }
+  ],
+  "scene_cuts": [
+    18.27,
+    24.03,
+    36.17,
+    44.6,
+    48.93,
+    55.43,
+    66.4,
+    81.03,
+    94.1,
+    99.5
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      91.4,
+      98.7,
+      100.2,
+      101.1
+    ],
+    "silence_ends": [
+      94.2,
+      99.9,
+      101.1,
+      107.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-GSFC-20170811-Solar-m11797-Eruption.jpg",
+  "sheet_times": [
+    3.34,
+    10.02,
+    16.7,
+    23.38,
+    30.07,
+    36.75,
+    43.43,
+    50.11,
+    56.79,
+    63.47,
+    70.15,
+    76.83,
+    83.52,
+    90.2,
+    96.88,
+    103.56
+  ]
+}

@@ -2,7 +2,7 @@
   "asset_id": "nasa:jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station",
   "source": "nasa",
   "lane": "aviation_naval",
-  "matched_query": "landing test",
+  "matched_query": "Starship",
   "title": "jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station",
   "description": "While orbiting approximately 250 miles above Earth, external cameras aboard the International Space Station captured the sixth test flight of SpaceX’s Starship after liftoff at 4 p.m. CST on Tuesday, Nov. 19. For Artemis III, the first crewed return to the Moon in over 50 years, NASA is working with SpaceX to develop Starship as a lunar lander. Prior to the crewed Artemis III mission, SpaceX will perform an uncrewed landing demonstration mission on the Moon.",
   "keywords": "ISS, Starship",
@@ -16,8 +16,8 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2024m000188-Views-of-Starship-Flight-6-from-International-Space-Station",
-  "status": "passed_over",
-  "harvested_at": "2026-11-15T12:50:11Z",
+  "status": "new",
+  "harvested_at": "2026-11-15T16:53:04Z",
   "duration": 165.43,
   "source_file": {
     "src": "https://images-assets.nasa.gov/video/jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station/jsc2024m000188_Views_of_Starship_Flight_6_from_International_Space_Station~orig.mp4",
@@ -32,7 +32,7 @@
     60.53,
     78.67
   ],
-  "drama_score": 44,
+  "drama_score": 45,
   "audio": {
     "silence_starts": [
       0.0
@@ -59,6 +59,5 @@
     139.16,
     149.47,
     159.78
-  ],
-  "pass_reason": "release gives no outcome; distant streak"
+  ]
 }
