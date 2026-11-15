@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210507-TECHf-0001-Ingenuity-5th-Flight-Recap",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:43:33Z",
   "duration": 41.09,
   "source_file": {
@@ -164,5 +164,6 @@
     34.25,
     36.78,
     39.32
-  ]
+  ],
+  "pass_reason": "Mostly control room; the helicopter is a speck on Mars"
 }

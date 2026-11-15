@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-999764",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-10-31T00:32:48Z",
   "duration": 45.21,
   "source_file": {
@@ -113,5 +113,5 @@
     43.31
   ],
   "editor_note": "Strong cliff hoist at God's Thumb, but cliff rescues ran Oct 28 and 29 and dvids-video-1008137 looks like the same event; write one of the two after Nov 2.",
-  "pass_reason": "Same place and story type as queued ccf-20261030-70 (God's Thumb cliff hoist)"
+  "used_by": "ccf-20261115-22"
 }
