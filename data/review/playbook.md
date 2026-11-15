@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-15T14:56:41Z from 122 Shorts older than 48 hours)
+# Playbook (computed 2026-11-15T20:31:43Z from 123 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.45, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
-- story: runaway boat with no one aboard (+0.39, 1 Shorts)
-- story: launch abort test (+0.38, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.38, 1 Shorts)
+- story: runaway boat with no one aboard (+0.4, 1 Shorts)
+- story: launch abort test (+0.39, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.39, 1 Shorts)
+- story: splashdown recovery (+0.38, 1 Shorts)
 - story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
-- story: splashdown recovery (+0.37, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
 - story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.35, 1 Shorts)
 
 ## Do less of
+- lane: hazards (-0.48, 4 Shorts)
+- story: historic rocket test stand implosion (-0.47, 1 Shorts)
 - story: dog hoist from sinking boat (-0.47, 1 Shorts)
-- lane: hazards (-0.47, 4 Shorts)
-- story: historic rocket test stand implosion (-0.46, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.44, 1 Shorts)
-- story: sailboat torn apart in a hurricane far offshore, cargo ship takes the crew off (-0.42, 1 Shorts)
-- story: kayaker in cold water with waders filling, swimmer and basket hoist (-0.4, 1 Shorts)
-- story: security camera catches a tornado strike (-0.39, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.39, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
+- story: security camera catches a tornado strike (-0.4, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.4, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.4, 1 Shorts)
+- music: hazards (-0.36, 4 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 45988 views, 82% watched
-- 17-year-old adrift at night, no paddle: 49428 views, 71% watched
-- Runaway boat circling with no one aboard: 9589 views, 98% watched
+- Flipped hull 11 miles out, 3 men on top: 46025 views, 81% watched
+- Runaway boat circling with no one aboard: 9603 views, 97% watched
+- 17-year-old adrift at night, no paddle: 49490 views, 70% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
-- Sailboat pinned against a rock wall: 35762 views, 76% watched
+- Orion splashes down after the Moon: 9451 views, 95% watched
 
 ## Weakest Shorts
-- Kayaker's waders filled with seawater: 1185 views, 0% watched
-- Sailboat torn apart by a hurricane: 52 views, 53% watched
-- Crab boat sank at night off Washington: 86 views, 41% watched
-- Saturn V test tower comes down: 54 views, 45% watched
-- Dog hoisted from a sinking catamaran: 10 views, 73% watched
+- Clinging to a flipped boat 12 miles out: 32 views, 67% watched
+- Florence: 67 people, 12 pets in one day: 129 views, 44% watched
+- Crab boat sank at night off Washington: 87 views, 41% watched
+- Dog hoisted from a sinking catamaran: 11 views, 73% watched
+- Saturn V test tower comes down: 55 views, 46% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261108-21: Grainy black-and-white sensor footage on a fairly calm sea, a glare-only stretch at 18 to 22 s, and the third 'alone in a sinking boat, 12 miles out' Short in three days with the same number hook. Dropped.
