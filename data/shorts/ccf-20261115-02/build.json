@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261115-02",
-  "revision": 3,
+  "revision": 4,
   "status": "error",
-  "built_at": "2026-11-15T10:22:09Z",
-  "error": "line 2: shots are 3.5s even after extending, but the line needs 4.2s; give that line longer or more shots"
+  "built_at": "2026-11-15T10:24:44Z",
+  "error": "line 2: shots are 2.0, 3.5s even after extending, but the line needs 4.3s; give that line longer or more shots"
 }
