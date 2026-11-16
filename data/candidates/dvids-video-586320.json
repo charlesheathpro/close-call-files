@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-586320",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:37:54Z",
   "duration": 42.62,
   "source_file": {
@@ -77,5 +77,6 @@
     35.54,
     38.17,
     40.81
-  ]
+  ],
+  "pass_reason": "burned-in captions, simulated casualty care inside a Chinook"
 }
