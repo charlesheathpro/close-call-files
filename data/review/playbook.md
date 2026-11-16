@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-15T20:31:43Z from 123 Shorts older than 48 hours)
+# Playbook (computed 2026-11-16T03:00:04Z from 124 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -9,8 +9,8 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.39, 1 Shorts)
 - story: splashdown recovery (+0.38, 1 Shorts)
 - story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
-- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.35, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.37, 1 Shorts)
+- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.36, 1 Shorts)
 
 ## Do less of
 - lane: hazards (-0.48, 4 Shorts)
@@ -23,9 +23,9 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - music: hazards (-0.36, 4 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 46025 views, 81% watched
-- Runaway boat circling with no one aboard: 9603 views, 97% watched
-- 17-year-old adrift at night, no paddle: 49490 views, 70% watched
+- Flipped hull 11 miles out, 3 men on top: 46859 views, 81% watched
+- Runaway boat circling with no one aboard: 9615 views, 97% watched
+- 17-year-old adrift at night, no paddle: 49538 views, 70% watched
 - Capsule torn off a rocket at Mach 1: 5183 views, 97% watched
 - Orion splashes down after the Moon: 9451 views, 95% watched
 
@@ -37,8 +37,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - Saturn V test tower comes down: 55 views, 46% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261108-21: Grainy black-and-white sensor footage on a fairly calm sea, a glare-only stretch at 18 to 22 s, and the third 'alone in a sinking boat, 12 miles out' Short in three days with the same number hook. Dropped.
-- ccf-20261108-25: 640x480 2008 FLIR: the girl and the six people are never visible, the hoist itself is never readable, and render 10 to 20 s is the same sailboat shot. Dropped.
 - ccf-20261109-02: Strong story, weak picture: soft 720p close-ups of the swimmer's suit over surf; the woman, the slope and the failed fire crew attempt are never visible. Same format as the dropped 05-04 Oregon cliff Short.
 - ccf-20261110-03: Isaac boat evacuation is clean but calm: the opening is a woman stepping off a stair, and there is no visible danger beyond rain and a flooded street. It also repeats the hurricane flood type queued from Ike and Florence.
 - ccf-20261114-53: Clean rocket-cam edit but interchangeable with ccf-20261114-33 (Atlas V rocket cam, boosters tumbling over Earth), and 9 rocket Shorts are already in the queue. One letterboxed tracking shot at 18 s.
