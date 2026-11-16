@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14584-01-NASA-G-III-Captures-Heat-Shield-Data-for-Artemis-II-Mission",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-16T13:09:18Z",
   "duration": 195.07,
   "source_file": {
@@ -83,5 +83,6 @@
     164.17,
     176.33,
     188.49
-  ]
+  ],
+  "pass_reason": "calm aircraft prep and cockpit, nothing happens"
 }
