@@ -1,19 +1,17 @@
 {
-  "at": "2026-11-15T22:40:00Z",
+  "at": "2026-11-16T02:30:18Z",
   "healthy": false,
   "numbers": {
     "dropped": 58,
     "uploaded": 155,
-    "passed": 40,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 14,
+    "passed": 41,
+    "scheduled_48h": 11,
     "scheduled_by_day_mt": {
-      "2026-11-15": 10,
+      "2026-11-15": 8,
       "2026-11-16": 10,
       "2026-11-17": 1
     }
   },
-  "found": "Nov 15 and 16 MT full (10 each); Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. Harvest (17:13Z), builds, stats and uploads all landing; no repeated build errors, no auth alerts.",
-  "fixed": "No editor pass: 40 passed Shorts wait, so the Nov 17 gap is the YouTube daily cap, not supply. Upload runs after 17:08Z Nov 16 will fill Nov 17. QA fixed and passed 31 and 32, dropped 33."
+  "found": "Nov 16 MT full (10); Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. 41 passed Shorts waiting. Harvest (Nov 15 17:13Z), builds, stats and uploads all landing; no repeated build errors, no auth alerts. ccf-20261115-41 had failed to build.",
+  "fixed": "No editor pass: 41 passed Shorts wait, so the Nov 17 gap is the YouTube daily cap, not supply; upload runs after 17:08Z today will fill Nov 17. QA repaired ccf-20261115-41 (outcome shots too short), rebuilt to r3 and passed it."
 }
