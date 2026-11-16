@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-Crew-1-Launch",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-15T17:07:45Z",
   "duration": 758.27,
   "source_file": {
@@ -948,5 +948,6 @@
     639.37,
     686.73,
     734.09
-  ]
+  ],
+  "pass_reason": "Rocket launches saturated in the queue; mostly SpaceX webcast engine views with telemetry graphics."
 }

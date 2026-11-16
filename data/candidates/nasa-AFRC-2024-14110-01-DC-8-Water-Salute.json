@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2024-14110-01-DC-8-Water-Salute",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:52:19Z",
   "duration": 165.3,
   "source_file": {
@@ -70,5 +70,6 @@
     139.05,
     149.35,
     159.65
-  ]
+  ],
+  "pass_reason": "Calm water-salute ceremony; nothing at stake."
 }

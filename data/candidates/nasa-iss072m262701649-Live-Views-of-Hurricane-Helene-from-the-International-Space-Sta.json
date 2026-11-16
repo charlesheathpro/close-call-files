@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss072m262701649-Live-Views-of-Hurricane-Helene-from-the-International-Space-Sta",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:06:23Z",
   "duration": 631.53,
   "source_file": {
@@ -177,5 +177,6 @@
     532.43,
     571.87,
     611.31
-  ]
+  ],
+  "pass_reason": "Cloud deck with no eye visible; release only forecasts, no outcome."
 }
