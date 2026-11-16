@@ -26,7 +26,7 @@
   "time_start": 6.1859,
   "aspect_ratio": "16:9",
   "id": "dvids-video-355561",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:24:58Z",
   "duration": 150.08,
   "source_file": {
@@ -91,5 +91,6 @@
     127.17,
     136.14,
     145.1
-  ]
+  ],
+  "pass_reason": "bucket fills from a river, no fire visible"
 }

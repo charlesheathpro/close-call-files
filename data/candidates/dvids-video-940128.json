@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-940128",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:24:18Z",
   "duration": 33.4,
   "source_file": {
@@ -84,5 +84,6 @@
     27.76,
     29.82,
     31.87
-  ]
+  ],
+  "pass_reason": "small-arms qualification on deck, routine"
 }

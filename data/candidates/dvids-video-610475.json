@@ -26,7 +26,7 @@
   "time_start": 4.07073,
   "aspect_ratio": "16:9",
   "id": "dvids-video-610475",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:10:07Z",
   "duration": 140.34,
   "source_file": {
@@ -68,5 +68,6 @@
     118.63,
     127.11,
     135.6
-  ]
+  ],
+  "pass_reason": "routine dehydration medevac"
 }

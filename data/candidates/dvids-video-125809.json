@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-125809",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:23:46Z",
   "duration": 94.63,
   "source_file": {
@@ -118,5 +118,6 @@
     80.05,
     85.68,
     91.32
-  ]
+  ],
+  "pass_reason": "no fire on screen: helicopters on the ground, fuel trucks"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-778946",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-16T12:45:22Z",
   "duration": 50.09,
   "source_file": {
@@ -114,5 +114,6 @@
     41.84,
     44.94,
     48.04
-  ]
+  ],
+  "pass_reason": "celebration video with burned-in captions over every shot"
 }

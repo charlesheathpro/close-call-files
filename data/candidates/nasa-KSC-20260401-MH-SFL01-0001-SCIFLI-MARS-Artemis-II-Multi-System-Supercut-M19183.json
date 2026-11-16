@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-SFL01-0001-SCIFLI-MARS-Artemis-II-Multi-System-Supercut-M19183",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-13T08:37:45Z",
   "duration": 271.57,
   "source_file": {
@@ -67,5 +67,6 @@
     228.71,
     245.65,
     262.6
-  ]
+  ],
+  "used_by": "ccf-20261116-08"
 }
