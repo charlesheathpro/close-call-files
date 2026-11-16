@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:KSC_20210615_Core_stage_lift_360_video_timelapse",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "solid rocket booster",
+  "title": "A 360 Look at the Artemis I Core Stage Lift and Mate",
+  "description": "Get the full Space Launch System core stage experience, and watch in 360 degrees as teams lift the largest part of the rocket in the transfer aisle of the Vehicle Assembly Building at NASA's Kennedy Space Center and move it over to High Bay 3. From there, the core stage was lowered onto the mobile launcher and placed in between the twin solid rocket boosters as preparations for the Artemis I launch continue.",
+  "keywords": "Artemis, Artemis I, Core Stage, Lift and Mate, 360, NASA, KSC, Kennedy Space Center, SLS, Space Launch System",
+  "date": "2021-06-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC_20210615_Core_stage_lift_360_video_timelapse",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210615-Core-stage-lift-360-video-timelapse",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:07:41Z",
+  "duration": 150.7,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC_20210615_Core_stage_lift_360_video_timelapse/KSC_20210615_Core_stage_lift_360_video_timelapse~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 150.7
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 31,
+  "audio": {
+    "silence_starts": [
+      149.4
+    ],
+    "silence_ends": [
+      150.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210615-Core-stage-lift-360-video-timelapse.jpg",
+  "sheet_times": [
+    4.69,
+    14.08,
+    23.47,
+    32.86,
+    42.24,
+    51.63,
+    61.02,
+    70.41,
+    79.79,
+    89.18,
+    98.57,
+    107.96,
+    117.34,
+    126.73,
+    136.12,
+    145.51
+  ]
+}
