@@ -1,18 +1,18 @@
 {
-  "at": "2026-11-16T18:25:41Z",
-  "healthy": false,
+  "at": "2026-11-16T22:40:00Z",
+  "healthy": true,
   "numbers": {
-    "passed": 45,
-    "scheduled_today_ET": 10,
-    "scheduled_tomorrow_ET": 10,
-    "scheduled_nov18_ET": 1,
-    "needs_build_qa": 0
+    "passed": 47,
+    "needs_qa": 3,
+    "scheduled_next_48h": 14,
+    "scheduled_nov16_MT": 10,
+    "scheduled_nov17_MT": 10,
+    "scheduled_nov18_MT": 1
   },
   "found": [
-    "No upload workflow run from 08:32 to 18:16 UTC (GitHub skipped schedules) while the YouTube upload limit had expired at 17:08 UTC; only 7 scheduled in next 48h"
+    "YouTube uploadLimitExceeded at 18:32 UTC after 10 uploads today; limit until 2026-11-17T18:19Z. Nov 18 has 1 slot filled, rest fill when the limit lifts (47 passed waiting).",
+    "Harvest 20:19 UTC: dvids_blocked true, 3 errors, 1 new candidate. Supply is not the constraint."
   ],
-  "fixed": [
-    "Pushed triggers/upload; run at 18:17 uploaded 10, filling Nov 17 to 10 slots"
-  ],
-  "notes": "Supply healthy (45 passed waiting); no editor pass needed. Nov 18 slots fill on the next upload run."
+  "fixed": [],
+  "notes": "No editor pass needed: the daily YouTube upload cap, not Short supply, limits scheduling."
 }
