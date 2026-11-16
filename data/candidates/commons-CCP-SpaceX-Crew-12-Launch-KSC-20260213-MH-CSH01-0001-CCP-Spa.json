@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-CCP-SpaceX-Crew-12-Launch-KSC-20260213-MH-CSH01-0001-CCP-Spa",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-15T17:07:16Z",
   "duration": 143.09,
   "source_file": {
@@ -57,5 +57,6 @@
     120.31,
     129.22,
     138.13
-  ]
+  ],
+  "used_by": "ccf-20261116-09"
 }
