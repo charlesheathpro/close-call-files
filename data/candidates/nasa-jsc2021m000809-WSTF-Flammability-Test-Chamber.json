@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000809-WSTF-Flammability-Test-Chamber",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:30:37Z",
   "duration": 53.27,
   "source_file": {
@@ -224,5 +224,6 @@
     44.52,
     47.82,
     51.12
-  ]
+  ],
+  "pass_reason": "Facility capability promo; no event or outcome."
 }

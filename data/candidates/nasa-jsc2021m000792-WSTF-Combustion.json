@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000792-WSTF-Combustion",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:30:10Z",
   "duration": 42.94,
   "source_file": {
@@ -169,5 +169,6 @@
     35.81,
     38.46,
     41.12
-  ]
+  ],
+  "pass_reason": "Facility capability promo; no event or outcome."
 }

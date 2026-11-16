@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-300563",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:26:23Z",
   "duration": 59.76,
   "source_file": {
@@ -68,5 +68,6 @@
     50.0,
     53.7,
     57.41
-  ]
+  ],
+  "pass_reason": "Only a cockpit approach to a runway; the medevac is never shown."
 }

@@ -1,0 +1,189 @@
+{
+  "short_id": "ccf-20261116-01",
+  "candidate_id": "nasa-The-Shuttles-Last-Flight-An-end-A-new-beginning",
+  "lane": "aviation_naval",
+  "story_type": "countdown hold seconds before a launch",
+  "music_mood": "aviation",
+  "priority": 4,
+  "hook": "The last shuttle launch froze 31 seconds before liftoff.",
+  "narration": [
+    "The last space shuttle launch ever froze thirty one seconds before liftoff.",
+    "July eighth, twenty eleven. Atlantis stood on the pad in Florida, ready to fly one last time.",
+    "At T minus thirty one seconds, the clock held.",
+    "A cap on top of the fuel tank had swung away. The switch that tells launch control it is safe never confirmed it.",
+    "So they checked the cap with a camera.",
+    "The cap was clear. Three main engines lit.",
+    "The final liftoff of Atlantis came just a few minutes late.",
+    "[short pause] Thirteen days later, it dropped out of the predawn dark toward Kennedy."
+  ],
+  "outcome": "Atlantis landed at Kennedy for the final time, and the shuttle era was over.",
+  "location_card": {
+    "place": "Kennedy Space Center, Florida",
+    "date": "July 8, 2011"
+  },
+  "keep_source_audio": true,
+  "title": "Last shuttle launch froze at T-31",
+  "description": "On July 8, 2011, the countdown for STS-135, the final space shuttle mission, held at T minus 31 seconds when a switch failed to confirm a cap on the external tank had moved clear. A camera verified it, and Atlantis launched a few minutes late, then landed at Kennedy for the final time on July 21.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/The%20Shuttles%20Last%20Flight.%20An%20end.%20A%20new%20beginning\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #spaceshuttle #atlantis",
+  "tags": [
+    "space shuttle",
+    "atlantis",
+    "sts-135",
+    "last shuttle launch",
+    "nasa",
+    "launch hold",
+    "kennedy space center",
+    "rocket launch",
+    "space history",
+    "real footage"
+  ],
+  "question_comment": "Would your nerves survive a hold at 31 seconds?",
+  "facts": [
+    {
+      "claim": "July 8, 2011, final launch of Atlantis, last shuttle mission STS-135",
+      "source_quote": "July 8, 2011 Today, weather permitting, Atlantis will display its power and spectacle one last time"
+    },
+    {
+      "claim": "Clock held at T minus 31 seconds",
+      "source_quote": "Clock will hold at T minus 31 seconds due to a failue."
+    },
+    {
+      "claim": "Switch meant to tell launch control the cap was out of the way",
+      "source_quote": "that was supposed to the launch control"
+    },
+    {
+      "claim": "Verified using a camera",
+      "source_quote": "OTC says we need to verify using a camera."
+    },
+    {
+      "claim": "A few minutes late",
+      "source_quote": "launching just a few minutes late."
+    },
+    {
+      "claim": "Landed at Kennedy for the final time",
+      "source_quote": "dropped out of the predawn darkness and landed at Kennedy's Shuttle Landing Facility Runway 15 for the final time."
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Cap arm swinging off the tank, ignition, liftoff, climb, night approach and touchdown, Atlantis parked with a flag at its nose and the crew in front of it",
+      "seen_at": "source 182 to 236 s, 425 to 440 s, 504 to 528 s"
+    }
+  ],
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 215.2,
+        "end": 217.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 222.6,
+        "end": 225.0,
+        "layout": "crop",
+        "crop_x": 0.42
+      }
+    ],
+    [
+      {
+        "start": 192.5,
+        "end": 195.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 199.6,
+        "end": 203.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 195.4,
+        "end": 199.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 182.2,
+        "end": 185.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 186.6,
+        "end": 190.8,
+        "layout": "crop",
+        "crop_x": 0.42
+      }
+    ],
+    [
+      {
+        "start": 207.3,
+        "end": 209.8,
+        "layout": "crop",
+        "crop_x": 0.62
+      },
+      {
+        "start": 209.85,
+        "end": 211.45,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 219.0,
+        "end": 222.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 225.2,
+        "end": 228.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 231.8,
+        "end": 235.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 427.8,
+        "end": 431.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 435.8,
+        "end": 439.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 504.4,
+        "end": 507.8,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 525.8,
+        "end": 528.5,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ]
+  ]
+}

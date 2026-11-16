@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000796-JSC-Pyrotechnics-Lab",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:44:03Z",
   "duration": 81.43,
   "source_file": {
@@ -294,5 +294,6 @@
     68.28,
     73.34,
     78.4
-  ]
+  ],
+  "pass_reason": "Facility capability promo; no event or outcome."
 }

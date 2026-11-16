@@ -1,0 +1,178 @@
+{
+  "short_id": "ccf-20261116-03",
+  "candidate_id": "nasa-NASAFIRESENSE-3840x2160-23-976fps-AAC-48kHz-Stereo-Progressive",
+  "lane": "hazards",
+  "story_type": "prescribed burn lit from a helicopter",
+  "music_mood": "mountain",
+  "priority": 5,
+  "hook": "This helicopter set a forest on fire on purpose.",
+  "narration": [
+    "This helicopter set a forest on fire on purpose.",
+    "October twenty twenty three, Fishlake National Forest in Utah.",
+    "Under it hangs a heli-torch, a tank that drips burning fuel onto the ground below.",
+    "This forest holds Pando, one aspen clone of more than forty thousand trees, the largest organism ever found.",
+    "Aspens rely on fire to reproduce, and invading conifers were crowding them out.",
+    "So the heli-torch flew pass after pass through the smoke.",
+    "[short pause] Flames ran up the slope and the smoke climbed over the ridge."
+  ],
+  "outcome": "The prescribed burn was lit, and NASA and Forest Service teams studied it from the ground and the air.",
+  "location_card": {
+    "place": "Fishlake National Forest, Utah",
+    "date": "Oct. 9, 2023"
+  },
+  "keep_source_audio": true,
+  "title": "Helicopter sets a forest on fire",
+  "description": "On Oct. 9, 2023, a heli-torch operator ignited a prescribed burn in Utah's Fishlake National Forest, home of the Pando aspen clone, to help aspen trees regrow. NASA FireSense and the Forest Service's FASMEE studied the burn.\n\nFootage: NASA GSFC video, via the NASA Image and Video Library: https://images.nasa.gov/details/NASAFIRESENSE_3840x2160_23.976fps_AAC_48kHz_Stereo_Progressive\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #wildfire #helicopter #nasa",
+  "tags": [
+    "prescribed burn",
+    "heli-torch",
+    "helicopter",
+    "wildfire",
+    "fishlake national forest",
+    "pando",
+    "aspen",
+    "nasa firesense",
+    "forest service",
+    "real footage"
+  ],
+  "question_comment": "Should forests be burned on purpose to prevent worse fires?",
+  "facts": [
+    {
+      "claim": "Oct. 9, 2023, heli-torch operator ignited a prescribed burn in Fishlake National Forest, Utah",
+      "source_quote": "On October 9th, 2023, a heli-torch operator flew over the Fishlake National Forest in Utah, igniting a prescribed burn to assist in the regrowth of the Aspen tree population."
+    },
+    {
+      "claim": "Pando, largest organism, over 40,000 trees",
+      "source_quote": "The forest is renowned for the Pando clone, the largest organism ever found, spanning 106 acres and consisting of over 40,000 individual trees."
+    },
+    {
+      "claim": "Aspens rely on fire; conifers crowding them out",
+      "source_quote": "Aspen trees, classified as pyrophile plants, rely on fire for reproduction. However, the encroachment of conifer trees in Fishlake National Forest has diminished local Aspen populations."
+    },
+    {
+      "claim": "NASA FireSense and Forest Service FASMEE studied the burn, including from the air",
+      "source_quote": "Organizations such as US Forests Services\u2019s FASMEE and NASA's FireSense participated in studying this burn, with NASA leveraging its unique Earth science and airborne technological capabilities"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Helicopter carrying a torch tank over flames and smoke, flames running up a slope, smoke plume over the ridge",
+      "seen_at": "source 60 to 146 s"
+    }
+  ],
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 116.0,
+        "end": 119.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 119.2,
+        "end": 122.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 138.0,
+        "end": 141.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 72.5,
+        "end": 75.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 60.4,
+        "end": 63.6,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 63.8,
+        "end": 66.6,
+        "layout": "crop",
+        "crop_x": 0.62
+      }
+    ],
+    [
+      {
+        "start": 39.8,
+        "end": 43.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 81.4,
+        "end": 85.4,
+        "layout": "crop",
+        "crop_x": 0.42
+      }
+    ],
+    [
+      {
+        "start": 67.2,
+        "end": 71.8,
+        "layout": "crop",
+        "crop_x": 0.62
+      },
+      {
+        "start": 99.2,
+        "end": 102.8,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 103.4,
+        "end": 106.6,
+        "layout": "crop",
+        "crop_x": 0.52
+      },
+      {
+        "start": 106.8,
+        "end": 109.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 130.0,
+        "end": 132.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 110.0,
+        "end": 113.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 141.4,
+        "end": 145.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 114.3,
+        "end": 115.95,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ]
+  ]
+}

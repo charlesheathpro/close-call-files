@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASAFIRESENSE-3840x2160-23-976fps-AAC-48kHz-Stereo-Progressive",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T01:45:02Z",
   "duration": 156.84,
   "source_file": {
@@ -87,5 +87,6 @@
     131.91,
     141.68,
     151.46
-  ]
+  ],
+  "used_by": "ccf-20261116-03"
 }

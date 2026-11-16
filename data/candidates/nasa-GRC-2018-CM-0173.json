@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2018-CM-0173",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:13:39Z",
   "duration": 91.23,
   "source_file": {
@@ -72,5 +72,6 @@
     76.56,
     82.23,
     87.9
-  ]
+  ],
+  "pass_reason": "Lab time-lapse of hardware setup; nothing happens."
 }
