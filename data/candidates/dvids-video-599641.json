@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-599641",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:19:21Z",
   "duration": 220.67,
   "source_file": {
@@ -501,5 +501,6 @@
     185.77,
     199.53,
     213.29
-  ]
+  ],
+  "pass_reason": "mostly checkpoints and interviews; facts used as extra source for ccf-20261116-17"
 }

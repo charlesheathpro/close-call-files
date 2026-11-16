@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20200518-M2020f-0001-Shake-Rattle-and-Roll-Testing-NASAs-Mars-2020-Persevera",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:19:55Z",
   "duration": 148.65,
   "source_file": {
@@ -100,5 +100,6 @@
     125.0,
     134.26,
     143.52
-  ]
+  ],
+  "pass_reason": "calm clean-room work, fails viral bar"
 }
