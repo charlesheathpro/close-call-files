@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20210819-MH-FMX01-0001-Umbilical-Retract-and-Release-Test-3285584",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:52:03Z",
   "duration": 118.03,
   "source_file": {
@@ -69,5 +69,6 @@
     99.17,
     106.51,
     113.86
-  ]
+  ],
+  "pass_reason": "Fisheye stills of arms in the VAB; no visible event or stated outcome."
 }

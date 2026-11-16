@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-FD-20-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:56:45Z",
   "duration": 71.12,
   "source_file": {
@@ -60,5 +60,6 @@
     59.59,
     64.0,
     68.42
-  ]
+  ],
+  "pass_reason": "One static camera view of the Moon for 71 s; nothing changes."
 }

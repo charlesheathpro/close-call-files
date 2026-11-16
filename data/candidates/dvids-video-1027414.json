@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1027414",
   "asset_id": "video:1027414",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "flight operations",
   "harvested_at": "2026-10-27T15:52:18Z",
@@ -61,5 +61,6 @@
     100.42,
     107.86,
     115.3
-  ]
+  ],
+  "pass_reason": "Mostly a steady boom-camera refueling view; jumps last a few seconds."
 }

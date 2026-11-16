@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Apollo-11-moonwalk-montage-720p",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:43:39Z",
   "duration": 120.17,
   "source_file": {
@@ -295,5 +295,6 @@
     100.97,
     108.45,
     115.93
-  ]
+  ],
+  "pass_reason": "Murky 1969 TV images; too soft for a phone."
 }

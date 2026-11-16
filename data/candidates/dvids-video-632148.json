@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-632148",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:32:05Z",
   "duration": 267.01,
   "source_file": {
@@ -68,5 +68,6 @@
     224.87,
     241.52,
     258.18
-  ]
+  ],
+  "pass_reason": "Routine 480p medevac of a hurricane survivor; QA rejects these."
 }
