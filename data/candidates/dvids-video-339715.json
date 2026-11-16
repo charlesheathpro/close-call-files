@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-339715",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:20:45Z",
   "duration": 197.93,
   "source_file": {
@@ -174,5 +174,6 @@
     167.21,
     179.3,
     191.39
-  ]
+  ],
+  "pass_reason": "no active fire on screen: crews mopping up, briefings, interviews"
 }
