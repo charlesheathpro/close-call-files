@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180719-Parker-m12866-torchtest",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-16T13:09:53Z",
   "duration": 95.53,
   "source_file": {
@@ -168,5 +168,6 @@
     80.18,
     86.12,
     92.06
-  ]
+  ],
+  "used_by": "ccf-20261116-11"
 }
