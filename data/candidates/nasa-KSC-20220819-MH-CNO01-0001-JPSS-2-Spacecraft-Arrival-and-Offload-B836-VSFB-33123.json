@@ -1,0 +1,74 @@
+{
+  "asset_id": "nasa:KSC-20220819-MH-CNO01-0001-JPSS_2_Spacecraft_Arrival_and_Offload_B836_VSFB-3312310",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Atlas V launch",
+  "title": "JPSS-2 Spacecraft Arrival and Offload",
+  "description": "The JPSS-2 spacecraft arrival and offload at Vandenberg Space Force Base in California.",
+  "keywords": "JPSS-2, Joint Polar Satellite System-2S, Atlas V, Launch Services Program, United Launch Alliance, Vandenberg Space Force Base, NOAA",
+  "date": "2022-08-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20220819-MH-CNO01-0001-JPSS_2_Spacecraft_Arrival_and_Offload_B836_VSFB-3312310",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20220819-MH-CNO01-0001-JPSS-2-Spacecraft-Arrival-and-Offload-B836-VSFB-33123",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:12:02Z",
+  "duration": 185.8,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20220819-MH-CNO01-0001-JPSS_2_Spacecraft_Arrival_and_Offload_B836_VSFB-3312310/KSC-20220819-MH-CNO01-0001-JPSS_2_Spacecraft_Arrival_and_Offload_B836_VSFB-3312310~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 185.8
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    11.63,
+    29.2,
+    42.0,
+    49.03,
+    53.4,
+    57.5,
+    62.03,
+    66.93,
+    72.7,
+    78.83,
+    85.47,
+    108.83,
+    185.77
+  ],
+  "drama_score": 86,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20220819-MH-CNO01-0001-JPSS-2-Spacecraft-Arrival-and-Offload-B836-VSFB-33123.jpg",
+  "sheet_times": [
+    5.79,
+    17.37,
+    28.95,
+    40.53,
+    52.12,
+    63.7,
+    75.28,
+    86.86,
+    98.44,
+    110.02,
+    121.6,
+    133.18,
+    144.77,
+    156.35,
+    167.93,
+    179.51
+  ]
+}
