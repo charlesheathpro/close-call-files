@@ -1,18 +1,18 @@
 {
-  "at": "2026-11-16T10:25:00Z",
+  "at": "2026-11-16T14:23:59Z",
   "healthy": false,
   "numbers": {
-    "dropped": 64,
+    "dropped": 66,
     "uploaded": 155,
-    "passed": 50,
+    "passed": 55,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_48h": 11,
+    "scheduled_48h": 9,
     "scheduled_by_day_mt": {
       "2026-11-16": 10,
       "2026-11-17": 1
     }
   },
-  "found": "Nov 16 MT full (10). Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. 50 passed Shorts waiting after this QA. Harvest (Nov 15 17:13Z), builds, stats landing; upload runs stop at the cap; no auth alerts; no build errors.",
-  "fixed": "No editor pass and no upload trigger: supply is ample, the gap is the YouTube daily cap. Upload runs after 17:08Z will fill Nov 17."
+  "found": "Nov 16 MT full (10 scheduled, 8 still ahead). Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. 55 passed Shorts waiting after this QA. Harvest (Nov 16 13:16Z), builds, upload runs (12:03Z) and stats landing; no auth alerts; no build errors.",
+  "fixed": "No editor pass and no upload trigger: supply is ample (55 passed), the gap is the YouTube daily cap. Upload runs after 17:08Z will fill Nov 17."
 }
