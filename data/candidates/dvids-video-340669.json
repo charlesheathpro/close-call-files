@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-340669",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-13T17:50:47Z",
   "duration": 30.17,
   "source_file": {
@@ -68,5 +68,6 @@
     25.03,
     26.88,
     28.74
-  ]
+  ],
+  "pass_reason": "calm C-130 taxi footage only; the atoll and patient never shown"
 }
