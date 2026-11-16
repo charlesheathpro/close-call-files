@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261115-57",
   "candidate_id": "nasa-jsc2026m000089-Artemis-II-Moments-Around-the-Moon-1080p-AVAIL",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "crewed lunar flyby sets the human distance record",
   "music_mood": "night",
@@ -61,20 +61,8 @@
   "line_shots": [
     [
       {
-        "start": 62.4,
-        "end": 65.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 59.8,
-        "end": 61.2,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 56.5,
-        "end": 57.9,
+        "start": 62.3,
+        "end": 66.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -89,12 +77,6 @@
       {
         "start": 17.3,
         "end": 19.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 9.7,
-        "end": 11.5,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -128,13 +110,13 @@
       },
       {
         "start": 66.6,
-        "end": 69.2,
+        "end": 69.6,
         "layout": "crop",
         "crop_x": 0.4
       },
       {
-        "start": 79.4,
-        "end": 82.6,
+        "start": 53.95,
+        "end": 56.4,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -161,28 +143,22 @@
     ],
     [
       {
-        "start": 72.8,
-        "end": 74.4,
+        "start": 72.75,
+        "end": 75.6,
         "layout": "crop",
-        "crop_x": 0.85
+        "crop_x": 0.75
       },
       {
-        "start": 50.2,
+        "start": 50.15,
         "end": 53.8,
         "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
-        "start": 57.9,
-        "end": 59.7,
-        "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.1
       }
     ],
     [
       {
-        "start": 74.6,
-        "end": 77.6,
+        "start": 79.4,
+        "end": 82.6,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -202,5 +178,5 @@
       }
     ]
   ],
-  "preview_ok": "Checked: DARK flags are Orion and Earth against the black of space, and EMPTY flags are the red parachutes against a pale sky; the subject is in frame in every flagged shot."
+  "preview_ok": "QA r2: DARK on L6 shot 1 is Earth from Orion's window against black space (Earth fills half the frame); OUT flags are the red parachutes against pale sky and the dark ocean. Subject in frame in every shot."
 }
