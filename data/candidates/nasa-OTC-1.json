@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-OTC-1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:30:26Z",
   "duration": 526.59,
   "source_file": {
@@ -61,5 +61,6 @@
     443.89,
     476.77,
     509.65
-  ]
+  ],
+  "pass_reason": "static spacecraft camera, nothing visibly happens"
 }

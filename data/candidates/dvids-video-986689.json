@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-986689",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:30:07Z",
   "duration": 28.7,
   "source_file": {
@@ -69,5 +69,6 @@
     23.79,
     25.55,
     27.31
-  ]
+  ],
+  "pass_reason": "routine freighter medevac, tinted low quality hoist cam"
 }

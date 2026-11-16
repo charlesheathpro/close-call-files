@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Marshall-Test-Stand-B-roll",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:19:34Z",
   "duration": 132.73,
   "source_file": {
@@ -78,5 +78,6 @@
     111.57,
     119.84,
     128.1
-  ]
+  ],
+  "pass_reason": "historic b-roll montage, no single event or outcome"
 }

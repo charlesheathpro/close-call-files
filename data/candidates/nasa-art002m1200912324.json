@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-art002m1200912324",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:50:12Z",
   "duration": 382.6,
   "source_file": {
@@ -57,5 +57,6 @@
     322.4,
     346.28,
     370.16
-  ]
+  ],
+  "pass_reason": "washed-out static camera view, nothing changes"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210305-M2020f-0001Perseverance-Lands-on-Mars-UHD-Master",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:36:17Z",
   "duration": 131.37,
   "source_file": {
@@ -360,5 +360,6 @@
     110.42,
     118.6,
     126.78
-  ]
+  ],
+  "pass_reason": "reaction montage, no landing footage"
 }

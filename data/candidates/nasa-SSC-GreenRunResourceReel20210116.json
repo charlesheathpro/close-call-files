@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-GreenRunResourceReel20210116",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:57:43Z",
   "duration": 529.03,
   "source_file": {
@@ -115,5 +115,6 @@
     445.95,
     478.98,
     512.02
-  ]
+  ],
+  "pass_reason": "first Green Run attempt already told inside ccf-20261114-89; same stand and angles"
 }
