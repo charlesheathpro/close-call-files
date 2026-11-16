@@ -5,7 +5,7 @@
   "story_type": "uncrewed cargo capsule docks itself to the space station and splashes down",
   "music_mood": "aviation",
   "priority": 5,
-  "revision": 1,
+  "revision": 2,
   "hook": "Nobody was aboard. This capsule flew itself to the space station.",
   "narration": [
     "Nobody was aboard this capsule. It flew itself to the space station.",
@@ -74,10 +74,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 716.0,
-        "end": 719.0,
+        "start": 788.5,
+        "end": 791.5,
         "layout": "crop",
-        "crop_x": 0.42
+        "crop_x": 0.62
       }
     ],
     [
@@ -102,20 +102,20 @@
     ],
     [
       {
-        "start": 345.0,
-        "end": 348.0,
+        "start": 296.0,
+        "end": 299.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 344.0,
+        "end": 347.0,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 357.0,
-        "end": 360.0,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 366.0,
-        "end": 369.0,
+        "start": 380.0,
+        "end": 383.0,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -168,12 +168,6 @@
     ],
     [
       {
-        "start": 674.5,
-        "end": 677.5,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
         "start": 650.0,
         "end": 653.0,
         "layout": "crop",
@@ -182,6 +176,12 @@
       {
         "start": 665.0,
         "end": 668.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 674.5,
+        "end": 677.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -194,18 +194,18 @@
         "crop_x": 0.5
       },
       {
-        "start": 722.0,
-        "end": 725.0,
+        "start": 770.0,
+        "end": 773.0,
         "layout": "crop",
-        "crop_x": 0.38
+        "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 730.0,
-        "end": 733.0,
+        "start": 716.0,
+        "end": 719.0,
         "layout": "crop",
-        "crop_x": 0.38
+        "crop_x": 0.42
       },
       {
         "start": 740.0,
@@ -216,22 +216,22 @@
     ],
     [
       {
-        "start": 1129.4,
-        "end": 1132.4,
+        "start": 1120.0,
+        "end": 1123.0,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.25
       },
       {
-        "start": 1114.0,
-        "end": 1117.0,
+        "start": 1148.0,
+        "end": 1151.0,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.85
       },
       {
-        "start": 1158.0,
-        "end": 1161.0,
+        "start": 1164.0,
+        "end": 1167.0,
         "layout": "crop",
-        "crop_x": 0.68
+        "crop_x": 0.73
       }
     ],
     [
@@ -249,5 +249,5 @@
       }
     ]
   ],
-  "preview_ok": "EMPTY flags on 150-153 s (Falcon 9 climbing, rocket and plume centered in frame) and 1231-1234 s (Dragon under its parachutes, canopies fill the top of frame) are blue sky around a clearly visible subject; checked in shot_preview."
+  "preview_ok": "EMPTY flags on 150-153 s (Falcon 9 climbing, rocket and plume centered) and 1231-1234 s (Dragon under parachutes) are blue sky around a clearly visible subject; checked in shot_preview."
 }

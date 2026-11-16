@@ -5,7 +5,7 @@
   "story_type": "lava fountains erupting inside a neighborhood, Guard escort",
   "music_mood": "hazards",
   "priority": 5,
-  "revision": 1,
+  "revision": 2,
   "hook": "Lava fountains, erupting at the end of a neighborhood street.",
   "narration": [
     "Those are fountains of lava, erupting at the end of a neighborhood street.",
@@ -89,19 +89,13 @@
     [
       {
         "start": 38.0,
-        "end": 41.0,
+        "end": 41.5,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 44.5,
-        "end": 47.5,
-        "layout": "crop",
-        "crop_x": 0.62
-      },
-      {
         "start": 104.0,
-        "end": 107.0,
+        "end": 107.5,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -148,14 +142,14 @@
         "crop_x": 0.55
       },
       {
-        "start": 48.0,
-        "end": 51.0,
+        "start": 54.2,
+        "end": 56.9,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.6
       },
       {
-        "start": 41.0,
-        "end": 44.0,
+        "start": 132.0,
+        "end": 135.0,
         "layout": "crop",
         "crop_x": 0.45
       }

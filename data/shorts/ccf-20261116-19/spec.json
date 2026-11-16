@@ -5,7 +5,7 @@
   "story_type": "frozen football smashed to show spacecraft launch and cold tests",
   "music_mood": "hazards",
   "priority": 5,
-  "revision": 1,
+  "revision": 2,
   "hook": "NASA froze a football in liquid nitrogen. Then it got the hammer.",
   "narration": [
     "NASA froze a football in liquid nitrogen, then hit it with a hammer.",
@@ -65,16 +65,16 @@
   "line_shots": [
     [
       {
-        "start": 214.0,
-        "end": 216.6,
-        "layout": "crop",
-        "crop_x": 0.52
-      },
-      {
-        "start": 216.8,
-        "end": 219.2,
+        "start": 212.0,
+        "end": 214.6,
         "layout": "crop",
         "crop_x": 0.5
+      },
+      {
+        "start": 196.0,
+        "end": 198.0,
+        "layout": "crop",
+        "crop_x": 0.45
       }
     ],
     [
@@ -133,10 +133,10 @@
     ],
     [
       {
-        "start": 93.0,
-        "end": 96.0,
+        "start": 101.0,
+        "end": 104.0,
         "layout": "crop",
-        "crop_x": 0.42
+        "crop_x": 0.5
       },
       {
         "start": 113.0,
@@ -145,10 +145,10 @@
         "crop_x": 0.5
       },
       {
-        "start": 129.0,
-        "end": 132.0,
+        "start": 123.3,
+        "end": 126.3,
         "layout": "crop",
-        "crop_x": 0.62
+        "crop_x": 0.45
       }
     ],
     [
@@ -181,25 +181,26 @@
     ],
     [
       {
-        "start": 210.9,
-        "end": 214.0,
+        "start": 214.6,
+        "end": 216.9,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 221.0,
-        "end": 223.2,
+        "start": 217.0,
+        "end": 219.6,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       },
       {
-        "start": 223.4,
-        "end": 227.0,
+        "start": 222.5,
+        "end": 226.8,
         "layout": "crop",
         "crop_x": 0.55
       }
     ]
-  ]
+  ],
+  "preview_ok": "EMPTY on 101-104 s is the centrifuge arm centered in a big dim hall; DARK on 182-185.4 s is the NASA temperature graphic on a black background, shown with fit layout. Both checked in shot_preview. The 123.3-126.3 s shot is the acoustic chamber warning light, clearly visible."
 }
