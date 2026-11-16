@@ -26,7 +26,7 @@
   "time_start": 4.1588,
   "aspect_ratio": "16:9",
   "id": "dvids-video-418538",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:20:49Z",
   "duration": 264.43,
   "source_file": {
@@ -69,5 +69,6 @@
     223.34,
     239.57,
     255.81
-  ]
+  ],
+  "pass_reason": "480p, mostly cabin footage; routine hoist"
 }

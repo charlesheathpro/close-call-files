@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-499154",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:41:34Z",
   "duration": 126.44,
   "source_file": {
@@ -74,5 +74,6 @@
     106.26,
     114.13,
     122.01
-  ]
+  ],
+  "pass_reason": "calm, dark, color-smeared or low-res medevac footage; nothing at risk on screen"
 }
