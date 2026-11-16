@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-968296",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:28:45Z",
   "duration": 111.56,
   "source_file": {
@@ -264,5 +264,6 @@
     93.71,
     100.65,
     107.59
-  ]
+  ],
+  "pass_reason": "training feature with interviews, little action"
 }

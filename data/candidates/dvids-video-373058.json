@@ -26,7 +26,7 @@
   "time_start": 3.9586,
   "aspect_ratio": "16:9",
   "id": "dvids-video-373058",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:46:47Z",
   "duration": 75.39,
   "source_file": {
@@ -87,5 +87,6 @@
     63.81,
     68.24,
     72.68
-  ]
+  ],
+  "pass_reason": "FLIR door-cam hoist, murky"
 }

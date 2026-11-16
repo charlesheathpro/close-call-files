@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-895219",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:48:59Z",
   "duration": 102.25,
   "source_file": {
@@ -88,5 +88,6 @@
     85.85,
     92.21,
     98.57
-  ]
+  ],
+  "pass_reason": "distant bucket drops then utility workers; Maui bucket drop type dropped before"
 }

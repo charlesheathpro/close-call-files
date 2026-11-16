@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-884974",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:44:23Z",
   "duration": 67.2,
   "source_file": {
@@ -89,5 +89,6 @@
     56.28,
     60.45,
     64.62
-  ]
+  ],
+  "pass_reason": "exercise with interviews; parachute-to-sea type already queued"
 }

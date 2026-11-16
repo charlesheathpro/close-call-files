@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-859698",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:45:54Z",
   "duration": 77.87,
   "source_file": {
@@ -69,5 +69,6 @@
     65.28,
     70.11,
     74.95
-  ]
+  ],
+  "pass_reason": "night FLIR medevac, playbook says do less"
 }

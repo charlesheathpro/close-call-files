@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-323502",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:51:32Z",
   "duration": 124.44,
   "source_file": {
@@ -345,5 +345,6 @@
     104.57,
     112.32,
     120.06
-  ]
+  ],
+  "pass_reason": "interview-driven feature, only seconds of fire"
 }
