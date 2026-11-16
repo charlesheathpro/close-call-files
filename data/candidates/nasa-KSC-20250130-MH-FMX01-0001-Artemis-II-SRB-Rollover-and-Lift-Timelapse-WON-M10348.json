@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20250130-MH-FMX01-0001-Artemis_II_SRB_Rollover_and_Lift_Timelapse-WON_M10348",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "solid rocket booster",
+  "title": "Artemis_II_SRB_Rollover_and_Lift_Timelapse",
+  "description": "SRB Stacking in the VAB",
+  "keywords": "ML, Mobile Launch, NASA, KSC, Kennedy Space Center, EGS, Artemis II, Artemis, SLS, SRB, Lift, Stack, Stacking, VAB, Solid, Rocket, Booster, White",
+  "date": "2025-01-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20250130-MH-FMX01-0001-Artemis_II_SRB_Rollover_and_Lift_Timelapse-WON_M10348",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20250130-MH-FMX01-0001-Artemis-II-SRB-Rollover-and-Lift-Timelapse-WON-M10348",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:08:55Z",
+  "duration": 262.43,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20250130-MH-FMX01-0001-Artemis_II_SRB_Rollover_and_Lift_Timelapse-WON_M10348/KSC-20250130-MH-FMX01-0001-Artemis_II_SRB_Rollover_and_Lift_Timelapse-WON_M10348~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 262.433333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.4,
+    49.3,
+    93.6,
+    116.03,
+    170.23,
+    220.53,
+    262.4
+  ],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      262.4
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20250130-MH-FMX01-0001-Artemis-II-SRB-Rollover-and-Lift-Timelapse-WON-M10348.jpg",
+  "sheet_times": [
+    8.19,
+    24.56,
+    40.93,
+    57.3,
+    73.67,
+    90.04,
+    106.41,
+    122.78,
+    139.15,
+    155.52,
+    171.89,
+    188.26,
+    204.64,
+    221.01,
+    237.38,
+    253.75
+  ]
+}

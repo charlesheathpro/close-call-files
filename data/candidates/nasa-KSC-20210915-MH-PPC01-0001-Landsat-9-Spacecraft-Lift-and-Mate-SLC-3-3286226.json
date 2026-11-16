@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:KSC-20210915-MH-PPC01_0001-Landsat_9_Spacecraft_Lift_and_Mate_SLC_3-3286226",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Atlas V launch",
+  "title": "Landsat 9 Spacecraft Lift and Mate at SLC-3",
+  "description": "The Landsat 9 spacecraft is lifted and mated to the Atlas V rocket in preparation for launch at SLC-3 at Vandenberg Space Force Base in California.",
+  "keywords": "Landsat 9, Launch Services Program, LSP, United Launch Alliance, ULA, Atlas, Vandenberg Space Force Base, VSFB, USGS, U.S. Geological Survey",
+  "date": "2021-09-15T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20210915-MH-PPC01_0001-Landsat_9_Spacecraft_Lift_and_Mate_SLC_3-3286226",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20210915-MH-PPC01-0001-Landsat-9-Spacecraft-Lift-and-Mate-SLC-3-3286226",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:10:58Z",
+  "duration": 55.37,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20210915-MH-PPC01_0001-Landsat_9_Spacecraft_Lift_and_Mate_SLC_3-3286226/KSC-20210915-MH-PPC01_0001-Landsat_9_Spacecraft_Lift_and_Mate_SLC_3-3286226~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 55.366667
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    10.5,
+    16.33,
+    27.1,
+    38.6,
+    44.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20210915-MH-PPC01-0001-Landsat-9-Spacecraft-Lift-and-Mate-SLC-3-3286226.jpg",
+  "sheet_times": [
+    1.71,
+    5.14,
+    8.57,
+    12.0,
+    15.43,
+    18.86,
+    22.29,
+    25.72,
+    29.15,
+    32.58,
+    36.01,
+    39.44,
+    42.86,
+    46.29,
+    49.72,
+    53.15
+  ]
+}
