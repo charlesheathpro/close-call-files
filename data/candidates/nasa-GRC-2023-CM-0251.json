@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2023-CM-0251",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:11:47Z",
   "duration": 599.07,
   "source_file": {
@@ -1112,5 +1112,6 @@
     505.04,
     542.45,
     579.86
-  ]
+  ],
+  "pass_reason": "pillarboxed tracking film with timecode, no release facts beyond \"extra scenes\""
 }

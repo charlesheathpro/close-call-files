@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-767598",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:24:42Z",
   "duration": 85.17,
   "source_file": {
@@ -156,7 +156,7 @@
     {
       "s": 80.54,
       "e": 82.75,
-      "text": "<font color=#000000FF>♪music playing♪</font>"
+      "text": "<font color=#000000FF>\u266amusic playing\u266a</font>"
     },
     {
       "s": 82.75,
@@ -210,5 +210,6 @@
     71.44,
     76.73,
     82.02
-  ]
+  ],
+  "pass_reason": "survival training with interviews, no stakes"
 }

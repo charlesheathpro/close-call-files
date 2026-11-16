@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-420037",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:29:03Z",
   "duration": 123.99,
   "source_file": {
@@ -70,5 +70,6 @@
     104.83,
     112.29,
     119.76
-  ]
+  ],
+  "pass_reason": "litter patient on screen, injury story"
 }

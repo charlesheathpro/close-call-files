@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-487201",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:56:00Z",
   "duration": 477.45,
   "source_file": {
@@ -76,5 +76,6 @@
     402.43,
     432.24,
     462.04
-  ]
+  ],
+  "pass_reason": "murky sensor footage with overlays; dog-on-roof story repeated"
 }

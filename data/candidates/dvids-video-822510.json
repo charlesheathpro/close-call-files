@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-822510",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:44:39Z",
   "duration": 103.25,
   "source_file": {
@@ -71,5 +71,6 @@
     86.7,
     93.12,
     99.54
-  ]
+  ],
+  "pass_reason": "duplicate upload of the 231-mile cruise ship medevac (used as ccf-20261116-16)"
 }

@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "engine test",
   "title": "Apollo Digest Series:  SATURN THIRD STAGE",
-  "description": "Apollo Digest Series:  SATURN THIRD STAGE  Assembly and testing of the Saturn third stage. 20,000 gls of liquid oxygen at -273F, and 63,000 gls of liquid hydrogen at -423F. The J-2 engine during a test run at full throttle—200,000lbs static thrust. This is the stage that put the crew into orbit, then reignites and sends the CM, CS, an LM on their way to the moon.",
+  "description": "Apollo Digest Series:  SATURN THIRD STAGE  Assembly and testing of the Saturn third stage. 20,000 gls of liquid oxygen at -273F, and 63,000 gls of liquid hydrogen at -423F. The J-2 engine during a test run at full throttle\u2014200,000lbs static thrust. This is the stage that put the crew into orbit, then reignites and sends the CM, CS, an LM on their way to the moon.",
   "keywords": "AFRC, SATURN, Apollo, NASA, filmstock",
   "date": "2021-01-30T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000909-Apollo-Digest-Series-SATURN-THIRD-STAGE",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:30:13Z",
   "duration": 338.88,
   "source_file": {
@@ -500,5 +500,6 @@
     285.51,
     306.66,
     327.81
-  ]
+  ],
+  "pass_reason": "pillarboxed 1960s film, mostly animation and factory assembly"
 }

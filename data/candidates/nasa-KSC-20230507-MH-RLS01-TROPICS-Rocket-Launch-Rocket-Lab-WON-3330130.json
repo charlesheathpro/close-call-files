@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20230507-MH-RLS01-TROPICS-Rocket-Launch-Rocket-Lab-WON-3330130",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:18:25Z",
   "duration": 30.1,
   "source_file": {
@@ -58,5 +58,6 @@
     24.98,
     26.83,
     28.68
-  ]
+  ],
+  "pass_reason": "19 s drone shot, no release text, rocket Shorts saturated"
 }

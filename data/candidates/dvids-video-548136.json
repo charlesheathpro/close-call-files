@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-548136",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:36:07Z",
   "duration": 65.64,
   "source_file": {
@@ -97,5 +97,6 @@
     54.96,
     59.04,
     63.11
-  ]
+  ],
+  "pass_reason": "murky, washed-out hoist cam over trees"
 }

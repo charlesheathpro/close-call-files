@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "hoist",
   "title": "WTI 2-23: Hoist Operations During FINEX",
-  "description": "U.S. Marines with Marine Aviation Weapons and Tactics Squadron One (MAWTS-1) conduct hoist operations during the final exercise of Weapons and Tactics Instructor (WTI) course 2-23 off the coast of San Clemente Island, California, April 21, 2023. WTI, hosted by MAWTS-1, is a seven-week course providing standardized advanced tactical training and certification of unit instructor qualifications to support Marine aviation training and readiness. (U.S. Marine Corps video by Cpl. Eric Ramirez)",
+  "description": "U.S. Marines with Marine Aviation Weapons and Tactics Squadron One (MAWTS-1) conduct hoist operations during the final exercise of Weapons and Tactics Instructor (WTI) course 2-23 off the coast of San Clemente Island, California, April 21, 2023. WTI, hosted by MAWTS-1,\u202fis a seven-week course providing standardized advanced tactical training and certification of unit instructor qualifications to support Marine aviation training and readiness.\u202f(U.S. Marine Corps video by Cpl. Eric Ramirez)",
   "keywords": "MAWTS-1, FINEX, MV-22B Osprey, Emergency rescue, Hoist Ops, WTI 2-23",
   "date": "2023-04-21T00:00:00-04:00",
   "date_published": "2023-04-28T09:36:25-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-881477",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:01:44Z",
   "duration": 225.27,
   "source_file": {
@@ -93,5 +93,6 @@
     189.65,
     203.69,
     217.74
-  ]
+  ],
+  "pass_reason": "routine hoist training"
 }
