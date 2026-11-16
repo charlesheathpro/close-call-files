@@ -1,18 +1,18 @@
 {
-  "at": "2026-11-16T14:23:59Z",
+  "at": "2026-11-16T18:25:41Z",
   "healthy": false,
   "numbers": {
-    "dropped": 66,
-    "uploaded": 155,
-    "passed": 55,
-    "needs_qa": 0,
-    "needs_build": 0,
-    "scheduled_48h": 9,
-    "scheduled_by_day_mt": {
-      "2026-11-16": 10,
-      "2026-11-17": 1
-    }
+    "passed": 45,
+    "scheduled_today_ET": 10,
+    "scheduled_tomorrow_ET": 10,
+    "scheduled_nov18_ET": 1,
+    "needs_build_qa": 0
   },
-  "found": "Nov 16 MT full (10 scheduled, 8 still ahead). Nov 17 MT has 1 of 10 because YouTube's uploadLimitExceeded cap holds until 2026-11-16T17:08Z. 55 passed Shorts waiting after this QA. Harvest (Nov 16 13:16Z), builds, upload runs (12:03Z) and stats landing; no auth alerts; no build errors.",
-  "fixed": "No editor pass and no upload trigger: supply is ample (55 passed), the gap is the YouTube daily cap. Upload runs after 17:08Z will fill Nov 17."
+  "found": [
+    "No upload workflow run from 08:32 to 18:16 UTC (GitHub skipped schedules) while the YouTube upload limit had expired at 17:08 UTC; only 7 scheduled in next 48h"
+  ],
+  "fixed": [
+    "Pushed triggers/upload; run at 18:17 uploaded 10, filling Nov 17 to 10 slots"
+  ],
+  "notes": "Supply healthy (45 passed waiting); no editor pass needed. Nov 18 slots fill on the next upload run."
 }
