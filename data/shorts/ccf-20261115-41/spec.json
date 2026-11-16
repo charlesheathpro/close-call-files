@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261115-41",
   "candidate_id": "dvids-video-337222",
-  "revision": 1,
+  "revision": 2,
   "lane": "hazards",
   "story_type": "helicopter bucket drops on a wildfire at the edge of a city",
   "music_mood": "hazards",
@@ -24,16 +24,16 @@
   "line_shots": [
     [
       {
-        "start": 76.0,
-        "end": 78.4,
+        "start": 80.0,
+        "end": 82.4,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.5
       },
       {
-        "start": 78.5,
-        "end": 81.0,
+        "start": 86.2,
+        "end": 88.6,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.5
       }
     ],
     [
@@ -114,30 +114,30 @@
     ],
     [
       {
-        "start": 86.2,
-        "end": 88.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 88.5,
-        "end": 90.1,
+        "start": 88.7,
+        "end": 91.0,
         "layout": "crop",
         "crop_x": 0.55
+      },
+      {
+        "start": 25.4,
+        "end": 27.7,
+        "layout": "crop",
+        "crop_x": 0.7
       }
     ],
     [
       {
-        "start": 90.2,
-        "end": 92.95,
+        "start": 72.6,
+        "end": 75.7,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 72.6,
-        "end": 75.9,
+        "start": 76.0,
+        "end": 79.0,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.45
       }
     ]
   ],
