@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14630-01-Julie-Levri-Incentive-Flight",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-15T17:10:18Z",
   "duration": 740.13,
   "source_file": {
@@ -2675,5 +2675,6 @@
     624.07,
     670.29,
     716.52
-  ]
+  ],
+  "used_by": "ccf-20261115-53"
 }
