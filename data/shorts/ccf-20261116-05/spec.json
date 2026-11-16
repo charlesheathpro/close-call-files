@@ -36,7 +36,7 @@
   "facts": [
     {
       "claim": "Koch and Meir replaced a faulty component Oct. 18, first spacewalk by two women",
-      "source_quote": "Expedition 61 Flight Engineers Christina Koch and Jessica Meir of NASA replaced a faulty electrical component on the far port truss of the complex Oct. 18 during a spacewalk \u2013 the first ever conducted by two women."
+      "source_quote": "Expedition 61 Flight Engineers Christina Koch and Jessica Meir of NASA replaced a faulty electrical component on the far port truss of the complex Oct. 18 during a spacewalk – the first ever conducted by two women."
     },
     {
       "claim": "A battery charge/discharge unit failed to activate after an earlier spacewalk",
@@ -44,7 +44,7 @@
     },
     {
       "claim": "The unit regulates charge into batteries that power the station during nighttime passes",
-      "source_quote": "Koch and Meir changed out the faulty unit that regulates the amount of charge put into the batteries that collect energy from the station\u2019s solar arrays to power station systems during periods when the complex orbits during nighttime passes around the Earth."
+      "source_quote": "Koch and Meir changed out the faulty unit that regulates the amount of charge put into the batteries that collect energy from the station’s solar arrays to power station systems during periods when the complex orbits during nighttime passes around the Earth."
     },
     {
       "claim": "Meir's first spacewalk; 15th woman to walk in space",
@@ -163,5 +163,7 @@
         "crop_x": 0.4
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "QA Nov 16: Low-resolution, purple-tinted ISS TV feed with a dark, near-empty opening frame and a repeated shot at 32 to 34 s; nothing visibly goes wrong. Interchangeable with today's sharper HD spacewalk (02)."
 }

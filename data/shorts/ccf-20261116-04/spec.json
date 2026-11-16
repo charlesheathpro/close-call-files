@@ -37,11 +37,11 @@
   "facts": [
     {
       "claim": "NASA F/A-18 and F-15 flew in the 2026 Pacific Airshow, Huntington Beach, Oct. 2 to 4",
-      "source_quote": "NASA\u2019s F/A\u201118 and F\u201115 aircraft, along with Administrator Jared Isaacman\u2019s F\u20115s, flew in the 2026 Pacific Airshow in Huntington Beach, California, from Friday through Sunday, Oct. 2-4."
+      "source_quote": "NASA’s F/A‑18 and F‑15 aircraft, along with Administrator Jared Isaacman’s F‑5s, flew in the 2026 Pacific Airshow in Huntington Beach, California, from Friday through Sunday, Oct. 2-4."
     },
     {
       "claim": "One of the nation's largest aviation events",
-      "source_quote": "during one of the nation\u2019s largest aviation events"
+      "source_quote": "during one of the nation’s largest aviation events"
     },
     {
       "claim": "Controller: NASA, the box is yours",
@@ -180,5 +180,7 @@
         "crop_x": 0.42
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "QA Nov 16: Clean airshow formation B-roll but no danger, no turn and no stakes; the outcome is just flying back to base. Below the viral bar and in the review's do-less routine bucket."
 }
