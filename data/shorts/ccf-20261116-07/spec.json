@@ -1,0 +1,161 @@
+{
+  "short_id": "ccf-20261116-07",
+  "candidate_id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Idalia-Live",
+  "lane": "hazards",
+  "story_type": "hurricane seen from the space station before landfall",
+  "music_mood": "storm",
+  "priority": 6,
+  "hook": "Space station cameras watched this hurricane spin up.",
+  "narration": [
+    "Space station cameras watched this hurricane spin up over the Gulf of Mexico.",
+    "August twenty ninth, twenty twenty three. Hurricane Idalia, two hundred sixty miles below.",
+    "It was a Category 1 with eighty five mile an hour winds, expected to hit Florida as a Category 3 or stronger.",
+    "Warm Gulf water is the fuel. The storm draws up heat and moisture, and the winds tighten around the eye.",
+    "[short pause] Forecasters warned of a life-threatening storm surge along Florida's Big Bend."
+  ],
+  "outcome": "The next morning, Idalia made landfall in the Florida Big Bend as an extremely dangerous Category 3 hurricane.",
+  "location_card": {
+    "place": "Gulf of Mexico, from the ISS",
+    "date": "Aug. 29, 2023"
+  },
+  "keep_source_audio": false,
+  "title": "Hurricane Idalia seen from space",
+  "description": "International Space Station cameras captured Hurricane Idalia over the eastern Gulf of Mexico on Aug. 29, 2023, as it strengthened toward Florida. The next morning the National Hurricane Center reported Idalia made landfall in the Florida Big Bend as a Category 3 hurricane.\n\nFootage: NASA JSC video, via the NASA Image and Video Library: https://images.nasa.gov/details/Expedition_69_Space_Station_Flies_Over_Hurricane_Idalia_Live\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #hurricane #nasa #space",
+  "tags": [
+    "hurricane idalia",
+    "hurricane",
+    "international space station",
+    "nasa",
+    "storm from space",
+    "gulf of mexico",
+    "florida",
+    "big bend",
+    "real footage"
+  ],
+  "question_comment": "Have you ever ridden out a hurricane?",
+  "facts": [
+    {
+      "claim": "Station cameras captured strengthening Idalia on Aug. 29, 2023, from 260 miles up",
+      "source_quote": "External cameras on the International Space Station captured views of a strengthening Hurricane Idalia at 11:35 a.m. EDT on Tuesday, Aug. 29, 2023 as the station flew 260 miles overhead."
+    },
+    {
+      "claim": "Category 1, 85 mph, expected Category 3 or stronger at Big Bend landfall with life-threatening surge",
+      "source_quote": "as a Category 1 storm with winds of 85 miles an hour, moving north toward an expected landfall around the Big Bend area of Florida on August 30 as a Category 3 hurricane, or stronger, that could produce a life-threatening storm surge"
+    },
+    {
+      "claim": "Landfall in the Florida Big Bend as an extremely dangerous Category 3 hurricane",
+      "source_quote": "EXTREMELY DANGEROUS CATEGORY 3 HURRICANE IDALIA MAKES LANDFALL IN THE FLORIDA BIG BEND"
+    }
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.nhc.noaa.gov/archive/text/TCUAT5/2023/TCUAT5.202308301145.txt",
+      "excerpt": "EXTREMELY DANGEROUS CATEGORY 3 HURRICANE IDALIA MAKES LANDFALL IN THE FLORIDA BIG BEND"
+    }
+  ],
+  "visible_facts": [
+    {
+      "claim": "Hurricane spiral and eye over the Gulf seen past station solar arrays and truss",
+      "seen_at": "source 375 to 615 s"
+    }
+  ],
+  "revision": 1,
+  "line_shots": [
+    [
+      {
+        "start": 425.0,
+        "end": 428.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 432.0,
+        "end": 435.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 405.2,
+        "end": 408.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 411.0,
+        "end": 414.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 485.2,
+        "end": 488.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 480.0,
+        "end": 483.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 590.2,
+        "end": 593.6,
+        "layout": "crop",
+        "crop_x": 0.42
+      }
+    ],
+    [
+      {
+        "start": 495.2,
+        "end": 498.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 505.0,
+        "end": 508.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 545.0,
+        "end": 548.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 600.0,
+        "end": 603.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 415.2,
+        "end": 418.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 436.4,
+        "end": 440.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 421.8,
+        "end": 424.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ]
+  ]
+}

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2025-14545-01-NASA-s-X-59-Completes-Historic-First-Flight-Master",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T10:00:52Z",
   "duration": 103.33,
   "source_file": {
@@ -191,5 +191,6 @@
     86.77,
     93.19,
     99.62
-  ]
+  ],
+  "pass_reason": "Same event as ccf-20261116-06 (X-59 first flight)."
 }
