@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:KSC-20220819-MH-CNV01-0001-LOFTID_Spacecraft_EDR_Install_B836_VSFB-3312306",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Atlas V launch",
+  "title": "LOFTID Spacecraft EDR Install",
+  "description": "The LOFTID spacecraft undergoes EDR installation (EDM is loaded into the EDR) inside B836 at Vandenberg Space Force Base in California.",
+  "keywords": "JPSS-2, Joint Polar Satellite System-2, Atlas V, Launch Services Program, United Launch Alliance, Vandenberg Space Force Base, NOAA, LOFTID, Low-Earth Orbit Flight Test of an Inflatable Decelerator",
+  "date": "2022-08-19T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20220819-MH-CNV01-0001-LOFTID_Spacecraft_EDR_Install_B836_VSFB-3312306",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20220819-MH-CNV01-0001-LOFTID-Spacecraft-EDR-Install-B836-VSFB-3312306",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:16:23Z",
+  "duration": 81.6,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20220819-MH-CNV01-0001-LOFTID_Spacecraft_EDR_Install_B836_VSFB-3312306/KSC-20220819-MH-CNV01-0001-LOFTID_Spacecraft_EDR_Install_B836_VSFB-3312306~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 81.6
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    12.07,
+    26.33,
+    37.7,
+    72.2,
+    81.53
+  ],
+  "drama_score": 42,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      7.0
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20220819-MH-CNV01-0001-LOFTID-Spacecraft-EDR-Install-B836-VSFB-3312306.jpg",
+  "sheet_times": [
+    2.53,
+    7.6,
+    12.67,
+    17.74,
+    22.81,
+    27.88,
+    32.95,
+    38.02,
+    43.08,
+    48.15,
+    53.22,
+    58.29,
+    63.36,
+    68.43,
+    73.5,
+    78.57
+  ]
+}

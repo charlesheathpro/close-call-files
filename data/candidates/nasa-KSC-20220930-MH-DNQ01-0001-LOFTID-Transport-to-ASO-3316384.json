@@ -1,0 +1,82 @@
+{
+  "asset_id": "nasa:KSC-20220930-MH-DNQ01-0001-LOFTID_Transport_to_ASO-3316384",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Atlas V launch",
+  "title": "LOFTID Transport to ASO",
+  "description": "LOFTID transport to ASO at ASO, Vandenberg Space Force Base in California.",
+  "keywords": "JPSS-2, Joint Polar Satellite Systerm-2, Atlas V, Launch Services Program, United Launch Alliance, Vandenberg Space Force Base, NOAA, LOFTID, Low-Earth Orbit Flight Test of an Inflatable Decelerator",
+  "date": "2022-09-30T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20220930-MH-DNQ01-0001-LOFTID_Transport_to_ASO-3316384",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20220930-MH-DNQ01-0001-LOFTID-Transport-to-ASO-3316384",
+  "status": "new",
+  "harvested_at": "2026-11-16T13:15:20Z",
+  "duration": 98.84,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20220930-MH-DNQ01-0001-LOFTID_Transport_to_ASO-3316384/KSC-20220930-MH-DNQ01-0001-LOFTID_Transport_to_ASO-3316384~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 98.837
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.93,
+    16.8,
+    22.8,
+    29.43,
+    33.43,
+    37.53,
+    42.1,
+    48.53,
+    54.07,
+    61.97,
+    68.83,
+    74.03,
+    81.3,
+    87.4,
+    92.6,
+    98.8
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      69.0,
+      71.1,
+      72.6
+    ],
+    "silence_ends": [
+      12.0,
+      69.7,
+      72.4,
+      73.2
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20220930-MH-DNQ01-0001-LOFTID-Transport-to-ASO-3316384.jpg",
+  "sheet_times": [
+    3.07,
+    9.22,
+    15.37,
+    21.51,
+    27.66,
+    33.8,
+    39.95,
+    46.1,
+    52.24,
+    58.39,
+    64.53,
+    70.68,
+    76.83,
+    82.97,
+    89.12,
+    95.26
+  ]
+}
