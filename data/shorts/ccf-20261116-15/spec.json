@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261116-15",
   "candidate_id": "nasa-JPL-20201121-SENT6f-0002-Sentinel-6-Launch-Wrap-Video",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "booster returns with a sonic boom and lands",
   "music_mood": "aviation",
@@ -12,7 +12,7 @@
     "Minutes earlier, it had lifted a satellite off Vandenberg Air Force Base in California.",
     "A camera on the rocket watched the coastline fall away beneath the flames.",
     "Then the booster let go, and the upper stage pushed on alone toward orbit.",
-    "Boosters relight their engines to turn back, then fire once more to land."
+    "Falcon 9 boosters relight their engines to fly home and slow for landing."
   ],
   "outcome": "The booster touched down near its launch site, and the Sentinel-6 satellite flew free in orbit.",
   "location_card": {
@@ -67,7 +67,7 @@
         "crop_x": 0.5
       },
       {
-        "start": 56.75,
+        "start": 56.4,
         "end": 58.65,
         "layout": "crop",
         "crop_x": 0.5

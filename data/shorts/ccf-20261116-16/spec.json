@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261116-16",
   "candidate_id": "dvids-video-822511",
-  "revision": 1,
+  "revision": 2,
   "lane": "rescue",
   "story_type": "helicopter hoist beside a cruise ship in heavy seas, infrared",
   "music_mood": "sea",
@@ -12,8 +12,7 @@
     "A woman on board had to get to a hospital, and land was hours away.",
     "Its crew from Elizabeth City eased the Jayhawk in beside the stern, with a Coast Guard Hercules covering them from above.",
     "Over a ship, the pilot cannot see straight down, so the crew member at the door talks him into position, foot by foot.",
-    "The rescue basket swung below the Jayhawk in its own rotor wash.",
-    "[short pause] The crew took her family member along too."
+    "The Jayhawk held its hover just above the ship's rail, buffeted by its own rotor wash."
   ],
   "outcome": "The Jayhawk crew flew the woman and her family member to New Hanover Regional Hospital in Wilmington.",
   "location_card": {
@@ -131,26 +130,6 @@
       {
         "start": 47.5,
         "end": 50.0,
-        "layout": "crop",
-        "crop_x": 0.3
-      }
-    ],
-    [
-      {
-        "start": 62.0,
-        "end": 64.5,
-        "layout": "crop",
-        "crop_x": 0.3
-      },
-      {
-        "start": 66.0,
-        "end": 68.5,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
-        "start": 70.0,
-        "end": 72.5,
         "layout": "crop",
         "crop_x": 0.3
       }
