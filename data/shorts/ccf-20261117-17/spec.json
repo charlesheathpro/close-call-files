@@ -1,21 +1,21 @@
 {
   "short_id": "ccf-20261117-17",
   "candidate_id": "nasa-jsc2021m000225-VF-Russian-Trio-Returns-To-Earth-From-The-International-Space-Sta",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "movie crew returns from space, Soyuz landing",
   "music_mood": "aviation",
   "priority": 5,
   "hook": "They flew to space to shoot a movie. This is the landing.",
   "narration": [
-    "This capsule slammed into the steppe of Kazakhstan with an actress and a film director inside.",
+    "This capsule hit the steppe of Kazakhstan with an actress and a film director inside.",
     "Twelve days earlier, Yulia Peresild and Klim Shipenko had flown to the space station to film scenes for a movie called Challenge.",
     "Their ride home was cosmonaut Oleg Novitskiy, finishing one hundred ninety one days in orbit.",
     "On October sixteenth, twenty twenty one, their Soyuz pulled away from the station.",
     "A Soyuz comes down under one huge parachute, and small engines fire just above the ground to soften the hit.",
     "[short pause] Recovery helicopters were already circling the dust cloud."
   ],
-  "outcome": "Recovery crews lifted all three out of the Soyuz on the steppe of Kazakhstan.",
+  "outcome": "Recovery crews lifted them out of the Soyuz, and all three were back on Earth.",
   "location_card": {
     "place": "Steppe of Kazakhstan",
     "date": "Oct. 17, 2021"
@@ -54,51 +54,45 @@
         "start": 448.0,
         "end": 450.4,
         "layout": "crop",
-        "crop_x": 0.42
+        "crop_x": 0.58
       },
       {
         "start": 450.4,
         "end": 452.8,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.64
       }
     ],
     [
       {
-        "start": 24.0,
-        "end": 26.6,
+        "start": 23.2,
+        "end": 26.0,
         "layout": "crop",
         "crop_x": 0.4
       },
       {
-        "start": 26.6,
-        "end": 29.2,
+        "start": 26.0,
+        "end": 28.8,
         "layout": "crop",
         "crop_x": 0.3
       },
       {
-        "start": 29.2,
-        "end": 31.8,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
-        "start": 486.5,
-        "end": 489.0,
+        "start": 28.8,
+        "end": 31.6,
         "layout": "crop",
         "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 36.0,
-        "end": 38.4,
+        "start": 31.6,
+        "end": 34.2,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.55
       },
       {
-        "start": 160.0,
-        "end": 162.6,
+        "start": 34.2,
+        "end": 36.8,
         "layout": "crop",
         "crop_x": 0.45
       },
@@ -152,7 +146,7 @@
         "start": 445.0,
         "end": 447.6,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.53
       }
     ],
     [
@@ -160,7 +154,7 @@
         "start": 453.0,
         "end": 455.6,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.72
       },
       {
         "start": 462.0,
@@ -190,5 +184,5 @@
       }
     ]
   ],
-  "preview_ok": "L5 shots 1-2 are the Soyuz parachute and capsule against plain sky; checked, the canopy is centered and clearly in frame."
+  "preview_ok": "L5 shots 1-2 are the Soyuz parachute and capsule against plain sky; checked in QA r2, the canopy is centered and clearly in frame."
 }
