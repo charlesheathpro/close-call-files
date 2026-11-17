@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-578138",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:41:46Z",
   "duration": 32.75,
   "source_file": {
@@ -82,5 +82,6 @@
     27.21,
     29.22,
     31.24
-  ]
+  ],
+  "pass_reason": "Routine medical transport, patient care on screen, no danger"
 }

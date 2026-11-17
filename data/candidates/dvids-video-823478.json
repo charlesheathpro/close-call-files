@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-823478",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-17T19:05:10Z",
   "duration": 47.95,
   "source_file": {
@@ -89,5 +89,6 @@
     40.03,
     43.0,
     45.97
-  ]
+  ],
+  "pass_reason": "MICLIC line charge already covered by ccf-20261114-42; heavy burned-in captions"
 }

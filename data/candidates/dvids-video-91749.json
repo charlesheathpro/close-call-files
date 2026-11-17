@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-91749",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:29:36Z",
   "duration": 112.88,
   "source_file": {
@@ -185,5 +185,6 @@
     95.45,
     102.22,
     108.99
-  ]
+  ],
+  "pass_reason": "Ground prep, interviews and static aircraft; no action"
 }
