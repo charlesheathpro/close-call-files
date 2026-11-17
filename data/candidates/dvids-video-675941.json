@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "flight deck fire",
   "title": "190419-N-IA905-2001",
-  "description": "190419-N-IA905-2001 PACIFIC OCEAN (Apr. 19, 2019) The Independence variant littoral combat ship USS Montgomery (LCS 8) fires its MK 110 57mm gun. Boatswain’s Mate 1st Class Pascal Koffi signals to an MH-60S assigned to the “Wildcards” of Helicopter Sea Combat Squadron (HSC) 23 as it takes off of the flight deck of the Independence variant littoral combat ship USS Montgomery (LCS 8). Montgomery is underway in the Eastern Pacific conducting routine training. (U.S. Navy video by Mass Communication Specialist 2nd Class Morgan K. Nall/released)",
+  "description": "190419-N-IA905-2001 PACIFIC OCEAN (Apr. 19, 2019) The Independence variant littoral combat ship USS Montgomery (LCS 8) fires its MK 110 57mm gun. Boatswain\u2019s Mate 1st Class Pascal Koffi signals to an MH-60S assigned to the \u201cWildcards\u201d of Helicopter Sea Combat Squadron (HSC) 23 as it takes off of the flight deck of the Independence variant littoral combat ship USS Montgomery (LCS 8). Montgomery is underway in the Eastern Pacific conducting routine training. (U.S. Navy video by Mass Communication Specialist 2nd Class Morgan K. Nall/released)",
   "keywords": "littoral combat ship, Montgomery, LCS, mine warfare, USS Montgomery, SMWDC, LCS 8",
   "date": "2017-10-16T00:00:00-04:00",
   "date_published": "2019-04-30T10:43:47-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-675941",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:27:58Z",
   "duration": 29.03,
   "source_file": {
@@ -66,5 +66,6 @@
     24.07,
     25.85,
     27.64
-  ]
+  ],
+  "pass_reason": "routine helo takeoff; gun firing barely visible, no stakes"
 }

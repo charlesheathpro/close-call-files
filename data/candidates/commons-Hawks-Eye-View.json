@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Hawks-Eye-View",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T17:59:10Z",
   "duration": 64.74,
   "source_file": {
@@ -62,5 +62,6 @@
     54.2,
     58.21,
     62.23
-  ]
+  ],
+  "pass_reason": "small low-res timelapse with burned-in text"
 }

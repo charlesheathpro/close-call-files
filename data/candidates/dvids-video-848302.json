@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "medevac",
   "title": "Coast Guard medevacs man 57 miles west of Naples",
-  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter aircrew medevacs a 60-year-old male passenger aboard a fishing vessel 57 miles west of Gordon Pass near Naples, Florida, June 24, 2022. The aircrew hoisted the patient and his two adult sons, and transferred them to Gulf Coast Hospital in Fort Myers in stable condition. U.S. Coast Guard video.",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter aircrew medevacs a 60-year-old male passenger aboard a fishing vessel 57 miles west of Gordon\u00a0Pass near Naples, Florida, June 24, 2022. The aircrew hoisted the patient and his two adult sons, and transferred\u00a0them to\u00a0Gulf Coast Hospital in Fort Myers\u00a0in stable condition. U.S. Coast Guard video.",
   "keywords": "Clearwater, MH-60, Jayhawk, Coast Guard, medevac, Florida",
   "date": "2022-06-24T00:00:00-04:00",
   "date_published": "2022-06-25T09:26:04-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-848302",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:27:02Z",
   "duration": 34.67,
   "source_file": {
@@ -66,5 +66,6 @@
     28.83,
     30.96,
     33.1
-  ]
+  ],
+  "pass_reason": "black and white noisy hoist cam"
 }

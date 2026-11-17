@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-403117",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:01:46Z",
   "duration": 67.3,
   "source_file": {
@@ -92,5 +92,6 @@
     56.99,
     60.92,
     64.84
-  ]
+  ],
+  "pass_reason": "patient in litter on screen, medical scene"
 }

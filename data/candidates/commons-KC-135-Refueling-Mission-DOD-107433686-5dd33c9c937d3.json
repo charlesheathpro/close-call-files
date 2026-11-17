@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-KC-135-Refueling-Mission-DOD-107433686-5dd33c9c937d3",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:16:23Z",
   "duration": 42.51,
   "source_file": {
@@ -55,5 +55,6 @@
     35.45,
     38.07,
     40.7
-  ]
+  ],
+  "pass_reason": "one locked boom camera; refueling dropped as monotonous"
 }

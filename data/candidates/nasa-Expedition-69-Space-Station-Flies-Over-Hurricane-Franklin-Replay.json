@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-Expedition-69-Space-Station-Flies-Over-Hurricane-Franklin-Replay",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:45:49Z",
   "duration": 566.5,
   "source_file": {
@@ -67,5 +67,6 @@
     477.56,
     512.94,
     548.31
-  ]
+  ],
+  "pass_reason": "hurricane from orbit, in the do-less list"
 }

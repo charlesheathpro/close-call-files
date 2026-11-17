@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20241022-MH-LAS01-0001-Exploration-Upper-Stage-Umbilical-Retract-Testing-LET",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:20:18Z",
   "duration": 18.4,
   "source_file": {
@@ -58,5 +58,6 @@
     15.1,
     16.22,
     17.34
-  ]
+  ],
+  "pass_reason": "static ground equipment test, no stakes"
 }
