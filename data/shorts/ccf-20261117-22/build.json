@@ -1,7 +1,626 @@
 {
   "short_id": "ccf-20261117-22",
-  "revision": 3,
-  "status": "error",
-  "built_at": "2026-11-17T22:38:14Z",
-  "error": "line 6: shots are 2.9, 3.0, 2.0, 2.4s even after extending, but the line needs 8.7s; give that line longer or more shots"
+  "revision": 4,
+  "status": "ok",
+  "built_at": "2026-11-17T22:44:26Z",
+  "duration": 45.61,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "To practice Moon landings, NASA astronauts fly helicopters onto Colorado mountaintops.",
+      "start": 0.05,
+      "end": 5.73,
+      "words": [
+        {
+          "w": "To",
+          "s": 0.05,
+          "e": 0.21
+        },
+        {
+          "w": "practice",
+          "s": 0.29,
+          "e": 0.69
+        },
+        {
+          "w": "Moon",
+          "s": 0.77,
+          "e": 0.93
+        },
+        {
+          "w": "landings,",
+          "s": 1.01,
+          "e": 1.73
+        },
+        {
+          "w": "NASA",
+          "s": 1.81,
+          "e": 2.13
+        },
+        {
+          "w": "astronauts",
+          "s": 2.21,
+          "e": 2.77
+        },
+        {
+          "w": "fly",
+          "s": 2.85,
+          "e": 3.01
+        },
+        {
+          "w": "helicopters",
+          "s": 3.09,
+          "e": 3.81
+        },
+        {
+          "w": "onto",
+          "s": 3.89,
+          "e": 4.13
+        },
+        {
+          "w": "Colorado",
+          "s": 4.21,
+          "e": 4.69
+        },
+        {
+          "w": "mountaintops.",
+          "s": 4.77,
+          "e": 5.73
+        }
+      ]
+    },
+    {
+      "text": "In August 2025, astronauts Matthew Dominick and Mark Vande Hei trained with the Army National Guard near Gypsum, Colorado.",
+      "start": 6.05,
+      "end": 14.13,
+      "words": [
+        {
+          "w": "In",
+          "s": 6.05,
+          "e": 6.21
+        },
+        {
+          "w": "August",
+          "s": 6.29,
+          "e": 6.61
+        },
+        {
+          "w": "2025,",
+          "s": 6.73,
+          "e": 7.97
+        },
+        {
+          "w": "astronauts",
+          "s": 8.05,
+          "e": 8.61
+        },
+        {
+          "w": "Matthew",
+          "s": 8.69,
+          "e": 9.01
+        },
+        {
+          "w": "Dominick",
+          "s": 9.09,
+          "e": 9.57
+        },
+        {
+          "w": "and",
+          "s": 9.73,
+          "e": 9.81
+        },
+        {
+          "w": "Mark",
+          "s": 9.89,
+          "e": 10.13
+        },
+        {
+          "w": "Vande",
+          "s": 10.17,
+          "e": 10.45
+        },
+        {
+          "w": "Hei",
+          "s": 10.53,
+          "e": 10.77
+        },
+        {
+          "w": "trained",
+          "s": 11.09,
+          "e": 11.33
+        },
+        {
+          "w": "with",
+          "s": 11.41,
+          "e": 11.49
+        },
+        {
+          "w": "the",
+          "s": 11.53,
+          "e": 11.61
+        },
+        {
+          "w": "Army",
+          "s": 11.73,
+          "e": 11.89
+        },
+        {
+          "w": "National",
+          "s": 12.05,
+          "e": 12.37
+        },
+        {
+          "w": "Guard",
+          "s": 12.45,
+          "e": 12.77
+        },
+        {
+          "w": "near",
+          "s": 12.85,
+          "e": 12.93
+        },
+        {
+          "w": "Gypsum,",
+          "s": 13.09,
+          "e": 13.49
+        },
+        {
+          "w": "Colorado.",
+          "s": 13.77,
+          "e": 14.13
+        }
+      ]
+    },
+    {
+      "text": "Up here the air is thin, the terrain is jagged, and the wind keeps shifting.",
+      "start": 14.77,
+      "end": 19.41,
+      "words": [
+        {
+          "w": "Up",
+          "s": 14.77,
+          "e": 14.93
+        },
+        {
+          "w": "here",
+          "s": 15.01,
+          "e": 15.25
+        },
+        {
+          "w": "the",
+          "s": 15.33,
+          "e": 15.41
+        },
+        {
+          "w": "air",
+          "s": 15.49,
+          "e": 15.65
+        },
+        {
+          "w": "is",
+          "s": 15.73,
+          "e": 15.81
+        },
+        {
+          "w": "thin,",
+          "s": 15.89,
+          "e": 16.53
+        },
+        {
+          "w": "the",
+          "s": 16.57,
+          "e": 16.65
+        },
+        {
+          "w": "terrain",
+          "s": 16.69,
+          "e": 17.01
+        },
+        {
+          "w": "is",
+          "s": 17.09,
+          "e": 17.17
+        },
+        {
+          "w": "jagged,",
+          "s": 17.25,
+          "e": 17.97
+        },
+        {
+          "w": "and",
+          "s": 18.05,
+          "e": 18.13
+        },
+        {
+          "w": "the",
+          "s": 18.21,
+          "e": 18.29
+        },
+        {
+          "w": "wind",
+          "s": 18.37,
+          "e": 18.53
+        },
+        {
+          "w": "keeps",
+          "s": 18.61,
+          "e": 18.85
+        },
+        {
+          "w": "shifting.",
+          "s": 18.93,
+          "e": 19.41
+        }
+      ]
+    },
+    {
+      "text": "Like a Moon lander, this helicopter flies on thin power margins, with controls that react almost like thruster firings.",
+      "start": 19.97,
+      "end": 27.45,
+      "words": [
+        {
+          "w": "Like",
+          "s": 19.97,
+          "e": 20.13
+        },
+        {
+          "w": "a",
+          "s": 20.21,
+          "e": 20.29
+        },
+        {
+          "w": "Moon",
+          "s": 20.29,
+          "e": 20.53
+        },
+        {
+          "w": "lander,",
+          "s": 20.73,
+          "e": 21.17
+        },
+        {
+          "w": "this",
+          "s": 21.25,
+          "e": 21.41
+        },
+        {
+          "w": "helicopter",
+          "s": 21.49,
+          "e": 21.97
+        },
+        {
+          "w": "flies",
+          "s": 22.05,
+          "e": 22.37
+        },
+        {
+          "w": "on",
+          "s": 22.45,
+          "e": 22.53
+        },
+        {
+          "w": "thin",
+          "s": 22.69,
+          "e": 22.85
+        },
+        {
+          "w": "power",
+          "s": 22.93,
+          "e": 23.17
+        },
+        {
+          "w": "margins,",
+          "s": 23.25,
+          "e": 24.13
+        },
+        {
+          "w": "with",
+          "s": 24.21,
+          "e": 24.29
+        },
+        {
+          "w": "controls",
+          "s": 24.57,
+          "e": 24.85
+        },
+        {
+          "w": "that",
+          "s": 24.93,
+          "e": 25.01
+        },
+        {
+          "w": "react",
+          "s": 25.21,
+          "e": 25.41
+        },
+        {
+          "w": "almost",
+          "s": 25.57,
+          "e": 25.89
+        },
+        {
+          "w": "like",
+          "s": 25.97,
+          "e": 26.05
+        },
+        {
+          "w": "thruster",
+          "s": 26.13,
+          "e": 26.53
+        },
+        {
+          "w": "firings.",
+          "s": 26.61,
+          "e": 27.45
+        }
+      ]
+    },
+    {
+      "text": "Guard instructors and the astronauts took turns flying, while NASA lander experts rode along.",
+      "start": 27.81,
+      "end": 33.41,
+      "words": [
+        {
+          "w": "Guard",
+          "s": 27.81,
+          "e": 28.05
+        },
+        {
+          "w": "instructors",
+          "s": 28.13,
+          "e": 28.77
+        },
+        {
+          "w": "and",
+          "s": 28.81,
+          "e": 28.89
+        },
+        {
+          "w": "the",
+          "s": 28.89,
+          "e": 28.97
+        },
+        {
+          "w": "astronauts",
+          "s": 29.01,
+          "e": 29.65
+        },
+        {
+          "w": "took",
+          "s": 29.73,
+          "e": 29.81
+        },
+        {
+          "w": "turns",
+          "s": 29.89,
+          "e": 30.21
+        },
+        {
+          "w": "flying,",
+          "s": 30.25,
+          "e": 31.01
+        },
+        {
+          "w": "while",
+          "s": 31.13,
+          "e": 31.25
+        },
+        {
+          "w": "NASA",
+          "s": 31.33,
+          "e": 31.65
+        },
+        {
+          "w": "lander",
+          "s": 31.73,
+          "e": 32.05
+        },
+        {
+          "w": "experts",
+          "s": 32.17,
+          "e": 32.45
+        },
+        {
+          "w": "rode",
+          "s": 32.53,
+          "e": 32.69
+        },
+        {
+          "w": "along.",
+          "s": 32.89,
+          "e": 33.41
+        }
+      ]
+    },
+    {
+      "text": "The crew counts down the last few feet. Ten, nine, eight, seven.",
+      "start": 33.73,
+      "end": 39.41,
+      "words": [
+        {
+          "w": "The",
+          "s": 33.73,
+          "e": 33.81
+        },
+        {
+          "w": "crew",
+          "s": 33.89,
+          "e": 34.05
+        },
+        {
+          "w": "counts",
+          "s": 34.13,
+          "e": 34.45
+        },
+        {
+          "w": "down",
+          "s": 34.57,
+          "e": 34.69
+        },
+        {
+          "w": "the",
+          "s": 34.73,
+          "e": 34.81
+        },
+        {
+          "w": "last",
+          "s": 34.85,
+          "e": 35.09
+        },
+        {
+          "w": "few",
+          "s": 35.17,
+          "e": 35.25
+        },
+        {
+          "w": "feet.",
+          "s": 35.33,
+          "e": 36.13
+        },
+        {
+          "w": "Ten,",
+          "s": 36.21,
+          "e": 37.09
+        },
+        {
+          "w": "nine,",
+          "s": 37.17,
+          "e": 38.05
+        },
+        {
+          "w": "eight,",
+          "s": 38.13,
+          "e": 38.93
+        },
+        {
+          "w": "seven.",
+          "s": 39.13,
+          "e": 39.41
+        }
+      ]
+    },
+    {
+      "text": "After two weeks, NASA certified the course to train astronauts for Artemis Moon landings.",
+      "start": 40.05,
+      "end": 45.41,
+      "words": [
+        {
+          "w": "After",
+          "s": 40.05,
+          "e": 40.37
+        },
+        {
+          "w": "two",
+          "s": 40.45,
+          "e": 40.53
+        },
+        {
+          "w": "weeks,",
+          "s": 40.61,
+          "e": 41.25
+        },
+        {
+          "w": "NASA",
+          "s": 41.33,
+          "e": 41.73
+        },
+        {
+          "w": "certified",
+          "s": 41.81,
+          "e": 42.29
+        },
+        {
+          "w": "the",
+          "s": 42.33,
+          "e": 42.41
+        },
+        {
+          "w": "course",
+          "s": 42.45,
+          "e": 42.69
+        },
+        {
+          "w": "to",
+          "s": 42.77,
+          "e": 42.85
+        },
+        {
+          "w": "train",
+          "s": 42.97,
+          "e": 43.09
+        },
+        {
+          "w": "astronauts",
+          "s": 43.17,
+          "e": 43.73
+        },
+        {
+          "w": "for",
+          "s": 43.81,
+          "e": 43.89
+        },
+        {
+          "w": "Artemis",
+          "s": 43.97,
+          "e": 44.37
+        },
+        {
+          "w": "Moon",
+          "s": 44.45,
+          "e": 44.61
+        },
+        {
+          "w": "landings.",
+          "s": 44.73,
+          "e": 45.41
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 45.6
+    },
+    "av_sync": {
+      "ok": true,
+      "value": -0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.19
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -1.8
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261117-22/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261117-22-r4.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261117-22/ccf-20261117-22.mp4"
 }
