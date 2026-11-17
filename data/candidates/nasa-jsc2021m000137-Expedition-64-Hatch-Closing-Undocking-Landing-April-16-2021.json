@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000137-Expedition-64-Hatch-Closing-Undocking-Landing-April-16-2021",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:36:58Z",
   "duration": 1179.53,
   "source_file": {
@@ -347,5 +347,6 @@
     994.81,
     1068.5,
     1142.19
-  ]
+  ],
+  "pass_reason": "Second Soyuz land landing alongside today's 17-17 and 12-02; calm."
 }

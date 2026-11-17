@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2021m000225-VF-Russian-Trio-Returns-To-Earth-From-The-International-Space-Sta",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-12T00:40:26Z",
   "duration": 602.87,
   "source_file": {
@@ -208,5 +208,6 @@
     508.25,
     545.89,
     583.54
-  ]
+  ],
+  "used_by": "ccf-20261117-17"
 }

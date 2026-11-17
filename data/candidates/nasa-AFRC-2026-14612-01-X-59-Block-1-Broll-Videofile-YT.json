@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14612-01-X-59-Block-1-Broll-Videofile-YT",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:28:40Z",
   "duration": 1143.57,
   "source_file": {
@@ -1207,5 +1207,6 @@
     964.46,
     1035.9,
     1107.35
-  ]
+  ],
+  "pass_reason": "Third X-59 Short would repeat 14-06 and 16-06."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2018-10-31-RS-25-Engine-Test-4K-Full-Duration",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:27:19Z",
   "duration": 524.57,
   "source_file": {
@@ -56,5 +56,6 @@
     442.18,
     474.94,
     507.69
-  ]
+  ],
+  "pass_reason": "Single static test-stand camera (QA rejected that format in 16-23); RS-25 test already published (14-08)."
 }

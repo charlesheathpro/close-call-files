@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20180531-HS3-m12821-Dropsondes",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-04T05:20:55Z",
   "duration": 82.13,
   "source_file": {
@@ -139,5 +139,6 @@
     68.88,
     73.98,
     79.08
-  ]
+  ],
+  "pass_reason": "Animated satellite visualization, no real footage."
 }

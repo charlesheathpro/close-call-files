@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1028920",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:13:38Z",
   "duration": 115.52,
   "source_file": {
@@ -155,5 +155,6 @@
     97.04,
     104.23,
     111.42
-  ]
+  ],
+  "pass_reason": "Dark, color-smeared hoist cam and grayscale cabin; fourth cruise ship hoist; fails the viral bar like 17-05."
 }

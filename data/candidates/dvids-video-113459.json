@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-113459",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:22:43Z",
   "duration": 201.84,
   "source_file": {
@@ -62,5 +62,6 @@
     169.88,
     182.46,
     195.05
-  ]
+  ],
+  "pass_reason": "720x480 MAFFS drops; C-130 wildfire drops already done twice (14-62, 15-25)."
 }

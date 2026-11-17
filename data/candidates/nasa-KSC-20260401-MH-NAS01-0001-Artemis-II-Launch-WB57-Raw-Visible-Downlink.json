@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-NAS01-0001-Artemis-II-Launch-WB57-Raw-Visible-Downlink",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:03:21Z",
   "duration": 686.67,
   "source_file": {
@@ -63,5 +63,6 @@
     578.95,
     621.84,
     664.72
-  ]
+  ],
+  "pass_reason": "Artemis II ascent already covered four times; QA rejected another (17-04)."
 }

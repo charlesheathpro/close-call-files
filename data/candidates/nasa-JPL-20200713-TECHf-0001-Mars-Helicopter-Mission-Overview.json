@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20200713-TECHf-0001-Mars-Helicopter-Mission-Overview",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:33:34Z",
   "duration": 200.32,
   "source_file": {
@@ -304,5 +304,6 @@
     168.6,
     181.09,
     193.58
-  ]
+  ],
+  "pass_reason": "Pre-flight explainer with animation and interviews; no flight footage."
 }

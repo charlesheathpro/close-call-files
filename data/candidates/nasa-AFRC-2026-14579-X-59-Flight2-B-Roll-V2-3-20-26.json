@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14579-X-59-Flight2-B-Roll-V2-3-20-26",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:18:27Z",
   "duration": 255.0,
   "source_file": {
@@ -212,5 +212,6 @@
     214.73,
     230.64,
     246.55
-  ]
+  ],
+  "pass_reason": "Third X-59 Short would repeat 14-06 and 16-06."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2022-1370-1-SSP2-VF-4k-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:16:08Z",
   "duration": 243.4,
   "source_file": {
@@ -334,5 +334,6 @@
     204.95,
     220.13,
     235.31
-  ]
+  ],
+  "pass_reason": "Interview-heavy test flight reel, no danger or turn."
 }

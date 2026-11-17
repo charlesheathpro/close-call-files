@@ -26,7 +26,7 @@
   "time_start": 12.1455,
   "aspect_ratio": "16:9",
   "id": "dvids-video-284788",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-16T20:16:02Z",
   "duration": 159.55,
   "source_file": {
@@ -70,5 +70,6 @@
     136.1,
     145.28,
     154.46
-  ]
+  ],
+  "pass_reason": "F-35B vertical landing repeats ccf-20261116-10."
 }

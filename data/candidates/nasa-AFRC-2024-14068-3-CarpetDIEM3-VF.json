@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2024-14068-3-CarpetDIEM3-VF",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:32:20Z",
   "duration": 335.47,
   "source_file": {
@@ -460,5 +460,6 @@
     282.63,
     303.56,
     324.5
-  ]
+  ],
+  "pass_reason": "Ground recorder setup and interviews; nothing dramatic on screen."
 }

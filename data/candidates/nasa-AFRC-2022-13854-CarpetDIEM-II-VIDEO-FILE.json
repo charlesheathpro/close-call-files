@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2022-13854-CarpetDIEM-II-VIDEO-FILE",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:14:37Z",
   "duration": 485.6,
   "source_file": {
@@ -665,5 +665,6 @@
     409.3,
     439.62,
     469.94
-  ]
+  ],
+  "pass_reason": "Mostly interviews; one distant contrail, no visible event or stakes."
 }
