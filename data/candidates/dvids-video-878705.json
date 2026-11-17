@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-878705",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:48:40Z",
   "duration": 156.89,
   "source_file": {
@@ -66,5 +66,6 @@
     131.95,
     141.73,
     151.5
-  ]
+  ],
+  "pass_reason": "Colour-distorted hoist cam; abdominal pain medevac."
 }

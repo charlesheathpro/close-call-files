@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-856239",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:46:55Z",
   "duration": 51.52,
   "source_file": {
@@ -119,5 +119,6 @@
     43.05,
     46.24,
     49.42
-  ]
+  ],
+  "pass_reason": "Swimmer is a speck in open water for most of the clip; locked hoist-cam angle."
 }

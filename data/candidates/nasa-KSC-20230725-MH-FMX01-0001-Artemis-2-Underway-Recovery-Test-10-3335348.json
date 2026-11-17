@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20230725-MH-FMX01-0001-Artemis-2-Underway-Recovery-Test-10-3335348",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-11T18:24:22Z",
   "duration": 174.13,
   "source_file": {
@@ -90,5 +90,6 @@
     157.36,
     168.21
   ],
-  "pass_reason": "recovery drill montage with a mock capsule in calm seas, weak drama; maybe later as a filler"
+  "pass_reason": "recovery drill montage with a mock capsule in calm seas, weak drama; maybe later as a filler",
+  "used_by": "ccf-20261117-14"
 }
