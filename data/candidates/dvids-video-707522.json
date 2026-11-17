@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-707522",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:42:24Z",
   "duration": 54.64,
   "source_file": {
@@ -64,5 +64,6 @@
     45.68,
     49.06,
     52.44
-  ]
+  ],
+  "pass_reason": "calm footage of a landed helicopter, no danger on screen"
 }

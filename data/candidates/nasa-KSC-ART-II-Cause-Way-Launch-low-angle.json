@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "launch",
   "title": "Artemis II launch Causeway Slow-motion ",
-  "description": "Four astronauts aboard NASA’s Orion spacecraft atop the SLS (Space Launch System) rocket launch on the agency’s Artemis II test flight, Wednesday, April 1 from Launch Complex 39B at NASA’s Kennedy Space Center in Florida. Artemis II lifted off at 6:35 p.m. ET. Artemis II is the first crewed mission of the agency’s Artemis campaign. The mission will send NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen on an approximately 10-day journey around the Moon and back to Earth.",
+  "description": "Four astronauts aboard NASA\u2019s Orion spacecraft atop the SLS (Space Launch System) rocket launch on the agency\u2019s Artemis II test flight, Wednesday, April 1 from Launch Complex 39B at NASA\u2019s Kennedy Space Center in Florida. Artemis II lifted off at 6:35 p.m. ET. Artemis II is the first crewed mission of the agency\u2019s Artemis campaign. The mission will send NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch and CSA (Canadian Space Agency) astronaut Jeremy Hansen on an approximately 10-day journey around the Moon and back to Earth.",
   "keywords": "Artemis II, Space Launch System, Launch, Kennedy Space Center, Orion",
   "date": "2026-04-01T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-ART-II-Cause-Way-Launch-low-angle",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-05T00:54:51Z",
   "duration": 527.17,
   "source_file": {
@@ -61,5 +61,6 @@
     444.38,
     477.29,
     510.21
-  ]
+  ],
+  "used_by": "ccf-20261117-04"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-493332",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:01:41Z",
   "duration": 96.55,
   "source_file": {
@@ -114,5 +114,6 @@
     81.05,
     87.05,
     93.05
-  ]
+  ],
+  "pass_reason": "patient face on screen in litter, interior cabin scenes"
 }

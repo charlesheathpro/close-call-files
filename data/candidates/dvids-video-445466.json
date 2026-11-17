@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-445466",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:35:32Z",
   "duration": 98.76,
   "source_file": {
@@ -163,5 +163,6 @@
     82.91,
     89.05,
     95.19
-  ]
+  ],
+  "pass_reason": "routine hoist, boat at frame edge, 480p color noise; third fishing boat hoist today"
 }

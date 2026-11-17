@@ -4,7 +4,7 @@
   "lane": "aviation_naval",
   "matched_query": "engine test fire",
   "title": "2026-10-21 - RS-25 Engine Test ",
-  "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026, on the Fred Haise Test Stand. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. The main objectives of the test were to acceptance test RS-25 flight components for future Artemis missions and validate the new thermal protection system, which protects the RS-25 engine nozzle from the thermal environment surrounding SLS during launch. While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime engine contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability. Prior to use, all RS-25 engines are proven flightworthy at NASA Stennis. For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
+  "description": "Teams at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026, on the Fred Haise Test Stand. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA\u2019s SLS (Space Launch System) rocket, with a 111% power level. The main objectives of the test were to acceptance test RS-25 flight components for future Artemis missions and validate the new thermal protection system, which protects the RS-25 engine nozzle from the thermal environment surrounding SLS during launch. While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA\u2019s prime engine contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability. Prior to use, all RS-25 engines are proven flightworthy at NASA Stennis. For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
   "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis, SSC",
   "date": "2026-10-21T00:00:00Z",
   "branch": "NASA",
@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2016-10-21-RS-25-Engine-Test-AVAIL",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:10:56Z",
   "duration": 528.6,
   "source_file": {
@@ -80,5 +80,6 @@
     445.58,
     478.59,
     511.6
-  ]
+  ],
+  "pass_reason": "interchangeable with queued 500-second RS-25 Short ccf-20261114-08"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-322016",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:32:56Z",
   "duration": 48.79,
   "source_file": {
@@ -76,5 +76,6 @@
     40.74,
     43.76,
     46.78
-  ]
+  ],
+  "pass_reason": "murky FLIR and black and white cabin footage; third Cold Bay hoist today"
 }
