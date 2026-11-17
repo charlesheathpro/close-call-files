@@ -51,13 +51,13 @@
     "start": 12.0,
     "end": 14.5,
     "layout": "crop",
-    "crop_x": 0.35
+    "crop_x": 0.5
    },
    {
     "start": 14.5,
     "end": 17.0,
     "layout": "crop",
-    "crop_x": 0.3
+    "crop_x": 0.7
    }
   ],
   [
@@ -111,5 +111,5 @@
    }
   ]
  ],
- "revision": 1
+ "revision": 2
 }

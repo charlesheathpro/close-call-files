@@ -161,5 +161,7 @@
    }
   ]
  ],
- "revision": 1
+ "revision": 1,
+ "status": "dropped",
+ "drop_reason": "QA Nov 17: Single static test-stand camera for 40 seconds with six seconds of no fire in the middle; no danger or human hook, and 'every valve fired on command' and 'nobody touching it but the computer' are not in the source."
 }
