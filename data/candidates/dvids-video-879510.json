@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-879510",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:15:04Z",
   "duration": 76.11,
   "source_file": {
@@ -70,5 +70,6 @@
     63.8,
     68.52,
     73.25
-  ]
+  ],
+  "pass_reason": "Colour-shifted hoist cam over a hull; similar to 17-12."
 }

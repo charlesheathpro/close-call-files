@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-834285",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:27:12Z",
   "duration": 79.27,
   "source_file": {
@@ -66,5 +66,6 @@
     66.46,
     71.38,
     76.31
-  ]
+  ],
+  "pass_reason": "Locked fisheye cabin camera."
 }

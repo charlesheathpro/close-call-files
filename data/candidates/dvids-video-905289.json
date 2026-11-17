@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-905289",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:26:53Z",
   "duration": 68.7,
   "source_file": {
@@ -86,5 +86,6 @@
     57.55,
     61.81,
     66.07
-  ]
+  ],
+  "pass_reason": "Night grey FLIR over a cruise ship helideck."
 }
