@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-547611",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:47:06Z",
   "duration": 1151.99,
   "source_file": {
@@ -1160,5 +1160,6 @@
     972.19,
     1043.91,
     1115.63
-  ]
+  ],
+  "pass_reason": "Aeromedical airlift interviews and C-17 cargo."
 }

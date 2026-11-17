@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000906-NASA-Aeronautics-and-Space-Report",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-16T13:06:51Z",
   "duration": 282.03,
   "source_file": {
@@ -472,5 +472,6 @@
     237.54,
     255.14,
     272.74
-  ]
+  ],
+  "pass_reason": "Archival explainer or montage with no single event to tell; mostly hardware, people at consoles or animation."
 }

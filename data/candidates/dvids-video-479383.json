@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-479383",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:31:55Z",
   "duration": 154.58,
   "source_file": {
@@ -85,5 +85,6 @@
     130.63,
     140.01,
     149.39
-  ]
+  ],
+  "pass_reason": "Medevac of a man in distress; medical framing QA rejects."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000910-Apollo-Digest-Series-Mission-Control",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:01:47Z",
   "duration": 329.07,
   "source_file": {
@@ -681,5 +681,6 @@
     277.23,
     297.76,
     318.3
-  ]
+  ],
+  "pass_reason": "Archival explainer or montage with no single event to tell; mostly hardware, people at consoles or animation."
 }

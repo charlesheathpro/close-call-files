@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000948-Apollo-Digest-Series-The-Lunar-Module",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:02:00Z",
   "duration": 321.5,
   "source_file": {
@@ -523,5 +523,6 @@
     270.84,
     290.91,
     310.97
-  ]
+  ],
+  "pass_reason": "Archival explainer or montage with no single event to tell; mostly hardware, people at consoles or animation."
 }

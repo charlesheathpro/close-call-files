@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1011925",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:05:24Z",
   "duration": 49.45,
   "source_file": {
@@ -169,5 +169,6 @@
     41.3,
     44.36,
     47.42
-  ]
+  ],
+  "pass_reason": "Night medevac, mostly blown-out searchlight glare."
 }

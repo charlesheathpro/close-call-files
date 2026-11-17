@@ -26,7 +26,7 @@
   "time_start": 4.6046,
   "aspect_ratio": "4:3",
   "id": "dvids-video-153379",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:49:43Z",
   "duration": 130.37,
   "source_file": {
@@ -70,5 +70,6 @@
     110.3,
     118.12,
     125.95
-  ]
+  ],
+  "pass_reason": "Grey sensor-pod overflight of Isaac flooding, no rescue."
 }

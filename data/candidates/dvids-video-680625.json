@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-680625",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:57:52Z",
   "duration": 222.35,
   "source_file": {
@@ -223,5 +223,6 @@
     187.18,
     201.05,
     214.91
-  ]
+  ],
+  "pass_reason": "CBRN exercise with interviews."
 }

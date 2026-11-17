@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NDTV000908-Apollo-Digest-Series-Spacecraft-for-Apollo",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:58:13Z",
   "duration": 281.77,
   "source_file": {
@@ -422,5 +422,6 @@
     237.32,
     254.9,
     272.48
-  ]
+  ],
+  "pass_reason": "Archival explainer or montage with no single event to tell; mostly hardware, people at consoles or animation."
 }

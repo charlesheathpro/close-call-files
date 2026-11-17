@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-77728",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T18:00:53Z",
   "duration": 241.56,
   "source_file": {
@@ -304,5 +304,6 @@
     203.39,
     218.46,
     233.53
-  ]
+  ],
+  "pass_reason": "Haiti rubble search with no survivor found on camera."
 }

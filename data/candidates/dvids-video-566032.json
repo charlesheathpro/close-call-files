@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-566032",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:55:23Z",
   "duration": 331.33,
   "source_file": {
@@ -184,5 +184,6 @@
     279.14,
     299.82,
     320.49
-  ]
+  ],
+  "pass_reason": "Locked fisheye cabin camera for five minutes; medical evacuation."
 }

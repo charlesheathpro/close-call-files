@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-A1Launch",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:54:33Z",
   "duration": 59.6,
   "source_file": {
@@ -73,5 +73,6 @@
     49.87,
     53.56,
     57.26
-  ]
+  ],
+  "pass_reason": "Archival explainer or montage with no single event to tell; mostly hardware, people at consoles or animation."
 }
