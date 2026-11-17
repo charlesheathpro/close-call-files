@@ -63,7 +63,7 @@
       "source_quote": "Structures Destroyed 6,845."
     }
   ],
-  "revision": 1,
+  "revision": 2,
   "line_shots": [
     [
       {
@@ -97,6 +97,12 @@
         "end": 25.9,
         "layout": "crop",
         "crop_x": 0.55
+      },
+      {
+        "start": 27.0,
+        "end": 29.8,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
@@ -111,6 +117,12 @@
         "end": 41.9,
         "layout": "crop",
         "crop_x": 0.6
+      },
+      {
+        "start": 30.2,
+        "end": 32.8,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
@@ -179,6 +191,18 @@
         "end": 105.0,
         "layout": "crop",
         "crop_x": 0.55
+      },
+      {
+        "start": 99.2,
+        "end": 101.9,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 111.2,
+        "end": 113.9,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
@@ -205,6 +229,12 @@
       {
         "start": 45.2,
         "end": 48.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 48.3,
+        "end": 51.0,
         "layout": "crop",
         "crop_x": 0.5
       },
