@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:KSC-20231013-VP-MMS01-0001-SpaceX_Psyche_Helicopter_BRoll_8K-WON_M1708",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "launch B-roll",
+  "title": "Psyche Live Launch Coverage - Helicopter B-Roll (8K)",
+  "description": "The live launch broadcast for NASA’s Psyche spacecraft, a mission to a unique metal-rich asteroid. Psyche will travel nearly six years and about 2.2 billion miles (3.6 billion kilometers) – to an asteroid of the same name, which is orbiting the Sun between Mars and Jupiter. Scientists believe Psyche could be part of the core of a planetesimal, likely made of iron-nickel metal. The ore will not be mined but studied from orbit in hopes of giving researchers a better idea of what may make up Earth’s core. The Psyche spacecraft also will host a pioneering technology demonstration: NASA’s DSOC (Deep Space Optical Communications) experiment. This laser communications system will operate for the first two years of Psyche’s journey. Launch occurred at 10:19 a.m. EDT, Friday, Oct. 13, from Kennedy’s Launch Complex 39A. The launch is managed by the Launch Service Program based at Kennedy Space Center, Florida.",
+  "keywords": "NASA, National Aeronautical and Space Administration, KSC, Kennedy Space Center, Jet Propulsion Lab, JPL, Psyche, asteroid, launch, LSP, Launch Services Program, Deep Space Optical Communications, DSOC, Arizona State University, LC39A, SpaceX, Falcon Heavy, Space Launch Delta 45, launch broadcast",
+  "date": "2023-10-13T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20231013-VP-MMS01-0001-SpaceX_Psyche_Helicopter_BRoll_8K-WON_M1708",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20231013-VP-MMS01-0001-SpaceX-Psyche-Helicopter-BRoll-8K-WON-M1708",
+  "status": "used",
+  "harvested_at": "2026-11-17T21:16:03Z",
+  "duration": 234.73,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20231013-VP-MMS01-0001-SpaceX_Psyche_Helicopter_BRoll_8K-WON_M1708/KSC-20231013-VP-MMS01-0001-SpaceX_Psyche_Helicopter_BRoll_8K-WON_M1708~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 234.733333
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.07,
+    108.53,
+    147.47,
+    234.7
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      234.8
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20231013-VP-MMS01-0001-SpaceX-Psyche-Helicopter-BRoll-8K-WON-M1708.jpg",
+  "sheet_times": [
+    7.32,
+    21.96,
+    36.6,
+    51.24,
+    65.88,
+    80.52,
+    95.16,
+    109.8,
+    124.44,
+    139.08,
+    153.72,
+    168.36,
+    182.99,
+    197.63,
+    212.27,
+    226.91
+  ],
+  "used_by": "ccf-20261117-23"
+}
