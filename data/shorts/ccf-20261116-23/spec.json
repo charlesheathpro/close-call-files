@@ -1,0 +1,165 @@
+{
+ "short_id": "ccf-20261116-23",
+ "candidate_id": "nasa-Orion-Launch-Abort-System-Attitude-Control-Motor-Qualification-Hot-Fire-Test",
+ "lane": "aviation_naval",
+ "story_type": "abort system steering motor hot fire test",
+ "music_mood": "hazards",
+ "priority": 4,
+ "hook": "7,000 pounds of thrust, aimed a different way every second.",
+ "narration": [
+  "Seven thousand pounds of thrust, and this motor picks a new direction every second.",
+  "It rides on top of Orion, NASA's moon capsule, as part of the launch abort system.",
+  "If the rocket below ever failed, that system would pull the crew away from it.",
+  "This motor is the steering. Hot gas burns the whole time, and eight valves choose which port it escapes from. The capsule gets pushed the opposite way.",
+  "In this test at Elkton, Maryland, every valve had to open exactly when it was told.",
+  "Thirty seconds of switching fire, with nobody touching it but the computer."
+ ],
+ "outcome": "Every valve fired on command, and the team called it a success.",
+ "location_card": {
+  "place": "Elkton, Maryland",
+  "date": "March 2019"
+ },
+ "keep_source_audio": true,
+ "title": "7,000 pounds of thrust that steers Orion",
+ "description": "In March 2019 NASA and Northrop Grumman hot fired the attitude control motor of Orion's launch abort system at Elkton, Maryland, to qualify it for spaceflight. Every valve fired on command and the test was a success.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/Orion%20Launch%20Abort%20System%20Attitude%20Control%20Motor%20Qualification%20Hot%20Fire%20Test\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #orion #rocket",
+ "tags": [
+  "orion",
+  "launch abort system",
+  "nasa",
+  "rocket motor",
+  "hot fire test",
+  "artemis",
+  "attitude control motor",
+  "real footage"
+ ],
+ "question_comment": "Would you trust a computer to steer you away from an exploding rocket?",
+ "facts": [
+  {
+   "claim": "Seven thousand pounds of thrust",
+   "source_quote": "AND 7,000-POUNDS OF THRUST ON THAT MOTOR"
+  },
+  {
+   "claim": "Test qualifies the abort system's attitude control motor, fire from multiple areas over 30 seconds",
+   "source_quote": "They will shoot fire from multiple areas of the LAS at different times over the course of 30 seconds."
+  },
+  {
+   "claim": "Burns the whole time, valves choose the port, push in the opposite direction",
+   "source_quote": "THERE IS ALWAYS FLAME COMING OUT JUST DECIDING WHICH VALVE IT COMES OUT OF."
+  },
+  {
+   "claim": "Eight valves, gas pivots it the opposite direction",
+   "source_quote": "THE HOT GAS COMES OUT EACH OF THOSE EIGHT VALVES AND PIVOTS IN THE OPPOSITE DIRECTION."
+  },
+  {
+   "claim": "Test at Elkton, Maryland was a success",
+   "source_quote": "THAT WAS A SUCCESS."
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 605.5,
+    "end": 608.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 608.0,
+    "end": 610.6,
+    "layout": "crop",
+    "crop_x": 0.42
+   }
+  ],
+  [
+   {
+    "start": 586.5,
+    "end": 589.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 590.0,
+    "end": 593.5,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
+  ],
+  [
+   {
+    "start": 603.4,
+    "end": 605.4,
+    "layout": "crop",
+    "crop_x": 0.45
+   },
+   {
+    "start": 610.8,
+    "end": 613.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 614.0,
+    "end": 616.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 616.4,
+    "end": 618.6,
+    "layout": "crop",
+    "crop_x": 0.42
+   },
+   {
+    "start": 619.0,
+    "end": 621.5,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
+  ],
+  [
+   {
+    "start": 622.0,
+    "end": 624.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 625.0,
+    "end": 627.5,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 628.5,
+    "end": 631.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 632.0,
+    "end": 634.5,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
+    "start": 637.0,
+    "end": 639.5,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 640.0,
+    "end": 643.2,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ]
+ ],
+ "revision": 1
+}
