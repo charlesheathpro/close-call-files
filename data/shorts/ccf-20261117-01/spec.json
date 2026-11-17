@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261117-01",
   "candidate_id": "dvids-video-736599",
-  "revision": 1,
+  "revision": 2,
   "lane": "rescue",
   "story_type": "fishing boat slamming through Bering Sea waves, helicopter medevac seen from the air",
   "music_mood": "sea",
@@ -80,24 +80,27 @@
         "start": 3.0,
         "end": 5.8,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.15
       }
     ],
     [
       {
-        "start": 20.0,
-        "end": 22.4,
-        "layout": "fit"
+        "start": 19.0,
+        "end": 21.4,
+        "layout": "crop",
+        "crop_x": 0.4
       },
       {
-        "start": 28.4,
-        "end": 30.8,
-        "layout": "fit"
+        "start": 22.4,
+        "end": 24.8,
+        "layout": "crop",
+        "crop_x": 0.42
       },
       {
-        "start": 31.0,
-        "end": 33.4,
-        "layout": "fit"
+        "start": 32.6,
+        "end": 35.0,
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -131,7 +134,7 @@
         "start": 6.0,
         "end": 8.9,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.3
       }
     ]
   ]

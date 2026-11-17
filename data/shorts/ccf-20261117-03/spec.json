@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261117-03",
   "candidate_id": "dvids-video-525741",
-  "revision": 1,
+  "revision": 2,
   "lane": "rescue",
   "story_type": "rescue swimmer and basket lowered over breaking surf to a hiker on a roadless coast",
   "music_mood": "mountain",
@@ -71,28 +71,22 @@
         "crop_x": 0.5
       },
       {
-        "start": 12.6,
-        "end": 15.0,
+        "start": 2.0,
+        "end": 4.6,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.25
       }
     ],
     [
       {
-        "start": 15.2,
-        "end": 17.6,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
         "start": 20.0,
-        "end": 22.4,
+        "end": 22.8,
         "layout": "crop",
         "crop_x": 0.6
       },
       {
-        "start": 22.6,
-        "end": 24.8,
+        "start": 22.8,
+        "end": 25.0,
         "layout": "crop",
         "crop_x": 0.55
       }
