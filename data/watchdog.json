@@ -1,17 +1,16 @@
 {
-  "at": "2026-11-17T18:22:44Z",
+  "at": "2026-11-17T22:45:41Z",
   "healthy": true,
   "numbers": {
-    "dropped": 73,
+    "dropped": 74,
     "uploaded": 175,
-    "passed": 58,
-    "scheduled_48h": 17,
-    "by_day_mt": {
-      "2026-11-16": 3,
+    "passed": 61,
+    "scheduled_next_48h": 14,
+    "scheduled_by_mt_day": {
       "2026-11-17": 10,
       "2026-11-18": 10,
       "2026-11-19": 1
     }
   },
-  "notes": "YouTube upload cap lifted 18:19Z; pushed triggers/upload, run at 18:21Z uploaded 10. Supply ample, no editor pass needed."
+  "notes": "Nov 19 MT has 1 scheduled, but that is the YouTube daily cap (upload_limit until 2026-11-18T18:22Z) with 60 passed waiting, so no editor pass needed; the next upload run after the cap lifts fills it. Fixed 22 build failure (more footage, shorter line), then dropped it in QA as too calm."
 }
