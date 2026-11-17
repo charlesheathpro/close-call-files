@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20130523-LDCM-m11289-Launch",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:01:48Z",
   "duration": 100.74,
   "source_file": {
@@ -101,5 +101,6 @@
     84.57,
     90.84,
     97.1
-  ]
+  ],
+  "pass_reason": "Atlas V launch tracked as a small dot; launch Shorts already saturated this week."
 }

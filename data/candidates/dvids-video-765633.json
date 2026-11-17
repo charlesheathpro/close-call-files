@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-765633",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:29:49Z",
   "duration": 117.91,
   "source_file": {
@@ -379,5 +379,6 @@
     99.07,
     106.4,
     113.74
-  ]
+  ],
+  "pass_reason": "Flare drop training with a soundbite; no event."
 }

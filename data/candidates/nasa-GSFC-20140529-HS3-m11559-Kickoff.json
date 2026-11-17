@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20140529-HS3-m11559-Kickoff",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:34:05Z",
   "duration": 151.83,
   "source_file": {
@@ -235,5 +235,6 @@
     127.69,
     137.15,
     146.6
-  ]
+  ],
+  "pass_reason": "Mostly a scientist interview and graphics."
 }

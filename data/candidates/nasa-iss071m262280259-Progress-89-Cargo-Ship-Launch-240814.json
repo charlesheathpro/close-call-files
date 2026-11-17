@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss071m262280259-Progress-89-Cargo-Ship-Launch-240814",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-29T17:26:37Z",
   "duration": 2025.8,
   "source_file": {
@@ -301,5 +301,6 @@
     1708.85,
     1835.43,
     1962.01
-  ]
+  ],
+  "used_by": "ccf-20261117-09"
 }

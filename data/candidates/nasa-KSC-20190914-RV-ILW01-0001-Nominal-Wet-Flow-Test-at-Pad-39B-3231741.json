@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20190914-RV-ILW01-0001-Nominal-Wet-Flow-Test-at-Pad-39B-3231741",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:26:38Z",
   "duration": 36.7,
   "source_file": {
@@ -57,5 +57,6 @@
     30.54,
     32.81,
     35.07
-  ]
+  ],
+  "pass_reason": "Pad water deluge test already posted Nov 14 (14-04)."
 }

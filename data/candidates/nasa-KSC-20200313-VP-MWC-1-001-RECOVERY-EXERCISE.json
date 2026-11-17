@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20200313-VP-MWC-1-001-RECOVERY-EXERCISE",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:04:03Z",
   "duration": 39.7,
   "source_file": {
@@ -61,5 +61,6 @@
     33.08,
     35.53,
     37.98
-  ]
+  ],
+  "pass_reason": "Pier-side recovery rehearsal with people standing around, no drama."
 }

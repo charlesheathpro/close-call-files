@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-148142",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:19:45Z",
   "duration": 113.92,
   "source_file": {
@@ -83,5 +83,6 @@
     95.7,
     102.79,
     109.88
-  ]
+  ],
+  "pass_reason": "Colorado wildfire b-roll with no event description or outcome."
 }

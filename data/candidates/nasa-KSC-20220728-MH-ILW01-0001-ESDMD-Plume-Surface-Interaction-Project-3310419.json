@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20220728-MH-ILW01-0001-ESDMD-Plume-Surface-Interaction-Project-3310419",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:00:30Z",
   "duration": 43.57,
   "source_file": {
@@ -92,5 +92,6 @@
     36.34,
     39.03,
     41.72
-  ]
+  ],
+  "pass_reason": "Lab instrument close-ups, no visible plume event."
 }

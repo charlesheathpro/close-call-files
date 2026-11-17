@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2021-07-27-Camera816-TR-SLSCST-00011-203616-204620",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:01:00Z",
   "duration": 633.33,
   "source_file": {
@@ -60,5 +60,6 @@
     533.95,
     573.51,
     613.06
-  ]
+  ],
+  "pass_reason": "Locked camera on test stand plumbing, nothing happens."
 }

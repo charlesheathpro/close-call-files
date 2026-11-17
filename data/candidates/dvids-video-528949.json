@@ -26,7 +26,7 @@
   "time_start": 3.92523,
   "aspect_ratio": "16:9",
   "id": "dvids-video-528949",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:53:31Z",
   "duration": 116.15,
   "source_file": {
@@ -271,5 +271,6 @@
     98.19,
     105.17,
     112.15
-  ]
+  ],
+  "pass_reason": "Narcan outreach visit, not a rescue."
 }

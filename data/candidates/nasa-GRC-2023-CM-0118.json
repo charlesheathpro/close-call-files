@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GRC-2023-CM-0118",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:20:33Z",
   "duration": 190.25,
   "source_file": {
@@ -142,5 +142,6 @@
     160.1,
     171.96,
     183.82
-  ]
+  ],
+  "pass_reason": "Hover test of a small aircraft, no stakes."
 }
