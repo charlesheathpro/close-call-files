@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-17T05:13:41Z",
+  "at": "2026-11-17T11:38:42Z",
   "mature": 134,
   "features": [
     {
@@ -118,17 +118,17 @@
       "effect": 0.19
     },
     {
-      "feature": "story: sinking vessel",
-      "n": 1,
-      "effect": 0.19
-    },
-    {
       "feature": "story: dog cliff fall, basket hoist",
       "n": 1,
       "effect": 0.18
     },
     {
       "feature": "story: rocket booster test with an anomaly",
+      "n": 1,
+      "effect": 0.18
+    },
+    {
+      "feature": "story: sinking vessel",
       "n": 1,
       "effect": 0.18
     },
@@ -238,11 +238,6 @@
       "effect": 0.07
     },
     {
-      "feature": "story: mountain hoist",
-      "n": 2,
-      "effect": 0.07
-    },
-    {
       "feature": "story: rocket booster landing",
       "n": 1,
       "effect": 0.07
@@ -259,6 +254,11 @@
     },
     {
       "feature": "music: naval",
+      "n": 2,
+      "effect": 0.06
+    },
+    {
+      "feature": "story: mountain hoist",
       "n": 2,
       "effect": 0.06
     },
@@ -375,17 +375,12 @@
     {
       "feature": "story: flood vehicle hoist",
       "n": 1,
-      "effect": 0.0
+      "effect": -0.0
     },
     {
       "feature": "story: offshore sailboat hoist with a destroyer refueling stop",
       "n": 1,
       "effect": -0.0
-    },
-    {
-      "feature": "music: mountain",
-      "n": 12,
-      "effect": -0.01
     },
     {
       "feature": "story: dog rescue hurricane",
@@ -405,6 +400,11 @@
     {
       "feature": "hook has a number",
       "n": 94,
+      "effect": -0.02
+    },
+    {
+      "feature": "music: mountain",
+      "n": 12,
       "effect": -0.02
     },
     {
@@ -767,37 +767,37 @@
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
-      "views": 47399.0,
+      "views": 47419.0,
       "ret": 81.53,
-      "score": 1.868
+      "score": 1.867
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 49793.0,
+      "views": 49813.0,
       "ret": 69.97,
-      "score": 1.617
+      "score": 1.615
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 9634.0,
+      "views": 9637.0,
       "ret": 96.91,
-      "score": 1.599
+      "score": 1.598
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5185.0,
       "ret": 96.98,
-      "score": 1.587
+      "score": 1.586
     },
     {
       "short_id": "ccf-20261030-11",
       "title": "Orion splashes down after the Moon",
       "views": 9451.0,
       "ret": 95.03,
-      "score": 1.525
+      "score": 1.523
     }
   ],
   "bottom": [
@@ -806,7 +806,7 @@
       "title": "Florence: 67 people, 12 pets in one day",
       "views": 128.0,
       "ret": 44.29,
-      "score": -1.622
+      "score": -1.623
     },
     {
       "short_id": "ccf-20261102-07",
@@ -818,9 +818,9 @@
     {
       "short_id": "ccf-20261111-01",
       "title": "Crab boat sank at night off Washington",
-      "views": 89.0,
+      "views": 88.0,
       "ret": 43.34,
-      "score": -1.796
+      "score": -1.801
     },
     {
       "short_id": "ccf-20261108-24",
@@ -834,7 +834,7 @@
       "title": "Dog hoisted from a sinking catamaran",
       "views": 11.0,
       "ret": 72.72,
-      "score": -1.929
+      "score": -1.928
     }
   ],
   "query_weights": {
@@ -902,18 +902,6 @@
   },
   "qa_rejections_7d": [
     {
-      "short_id": "ccf-20261115-05",
-      "notes": "A routine VIP tandem jump: no danger, no rescue, and about a third of the runtime is cabin interviews and harnessing. Fails the viral bar; no reshuffle of shots fixes that."
-    },
-    {
-      "short_id": "ccf-20261115-13",
-      "notes": "Same air station, same Nantucket basket hoist and same overhead angle as ccf-20261115-12, with grainier, color-smeared footage; it would look interchangeable."
-    },
-    {
-      "short_id": "ccf-20261115-15",
-      "notes": "Source is one 29 s clip with a single drop; after the splash about 15 s is a static floating capsule, and nothing is at risk."
-    },
-    {
       "short_id": "ccf-20261115-54",
       "notes": "Source is heavily compressed with color noise through the whole hoist, and it is the fourth near-identical Coast Guard medevac hoist in this batch; footage cannot be fixed."
     },
@@ -946,6 +934,10 @@
       "notes": "Calm training dive with no danger on screen; about six seconds of blurry water-on-glass close-ups in the middle and a static hatch shot. The Squalus history is a good idea but the footage cannot carry it."
     },
     {
+      "short_id": "ccf-20261116-23",
+      "notes": "Single static test-stand camera for 40 seconds with six seconds of no fire in the middle; no danger or human hook, and 'every valve fired on command' and 'nobody touching it but the computer' are not in the source."
+    },
+    {
       "short_id": "ccf-20261117-02",
       "notes": "Hoist-cam footage is smeared with heavy color noise and the top-down frames are hard to read in the first second; a third Kodiak Jayhawk hoist in this batch, interchangeable with recent Alaska hoists."
     },
@@ -960,8 +952,18 @@
     {
       "short_id": "ccf-20261117-07",
       "notes": "The release does not say how the night ended, so the outcome line is unsupported; one locked shot for 25 seconds and the fifth lava fountain Short in the queue."
+    },
+    {
+      "short_id": "ccf-20261117-14",
+      "notes": "Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped."
+    },
+    {
+      "short_id": "ccf-20261117-15",
+      "notes": "Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped."
     }
   ],
-  "config_changed_at": "2026-11-16T10:53:24Z",
-  "changed": []
+  "config_changed_at": "2026-11-17T11:38:42Z",
+  "changed": [
+    "query weights for 56 searches"
+  ]
 }
