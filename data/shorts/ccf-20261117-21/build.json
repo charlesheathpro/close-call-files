@@ -1,7 +1,750 @@
 {
   "short_id": "ccf-20261117-21",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-17T21:17:54Z",
-  "error": "line 2: shots are 3.7, 4.0, 2.4s even after extending, but the line needs 8.4s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-17T21:31:16Z",
+  "duration": 55.29,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Street after street, whole neighborhoods burned down to the foundations.",
+      "start": 0.05,
+      "end": 5.09,
+      "words": [
+        {
+          "w": "Street",
+          "s": 0.05,
+          "e": 0.53
+        },
+        {
+          "w": "after",
+          "s": 0.69,
+          "e": 0.93
+        },
+        {
+          "w": "street,",
+          "s": 1.09,
+          "e": 1.89
+        },
+        {
+          "w": "whole",
+          "s": 2.05,
+          "e": 2.29
+        },
+        {
+          "w": "neighborhoods",
+          "s": 2.45,
+          "e": 3.01
+        },
+        {
+          "w": "burned",
+          "s": 3.09,
+          "e": 3.37
+        },
+        {
+          "w": "down",
+          "s": 3.41,
+          "e": 3.65
+        },
+        {
+          "w": "to",
+          "s": 3.69,
+          "e": 3.77
+        },
+        {
+          "w": "the",
+          "s": 3.81,
+          "e": 3.89
+        },
+        {
+          "w": "foundations.",
+          "s": 3.89,
+          "e": 5.09
+        }
+      ]
+    },
+    {
+      "text": "This is Pacific Palisades, filmed from a California Army National Guard Black Hawk on January 15, 2025.",
+      "start": 5.41,
+      "end": 13.41,
+      "words": [
+        {
+          "w": "This",
+          "s": 5.41,
+          "e": 5.49
+        },
+        {
+          "w": "is",
+          "s": 5.57,
+          "e": 5.65
+        },
+        {
+          "w": "Pacific",
+          "s": 5.73,
+          "e": 6.13
+        },
+        {
+          "w": "Palisades,",
+          "s": 6.21,
+          "e": 7.33
+        },
+        {
+          "w": "filmed",
+          "s": 7.41,
+          "e": 7.65
+        },
+        {
+          "w": "from",
+          "s": 7.73,
+          "e": 7.81
+        },
+        {
+          "w": "a",
+          "s": 7.85,
+          "e": 7.93
+        },
+        {
+          "w": "California",
+          "s": 7.97,
+          "e": 8.53
+        },
+        {
+          "w": "Army",
+          "s": 8.61,
+          "e": 8.85
+        },
+        {
+          "w": "National",
+          "s": 9.01,
+          "e": 9.33
+        },
+        {
+          "w": "Guard",
+          "s": 9.41,
+          "e": 9.65
+        },
+        {
+          "w": "Black",
+          "s": 9.73,
+          "e": 9.97
+        },
+        {
+          "w": "Hawk",
+          "s": 10.05,
+          "e": 10.29
+        },
+        {
+          "w": "on",
+          "s": 10.61,
+          "e": 10.77
+        },
+        {
+          "w": "January",
+          "s": 10.85,
+          "e": 11.25
+        },
+        {
+          "w": "15,",
+          "s": 11.33,
+          "e": 12.05
+        },
+        {
+          "w": "2025.",
+          "s": 12.13,
+          "e": 13.41
+        }
+      ]
+    },
+    {
+      "text": "The Palisades Fire had started eight days earlier, on January 7.",
+      "start": 13.49,
+      "end": 17.49,
+      "words": [
+        {
+          "w": "The",
+          "s": 13.49,
+          "e": 13.57
+        },
+        {
+          "w": "Palisades",
+          "s": 13.57,
+          "e": 14.13
+        },
+        {
+          "w": "Fire",
+          "s": 14.21,
+          "e": 14.53
+        },
+        {
+          "w": "had",
+          "s": 14.61,
+          "e": 14.69
+        },
+        {
+          "w": "started",
+          "s": 14.77,
+          "e": 15.17
+        },
+        {
+          "w": "eight",
+          "s": 15.25,
+          "e": 15.33
+        },
+        {
+          "w": "days",
+          "s": 15.41,
+          "e": 15.65
+        },
+        {
+          "w": "earlier,",
+          "s": 15.73,
+          "e": 16.37
+        },
+        {
+          "w": "on",
+          "s": 16.45,
+          "e": 16.53
+        },
+        {
+          "w": "January",
+          "s": 16.61,
+          "e": 16.93
+        },
+        {
+          "w": "7.",
+          "s": 17.09,
+          "e": 17.49
+        }
+      ]
+    },
+    {
+      "text": "Here and there, one house survived while the homes around it were gone.",
+      "start": 18.13,
+      "end": 21.89,
+      "words": [
+        {
+          "w": "Here",
+          "s": 18.13,
+          "e": 18.29
+        },
+        {
+          "w": "and",
+          "s": 18.37,
+          "e": 18.45
+        },
+        {
+          "w": "there,",
+          "s": 18.61,
+          "e": 19.01
+        },
+        {
+          "w": "one",
+          "s": 19.09,
+          "e": 19.25
+        },
+        {
+          "w": "house",
+          "s": 19.37,
+          "e": 19.49
+        },
+        {
+          "w": "survived",
+          "s": 19.57,
+          "e": 20.13
+        },
+        {
+          "w": "while",
+          "s": 20.29,
+          "e": 20.37
+        },
+        {
+          "w": "the",
+          "s": 20.45,
+          "e": 20.53
+        },
+        {
+          "w": "homes",
+          "s": 20.53,
+          "e": 20.77
+        },
+        {
+          "w": "around",
+          "s": 20.85,
+          "e": 21.17
+        },
+        {
+          "w": "it",
+          "s": 21.21,
+          "e": 21.29
+        },
+        {
+          "w": "were",
+          "s": 21.33,
+          "e": 21.41
+        },
+        {
+          "w": "gone.",
+          "s": 21.49,
+          "e": 21.89
+        }
+      ]
+    },
+    {
+      "text": "On some blocks, almost nothing was left standing above the ground.",
+      "start": 22.45,
+      "end": 25.97,
+      "words": [
+        {
+          "w": "On",
+          "s": 22.45,
+          "e": 22.61
+        },
+        {
+          "w": "some",
+          "s": 22.77,
+          "e": 22.93
+        },
+        {
+          "w": "blocks,",
+          "s": 23.01,
+          "e": 23.57
+        },
+        {
+          "w": "almost",
+          "s": 23.77,
+          "e": 23.97
+        },
+        {
+          "w": "nothing",
+          "s": 24.13,
+          "e": 24.45
+        },
+        {
+          "w": "was",
+          "s": 24.53,
+          "e": 24.61
+        },
+        {
+          "w": "left",
+          "s": 24.69,
+          "e": 24.85
+        },
+        {
+          "w": "standing",
+          "s": 25.01,
+          "e": 25.17
+        },
+        {
+          "w": "above",
+          "s": 25.29,
+          "e": 25.41
+        },
+        {
+          "w": "the",
+          "s": 25.45,
+          "e": 25.53
+        },
+        {
+          "w": "ground.",
+          "s": 25.57,
+          "e": 25.97
+        }
+      ]
+    },
+    {
+      "text": "Wind can carry burning embers far ahead of a wildfire, into vents and onto roofs, which is how a fire jumps from house to house.",
+      "start": 26.69,
+      "end": 34.69,
+      "words": [
+        {
+          "w": "Wind",
+          "s": 26.69,
+          "e": 26.93
+        },
+        {
+          "w": "can",
+          "s": 27.01,
+          "e": 27.17
+        },
+        {
+          "w": "carry",
+          "s": 27.25,
+          "e": 27.49
+        },
+        {
+          "w": "burning",
+          "s": 27.57,
+          "e": 27.81
+        },
+        {
+          "w": "embers",
+          "s": 27.89,
+          "e": 28.29
+        },
+        {
+          "w": "far",
+          "s": 28.37,
+          "e": 28.61
+        },
+        {
+          "w": "ahead",
+          "s": 28.73,
+          "e": 28.85
+        },
+        {
+          "w": "of",
+          "s": 28.89,
+          "e": 28.97
+        },
+        {
+          "w": "a",
+          "s": 29.01,
+          "e": 29.09
+        },
+        {
+          "w": "wildfire,",
+          "s": 29.09,
+          "e": 30.05
+        },
+        {
+          "w": "into",
+          "s": 30.13,
+          "e": 30.37
+        },
+        {
+          "w": "vents",
+          "s": 30.45,
+          "e": 30.85
+        },
+        {
+          "w": "and",
+          "s": 30.89,
+          "e": 30.97
+        },
+        {
+          "w": "onto",
+          "s": 31.01,
+          "e": 31.25
+        },
+        {
+          "w": "roofs,",
+          "s": 31.33,
+          "e": 32.13
+        },
+        {
+          "w": "which",
+          "s": 32.21,
+          "e": 32.29
+        },
+        {
+          "w": "is",
+          "s": 32.33,
+          "e": 32.41
+        },
+        {
+          "w": "how",
+          "s": 32.45,
+          "e": 32.61
+        },
+        {
+          "w": "a",
+          "s": 32.69,
+          "e": 32.77
+        },
+        {
+          "w": "fire",
+          "s": 32.93,
+          "e": 33.09
+        },
+        {
+          "w": "jumps",
+          "s": 33.17,
+          "e": 33.41
+        },
+        {
+          "w": "from",
+          "s": 33.49,
+          "e": 33.57
+        },
+        {
+          "w": "house",
+          "s": 33.65,
+          "e": 33.81
+        },
+        {
+          "w": "to",
+          "s": 33.89,
+          "e": 33.97
+        },
+        {
+          "w": "house.",
+          "s": 34.17,
+          "e": 34.69
+        }
+      ]
+    },
+    {
+      "text": "In all, the fire burned 23,448 acres and destroyed 6,845 structures.",
+      "start": 35.01,
+      "end": 43.17,
+      "words": [
+        {
+          "w": "In",
+          "s": 35.01,
+          "e": 35.17
+        },
+        {
+          "w": "all,",
+          "s": 35.25,
+          "e": 35.65
+        },
+        {
+          "w": "the",
+          "s": 35.73,
+          "e": 35.81
+        },
+        {
+          "w": "fire",
+          "s": 35.89,
+          "e": 36.05
+        },
+        {
+          "w": "burned",
+          "s": 36.21,
+          "e": 36.45
+        },
+        {
+          "w": "23,448",
+          "s": 36.53,
+          "e": 37.01
+        },
+        {
+          "w": "acres",
+          "s": 37.17,
+          "e": 39.17
+        },
+        {
+          "w": "and",
+          "s": 39.57,
+          "e": 39.65
+        },
+        {
+          "w": "destroyed",
+          "s": 39.73,
+          "e": 40.29
+        },
+        {
+          "w": "6,845",
+          "s": 40.37,
+          "e": 41.01
+        },
+        {
+          "w": "structures.",
+          "s": 41.25,
+          "e": 43.17
+        }
+      ]
+    },
+    {
+      "text": "The Guard had been called up to help firefighters across Los Angeles County.",
+      "start": 43.49,
+      "end": 47.49,
+      "words": [
+        {
+          "w": "The",
+          "s": 43.49,
+          "e": 43.57
+        },
+        {
+          "w": "Guard",
+          "s": 43.65,
+          "e": 43.89
+        },
+        {
+          "w": "had",
+          "s": 43.93,
+          "e": 44.01
+        },
+        {
+          "w": "been",
+          "s": 44.05,
+          "e": 44.21
+        },
+        {
+          "w": "called",
+          "s": 44.29,
+          "e": 44.53
+        },
+        {
+          "w": "up",
+          "s": 44.61,
+          "e": 44.69
+        },
+        {
+          "w": "to",
+          "s": 44.73,
+          "e": 44.81
+        },
+        {
+          "w": "help",
+          "s": 44.85,
+          "e": 45.01
+        },
+        {
+          "w": "firefighters",
+          "s": 45.09,
+          "e": 45.65
+        },
+        {
+          "w": "across",
+          "s": 45.73,
+          "e": 46.05
+        },
+        {
+          "w": "Los",
+          "s": 46.13,
+          "e": 46.29
+        },
+        {
+          "w": "Angeles",
+          "s": 46.37,
+          "e": 46.77
+        },
+        {
+          "w": "County.",
+          "s": 46.85,
+          "e": 47.49
+        }
+      ]
+    },
+    {
+      "text": "Crews fully contained the Palisades Fire on January 31, 2025, twenty-four days after it began.",
+      "start": 47.81,
+      "end": 55.09,
+      "words": [
+        {
+          "w": "Crews",
+          "s": 47.81,
+          "e": 48.21
+        },
+        {
+          "w": "fully",
+          "s": 48.29,
+          "e": 48.53
+        },
+        {
+          "w": "contained",
+          "s": 48.61,
+          "e": 49.01
+        },
+        {
+          "w": "the",
+          "s": 49.05,
+          "e": 49.13
+        },
+        {
+          "w": "Palisades",
+          "s": 49.17,
+          "e": 49.65
+        },
+        {
+          "w": "Fire",
+          "s": 49.73,
+          "e": 50.05
+        },
+        {
+          "w": "on",
+          "s": 50.13,
+          "e": 50.29
+        },
+        {
+          "w": "January",
+          "s": 50.37,
+          "e": 50.77
+        },
+        {
+          "w": "31,",
+          "s": 50.85,
+          "e": 51.65
+        },
+        {
+          "w": "2025,",
+          "s": 51.73,
+          "e": 53.01
+        },
+        {
+          "w": "twenty-four",
+          "s": 53.09,
+          "e": 53.49
+        },
+        {
+          "w": "days",
+          "s": 53.65,
+          "e": 53.89
+        },
+        {
+          "w": "after",
+          "s": 53.97,
+          "e": 54.13
+        },
+        {
+          "w": "it",
+          "s": 54.21,
+          "e": 54.29
+        },
+        {
+          "w": "began.",
+          "s": 54.33,
+          "e": 55.09
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 55.3
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.01
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.21
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.1
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261117-21/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261117-21-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261117-21/ccf-20261117-21.mp4"
 }
