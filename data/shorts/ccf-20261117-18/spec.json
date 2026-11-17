@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261117-18",
   "candidate_id": "dvids-video-349177",
-  "revision": 1,
+  "revision": 2,
   "lane": "rescue",
   "story_type": "sailboat trapped in Arctic ice, polar icebreaker tows it out",
   "music_mood": "sea",
@@ -88,8 +88,8 @@
       {
         "start": 20.6,
         "end": 23.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.4
       }
     ],
     [
@@ -110,8 +110,8 @@
       {
         "start": 28.4,
         "end": 30.8,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.45
       },
       {
         "start": 31.0,
