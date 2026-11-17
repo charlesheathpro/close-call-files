@@ -73,7 +73,7 @@
       "source_quote": "Now 70% 12ft 10, 9, 8, 7."
     }
   ],
-  "revision": 2,
+  "revision": 3,
   "line_shots": [
     [
       {
@@ -199,6 +199,12 @@
         "end": 120.2,
         "layout": "crop",
         "crop_x": 0.4
+      },
+      {
+        "start": 121.9,
+        "end": 124.3,
+        "layout": "crop",
+        "crop_x": 0.45
       }
     ],
     [
