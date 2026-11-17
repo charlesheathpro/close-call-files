@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-308469",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:06:28Z",
   "duration": 57.06,
   "source_file": {
@@ -70,5 +70,6 @@
     47.72,
     51.25,
     54.79
-  ]
+  ],
+  "pass_reason": "b&w FLIR then cabin interior with patient"
 }

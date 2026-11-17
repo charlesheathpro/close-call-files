@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-585649",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:46:42Z",
   "duration": 35.05,
   "source_file": {
@@ -66,5 +66,6 @@
     29.15,
     31.31,
     33.47
-  ]
+  ],
+  "pass_reason": "35 s routine basket hoist, fourth Alaska hoist today"
 }

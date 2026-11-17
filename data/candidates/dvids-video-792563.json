@@ -4,7 +4,7 @@
   "lane": "rescue",
   "matched_query": "medevac",
   "title": "B-Roll: Coast Guard medevacs injured mariner off Hawaii Island",
-  "description": "An Air Station Barbers Point MH-65 Dolphin helicopter crew hoists an injured mariner from a fishing vessel off Hawaii, April 27, 2021. Because the vessel was located outside of the Dolphin’s range, Sector Honolulu watchstanders diverted the Coast Guard Cutter Midgett (WMSL 757) from nearby to act as a refueling point. (U.S. Coast Guard video courtesy of Air Station Barbers Point/released)",
+  "description": "An Air Station Barbers Point MH-65 Dolphin helicopter crew hoists an injured mariner from a fishing vessel off Hawaii, April 27, 2021. Because the vessel was located outside of the Dolphin\u2019s range, Sector Honolulu watchstanders diverted the Coast Guard Cutter Midgett (WMSL 757) from nearby to act as a refueling point. (U.S. Coast Guard video courtesy of Air Station Barbers Point/released)",
   "keywords": "Air Station Barbers Point, District 14, Sector Honolulu, dolphin helicopter, CoastGuardNewsWire, Coast Guard, Hawaii",
   "date": "2021-04-27T00:00:00-04:00",
   "date_published": "2021-04-28T04:43:36-04:00",
@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-792563",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:46:05Z",
   "duration": 236.17,
   "source_file": {
@@ -70,5 +70,6 @@
     198.85,
     213.58,
     228.3
-  ]
+  ],
+  "pass_reason": "night FLIR b&w for most of the runtime"
 }

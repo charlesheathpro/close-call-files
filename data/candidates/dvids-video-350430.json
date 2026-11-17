@@ -26,7 +26,7 @@
   "time_start": 4.29596,
   "aspect_ratio": "16:9",
   "id": "dvids-video-350430",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:06:18Z",
   "duration": 150.89,
   "source_file": {
@@ -225,5 +225,6 @@
     127.56,
     136.69,
     145.83
-  ]
+  ],
+  "pass_reason": "FLIR and cabin footage, patient interior scenes"
 }

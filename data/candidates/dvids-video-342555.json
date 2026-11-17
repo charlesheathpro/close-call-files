@@ -26,7 +26,7 @@
   "time_start": 4.37103,
   "aspect_ratio": "16:9",
   "id": "dvids-video-342555",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:05:13Z",
   "duration": 221.33,
   "source_file": {
@@ -194,5 +194,6 @@
     187.01,
     200.54,
     214.07
-  ]
+  ],
+  "pass_reason": "mostly cabin and gray FLIR footage"
 }

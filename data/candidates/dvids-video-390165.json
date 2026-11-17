@@ -26,7 +26,7 @@
   "time_start": 4.09207,
   "aspect_ratio": "16:9",
   "id": "dvids-video-390165",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:01:53Z",
   "duration": 168.3,
   "source_file": {
@@ -69,5 +69,6 @@
     142.22,
     152.45,
     162.68
-  ]
+  ],
+  "pass_reason": "empty rainy airfield for most of the clip"
 }

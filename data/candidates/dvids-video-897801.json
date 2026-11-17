@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-897801",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:31:25Z",
   "duration": 135.03,
   "source_file": {
@@ -411,5 +411,6 @@
     113.51,
     121.92,
     130.33
-  ]
+  ],
+  "pass_reason": "cabin and hangar b-roll, little fire on screen"
 }
