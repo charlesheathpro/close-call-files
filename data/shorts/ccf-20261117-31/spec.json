@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261117-31",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-767280",
   "lane": "hazards",
   "story_type": "marines on a wildfire line",
@@ -65,10 +65,10 @@
   "line_shots": [
     [
       {
-        "start": 212.5,
-        "end": 215.0,
+        "start": 230.5,
+        "end": 233.0,
         "layout": "crop",
-        "crop_x": 0.38
+        "crop_x": 0.25
       },
       {
         "start": 224.8,
@@ -111,18 +111,18 @@
         "crop_x": 0.5
       },
       {
-        "start": 238.0,
-        "end": 240.5,
+        "start": 7.0,
+        "end": 9.5,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.64
       }
     ],
     [
       {
-        "start": 135.9,
-        "end": 138.4,
+        "start": 139.0,
+        "end": 141.5,
         "layout": "crop",
-        "crop_x": 0.62
+        "crop_x": 0.3
       },
       {
         "start": 180.0,
@@ -139,14 +139,14 @@
     ],
     [
       {
-        "start": 104.0,
-        "end": 106.5,
+        "start": 133.0,
+        "end": 135.5,
         "layout": "crop",
-        "crop_x": 0.3
+        "crop_x": 0.62
       },
       {
-        "start": 119.0,
-        "end": 121.5,
+        "start": 245.5,
+        "end": 248.3,
         "layout": "crop",
         "crop_x": 0.42
       }
@@ -167,10 +167,10 @@
     ],
     [
       {
-        "start": 200.0,
-        "end": 202.5,
+        "start": 236.0,
+        "end": 238.5,
         "layout": "crop",
-        "crop_x": 0.42
+        "crop_x": 0.3
       },
       {
         "start": 66.0,
@@ -179,12 +179,12 @@
         "crop_x": 0.5
       },
       {
-        "start": 209.0,
-        "end": 211.5,
+        "start": 212.5,
+        "end": 215.0,
         "layout": "crop",
         "crop_x": 0.38
       }
     ]
   ],
-  "preview_ok": "L1 shot 2: a Marine in a yellow helmet walks across the frame in front of the flames; the EMPTY flag comes from the dark smoky background."
+  "preview_ok": "L1 shots 1 and 2: a firefighter in a yellow helmet stands in front of the flames; L4 shot 1: crew members walking a bare-dirt line under the trees. The EMPTY flags come from the dark smoky backgrounds."
 }
