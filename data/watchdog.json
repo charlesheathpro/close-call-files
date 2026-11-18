@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-18T18:41:00Z",
+  "at": "2026-11-18T22:22:00Z",
   "healthy": true,
   "numbers": {
-    "dropped": 75,
+    "dropped": 76,
     "uploaded": 185,
     "passed": 64,
     "needs_qa": 0,
     "build_failed": 0,
-    "scheduled_next_48h": 17,
-    "scheduled_by_mt_day": {"2026-11-18": 10, "2026-11-19": 10, "2026-11-20": 1}
+    "scheduled_next_48h": 14,
+    "scheduled_by_mt_day_remaining": {"2026-11-18": 3, "2026-11-19": 10, "2026-11-20": 1}
   },
-  "notes": "Two build failures were one-off spec problems, not systemic: -05 had parachute shots too short for line 5, -06 had a pause tag that left 1 s of dead air. QA fixed both, they rebuilt and passed. The YouTube daily upload cap lifted at 18:22:56Z; the scheduled upload run at 18:22:02Z started just before it lifted, so QA started a second run, which uploaded 10 and filled Nov 19. Nov 20 shows only 1 because of the daily cap, and 64 passed Shorts are waiting, so no editor pass was needed. Harvest 01:23Z (DVIDS still blocked), stats today, no auth or upload_error alerts."
+  "notes": "Nov 18 and 19 are full (10 each). Nov 20 shows 1 only because of the YouTube daily upload cap (upload_limit until 2026-11-19T18:39Z); 64 passed Shorts are waiting, so the first upload run after the cap lifts fills it and no editor pass was needed. Upload run 22:08Z, harvest 19:02Z (DVIDS still blocked, 0 new), stats today, no build errors, no auth or upload_error alerts. QA dropped -07 (calm egress basket ride)."
 }
