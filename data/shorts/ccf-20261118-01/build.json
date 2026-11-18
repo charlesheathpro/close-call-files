@@ -1,0 +1,477 @@
+{
+  "short_id": "ccf-20261118-01",
+  "revision": 1,
+  "status": "ok",
+  "built_at": "2026-11-18T09:07:20Z",
+  "duration": 25.77,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "Firefighters set this car on fire. On purpose.",
+      "start": 0.05,
+      "end": 3.65,
+      "words": [
+        {
+          "w": "Firefighters",
+          "s": 0.05,
+          "e": 0.77
+        },
+        {
+          "w": "set",
+          "s": 0.85,
+          "e": 1.01
+        },
+        {
+          "w": "this",
+          "s": 1.09,
+          "e": 1.17
+        },
+        {
+          "w": "car",
+          "s": 1.25,
+          "e": 1.41
+        },
+        {
+          "w": "on",
+          "s": 1.49,
+          "e": 1.57
+        },
+        {
+          "w": "fire.",
+          "s": 1.73,
+          "e": 2.33
+        },
+        {
+          "w": "On",
+          "s": 2.53,
+          "e": 2.69
+        },
+        {
+          "w": "purpose.",
+          "s": 2.85,
+          "e": 3.65
+        }
+      ]
+    },
+    {
+      "text": "It was a training car at Kadena Air Base, Japan, and Engine 27 rolled in like it was a real call.",
+      "start": 3.89,
+      "end": 10.29,
+      "words": [
+        {
+          "w": "It",
+          "s": 3.89,
+          "e": 3.97
+        },
+        {
+          "w": "was",
+          "s": 4.05,
+          "e": 4.13
+        },
+        {
+          "w": "a",
+          "s": 4.21,
+          "e": 4.29
+        },
+        {
+          "w": "training",
+          "s": 4.49,
+          "e": 4.69
+        },
+        {
+          "w": "car",
+          "s": 4.77,
+          "e": 4.93
+        },
+        {
+          "w": "at",
+          "s": 5.01,
+          "e": 5.09
+        },
+        {
+          "w": "Kadena",
+          "s": 5.223,
+          "e": 5.49
+        },
+        {
+          "w": "Air",
+          "s": 5.57,
+          "e": 5.65
+        },
+        {
+          "w": "Base,",
+          "s": 5.73,
+          "e": 6.05
+        },
+        {
+          "w": "Japan,",
+          "s": 6.29,
+          "e": 6.93
+        },
+        {
+          "w": "and",
+          "s": 7.01,
+          "e": 7.17
+        },
+        {
+          "w": "Engine",
+          "s": 7.25,
+          "e": 7.49
+        },
+        {
+          "w": "27",
+          "s": 7.65,
+          "e": 8.21
+        },
+        {
+          "w": "rolled",
+          "s": 8.37,
+          "e": 8.61
+        },
+        {
+          "w": "in",
+          "s": 8.69,
+          "e": 8.77
+        },
+        {
+          "w": "like",
+          "s": 8.85,
+          "e": 8.93
+        },
+        {
+          "w": "it",
+          "s": 8.97,
+          "e": 9.05
+        },
+        {
+          "w": "was",
+          "s": 9.09,
+          "e": 9.17
+        },
+        {
+          "w": "a",
+          "s": 9.21,
+          "e": 9.29
+        },
+        {
+          "w": "real",
+          "s": 9.41,
+          "e": 9.57
+        },
+        {
+          "w": "call.",
+          "s": 9.65,
+          "e": 10.29
+        }
+      ]
+    },
+    {
+      "text": "Crews hit a car fire from an angle, never head on, because hot bumper struts and tires can burst.",
+      "start": 10.61,
+      "end": 16.45,
+      "words": [
+        {
+          "w": "Crews",
+          "s": 10.61,
+          "e": 10.93
+        },
+        {
+          "w": "hit",
+          "s": 11.01,
+          "e": 11.09
+        },
+        {
+          "w": "a",
+          "s": 11.13,
+          "e": 11.21
+        },
+        {
+          "w": "car",
+          "s": 11.25,
+          "e": 11.41
+        },
+        {
+          "w": "fire",
+          "s": 11.49,
+          "e": 11.73
+        },
+        {
+          "w": "from",
+          "s": 11.81,
+          "e": 11.89
+        },
+        {
+          "w": "an",
+          "s": 11.97,
+          "e": 12.05
+        },
+        {
+          "w": "angle,",
+          "s": 12.13,
+          "e": 12.69
+        },
+        {
+          "w": "never",
+          "s": 12.85,
+          "e": 13.09
+        },
+        {
+          "w": "head",
+          "s": 13.21,
+          "e": 13.33
+        },
+        {
+          "w": "on,",
+          "s": 13.45,
+          "e": 13.89
+        },
+        {
+          "w": "because",
+          "s": 14.05,
+          "e": 14.21
+        },
+        {
+          "w": "hot",
+          "s": 14.29,
+          "e": 14.45
+        },
+        {
+          "w": "bumper",
+          "s": 14.61,
+          "e": 14.85
+        },
+        {
+          "w": "struts",
+          "s": 14.93,
+          "e": 15.25
+        },
+        {
+          "w": "and",
+          "s": 15.29,
+          "e": 15.37
+        },
+        {
+          "w": "tires",
+          "s": 15.41,
+          "e": 15.73
+        },
+        {
+          "w": "can",
+          "s": 15.81,
+          "e": 15.89
+        },
+        {
+          "w": "burst.",
+          "s": 15.97,
+          "e": 16.45
+        }
+      ]
+    },
+    {
+      "text": "The job was to get the hood and doors open and knock the fire down, fast.",
+      "start": 17.01,
+      "end": 21.25,
+      "words": [
+        {
+          "w": "The",
+          "s": 17.01,
+          "e": 17.17
+        },
+        {
+          "w": "job",
+          "s": 17.29,
+          "e": 17.41
+        },
+        {
+          "w": "was",
+          "s": 17.49,
+          "e": 17.57
+        },
+        {
+          "w": "to",
+          "s": 17.65,
+          "e": 17.73
+        },
+        {
+          "w": "get",
+          "s": 17.81,
+          "e": 17.89
+        },
+        {
+          "w": "the",
+          "s": 17.93,
+          "e": 18.01
+        },
+        {
+          "w": "hood",
+          "s": 18.05,
+          "e": 18.21
+        },
+        {
+          "w": "and",
+          "s": 18.25,
+          "e": 18.33
+        },
+        {
+          "w": "doors",
+          "s": 18.37,
+          "e": 18.61
+        },
+        {
+          "w": "open",
+          "s": 18.69,
+          "e": 19.01
+        },
+        {
+          "w": "and",
+          "s": 19.17,
+          "e": 19.33
+        },
+        {
+          "w": "knock",
+          "s": 19.41,
+          "e": 19.57
+        },
+        {
+          "w": "the",
+          "s": 19.65,
+          "e": 19.73
+        },
+        {
+          "w": "fire",
+          "s": 19.81,
+          "e": 19.97
+        },
+        {
+          "w": "down,",
+          "s": 20.05,
+          "e": 20.61
+        },
+        {
+          "w": "fast.",
+          "s": 20.69,
+          "e": 21.25
+        }
+      ]
+    },
+    {
+      "text": "Then they moved on to a second car, with a trapped victim inside.",
+      "start": 21.81,
+      "end": 25.57,
+      "words": [
+        {
+          "w": "Then",
+          "s": 21.81,
+          "e": 21.97
+        },
+        {
+          "w": "they",
+          "s": 22.05,
+          "e": 22.13
+        },
+        {
+          "w": "moved",
+          "s": 22.25,
+          "e": 22.37
+        },
+        {
+          "w": "on",
+          "s": 22.45,
+          "e": 22.53
+        },
+        {
+          "w": "to",
+          "s": 22.57,
+          "e": 22.65
+        },
+        {
+          "w": "a",
+          "s": 22.69,
+          "e": 22.85
+        },
+        {
+          "w": "second",
+          "s": 23.01,
+          "e": 23.17
+        },
+        {
+          "w": "car,",
+          "s": 23.25,
+          "e": 23.73
+        },
+        {
+          "w": "with",
+          "s": 23.81,
+          "e": 23.89
+        },
+        {
+          "w": "a",
+          "s": 23.93,
+          "e": 24.01
+        },
+        {
+          "w": "trapped",
+          "s": 24.05,
+          "e": 24.37
+        },
+        {
+          "w": "victim",
+          "s": 24.45,
+          "e": 24.69
+        },
+        {
+          "w": "inside.",
+          "s": 24.77,
+          "e": 25.57
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 25.77
+    },
+    "av_sync": {
+      "ok": true,
+      "value": -0.004
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.3
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261118-01/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261118-01-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-01/ccf-20261118-01.mp4"
+}
