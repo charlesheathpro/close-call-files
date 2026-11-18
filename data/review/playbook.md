@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-18T04:41:10Z from 144 Shorts older than 48 hours)
+# Playbook (computed 2026-11-18T11:24:59Z from 144 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -14,7 +14,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.55, 1 Shorts)
-- lane: hazards (-0.5, 4 Shorts)
+- lane: hazards (-0.49, 4 Shorts)
 - story: historic rocket test stand implosion (-0.48, 1 Shorts)
 - story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.43, 1 Shorts)
@@ -23,9 +23,9 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: katrina rooftop hoist, man and boy pulled out through a roof (-0.39, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 47521 views, 81% watched
-- 17-year-old adrift at night, no paddle: 49907 views, 70% watched
-- Runaway boat circling with no one aboard: 9632 views, 97% watched
+- Flipped hull 11 miles out, 3 men on top: 47535 views, 81% watched
+- 17-year-old adrift at night, no paddle: 49933 views, 70% watched
+- Runaway boat circling with no one aboard: 9636 views, 97% watched
 - Capsule torn off a rocket at Mach 1: 5185 views, 97% watched
 - Orion splashes down after the Moon: 9451 views, 95% watched
 
@@ -37,7 +37,6 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - Dog hoisted from a sinking catamaran: 11 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261115-56: Calm seas, routine basket hoist of a seated elderly man whose face is on screen during a medical emergency (stroke signs); fails the viral bar and the no-medical-scenes rule.
 - ccf-20261115-58: Very noisy low-bitrate footage, patient strapped in a litter, routine hoist with no visible danger.
 - ccf-20261116-04: Clean airshow formation B-roll but no danger, no turn and no stakes; the outcome is just flying back to base. Below the viral bar and in the review's do-less routine bucket.
 - ccf-20261116-05: Low-resolution, purple-tinted ISS TV feed with a dark, near-empty opening frame and a repeated shot at 32 to 34 s; nothing visibly goes wrong. Interchangeable with today's sharper HD spacewalk (02).
@@ -52,3 +51,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261117-14: Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped.
 - ccf-20261117-15: Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped.
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
+- ccf-20261118-01: Strong fireball opening, but the crop turns the trainer car into a black slab, the clip is a low-stakes demo with a crowd in the stands, and the source never shows the fire put out, so the last line ends on a cliffhanger. Dropped.
+
+## Changed tonight
+- query weights for 58 searches
