@@ -1,10 +1,11 @@
 {
-  "at": "2026-11-18T06:36:08Z",
+  "at": "2026-11-18T10:24:00Z",
   "healthy": true,
   "numbers": {
-    "dropped": 74,
+    "dropped": 75,
     "uploaded": 175,
     "passed": 69,
+    "needs_qa": 0,
     "scheduled_next_48h": 11,
     "scheduled_by_mt_day": {
       "2026-11-17": 10,
@@ -12,5 +13,5 @@
       "2026-11-19": 1
     }
   },
-  "notes": "Nov 19 MT is short only because of the YouTube daily upload cap (upload_limit until 2026-11-18T18:22Z) with plenty of passed Shorts waiting; upload runs after the cap lifts fill it, so no editor pass. Harvest, upload, build and stats all landed on time. QA passed 29, 30 (after a shot fix) and 31 (after shot and wording fixes)."
+  "notes": "Nov 19 MT is short only because of the YouTube daily upload cap (upload_limit until 2026-11-18T18:22Z). 69 passed Shorts are waiting and the hourly upload workflow (each run watches about 5.5 h) fills the day once the cap lifts, so no editor pass. Last upload run 02:34Z, waiting out the cap. Harvest 01:07Z, stats 04:40Z and builds all succeeded. No repeated build errors and no auth alerts. QA rejected and dropped ccf-20261118-01."
 }
