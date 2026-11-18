@@ -1,0 +1,67 @@
+{
+  "asset_id": "nasa:KSC-20191001-MH-NGM01_0001-Northrup_Grumman_GoPro_Cockpit_Video-3233612",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Northrop Grumman Pegasus",
+  "title": "Northrup Grumman GoPro Cockpit Video",
+  "description": "Northrop Grumman provided GoPro video from inside the cockpit of the L-1011 aircraft mated with the Pegasus ICON. The vehicle and payload are being transported from Vandenberg Air Force Base in California to Cape Canaveral Air Force Station in Florida in preparation for launch on October 9, 2019.",
+  "keywords": "Pegasus, ICON, L-1011, Northrup Grumman",
+  "date": "2019-10-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20191001-MH-NGM01_0001-Northrup_Grumman_GoPro_Cockpit_Video-3233612",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20191001-MH-NGM01-0001-Northrup-Grumman-GoPro-Cockpit-Video-3233612",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T05:18:54Z",
+  "duration": 53.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20191001-MH-NGM01_0001-Northrup_Grumman_GoPro_Cockpit_Video-3233612/KSC-20191001-MH-NGM01_0001-Northrup_Grumman_GoPro_Cockpit_Video-3233612~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 53.866667
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.03,
+    15.83,
+    34.43,
+    40.23,
+    48.57,
+    53.83
+  ],
+  "drama_score": 47,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      12.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20191001-MH-NGM01-0001-Northrup-Grumman-GoPro-Cockpit-Video-3233612.jpg",
+  "sheet_times": [
+    1.67,
+    5.0,
+    8.34,
+    11.67,
+    15.01,
+    18.34,
+    21.68,
+    25.02,
+    28.35,
+    31.69,
+    35.02,
+    38.36,
+    41.69,
+    45.03,
+    48.36,
+    51.7
+  ],
+  "pass_reason": "ferry flight cockpit view, nothing happens"
+}

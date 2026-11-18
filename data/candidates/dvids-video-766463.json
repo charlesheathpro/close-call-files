@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-766463",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:13:09Z",
   "duration": 375.64,
   "source_file": {
@@ -544,5 +544,6 @@
     316.52,
     339.97,
     363.41
-  ]
+  ],
+  "pass_reason": "same Creek Fire deployment as ccf-20261117-31 (training day)"
 }

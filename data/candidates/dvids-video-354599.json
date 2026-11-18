@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-354599",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:30:11Z",
   "duration": 29.01,
   "source_file": {
@@ -62,5 +62,6 @@
     24.06,
     25.84,
     27.62
-  ]
+  ],
+  "pass_reason": "29 s bucket drop from the cabin, no outcome"
 }

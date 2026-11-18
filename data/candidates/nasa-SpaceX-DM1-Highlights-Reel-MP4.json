@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SpaceX-DM1-Highlights-Reel-MP4",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-18T05:01:57Z",
   "duration": 296.83,
   "source_file": {
@@ -83,5 +83,6 @@
     250.03,
     268.55,
     287.07
-  ]
+  ],
+  "pass_reason": "uncrewed capsule docks itself, too close to the existing CRS reel Short and today's Artemis I spec"
 }
