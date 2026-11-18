@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:GOPR1149",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "Orion reentry",
+  "title": "Orion Camera View of Artemis II During Re-Entry",
+  "description": "GOPR1149 (April 10, 2026) - A view from a camera inside NASA’s Artemis II Orion spacecraft during re-entry. In this video, taken from the pilot’s forward window, Earth is seen as Orion approaches the atmosphere for re-entry. Credit: NASA",
+  "keywords": "Artemis, Artemis II, Artemis 2, Orion, Orion Spacecraft, Re-Entry, Reentry",
+  "date": "2026-04-10T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/GOPR1149",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-GOPR1149",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T04:50:47Z",
+  "duration": 709.73,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/GOPR1149/GOPR1149~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 709.733333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-GOPR1149.jpg",
+  "sheet_times": [
+    22.16,
+    66.49,
+    110.82,
+    155.14,
+    199.47,
+    243.8,
+    288.13,
+    332.45,
+    376.78,
+    421.11,
+    465.43,
+    509.76,
+    554.09,
+    598.42,
+    642.74,
+    687.07
+  ],
+  "pass_reason": "same event as ccf-20261029-01 (Artemis II re-entry from the pilot's window)"
+}

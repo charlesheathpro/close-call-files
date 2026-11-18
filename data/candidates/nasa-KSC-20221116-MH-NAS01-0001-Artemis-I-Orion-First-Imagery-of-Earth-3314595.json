@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20221116-MH-NAS01-0001-Artemis-I-Orion-First-Imagery-of-Earth-3314595",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T17:18:28Z",
   "duration": 204.8,
   "source_file": {
@@ -56,5 +56,6 @@
     172.38,
     185.15,
     197.92
-  ]
+  ],
+  "pass_reason": "hazy 720p window view dominated by sun flare; nothing moves"
 }

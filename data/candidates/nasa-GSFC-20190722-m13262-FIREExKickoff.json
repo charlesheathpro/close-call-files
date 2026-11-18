@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20190722-m13262-FIREExKickoff",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:46:42Z",
   "duration": 134.51,
   "source_file": {
@@ -243,5 +243,6 @@
     113.07,
     121.44,
     129.82
-  ]
+  ],
+  "pass_reason": "mostly map graphics and satellite animation"
 }

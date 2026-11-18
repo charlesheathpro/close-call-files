@@ -2,7 +2,7 @@
   "asset_id": "nasa:DART Recap Video",
   "source": "nasa",
   "lane": "aviation_naval",
-  "matched_query": "editor targeted search",
+  "matched_query": "impact",
   "title": "DART Recap Video",
   "description": "Since NASA’s Double Asteroid Redirection Test (DART) successfully impacted its target on Sept. 26, 2022  – altering the orbit of the asteroid moonlet Dimorphos by a whopping 33 minutes – the DART team has determined that the mission's kinetic impactor technique can be an effective way to change the trajectory of an asteroid.   These findings were published in four papers in the journal Nature on March 1, 2023. Learn more: https://go.nasa.gov/3ZcTOae",
   "keywords": "",
@@ -17,7 +17,7 @@
   "time_start": 0.0,
   "id": "nasa-DART-Recap-Video",
   "status": "passed_over",
-  "harvested_at": "2026-11-14T20:45:23Z",
+  "harvested_at": "2026-11-18T04:46:09Z",
   "duration": 107.3,
   "source_file": {
     "src": "https://images-assets.nasa.gov/video/DART%20Recap%20Video/DART%20Recap%20Video~orig.mp4",
@@ -181,5 +181,5 @@
     96.79,
     103.46
   ],
-  "pass_reason": "mostly graphics and animation"
+  "pass_reason": "mostly animation and graphics; the real impact images are a few seconds"
 }

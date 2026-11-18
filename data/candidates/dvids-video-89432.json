@@ -26,7 +26,7 @@
   "time_start": 6.03937,
   "aspect_ratio": "4:3",
   "id": "dvids-video-89432",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:49:14Z",
   "duration": 72.12,
   "source_file": {
@@ -160,5 +160,6 @@
     61.37,
     65.47,
     69.57
-  ]
+  ],
+  "pass_reason": "tower rappel training, 480p"
 }

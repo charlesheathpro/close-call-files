@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Aerial-view-from-a-helicopter-of-spattering-between-fissures",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:38:35Z",
   "duration": 48.05,
   "source_file": {
@@ -60,5 +60,6 @@
     40.12,
     43.09,
     46.06
-  ]
+  ],
+  "pass_reason": "lava content saturated this week; smoke hides most of the spatter"
 }

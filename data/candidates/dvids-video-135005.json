@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135005",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:21:01Z",
   "duration": 125.33,
   "source_file": {
@@ -101,5 +101,6 @@
     105.95,
     113.51,
     121.06
-  ]
+  ],
+  "pass_reason": "live-fire range B-roll, close-ups of ammo and walking; no explosions visible"
 }

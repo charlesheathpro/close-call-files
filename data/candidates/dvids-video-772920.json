@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-772920",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:45:54Z",
   "duration": 111.32,
   "source_file": {
@@ -71,5 +71,6 @@
     93.5,
     100.43,
     107.35
-  ]
+  ],
+  "pass_reason": "helicopters landing at base after a rescue; the rescue itself is not shown"
 }
