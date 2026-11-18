@@ -1,16 +1,14 @@
 {
-  "at": "2026-11-18T14:16:00Z",
+  "at": "2026-11-18T18:41:00Z",
   "healthy": true,
   "numbers": {
     "dropped": 75,
-    "uploaded": 175,
-    "passed": 69,
-    "needs_qa": 2,
-    "scheduled_next_48h": 9,
-    "scheduled_by_mt_day": {
-      "2026-11-18": 10,
-      "2026-11-19": 1
-    }
+    "uploaded": 185,
+    "passed": 64,
+    "needs_qa": 0,
+    "build_failed": 0,
+    "scheduled_next_48h": 17,
+    "scheduled_by_mt_day": {"2026-11-18": 10, "2026-11-19": 10, "2026-11-20": 1}
   },
-  "notes": "Nov 19 MT has 1 scheduled only because of the YouTube daily upload cap (upload_limit until 2026-11-18T18:22Z); 69 passed Shorts are waiting, so the gap is the cap, not supply, and no editor pass. Upload run landed 14:09Z, harvest 01:23Z (DVIDS still blocked, NASA and Commons feeding), stats today, builds succeeding. No repeated build errors, no auth or upload_error alerts in 24 h. QA fixed and rebuilt ccf-20261118-02 and -03."
+  "notes": "Two build failures were one-off spec problems, not systemic: -05 had parachute shots too short for line 5, -06 had a pause tag that left 1 s of dead air. QA fixed both, they rebuilt and passed. The YouTube daily upload cap lifted at 18:22:56Z; the scheduled upload run at 18:22:02Z started just before it lifted, so QA started a second run, which uploaded 10 and filled Nov 19. Nov 20 shows only 1 because of the daily cap, and 64 passed Shorts are waiting, so no editor pass was needed. Harvest 01:23Z (DVIDS still blocked), stats today, no auth or upload_error alerts."
 }
