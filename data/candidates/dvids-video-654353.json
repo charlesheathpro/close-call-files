@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-654353",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:46:39Z",
   "duration": 134.63,
   "source_file": {
@@ -69,5 +69,6 @@
     113.18,
     121.56,
     129.94
-  ]
+  ],
+  "pass_reason": "black-and-white FLIR, routine medevac"
 }

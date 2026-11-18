@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-789937",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:53:42Z",
   "duration": 77.71,
   "source_file": {
@@ -64,5 +64,6 @@
     65.15,
     69.97,
     74.8
-  ]
+  ],
+  "pass_reason": "hoist cam with heavy noise, medevac"
 }

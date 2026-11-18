@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss068m260870929-Expedition-69-Soyuz-MS-22-Undocking-230328",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-18T13:10:07Z",
   "duration": 2392.0,
   "source_file": {
@@ -2593,5 +2593,6 @@
     2167.3,
     2316.77
   ],
-  "editor_note": "Lead: micrometeoroid-damaged Soyuz returns empty. Best footage: docked Soyuz over Earth 500-1600 s; undock views after ~1940 s are washed out by glare. Do not publish within a day of ccf-20261118-03 (Starliner returns empty)."
+  "editor_note": "Lead: micrometeoroid-damaged Soyuz returns empty. Best footage: docked Soyuz over Earth 500-1600 s; undock views after ~1940 s are washed out by glare. Do not publish within a day of ccf-20261118-03 (Starliner returns empty).",
+  "used_by": "ccf-20261118-04"
 }

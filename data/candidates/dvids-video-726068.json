@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-726068",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:53:38Z",
   "duration": 73.26,
   "source_file": {
@@ -98,5 +98,6 @@
     61.39,
     65.94,
     70.49
-  ]
+  ],
+  "pass_reason": "dark black-and-white night FLIR hoist"
 }

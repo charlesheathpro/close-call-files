@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-516264",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:44:02Z",
   "duration": 106.02,
   "source_file": {
@@ -70,5 +70,6 @@
     89.66,
     96.01,
     102.35
-  ]
+  ],
+  "pass_reason": "routine cruise ship medevac, soft footage"
 }

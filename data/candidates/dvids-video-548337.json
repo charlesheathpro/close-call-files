@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "16:9",
   "id": "dvids-video-548337",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:05:02Z",
   "duration": 25.26,
   "source_file": {
@@ -68,5 +68,6 @@
     21.52,
     22.82,
     24.11
-  ]
+  ],
+  "pass_reason": "top-down hoist cam over a fishing boat, routine medevac; QA rejects calm hoist-cam medevacs"
 }

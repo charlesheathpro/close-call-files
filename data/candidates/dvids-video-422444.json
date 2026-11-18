@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-422444",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:48:33Z",
   "duration": 31.67,
   "source_file": {
@@ -71,5 +71,6 @@
     26.3,
     28.25,
     30.2
-  ]
+  ],
+  "pass_reason": "winch-cam close-ups only"
 }
