@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-553418",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:51:26Z",
   "duration": 215.76,
   "source_file": {
@@ -80,5 +80,6 @@
     182.25,
     195.45,
     208.66
-  ]
+  ],
+  "pass_reason": "cargo loading aboard a C-17, no rescue on screen"
 }

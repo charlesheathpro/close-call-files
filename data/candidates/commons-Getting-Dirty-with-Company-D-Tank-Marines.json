@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Getting-Dirty-with-Company-D-Tank-Marines",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T23:59:03Z",
   "duration": 59.08,
   "source_file": {
@@ -119,5 +119,6 @@
     49.43,
     53.09,
     56.75
-  ]
+  ],
+  "pass_reason": "tank maintenance feature, nothing at risk"
 }

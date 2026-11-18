@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-953947",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:46:07Z",
   "duration": 113.04,
   "source_file": {
@@ -100,5 +100,6 @@
     94.96,
     101.99,
     109.02
-  ]
+  ],
+  "pass_reason": "unit promo montage"
 }

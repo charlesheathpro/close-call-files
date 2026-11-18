@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-A-USGS-UAS-mission-in-K-lauea-volcano-s-lower-East-Rift-Zone",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:44:52Z",
   "duration": 108.17,
   "source_file": {
@@ -61,5 +61,6 @@
     90.85,
     97.58,
     104.31
-  ]
+  ],
+  "pass_reason": "washed-out pink thermal footage, story only in burned-in text, truncated description; lava already heavy in queue"
 }

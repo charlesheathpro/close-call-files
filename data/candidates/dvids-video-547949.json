@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-547949",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:50:21Z",
   "duration": 73.32,
   "source_file": {
@@ -71,5 +71,6 @@
     61.44,
     66.0,
     70.55
-  ]
+  ],
+  "pass_reason": "convoy driving on a highway, nothing at risk"
 }

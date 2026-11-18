@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1014817",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T01:31:44Z",
   "duration": 22.77,
   "source_file": {
@@ -62,5 +62,6 @@
     18.79,
     20.18,
     21.57
-  ]
+  ],
+  "pass_reason": "release does not say how it ended; fourth bucket drop Short in the queue"
 }
