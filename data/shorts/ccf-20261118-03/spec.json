@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261118-03",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "nasa-iss071m262502144-NASA-s-Boeing-Crew-Flight-Test-Undocking",
  "lane": "aviation_naval",
  "story_type": "crew spacecraft undocks and returns empty after thruster trouble",
@@ -80,50 +80,50 @@
   ],
   [
    {
-    "start": 1080.0,
-    "end": 1082.5,
+    "start": 470.0,
+    "end": 473.0,
     "layout": "crop",
-    "crop_x": 0.6
+    "crop_x": 0.5
    },
    {
-    "start": 1120.0,
-    "end": 1122.5,
-    "layout": "crop",
-    "crop_x": 0.68
-   },
-   {
-    "start": 1150.0,
-    "end": 1152.5,
-    "layout": "crop",
-    "crop_x": 0.55
-   }
-  ],
-  [
-   {
-    "start": 1160,
-    "end": 1162.5,
-    "layout": "crop",
-    "crop_x": 0.6
-   },
-   {
-    "start": 1180,
-    "end": 1182.5,
-    "layout": "crop",
-    "crop_x": 0.66
-   }
-  ],
-  [
-   {
-    "start": 1318,
-    "end": 1320.5,
-    "layout": "crop",
-    "crop_x": 0.47
-   },
-   {
-    "start": 1328,
-    "end": 1330.5,
+    "start": 722.0,
+    "end": 725.0,
     "layout": "crop",
     "crop_x": 0.45
+   },
+   {
+    "start": 1305.0,
+    "end": 1308.0,
+    "layout": "crop",
+    "crop_x": 0.72
+   }
+  ],
+  [
+   {
+    "start": 1240.0,
+    "end": 1242.5,
+    "layout": "crop",
+    "crop_x": 0.3
+   },
+   {
+    "start": 1250.0,
+    "end": 1252.5,
+    "layout": "crop",
+    "crop_x": 0.3
+   }
+  ],
+  [
+   {
+    "start": 600.0,
+    "end": 602.7,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 742.0,
+    "end": 744.7,
+    "layout": "crop",
+    "crop_x": 0.6
    }
   ],
   [
@@ -131,83 +131,76 @@
     "start": 1190.0,
     "end": 1192.5,
     "layout": "crop",
-    "crop_x": 0.66
+    "crop_x": 0.62
    },
    {
-    "start": 1196.0,
-    "end": 1198.5,
-    "layout": "crop",
-    "crop_x": 0.6
-   }
-  ],
-  [
-   {
-    "start": 1208.5,
-    "end": 1211,
+    "start": 1209.0,
+    "end": 1211.5,
     "layout": "crop",
     "crop_x": 0.66
    },
    {
-    "start": 1300,
-    "end": 1302.5,
+    "start": 1236.0,
+    "end": 1238.5,
     "layout": "crop",
-    "crop_x": 0.72
+    "crop_x": 0.35
    }
   ],
   [
    {
-    "start": 1218.0,
-    "end": 1220.5,
+    "start": 1270.0,
+    "end": 1272.5,
     "layout": "crop",
     "crop_x": 0.4
    },
    {
-    "start": 1223.0,
-    "end": 1225.5,
+    "start": 1318.0,
+    "end": 1320.5,
+    "layout": "crop",
+    "crop_x": 0.47
+   }
+  ],
+  [
+   {
+    "start": 1217.5,
+    "end": 1220.0,
     "layout": "crop",
     "crop_x": 0.45
    },
    {
-    "start": 1260.0,
-    "end": 1262.5,
+    "start": 1222.5,
+    "end": 1225.0,
     "layout": "crop",
     "crop_x": 0.45
    }
   ],
   [
    {
-    "start": 1338,
-    "end": 1340.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 1330.0,
+    "end": 1332.5,
+    "layout": "crop",
+    "crop_x": 0.47
    },
    {
-    "start": 1348,
-    "end": 1350.5,
-    "layout": "fit",
-    "crop_x": 0.5
-   },
-   {
-    "start": 1358,
-    "end": 1360.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 1290.0,
+    "end": 1292.5,
+    "layout": "crop",
+    "crop_x": 0.45
    }
   ],
   [
    {
-    "start": 1368,
-    "end": 1370.5,
-    "layout": "fit",
-    "crop_x": 0.5
+    "start": 1360.0,
+    "end": 1362.5,
+    "layout": "crop",
+    "crop_x": 0.45
    },
    {
     "start": 1203.5,
-    "end": 1206,
+    "end": 1206.0,
     "layout": "crop",
     "crop_x": 0.62
    }
   ]
- ],
- "preview_ok": "L8 shots 1 and 2 are flagged DARK only because of black space around the capsule; Starliner is clearly in frame in every frame (checked shot_preview.jpg)."
+ ]
 }

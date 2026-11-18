@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261118-02",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "nasa-High-Speed-of-FBC-Deployment",
  "lane": "aviation_naval",
  "story_type": "spacecraft pyrotechnic jettison test, high speed camera",
@@ -78,22 +78,28 @@
   ],
   [
    {
-    "start": 56.3,
-    "end": 58.6,
+    "start": 59.5,
+    "end": 62.3,
     "layout": "crop",
     "crop_x": 0.5
    },
    {
-    "start": 58.6,
-    "end": 61.0,
+    "start": 18.0,
+    "end": 20.8,
     "layout": "crop",
-    "crop_x": 0.5
+    "crop_x": 0.6
+   },
+   {
+    "start": 62.3,
+    "end": 64.6,
+    "layout": "crop",
+    "crop_x": 0.42
    }
   ],
   [
    {
-    "start": 15.5,
-    "end": 18.0,
+    "start": 15.2,
+    "end": 17.8,
     "layout": "crop",
     "crop_x": 0.6
    },
@@ -106,16 +112,10 @@
   ],
   [
    {
-    "start": 61.0,
-    "end": 63.5,
+    "start": 56.0,
+    "end": 59.5,
     "layout": "crop",
     "crop_x": 0.5
-   },
-   {
-    "start": 18.5,
-    "end": 21.0,
-    "layout": "crop",
-    "crop_x": 0.62
    }
   ]
  ]
