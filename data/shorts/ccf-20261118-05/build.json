@@ -1,7 +1,950 @@
 {
   "short_id": "ccf-20261118-05",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-18T17:14:12Z",
-  "error": "line 5: shots are 3.2, 4.6, 2.3s even after extending, but the line needs 7.4s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-18T18:25:14Z",
+  "duration": 59.53,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "Two astronauts went up on a test flight. Two hundred eighty six days later, this was their ride home.",
+      "start": 0.05,
+      "end": 6.73,
+      "words": [
+        {
+          "w": "Two",
+          "s": 0.05,
+          "e": 0.25
+        },
+        {
+          "w": "astronauts",
+          "s": 0.29,
+          "e": 0.93
+        },
+        {
+          "w": "went",
+          "s": 1.01,
+          "e": 1.21
+        },
+        {
+          "w": "up",
+          "s": 1.25,
+          "e": 1.37
+        },
+        {
+          "w": "on",
+          "s": 1.41,
+          "e": 1.49
+        },
+        {
+          "w": "a",
+          "s": 1.49,
+          "e": 1.57
+        },
+        {
+          "w": "test",
+          "s": 1.65,
+          "e": 1.86
+        },
+        {
+          "w": "flight.",
+          "s": 1.89,
+          "e": 2.29
+        },
+        {
+          "w": "Two",
+          "s": 2.77,
+          "e": 2.93
+        },
+        {
+          "w": "hundred",
+          "s": 3.09,
+          "e": 3.33
+        },
+        {
+          "w": "eighty",
+          "s": 3.57,
+          "e": 3.73
+        },
+        {
+          "w": "six",
+          "s": 3.81,
+          "e": 3.97
+        },
+        {
+          "w": "days",
+          "s": 4.13,
+          "e": 4.37
+        },
+        {
+          "w": "later,",
+          "s": 4.45,
+          "e": 5.17
+        },
+        {
+          "w": "this",
+          "s": 5.25,
+          "e": 5.41
+        },
+        {
+          "w": "was",
+          "s": 5.49,
+          "e": 5.57
+        },
+        {
+          "w": "their",
+          "s": 5.65,
+          "e": 5.73
+        },
+        {
+          "w": "ride",
+          "s": 5.81,
+          "e": 6.05
+        },
+        {
+          "w": "home.",
+          "s": 6.13,
+          "e": 6.73
+        }
+      ]
+    },
+    {
+      "text": "Butch Wilmore and Suni Williams had arrived at the space station as the test crew for Boeing's Starliner.",
+      "start": 7.09,
+      "end": 12.69,
+      "words": [
+        {
+          "w": "Butch",
+          "s": 7.09,
+          "e": 7.33
+        },
+        {
+          "w": "Wilmore",
+          "s": 7.41,
+          "e": 7.89
+        },
+        {
+          "w": "and",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "Suni",
+          "s": 8.13,
+          "e": 8.45
+        },
+        {
+          "w": "Williams",
+          "s": 8.53,
+          "e": 8.93
+        },
+        {
+          "w": "had",
+          "s": 9.01,
+          "e": 9.09
+        },
+        {
+          "w": "arrived",
+          "s": 9.21,
+          "e": 9.49
+        },
+        {
+          "w": "at",
+          "s": 9.53,
+          "e": 9.61
+        },
+        {
+          "w": "the",
+          "s": 9.65,
+          "e": 9.73
+        },
+        {
+          "w": "space",
+          "s": 9.73,
+          "e": 10.05
+        },
+        {
+          "w": "station",
+          "s": 10.13,
+          "e": 10.53
+        },
+        {
+          "w": "as",
+          "s": 10.61,
+          "e": 10.77
+        },
+        {
+          "w": "the",
+          "s": 10.85,
+          "e": 10.93
+        },
+        {
+          "w": "test",
+          "s": 11.01,
+          "e": 11.25
+        },
+        {
+          "w": "crew",
+          "s": 11.37,
+          "e": 11.49
+        },
+        {
+          "w": "for",
+          "s": 11.57,
+          "e": 11.65
+        },
+        {
+          "w": "Boeing's",
+          "s": 11.73,
+          "e": 12.05
+        },
+        {
+          "w": "Starliner.",
+          "s": 12.17,
+          "e": 12.69
+        }
+      ]
+    },
+    {
+      "text": "They were folded into the station crew instead, and Williams commanded the station for much of the expedition.",
+      "start": 13.17,
+      "end": 19.13,
+      "words": [
+        {
+          "w": "They",
+          "s": 13.17,
+          "e": 13.33
+        },
+        {
+          "w": "were",
+          "s": 13.41,
+          "e": 13.49
+        },
+        {
+          "w": "folded",
+          "s": 13.57,
+          "e": 13.89
+        },
+        {
+          "w": "into",
+          "s": 14.01,
+          "e": 14.13
+        },
+        {
+          "w": "the",
+          "s": 14.17,
+          "e": 14.25
+        },
+        {
+          "w": "station",
+          "s": 14.29,
+          "e": 14.61
+        },
+        {
+          "w": "crew",
+          "s": 14.69,
+          "e": 14.85
+        },
+        {
+          "w": "instead,",
+          "s": 14.93,
+          "e": 15.81
+        },
+        {
+          "w": "and",
+          "s": 15.89,
+          "e": 15.97
+        },
+        {
+          "w": "Williams",
+          "s": 16.05,
+          "e": 16.45
+        },
+        {
+          "w": "commanded",
+          "s": 16.53,
+          "e": 16.93
+        },
+        {
+          "w": "the",
+          "s": 17.01,
+          "e": 17.09
+        },
+        {
+          "w": "station",
+          "s": 17.09,
+          "e": 17.49
+        },
+        {
+          "w": "for",
+          "s": 17.57,
+          "e": 17.73
+        },
+        {
+          "w": "much",
+          "s": 17.81,
+          "e": 17.89
+        },
+        {
+          "w": "of",
+          "s": 17.97,
+          "e": 18.05
+        },
+        {
+          "w": "the",
+          "s": 18.05,
+          "e": 18.13
+        },
+        {
+          "w": "expedition.",
+          "s": 18.25,
+          "e": 19.13
+        }
+      ]
+    },
+    {
+      "text": "On March eighteenth, they rode home in a SpaceX Dragon named Freedom, with Nick Hague and cosmonaut Aleksandr Gorbunov.",
+      "start": 19.49,
+      "end": 27.01,
+      "words": [
+        {
+          "w": "On",
+          "s": 19.49,
+          "e": 19.65
+        },
+        {
+          "w": "March",
+          "s": 19.73,
+          "e": 19.97
+        },
+        {
+          "w": "eighteenth,",
+          "s": 20.09,
+          "e": 20.69
+        },
+        {
+          "w": "they",
+          "s": 20.77,
+          "e": 20.85
+        },
+        {
+          "w": "rode",
+          "s": 20.93,
+          "e": 21.09
+        },
+        {
+          "w": "home",
+          "s": 21.17,
+          "e": 21.41
+        },
+        {
+          "w": "in",
+          "s": 21.45,
+          "e": 21.53
+        },
+        {
+          "w": "a",
+          "s": 21.53,
+          "e": 21.61
+        },
+        {
+          "w": "SpaceX",
+          "s": 21.65,
+          "e": 22.21
+        },
+        {
+          "w": "Dragon",
+          "s": 22.41,
+          "e": 22.61
+        },
+        {
+          "w": "named",
+          "s": 22.69,
+          "e": 22.85
+        },
+        {
+          "w": "Freedom,",
+          "s": 23.01,
+          "e": 23.81
+        },
+        {
+          "w": "with",
+          "s": 23.89,
+          "e": 23.97
+        },
+        {
+          "w": "Nick",
+          "s": 24.05,
+          "e": 24.29
+        },
+        {
+          "w": "Hague",
+          "s": 24.33,
+          "e": 24.69
+        },
+        {
+          "w": "and",
+          "s": 24.85,
+          "e": 24.93
+        },
+        {
+          "w": "cosmonaut",
+          "s": 25.09,
+          "e": 25.65
+        },
+        {
+          "w": "Aleksandr",
+          "s": 25.81,
+          "e": 26.29
+        },
+        {
+          "w": "Gorbunov.",
+          "s": 26.37,
+          "e": 27.01
+        }
+      ]
+    },
+    {
+      "text": "Dragon opens its own parachutes when its sensors detect the right speed and altitude. First come two small drogues.",
+      "start": 27.65,
+      "end": 34.61,
+      "words": [
+        {
+          "w": "Dragon",
+          "s": 27.65,
+          "e": 28.05
+        },
+        {
+          "w": "opens",
+          "s": 28.13,
+          "e": 28.45
+        },
+        {
+          "w": "its",
+          "s": 28.53,
+          "e": 28.61
+        },
+        {
+          "w": "own",
+          "s": 28.69,
+          "e": 28.93
+        },
+        {
+          "w": "parachutes",
+          "s": 29.01,
+          "e": 29.57
+        },
+        {
+          "w": "when",
+          "s": 29.65,
+          "e": 29.73
+        },
+        {
+          "w": "its",
+          "s": 29.81,
+          "e": 29.89
+        },
+        {
+          "w": "sensors",
+          "s": 29.97,
+          "e": 30.37
+        },
+        {
+          "w": "detect",
+          "s": 30.53,
+          "e": 30.69
+        },
+        {
+          "w": "the",
+          "s": 30.73,
+          "e": 30.81
+        },
+        {
+          "w": "right",
+          "s": 30.85,
+          "e": 31.01
+        },
+        {
+          "w": "speed",
+          "s": 31.09,
+          "e": 31.41
+        },
+        {
+          "w": "and",
+          "s": 31.45,
+          "e": 31.53
+        },
+        {
+          "w": "altitude.",
+          "s": 31.57,
+          "e": 32.13
+        },
+        {
+          "w": "First",
+          "s": 32.69,
+          "e": 33.01
+        },
+        {
+          "w": "come",
+          "s": 33.13,
+          "e": 33.25
+        },
+        {
+          "w": "two",
+          "s": 33.33,
+          "e": 33.49
+        },
+        {
+          "w": "small",
+          "s": 33.57,
+          "e": 33.81
+        },
+        {
+          "w": "drogues.",
+          "s": 33.89,
+          "e": 34.61
+        }
+      ]
+    },
+    {
+      "text": "Then four mains slowed them to about sixteen miles an hour at the water. Minutes earlier, they had been moving at over seventeen thousand.",
+      "start": 34.85,
+      "end": 42.77,
+      "words": [
+        {
+          "w": "Then",
+          "s": 34.85,
+          "e": 35.09
+        },
+        {
+          "w": "four",
+          "s": 35.25,
+          "e": 35.41
+        },
+        {
+          "w": "mains",
+          "s": 35.49,
+          "e": 35.89
+        },
+        {
+          "w": "slowed",
+          "s": 36.05,
+          "e": 36.37
+        },
+        {
+          "w": "them",
+          "s": 36.45,
+          "e": 36.53
+        },
+        {
+          "w": "to",
+          "s": 36.57,
+          "e": 36.65
+        },
+        {
+          "w": "about",
+          "s": 36.69,
+          "e": 36.93
+        },
+        {
+          "w": "sixteen",
+          "s": 37.09,
+          "e": 37.41
+        },
+        {
+          "w": "miles",
+          "s": 37.57,
+          "e": 37.81
+        },
+        {
+          "w": "an",
+          "s": 37.85,
+          "e": 37.93
+        },
+        {
+          "w": "hour",
+          "s": 37.97,
+          "e": 38.13
+        },
+        {
+          "w": "at",
+          "s": 38.17,
+          "e": 38.25
+        },
+        {
+          "w": "the",
+          "s": 38.29,
+          "e": 38.37
+        },
+        {
+          "w": "water.",
+          "s": 38.37,
+          "e": 38.77
+        },
+        {
+          "w": "Minutes",
+          "s": 39.33,
+          "e": 39.65
+        },
+        {
+          "w": "earlier,",
+          "s": 39.73,
+          "e": 40.29
+        },
+        {
+          "w": "they",
+          "s": 40.37,
+          "e": 40.45
+        },
+        {
+          "w": "had",
+          "s": 40.49,
+          "e": 40.57
+        },
+        {
+          "w": "been",
+          "s": 40.61,
+          "e": 40.69
+        },
+        {
+          "w": "moving",
+          "s": 40.77,
+          "e": 41.09
+        },
+        {
+          "w": "at",
+          "s": 41.13,
+          "e": 41.21
+        },
+        {
+          "w": "over",
+          "s": 41.25,
+          "e": 41.41
+        },
+        {
+          "w": "seventeen",
+          "s": 41.57,
+          "e": 42.13
+        },
+        {
+          "w": "thousand.",
+          "s": 42.29,
+          "e": 42.77
+        }
+      ]
+    },
+    {
+      "text": "The capsule touched down on a calm sea off Tallahassee, Florida, and its main chutes were cut away.",
+      "start": 43.867,
+      "end": 49.81,
+      "words": [
+        {
+          "w": "The",
+          "s": 43.867,
+          "e": 43.947
+        },
+        {
+          "w": "capsule",
+          "s": 44.05,
+          "e": 44.37
+        },
+        {
+          "w": "touched",
+          "s": 44.41,
+          "e": 44.69
+        },
+        {
+          "w": "down",
+          "s": 44.81,
+          "e": 44.93
+        },
+        {
+          "w": "on",
+          "s": 44.97,
+          "e": 45.05
+        },
+        {
+          "w": "a",
+          "s": 45.09,
+          "e": 45.17
+        },
+        {
+          "w": "calm",
+          "s": 45.25,
+          "e": 45.49
+        },
+        {
+          "w": "sea",
+          "s": 45.65,
+          "e": 45.89
+        },
+        {
+          "w": "off",
+          "s": 45.97,
+          "e": 46.05
+        },
+        {
+          "w": "Tallahassee,",
+          "s": 46.13,
+          "e": 46.73
+        },
+        {
+          "w": "Florida,",
+          "s": 46.77,
+          "e": 47.49
+        },
+        {
+          "w": "and",
+          "s": 47.57,
+          "e": 47.65
+        },
+        {
+          "w": "its",
+          "s": 47.77,
+          "e": 47.89
+        },
+        {
+          "w": "main",
+          "s": 48.01,
+          "e": 48.13
+        },
+        {
+          "w": "chutes",
+          "s": 48.21,
+          "e": 48.53
+        },
+        {
+          "w": "were",
+          "s": 48.61,
+          "e": 48.69
+        },
+        {
+          "w": "cut",
+          "s": 48.77,
+          "e": 48.85
+        },
+        {
+          "w": "away.",
+          "s": 49.01,
+          "e": 49.81
+        }
+      ]
+    },
+    {
+      "text": "Fast boats moved in to check the capsule and pull its parachutes out of the water.",
+      "start": 49.97,
+      "end": 54.45,
+      "words": [
+        {
+          "w": "Fast",
+          "s": 49.97,
+          "e": 50.21
+        },
+        {
+          "w": "boats",
+          "s": 50.29,
+          "e": 50.61
+        },
+        {
+          "w": "moved",
+          "s": 50.69,
+          "e": 50.93
+        },
+        {
+          "w": "in",
+          "s": 50.97,
+          "e": 51.05
+        },
+        {
+          "w": "to",
+          "s": 51.09,
+          "e": 51.17
+        },
+        {
+          "w": "check",
+          "s": 51.25,
+          "e": 51.33
+        },
+        {
+          "w": "the",
+          "s": 51.41,
+          "e": 51.49
+        },
+        {
+          "w": "capsule",
+          "s": 51.57,
+          "e": 52.13
+        },
+        {
+          "w": "and",
+          "s": 52.21,
+          "e": 52.29
+        },
+        {
+          "w": "pull",
+          "s": 52.37,
+          "e": 52.45
+        },
+        {
+          "w": "its",
+          "s": 52.57,
+          "e": 52.69
+        },
+        {
+          "w": "parachutes",
+          "s": 52.77,
+          "e": 53.17
+        },
+        {
+          "w": "out",
+          "s": 53.25,
+          "e": 53.33
+        },
+        {
+          "w": "of",
+          "s": 53.37,
+          "e": 53.45
+        },
+        {
+          "w": "the",
+          "s": 53.45,
+          "e": 53.53
+        },
+        {
+          "w": "water.",
+          "s": 53.57,
+          "e": 54.45
+        }
+      ]
+    },
+    {
+      "text": "Wilmore and Williams were back on Earth after two hundred eighty six days in space.",
+      "start": 54.53,
+      "end": 59.33,
+      "words": [
+        {
+          "w": "Wilmore",
+          "s": 54.53,
+          "e": 54.93
+        },
+        {
+          "w": "and",
+          "s": 54.97,
+          "e": 55.05
+        },
+        {
+          "w": "Williams",
+          "s": 55.09,
+          "e": 55.49
+        },
+        {
+          "w": "were",
+          "s": 55.61,
+          "e": 55.73
+        },
+        {
+          "w": "back",
+          "s": 55.85,
+          "e": 55.97
+        },
+        {
+          "w": "on",
+          "s": 56.05,
+          "e": 56.13
+        },
+        {
+          "w": "Earth",
+          "s": 56.21,
+          "e": 56.53
+        },
+        {
+          "w": "after",
+          "s": 56.73,
+          "e": 56.93
+        },
+        {
+          "w": "two",
+          "s": 57.01,
+          "e": 57.09
+        },
+        {
+          "w": "hundred",
+          "s": 57.17,
+          "e": 57.41
+        },
+        {
+          "w": "eighty",
+          "s": 57.65,
+          "e": 57.81
+        },
+        {
+          "w": "six",
+          "s": 57.89,
+          "e": 58.05
+        },
+        {
+          "w": "days",
+          "s": 58.21,
+          "e": 58.45
+        },
+        {
+          "w": "in",
+          "s": 58.49,
+          "e": 58.57
+        },
+        {
+          "w": "space.",
+          "s": 58.61,
+          "e": 59.33
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 59.53
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.003
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.3
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261118-05/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261118-05-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-05/ccf-20261118-05.mp4"
 }
