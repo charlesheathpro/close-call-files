@@ -1,248 +1,248 @@
 {
-  "short_id": "ccf-20261118-06",
-  "revision": 1,
-  "candidate_id": "nasa-20220926-GSFC-DARTs-Impact-with-Asteroid-Dimorphos-REV1a",
-  "lane": "aviation_naval",
-  "story_type": "spacecraft deliberately rams an asteroid, live onboard camera",
-  "music_mood": "night",
-  "hook": "NASA flew this spacecraft into an asteroid. On purpose.",
-  "narration": [
-    "NASA flew this spacecraft straight into an asteroid. On purpose.",
-    "The target was Dimorphos, a small moon just five hundred thirty feet across, circling a bigger asteroid about seven million miles from Earth.",
-    "Neither asteroid was a threat. This was the first planetary defense test, a real try at knocking a space rock off course.",
-    "After ten months in space, the spacecraft, called DART, closed in at roughly fourteen thousand miles an hour.",
-    "Its camera kept sending pictures home, and the little moon grew from a dot into a world of boulders.",
-    "Astronomers on Earth would judge the hit by timing how long Dimorphos took to loop around its partner.",
-    "[short pause] Then the pictures stopped, and the control room erupted."
-  ],
-  "outcome": "The crash shortened Dimorphos's orbit around its partner asteroid by thirty two minutes.",
-  "location_card": {
-    "place": "Asteroid Dimorphos, 7 million miles away",
-    "date": "Sept. 26, 2022"
+ "short_id": "ccf-20261118-06",
+ "revision": 2,
+ "candidate_id": "nasa-20220926-GSFC-DARTs-Impact-with-Asteroid-Dimorphos-REV1a",
+ "lane": "aviation_naval",
+ "story_type": "spacecraft deliberately rams an asteroid, live onboard camera",
+ "music_mood": "night",
+ "hook": "NASA flew this spacecraft into an asteroid. On purpose.",
+ "narration": [
+  "NASA flew this spacecraft straight into an asteroid. On purpose.",
+  "The target was Dimorphos, a small moon just five hundred thirty feet across, circling a bigger asteroid about seven million miles from Earth.",
+  "Neither asteroid was a threat. This was the first planetary defense test, a real try at knocking a space rock off course.",
+  "After ten months in space, the spacecraft, called DART, closed in at roughly fourteen thousand miles an hour.",
+  "Its camera kept sending pictures home, and the little moon grew from a dot into a world of boulders.",
+  "Astronomers on Earth would judge the hit by timing how long Dimorphos took to loop around its partner.",
+  "Then the pictures stopped, and the control room erupted."
+ ],
+ "outcome": "The crash shortened Dimorphos's orbit around its partner asteroid by thirty two minutes.",
+ "location_card": {
+  "place": "Asteroid Dimorphos, 7 million miles away",
+  "date": "Sept. 26, 2022"
+ },
+ "keep_source_audio": false,
+ "title": "Ramming an asteroid at 14,000 mph",
+ "description": "On Sept. 26, 2022, NASA's DART spacecraft deliberately crashed into the small asteroid moon Dimorphos at roughly 14,000 mph in the first planetary defense test. The impact shortened Dimorphos's orbit by 32 minutes.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/20220926-GSFC-DARTs_Impact_with_Asteroid_Dimorphos_REV1a\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #asteroid #space",
+ "tags": [
+  "dart",
+  "asteroid",
+  "dimorphos",
+  "didymos",
+  "planetary defense",
+  "nasa",
+  "asteroid impact",
+  "spacecraft",
+  "johns hopkins apl",
+  "real footage"
+ ],
+ "question_comment": "If a real asteroid were headed for Earth, would you trust this to stop it?",
+ "extra_sources": [
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test"
   },
-  "keep_source_audio": false,
-  "title": "Ramming an asteroid at 14,000 mph",
-  "description": "On Sept. 26, 2022, NASA's DART spacecraft deliberately crashed into the small asteroid moon Dimorphos at roughly 14,000 mph in the first planetary defense test. The impact shortened Dimorphos's orbit by 32 minutes.\n\nFootage: NASA video, via the NASA Image and Video Library: https://images.nasa.gov/details/20220926-GSFC-DARTs_Impact_with_Asteroid_Dimorphos_REV1a\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #asteroid #space",
-  "tags": [
-    "dart",
-    "asteroid",
-    "dimorphos",
-    "didymos",
-    "planetary defense",
-    "nasa",
-    "asteroid impact",
-    "spacecraft",
-    "johns hopkins apl",
-    "real footage"
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "at roughly 14,000 miles (22,530 kilometers) per hour"
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "within 7 million miles (11 million kilometers) of Earth"
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "a small body just 530 feet (160 meters) in diameter"
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "Neither asteroid poses a threat to Earth."
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
+   "excerpt": "10 months flying in space"
+  },
+  {
+   "url": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/",
+   "excerpt": "altered Dimorphos' orbit around Didymos by 32 minutes"
+  }
+ ],
+ "facts": [
+  {
+   "claim": "Impact speed about 14,000 mph",
+   "source_quote": "at roughly 14,000 miles (22,530 kilometers) per hour"
+  },
+  {
+   "claim": "About 7 million miles from Earth",
+   "source_quote": "within 7 million miles (11 million kilometers) of Earth"
+  },
+  {
+   "claim": "Dimorphos 530 feet across",
+   "source_quote": "a small body just 530 feet (160 meters) in diameter"
+  },
+  {
+   "claim": "Neither asteroid a threat",
+   "source_quote": "Neither asteroid poses a threat to Earth."
+  },
+  {
+   "claim": "Ten months in space",
+   "source_quote": "10 months flying in space"
+  },
+  {
+   "claim": "First planetary defense test",
+   "source_quote": "NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test"
+  },
+  {
+   "claim": "Orbit changed by 32 minutes",
+   "source_quote": "altered Dimorphos' orbit around Didymos by 32 minutes"
+  },
+  {
+   "claim": "Impact cheered",
+   "source_quote": "and we have an impact"
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 4496,
+    "end": 4499.0,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
+    "start": 4500,
+    "end": 4503.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
   ],
-  "question_comment": "If a real asteroid were headed for Earth, would you trust this to stop it?",
-  "extra_sources": [
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "at roughly 14,000 miles (22,530 kilometers) per hour"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "within 7 million miles (11 million kilometers) of Earth"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "a small body just 530 feet (160 meters) in diameter"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "Neither asteroid poses a threat to Earth."
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasas-dart-mission-hits-asteroid-in-first-ever-planetary-defense-test/",
-      "excerpt": "10 months flying in space"
-    },
-    {
-      "url": "https://www.nasa.gov/news-release/nasa-confirms-dart-mission-impact-changed-asteroids-motion-in-space/",
-      "excerpt": "altered Dimorphos' orbit around Didymos by 32 minutes"
-    }
+  [
+   {
+    "start": 4400.5,
+    "end": 4403.5,
+    "layout": "crop",
+    "crop_x": 0.46
+   },
+   {
+    "start": 4410,
+    "end": 4413.0,
+    "layout": "crop",
+    "crop_x": 0.48
+   },
+   {
+    "start": 4424,
+    "end": 4427.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
   ],
-  "facts": [
-    {
-      "claim": "Impact speed about 14,000 mph",
-      "source_quote": "at roughly 14,000 miles (22,530 kilometers) per hour"
-    },
-    {
-      "claim": "About 7 million miles from Earth",
-      "source_quote": "within 7 million miles (11 million kilometers) of Earth"
-    },
-    {
-      "claim": "Dimorphos 530 feet across",
-      "source_quote": "a small body just 530 feet (160 meters) in diameter"
-    },
-    {
-      "claim": "Neither asteroid a threat",
-      "source_quote": "Neither asteroid poses a threat to Earth."
-    },
-    {
-      "claim": "Ten months in space",
-      "source_quote": "10 months flying in space"
-    },
-    {
-      "claim": "First planetary defense test",
-      "source_quote": "NASA’s DART Mission Hits Asteroid in First-Ever Planetary Defense Test"
-    },
-    {
-      "claim": "Orbit changed by 32 minutes",
-      "source_quote": "altered Dimorphos' orbit around Didymos by 32 minutes"
-    },
-    {
-      "claim": "Impact cheered",
-      "source_quote": "and we have an impact"
-    }
+  [
+   {
+    "start": 4432,
+    "end": 4435.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4448,
+    "end": 4451.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4456,
+    "end": 4459.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
   ],
-  "line_shots": [
-    [
-      {
-        "start": 4496,
-        "end": 4499.0,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 4500,
-        "end": 4503.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ],
-    [
-      {
-        "start": 4400.5,
-        "end": 4403.5,
-        "layout": "crop",
-        "crop_x": 0.46
-      },
-      {
-        "start": 4410,
-        "end": 4413.0,
-        "layout": "crop",
-        "crop_x": 0.48
-      },
-      {
-        "start": 4424,
-        "end": 4427.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ],
-    [
-      {
-        "start": 4432,
-        "end": 4435.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4448,
-        "end": 4451.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4456,
-        "end": 4459.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ],
-    [
-      {
-        "start": 4464,
-        "end": 4467.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4472,
-        "end": 4475.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4478,
-        "end": 4481.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ],
-    [
-      {
-        "start": 4484,
-        "end": 4487.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4488,
-        "end": 4491.0,
-        "layout": "crop",
-        "crop_x": 0.54
-      },
-      {
-        "start": 4492,
-        "end": 4495.0,
-        "layout": "crop",
-        "crop_x": 0.55
-      }
-    ],
-    [
-      {
-        "start": 5274,
-        "end": 5277.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 5236,
-        "end": 5239.5,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ],
-    [
-      {
-        "start": 4504.5,
-        "end": 4507.8,
-        "layout": "crop",
-        "crop_x": 0.53
-      },
-      {
-        "start": 4520,
-        "end": 4523.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 4526,
-        "end": 4529.0,
-        "layout": "crop",
-        "crop_x": 0.55
-      }
-    ],
-    [
-      {
-        "start": 4532,
-        "end": 4535.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 5313,
-        "end": 5316.0,
-        "layout": "crop",
-        "crop_x": 0.53
-      }
-    ]
+  [
+   {
+    "start": 4464,
+    "end": 4467.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4472,
+    "end": 4475.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4478,
+    "end": 4481.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
   ],
-  "preview_ok": "DARK flags are deep space around the asteroid; the asteroid is centered and visible in every flagged frame, and it grows through the Short. Opening shots are the bright surface."
+  [
+   {
+    "start": 4484,
+    "end": 4487.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4488,
+    "end": 4491.0,
+    "layout": "crop",
+    "crop_x": 0.54
+   },
+   {
+    "start": 4492,
+    "end": 4495.0,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
+  ],
+  [
+   {
+    "start": 5274,
+    "end": 5277.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 5236,
+    "end": 5239.5,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
+  ],
+  [
+   {
+    "start": 4504.5,
+    "end": 4507.8,
+    "layout": "crop",
+    "crop_x": 0.53
+   },
+   {
+    "start": 4520,
+    "end": 4523.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 4526,
+    "end": 4529.0,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
+  ],
+  [
+   {
+    "start": 4532,
+    "end": 4535.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 5313,
+    "end": 5316.0,
+    "layout": "crop",
+    "crop_x": 0.53
+   }
+  ]
+ ],
+ "preview_ok": "DARK flags are deep space around the asteroid; the asteroid is centered and visible in every flagged frame, and it grows through the Short. Opening shots are the bright surface."
 }
