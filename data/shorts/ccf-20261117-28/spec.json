@@ -1,7 +1,7 @@
 {
   "short_id": "ccf-20261117-28",
   "candidate_id": "dvids-video-1002879",
-  "revision": 1,
+  "revision": 2,
   "lane": "aviation_naval",
   "story_type": "rocket artillery live fire, HIMARS launches",
   "music_mood": "aviation",
@@ -47,16 +47,16 @@
   "line_shots": [
     [
       {
+        "start": 135.3,
+        "end": 138.3,
+        "layout": "crop",
+        "crop_x": 0.25
+      },
+      {
         "start": 120.4,
         "end": 123.4,
         "layout": "crop",
         "crop_x": 0.55
-      },
-      {
-        "start": 135.5,
-        "end": 138.5,
-        "layout": "crop",
-        "crop_x": 0.25
       }
     ],
     [
