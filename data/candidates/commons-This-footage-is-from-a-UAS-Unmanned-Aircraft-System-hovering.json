@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-This-footage-is-from-a-UAS-Unmanned-Aircraft-System-hovering",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:30:09Z",
   "duration": 130.53,
   "source_file": {
@@ -58,5 +58,6 @@
     109.71,
     117.84,
     125.97
-  ]
+  ],
+  "pass_reason": "description truncated, no facts or outcome; lava Shorts already saturated"
 }

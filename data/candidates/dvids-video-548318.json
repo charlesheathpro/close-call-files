@@ -26,7 +26,7 @@
   "time_start": 3.13647,
   "aspect_ratio": "16:9",
   "id": "dvids-video-548318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:33:48Z",
   "duration": 109.18,
   "source_file": {
@@ -96,5 +96,6 @@
     92.19,
     98.79,
     105.38
-  ]
+  ],
+  "pass_reason": "montage with music, no single story or outcome"
 }

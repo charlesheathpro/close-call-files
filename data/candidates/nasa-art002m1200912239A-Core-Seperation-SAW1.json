@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:art002m1200912239A_Core-Seperation_SAW1",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "Orion Solar Array Wing #1 View of SLS Core Stage Separation ",
+  "description": "art002m1200912239A (April 1, 2026) - Eight minutes into the flight of NASA’s Artemis II mission, the core stage of the SLS (Space Launch System) rocket successfully separated from the interim cryogenic propulsion stage and the Orion spacecraft. This ascent milestone marks the end of the first major propulsion phase of the Artemis II mission and the transition to upper‑stage operations. Separation takes place four minutes and 11 seconds into the video. There is also a bonus view at the 8 second mark of the three spacecraft adapter jettison panels falling, away following their separation from Orion.  This view comes from a camera on Orion’s solar array wing #1.",
+  "keywords": "Artemis II, Artemis II Mission, Artemis 2  mission, Core Stage Separation, Orion, Space Launch System",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/art002m1200912239A_Core-Seperation_SAW1",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-art002m1200912239A-Core-Seperation-SAW1",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T12:51:19Z",
+  "duration": 296.5,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/art002m1200912239A_Core-Seperation_SAW1/art002m1200912239A_Core-Seperation_SAW1~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 296.496208
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 49,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      296.5
+    ]
+  },
+  "sheet": "data/candidates/nasa-art002m1200912239A-Core-Seperation-SAW1.jpg",
+  "sheet_times": [
+    9.25,
+    27.75,
+    46.25,
+    64.75,
+    83.25,
+    101.75,
+    120.25,
+    138.75,
+    157.25,
+    175.75,
+    194.25,
+    212.75,
+    231.25,
+    249.75,
+    268.25,
+    286.75
+  ],
+  "pass_reason": "static Earth view, the core stage separation is a distant speck"
+}

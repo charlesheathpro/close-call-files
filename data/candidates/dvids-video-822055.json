@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-822055",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:18:17Z",
   "duration": 15.63,
   "source_file": {
@@ -62,5 +62,6 @@
     12.77,
     13.71,
     14.66
-  ]
+  ],
+  "pass_reason": "only 15 s of narrow vertical phone footage, repeats recent bucket-drop Shorts"
 }

@@ -1,0 +1,59 @@
+{
+  "asset_id": "nasa:High Speed of FBC Deployment",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "High Speed of FBC Deployment",
+  "description": "The Orion Crew Module, also known as the Orion Environmental Test Article (ETA), returned to NASA’s Neil Armstrong Test Facility in Sandusky, Ohio, in January 2024 and completed an 11-month test campaign necessary for the safety and success of Artemis II. In November 2024, experts completed the Forward Bay Cover jettison test, which is the last piece that must eject right before parachutes deploy. This high speed video was recorded at 4,000 frames per second.",
+  "keywords": "Orion, Artemis II, Forward Bay Cover, High Speed, FBC deployment, GRC - ATF, SEC, Space Experiments Complex, Armstrong Test Facility",
+  "date": "2024-11-23T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA GRC",
+  "credit": "NASA GRC video",
+  "page_url": "https://images.nasa.gov/details/High%20Speed%20of%20FBC%20Deployment",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-High-Speed-of-FBC-Deployment",
+  "status": "used",
+  "harvested_at": "2026-11-18T12:52:39Z",
+  "duration": 70.23,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/High%20Speed%20of%20FBC%20Deployment/High%20Speed%20of%20FBC%20Deployment~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 70.236833
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    55.7,
+    65.23
+  ],
+  "drama_score": 30,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-High-Speed-of-FBC-Deployment.jpg",
+  "sheet_times": [
+    2.18,
+    6.54,
+    10.9,
+    15.25,
+    19.61,
+    23.97,
+    28.33,
+    32.69,
+    37.05,
+    41.4,
+    45.76,
+    50.12,
+    54.48,
+    58.84,
+    63.2,
+    67.55
+  ],
+  "used_by": "ccf-20261118-02"
+}
