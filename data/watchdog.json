@@ -1,16 +1,16 @@
 {
-  "at": "2026-11-17T22:45:41Z",
+  "at": "2026-11-18T02:20:56Z",
   "healthy": true,
   "numbers": {
     "dropped": 74,
     "uploaded": 175,
-    "passed": 61,
-    "scheduled_next_48h": 14,
+    "passed": 66,
+    "scheduled_next_48h": 12,
     "scheduled_by_mt_day": {
-      "2026-11-17": 10,
+      "2026-11-17": 8,
       "2026-11-18": 10,
       "2026-11-19": 1
     }
   },
-  "notes": "Nov 19 MT has 1 scheduled, but that is the YouTube daily cap (upload_limit until 2026-11-18T18:22Z) with 60 passed waiting, so no editor pass needed; the next upload run after the cap lifts fills it. Fixed 22 build failure (more footage, shorter line), then dropped it in QA as too calm."
+  "notes": "Nov 19 MT is short only because of the YouTube daily upload cap (upload_limit until 2026-11-18T18:22Z) with 66 passed waiting; the next upload runs after the cap lifts fill it, so no editor pass. Harvest, upload, build and stats all landed on time. QA passed 24-28 (28 after an opening-shot fix)."
 }
