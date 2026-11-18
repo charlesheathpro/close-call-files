@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:616881",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues two boaters in San Pablo Bay",
+  "description": "A Coast Guard Air Station San Francisco helicopter crew rescues two stranded boaters in San Pablo Bay, Aug. 1, 2018, after their 30-foot sailing vessel ran aground west of Mare Island. The boaters were transiting the bay when their engine became disabled, causing them to drift into shallow waters. (U.S. Coast Guard video /Released)",
+  "keywords": "Coast Guard, SAR, rescue, San Francisco",
+  "date": "2018-08-01T00:00:00-04:00",
+  "date_published": "2018-08-02T12:23:13-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Southwest",
+  "credit": "Petty Officer 2nd Class Cory Mendenhall",
+  "category": "B-Roll",
+  "virin": "180801-G-MR731-1001",
+  "location": {
+    "city": "San Francisco",
+    "state": "California",
+    "country": "United States",
+    "state_abbreviation": "CA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/616881/coast-guard-rescues-two-boaters-san-pablo-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-616881",
+  "status": "new",
+  "harvested_at": "2026-11-18T00:54:56Z",
+  "duration": 127.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1808/DOD_105883404/DOD_105883404.mp4",
+    "width": 720,
+    "height": 480,
+    "bitrate": 9295,
+    "size": 150628174
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.78,
+      "e": 1.78,
+      "text": "The weather is ready."
+    },
+    {
+      "s": 1.78,
+      "e": 3.58,
+      "text": "We're under 2 minutes."
+    },
+    {
+      "s": 3.58,
+      "e": 5.78,
+      "text": "We're under 4 at 9.50."
+    },
+    {
+      "s": 5.78,
+      "e": 9.72,
+      "text": "Here's below the rail, 4 at 9.40."
+    },
+    {
+      "s": 9.72,
+      "e": 14.2,
+      "text": "30, 30."
+    },
+    {
+      "s": 14.2,
+      "e": 16.2,
+      "text": "The number 10 people below the rail."
+    },
+    {
+      "s": 16.2,
+      "e": 20.54,
+      "text": "The wind is in the water."
+    },
+    {
+      "s": 20.54,
+      "e": 24.78,
+      "text": "The wind is working quite quickly."
+    }
+  ],
+  "scene_cuts": [
+    0.33,
+    26.16,
+    26.99,
+    72.77,
+    73.44
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      26.2,
+      72.8
+    ],
+    "silence_ends": [
+      27.0,
+      73.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-616881.jpg",
+  "sheet_times": [
+    3.98,
+    11.93,
+    19.89,
+    27.84,
+    35.79,
+    43.75,
+    51.7,
+    59.66,
+    67.61,
+    75.56,
+    83.52,
+    91.47,
+    99.43,
+    107.38,
+    115.33,
+    123.29
+  ]
+}

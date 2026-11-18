@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:715755",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 5 from sailboat off Oregon coast",
+  "description": "Coast Guard crews rescued five people aboard a sailboat off the Oregon coast, Oct. 16, 2019. The captain of the 50-foot sailing vessel said that he was struggling to make way to safe harbor and was unsure if he could safely cross the bar. (U.S. Coast Guard video)",
+  "keywords": "MLB, towing, sailboat, BAR, Newport, SAR, Oregon, rescue",
+  "date": "2019-10-16T00:00:00-04:00",
+  "date_published": "2019-10-17T23:58:46-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Petty Officer 3rd Class Trevor Lilburn",
+  "category": "B-Roll",
+  "virin": "191016-G-GE256-166",
+  "location": {
+    "city": "Newport",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/715755/coast-guard-rescues-5-sailboat-off-oregon-coast",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-715755",
+  "status": "new",
+  "harvested_at": "2026-11-18T00:56:04Z",
+  "duration": 60.6,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1910/DOD_107346288/DOD_107346288.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9893,
+    "size": 75969490
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    45.78
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-715755.jpg",
+  "sheet_times": [
+    1.88,
+    5.63,
+    9.39,
+    13.15,
+    16.9,
+    20.66,
+    24.42,
+    28.17,
+    31.93,
+    35.69,
+    39.44,
+    43.2,
+    46.96,
+    50.71,
+    54.47,
+    58.23
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:850691",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues man approximately 57 miles offshore Newport, OR",
+  "description": "A Coast Guard MH-65 Dolphin helicopter aircrew from Coast Guard Air Facility Newport, Oregon, rescues a man from a vessel approximately 57 miles offshore Newport after he suffered a medical emergency July 18, 2022. The aircrew arrived on scene Monday shortly after 10:30 a.m., hoisted the man and transported him to awaiting emergency medical services at Air Facility Newport in stable condition. (U.S. Coast Guard courtesy video)",
+  "keywords": "Coast Guard",
+  "date": "2022-07-18T00:00:00-04:00",
+  "date_published": "2022-07-18T19:59:04-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard PADET Astoria",
+  "credit": "Petty Officer 1st Class Travis Magee",
+  "category": "B-Roll",
+  "virin": "220718-G-AS553-001",
+  "location": {
+    "city": "",
+    "state": "Oregon",
+    "country": "United States",
+    "state_abbreviation": "OR",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/850691/coast-guard-rescues-man-approximately-57-miles-offshore-newport",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-850691",
+  "status": "new",
+  "harvested_at": "2026-11-18T00:55:32Z",
+  "duration": 39.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2207/DOD_109113626/DOD_109113626-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 40211568
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.37,
+    11.54,
+    22.39
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-850691.jpg",
+  "sheet_times": [
+    1.23,
+    3.68,
+    6.13,
+    8.58,
+    11.04,
+    13.49,
+    15.94,
+    18.39,
+    20.85,
+    23.3,
+    25.75,
+    28.2,
+    30.66,
+    33.11,
+    35.56,
+    38.01
+  ]
+}
