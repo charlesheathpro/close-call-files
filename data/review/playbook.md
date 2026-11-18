@@ -1,38 +1,38 @@
-# Playbook (computed 2026-11-18T11:24:59Z from 144 Shorts older than 48 hours)
+# Playbook (computed 2026-11-18T16:41:30Z from 147 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
-- story: launch abort test (+0.4, 1 Shorts)
-- story: runaway boat with no one aboard (+0.4, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
-- story: splashdown recovery (+0.38, 1 Shorts)
-- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.36, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.46, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: launch abort test (+0.38, 1 Shorts)
+- story: runaway boat with no one aboard (+0.38, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.37, 1 Shorts)
+- story: splashdown recovery (+0.36, 1 Shorts)
+- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.35, 1 Shorts)
 
 ## Do less of
 - story: dog hoist from sinking boat (-0.55, 1 Shorts)
-- lane: hazards (-0.49, 4 Shorts)
-- story: historic rocket test stand implosion (-0.48, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
+- story: historic rocket test stand implosion (-0.46, 1 Shorts)
+- lane: hazards (-0.46, 4 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.43, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.41, 1 Shorts)
-- story: security camera catches a tornado strike (-0.4, 1 Shorts)
-- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.39, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.42, 1 Shorts)
+- story: mine clearing line charge detonation (-0.4, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.38, 1 Shorts)
+- story: security camera catches a tornado strike (-0.37, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 47535 views, 81% watched
-- 17-year-old adrift at night, no paddle: 49933 views, 70% watched
-- Runaway boat circling with no one aboard: 9636 views, 97% watched
-- Capsule torn off a rocket at Mach 1: 5185 views, 97% watched
-- Orion splashes down after the Moon: 9451 views, 95% watched
+- Flipped hull 11 miles out, 3 men on top: 47536 views, 81% watched
+- 17-year-old adrift at night, no paddle: 49949 views, 70% watched
+- Runaway boat circling with no one aboard: 9637 views, 97% watched
+- Capsule torn off a rocket at Mach 1: 5186 views, 97% watched
+- Sailboat pinned against a rock wall: 41403 views, 69% watched
 
 ## Weakest Shorts
-- Florence: 67 people, 12 pets in one day: 128 views, 45% watched
-- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
+- 350 feet of C-4 goes off at once: 986 views, 0% watched
 - Crab boat sank at night off Washington: 88 views, 45% watched
+- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
 - Saturn V test tower comes down: 56 views, 47% watched
 - Dog hoisted from a sinking catamaran: 11 views, 62% watched
 
@@ -52,6 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261117-15: Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped.
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
 - ccf-20261118-01: Strong fireball opening, but the crop turns the trainer car into a black slab, the clip is a low-stakes demo with a crowd in the stands, and the source never shows the fire put out, so the last line ends on a cliffhanger. Dropped.
-
-## Changed tonight
-- query weights for 58 searches
