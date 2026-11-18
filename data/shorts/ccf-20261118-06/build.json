@@ -1,0 +1,780 @@
+{
+  "short_id": "ccf-20261118-06",
+  "revision": 1,
+  "status": "checks_failed",
+  "built_at": "2026-11-18T17:16:38Z",
+  "duration": 51.37,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "NASA flew this spacecraft straight into an asteroid. On purpose.",
+      "start": 0.05,
+      "end": 4.81,
+      "words": [
+        {
+          "w": "NASA",
+          "s": 0.05,
+          "e": 0.53
+        },
+        {
+          "w": "flew",
+          "s": 0.61,
+          "e": 0.85
+        },
+        {
+          "w": "this",
+          "s": 0.93,
+          "e": 1.01
+        },
+        {
+          "w": "spacecraft",
+          "s": 1.21,
+          "e": 1.73
+        },
+        {
+          "w": "straight",
+          "s": 1.89,
+          "e": 2.29
+        },
+        {
+          "w": "into",
+          "s": 2.41,
+          "e": 2.53
+        },
+        {
+          "w": "an",
+          "s": 2.61,
+          "e": 2.69
+        },
+        {
+          "w": "asteroid.",
+          "s": 2.89,
+          "e": 3.65
+        },
+        {
+          "w": "On",
+          "s": 3.73,
+          "e": 3.81
+        },
+        {
+          "w": "purpose.",
+          "s": 3.97,
+          "e": 4.81
+        }
+      ]
+    },
+    {
+      "text": "The target was Dimorphos, a small moon just five hundred thirty feet across, circling a bigger asteroid about seven million miles from Earth.",
+      "start": 5.09,
+      "end": 13.65,
+      "words": [
+        {
+          "w": "The",
+          "s": 5.09,
+          "e": 5.25
+        },
+        {
+          "w": "target",
+          "s": 5.45,
+          "e": 5.65
+        },
+        {
+          "w": "was",
+          "s": 5.73,
+          "e": 5.81
+        },
+        {
+          "w": "Dimorphos,",
+          "s": 5.89,
+          "e": 6.93
+        },
+        {
+          "w": "a",
+          "s": 7.01,
+          "e": 7.17
+        },
+        {
+          "w": "small",
+          "s": 7.33,
+          "e": 7.49
+        },
+        {
+          "w": "moon",
+          "s": 7.57,
+          "e": 7.89
+        },
+        {
+          "w": "just",
+          "s": 8.01,
+          "e": 8.13
+        },
+        {
+          "w": "five",
+          "s": 8.21,
+          "e": 8.37
+        },
+        {
+          "w": "hundred",
+          "s": 8.45,
+          "e": 8.61
+        },
+        {
+          "w": "thirty",
+          "s": 8.77,
+          "e": 8.93
+        },
+        {
+          "w": "feet",
+          "s": 9.01,
+          "e": 9.13
+        },
+        {
+          "w": "across,",
+          "s": 9.17,
+          "e": 10.05
+        },
+        {
+          "w": "circling",
+          "s": 10.13,
+          "e": 10.53
+        },
+        {
+          "w": "a",
+          "s": 10.61,
+          "e": 10.69
+        },
+        {
+          "w": "bigger",
+          "s": 10.77,
+          "e": 11.01
+        },
+        {
+          "w": "asteroid",
+          "s": 11.09,
+          "e": 11.57
+        },
+        {
+          "w": "about",
+          "s": 11.73,
+          "e": 11.89
+        },
+        {
+          "w": "seven",
+          "s": 11.97,
+          "e": 12.13
+        },
+        {
+          "w": "million",
+          "s": 12.29,
+          "e": 12.53
+        },
+        {
+          "w": "miles",
+          "s": 12.61,
+          "e": 12.85
+        },
+        {
+          "w": "from",
+          "s": 12.93,
+          "e": 13.01
+        },
+        {
+          "w": "Earth.",
+          "s": 13.17,
+          "e": 13.65
+        }
+      ]
+    },
+    {
+      "text": "Neither asteroid was a threat. This was the first planetary defense test, a real try at knocking a space rock off course.",
+      "start": 13.97,
+      "end": 21.85,
+      "words": [
+        {
+          "w": "Neither",
+          "s": 13.97,
+          "e": 14.29
+        },
+        {
+          "w": "asteroid",
+          "s": 14.45,
+          "e": 14.77
+        },
+        {
+          "w": "was",
+          "s": 14.85,
+          "e": 14.93
+        },
+        {
+          "w": "a",
+          "s": 14.97,
+          "e": 15.05
+        },
+        {
+          "w": "threat.",
+          "s": 15.09,
+          "e": 15.73
+        },
+        {
+          "w": "This",
+          "s": 16.05,
+          "e": 16.13
+        },
+        {
+          "w": "was",
+          "s": 16.21,
+          "e": 16.37
+        },
+        {
+          "w": "the",
+          "s": 16.45,
+          "e": 16.61
+        },
+        {
+          "w": "first",
+          "s": 16.73,
+          "e": 16.85
+        },
+        {
+          "w": "planetary",
+          "s": 16.93,
+          "e": 17.49
+        },
+        {
+          "w": "defense",
+          "s": 17.69,
+          "e": 17.89
+        },
+        {
+          "w": "test,",
+          "s": 17.97,
+          "e": 18.69
+        },
+        {
+          "w": "a",
+          "s": 18.77,
+          "e": 18.85
+        },
+        {
+          "w": "real",
+          "s": 19.01,
+          "e": 19.17
+        },
+        {
+          "w": "try",
+          "s": 19.33,
+          "e": 19.57
+        },
+        {
+          "w": "at",
+          "s": 19.65,
+          "e": 19.73
+        },
+        {
+          "w": "knocking",
+          "s": 19.81,
+          "e": 20.13
+        },
+        {
+          "w": "a",
+          "s": 20.17,
+          "e": 20.25
+        },
+        {
+          "w": "space",
+          "s": 20.29,
+          "e": 20.61
+        },
+        {
+          "w": "rock",
+          "s": 20.73,
+          "e": 20.85
+        },
+        {
+          "w": "off",
+          "s": 20.93,
+          "e": 21.01
+        },
+        {
+          "w": "course.",
+          "s": 21.09,
+          "e": 21.85
+        }
+      ]
+    },
+    {
+      "text": "After ten months in space, the spacecraft, called DART, closed in at roughly fourteen thousand miles an hour.",
+      "start": 22.21,
+      "end": 29.25,
+      "words": [
+        {
+          "w": "After",
+          "s": 22.21,
+          "e": 22.61
+        },
+        {
+          "w": "ten",
+          "s": 22.73,
+          "e": 22.85
+        },
+        {
+          "w": "months",
+          "s": 22.97,
+          "e": 23.09
+        },
+        {
+          "w": "in",
+          "s": 23.13,
+          "e": 23.21
+        },
+        {
+          "w": "space,",
+          "s": 23.25,
+          "e": 23.97
+        },
+        {
+          "w": "the",
+          "s": 24.05,
+          "e": 24.13
+        },
+        {
+          "w": "spacecraft,",
+          "s": 24.13,
+          "e": 24.93
+        },
+        {
+          "w": "called",
+          "s": 25.01,
+          "e": 25.17
+        },
+        {
+          "w": "DART,",
+          "s": 25.25,
+          "e": 26.05
+        },
+        {
+          "w": "closed",
+          "s": 26.13,
+          "e": 26.53
+        },
+        {
+          "w": "in",
+          "s": 26.57,
+          "e": 26.65
+        },
+        {
+          "w": "at",
+          "s": 26.69,
+          "e": 26.77
+        },
+        {
+          "w": "roughly",
+          "s": 26.85,
+          "e": 27.09
+        },
+        {
+          "w": "fourteen",
+          "s": 27.25,
+          "e": 27.73
+        },
+        {
+          "w": "thousand",
+          "s": 27.89,
+          "e": 28.21
+        },
+        {
+          "w": "miles",
+          "s": 28.29,
+          "e": 28.53
+        },
+        {
+          "w": "an",
+          "s": 28.57,
+          "e": 28.65
+        },
+        {
+          "w": "hour.",
+          "s": 28.69,
+          "e": 29.25
+        }
+      ]
+    },
+    {
+      "text": "Its camera kept sending pictures home, and the little moon grew from a dot into a world of boulders.",
+      "start": 29.57,
+      "end": 35.33,
+      "words": [
+        {
+          "w": "Its",
+          "s": 29.57,
+          "e": 29.73
+        },
+        {
+          "w": "camera",
+          "s": 29.81,
+          "e": 30.13
+        },
+        {
+          "w": "kept",
+          "s": 30.21,
+          "e": 30.37
+        },
+        {
+          "w": "sending",
+          "s": 30.45,
+          "e": 30.69
+        },
+        {
+          "w": "pictures",
+          "s": 30.77,
+          "e": 31.09
+        },
+        {
+          "w": "home,",
+          "s": 31.17,
+          "e": 31.81
+        },
+        {
+          "w": "and",
+          "s": 31.89,
+          "e": 31.97
+        },
+        {
+          "w": "the",
+          "s": 32.01,
+          "e": 32.09
+        },
+        {
+          "w": "little",
+          "s": 32.21,
+          "e": 32.37
+        },
+        {
+          "w": "moon",
+          "s": 32.45,
+          "e": 32.69
+        },
+        {
+          "w": "grew",
+          "s": 32.77,
+          "e": 32.93
+        },
+        {
+          "w": "from",
+          "s": 33.01,
+          "e": 33.09
+        },
+        {
+          "w": "a",
+          "s": 33.17,
+          "e": 33.25
+        },
+        {
+          "w": "dot",
+          "s": 33.33,
+          "e": 33.65
+        },
+        {
+          "w": "into",
+          "s": 33.73,
+          "e": 33.97
+        },
+        {
+          "w": "a",
+          "s": 34.05,
+          "e": 34.13
+        },
+        {
+          "w": "world",
+          "s": 34.21,
+          "e": 34.37
+        },
+        {
+          "w": "of",
+          "s": 34.45,
+          "e": 34.53
+        },
+        {
+          "w": "boulders.",
+          "s": 34.53,
+          "e": 35.33
+        }
+      ]
+    },
+    {
+      "text": "Astronomers on Earth would judge the hit by timing how long Dimorphos took to loop around its partner.",
+      "start": 35.65,
+      "end": 41.136,
+      "words": [
+        {
+          "w": "Astronomers",
+          "s": 35.65,
+          "e": 36.29
+        },
+        {
+          "w": "on",
+          "s": 36.37,
+          "e": 36.45
+        },
+        {
+          "w": "Earth",
+          "s": 36.61,
+          "e": 36.85
+        },
+        {
+          "w": "would",
+          "s": 36.93,
+          "e": 37.01
+        },
+        {
+          "w": "judge",
+          "s": 37.09,
+          "e": 37.33
+        },
+        {
+          "w": "the",
+          "s": 37.37,
+          "e": 37.45
+        },
+        {
+          "w": "hit",
+          "s": 37.49,
+          "e": 37.73
+        },
+        {
+          "w": "by",
+          "s": 37.81,
+          "e": 37.89
+        },
+        {
+          "w": "timing",
+          "s": 37.97,
+          "e": 38.37
+        },
+        {
+          "w": "how",
+          "s": 38.49,
+          "e": 38.61
+        },
+        {
+          "w": "long",
+          "s": 38.69,
+          "e": 38.85
+        },
+        {
+          "w": "Dimorphos",
+          "s": 38.97,
+          "e": 39.57
+        },
+        {
+          "w": "took",
+          "s": 39.69,
+          "e": 39.81
+        },
+        {
+          "w": "to",
+          "s": 39.89,
+          "e": 39.97
+        },
+        {
+          "w": "loop",
+          "s": 40.05,
+          "e": 40.21
+        },
+        {
+          "w": "around",
+          "s": 40.33,
+          "e": 40.45
+        },
+        {
+          "w": "its",
+          "s": 40.53,
+          "e": 40.61
+        },
+        {
+          "w": "partner.",
+          "s": 40.81,
+          "e": 41.136
+        }
+      ]
+    },
+    {
+      "text": "Then the pictures stopped, and the control room erupted.",
+      "start": 42.13,
+      "end": 45.61,
+      "words": [
+        {
+          "w": "Then",
+          "s": 42.13,
+          "e": 42.29
+        },
+        {
+          "w": "the",
+          "s": 42.33,
+          "e": 42.41
+        },
+        {
+          "w": "pictures",
+          "s": 42.45,
+          "e": 42.77
+        },
+        {
+          "w": "stopped,",
+          "s": 42.85,
+          "e": 43.65
+        },
+        {
+          "w": "and",
+          "s": 43.73,
+          "e": 43.81
+        },
+        {
+          "w": "the",
+          "s": 43.81,
+          "e": 43.89
+        },
+        {
+          "w": "control",
+          "s": 43.89,
+          "e": 44.37
+        },
+        {
+          "w": "room",
+          "s": 44.45,
+          "e": 44.61
+        },
+        {
+          "w": "erupted.",
+          "s": 44.69,
+          "e": 45.61
+        }
+      ]
+    },
+    {
+      "text": "The crash shortened Dimorphos's orbit around its partner asteroid by thirty two minutes.",
+      "start": 45.89,
+      "end": 51.17,
+      "words": [
+        {
+          "w": "The",
+          "s": 45.89,
+          "e": 46.05
+        },
+        {
+          "w": "crash",
+          "s": 46.13,
+          "e": 46.45
+        },
+        {
+          "w": "shortened",
+          "s": 46.53,
+          "e": 46.85
+        },
+        {
+          "w": "Dimorphos's",
+          "s": 46.97,
+          "e": 47.65
+        },
+        {
+          "w": "orbit",
+          "s": 47.73,
+          "e": 48.05
+        },
+        {
+          "w": "around",
+          "s": 48.17,
+          "e": 48.29
+        },
+        {
+          "w": "its",
+          "s": 48.37,
+          "e": 48.45
+        },
+        {
+          "w": "partner",
+          "s": 48.53,
+          "e": 48.85
+        },
+        {
+          "w": "asteroid",
+          "s": 48.93,
+          "e": 49.41
+        },
+        {
+          "w": "by",
+          "s": 49.65,
+          "e": 49.73
+        },
+        {
+          "w": "thirty",
+          "s": 49.97,
+          "e": 50.13
+        },
+        {
+          "w": "two",
+          "s": 50.29,
+          "e": 50.37
+        },
+        {
+          "w": "minutes.",
+          "s": 50.45,
+          "e": 51.17
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 51.37
+    },
+    "av_sync": {
+      "ok": true,
+      "value": -0.004
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.0
+    },
+    "dead_air": {
+      "ok": false,
+      "value": [
+        [
+          41.12,
+          42.15
+        ]
+      ]
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [
+    "dead_air"
+  ],
+  "render_sheet": "data/shorts/ccf-20261118-06/render_sheet.jpg",
+  "asset_url": null,
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-06/ccf-20261118-06.mp4"
+}

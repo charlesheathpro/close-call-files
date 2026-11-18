@@ -1,7 +1,853 @@
 {
   "short_id": "ccf-20261118-04",
   "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-18T17:05:33Z",
-  "error": "HTTPSConnectionPool(host='api.elevenlabs.io', port=443): Read timed out. (read timeout=180)"
+  "status": "ok",
+  "built_at": "2026-11-18T17:12:40Z",
+  "duration": 53.37,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "Something small from space hit this Soyuz while it sat docked to the space station.",
+      "start": 0.05,
+      "end": 4.77,
+      "words": [
+        {
+          "w": "Something",
+          "s": 0.05,
+          "e": 0.53
+        },
+        {
+          "w": "small",
+          "s": 0.61,
+          "e": 0.93
+        },
+        {
+          "w": "from",
+          "s": 1.01,
+          "e": 1.09
+        },
+        {
+          "w": "space",
+          "s": 1.25,
+          "e": 1.65
+        },
+        {
+          "w": "hit",
+          "s": 1.73,
+          "e": 1.97
+        },
+        {
+          "w": "this",
+          "s": 2.05,
+          "e": 2.13
+        },
+        {
+          "w": "Soyuz",
+          "s": 2.21,
+          "e": 2.77
+        },
+        {
+          "w": "while",
+          "s": 2.85,
+          "e": 3.01
+        },
+        {
+          "w": "it",
+          "s": 3.05,
+          "e": 3.13
+        },
+        {
+          "w": "sat",
+          "s": 3.17,
+          "e": 3.41
+        },
+        {
+          "w": "docked",
+          "s": 3.49,
+          "e": 3.73
+        },
+        {
+          "w": "to",
+          "s": 3.77,
+          "e": 3.85
+        },
+        {
+          "w": "the",
+          "s": 3.89,
+          "e": 3.97
+        },
+        {
+          "w": "space",
+          "s": 3.97,
+          "e": 4.21
+        },
+        {
+          "w": "station.",
+          "s": 4.29,
+          "e": 4.77
+        }
+      ]
+    },
+    {
+      "text": "On December fourteenth, its radiator was damaged, and the spacecraft lost all of its coolant.",
+      "start": 5.25,
+      "end": 10.69,
+      "words": [
+        {
+          "w": "On",
+          "s": 5.25,
+          "e": 5.33
+        },
+        {
+          "w": "December",
+          "s": 5.41,
+          "e": 5.81
+        },
+        {
+          "w": "fourteenth,",
+          "s": 5.89,
+          "e": 6.69
+        },
+        {
+          "w": "its",
+          "s": 6.77,
+          "e": 6.85
+        },
+        {
+          "w": "radiator",
+          "s": 6.93,
+          "e": 7.41
+        },
+        {
+          "w": "was",
+          "s": 7.49,
+          "e": 7.57
+        },
+        {
+          "w": "damaged,",
+          "s": 7.65,
+          "e": 8.37
+        },
+        {
+          "w": "and",
+          "s": 8.41,
+          "e": 8.49
+        },
+        {
+          "w": "the",
+          "s": 8.53,
+          "e": 8.61
+        },
+        {
+          "w": "spacecraft",
+          "s": 8.69,
+          "e": 9.33
+        },
+        {
+          "w": "lost",
+          "s": 9.41,
+          "e": 9.65
+        },
+        {
+          "w": "all",
+          "s": 9.81,
+          "e": 9.89
+        },
+        {
+          "w": "of",
+          "s": 9.97,
+          "e": 10.05
+        },
+        {
+          "w": "its",
+          "s": 10.05,
+          "e": 10.13
+        },
+        {
+          "w": "coolant.",
+          "s": 10.21,
+          "e": 10.69
+        }
+      ]
+    },
+    {
+      "text": "So Russia replaced it. A new Soyuz arrived in February to bring Frank Rubio and two cosmonauts home.",
+      "start": 11.17,
+      "end": 17.65,
+      "words": [
+        {
+          "w": "So",
+          "s": 11.17,
+          "e": 11.33
+        },
+        {
+          "w": "Russia",
+          "s": 11.41,
+          "e": 11.65
+        },
+        {
+          "w": "replaced",
+          "s": 11.73,
+          "e": 12.13
+        },
+        {
+          "w": "it.",
+          "s": 12.21,
+          "e": 12.65
+        },
+        {
+          "w": "A",
+          "s": 12.93,
+          "e": 13.01
+        },
+        {
+          "w": "new",
+          "s": 13.09,
+          "e": 13.25
+        },
+        {
+          "w": "Soyuz",
+          "s": 13.33,
+          "e": 13.73
+        },
+        {
+          "w": "arrived",
+          "s": 13.81,
+          "e": 14.13
+        },
+        {
+          "w": "in",
+          "s": 14.21,
+          "e": 14.29
+        },
+        {
+          "w": "February",
+          "s": 14.37,
+          "e": 14.85
+        },
+        {
+          "w": "to",
+          "s": 14.93,
+          "e": 15.09
+        },
+        {
+          "w": "bring",
+          "s": 15.17,
+          "e": 15.25
+        },
+        {
+          "w": "Frank",
+          "s": 15.41,
+          "e": 15.65
+        },
+        {
+          "w": "Rubio",
+          "s": 15.73,
+          "e": 16.21
+        },
+        {
+          "w": "and",
+          "s": 16.29,
+          "e": 16.45
+        },
+        {
+          "w": "two",
+          "s": 16.53,
+          "e": 16.61
+        },
+        {
+          "w": "cosmonauts",
+          "s": 16.69,
+          "e": 17.29
+        },
+        {
+          "w": "home.",
+          "s": 17.33,
+          "e": 17.65
+        }
+      ]
+    },
+    {
+      "text": "Only the section where a crew rides survives the fall back through the atmosphere. The rest burns up, along with any clue to where the rock hit.",
+      "start": 18.37,
+      "end": 26.45,
+      "words": [
+        {
+          "w": "Only",
+          "s": 18.37,
+          "e": 18.61
+        },
+        {
+          "w": "the",
+          "s": 18.69,
+          "e": 18.77
+        },
+        {
+          "w": "section",
+          "s": 18.85,
+          "e": 19.17
+        },
+        {
+          "w": "where",
+          "s": 19.25,
+          "e": 19.33
+        },
+        {
+          "w": "a",
+          "s": 19.41,
+          "e": 19.49
+        },
+        {
+          "w": "crew",
+          "s": 19.61,
+          "e": 19.73
+        },
+        {
+          "w": "rides",
+          "s": 19.81,
+          "e": 20.21
+        },
+        {
+          "w": "survives",
+          "s": 20.45,
+          "e": 20.85
+        },
+        {
+          "w": "the",
+          "s": 20.93,
+          "e": 21.01
+        },
+        {
+          "w": "fall",
+          "s": 21.09,
+          "e": 21.25
+        },
+        {
+          "w": "back",
+          "s": 21.33,
+          "e": 21.49
+        },
+        {
+          "w": "through",
+          "s": 21.57,
+          "e": 21.65
+        },
+        {
+          "w": "the",
+          "s": 21.69,
+          "e": 21.77
+        },
+        {
+          "w": "atmosphere.",
+          "s": 21.81,
+          "e": 22.65
+        },
+        {
+          "w": "The",
+          "s": 22.93,
+          "e": 23.01
+        },
+        {
+          "w": "rest",
+          "s": 23.09,
+          "e": 23.33
+        },
+        {
+          "w": "burns",
+          "s": 23.41,
+          "e": 23.69
+        },
+        {
+          "w": "up,",
+          "s": 23.73,
+          "e": 24.29
+        },
+        {
+          "w": "along",
+          "s": 24.37,
+          "e": 24.61
+        },
+        {
+          "w": "with",
+          "s": 24.69,
+          "e": 24.85
+        },
+        {
+          "w": "any",
+          "s": 24.93,
+          "e": 25.17
+        },
+        {
+          "w": "clue",
+          "s": 25.25,
+          "e": 25.49
+        },
+        {
+          "w": "to",
+          "s": 25.53,
+          "e": 25.61
+        },
+        {
+          "w": "where",
+          "s": 25.65,
+          "e": 25.73
+        },
+        {
+          "w": "the",
+          "s": 25.77,
+          "e": 25.85
+        },
+        {
+          "w": "rock",
+          "s": 25.89,
+          "e": 26.05
+        },
+        {
+          "w": "hit.",
+          "s": 26.13,
+          "e": 26.45
+        }
+      ]
+    },
+    {
+      "text": "On March twenty eighth, the damaged ship undocked with no one aboard, loaded with equipment the station no longer needed.",
+      "start": 27.17,
+      "end": 33.73,
+      "words": [
+        {
+          "w": "On",
+          "s": 27.17,
+          "e": 27.33
+        },
+        {
+          "w": "March",
+          "s": 27.41,
+          "e": 27.65
+        },
+        {
+          "w": "twenty",
+          "s": 27.73,
+          "e": 27.89
+        },
+        {
+          "w": "eighth,",
+          "s": 28.05,
+          "e": 28.45
+        },
+        {
+          "w": "the",
+          "s": 28.53,
+          "e": 28.61
+        },
+        {
+          "w": "damaged",
+          "s": 28.73,
+          "e": 29.01
+        },
+        {
+          "w": "ship",
+          "s": 29.09,
+          "e": 29.33
+        },
+        {
+          "w": "undocked",
+          "s": 29.41,
+          "e": 29.89
+        },
+        {
+          "w": "with",
+          "s": 29.97,
+          "e": 30.05
+        },
+        {
+          "w": "no",
+          "s": 30.13,
+          "e": 30.29
+        },
+        {
+          "w": "one",
+          "s": 30.33,
+          "e": 30.41
+        },
+        {
+          "w": "aboard,",
+          "s": 30.45,
+          "e": 31.25
+        },
+        {
+          "w": "loaded",
+          "s": 31.33,
+          "e": 31.65
+        },
+        {
+          "w": "with",
+          "s": 31.73,
+          "e": 31.81
+        },
+        {
+          "w": "equipment",
+          "s": 32.05,
+          "e": 32.29
+        },
+        {
+          "w": "the",
+          "s": 32.33,
+          "e": 32.41
+        },
+        {
+          "w": "station",
+          "s": 32.45,
+          "e": 32.85
+        },
+        {
+          "w": "no",
+          "s": 32.93,
+          "e": 33.01
+        },
+        {
+          "w": "longer",
+          "s": 33.09,
+          "e": 33.33
+        },
+        {
+          "w": "needed.",
+          "s": 33.41,
+          "e": 33.73
+        }
+      ]
+    },
+    {
+      "text": "Springs pushed it free, then a burn twice as long as normal hurried it away from the station.",
+      "start": 34.37,
+      "end": 39.57,
+      "words": [
+        {
+          "w": "Springs",
+          "s": 34.37,
+          "e": 34.93
+        },
+        {
+          "w": "pushed",
+          "s": 35.01,
+          "e": 35.17
+        },
+        {
+          "w": "it",
+          "s": 35.21,
+          "e": 35.29
+        },
+        {
+          "w": "free,",
+          "s": 35.41,
+          "e": 36.13
+        },
+        {
+          "w": "then",
+          "s": 36.21,
+          "e": 36.29
+        },
+        {
+          "w": "a",
+          "s": 36.37,
+          "e": 36.45
+        },
+        {
+          "w": "burn",
+          "s": 36.45,
+          "e": 36.69
+        },
+        {
+          "w": "twice",
+          "s": 36.77,
+          "e": 37.09
+        },
+        {
+          "w": "as",
+          "s": 37.17,
+          "e": 37.25
+        },
+        {
+          "w": "long",
+          "s": 37.33,
+          "e": 37.49
+        },
+        {
+          "w": "as",
+          "s": 37.57,
+          "e": 37.65
+        },
+        {
+          "w": "normal",
+          "s": 37.73,
+          "e": 38.05
+        },
+        {
+          "w": "hurried",
+          "s": 38.21,
+          "e": 38.45
+        },
+        {
+          "w": "it",
+          "s": 38.49,
+          "e": 38.57
+        },
+        {
+          "w": "away",
+          "s": 38.61,
+          "e": 38.77
+        },
+        {
+          "w": "from",
+          "s": 38.85,
+          "e": 38.93
+        },
+        {
+          "w": "the",
+          "s": 38.97,
+          "e": 39.05
+        },
+        {
+          "w": "station.",
+          "s": 39.09,
+          "e": 39.57
+        }
+      ]
+    },
+    {
+      "text": "Its braking burn came just fifty five minutes after undocking, instead of the usual two and a half hours.",
+      "start": 40.667,
+      "end": 46.77,
+      "words": [
+        {
+          "w": "Its",
+          "s": 40.667,
+          "e": 40.747
+        },
+        {
+          "w": "braking",
+          "s": 40.77,
+          "e": 41.09
+        },
+        {
+          "w": "burn",
+          "s": 41.17,
+          "e": 41.41
+        },
+        {
+          "w": "came",
+          "s": 41.49,
+          "e": 41.73
+        },
+        {
+          "w": "just",
+          "s": 41.85,
+          "e": 41.97
+        },
+        {
+          "w": "fifty",
+          "s": 42.05,
+          "e": 42.29
+        },
+        {
+          "w": "five",
+          "s": 42.37,
+          "e": 42.53
+        },
+        {
+          "w": "minutes",
+          "s": 42.69,
+          "e": 42.93
+        },
+        {
+          "w": "after",
+          "s": 43.01,
+          "e": 43.17
+        },
+        {
+          "w": "undocking,",
+          "s": 43.25,
+          "e": 44.13
+        },
+        {
+          "w": "instead",
+          "s": 44.33,
+          "e": 44.53
+        },
+        {
+          "w": "of",
+          "s": 44.57,
+          "e": 44.65
+        },
+        {
+          "w": "the",
+          "s": 44.65,
+          "e": 44.73
+        },
+        {
+          "w": "usual",
+          "s": 44.85,
+          "e": 45.17
+        },
+        {
+          "w": "two",
+          "s": 45.25,
+          "e": 45.33
+        },
+        {
+          "w": "and",
+          "s": 45.41,
+          "e": 45.49
+        },
+        {
+          "w": "a",
+          "s": 45.49,
+          "e": 45.57
+        },
+        {
+          "w": "half",
+          "s": 45.65,
+          "e": 45.73
+        },
+        {
+          "w": "hours.",
+          "s": 45.93,
+          "e": 46.77
+        }
+      ]
+    },
+    {
+      "text": "Soyuz MS-22 landed on the steppe of Kazakhstan a few hours later, with no one inside.",
+      "start": 46.85,
+      "end": 53.17,
+      "words": [
+        {
+          "w": "Soyuz",
+          "s": 46.85,
+          "e": 47.33
+        },
+        {
+          "w": "MS-22",
+          "s": 47.49,
+          "e": 48.37
+        },
+        {
+          "w": "landed",
+          "s": 48.69,
+          "e": 48.93
+        },
+        {
+          "w": "on",
+          "s": 49.01,
+          "e": 49.09
+        },
+        {
+          "w": "the",
+          "s": 49.13,
+          "e": 49.21
+        },
+        {
+          "w": "steppe",
+          "s": 49.25,
+          "e": 49.49
+        },
+        {
+          "w": "of",
+          "s": 49.53,
+          "e": 49.61
+        },
+        {
+          "w": "Kazakhstan",
+          "s": 49.65,
+          "e": 50.37
+        },
+        {
+          "w": "a",
+          "s": 50.45,
+          "e": 50.61
+        },
+        {
+          "w": "few",
+          "s": 50.69,
+          "e": 50.77
+        },
+        {
+          "w": "hours",
+          "s": 50.93,
+          "e": 51.09
+        },
+        {
+          "w": "later,",
+          "s": 51.17,
+          "e": 51.73
+        },
+        {
+          "w": "with",
+          "s": 51.85,
+          "e": 51.97
+        },
+        {
+          "w": "no",
+          "s": 52.05,
+          "e": 52.21
+        },
+        {
+          "w": "one",
+          "s": 52.25,
+          "e": 52.33
+        },
+        {
+          "w": "inside.",
+          "s": 52.37,
+          "e": 53.17
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 53.4
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.03
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.23
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261118-04/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261118-04-r1.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-04/ccf-20261118-04.mp4"
 }
