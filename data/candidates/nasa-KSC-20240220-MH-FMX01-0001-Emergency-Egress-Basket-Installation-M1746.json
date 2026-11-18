@@ -1,0 +1,65 @@
+{
+  "asset_id": "nasa:KSC-20240220-MH-FMX01_0001-Emergency_Egress_Basket_Installation-M1746",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor-local",
+  "title": "Emergency Egress Basket Installation and Testing",
+  "description": "Teams with Exploration Ground Systems Program are starting to install the emergency egress baskets on the mobile launcher at Launch Pad 39B in preparation for future crewed Artemis missions starting with Artemis II.",
+  "keywords": "Exploration Ground Systems, EGS, Artemis II Resource Reel, mobile launcher, emergency egress, emergency egress baskets, launch pad 39B, Artemis, Artemis II",
+  "date": "2024-02-20T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20240220-MH-FMX01_0001-Emergency_Egress_Basket_Installation-M1746",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20240220-MH-FMX01-0001-Emergency-Egress-Basket-Installation-M1746",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T20:52:04Z",
+  "duration": 80.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20240220-MH-FMX01_0001-Emergency_Egress_Basket_Installation-M1746/KSC-20240220-MH-FMX01_0001-Emergency_Egress_Basket_Installation-M1746~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 80.3
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.03,
+    41.8
+  ],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      41.8
+    ],
+    "silence_ends": [
+      6.0,
+      80.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20240220-MH-FMX01-0001-Emergency-Egress-Basket-Installation-M1746.jpg",
+  "sheet_times": [
+    2.49,
+    7.48,
+    12.47,
+    17.46,
+    22.44,
+    27.43,
+    32.42,
+    37.41,
+    42.39,
+    47.38,
+    52.37,
+    57.36,
+    62.34,
+    67.33,
+    72.32,
+    77.31
+  ],
+  "pass_reason": "same basket story as ccf-20261118-07; static basket cam"
+}

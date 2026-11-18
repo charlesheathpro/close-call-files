@@ -1,0 +1,76 @@
+{
+  "asset_id": "nasa:AFRC-2024-14154-01_DC-8 Final_Flight_BRoll_Sequence",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor-local",
+  "title": "NASA’s DC-8 aircraft flies low on its final flight from Armstrong Flight Research Center",
+  "description": "After 37 years of serving the world’s scientific community, the DC-8 continues its educational legacy as it retires from an airborne science platform to a hands-on classroom tool.  The DC-8 made its final flight from NASA’s Armstrong Flight Research Center Building 703 in Palmdale, California to Idaho State University in Pocatello, Idaho on May 15, 2024",
+  "keywords": "DC-8, Armstrong Flight Research Center, Aeronautics, Airborne Research",
+  "date": "2024-06-06T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA AFRC",
+  "credit": "NASA AFRC video",
+  "page_url": "https://images.nasa.gov/details/AFRC-2024-14154-01_DC-8%20Final_Flight_BRoll_Sequence",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-AFRC-2024-14154-01-DC-8-Final-Flight-BRoll-Sequence",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T20:46:43Z",
+  "duration": 171.53,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/AFRC-2024-14154-01_DC-8%20Final_Flight_BRoll_Sequence/AFRC-2024-14154-01_DC-8%20Final_Flight_BRoll_Sequence~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 171.533333
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 0.93,
+      "e": 3.92,
+      "text": "Hangar door alarm buzzing"
+    },
+    {
+      "s": 45.78,
+      "e": 48.77,
+      "text": "DC-8 engine whirring"
+    }
+  ],
+  "scene_cuts": [
+    7.1,
+    14.53,
+    19.47,
+    22.93,
+    32.33,
+    38.83,
+    44.43,
+    120.47
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/nasa-AFRC-2024-14154-01-DC-8-Final-Flight-BRoll-Sequence.jpg",
+  "sheet_times": [
+    5.34,
+    16.03,
+    26.72,
+    37.41,
+    48.1,
+    58.79,
+    69.48,
+    80.17,
+    90.86,
+    101.55,
+    112.24,
+    122.93,
+    133.62,
+    144.31,
+    155.0,
+    165.69
+  ],
+  "pass_reason": "calm flyover, distant specks in sky"
+}

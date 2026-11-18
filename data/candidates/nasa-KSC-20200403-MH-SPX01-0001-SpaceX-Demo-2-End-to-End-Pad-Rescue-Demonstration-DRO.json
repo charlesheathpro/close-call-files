@@ -1,0 +1,72 @@
+{
+  "asset_id": "nasa:KSC-20200403-MH-SPX01-0001-SpaceX_Demo-2_End_to_End_Pad_Rescue_Demonstration_DRONE-3247730",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor-local",
+  "title": "SpaceX Demo-2 End-to-End Pad Rescue Demonstration",
+  "description": "On Friday, April 3, 2020, NASA and SpaceX completed an end-to-end demonstration of the teams’ ability to safely evacuate crew members from the Fixed Service Structure during an emergency situation at Launch Complex 39A at NASA’s Kennedy Space Center in Florida.",
+  "keywords": "CCP, Commercial Crew Program, SpaceX, Demo-2, Pad Rescue, Launch Complex 39A, Pad 39A",
+  "date": "2020-04-03T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA KSC",
+  "credit": "NASA KSC video",
+  "page_url": "https://images.nasa.gov/details/KSC-20200403-MH-SPX01-0001-SpaceX_Demo-2_End_to_End_Pad_Rescue_Demonstration_DRONE-3247730",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-KSC-20200403-MH-SPX01-0001-SpaceX-Demo-2-End-to-End-Pad-Rescue-Demonstration-DRO",
+  "status": "passed_over",
+  "harvested_at": "2026-11-18T20:45:33Z",
+  "duration": 95.3,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/KSC-20200403-MH-SPX01-0001-SpaceX_Demo-2_End_to_End_Pad_Rescue_Demonstration_DRONE-3247730/KSC-20200403-MH-SPX01-0001-SpaceX_Demo-2_End_to_End_Pad_Rescue_Demonstration_DRONE-3247730~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 95.303542
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.97,
+    12.8,
+    16.97,
+    32.67,
+    36.37,
+    47.03,
+    52.77,
+    75.63,
+    82.0,
+    85.2,
+    95.27
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      95.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-KSC-20200403-MH-SPX01-0001-SpaceX-Demo-2-End-to-End-Pad-Rescue-Demonstration-DRO.jpg",
+  "sheet_times": [
+    2.96,
+    8.89,
+    14.81,
+    20.74,
+    26.66,
+    32.59,
+    38.51,
+    44.44,
+    50.36,
+    56.29,
+    62.21,
+    68.14,
+    74.06,
+    79.99,
+    85.91,
+    91.84
+  ],
+  "pass_reason": "same pad escape story as ccf-20261118-07; distant drone shots, no danger"
+}

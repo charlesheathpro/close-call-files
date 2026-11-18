@@ -26,7 +26,7 @@
   "time_start": 3.93727,
   "aspect_ratio": "16:9",
   "id": "dvids-video-559761",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:46:13Z",
   "duration": 305.62,
   "source_file": {
@@ -585,5 +585,6 @@
     258.06,
     276.89,
     295.71
-  ]
+  ],
+  "pass_reason": "documentary compilation with news-channel graphics and interviews"
 }
