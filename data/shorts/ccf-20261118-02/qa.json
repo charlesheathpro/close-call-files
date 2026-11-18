@@ -1,0 +1,11 @@
+{
+ "short_id": "ccf-20261118-02",
+ "revision": 2,
+ "verdict": "pass",
+ "at": "2026-11-18T14:33:35Z",
+ "score": 7,
+ "notes": "Opens on the pyro flash at 4,000 fps and the outcome line now plays over the real-time color shot where the cover vanishes off the capsule; tight 30 s that loops back into the flash. Claims match the NASA GRC release; catch net is plainly visible.",
+ "fixes": [
+  "r2 (QA): L3 no longer holds one static color wide for 8 s; outcome line uses source 56.0-59.5 (cover jettisons in real time) instead of a pre-fire frame"
+ ]
+}
