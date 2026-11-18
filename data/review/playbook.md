@@ -1,43 +1,42 @@
-# Playbook (computed 2026-11-17T17:02:23Z from 137 Shorts older than 48 hours)
+# Playbook (computed 2026-11-18T04:41:10Z from 144 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.46, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
-- story: launch abort test (+0.38, 1 Shorts)
-- story: runaway boat with no one aboard (+0.38, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.37, 1 Shorts)
-- story: splashdown recovery (+0.36, 1 Shorts)
-- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.35, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
+- story: launch abort test (+0.4, 1 Shorts)
+- story: runaway boat with no one aboard (+0.4, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
+- story: splashdown recovery (+0.38, 1 Shorts)
+- story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across (+0.36, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.36, 1 Shorts)
 
 ## Do less of
-- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.57, 1 Shorts)
-- story: dog hoist from sinking boat (-0.48, 1 Shorts)
-- story: historic rocket test stand implosion (-0.45, 1 Shorts)
-- lane: hazards (-0.45, 4 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.42, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.42, 1 Shorts)
-- story: crewed moon rocket liftoff seen from a camera on the capsule (-0.39, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.38, 1 Shorts)
+- story: dog hoist from sinking boat (-0.55, 1 Shorts)
+- lane: hazards (-0.5, 4 Shorts)
+- story: historic rocket test stand implosion (-0.48, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.43, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.41, 1 Shorts)
+- story: security camera catches a tornado strike (-0.4, 1 Shorts)
+- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.39, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 47419 views, 82% watched
-- 17-year-old adrift at night, no paddle: 49826 views, 70% watched
-- Runaway boat circling with no one aboard: 9629 views, 97% watched
+- Flipped hull 11 miles out, 3 men on top: 47521 views, 81% watched
+- 17-year-old adrift at night, no paddle: 49907 views, 70% watched
+- Runaway boat circling with no one aboard: 9632 views, 97% watched
 - Capsule torn off a rocket at Mach 1: 5185 views, 97% watched
-- Sailboat pinned against a rock wall: 40362 views, 70% watched
+- Orion splashes down after the Moon: 9451 views, 95% watched
 
 ## Weakest Shorts
+- Florence: 67 people, 12 pets in one day: 128 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 32 views, 64% watched
-- Crab boat sank at night off Washington: 88 views, 43% watched
-- Saturn V test tower comes down: 56 views, 46% watched
-- Dog hoisted from a sinking catamaran: 11 views, 73% watched
-- Pulled out through a hole in the roof: 176 views, 0% watched
+- Crab boat sank at night off Washington: 88 views, 45% watched
+- Saturn V test tower comes down: 56 views, 47% watched
+- Dog hoisted from a sinking catamaran: 11 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261115-54: Source is heavily compressed with color noise through the whole hoist, and it is the fourth near-identical Coast Guard medevac hoist in this batch; footage cannot be fixed.
 - ccf-20261115-56: Calm seas, routine basket hoist of a seated elderly man whose face is on screen during a medical emergency (stroke signs); fails the viral bar and the no-medical-scenes rule.
 - ccf-20261115-58: Very noisy low-bitrate footage, patient strapped in a litter, routine hoist with no visible danger.
 - ccf-20261116-04: Clean airshow formation B-roll but no danger, no turn and no stakes; the outcome is just flying back to base. Below the viral bar and in the review's do-less routine bucket.
@@ -52,3 +51,4 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261117-07: The release does not say how the night ended, so the outcome line is unsupported; one locked shot for 25 seconds and the fifth lava fountain Short in the queue.
 - ccf-20261117-14: Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped.
 - ccf-20261117-15: Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped.
+- ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
