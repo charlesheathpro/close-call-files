@@ -1,0 +1,105 @@
+{
+  "asset_id": "video:26950",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "avalanche",
+  "title": "Marne Avalanche",
+  "description": "Package of the continuing Operation Marne Avalanche with the detaining of another insurgent and the destruction of a  weapons cache from an insurgent safe house. Produced by Petty Officer Chad Bricks.",
+  "keywords": null,
+  "date": "2007-08-01T00:00:00-04:00",
+  "date_published": "2007-08-01T08:07:21-04:00",
+  "branch": "Joint",
+  "unit_name": "AFN Iraq",
+  "credit": "Courtesy",
+  "category": "Package",
+  "virin": null,
+  "location": {
+    "city": "Baghdad",
+    "state": "",
+    "country": "Iraq",
+    "state_abbreviation": null,
+    "country_abbreviation": "IQ"
+  },
+  "page_url": "https://www.dvidshub.net/video/26950/marne-avalanche",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.13747,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-26950",
+  "status": "new",
+  "harvested_at": "2026-11-18T00:58:03Z",
+  "duration": 32.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/0708/DOD_100006337/DOD_100006337.mpg",
+    "width": 720,
+    "height": 480,
+    "bitrate": null,
+    "size": null
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.71,
+      "e": 10.61,
+      "text": "Coalition forces detained another insurgent and destroyed three weapons cache as Operation"
+    },
+    {
+      "s": 10.61,
+      "e": 13.31,
+      "text": "Marne Avalanche continues in Iraq."
+    },
+    {
+      "s": 13.31,
+      "e": 16.61,
+      "text": "Coalition soldiers assaulted an alcata cell in Babel."
+    },
+    {
+      "s": 16.61,
+      "e": 23.29,
+      "text": "The primary target was an alcata safehouse, used to interrogate and torture residents."
+    },
+    {
+      "s": 23.29,
+      "e": 28.57,
+      "text": "After securing the safehouse, paratroopers pushed into town to gather intel from the locals."
+    },
+    {
+      "s": 28.57,
+      "e": 30.57,
+      "text": "He also chapped bricks back down."
+    }
+  ],
+  "scene_cuts": [
+    4.14,
+    26.39,
+    32.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-26950.jpg",
+  "sheet_times": [
+    5.01,
+    6.76,
+    8.5,
+    10.25,
+    11.99,
+    13.74,
+    15.48,
+    17.23,
+    18.97,
+    20.72,
+    22.47,
+    24.21,
+    25.96,
+    27.7,
+    29.45,
+    31.19
+  ]
+}

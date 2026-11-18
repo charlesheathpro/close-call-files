@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:808149",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "rescue",
+  "title": "Coast Guard rescues 1 from down aircraft in Fourleague Bay",
+  "description": "A Coast Guard Air Station New Orleans MH-65 Dolphin helicopter crew along with a St. Mary's Parish Sheriff's boatcrew assisted a person from a downed aircraft July 27, 2021 in Fourleague Bay, which is south of Morgan City, Louisiana. The helicopter crew safely hoisted the person from the water and took the person to awaiting emergency medical services at a local airport near Morgan City. (U.S. Coast Guard video courtesy of Air Station New Orleans)",
+  "keywords": "Nola, D8, Morgan City, downed aircraft, CoastGuardNewsWire, USCG",
+  "date": "2021-07-27T00:00:00-04:00",
+  "date_published": "2021-07-27T18:59:05-04:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "210727-G-G0108-1001",
+  "location": {
+    "city": "Morgan City",
+    "state": "Louisiana",
+    "country": "United States",
+    "state_abbreviation": "LA",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/808149/coast-guard-rescues-1-down-aircraft-fourleague-bay",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-808149",
+  "status": "new",
+  "harvested_at": "2026-11-18T00:57:33Z",
+  "duration": 17.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2107/DOD_108474620/DOD_108474620.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 9991,
+    "size": 21359421
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      17.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-808149.jpg",
+  "sheet_times": [
+    0.52,
+    1.56,
+    2.59,
+    3.63,
+    4.67,
+    5.7,
+    6.74,
+    7.78,
+    8.81,
+    9.85,
+    10.89,
+    11.92,
+    12.96,
+    14.0,
+    15.03,
+    16.07
+  ]
+}
