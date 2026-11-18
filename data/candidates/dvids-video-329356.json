@@ -26,7 +26,7 @@
   "time_start": 15.0484,
   "aspect_ratio": "16:9",
   "id": "dvids-video-329356",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T15:58:46Z",
   "duration": 125.1,
   "source_file": {
@@ -209,5 +209,6 @@
     107.48,
     114.33,
     121.18
-  ]
+  ],
+  "pass_reason": "slates and interviews"
 }

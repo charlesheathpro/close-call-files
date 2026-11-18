@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-FIRE-7680x2160-29-97fps-AAC-48kHz-Stereo-Progressive",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:46:22Z",
   "duration": 225.77,
   "source_file": {
@@ -565,5 +565,6 @@
     190.07,
     204.15,
     218.23
-  ]
+  ],
+  "pass_reason": "ultrawide split-screen montage with interviews"
 }

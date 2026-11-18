@@ -26,7 +26,7 @@
   "time_start": 10.01,
   "aspect_ratio": "16:9",
   "id": "dvids-video-638725",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:30:36Z",
   "duration": 127.49,
   "source_file": {
@@ -94,5 +94,6 @@
     108.72,
     116.03,
     123.34
-  ]
+  ],
+  "pass_reason": "maintenance training, calm"
 }

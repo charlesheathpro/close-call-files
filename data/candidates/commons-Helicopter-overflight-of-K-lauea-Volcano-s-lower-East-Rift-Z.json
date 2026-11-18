@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Helicopter-overflight-of-K-lauea-Volcano-s-lower-East-Rift-Z",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:08:45Z",
   "duration": 24.59,
   "source_file": {
@@ -61,5 +61,6 @@
     20.33,
     21.83,
     23.34
-  ]
+  ],
+  "pass_reason": "same Kapoho Bay ocean entry as ccf-20261114-58"
 }

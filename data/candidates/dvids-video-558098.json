@@ -26,7 +26,7 @@
   "time_start": 4.24,
   "aspect_ratio": "16:9",
   "id": "dvids-video-558098",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:52:06Z",
   "duration": 131.69,
   "source_file": {
@@ -283,5 +283,6 @@
     111.35,
     119.29,
     127.22
-  ]
+  ],
+  "pass_reason": "NATO promo with Reuters library footage"
 }

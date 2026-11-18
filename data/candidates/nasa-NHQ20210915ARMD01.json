@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ20210915ARMD01",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:22:33Z",
   "duration": 136.64,
   "source_file": {
@@ -93,5 +93,6 @@
     114.87,
     123.38,
     131.89
-  ]
+  ],
+  "pass_reason": "interviews and text slates"
 }

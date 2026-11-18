@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-20250919-SVS14894-FireSense-at-Fort-Stewart-Rx-Burn-4096x2160-29-97fps-ENGLISH-G",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:49:28Z",
   "duration": 773.6,
   "source_file": {
@@ -2381,5 +2381,6 @@
     652.3,
     700.62,
     748.94
-  ]
+  ],
+  "pass_reason": "mostly interviews; small prescribed burn"
 }

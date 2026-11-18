@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-This-video-from-the-May-21-helicopter-overflight-of-K-lauea-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:11:11Z",
   "duration": 53.34,
   "source_file": {
@@ -58,5 +58,6 @@
     44.58,
     47.89,
     51.19
-  ]
+  ],
+  "pass_reason": "narrow pillarboxed ocean entry, lava saturated"
 }

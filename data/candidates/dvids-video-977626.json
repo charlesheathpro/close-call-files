@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-977626",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:21:20Z",
   "duration": 360.16,
   "source_file": {
@@ -93,5 +93,6 @@
     303.46,
     325.94,
     348.42
-  ]
+  ],
+  "pass_reason": "burn scar and rain b-roll, nothing moving"
 }

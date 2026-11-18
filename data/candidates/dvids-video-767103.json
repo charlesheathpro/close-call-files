@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-767103",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T16:04:20Z",
   "duration": 70.21,
   "source_file": {
@@ -217,5 +217,6 @@
     58.82,
     63.17,
     67.53
-  ]
+  ],
+  "pass_reason": "hangar demonstration, interviews"
 }

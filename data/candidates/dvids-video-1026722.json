@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026722",
   "asset_id": "video:1026722",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "aerial refueling",
   "harvested_at": "2026-10-27T15:51:24Z",
@@ -74,5 +74,6 @@
     138.34,
     148.59,
     158.84
-  ]
+  ],
+  "pass_reason": "ground crew b-roll, no flight action"
 }

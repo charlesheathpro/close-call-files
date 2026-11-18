@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2025-14531-X59-Taxi-Broll",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:15:04Z",
   "duration": 46.7,
   "source_file": {
@@ -72,5 +72,6 @@
     38.98,
     41.87,
     44.75
-  ]
+  ],
+  "pass_reason": "calm taxi b-roll"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-460704",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:25:28Z",
   "duration": 20.94,
   "source_file": {
@@ -99,5 +99,6 @@
     17.25,
     18.53,
     19.81
-  ]
+  ],
+  "pass_reason": "park ranger talking to camera"
 }

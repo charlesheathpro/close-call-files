@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-816813",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:23:35Z",
   "duration": 264.17,
   "source_file": {
@@ -358,5 +358,6 @@
     222.47,
     238.95,
     255.43
-  ]
+  ],
+  "pass_reason": "fire safety talk to camera"
 }

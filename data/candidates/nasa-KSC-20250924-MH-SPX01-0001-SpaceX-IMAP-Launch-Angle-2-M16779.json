@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20250924-MH-SPX01-0001-SpaceX-IMAP-Launch-Angle-2-M16779",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:15:38Z",
   "duration": 16.9,
   "source_file": {
@@ -55,5 +55,6 @@
     13.84,
     14.86,
     15.89
-  ]
+  ],
+  "pass_reason": "only about 8 s of usable launch footage after the slate"
 }

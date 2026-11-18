@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss064m260460414-Expedition-64-Progress-77-Cargo-Launch-210214",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:03:12Z",
   "duration": 2600.43,
   "source_file": {
@@ -2122,5 +2122,6 @@
     2193.69,
     2356.19,
     2518.69
-  ]
+  ],
+  "pass_reason": "hazy pad camera; Progress onboard-camera launch posted Nov 17"
 }
