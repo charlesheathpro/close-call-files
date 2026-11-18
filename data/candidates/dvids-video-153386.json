@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-153386",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-18T00:55:38Z",
   "duration": 64.23,
   "source_file": {
@@ -148,5 +148,6 @@
     53.78,
     57.76,
     61.74
-  ]
+  ],
+  "pass_reason": "mostly interviews, blast small and distant"
 }

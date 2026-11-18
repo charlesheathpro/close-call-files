@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-837063",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:47:07Z",
   "duration": 194.95,
   "source_file": {
@@ -442,5 +442,6 @@
     164.07,
     176.22,
     188.37
-  ]
+  ],
+  "pass_reason": "firefighter training feature, no visible danger or outcome"
 }
