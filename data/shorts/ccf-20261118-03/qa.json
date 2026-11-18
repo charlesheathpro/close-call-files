@@ -1,0 +1,12 @@
+{
+ "short_id": "ccf-20261118-03",
+ "revision": 3,
+ "verdict": "pass",
+ "at": "2026-11-18T14:44:22Z",
+ "score": 7,
+ "notes": "Strong human hook (Starliner leaving its crew behind) now carried by varied footage: separation, view from Starliner backing off the port, thruster firings, Mission Control and the empty capsule against Earth. Every claim quotes the NASA release or broadcast; the outcome is stated as the last line.",
+ "fixes": [
+  "r2 (QA): replaced 25 s of the same docked close-up with Mission Control and departure views; dropped letterboxed fit shots",
+  "r3 (QA): astronauts' names now play over the capsule, not over a Mission Control controller; Dragon line over the MCC wide instead of a repeated port view"
+ ]
+}
