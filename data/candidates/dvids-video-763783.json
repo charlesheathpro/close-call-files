@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-763783",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-18T00:54:37Z",
   "duration": 30.13,
   "source_file": {
@@ -66,5 +66,6 @@
     25.0,
     26.85,
     28.7
-  ]
+  ],
+  "pass_reason": "washed-out helipad cam, heat illness patient"
 }

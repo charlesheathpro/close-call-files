@@ -26,7 +26,7 @@
   "time_start": 4.13747,
   "aspect_ratio": "4:3",
   "id": "dvids-video-26950",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-18T00:58:03Z",
   "duration": 32.57,
   "source_file": {
@@ -101,5 +101,6 @@
     27.7,
     29.45,
     31.19
-  ]
+  ],
+  "pass_reason": "480p, 33 s"
 }
