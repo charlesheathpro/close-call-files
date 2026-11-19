@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261119-33",
- "revision": 2,
+ "revision": 3,
  "candidate_id": "dvids-video-727090",
  "lane": "rescue",
  "story_type": "catamaran sinks at night, woman adrift in a dinghy, man forced into the water, response boat pickup",
@@ -11,7 +11,6 @@
   "She was alone in a dinghy at night, ten miles off Puerto Rico, and her boat was going down.",
   "At seven twenty four p.m., the catamaran Blue Cocktail sent a mayday. It was taking on water and rapidly sinking.",
   "She drifted off in the dinghy. He fought the flooding until he had to abandon ship.",
-  "The mayday went out on channel sixteen. The Coast Guard and most ships keep a listening watch on it.",
   "A Coast Guard plane found the man in the water and the woman in the dinghy. A helicopter guided a response boat to them."
  ],
  "outcome": "Both boaters, in life jackets, were rescued and taken to San Juan with no medical concerns.",
@@ -88,10 +87,6 @@
   {
    "claim": "Taken to San Juan with no medical concerns",
    "source_quote": "the survivors were transported to San Juan and transferred to Customs and Border Protection personnel with no medical concerns"
-  },
-  {
-   "claim": "Channel 16 listening watch",
-   "source_quote": "Ships required to carry radio, USCG, and most coast stations maintain a listening watch on this channel."
   }
  ],
  "line_shots": [
@@ -103,30 +98,22 @@
     "crop_x": 0.6
    },
    {
-    "start": 5.9,
-    "end": 8.3,
-    "layout": "crop",
-    "crop_x": 0.5
-   }
-  ],
-  [
-   {
     "start": 50.0,
-    "end": 53.0,
+    "end": 52.6,
     "layout": "crop",
     "crop_x": 0.4
-   },
-   {
-    "start": 53.1,
-    "end": 56.2,
-    "layout": "crop",
-    "crop_x": 0.5
    }
   ],
   [
    {
-    "start": 56.3,
-    "end": 59.4,
+    "start": 53.7,
+    "end": 56.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 56.6,
+    "end": 59.38,
     "layout": "crop",
     "crop_x": 0.45
    },
@@ -139,16 +126,16 @@
   ],
   [
    {
-    "start": 27.2,
+    "start": 27.0,
     "end": 30.0,
     "layout": "crop",
     "crop_x": 0.55
    },
    {
-    "start": 30.0,
-    "end": 32.6,
+    "start": 31.6,
+    "end": 34.3,
     "layout": "crop",
-    "crop_x": 0.55
+    "crop_x": 0.6
    }
   ],
   [
