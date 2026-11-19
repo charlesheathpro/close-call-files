@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:317699",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "SurfSandsResortRescue",
+  "description": "ASTORIA, Ore. - A Coast Guard 25-foot response boat crew from Station Tillamook Bay in Garibaldi, Ore., rescues four distressed swimmers near Surf Sands Resort near Rockaway Beach, Ore., Wednesday, Aug. 8, 2012.",
+  "keywords": "",
+  "date": "08.08.2012",
+  "date_published": "08.08.2012",
+  "branch": "",
+  "unit_name": "Defense Communicator of the Year",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "120808-G-LS819-001",
+  "location": {
+    "city": "ASTORIA, OREGON, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/317699/surfsandsresortrescue",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-317699",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:45:57Z",
+  "duration": 57.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062664/DOD_101062664.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.73,
+    33.1,
+    41.47
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": [
+      57.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-317699.jpg",
+  "sheet_times": [
+    1.78,
+    5.34,
+    8.9,
+    12.47,
+    16.03,
+    19.59,
+    23.15,
+    26.71,
+    30.27,
+    33.83,
+    37.4,
+    40.96,
+    44.52,
+    48.08,
+    51.64,
+    55.2
+  ],
+  "pass_reason": "soft 480p FLIR of swimmers already aboard a boat; no rescue moment on screen"
+}

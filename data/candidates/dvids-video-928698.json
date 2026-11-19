@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:928698",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues 2 after sailing vessel runs aground near Charleston jetties",
+  "description": "A Coast Guard Air Station Savannah helicopter crew rescues two men after their 38-foot sailing vessel ran aground near the south jetties in Charleston, South Carolina, June 24, 2024. After arriving on the scene and assessing the situation, the aircrew safely hoisted and transported the two men to Charleston Executive Airport-JZI with no medical concerns reported. (U.S. Coast Guard photo, courtesy Air Station Savannah)",
+  "keywords": "",
+  "date": "06.24.2024",
+  "date_published": "06.24.2024",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240625-G-G0107-1198",
+  "location": {
+    "city": "CHARLESTON, SOUTH CAROLINA, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/928698/coast-guard-rescues-2-after-sailing-vessel-runs-aground-near-charleston-jetties",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-928698",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:47:03Z",
+  "duration": 342.69,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110406099/DOD_110406099.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    101.47,
+    152.0
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      342.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-928698.jpg",
+  "sheet_times": [
+    10.69,
+    32.08,
+    53.47,
+    74.85,
+    96.24,
+    117.63,
+    139.01,
+    160.4,
+    181.79,
+    203.17,
+    224.56,
+    245.95,
+    267.33,
+    288.72,
+    310.11,
+    331.49
+  ],
+  "pass_reason": "calm-water basket hoist, 720x480, long empty stretches"
+}

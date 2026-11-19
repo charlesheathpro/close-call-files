@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:929298",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues 4 boaters during sailboat regatta near Dauphin Island, Alabama",
+  "description": "Coast Guard Station Dauphin Island crew rescues boater June 28, 2024, near Dauphin Island, Alabama. Reportedly after the catamaran vessel capsized, all four persons aboard took refuge on the overturned boat and activated personal locator beacons (PLBs). (U.S. Coast Guard video courtesy of Station Dauphin Island)",
+  "keywords": "",
+  "date": "06.28.2024",
+  "date_published": "06.28.2024",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240629-G-G0108-1001",
+  "location": {
+    "city": "DAUPHIN ISLAND, ALABAMA, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/929298/coast-guard-rescues-4-boaters-during-sailboat-regatta-near-dauphin-island-alabama",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-929298",
+  "status": "used",
+  "harvested_at": "2026-11-19T04:43:03Z",
+  "duration": 91.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2406/DOD_110417270/DOD_110417270.mp4",
+    "width": 1080,
+    "height": 1920
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.13
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      43.7
+    ],
+    "silence_ends": [
+      44.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-929298.jpg",
+  "sheet_times": [
+    2.86,
+    8.57,
+    14.29,
+    20.0,
+    25.72,
+    31.43,
+    37.14,
+    42.86,
+    48.57,
+    54.29,
+    60.0,
+    65.72,
+    71.43,
+    77.15,
+    82.86,
+    88.58
+  ],
+  "used_by": "ccf-20261119-01"
+}

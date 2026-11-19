@@ -1,0 +1,149 @@
+{
+  "asset_id": "video:881641",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues surfer beset by weather off Bolivar Beach, Texas",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Air Station Houston hoists a 20-year-old swimmer in distress off Bolivar Beach, Texas, April 29, 2023. Coast Guard Sector Houston-Galveston watchstanders received a relayed 911 call at 3:50 p.m. stating the surfer was being pushed offshore in 8-foot seas and winds of 34 mph, and that his father was also struggling while swimming out to help him. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "keywords": "",
+  "date": "04.29.2023",
+  "date_published": "04.29.2023",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "230429-G-G0108-3001",
+  "location": {
+    "city": "BOLIVAR PENINSULA, TEXAS, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/881641/coast-guard-rescues-surfer-beset-weather-off-bolivar-beach-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-881641",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:45:28Z",
+  "duration": 100.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109607099/DOD_109607099.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 4.53,
+      "e": 66.85,
+      "text": "You can't keep forward."
+    },
+    {
+      "s": 66.85,
+      "e": 67.85,
+      "text": "Okay, I think forward."
+    },
+    {
+      "s": 67.85,
+      "e": 69.85,
+      "text": "That's in person's right up and down."
+    },
+    {
+      "s": 69.85,
+      "e": 72.32,
+      "text": "Yeah, look at over there."
+    },
+    {
+      "s": 72.32,
+      "e": 74.32,
+      "text": "They're right at that ambulance."
+    },
+    {
+      "s": 74.32,
+      "e": 75.32,
+      "text": "Okay."
+    },
+    {
+      "s": 75.32,
+      "e": 76.32,
+      "text": "You can't keep forward."
+    },
+    {
+      "s": 76.32,
+      "e": 78.32,
+      "text": "That's in person's right up and down."
+    },
+    {
+      "s": 78.32,
+      "e": 79.32,
+      "text": "Yeah, look at over there."
+    },
+    {
+      "s": 79.32,
+      "e": 80.32,
+      "text": "They're right at that ambulance."
+    },
+    {
+      "s": 80.32,
+      "e": 81.32,
+      "text": "Yeah."
+    },
+    {
+      "s": 81.32,
+      "e": 82.32,
+      "text": "You can't keep forward."
+    },
+    {
+      "s": 82.32,
+      "e": 83.32,
+      "text": "Just as that cabin."
+    }
+  ],
+  "scene_cuts": [
+    13.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.0,
+      16.5,
+      21.6,
+      76.6,
+      79.2,
+      82.7
+    ],
+    "silence_ends": [
+      4.4,
+      12.8,
+      17.2,
+      22.7,
+      78.1,
+      81.7,
+      83.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-881641.jpg",
+  "sheet_times": [
+    3.11,
+    9.33,
+    15.55,
+    21.77,
+    27.99,
+    34.21,
+    40.44,
+    46.66,
+    52.88,
+    59.1,
+    65.32,
+    71.54,
+    77.76,
+    83.98,
+    90.2,
+    96.42
+  ],
+  "pass_reason": "calm brown water hoist cam at 720x480; the 8-foot seas in the release are not visible"
+}

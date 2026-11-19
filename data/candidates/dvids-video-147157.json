@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:147157",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues two surfers in distress near Cannon Beach, Ore., Monday",
+  "description": "Coast Guard Sector Columbia River, located in Astoria, received a report from Cannon Beach Fire and Rescue at approximately 1:35 p.m., that two surfers were trapped in a small cove at the north end of Indian Beach at Ecola State Park, just north of Cannon Beach.",
+  "keywords": "",
+  "date": "06.18.2012",
+  "date_published": "06.18.2012",
+  "branch": "",
+  "unit_name": "Defense Communicator of the Year",
+  "credit": "Petty Officer 3rd Class Nate Littlejohn",
+  "category": "B-Roll",
+  "virin": "120618-G-LS819-001",
+  "location": {
+    "city": "ASTORIA, OREGON, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/147157/coast-guard-rescues-two-surfers-distress-near-cannon-beach-ore-monday",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-147157",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:46:22Z",
+  "duration": 100.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1206/DOD_100421885/DOD_100421885.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    95.83
+  ],
+  "drama_score": 90,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      100.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-147157.jpg",
+  "sheet_times": [
+    3.11,
+    9.34,
+    15.56,
+    21.79,
+    28.01,
+    34.24,
+    40.46,
+    46.69,
+    52.91,
+    59.14,
+    65.36,
+    71.59,
+    77.81,
+    84.04,
+    90.26,
+    96.49
+  ],
+  "pass_reason": "640x480 hoist cam rotated sideways, survivors are specks; second surf-cliff hoist today after ccf-20261119-02"
+}

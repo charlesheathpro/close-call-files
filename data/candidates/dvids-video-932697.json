@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:932697",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues 4 after vessel sinks 20 miles off Tybee Island",
+  "description": "A Coast Guard Air Station Savannah helicopter crew deploys a rescue swimmer to evaluate the status of four people aboard a life raft 20 miles offshore Tybee Island, Georgia, Aug. 2, 2024. After their vessel sank, the four people deployed their life raft and were safely recovered and transported ashore by a Coast Guard Station Tybee Island boat crew. (U.S. Coast Guard video, courtesy Air Station Savannah)",
+  "keywords": "",
+  "date": "08.02.2024",
+  "date_published": "08.02.2024",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "240802-G-G0107-1001",
+  "location": {
+    "city": "TYBEE ISLAND, GEORGIA, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/932697/coast-guard-rescues-4-after-vessel-sinks-20-miles-off-tybee-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-932697",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:42:05Z",
+  "duration": 35.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2408/DOD_110482330/DOD_110482330.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      35.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-932697.jpg",
+  "sheet_times": [
+    1.08,
+    3.24,
+    5.4,
+    7.55,
+    9.71,
+    11.87,
+    14.03,
+    16.19,
+    18.35,
+    20.51,
+    22.66,
+    24.82,
+    26.98,
+    29.14,
+    31.3,
+    33.46
+  ],
+  "pass_reason": "hoist-cam with color noise; the life raft is never on screen"
+}

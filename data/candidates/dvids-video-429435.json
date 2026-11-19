@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:429435",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard Crews Aid Mariners From Grounded Vessel",
+  "description": "A rescue swimmer from Coast Guard Air Station Astoria was lowered onto a nearby beach and safely escorted the two mariners from the vessel to the shore while a 47-foot Motor Life Boat crew from Station Grays Harbor. Wash., was on scene to assist and monitor the situation.",
+  "keywords": "",
+  "date": "10.21.2015",
+  "date_published": "10.21.2015",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151021-G-ZZ999-004",
+  "location": {
+    "city": "WILLAPA BAY, WASHINGTON, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/429435/coast-guard-crews-aid-mariners-grounded-vessel",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-429435",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:48:17Z",
+  "duration": 29.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1510/DOD_102820101/DOD_102820101.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.34,
+    27.39
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-429435.jpg",
+  "sheet_times": [
+    0.91,
+    2.74,
+    4.57,
+    6.39,
+    8.22,
+    10.05,
+    11.87,
+    13.7,
+    15.53,
+    17.36,
+    19.18,
+    21.01,
+    22.84,
+    24.66,
+    26.49,
+    28.32
+  ],
+  "pass_reason": "distant 17 s of a swimmer wading; too thin"
+}

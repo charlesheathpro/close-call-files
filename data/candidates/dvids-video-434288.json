@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:434288",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard air crew rescues 2 kayakers near Columbia River entrance, Ore.",
+  "description": "The aircrew spotted the group of distressed kayakers while conducting Advanced Helicopter Rescue training in conjunction with a 47-foot Motor Life Boat crew from Station Cape Disappointment in Ilwaco, Washington.",
+  "keywords": "",
+  "date": "11.10.2015",
+  "date_published": "11.10.2015",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "151110-G-ZZ999-001",
+  "location": {
+    "city": "OREGON, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/434288/coast-guard-air-crew-rescues-2-kayakers-near-columbia-river-entrance-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-434288",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:57:58Z",
+  "duration": 64.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1511/DOD_102876497/DOD_102876497.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.4,
+    33.2,
+    54.08,
+    60.12
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      64.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-434288.jpg",
+  "sheet_times": [
+    1.99,
+    5.98,
+    9.97,
+    13.95,
+    17.94,
+    21.92,
+    25.91,
+    29.9,
+    33.88,
+    37.87,
+    41.86,
+    45.84,
+    49.83,
+    53.81,
+    57.8,
+    61.79
+  ],
+  "pass_reason": "calm basket hoist and fisheye cabin footage"
+}

@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:891993",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues 9 adults after their fishing vessel runs aground aground near San Clemente Island",
+  "description": "SAN DIEGO - A Coast Guard helicopter aircrew rescues nine adults after their 47-foot fishing vessel runs aground near the  San Clemente Island shoreline, July 29, 2023. Once on the scene, the helicopter crew lowered the rescue swimmer, recovered all nine adults and transported them to Coast Guard Sector San Diego. U.S. Coast Guard video.",
+  "keywords": "",
+  "date": "07.29.2023",
+  "date_published": "07.29.2023",
+  "branch": "",
+  "unit_name": "September 2019\">",
+  "credit": "Petty Officer 1st Class Adam Stanton",
+  "category": "B-Roll",
+  "virin": "230729-G-XX113-1001",
+  "location": {
+    "city": "SAN DIEGO, CALIFORNIA, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/891993/coast-guard-rescues-9-adults-after-their-fishing-vessel-runs-aground-aground-near-san-clemente-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-891993",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:46:15Z",
+  "duration": 147.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2307/DOD_109795581/DOD_109795581.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    21.15,
+    21.69,
+    50.08,
+    50.22,
+    67.4,
+    67.53,
+    74.57,
+    75.11,
+    115.15,
+    115.82
+  ],
+  "drama_score": 93,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      147.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-891993.jpg",
+  "sheet_times": [
+    4.58,
+    13.74,
+    22.9,
+    32.06,
+    41.22,
+    50.38,
+    59.53,
+    68.69,
+    77.85,
+    87.01,
+    96.17,
+    105.33,
+    114.49,
+    123.65,
+    132.81,
+    141.97
+  ],
+  "pass_reason": "grayscale FLIR with blurred HUD; people standing on rocks, no danger on screen"
+}

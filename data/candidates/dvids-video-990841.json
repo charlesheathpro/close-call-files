@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:990841",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues 2 people from disabled sailboat off Tarpon Springs",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew rescued two boaters, Wednesday, after their 30-foot sailing vessel became disabled approximately 40 miles west of Tarpon Springs. The boaters were in stable condition and safely transferred to Air Station Clearwater. (U.S. Coast Guard courtesy video)",
+  "keywords": "",
+  "date": "12.17.2025",
+  "date_published": "12.17.2025",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "251218-O-G0107-5352",
+  "location": {
+    "city": "CLEARWATER, FLORIDA, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/990841/coast-guard-rescues-2-people-disabled-sailboat-off-tarpon-springs",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-990841",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T04:43:51Z",
+  "duration": 59.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111447444/DOD_111447444.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.07,
+    6.04,
+    19.59,
+    27.49,
+    40.41
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      59.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-990841.jpg",
+  "sheet_times": [
+    1.83,
+    5.5,
+    9.17,
+    12.84,
+    16.51,
+    20.18,
+    23.84,
+    27.51,
+    31.18,
+    34.85,
+    38.52,
+    42.19,
+    45.85,
+    49.52,
+    53.19,
+    56.86
+  ],
+  "pass_reason": "night FLIR and dark cabin camera"
+}
