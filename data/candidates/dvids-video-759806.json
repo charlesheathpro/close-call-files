@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:759806",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "Sailors and Federal San Diego Firefighters fight fire aboard USS Bonhomme Richard",
+  "description": "SAN DIEGO (July 14, 2020) An MH-60S Sea Hawk helicopter from Helicopter Sea Combat Squadron (HSC) 3 combats a fire aboard the amphibious assault ship USS Bonhomme Richard (LHD 6). On the morning of July 12, a fire was called away aboard the ship while it was moored pier side at Naval Base San Diego. Base and shipboard firefighters responded to the fire. USS Bonhomme Richard is going through a maintenance availability, which began in 2018. (U.S. Navy video by Mass Communication Specialist 2nd Class Jessica Paulauskas/Released)",
+  "keywords": "",
+  "date": "07.14.2020",
+  "date_published": "07.14.2020",
+  "branch": "",
+  "unit_name": "Commander, Naval Surface Force, U.S. Pacific Fleet",
+  "credit": "Petty Officer 2nd Class Jessica Hale",
+  "category": "B-Roll",
+  "virin": "200714-N-NN369-2001",
+  "location": {
+    "city": "US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/759806/sailors-and-federal-san-diego-firefighters-fight-fire-aboard-uss-bonhomme-richard",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-759806",
+  "status": "used",
+  "harvested_at": "2026-11-19T06:03:38Z",
+  "duration": 129.58,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107897405/DOD_107897405.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    41.1,
+    55.23,
+    79.13,
+    92.47,
+    102.3,
+    110.43,
+    124.6
+  ],
+  "drama_score": 46,
+  "audio": {
+    "silence_starts": [
+      124.6
+    ],
+    "silence_ends": [
+      129.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-759806.jpg",
+  "sheet_times": [
+    4.03,
+    12.1,
+    20.17,
+    28.24,
+    36.3,
+    44.37,
+    52.44,
+    60.51,
+    68.57,
+    76.64,
+    84.71,
+    92.77,
+    100.84,
+    108.91,
+    116.98,
+    125.04
+  ],
+  "used_by": "ccf-20261119-08"
+}
