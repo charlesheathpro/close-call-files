@@ -1,0 +1,179 @@
+{
+  "short_id": "ccf-20261119-13",
+  "revision": 1,
+  "candidate_id": "dvids-video-516509",
+  "lane": "aviation_naval",
+  "story_type": "electromagnetic railgun test shot, muzzle fireball, high-speed camera of the projectile",
+  "music_mood": "hazards",
+  "priority": 6,
+  "hook": "This gun fires with no gunpowder at all.",
+  "narration": [
+    "This gun fires with no gunpowder at all.",
+    "It's the Navy's electromagnetic railgun, at Dahlgren, Virginia.",
+    "Instead of an explosion, a massive pulse of electricity launches the projectile.",
+    "It leaves at more than six times the speed of sound, and can reach over a hundred nautical miles.",
+    "In November 2016, the crew fired the first shot on a brand new range.",
+    "At the muzzle, the air burst into fire."
+  ],
+  "outcome": "The railgun fired its first shot down the new range, and the projectile flew clear of the barrel.",
+  "location_card": {
+    "place": "Naval Surface Warfare Center Dahlgren, Virginia",
+    "date": "Nov. 17, 2016"
+  },
+  "keep_source_audio": false,
+  "title": "Navy railgun fires with no gunpowder",
+  "description": "On Nov. 17, 2016, the Office of Naval Research and Naval Surface Warfare Center Dahlgren Division fired the first shot of the electromagnetic railgun at Dahlgren's new terminal range in Virginia.\n\nFootage: U.S. Navy video by John Williams, Office of Naval Research, via DVIDS: https://www.dvidshub.net/video/516509/electromagnetic-railgun-first-shot-dahlgrens-new-terminal-range\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #railgun #navy #engineering",
+  "tags": [
+    "railgun",
+    "electromagnetic railgun",
+    "navy",
+    "dahlgren",
+    "mach 6",
+    "office of naval research",
+    "weapons test",
+    "high speed camera",
+    "engineering",
+    "real footage"
+  ],
+  "question_comment": "Would you stand that close when it fires?",
+  "extra_sources": [
+    {
+      "url": "https://www.dvidshub.net/video/539084/navy-railgun-successfully-fires-multi-shot-salvos",
+      "excerpt": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles \u2013 and at speeds that exceed Mach 6."
+    }
+  ],
+  "facts": [
+    {
+      "claim": "First railgun shot at Dahlgren's terminal range on Nov. 17, 2016",
+      "source_quote": "conduct the first shot of the Electromagnetic Railgun at the terminal range November 17, 2016."
+    },
+    {
+      "claim": "Electrical pulse instead of gunpowder, over 100 nautical miles, faster than Mach 6",
+      "source_quote": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles \u2013 and at speeds that exceed Mach 6."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 83.0,
+        "end": 84.95,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 86.0,
+        "end": 88.3,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 15.9,
+        "end": 17.55,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 43.2,
+        "end": 45.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 27.3,
+        "end": 29.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 34.0,
+        "end": 36.4,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 41.8,
+        "end": 43.1,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 99.0,
+        "end": 101.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 101.4,
+        "end": 103.6,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 65.5,
+        "end": 68.3,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 68.4,
+        "end": 70.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 70.5,
+        "end": 72.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 89.5,
+        "end": 92.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 92.0,
+        "end": 94.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 72.5,
+        "end": 74.25,
+        "layout": "crop",
+        "crop_x": 0.7
+      },
+      {
+        "start": 74.3,
+        "end": 76.7,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 77.4,
+        "end": 79.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 80.0,
+        "end": 82.1,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

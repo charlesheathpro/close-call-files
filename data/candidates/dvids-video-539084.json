@@ -1,0 +1,64 @@
+{
+  "asset_id": "video:539084",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor web search",
+  "title": "Navy Railgun Successfully Fires Multi-Shot Salvos",
+  "description": "The Office of Naval Research (ONR) demonstrates the Navy's electromagnetic railgun initial rep-rate fires of multi-shot salvos at the Naval Surface Warfare Center Dahlgren Division. The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles – and at speeds that exceed Mach 6.",
+  "date": "07.04.2017",
+  "credit": "John Williams",
+  "location_text": "US",
+  "page_url": "https://www.dvidshub.net/video/539084/navy-railgun-successfully-fires-multi-shot-salvos",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-539084",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T09:09:31Z",
+  "duration": 93.74,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104620199/DOD_104620199.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    42.08,
+    43.38,
+    44.88,
+    46.31,
+    47.65,
+    48.88,
+    65.1
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      93.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-539084.jpg",
+  "sheet_times": [
+    2.91,
+    8.74,
+    14.57,
+    20.4,
+    26.22,
+    32.05,
+    37.88,
+    43.71,
+    49.53,
+    55.36,
+    61.19,
+    67.01,
+    72.84,
+    78.67,
+    84.5,
+    90.32
+  ],
+  "pass_reason": "Same railgun program as ccf-20261119-13 (used as its cited source); drone wide shots and graphics"
+}
