@@ -1,0 +1,92 @@
+{
+  "asset_id": "nasa:2026-11-26 - RS-25 Engine Test - Full Duration",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "engine test fire",
+  "title": "2026-11-18 - RS-25 Engine Test - Full Duration",
+  "description": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Nov. 18, 2026, on the Fred Haise Test Stand. The hot fire test lasted for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime engine contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability. Prior to use, all RS-25 engines are proven flightworthy at NASA Stennis. For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.",
+  "keywords": "RS-25, propulsion test, Space Launch System, SLS, Artemis, Stennis Space Center, engine test, Stennis",
+  "date": "2026-11-18T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA SSC",
+  "credit": "NASA SSC video",
+  "page_url": "https://images.nasa.gov/details/2026-11-26%20-%20RS-25%20Engine%20Test%20-%20Full%20Duration",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-2026-11-26-RS-25-Engine-Test-Full-Duration",
+  "status": "new",
+  "harvested_at": "2026-11-19T18:59:31Z",
+  "duration": 228.33,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/2026-11-26%20-%20RS-25%20Engine%20Test%20-%20Full%20Duration/2026-11-26%20-%20RS-25%20Engine%20Test%20-%20Full%20Duration~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 228.328104
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 10.01,
+      "e": 217.33,
+      "text": "(engine rumbling)"
+    },
+    {
+      "s": 217.33,
+      "e": 228.33,
+      "text": "(engine shutdown)"
+    }
+  ],
+  "scene_cuts": [
+    12.77,
+    33.43,
+    44.27,
+    65.33,
+    76.87,
+    103.3,
+    111.33,
+    120.47,
+    128.4,
+    143.1,
+    152.47,
+    158.23,
+    164.43,
+    175.83,
+    181.93,
+    193.4,
+    202.07,
+    210.17,
+    214.3
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      217.5
+    ],
+    "silence_ends": [
+      11.0,
+      228.3
+    ]
+  },
+  "sheet": "data/candidates/nasa-2026-11-26-RS-25-Engine-Test-Full-Duration.jpg",
+  "sheet_times": [
+    7.12,
+    21.36,
+    35.6,
+    49.84,
+    64.08,
+    78.32,
+    92.56,
+    106.8,
+    121.04,
+    135.28,
+    149.52,
+    163.76,
+    177.99,
+    192.23,
+    206.47,
+    220.71
+  ]
+}
