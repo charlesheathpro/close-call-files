@@ -1,7 +1,745 @@
 {
   "short_id": "ccf-20261119-11",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-19T09:02:27Z",
-  "error": "line 6: shots are 4.1, 1.8s even after extending, but the line needs 4.5s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-19T09:39:32Z",
+  "duration": 44.97,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "These airmen stepped off the back of a C-17, twenty thousand feet above the ground.",
+      "start": 0.05,
+      "end": 5.65,
+      "words": [
+        {
+          "w": "These",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "airmen",
+          "s": 0.37,
+          "e": 0.77
+        },
+        {
+          "w": "stepped",
+          "s": 0.85,
+          "e": 1.09
+        },
+        {
+          "w": "off",
+          "s": 1.17,
+          "e": 1.25
+        },
+        {
+          "w": "the",
+          "s": 1.33,
+          "e": 1.41
+        },
+        {
+          "w": "back",
+          "s": 1.53,
+          "e": 1.65
+        },
+        {
+          "w": "of",
+          "s": 1.69,
+          "e": 1.77
+        },
+        {
+          "w": "a",
+          "s": 1.81,
+          "e": 1.89
+        },
+        {
+          "w": "C-17,",
+          "s": 1.97,
+          "e": 3.25
+        },
+        {
+          "w": "twenty",
+          "s": 3.41,
+          "e": 3.57
+        },
+        {
+          "w": "thousand",
+          "s": 3.73,
+          "e": 4.05
+        },
+        {
+          "w": "feet",
+          "s": 4.21,
+          "e": 4.37
+        },
+        {
+          "w": "above",
+          "s": 4.49,
+          "e": 4.61
+        },
+        {
+          "w": "the",
+          "s": 4.65,
+          "e": 4.73
+        },
+        {
+          "w": "ground.",
+          "s": 4.89,
+          "e": 5.65
+        }
+      ]
+    },
+    {
+      "text": "They're from the 19th Aerospace Medicine Squadron, and this is a HALO jump.",
+      "start": 5.69,
+      "end": 10.37,
+      "words": [
+        {
+          "w": "They're",
+          "s": 5.69,
+          "e": 5.81
+        },
+        {
+          "w": "from",
+          "s": 5.89,
+          "e": 5.97
+        },
+        {
+          "w": "the",
+          "s": 6.05,
+          "e": 6.13
+        },
+        {
+          "w": "19th",
+          "s": 6.21,
+          "e": 6.77
+        },
+        {
+          "w": "Aerospace",
+          "s": 6.81,
+          "e": 7.33
+        },
+        {
+          "w": "Medicine",
+          "s": 7.49,
+          "e": 7.81
+        },
+        {
+          "w": "Squadron,",
+          "s": 7.89,
+          "e": 8.69
+        },
+        {
+          "w": "and",
+          "s": 8.81,
+          "e": 8.93
+        },
+        {
+          "w": "this",
+          "s": 9.01,
+          "e": 9.33
+        },
+        {
+          "w": "is",
+          "s": 9.49,
+          "e": 9.57
+        },
+        {
+          "w": "a",
+          "s": 9.65,
+          "e": 9.73
+        },
+        {
+          "w": "HALO",
+          "s": 9.73,
+          "e": 9.97
+        },
+        {
+          "w": "jump.",
+          "s": 10.05,
+          "e": 10.37
+        }
+      ]
+    },
+    {
+      "text": "HALO means high altitude, low opening. Jump very high, fall most of the way, and open the parachute late.",
+      "start": 10.93,
+      "end": 18.05,
+      "words": [
+        {
+          "w": "HALO",
+          "s": 10.93,
+          "e": 11.25
+        },
+        {
+          "w": "means",
+          "s": 11.33,
+          "e": 11.57
+        },
+        {
+          "w": "high",
+          "s": 11.65,
+          "e": 11.81
+        },
+        {
+          "w": "altitude,",
+          "s": 11.89,
+          "e": 12.69
+        },
+        {
+          "w": "low",
+          "s": 12.77,
+          "e": 12.93
+        },
+        {
+          "w": "opening.",
+          "s": 13.01,
+          "e": 13.41
+        },
+        {
+          "w": "Jump",
+          "s": 13.89,
+          "e": 14.13
+        },
+        {
+          "w": "very",
+          "s": 14.21,
+          "e": 14.45
+        },
+        {
+          "w": "high,",
+          "s": 14.53,
+          "e": 15.17
+        },
+        {
+          "w": "fall",
+          "s": 15.25,
+          "e": 15.49
+        },
+        {
+          "w": "most",
+          "s": 15.57,
+          "e": 15.73
+        },
+        {
+          "w": "of",
+          "s": 15.81,
+          "e": 15.89
+        },
+        {
+          "w": "the",
+          "s": 15.89,
+          "e": 15.97
+        },
+        {
+          "w": "way,",
+          "s": 15.97,
+          "e": 16.61
+        },
+        {
+          "w": "and",
+          "s": 16.69,
+          "e": 16.77
+        },
+        {
+          "w": "open",
+          "s": 16.85,
+          "e": 17.01
+        },
+        {
+          "w": "the",
+          "s": 17.09,
+          "e": 17.17
+        },
+        {
+          "w": "parachute",
+          "s": 17.17,
+          "e": 17.65
+        },
+        {
+          "w": "late.",
+          "s": 17.73,
+          "e": 18.05
+        }
+      ]
+    },
+    {
+      "text": "Up there the air is too thin to breathe for long, so every jumper wears an oxygen mask.",
+      "start": 18.61,
+      "end": 23.77,
+      "words": [
+        {
+          "w": "Up",
+          "s": 18.61,
+          "e": 18.85
+        },
+        {
+          "w": "there",
+          "s": 18.97,
+          "e": 19.09
+        },
+        {
+          "w": "the",
+          "s": 19.17,
+          "e": 19.25
+        },
+        {
+          "w": "air",
+          "s": 19.33,
+          "e": 19.41
+        },
+        {
+          "w": "is",
+          "s": 19.53,
+          "e": 19.65
+        },
+        {
+          "w": "too",
+          "s": 19.73,
+          "e": 19.81
+        },
+        {
+          "w": "thin",
+          "s": 19.89,
+          "e": 20.05
+        },
+        {
+          "w": "to",
+          "s": 20.13,
+          "e": 20.21
+        },
+        {
+          "w": "breathe",
+          "s": 20.263,
+          "e": 20.45
+        },
+        {
+          "w": "for",
+          "s": 20.49,
+          "e": 20.57
+        },
+        {
+          "w": "long,",
+          "s": 20.61,
+          "e": 21.25
+        },
+        {
+          "w": "so",
+          "s": 21.33,
+          "e": 21.49
+        },
+        {
+          "w": "every",
+          "s": 21.57,
+          "e": 21.81
+        },
+        {
+          "w": "jumper",
+          "s": 21.89,
+          "e": 22.21
+        },
+        {
+          "w": "wears",
+          "s": 22.25,
+          "e": 22.45
+        },
+        {
+          "w": "an",
+          "s": 22.53,
+          "e": 22.61
+        },
+        {
+          "w": "oxygen",
+          "s": 22.65,
+          "e": 23.01
+        },
+        {
+          "w": "mask.",
+          "s": 23.09,
+          "e": 23.77
+        }
+      ]
+    },
+    {
+      "text": "Then the door opens, and one by one, they step out into the sky.",
+      "start": 24.05,
+      "end": 28.33,
+      "words": [
+        {
+          "w": "Then",
+          "s": 24.05,
+          "e": 24.21
+        },
+        {
+          "w": "the",
+          "s": 24.29,
+          "e": 24.37
+        },
+        {
+          "w": "door",
+          "s": 24.37,
+          "e": 24.53
+        },
+        {
+          "w": "opens,",
+          "s": 24.61,
+          "e": 25.25
+        },
+        {
+          "w": "and",
+          "s": 25.33,
+          "e": 25.41
+        },
+        {
+          "w": "one",
+          "s": 25.57,
+          "e": 25.65
+        },
+        {
+          "w": "by",
+          "s": 25.73,
+          "e": 25.97
+        },
+        {
+          "w": "one,",
+          "s": 26.05,
+          "e": 26.53
+        },
+        {
+          "w": "they",
+          "s": 26.61,
+          "e": 26.69
+        },
+        {
+          "w": "step",
+          "s": 26.85,
+          "e": 27.09
+        },
+        {
+          "w": "out",
+          "s": 27.17,
+          "e": 27.25
+        },
+        {
+          "w": "into",
+          "s": 27.33,
+          "e": 27.49
+        },
+        {
+          "w": "the",
+          "s": 27.57,
+          "e": 27.65
+        },
+        {
+          "w": "sky.",
+          "s": 27.65,
+          "e": 28.33
+        }
+      ]
+    },
+    {
+      "text": "They fall face down, arms and legs spread, to stay stable.",
+      "start": 28.61,
+      "end": 32.53,
+      "words": [
+        {
+          "w": "They",
+          "s": 28.61,
+          "e": 28.77
+        },
+        {
+          "w": "fall",
+          "s": 28.85,
+          "e": 29.01
+        },
+        {
+          "w": "face",
+          "s": 29.17,
+          "e": 29.41
+        },
+        {
+          "w": "down,",
+          "s": 29.49,
+          "e": 30.13
+        },
+        {
+          "w": "arms",
+          "s": 30.33,
+          "e": 30.53
+        },
+        {
+          "w": "and",
+          "s": 30.57,
+          "e": 30.65
+        },
+        {
+          "w": "legs",
+          "s": 30.69,
+          "e": 30.93
+        },
+        {
+          "w": "spread,",
+          "s": 31.17,
+          "e": 31.57
+        },
+        {
+          "w": "to",
+          "s": 31.65,
+          "e": 31.73
+        },
+        {
+          "w": "stay",
+          "s": 31.81,
+          "e": 31.97
+        },
+        {
+          "w": "stable.",
+          "s": 32.05,
+          "e": 32.53
+        }
+      ]
+    },
+    {
+      "text": "The farms and runways below grow bigger every second.",
+      "start": 33.09,
+      "end": 36.29,
+      "words": [
+        {
+          "w": "The",
+          "s": 33.09,
+          "e": 33.17
+        },
+        {
+          "w": "farms",
+          "s": 33.25,
+          "e": 33.65
+        },
+        {
+          "w": "and",
+          "s": 33.69,
+          "e": 33.77
+        },
+        {
+          "w": "runways",
+          "s": 33.81,
+          "e": 34.29
+        },
+        {
+          "w": "below",
+          "s": 34.49,
+          "e": 34.69
+        },
+        {
+          "w": "grow",
+          "s": 34.77,
+          "e": 34.93
+        },
+        {
+          "w": "bigger",
+          "s": 35.09,
+          "e": 35.33
+        },
+        {
+          "w": "every",
+          "s": 35.49,
+          "e": 35.73
+        },
+        {
+          "w": "second.",
+          "s": 35.81,
+          "e": 36.29
+        }
+      ]
+    },
+    {
+      "text": "Only much lower does the parachute finally open.",
+      "start": 36.85,
+      "end": 39.41,
+      "words": [
+        {
+          "w": "Only",
+          "s": 36.85,
+          "e": 37.17
+        },
+        {
+          "w": "much",
+          "s": 37.25,
+          "e": 37.41
+        },
+        {
+          "w": "lower",
+          "s": 37.57,
+          "e": 37.81
+        },
+        {
+          "w": "does",
+          "s": 37.89,
+          "e": 37.97
+        },
+        {
+          "w": "the",
+          "s": 38.05,
+          "e": 38.13
+        },
+        {
+          "w": "parachute",
+          "s": 38.13,
+          "e": 38.61
+        },
+        {
+          "w": "finally",
+          "s": 38.69,
+          "e": 39.01
+        },
+        {
+          "w": "open.",
+          "s": 39.17,
+          "e": 39.41
+        }
+      ]
+    },
+    {
+      "text": "The canopy opened, and the jumper rode it all the way down to a landing in the grass.",
+      "start": 40.05,
+      "end": 44.77,
+      "words": [
+        {
+          "w": "The",
+          "s": 40.05,
+          "e": 40.21
+        },
+        {
+          "w": "canopy",
+          "s": 40.29,
+          "e": 40.69
+        },
+        {
+          "w": "opened,",
+          "s": 40.77,
+          "e": 41.33
+        },
+        {
+          "w": "and",
+          "s": 41.37,
+          "e": 41.45
+        },
+        {
+          "w": "the",
+          "s": 41.49,
+          "e": 41.57
+        },
+        {
+          "w": "jumper",
+          "s": 41.65,
+          "e": 41.97
+        },
+        {
+          "w": "rode",
+          "s": 42.01,
+          "e": 42.13
+        },
+        {
+          "w": "it",
+          "s": 42.21,
+          "e": 42.37
+        },
+        {
+          "w": "all",
+          "s": 42.45,
+          "e": 42.61
+        },
+        {
+          "w": "the",
+          "s": 42.69,
+          "e": 42.77
+        },
+        {
+          "w": "way",
+          "s": 42.77,
+          "e": 42.85
+        },
+        {
+          "w": "down",
+          "s": 42.93,
+          "e": 43.17
+        },
+        {
+          "w": "to",
+          "s": 43.25,
+          "e": 43.33
+        },
+        {
+          "w": "a",
+          "s": 43.41,
+          "e": 43.49
+        },
+        {
+          "w": "landing",
+          "s": 43.49,
+          "e": 43.81
+        },
+        {
+          "w": "in",
+          "s": 43.85,
+          "e": 43.93
+        },
+        {
+          "w": "the",
+          "s": 43.93,
+          "e": 44.01
+        },
+        {
+          "w": "grass.",
+          "s": 44.01,
+          "e": 44.77
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 45.0
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.03
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.23
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.2
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261119-11/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261119-11-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261119-11/ccf-20261119-11.mp4"
 }
