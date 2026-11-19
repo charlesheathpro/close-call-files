@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:1013423",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual",
+  "title": "U.S. joint forces and allies conduct SINKEX in support of VALIANT SHIELD 2026",
+  "description": "U.S. joint forces and allies conduct a live-fire sinking exercise (SINKEX) in support of VALIANT SHIELD 2026 while underway in the Philippine Sea, June 27, 2026. Air, surface and subsurface assets conducted coordinated strikes, allowing crews to sharpen critical skills in weapons employment and target engagement under realistic conditions that no simulator can fully replicate. (U.S. Navy video by Chief Mass Communication Specialist Ramon Go)",
+  "keywords": "",
+  "date": "07.02.2026",
+  "branch": "",
+  "unit_name": "Ramon Go",
+  "credit": "U.S. Navy video by Chief Mass Communication Specialist Ramon Go",
+  "category": "Video Productions",
+  "location": {
+    "city": "United States",
+    "raw": "UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/1013423/us-joint-forces-and-allies-conduct-sinkex-support-valiant-shield-2026",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1013423",
+  "status": "used",
+  "harvested_at": "2026-11-19T01:22:29Z",
+  "duration": 93.7,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111817859/DOD_111817859.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.07,
+    9.27,
+    27.3,
+    33.47,
+    35.6,
+    38.8,
+    56.33,
+    58.8,
+    61.2,
+    70.9,
+    77.53,
+    80.5,
+    83.5,
+    87.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      89.6
+    ],
+    "silence_ends": [
+      93.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1013423.jpg",
+  "sheet_times": [
+    2.91,
+    8.74,
+    14.56,
+    20.39,
+    26.21,
+    32.04,
+    37.86,
+    43.69,
+    49.51,
+    55.34,
+    61.16,
+    66.99,
+    72.81,
+    78.64,
+    84.46,
+    90.29
+  ],
+  "used_by": "ccf-20261118-10"
+}

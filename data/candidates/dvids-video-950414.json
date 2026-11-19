@@ -20,7 +20,7 @@
   "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
   "id": "dvids-video-950414",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T01:14:42Z",
   "duration": 60.19,
   "source_file": {
@@ -61,5 +61,6 @@
     50.37,
     54.1,
     57.83
-  ]
+  ],
+  "pass_reason": "black and white FLIR at 480p with blurred overlays; no sinking visible"
 }
