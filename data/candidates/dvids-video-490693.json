@@ -26,7 +26,7 @@
   "time_start": 4.19217,
   "aspect_ratio": "16:9",
   "id": "dvids-video-490693",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:34Z",
   "duration": 87.26,
   "source_file": {
@@ -271,5 +271,6 @@
     73.86,
     79.02,
     84.18
-  ]
+  ],
+  "pass_reason": "interview package, rescue not on screen"
 }
