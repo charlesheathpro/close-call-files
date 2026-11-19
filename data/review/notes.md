@@ -1,25 +1,26 @@
-# Editor notes (review of Nov 18, 2026 UTC)
+# Editor notes (review of Nov 19, 2026 UTC)
 
 ## Where we are
-206 subscribers (up 14 since last review), 434,917 channel views (up 32,527), 175 Shorts uploaded, no rejections, every published one public. Next 24 hours: 10 of 10 booked. Passed buffer 66 (aviation and naval 30, rescue 25, hazards 11), nothing waiting to build or QA. Supply fine: 2,535 unused clips. DVIDS still blocks the harvester; NASA and Commons carry it.
+232 subscribers (up 26, best day yet), 454,722 channel views (up 19,805), 185 Shorts uploaded, no rejections, every published one public. Next 24 hours: 10 of 10 booked. Passed buffer 69 (aviation and naval 36, rescue 21, hazards 12). Supply fine: 2,433 unused clips.
 
 ## Today's job
-Buffer is 66, over six days of slots. Write specs only if they clear the viral bar. The buffer leans aviation and naval, and rescue is the stronger lane, so favor rescue clips today.
+Buffer is 69, almost a week of slots. Only specs that clear the viral bar. The buffer leans aviation and naval while rescue earns most views: write rescue first, other lanes only if exceptional.
 
-## Numbers (134 Shorts with analytics)
-- Rescue: 110, median 1,348 views, 65% watched, 179 subs. Aviation and naval: 20, median 1,080, 66%, 26 subs. Hazards: 4, median 305, 61%, 1 sub.
-- Top: 17-year-old adrift (49,826, 70%); flipped hull, 3 men on top (47,419, 82%); sailboat on a rock wall (40,362, 70%).
-- Last 10 median watched: 68.8, up from 61.9. Best: flipped 35 miles off North Carolina 93%; burning fishing boat, two men in a raft 80%.
-- Early movers (under 48 hours): jump out of a plane into a lake 15,254 views; boat aground in surf at nightfall 7,930.
-- Bottom: dog hoist from catamaran 11 views, clinging to a flipped boat 32, hurricane sailboat 52.
+## Numbers (144 Shorts with analytics)
+- Last 9 days: rescue 30 Shorts, median 1,362 views, 67% watched, 19 subs. Aviation and naval 9, median 1,005, 74%, 12 subs. Hazards 1, 156 views, 43%.
+- Top: plane jump into a lake 16,146 (79%, 8 subs); aground in surf at nightfall 8,069 (81%); four on an upside down boat 7,226 (84%, 5 subs).
+- Last 10 median watched: 75.1 (was 68.8).
+- Early movers: parachuting to a sick sailor 8,146; wake threw him from his boat 3,127.
+- Bottom: tornado cam 156; Florence roundup 128; crab boat raft at night 88; Saturn V tower 56.
 
 ## Do more
-- People plainly on screen on a flipped, sinking or burning boat; count and distance offshore in the first line.
-- Bold human action on camera: a jump, a swimmer going in, a wade through breakers.
-- Hooks with a twist in line two ("On purpose.").
+- People plainly on screen on a flipped, sinking or grounded boat; count and distance offshore in line one.
+- Bold human action: a jump, a parachute drop, a swimmer going in.
+- Hooks with a twist in line two.
 
 ## Do less
-- Hurricane and storm footage, historic tests, calm routine hoists and landings.
+- Storm and hurricane roundups, tornado cams, historic test stands, calm routine hoists.
+- Night footage where the people are hard to see.
 - Repeating a hook number, air station or angle within 3 days.
 
 ## Lane mix
