@@ -1,9 +1,9 @@
-# Playbook (computed 2026-11-19T04:27:56Z from 154 Shorts older than 48 hours)
+# Playbook (computed 2026-11-19T11:23:27Z from 154 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
 - story: runaway boat with no one aboard (+0.41, 1 Shorts)
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
 - story: launch abort test (+0.4, 1 Shorts)
@@ -23,8 +23,8 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
 
 ## Best Shorts
-- Flipped hull 11 miles out, 3 men on top: 47544 views, 81% watched
-- 17-year-old adrift at night, no paddle: 49964 views, 70% watched
+- Flipped hull 11 miles out, 3 men on top: 47501 views, 81% watched
+- 17-year-old adrift at night, no paddle: 49978 views, 70% watched
 - Runaway boat circling with no one aboard: 9637 views, 97% watched
 - Capsule torn off a rocket at Mach 1: 5189 views, 97% watched
 - Orion splashes down after the Moon: 9453 views, 95% watched
@@ -32,12 +32,11 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 128 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 32 views, 64% watched
-- Crab boat sank at night off Washington: 88 views, 44% watched
+- Crab boat sank at night off Washington: 90 views, 44% watched
 - Saturn V test tower comes down: 56 views, 49% watched
 - Dog hoisted from a sinking catamaran: 12 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261116-04: Clean airshow formation B-roll but no danger, no turn and no stakes; the outcome is just flying back to base. Below the viral bar and in the review's do-less routine bucket.
 - ccf-20261116-05: Low-resolution, purple-tinted ISS TV feed with a dark, near-empty opening frame and a repeated shot at 32 to 34 s; nothing visibly goes wrong. Interchangeable with today's sharper HD spacewalk (02).
 - ccf-20261116-07: Every shot is the same white cloud mass from orbit, with no visible turn and no landfall footage; hurricane content is in the review's do-less list and the hazards lane is the weakest.
 - ccf-20261116-09: Clean high-speed liftoff but no danger, no turn, and the capsule is cropped out of most frames; it is interchangeable with the many launch Shorts already queued (shuttle, Artemis, Columbia) and 08 tells a stronger launch story.
@@ -52,3 +51,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
 - ccf-20261118-01: Strong fireball opening, but the crop turns the trainer car into a black slab, the clip is a low-stakes demo with a crowd in the stands, and the source never shows the fire put out, so the last line ends on a cliffhanger. Dropped.
 - ccf-20261118-07: Clean build and accurate facts, but the footage is a calm test ride: long stretches of a cable over grass and a stationary basket interior, with no danger or human hook on screen. Too close to today's run of NASA Shorts (Starliner, Soyuz, Crew-9, DART, Orion). Dropped.
+- ccf-20261119-07: Only one launch in the source; lines 2 and 3 play over people standing beside the sled and a man signaling, and the sled in flight is a tiny dot. Routine test with no danger, and a second USS Gerald R. Ford Short in the same batch as -06. Dropped.
+
+## Changed tonight
+- query weights for 61 searches
