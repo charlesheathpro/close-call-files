@@ -1,0 +1,150 @@
+{
+  "asset_id": "video:455733",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard rescues three men from Columbia River South Jetty, Ore.",
+  "description": "An MH-60 Jayhawk helicopter crew from Coast Guard Air Station Astoria in Warrenton, Oregon, hoists three men from the Columbia River South Jetty, March 24, 2016.",
+  "keywords": "",
+  "date": "03.24.2016",
+  "date_published": "03.24.2016",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Northwest",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160324-G-ZZ999-003",
+  "location": {
+    "city": "WARRENTON, OREGON, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/455733/coast-guard-rescues-three-men-columbia-river-south-jetty-ore",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-455733",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T05:14:31Z",
+  "duration": 62.31,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1603/DOD_103158522/DOD_103158522.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 16.5,
+      "e": 17.5,
+      "text": "Hold."
+    },
+    {
+      "s": 17.5,
+      "e": 18.5,
+      "text": "Care to take load."
+    },
+    {
+      "s": 18.5,
+      "e": 22.32,
+      "text": "First driver clear the unity."
+    },
+    {
+      "s": 22.32,
+      "e": 24.32,
+      "text": "Move back to the next 40."
+    },
+    {
+      "s": 24.32,
+      "e": 26.32,
+      "text": "The target's going to be coming out at your 2 o'clock."
+    },
+    {
+      "s": 26.32,
+      "e": 31.14,
+      "text": "First driver coming out."
+    },
+    {
+      "s": 31.14,
+      "e": 36.52,
+      "text": "20 second."
+    },
+    {
+      "s": 36.52,
+      "e": 43.02,
+      "text": "Back to the door."
+    },
+    {
+      "s": 43.02,
+      "e": 48.06,
+      "text": "And first, that's really flipped right."
+    },
+    {
+      "s": 48.06,
+      "e": 50.06,
+      "text": "I'm going to have to put it a little bit closer."
+    },
+    {
+      "s": 50.06,
+      "e": 51.06,
+      "text": "Sorry, I said the camera door."
+    },
+    {
+      "s": 51.06,
+      "e": 58.99,
+      "text": "And I'm ready for best check this particular complete."
+    }
+  ],
+  "scene_cuts": [
+    4.34,
+    53.55,
+    60.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      17.0,
+      27.5,
+      34.0,
+      44.3,
+      45.9,
+      54.8,
+      56.8,
+      59.2
+    ],
+    "silence_ends": [
+      14.5,
+      17.8,
+      28.3,
+      35.1,
+      45.0,
+      46.8,
+      55.8,
+      57.4,
+      62.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-455733.jpg",
+  "sheet_times": [
+    1.93,
+    5.8,
+    9.66,
+    13.52,
+    17.39,
+    21.25,
+    25.11,
+    28.98,
+    32.84,
+    36.7,
+    40.57,
+    44.43,
+    48.29,
+    52.16,
+    56.02,
+    59.88
+  ],
+  "pass_reason": "grayscale FLIR with HUD for the whole clip"
+}

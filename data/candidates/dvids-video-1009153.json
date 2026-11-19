@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:1009153",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "USS Rhode Island Successfully Tests Trident II D5 Missile",
+  "description": "ATLANTIC OCEAN (May 9, 2019) An unarmed Trident II D5LE missile launches from the Ohio-class ballistic missile submarine USS Rhode Island (SSBN 740) off the coast of Cape Canaveral, Florida, during Demonstration and Shakedown Operation (DASO) 29. This launch was part of the U.S. Navy Strategic Systems Program’s DASO certification process. The primary objective of DASO is to evaluate and demonstrate the readiness of the SSBN’s Strategic Weapon System (SWS) and crew before operational deployment following the submarine’s engineered refueling overhaul. (U.S. Navy video /Released)",
+  "keywords": "",
+  "date": "05.09.2019",
+  "date_published": "05.09.2019",
+  "branch": "",
+  "unit_name": "PAE Strategic Systems Programs",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "190509-D-N1701-7691",
+  "location": {
+    "city": "US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/1009153/uss-rhode-island-successfully-tests-trident-ii-d5-missile",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1009153",
+  "status": "used",
+  "harvested_at": "2026-11-19T05:31:33Z",
+  "duration": 69.3,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111745950/DOD_111745950.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.18,
+    17.33,
+    34.55
+  ],
+  "drama_score": 54,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      66.5
+    ],
+    "silence_ends": [
+      5.7,
+      69.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1009153.jpg",
+  "sheet_times": [
+    2.15,
+    6.45,
+    10.75,
+    15.05,
+    19.35,
+    23.65,
+    27.95,
+    32.25,
+    36.55,
+    40.85,
+    45.15,
+    49.45,
+    53.75,
+    58.05,
+    62.35,
+    66.65
+  ],
+  "used_by": "ccf-20261119-04"
+}

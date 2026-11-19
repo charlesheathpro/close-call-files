@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:834520",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "USS Pasadena (SSN 752) Breaks Through Arctic Ice at Ice Exercise (ICEX) 2022",
+  "description": "The Los Angeles-class attack submarine USS Pasadena (SSN 752) breaks through arctic ice during Ice Exercise (ICEX) 2022. ICEX 2022 is a three-week exercise that allows the Navy to assess its operational readiness in the Arctic, increase experience in the region, advance understanding of the Arctic environment, and continue to develop relationships with other services, allies, and partner organizations.",
+  "keywords": "",
+  "date": "03.12.2022",
+  "date_published": "03.12.2022",
+  "branch": "",
+  "unit_name": "Commander, Submarine Force Atlantic",
+  "credit": "Petty Officer 1st Class Cameron Stoner",
+  "category": "B-Roll",
+  "virin": "220312-N-UB406-3001",
+  "location": {
+    "city": "BEAUFORT SEA",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/834520/uss-pasadena-ssn-752-breaks-through-arctic-ice-ice-exercise-icex-2022",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-834520",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T05:14:56Z",
+  "duration": 120.15,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108857159/DOD_108857159.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.97,
+    120.12
+  ],
+  "drama_score": 33,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-834520.jpg",
+  "sheet_times": [
+    3.74,
+    11.22,
+    18.7,
+    26.17,
+    33.65,
+    41.13,
+    48.61,
+    56.09,
+    63.57,
+    71.04,
+    78.52,
+    86.0,
+    93.48,
+    100.96,
+    108.44,
+    115.91
+  ],
+  "pass_reason": "wide single angle; the sub becomes an abstract slab in a vertical crop and a tiny strip in fit"
+}

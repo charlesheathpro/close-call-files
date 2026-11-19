@@ -1,0 +1,79 @@
+{
+  "asset_id": "video:1009260",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "Trident II D5 Flight Test Compilation Video",
+  "description": "These launches were part of the U.S. Navy PAE Strategic Systems Program’s DASO certification process. The primary objective of DASO is to evaluate and demonstrate the readiness of the SSBN’s Strategic Weapon System (SWS) and crew before operational deployment following the submarine’s engineered refueling overhaul.",
+  "keywords": "",
+  "date": "08.31.2016",
+  "date_published": "08.31.2016",
+  "branch": "",
+  "unit_name": "PAE Strategic Systems Programs",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": "160831-D-N1701-9347",
+  "location": {
+    "city": "US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/1009260/trident-ii-d5-flight-test-compilation-video",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1009260",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T05:34:48Z",
+  "duration": 146.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111747415/DOD_111747415.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 72,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      45.3,
+      74.0,
+      115.7,
+      135.8,
+      140.8
+    ],
+    "silence_ends": [
+      15.1,
+      53.4,
+      78.3,
+      119.4,
+      140.8,
+      146.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1009260.jpg",
+  "sheet_times": [
+    4.55,
+    13.66,
+    22.77,
+    31.87,
+    40.98,
+    50.08,
+    59.19,
+    68.3,
+    77.4,
+    86.51,
+    95.62,
+    104.72,
+    113.83,
+    122.93,
+    132.04,
+    141.15
+  ],
+  "pass_reason": "640x480 compilation; used the HD Rhode Island launch instead"
+}

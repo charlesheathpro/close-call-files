@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:969660",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor manual",
+  "title": "Coast Guard stands ready to assist State of Texas",
+  "description": "Two U.S. Coast Guard Air Station Houston MH-65 Dolphin helicopter aircrews swap out during a crew transfer in Kerrville, Texas, July 10, 2025,  to maintain continuous asset presence. The U.S. Coast Guard is providing every available resource to assist our local partners and the State of Texas in responding to the flooding near Kerrville, Texas. (U.S. Coast Guard video by Petty Officer 2nd Class Brandon Hillard)",
+  "keywords": "",
+  "date": "07.10.2025",
+  "date_published": "07.10.2025",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Petty Officer 2nd Class Brandon Hillard",
+  "category": "B-Roll",
+  "virin": "250710-G-PJ308-3065",
+  "location": {
+    "city": "KERRVILLE, TEXAS, US",
+    "state": "",
+    "country": "",
+    "state_abbreviation": null,
+    "country_abbreviation": null
+  },
+  "page_url": "https://www.dvidshub.net/video/969660/coast-guard-stands-ready-assist-state-texas",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-969660",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T05:28:15Z",
+  "duration": 73.41,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111141582/DOD_111141582.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.5,
+    47.61,
+    52.59,
+    69.14
+  ],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-969660.jpg",
+  "sheet_times": [
+    2.28,
+    6.84,
+    11.39,
+    15.95,
+    20.51,
+    25.06,
+    29.62,
+    34.18,
+    38.73,
+    43.29,
+    47.85,
+    52.4,
+    56.96,
+    61.52,
+    66.07,
+    70.63
+  ],
+  "pass_reason": "crew swap b-roll, no rescue"
+}
