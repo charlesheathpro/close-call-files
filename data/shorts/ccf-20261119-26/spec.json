@@ -114,5 +114,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "high speed camera footage is a featureless white smear with burned-in timestamps for most of the Short, and the ending does not resolve on screen (QA Nov 19)"
 }
