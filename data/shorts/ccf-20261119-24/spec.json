@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-24",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-1008479",
   "lane": "aviation_naval",
   "story_type": "unarmed ICBM test launch at night, tracking camera close-ups",
@@ -8,13 +8,12 @@
   "priority": 5,
   "hook": "An unarmed nuclear missile, fired across the Pacific on purpose.",
   "narration": [
-    "This unarmed nuclear missile was picked at random from a base in Montana and fired across the Pacific.",
+    "This unarmed nuclear missile was picked at random and fired across the Pacific.",
     "On May twentieth, it blasted out of a silo at Vandenberg, California.",
     "Minuteman Three burns solid fuel, so it can wait in a silo for years, ready to launch on short notice.",
-    "Tracking cameras followed it up through the night, carrying a single Mark twelve A test reentry vehicle.",
-    "[short pause] The design is fifty five years old, and a new missile called Sentinel will replace it."
+    "It carried one test reentry vehicle."
   ],
-  "outcome": "It flew about forty two hundred miles at more than fifteen thousand miles per hour to a test range in the Marshall Islands.",
+  "outcome": "It flew about forty two hundred miles to a test range in the Marshall Islands.",
   "location_card": {
     "place": "Vandenberg Space Force Base, California",
     "date": "May 20, 2026"
@@ -47,10 +46,6 @@
     {
       "claim": "Randomly selected",
       "source_quote": "The test launch used a randomly selected intercontinental ballistic missile pulled from"
-    },
-    {
-      "claim": "55 years old, to be replaced by Sentinel",
-      "source_quote": "and Wyoming and will be replaced by the LGM-35A Sentinel"
     }
   ],
   "line_shots": [
@@ -76,22 +71,8 @@
         "crop_x": 0.5
       },
       {
-        "start": 12.2,
-        "end": 14.2,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
-        "start": 51.5,
-        "end": 54.2,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
-        "start": 54.4,
-        "end": 57.2,
+        "start": 38.9,
+        "end": 41.8,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -116,24 +97,18 @@
         "end": 71.8,
         "layout": "fit",
         "crop_x": 0.5
-      },
-      {
-        "start": 57.4,
-        "end": 60.2,
-        "layout": "fit",
-        "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 60.4,
-        "end": 62.6,
+        "start": 28.2,
+        "end": 30.4,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
-        "start": 28.2,
-        "end": 32.4,
+        "start": 30.5,
+        "end": 32.6,
         "layout": "fit",
         "crop_x": 0.5
       }
