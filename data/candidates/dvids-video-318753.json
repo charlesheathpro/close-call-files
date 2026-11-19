@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-318753",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T05:33:14Z",
   "duration": 53.42,
   "source_file": {
@@ -125,5 +125,6 @@
     44.65,
     47.96,
     51.27
-  ]
+  ],
+  "pass_reason": "TV news package with a reporter voiceover; rescue led by Chicago Fire Department, not federal footage"
 }

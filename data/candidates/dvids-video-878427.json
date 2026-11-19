@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-878427",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T05:17:04Z",
   "duration": 188.99,
   "source_file": {
@@ -332,5 +332,6 @@
     159.04,
     170.82,
     182.6
-  ]
+  ],
+  "pass_reason": "Mostly animation and graphics; the intercept itself is not on camera"
 }

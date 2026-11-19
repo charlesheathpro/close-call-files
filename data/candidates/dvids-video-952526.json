@@ -1,0 +1,52 @@
+{
+  "asset_id": "video:952526",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor web search",
+  "title": "Coast Guard rescues three mariners 40 miles offshore from Caillou Bay, Louisiana",
+  "description": "The Coast Guard rescued three people after a fishing vessel capsized 40 miles offshore from Caillou Bay, Louisiana, in the Gulf of America, Thursday.",
+  "date": "02.13.2025",
+  "credit": "Petty Officer 2nd Class Ryan Schultz",
+  "location_text": "US",
+  "page_url": "https://www.dvidshub.net/video/952526/coast-guard-rescues-three-mariners-40-miles-offshore-caillou-bay-louisiana",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-952526",
+  "status": "used",
+  "harvested_at": "2026-11-19T08:43:03Z",
+  "duration": 28.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2502/DOD_110814780/DOD_110814780.mp4",
+    "width": 720,
+    "height": 1280
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-952526.jpg",
+  "sheet_times": [
+    0.89,
+    2.67,
+    4.44,
+    6.22,
+    8.0,
+    9.77,
+    11.55,
+    13.33,
+    15.11,
+    16.88,
+    18.66,
+    20.44,
+    22.21,
+    23.99,
+    25.77,
+    27.54
+  ],
+  "used_by": "ccf-20261119-10"
+}

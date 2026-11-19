@@ -1,0 +1,56 @@
+{
+  "asset_id": "video:1001660",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor web search",
+  "title": "Coast Guard, Puerto Rico Police aircrews rescue 3 federal agents and 2 boaters off Isla de Cabras in Toa Baja, Puerto Rico",
+  "description": "A Coast Guard MH-60T Jayhawk helicopter and a Puerto Rico Police aircrew rescued three CBP marine interdiction agents and two other boaters in the water off 'Isla de Cabras' in Toa Baja, Puerto Rico in the night of March 30, 2026. The rescued CBP agents courageously responded in treacherous 10-foot swells to rescue two boaters from a capsized vessel, when their vessel also capsized throwing the crew into the water. All agents and the two boaters were treated for minor injuries, and there were no other people reported missing. (U.S. Coast Guard video)",
+  "date": "03.30.2026",
+  "credit": "Courtesy",
+  "location_text": "US",
+  "page_url": "https://www.dvidshub.net/video/1001660/coast-guard-puerto-rico-police-aircrews-rescue-3-federal-agents-and-2-boaters-off-isla-de-cabras-toa-baja",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1001660",
+  "status": "used",
+  "harvested_at": "2026-11-19T08:42:39Z",
+  "duration": 73.64,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2604/DOD_111609961/DOD_111609961.mp4",
+    "width": 912,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      73.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1001660.jpg",
+  "sheet_times": [
+    2.29,
+    6.86,
+    11.43,
+    16.0,
+    20.57,
+    25.14,
+    29.71,
+    34.28,
+    38.86,
+    43.43,
+    48.0,
+    52.57,
+    57.14,
+    61.71,
+    66.28,
+    70.85
+  ],
+  "used_by": "ccf-20261119-09"
+}

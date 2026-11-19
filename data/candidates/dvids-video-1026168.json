@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1026168",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T05:13:09Z",
   "duration": 27.6,
   "source_file": {
@@ -71,5 +71,6 @@
     22.87,
     24.56,
     26.25
-  ]
+  ],
+  "pass_reason": "Distant top-down FLIR, the fire is never shown and no verbatim outcome in the release"
 }
