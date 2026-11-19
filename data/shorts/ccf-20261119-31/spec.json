@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-31",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "dvids-video-459596",
   "lane": "aviation_naval",
   "story_type": "magnetically levitated rocket sled sets a speed record",
@@ -120,6 +120,12 @@
     ],
     [
       {
+        "start": 57.0,
+        "end": 59.2,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
         "start": 82.6,
         "end": 85.0,
         "layout": "crop",
@@ -130,12 +136,6 @@
         "end": 34.2,
         "layout": "crop",
         "crop_x": 0.4
-      },
-      {
-        "start": 57.0,
-        "end": 59.8,
-        "layout": "crop",
-        "crop_x": 0.3
       }
     ]
   ]
