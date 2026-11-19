@@ -211,13 +211,19 @@
     ],
     [
       {
-        "start": 25.2,
+        "start": 25.0,
         "end": 27.4,
         "layout": "crop",
         "crop_x": 0.25
       },
       {
-        "start": 38.2,
+        "start": 92.4,
+        "end": 95.0,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 38.05,
         "end": 40.4,
         "layout": "crop",
         "crop_x": 0.55
