@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:965531",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual web search",
+  "title": "Coast Guard conducts overflight of vessel fire offshore Adak, Alaska",
+  "description": "A Coast Guard C-130J Super Hercules aircrew conducts an overflight of cargo ship Morning Midas, June 4, 2025. The Coast Guard is working with Zodiac Maritime, the vessel's manager, to coordinate recovery efforts (U.S. Coast Guard courtesy video)",
+  "keywords": "",
+  "date": "06.04.2025",
+  "date_published": "06.06.2025 00:21",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Arctic",
+  "credit": "U.S. Coast Guard Arctic",
+  "category": "B-Roll",
+  "virin": "250604-G-G0117-1003",
+  "location": {
+    "city": "ALASKA, US"
+  },
+  "page_url": "https://www.dvidshub.net/video/965531/coast-guard-conducts-overflight-vessel-fire-offshore-adak-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-965531",
+  "status": "used",
+  "harvested_at": "2026-11-19T13:00:49Z",
+  "duration": 77.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2506/DOD_111050411/DOD_111050411.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    7.88,
+    8.29,
+    42.12,
+    42.54,
+    58.0,
+    58.42
+  ],
+  "drama_score": 29,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-965531.jpg",
+  "sheet_times": [
+    2.39,
+    7.17,
+    11.95,
+    16.73,
+    21.52,
+    26.3,
+    31.08,
+    35.86,
+    40.64,
+    45.42,
+    50.2,
+    54.98,
+    59.77,
+    64.55,
+    69.33,
+    74.11
+  ],
+  "used_by": "ccf-20261119-17"
+}
