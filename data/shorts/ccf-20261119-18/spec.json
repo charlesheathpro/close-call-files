@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-18",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-930318",
   "lane": "hazards",
   "story_type": "controlled explosion breaches a century-old river dam",
@@ -61,16 +61,16 @@
   "line_shots": [
     [
       {
-        "start": 15.0,
-        "end": 18.4,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
         "start": 3.0,
         "end": 6.2,
         "layout": "crop",
         "crop_x": 0.6
+      },
+      {
+        "start": 17.6,
+        "end": 19.8,
+        "layout": "crop",
+        "crop_x": 0.45
       }
     ],
     [
@@ -109,8 +109,8 @@
         "crop_x": 0.6
       },
       {
-        "start": 19.0,
-        "end": 22.0,
+        "start": 19.8,
+        "end": 22.6,
         "layout": "crop",
         "crop_x": 0.5
       }
