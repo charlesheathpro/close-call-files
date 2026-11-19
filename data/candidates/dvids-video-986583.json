@@ -1,0 +1,58 @@
+{
+  "asset_id": "video:986583",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor web search",
+  "title": "Coast Guard rescues 8 people from disabled boat off Venice",
+  "description": "A Coast Guard Station Cortez boat crew rescued eight boaters, Saturday, after their 26-foot vessel became disabled, approximately 35 miles west of Venice. The boaters and vessel were brought back to a Venice Inlet boat ramp with no reported injuries. (U.S. Coast Guard courtesy video)",
+  "date": "11.15.2025",
+  "credit": "Courtesy",
+  "location_text": "CLEARWATER, FLORIDA, US",
+  "page_url": "https://www.dvidshub.net/video/986583/coast-guard-rescues-8-people-disabled-boat-off-venice",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-986583",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T08:59:56Z",
+  "duration": 22.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2511/DOD_111381608/DOD_111381608.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.01
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      22.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-986583.jpg",
+  "sheet_times": [
+    0.69,
+    2.06,
+    3.43,
+    4.8,
+    6.18,
+    7.55,
+    8.92,
+    10.29,
+    11.66,
+    13.04,
+    14.41,
+    15.78,
+    17.15,
+    18.53,
+    19.9,
+    21.27
+  ],
+  "pass_reason": "Calm thermal transfer of 8 boaters from a disabled boat"
+}

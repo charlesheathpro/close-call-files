@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:992505",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor web search",
+  "title": "Coast Guard rescues 9 people near St. George Island, Alaska",
+  "description": "Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter aircrew rescue 9 commercial fishing vessel crewmembers from an agrounded fishing vessel near St. George Island, Alaska, Jan. 5, 2026. The crewmembers were transferred to emergency medical services in St. Paul with no reported injuries. (U.S. Coast Guard video courtesy of Air Station Kodiak)",
+  "date": "01.05.2026",
+  "credit": "Courtesy",
+  "location_text": "JUNEAU, ALASKA, US",
+  "page_url": "https://www.dvidshub.net/video/992505/coast-guard-rescues-9-people-near-st-george-island-alaska",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-992505",
+  "status": "new",
+  "harvested_at": "2026-11-19T08:58:09Z",
+  "duration": 903.67,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111472487/DOD_111472487.mp4",
+    "width": 710,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.88,
+    17.15,
+    45.15,
+    49.75,
+    123.22,
+    138.97,
+    242.68,
+    248.38,
+    272.51,
+    285.42,
+    373.61,
+    377.58,
+    407.34,
+    411.11,
+    520.79,
+    521.55,
+    529.63,
+    788.09,
+    821.39,
+    862.06,
+    887.49
+  ],
+  "drama_score": 66,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      903.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-992505.jpg",
+  "sheet_times": [
+    28.22,
+    84.67,
+    141.12,
+    197.57,
+    254.02,
+    310.46,
+    366.91,
+    423.36,
+    479.81,
+    536.26,
+    592.7,
+    649.15,
+    705.6,
+    762.05,
+    818.5,
+    874.95
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "asset_id": "video:967976",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "editor web search",
+  "title": "EOD Demolition | 2025",
+  "description": "U.S. Marines with explosive ordinance disposal, Marine Corps Base Camp Butler executed a controlled demolition exercise on Camp Hansen, Okinawa, Japan, June 17, 2025. This exercise was held to enhance the abilities of EOD personnel to safely handle and dispose of unexploded ordinance. (U.S. Marine Corps Video by Lance Cpl. Logan Smith)",
+  "date": "06.17.2025",
+  "credit": "Lance Cpl. Logan Smith",
+  "location_text": "CAMP HANSEN, OKINAWA, JP",
+  "page_url": "https://www.dvidshub.net/video/967976/eod-demolition-2025",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-967976",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T09:01:19Z",
+  "duration": 30.63,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2506/DOD_111095991/DOD_111095991.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.6,
+      "e": 6.84,
+      "text": "This range today was a render safe procedure range."
+    },
+    {
+      "s": 6.84,
+      "e": 10.12,
+      "text": "We're testing out our techniques, tools, and equipment"
+    },
+    {
+      "s": 10.12,
+      "e": 14.28,
+      "text": "to make sure that fuses and ordnance are rendered less hazardous"
+    },
+    {
+      "s": 14.28,
+      "e": 15.52,
+      "text": "than they were when we found them."
+    },
+    {
+      "s": 15.52,
+      "e": 17.02,
+      "text": "All the tools that are exposed will ensure"
+    },
+    {
+      "s": 17.02,
+      "e": 20.44,
+      "text": "that we remain safe if we but if people are safe use them."
+    },
+    {
+      "s": 20.44,
+      "e": 21.44,
+      "text": "Fire off!"
+    }
+  ],
+  "scene_cuts": [
+    0.53,
+    4.24,
+    6.44,
+    10.48,
+    11.95,
+    14.11,
+    15.08,
+    15.55,
+    16.22,
+    17.62,
+    18.45,
+    19.02,
+    20.12,
+    20.39,
+    20.69,
+    21.02,
+    21.35
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      24.7
+    ],
+    "silence_ends": [
+      30.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-967976.jpg",
+  "sheet_times": [
+    0.94,
+    2.82,
+    4.71,
+    6.59,
+    8.47,
+    10.36,
+    12.24,
+    14.12,
+    16.01,
+    17.89,
+    19.77,
+    21.66,
+    23.54,
+    25.42,
+    27.31,
+    29.19
+  ],
+  "pass_reason": "Under 4 seconds of blast; mostly prep b-roll and an end card"
+}

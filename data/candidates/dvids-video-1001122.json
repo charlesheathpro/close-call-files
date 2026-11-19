@@ -1,0 +1,59 @@
+{
+  "asset_id": "video:1001122",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "editor web search",
+  "title": "Coast Guard rescues boater 6 miles off Three Rooker Island",
+  "description": "A Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter crew and a Station Sand Key boat crew rescued an overdue boater Friday, approximately six miles west of Three Rooker Island. Rescued was a 39-year-old male who was transported to Tampa General Hospital in stable condition. (U.S. Coast Guard courtesy video)",
+  "date": "03.27.2026",
+  "credit": "Courtesy",
+  "location_text": "CLEARWATER, FLORIDA, US",
+  "page_url": "https://www.dvidshub.net/video/1001122/coast-guard-rescues-boater-6-miles-off-three-rooker-island",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1001122",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T09:00:22Z",
+  "duration": 49.95,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111599728/DOD_111599728.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    19.39,
+    32.53
+  ],
+  "drama_score": 65,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      49.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1001122.jpg",
+  "sheet_times": [
+    1.55,
+    4.64,
+    7.73,
+    10.82,
+    13.91,
+    17.0,
+    20.09,
+    23.18,
+    26.27,
+    29.36,
+    32.45,
+    35.54,
+    38.63,
+    41.72,
+    44.81,
+    47.9
+  ],
+  "pass_reason": "Night thermal again (09 today), thin release; revisit another day"
+}
