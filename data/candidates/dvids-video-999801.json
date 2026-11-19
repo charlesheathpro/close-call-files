@@ -1,0 +1,80 @@
+{
+  "asset_id": "video:999801",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual web search",
+  "title": "Nimitz CIWS Live-Fire Exercise",
+  "description": "Nimitz-class aircraft carrier USS Nimitz (CVN 68) conducts a Mark 15 Phalanx Close-In Weapons System live-fire exercise in the Pacific Ocean, March 16, 2026. Nimitz is underway in the U.S. 3rd Fleet area of operation as part of a scheduled homeport shift to Norfolk, Virginia. (U.S. Navy video by Mass Communication Specialist 2nd Class Edward Jacome)",
+  "keywords": "",
+  "date": "03.16.2026",
+  "date_published": "03.16.2026 23:41",
+  "branch": "",
+  "unit_name": "USS Nimitz (CVN 68)",
+  "credit": "USS Nimitz (CVN 68)",
+  "category": "B-Roll",
+  "virin": "260316-N-JG278-1001",
+  "location": {
+    "city": "U.S. 3RD FLEET AREA OF RESPONSIBILITY"
+  },
+  "page_url": "https://www.dvidshub.net/video/999801/nimitz-ciws-live-fire-exercise",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-999801",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T14:11:59Z",
+  "duration": 57.1,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111579522/DOD_111579522.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 2.26,
+      "e": 4.26,
+      "text": "I'm the guy stopping to get in."
+    },
+    {
+      "s": 4.26,
+      "e": 6.26,
+      "text": "I start this on the front of the aisle."
+    }
+  ],
+  "scene_cuts": [
+    6.46,
+    9.3,
+    12.89,
+    17.73,
+    21.4,
+    28.99,
+    37.91,
+    57.06
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-999801.jpg",
+  "sheet_times": [
+    1.77,
+    5.31,
+    8.84,
+    12.38,
+    15.92,
+    19.46,
+    22.99,
+    26.53,
+    30.07,
+    33.61,
+    37.14,
+    40.68,
+    44.22,
+    47.76,
+    51.29,
+    54.83
+  ],
+  "pass_reason": "Mostly static gun close-ups; firing barely visible"
+}

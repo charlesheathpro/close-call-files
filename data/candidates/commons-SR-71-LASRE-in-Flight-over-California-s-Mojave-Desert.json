@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SR-71-LASRE-in-Flight-over-California-s-Mojave-Desert",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-15T17:13:20Z",
   "duration": 39.14,
   "source_file": {
@@ -60,5 +60,6 @@
     35.02,
     37.43
   ],
-  "pass_reason": "strong air-to-air footage but no stated outcome for the LASRE flight, and two Blackbird Shorts already written today; revisit later"
+  "pass_reason": "strong air-to-air footage but no stated outcome for the LASRE flight, and two Blackbird Shorts already written today; revisit later",
+  "used_by": "ccf-20261119-23"
 }

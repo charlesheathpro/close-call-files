@@ -1,0 +1,64 @@
+{
+  "asset_id": "video:989073",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual web search",
+  "title": "HITRON aircrew disables suspected smuggling vessel in Eastern Pacific",
+  "description": "A Coast Guard Helicopter Interdiction Tactical Squadron aircrew disables a non-compliant go-fast vessel during counter-narcotics operations in the Eastern Pacific on Dec. 2, 2025. This interdiction removed more than 20,000 pounds of narcotics, the largest Coast Guard single at-sea seizure in over 18 years. (U.S. Coast Guard video)",
+  "keywords": "",
+  "date": "12.02.2025",
+  "date_published": "12.05.2025 17:57",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Headquarters",
+  "credit": "U.S. Coast Guard Headquarters",
+  "category": "B-Roll",
+  "virin": "251205-G-CG101-1001",
+  "location": {
+    "city": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/989073/hitron-aircrew-disables-suspected-smuggling-vessel-eastern-pacific",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-989073",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T14:07:50Z",
+  "duration": 69.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111419131/DOD_111419131.mp4",
+    "width": 2880,
+    "height": 1800
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 78,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      69.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-989073.jpg",
+  "sheet_times": [
+    2.14,
+    6.43,
+    10.72,
+    15.01,
+    19.3,
+    23.59,
+    27.88,
+    32.17,
+    36.46,
+    40.75,
+    45.04,
+    49.32,
+    53.61,
+    57.9,
+    62.19,
+    66.48
+  ],
+  "pass_reason": "Single wide GoPro; the go-fast is a speck, disabling shots not visible"
+}
