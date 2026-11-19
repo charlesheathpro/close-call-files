@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:482558",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual web search",
+  "title": "U2 Aircraft Landing Chase Car Perspective",
+  "description": "A U2 aircraft from the 99th Expeditionary Reconnaissance Squadron lands at the 380th Air Expeditionary Wing. The view is from a chase car. The chase car follows the U2 and let's the U2 pilot know how close he/she is getting to the runway to land.",
+  "keywords": "",
+  "date": "09.03.2016",
+  "date_published": "09.12.2016 09:25",
+  "branch": "",
+  "unit_name": "380th Air Expeditionary Wing",
+  "credit": "380th Air Expeditionary Wing",
+  "category": "B-Roll",
+  "virin": "160903-F-KZ900-002",
+  "location": {
+    "city": "(UNDISCLOSED LOCATION)"
+  },
+  "page_url": "https://www.dvidshub.net/video/482558/u2-aircraft-landing-chase-car-perspective",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-482558",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T13:37:51Z",
+  "duration": 164.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1609/DOD_103649315/DOD_103649315-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.04,
+    47.95,
+    97.16,
+    106.17,
+    151.22
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      6.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-482558.jpg",
+  "sheet_times": [
+    5.11,
+    15.33,
+    25.56,
+    35.78,
+    46.0,
+    56.22,
+    66.44,
+    76.67,
+    86.89,
+    97.11,
+    107.33,
+    117.55,
+    127.78,
+    138.0,
+    148.22,
+    158.44
+  ],
+  "pass_reason": "Same U-2 chase car story as ccf-20261119-20 (used the sharper Beale 1080p clip)"
+}

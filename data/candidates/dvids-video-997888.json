@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:997888",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual web search",
+  "title": "LCACs land at Onslow Beach for TCAT 26.1",
+  "description": "U.S. Navy landing craft, air cushions with Assault Craft Unit 4 land at Onslow Beach during Type Commander’s Amphibious Training 26.1 at Marine Corps Base Camp Lejeune, N.C., Feb. 27, 2026. TCAT is a military exercise designed to enhance mobility and integration between the U.S. Marine Corps and the U.S. Navy. It allows Marines and Sailors to gain hands-on experience of working side by side in amphibious planning and operations, including the use of multiple surface connectors and air platforms. The training focuses on improving the necessary skills for real-world operations and effective collaboration between Marine Corps and Naval teams. (U.S. Marine Corps video by Sgt. Jorge Borjas)",
+  "keywords": "",
+  "date": "02.27.2026",
+  "date_published": "03.04.2026 08:18",
+  "branch": "",
+  "unit_name": "26th Marine Expeditionary Unit",
+  "credit": "26th Marine Expeditionary Unit",
+  "category": "B-Roll",
+  "virin": "261227-M-MB805-2001",
+  "location": {
+    "city": "MARINE CORPS BASE CAMP LEJEUNE, NORTH CAROLINA, US"
+  },
+  "page_url": "https://www.dvidshub.net/video/997888/lcacs-land-onslow-beach-tcat-261",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-997888",
+  "status": "used",
+  "harvested_at": "2026-11-19T13:46:43Z",
+  "duration": 104.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111552228/DOD_111552228.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    23.49,
+    49.68,
+    60.46,
+    80.41,
+    91.02,
+    97.83
+  ],
+  "drama_score": 85,
+  "audio": {
+    "silence_starts": [
+      13.6
+    ],
+    "silence_ends": [
+      14.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-997888.jpg",
+  "sheet_times": [
+    3.24,
+    9.72,
+    16.2,
+    22.69,
+    29.17,
+    35.65,
+    42.13,
+    48.61,
+    55.09,
+    61.57,
+    68.06,
+    74.54,
+    81.02,
+    87.5,
+    93.98,
+    100.46
+  ],
+  "used_by": "ccf-20261119-21"
+}
