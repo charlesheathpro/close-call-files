@@ -1,15 +1,16 @@
 {
-  "at": "2026-11-19T06:26:56Z",
+  "at": "2026-11-19T10:28:40Z",
   "healthy": true,
   "numbers": {
     "dropped": 77,
     "uploaded": 185,
-    "passed": 76,
+    "passed": 84,
+    "needs_qa": 0,
     "scheduled_next_48h": 11,
     "scheduled_by_mt_day_remaining": {
       "2026-11-19": 10,
       "2026-11-20": 1
     }
   },
-  "notes": "Nov 19 MT is full (10 booked). Nov 20 shows 1 only because the YouTube daily upload cap holds until 2026-11-19T18:39Z; with 76 passed Shorts waiting, the first upload run after the cap lifts fills it, so no editor pass was needed. Last upload run 02:39Z (blocked by the cap since), harvest 2026-11-18 19:02Z (DVIDS blocked, 0 new), stats Nov 19. No build errors, no auth or upload_error alerts in 24 h."
+  "notes": "Nov 19 MT full. Nov 20 shows 1 only because YouTube's daily upload cap holds until 2026-11-19T18:39Z; 84 passed Shorts are waiting, so the first upload run after the cap lifts fills it and no editor pass was needed. Upload run in progress since 09:27Z, harvest 2026-11-18 19:02Z (DVIDS blocked, 0 new), no repeated build errors, no auth alerts. QA fixed -09, -13 (black frames from a source fade) and -14 in this run."
 }
