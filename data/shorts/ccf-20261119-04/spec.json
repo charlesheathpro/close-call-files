@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-04",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-1009153",
   "lane": "aviation_naval",
   "story_type": "ballistic missile test launch from a submerged submarine, breaks the surface and climbs",
@@ -10,7 +10,7 @@
   "narration": [
     "A missile just burst out of the Atlantic, fired from a submarine hidden below the surface.",
     "This was an unarmed Trident Two D5, launched by the submarine USS Rhode Island off Cape Canaveral.",
-    "Gas pressure pushes the missile out of its tube and up through the water. The rocket motor lights once it clears the surface.",
+    "It climbed away on a column of white smoke, out over the Atlantic.",
     "The launch tested the submarine and its crew after an overhaul, before they went back out on deployment.",
     "[short pause] High over the ocean, a spent stage dropped away."
   ],
@@ -105,24 +105,6 @@
         "end": 31.5,
         "layout": "crop",
         "crop_x": 0.4
-      },
-      {
-        "start": 31.5,
-        "end": 34.2,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 36.0,
-        "end": 38.4,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 38.4,
-        "end": 40.8,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ],
     [
@@ -180,5 +162,5 @@
       }
     ]
   ],
-  "preview_ok": "EMPTY misfires on plain blue sky; the missile or its plume is in frame in every shot (checked the preview)"
+  "preview_ok": "EMPTY misfires on the missile and its plume against plain sky; checked, the missile is in frame in every flagged shot"
 }
