@@ -1,0 +1,56 @@
+{
+  "asset_id": "video:880865",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor web search",
+  "title": "Coast Guard Cutter Midgett conducts training in the Bering Sea",
+  "description": "A small boat deployed by Coast Guard Cutter Midgett (WMSL 757) crewmembers departs and returns to the cutter after conducting fisheries boardings in the Bering Sea March 8, 2023. The Midgett patrolled the Bering Sea and Gulf of Alaska to protect life at sea, to protect living marine resources, and to ensure fairness among fishermen. (U.S. Coast Guard photo by Petty Officer 3rd Class Briana Carter)",
+  "date": "03.08.2023",
+  "credit": "Petty Officer 3rd Class Briana Carter",
+  "location_text": "US",
+  "page_url": "https://www.dvidshub.net/video/880865/coast-guard-cutter-midgett-conducts-training-bering-sea",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-880865",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T09:33:55Z",
+  "duration": 71.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109594386/DOD_109594386.mp4",
+    "width": 2704,
+    "height": 1520
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      71.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-880865.jpg",
+  "sheet_times": [
+    2.22,
+    6.67,
+    11.11,
+    15.56,
+    20.0,
+    24.45,
+    28.89,
+    33.34,
+    37.78,
+    42.23,
+    46.67,
+    51.12,
+    55.56,
+    60.01,
+    64.45,
+    68.9
+  ],
+  "pass_reason": "Routine small boat launch and recovery in calm-looking seas, no event"
+}

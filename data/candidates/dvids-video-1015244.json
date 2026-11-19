@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:1015244",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "editor web search",
+  "title": "USS John Paul Jones (DDG 53) conducts underway operations in the Philippine Sea",
+  "description": "U.S. Navy Arleigh Burke-class guided-missile destroyer USS John Paul Jones (DDG 53) conducts operations while underway in the Philippine Sea, July 12, 2026. John Paul Jones is forward-deployed and assigned to Destroyer Squadron (DESRON) 15, the Navy’s largest DESRON and U.S. 7th Fleet’s principal surface force. U.S. 7th Fleet, the Navy’s largest forward-deployed numbered fleet, routinely interacts and operate with allies and partners in preserving a free and open Indo-Pacific. (U.S. Navy video by Mass Communication Specialist Seaman Caleb Kissner)",
+  "date": "07.11.2026",
+  "credit": "Seaman Caleb Kissner",
+  "location_text": "PHILIPPINE SEA",
+  "page_url": "https://www.dvidshub.net/video/1015244/uss-john-paul-jones-ddg-53-conducts-underway-operations-philippine-sea",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1015244",
+  "status": "new",
+  "harvested_at": "2026-11-19T09:35:50Z",
+  "duration": 88.32,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111849686/DOD_111849686.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.52,
+      "e": 2.96,
+      "text": "See you in the comments below."
+    }
+  ],
+  "scene_cuts": [
+    11.18,
+    18.32,
+    22.02,
+    31.66,
+    38.57,
+    44.54,
+    53.42,
+    59.53,
+    74.64
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      8.2
+    ],
+    "silence_ends": [
+      9.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1015244.jpg",
+  "sheet_times": [
+    2.74,
+    8.23,
+    13.72,
+    19.21,
+    24.7,
+    30.19,
+    35.68,
+    41.17,
+    46.66,
+    52.14,
+    57.63,
+    63.12,
+    68.61,
+    74.1,
+    79.59,
+    85.08
+  ]
+}
