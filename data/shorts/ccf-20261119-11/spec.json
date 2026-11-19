@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-11",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-683990",
   "lane": "aviation_naval",
   "story_type": "HALO freefall jump from a C-17 at 20,000 feet, helmet cameras, canopy opens low, landing",
@@ -161,6 +161,12 @@
         "end": 109.5,
         "layout": "crop",
         "crop_x": 0.45
+      },
+      {
+        "start": 98.7,
+        "end": 101.0,
+        "layout": "crop",
+        "crop_x": 0.5
       }
     ],
     [
