@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:art002m1200920156_ICPS-Separation_2",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "manual search",
+  "title": "Orion Camera View of Artemis II Upper Stage Separation",
+  "description": "A view from cameras on the exterior of the Orion spacecraft of the jettisoning of the upper stage of the SLS (Space Launch System) rocket, or the interim cryogenic propulsion stage, that helped push it into high Earth orbit following a 6:35 p.m. EDT liftoff on April 1, 2026. The upper stage was used as a reference target during Orion’s proximity operations demonstration, before performing one last burn to re-enter Earth’s atmosphere over the Pacific Ocean.",
+  "keywords": "Artemis II, Artemis II mission, Artemis 2 mission, Orion, ICPS, upper stage jettison",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/art002m1200920156_ICPS-Separation_2",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-art002m1200920156-ICPS-Separation-2",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T13:28:14Z",
+  "duration": 78.77,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/art002m1200920156_ICPS-Separation_2/art002m1200920156_ICPS-Separation_2~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 78.766667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 59,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      78.7
+    ]
+  },
+  "sheet": "data/candidates/nasa-art002m1200920156-ICPS-Separation-2.jpg",
+  "sheet_times": [
+    2.45,
+    7.34,
+    12.23,
+    17.12,
+    22.01,
+    26.9,
+    31.8,
+    36.69,
+    41.58,
+    46.47,
+    51.36,
+    56.25,
+    61.15,
+    66.04,
+    70.93,
+    75.82
+  ],
+  "pass_reason": "Fixed pillarboxed camera, stage recedes slowly, calm; too close to -12/-14 Orion views"
+}

@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:1021373",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "manual web search",
+  "title": "Plaskett Fire Air Operations",
+  "description": "B-roll footage shows a Boeing CH-47 Chinook heavy-lift helicopter dropping water on the Plaskett Fire near the Pacific Valley Fire Station in the Los Padres National Forest near Big Sur, California, Aug. 29, 2026. (Forest Service video by Andrew Avitt)",
+  "keywords": "",
+  "date": "08.29.2026",
+  "date_published": "09.02.2026 08:52",
+  "branch": "",
+  "unit_name": "Forest Service",
+  "credit": "Forest Service",
+  "category": "B-Roll",
+  "virin": "260830-P-NM884-9349",
+  "location": {
+    "city": "CALIFORNIA, US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1021373/plaskett-fire-air-operations",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1021373",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T13:26:47Z",
+  "duration": 27.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111941405/DOD_111941405.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.03,
+    21.32
+  ],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1021373.jpg",
+  "sheet_times": [
+    0.85,
+    2.56,
+    4.26,
+    5.96,
+    7.67,
+    9.37,
+    11.07,
+    12.78,
+    14.48,
+    16.19,
+    17.89,
+    19.59,
+    21.3,
+    23.0,
+    24.71,
+    26.41
+  ],
+  "pass_reason": "27 s single Chinook bucket drop in smoke; thin release, bucket drops already in queue"
+}
