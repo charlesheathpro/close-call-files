@@ -1,100 +1,100 @@
 {
-  "short_id": "ccf-20261119-39",
-  "revision": 1,
-  "candidate_id": "dvids-video-716031",
-  "lane": "aviation_naval",
-  "story_type": "jet demonstration sneak pass, cockpit camera, vapor over the wings",
-  "music_mood": "aviation",
-  "priority": 7,
-  "hook": "A camera behind a Blue Angels pilot, low over Miami Beach.",
-  "narration": [
-    "This camera rides behind a Blue Angels pilot as his jet pulls up off Miami Beach.",
-    "It was the sneak pass, low and fast over Miami Beach.",
-    "Those white streaks off the wings are moisture condensing in the low pressure over them.",
-    "Then it climbed away, the beach falling behind."
-  ],
-  "outcome": "Lieutenant Commander Andre Webb, the opposing solo, flew it at the twenty nineteen Air and Sea Show in Miami.",
-  "location_card": {
-    "place": "Miami, Florida",
-    "date": "May 24, 2019"
+ "short_id": "ccf-20261119-39",
+ "revision": 2,
+ "candidate_id": "dvids-video-716031",
+ "lane": "aviation_naval",
+ "story_type": "jet demonstration sneak pass, cockpit camera, vapor over the wings",
+ "music_mood": "aviation",
+ "priority": 7,
+ "hook": "A camera behind a Blue Angels pilot, low over Miami Beach.",
+ "narration": [
+  "This camera rides behind a Blue Angels pilot as his jet pulls up off Miami Beach.",
+  "It was the sneak pass, low and fast over Miami Beach.",
+  "Those white streaks off the wings are moisture condensing in the low pressure over them.",
+  "Then it climbed away, the beach falling behind."
+ ],
+ "outcome": "Lieutenant Commander Andre Webb, the opposing solo, flew it at the twenty nineteen Air and Sea Show in Miami.",
+ "location_card": {
+  "place": "Miami, Florida",
+  "date": "May 24, 2019"
+ },
+ "keep_source_audio": false,
+ "title": "Blue Angels sneak pass, cockpit view",
+ "description": "Lt. Cmdr. Andre Webb, opposing solo pilot of the U.S. Navy Blue Angels, flies the sneak pass during the 2019 Air and Sea Show in Miami, May 24, 2019, filmed from the cockpit.\n\nFootage: U.S. Navy video by Mass Communication Specialist 2nd Class Timothy Schumaker, via DVIDS: https://www.dvidshub.net/video/716031/blue-angels-sneak-pass-through-miami\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #blueangels #navy #miami",
+ "tags": [
+  "blue angels",
+  "sneak pass",
+  "cockpit view",
+  "miami beach",
+  "navy",
+  "fighter jet",
+  "vapor cone",
+  "air show",
+  "real footage"
+ ],
+ "question_comment": "Have you ever been under a jet doing a sneak pass?",
+ "facts": [
+  {
+   "claim": "Lt. Cmdr. Andre Webb, opposing solo, performed the sneak pass",
+   "source_quote": "Lt. Cmdr. Andre Webb, opposing solo pilot assigned to The U.S. Navy Flight Demonstration Squadron, the Blue Angels, performs the sneak pass during the 2019 Air and Sea Show in Miami."
   },
-  "keep_source_audio": false,
-  "title": "Blue Angels sneak pass, cockpit view",
-  "description": "Lt. Cmdr. Andre Webb, opposing solo pilot of the U.S. Navy Blue Angels, flies the sneak pass during the 2019 Air and Sea Show in Miami, May 24, 2019, filmed from the cockpit.\n\nFootage: U.S. Navy video by Mass Communication Specialist 2nd Class Timothy Schumaker, via DVIDS: https://www.dvidshub.net/video/716031/blue-angels-sneak-pass-through-miami\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #blueangels #navy #miami",
-  "tags": [
-    "blue angels",
-    "sneak pass",
-    "cockpit view",
-    "miami beach",
-    "navy",
-    "fighter jet",
-    "vapor cone",
-    "air show",
-    "real footage"
+  {
+   "claim": "Miami, May 24, 2019",
+   "source_quote": "MIAMI (May 24, 2019)"
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 9.6,
+    "end": 13.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
   ],
-  "question_comment": "Have you ever been under a jet doing a sneak pass?",
-  "facts": [
-    {
-      "claim": "Lt. Cmdr. Andre Webb, opposing solo, performed the sneak pass",
-      "source_quote": "Lt. Cmdr. Andre Webb, opposing solo pilot assigned to The U.S. Navy Flight Demonstration Squadron, the Blue Angels, performs the sneak pass during the 2019 Air and Sea Show in Miami."
-    },
-    {
-      "claim": "Miami, May 24, 2019",
-      "source_quote": "MIAMI (May 24, 2019)"
-    }
+  [
+   {
+    "start": 0.3,
+    "end": 3.3,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
   ],
-  "line_shots": [
-    [
-      {
-        "start": 9.6,
-        "end": 13.0,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 0.3,
-        "end": 3.3,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 13.1,
-        "end": 16.1,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
-        "start": 16.2,
-        "end": 18.6,
-        "layout": "crop",
-        "crop_x": 0.45
-      }
-    ],
-    [
-      {
-        "start": 18.7,
-        "end": 22.3,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 3.4,
-        "end": 6.9,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 6.95,
-        "end": 9.55,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ]
+  [
+   {
+    "start": 13.1,
+    "end": 15.8,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 15.9,
+    "end": 18.6,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 18.7,
+    "end": 22.3,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 3.4,
+    "end": 6.9,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 6.95,
+    "end": 9.55,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
   ]
+ ]
 }
