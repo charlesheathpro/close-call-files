@@ -13,7 +13,7 @@
   "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
   "id": "dvids-video-992505",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T08:58:09Z",
   "duration": 903.67,
   "source_file": {
@@ -73,5 +73,6 @@
     762.05,
     818.5,
     874.95
-  ]
+  ],
+  "pass_reason": "Static overhead hoist cam over one patch of deck for minutes; 710x480"
 }
