@@ -1,29 +1,29 @@
 {
   "short_id": "ccf-20261119-24",
-  "revision": 1,
-  "status": "checks_failed",
-  "built_at": "2026-11-19T17:03:48Z",
-  "duration": 36.73,
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-19T17:35:24Z",
+  "duration": 24.01,
   "source_resolution": "1920x1080",
   "timeline": [
     {
-      "text": "This unarmed nuclear missile was picked at random from a base in Montana and fired across the Pacific.",
+      "text": "This unarmed nuclear missile was picked at random and fired across the Pacific.",
       "start": 0.05,
-      "end": 6.53,
+      "end": 5.09,
       "words": [
         {
           "w": "This",
           "s": 0.05,
-          "e": 0.37
+          "e": 0.33
         },
         {
           "w": "unarmed",
-          "s": 0.45,
-          "e": 0.85
+          "s": 0.37,
+          "e": 0.802
         },
         {
           "w": "nuclear",
-          "s": 0.93,
+          "s": 0.85,
           "e": 1.25
         },
         {
@@ -33,7 +33,7 @@
         },
         {
           "w": "was",
-          "s": 1.81,
+          "s": 1.85,
           "e": 1.97
         },
         {
@@ -48,533 +48,326 @@
         },
         {
           "w": "random",
-          "s": 2.45,
-          "e": 2.85
-        },
-        {
-          "w": "from",
-          "s": 2.93,
-          "e": 3.01
-        },
-        {
-          "w": "a",
-          "s": 3.05,
-          "e": 3.13
-        },
-        {
-          "w": "base",
-          "s": 3.17,
-          "e": 3.33
-        },
-        {
-          "w": "in",
-          "s": 3.41,
-          "e": 3.49
-        },
-        {
-          "w": "Montana",
-          "s": 3.65,
-          "e": 4.29
+          "s": 2.65,
+          "e": 2.93
         },
         {
           "w": "and",
-          "s": 4.45,
-          "e": 4.61
+          "s": 3.05,
+          "e": 3.17
         },
         {
           "w": "fired",
-          "s": 4.65,
-          "e": 4.93
+          "s": 3.21,
+          "e": 3.49
         },
         {
           "w": "across",
-          "s": 5.01,
-          "e": 5.25
+          "s": 3.57,
+          "e": 3.81
         },
         {
           "w": "the",
-          "s": 5.33,
-          "e": 5.41
+          "s": 3.89,
+          "e": 3.97
         },
         {
           "w": "Pacific.",
-          "s": 5.69,
-          "e": 6.53
+          "s": 4.25,
+          "e": 5.09
         }
       ]
     },
     {
       "text": "On May twentieth, it blasted out of a silo at Vandenberg, California.",
-      "start": 6.61,
-      "end": 11.17,
+      "start": 5.17,
+      "end": 10.05,
       "words": [
         {
           "w": "On",
-          "s": 6.61,
-          "e": 6.69
+          "s": 5.17,
+          "e": 5.25
         },
         {
           "w": "May",
-          "s": 6.77,
-          "e": 6.93
+          "s": 5.33,
+          "e": 5.57
         },
         {
           "w": "twentieth,",
-          "s": 7.01,
-          "e": 7.65
+          "s": 5.65,
+          "e": 6.37
         },
         {
           "w": "it",
-          "s": 7.73,
-          "e": 7.81
+          "s": 6.45,
+          "e": 6.61
         },
         {
           "w": "blasted",
-          "s": 7.89,
-          "e": 8.37
+          "s": 6.69,
+          "e": 7.17
         },
         {
           "w": "out",
-          "s": 8.41,
-          "e": 8.49
+          "s": 7.21,
+          "e": 7.29
         },
         {
           "w": "of",
-          "s": 8.53,
-          "e": 8.61
+          "s": 7.29,
+          "e": 7.37
         },
         {
           "w": "a",
-          "s": 8.61,
-          "e": 8.69
+          "s": 7.41,
+          "e": 7.49
         },
         {
           "w": "silo",
-          "s": 8.77,
-          "e": 9.09
+          "s": 7.57,
+          "e": 7.89
         },
         {
           "w": "at",
-          "s": 9.17,
-          "e": 9.25
+          "s": 7.97,
+          "e": 8.05
         },
         {
           "w": "Vandenberg,",
-          "s": 9.33,
-          "e": 9.85
+          "s": 8.09,
+          "e": 8.69
         },
         {
           "w": "California.",
-          "s": 9.89,
-          "e": 11.17
+          "s": 9.01,
+          "e": 10.05
         }
       ]
     },
     {
       "text": "Minuteman Three burns solid fuel, so it can wait in a silo for years, ready to launch on short notice.",
-      "start": 11.25,
-      "end": 18.29,
+      "start": 10.13,
+      "end": 17.063,
       "words": [
         {
           "w": "Minuteman",
-          "s": 11.25,
-          "e": 11.73
+          "s": 10.13,
+          "e": 10.61
         },
         {
           "w": "Three",
-          "s": 11.81,
-          "e": 12.05
+          "s": 10.69,
+          "e": 11.01
         },
         {
           "w": "burns",
-          "s": 12.13,
-          "e": 12.45
+          "s": 11.09,
+          "e": 11.41
         },
         {
           "w": "solid",
-          "s": 12.53,
-          "e": 12.85
+          "s": 11.61,
+          "e": 11.81
         },
         {
           "w": "fuel,",
-          "s": 12.93,
-          "e": 13.57
+          "s": 12.13,
+          "e": 12.49
         },
         {
           "w": "so",
-          "s": 13.65,
-          "e": 13.73
+          "s": 12.53,
+          "e": 12.61
         },
         {
           "w": "it",
-          "s": 13.77,
-          "e": 13.85
+          "s": 12.69,
+          "e": 12.77
         },
         {
           "w": "can",
-          "s": 13.89,
-          "e": 14.05
+          "s": 12.85,
+          "e": 12.93
         },
         {
           "w": "wait",
-          "s": 14.13,
-          "e": 14.21
+          "s": 13.01,
+          "e": 13.17
         },
         {
           "w": "in",
-          "s": 14.25,
-          "e": 14.33
+          "s": 13.21,
+          "e": 13.29
         },
         {
           "w": "a",
-          "s": 14.37,
-          "e": 14.45
+          "s": 13.33,
+          "e": 13.41
         },
         {
           "w": "silo",
-          "s": 14.49,
-          "e": 14.85
+          "s": 13.45,
+          "e": 13.81
         },
         {
           "w": "for",
-          "s": 14.97,
-          "e": 15.09
+          "s": 13.93,
+          "e": 14.05
         },
         {
           "w": "years,",
-          "s": 15.33,
-          "e": 15.97
+          "s": 14.41,
+          "e": 14.85
         },
         {
           "w": "ready",
-          "s": 16.09,
-          "e": 16.21
+          "s": 14.93,
+          "e": 15.09
         },
         {
           "w": "to",
-          "s": 16.29,
-          "e": 16.37
+          "s": 15.17,
+          "e": 15.25
         },
         {
           "w": "launch",
-          "s": 16.53,
-          "e": 16.69
+          "s": 15.33,
+          "e": 15.57
         },
         {
           "w": "on",
-          "s": 16.77,
-          "e": 16.85
+          "s": 15.65,
+          "e": 15.73
         },
         {
           "w": "short",
-          "s": 16.97,
-          "e": 17.09
+          "s": 15.85,
+          "e": 15.97
         },
         {
           "w": "notice.",
-          "s": 17.17,
-          "e": 18.29
+          "s": 16.05,
+          "e": 17.063
         }
       ]
     },
     {
-      "text": "Tracking cameras followed it up through the night, carrying a single Mark twelve A test reentry vehicle.",
-      "start": 18.45,
-      "end": 24.53,
+      "text": "It carried one test reentry vehicle.",
+      "start": 17.117,
+      "end": 19.69,
       "words": [
         {
-          "w": "Tracking",
-          "s": 18.45,
-          "e": 18.61
+          "w": "It",
+          "s": 17.117,
+          "e": 17.197
         },
         {
-          "w": "cameras",
-          "s": 18.73,
-          "e": 19.09
+          "w": "carried",
+          "s": 17.25,
+          "e": 17.65
         },
         {
-          "w": "followed",
-          "s": 19.17,
-          "e": 19.41
+          "w": "one",
+          "s": 17.73,
+          "e": 17.97
         },
         {
-          "w": "it",
-          "s": 19.45,
-          "e": 19.53
+          "w": "test",
+          "s": 18.13,
+          "e": 18.29
         },
         {
-          "w": "up",
-          "s": 19.57,
-          "e": 19.73
+          "w": "reentry",
+          "s": 18.37,
+          "e": 18.77
         },
         {
-          "w": "through",
-          "s": 19.81,
-          "e": 19.89
+          "w": "vehicle.",
+          "s": 19.21,
+          "e": 19.69
+        }
+      ]
+    },
+    {
+      "text": "It flew about forty two hundred miles to a test range in the Marshall Islands.",
+      "start": 19.73,
+      "end": 23.81,
+      "words": [
+        {
+          "w": "It",
+          "s": 19.73,
+          "e": 19.81
         },
         {
-          "w": "the",
-          "s": 19.93,
-          "e": 20.01
+          "w": "flew",
+          "s": 19.89,
+          "e": 20.05
         },
         {
-          "w": "night,",
-          "s": 20.05,
-          "e": 20.65
+          "w": "about",
+          "s": 20.13,
+          "e": 20.45
         },
         {
-          "w": "carrying",
-          "s": 20.69,
-          "e": 21.01
+          "w": "forty",
+          "s": 20.57,
+          "e": 20.73
         },
         {
-          "w": "a",
-          "s": 21.09,
+          "w": "two",
+          "s": 20.77,
+          "e": 20.93
+        },
+        {
+          "w": "hundred",
+          "s": 21.01,
           "e": 21.17
         },
         {
-          "w": "single",
+          "w": "miles",
           "s": 21.25,
           "e": 21.65
         },
         {
-          "w": "Mark",
-          "s": 21.77,
-          "e": 21.89
-        },
-        {
-          "w": "twelve",
-          "s": 21.97,
-          "e": 22.29
-        },
-        {
-          "w": "A",
-          "s": 22.41,
-          "e": 22.53
-        },
-        {
-          "w": "test",
-          "s": 22.61,
-          "e": 22.85
-        },
-        {
-          "w": "reentry",
-          "s": 22.93,
-          "e": 23.33
-        },
-        {
-          "w": "vehicle.",
-          "s": 23.53,
-          "e": 24.53
-        }
-      ]
-    },
-    {
-      "text": "The design is fifty five years old, and a new missile called Sentinel will replace it.",
-      "start": 24.67,
-      "end": 29.69,
-      "words": [
-        {
-          "w": "The",
-          "s": 24.67,
-          "e": 24.75
-        },
-        {
-          "w": "design",
-          "s": 24.89,
-          "e": 25.09
-        },
-        {
-          "w": "is",
-          "s": 25.17,
-          "e": 25.33
-        },
-        {
-          "w": "fifty",
-          "s": 25.37,
-          "e": 25.65
-        },
-        {
-          "w": "five",
-          "s": 25.73,
-          "e": 25.97
-        },
-        {
-          "w": "years",
-          "s": 26.09,
-          "e": 26.21
-        },
-        {
-          "w": "old,",
-          "s": 26.29,
-          "e": 26.797
-        },
-        {
-          "w": "and",
-          "s": 26.823,
-          "e": 26.903
-        },
-        {
-          "w": "a",
-          "s": 26.93,
-          "e": 27.01
-        },
-        {
-          "w": "new",
-          "s": 27.09,
-          "e": 27.17
-        },
-        {
-          "w": "missile",
-          "s": 27.25,
-          "e": 27.57
-        },
-        {
-          "w": "called",
-          "s": 27.69,
-          "e": 27.81
-        },
-        {
-          "w": "Sentinel",
-          "s": 27.89,
-          "e": 28.37
-        },
-        {
-          "w": "will",
-          "s": 28.45,
-          "e": 28.53
-        },
-        {
-          "w": "replace",
-          "s": 28.73,
-          "e": 28.93
-        },
-        {
-          "w": "it.",
-          "s": 29.01,
-          "e": 29.69
-        }
-      ]
-    },
-    {
-      "text": "It flew about forty two hundred miles at more than fifteen thousand miles per hour to a test range in the Marshall Islands.",
-      "start": 29.73,
-      "end": 36.53,
-      "words": [
-        {
-          "w": "It",
-          "s": 29.73,
-          "e": 29.81
-        },
-        {
-          "w": "flew",
-          "s": 29.89,
-          "e": 30.05
-        },
-        {
-          "w": "about",
-          "s": 30.13,
-          "e": 30.45
-        },
-        {
-          "w": "forty",
-          "s": 30.57,
-          "e": 30.73
-        },
-        {
-          "w": "two",
-          "s": 30.77,
-          "e": 30.85
-        },
-        {
-          "w": "hundred",
-          "s": 30.93,
-          "e": 31.17
-        },
-        {
-          "w": "miles",
-          "s": 31.25,
-          "e": 31.65
-        },
-        {
-          "w": "at",
-          "s": 31.73,
-          "e": 31.81
-        },
-        {
-          "w": "more",
-          "s": 31.89,
-          "e": 31.97
-        },
-        {
-          "w": "than",
-          "s": 32.05,
-          "e": 32.29
-        },
-        {
-          "w": "fifteen",
-          "s": 32.33,
-          "e": 32.77
-        },
-        {
-          "w": "thousand",
-          "s": 32.85,
-          "e": 33.25
-        },
-        {
-          "w": "miles",
-          "s": 33.29,
-          "e": 33.49
-        },
-        {
-          "w": "per",
-          "s": 33.57,
-          "e": 33.65
-        },
-        {
-          "w": "hour",
-          "s": 33.73,
-          "e": 34.37
-        },
-        {
           "w": "to",
-          "s": 34.45,
-          "e": 34.53
+          "s": 21.73,
+          "e": 21.81
         },
         {
           "w": "a",
-          "s": 34.61,
-          "e": 34.69
+          "s": 21.85,
+          "e": 21.93
         },
         {
           "w": "test",
-          "s": 34.69,
-          "e": 34.93
+          "s": 21.97,
+          "e": 22.21
         },
         {
           "w": "range",
-          "s": 35.01,
-          "e": 35.25
+          "s": 22.29,
+          "e": 22.53
         },
         {
           "w": "in",
-          "s": 35.33,
-          "e": 35.41
+          "s": 22.57,
+          "e": 22.65
         },
         {
           "w": "the",
-          "s": 35.41,
-          "e": 35.49
+          "s": 22.65,
+          "e": 22.73
         },
         {
           "w": "Marshall",
-          "s": 35.57,
-          "e": 35.81
+          "s": 22.77,
+          "e": 23.09
         },
         {
           "w": "Islands.",
-          "s": 35.89,
-          "e": 36.53
+          "s": 23.17,
+          "e": 23.81
         }
       ]
     }
@@ -586,15 +379,15 @@
     },
     "duration": {
       "ok": true,
-      "value": 36.73
+      "value": 24.03
     },
     "av_sync": {
       "ok": true,
-      "value": 0.003
+      "value": 0.023
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.2
+      "value": 0.22
     },
     "loudness": {
       "ok": true,
@@ -602,7 +395,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -2.2
+      "value": -2.3
     },
     "dead_air": {
       "ok": true,
@@ -613,25 +406,8 @@
       "value": 0.05
     },
     "black_frames": {
-      "ok": false,
-      "value": [
-        [
-          "9.166667",
-          "9.6"
-        ],
-        [
-          "15.566667",
-          "16.166667"
-        ],
-        [
-          "16.933333",
-          "17.533333"
-        ],
-        [
-          "29.833333",
-          "30.3"
-        ]
-      ]
+      "ok": true,
+      "value": []
     },
     "frozen_frames": {
       "ok": true,
@@ -639,10 +415,8 @@
       "value": []
     }
   },
-  "failed_checks": [
-    "black_frames"
-  ],
+  "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261119-24/render_sheet.jpg",
-  "asset_url": null,
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261119-24-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261119-24/ccf-20261119-24.mp4"
 }
