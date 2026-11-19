@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-13",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-516509",
   "lane": "aviation_naval",
   "story_type": "electromagnetic railgun test shot, muzzle fireball, high-speed camera of the projectile",
@@ -69,14 +69,20 @@
     ],
     [
       {
+        "start": 43.15,
+        "end": 45.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
         "start": 15.9,
         "end": 17.55,
         "layout": "crop",
         "crop_x": 0.6
       },
       {
-        "start": 43.2,
-        "end": 45.3,
+        "start": 46.0,
+        "end": 48.4,
         "layout": "crop",
         "crop_x": 0.45
       }
