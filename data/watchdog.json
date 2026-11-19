@@ -1,18 +1,19 @@
 {
-  "at": "2026-11-19T18:55:31Z",
+  "at": "2026-11-19T22:50:45Z",
   "healthy": true,
   "numbers": {
-    "passed_waiting": 86,
-    "scheduled_next_48h": 17,
+    "passed_waiting": 92,
+    "scheduled_next_48h": 14,
     "scheduled_by_day_MT": {
-      "2026-11-19": 6,
+      "2026-11-19": 10,
       "2026-11-20": 10,
       "2026-11-21": 1
     },
     "needs_qa": 0,
+    "needs_build": 0,
     "uploaded": 195,
-    "dropped": 80
+    "dropped": 82
   },
-  "found": "YouTube upload cap lifted at 18:39Z but the hourly upload run had not landed; Nov 20 had 1 scheduled. Queue is deep (passed Shorts far exceed 20).",
-  "fixed": "Pushed triggers/upload at 18:49Z; the 18:54Z run scheduled 10 more. No editor pass needed: the gap was the cap, not supply."
+  "found": "Nov 21 (MT) has 1 scheduled because YouTube's upload cap is active until 2026-11-20T18:55Z; harvest, build, upload and stats runs are all landing. Passed queue is deep.",
+  "fixed": "Nothing needed: the gap is the YouTube daily cap, not supply. Upload runs every 3 h will fill Nov 21 once the cap lifts Nov 20 around noon MT. No editor pass."
 }
