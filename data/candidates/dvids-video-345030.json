@@ -1,0 +1,23 @@
+{
+  "asset_id": "video:345030",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 7 adults, 3 children from sinking boat in Gulf of Mexico",
+  "description": "The Coast Guard rescued 10 people Friday after their catamaran began taking on water 18 miles north of the Port Mansfield jetties and about 1.5 miles offshore. U.S. Coast Guard video.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/345030/coast-guard-rescues-7-adults-3-children-sinking-boat-gulf-mexico",
+  "via": "DVIDS",
+  "license": "public domain",
+  "id": "dvids-video-345030",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T21:00:55.170020Z",
+  "duration": 48.4484,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1406/DOD_101756292/DOD_101756292.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "scene_cuts": [],
+  "pass_reason": "low-res distant aerial, boat a speck"
+}
