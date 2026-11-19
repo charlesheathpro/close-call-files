@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261118-12",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-750059",
   "lane": "aviation_naval",
   "story_type": "old munitions found off a beach, Navy divers destroy them offshore",
@@ -168,12 +168,6 @@
     ],
     [
       {
-        "start": 37.6,
-        "end": 40.8,
-        "layout": "crop",
-        "crop_x": 0.45
-      },
-      {
         "start": 87.0,
         "end": 90.0,
         "layout": "crop",
@@ -182,6 +176,12 @@
       {
         "start": 90.2,
         "end": 93.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 93.4,
+        "end": 95.0,
         "layout": "crop",
         "crop_x": 0.5
       }
