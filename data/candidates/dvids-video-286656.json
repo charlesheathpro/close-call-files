@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:286656",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard Rescues Four From Life Raft Near Big Sur, Calif.",
+  "description": "The Coast Guard rescued four people from a life raft when their vessel sank earlier today. The Coast Guard received a distress called from the tug Delta Captain at 2:55 p.m. Saturday and immediately launched rescue crews; a 47-foot Motor Life Boat from Station Monterey, the Coast Guard Cutter Sockeye -- an 87-foot Coastal Patrol Boat homeported in Bodega Bay -- and an HH-65 Dolphin rescue helicopter from Air Station San Francisco. The rescue helicopter crew located the survivors of the Delta Captain and deployed a rescue swimmer to hoist them aboard. All four were transported to shore in Monterey, and transferred to awaiting emergency medical technicians. There were no reports of injuries. The tug Delta Captain sank and may still be attached via towline to the barge. Coast Guard response crews are on scene and the recovery effort is underway. In addition, two tugs are en route to the scene to tow the barge. The Coast Guard and the Department of Fish and Wildlife Office of Spill Prevention and Response have set up an incident command post at Coast Guard Sector San Francisco, located on Yerba Buena Island.\nContact Lt. j.g. Mark Leahey at: 415-740-4364",
+  "keywords": "",
+  "date": "04.13.2013",
+  "branch": "",
+  "unit_name": "Petty Officer 1st Class Thomas McKenzie",
+  "credit": "Video by",
+  "category": "B-Roll",
+  "location": {
+    "city": "Alameda",
+    "raw": "ALAMEDA, CALIFORNIA, UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/286656/coast-guard-rescues-four-life-raft-near-big-sur-calif",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-286656",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T01:56:38Z",
+  "duration": 66.24,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1304/DOD_100784758/DOD_100784758.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.04,
+    56.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      66.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-286656.jpg",
+  "sheet_times": [
+    2.05,
+    6.16,
+    10.27,
+    14.38,
+    18.49,
+    22.6,
+    26.71,
+    30.82,
+    34.92,
+    39.03,
+    43.14,
+    47.25,
+    51.36,
+    55.47,
+    59.58,
+    63.69
+  ],
+  "pass_reason": "noisy 480p hoist cam, survivors are specks"
+}

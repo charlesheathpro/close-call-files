@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:1026172",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard assists with vessel fire offshore Grand Isle",
+  "description": "A U.S. Coast Guard Air Station New Orleans rescue swimmer assists mariners aboard a life raft 100 miles south of Grand Isle, Louisiana, Oct. 12, 2026. The mariners evacuated the Cyprus-flagged research vessel Rem Andes after there were reports of a fire on board. (U.S. Coast Guard courtesy video)",
+  "keywords": "",
+  "date": "10.12.2026",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Heartland",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "location": {
+    "city": "Grand Isle",
+    "raw": "GRAND ISLE, LOUISIANA, UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/1026172/coast-guard-assists-with-vessel-fire-offshore-grand-isle",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-1026172",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T01:49:37Z",
+  "duration": 51.05,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112052910/DOD_112052910.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 5.01,
+      "e": 9.06,
+      "text": "You"
+    }
+  ],
+  "scene_cuts": [
+    4.6,
+    8.14,
+    14.33,
+    23.59,
+    31.16,
+    35.14,
+    38.41
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      14.4
+    ],
+    "silence_ends": [
+      15.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1026172.jpg",
+  "sheet_times": [
+    1.58,
+    4.74,
+    7.9,
+    11.06,
+    14.22,
+    17.38,
+    20.54,
+    23.7,
+    26.86,
+    30.01,
+    33.17,
+    36.33,
+    39.49,
+    42.65,
+    45.81,
+    48.97
+  ],
+  "pass_reason": "helmet-cam footage cuts every second or two between underwater, canopy and sky; nothing holds long enough to read on a phone"
+}

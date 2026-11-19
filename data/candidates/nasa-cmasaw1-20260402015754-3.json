@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:cmasaw1_20260402015754_3",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "stage separation",
+  "title": "Artemis II Upper Stage Separation ",
+  "description": "cmasaw1_20260402015754_3 (April 1, 2026) - The upper stage – or interim cryogenic propulsion stage – of the SLS (Space Launch System) rocket separates from the Orion spacecraft after helping to deliver Orion to space on April 1, 2026, for the Artemis II mission. The upper stage was then used as a target for Orion to maneuver around in a demonstration of the spacecraft's ability to perform proximity operations.",
+  "keywords": "Artemis II, Artemis II mission, Artemis 2 mission, Orion, Space Launch System, Upper stage separation",
+  "date": "2026-04-01T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/cmasaw1_20260402015754_3",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-cmasaw1-20260402015754-3",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T01:59:29Z",
+  "duration": 20.97,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/cmasaw1_20260402015754_3/cmasaw1_20260402015754_3~large.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 20.966667
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      20.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-cmasaw1-20260402015754-3.jpg",
+  "sheet_times": [
+    0.64,
+    1.92,
+    3.2,
+    4.48,
+    5.76,
+    7.04,
+    8.31,
+    9.59,
+    10.87,
+    12.15,
+    13.43,
+    14.71,
+    15.99,
+    17.27,
+    18.55,
+    19.83
+  ],
+  "pass_reason": "about ten seconds of action, then a static view of empty space; space queue already heavy"
+}
