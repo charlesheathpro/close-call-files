@@ -1,0 +1,62 @@
+{
+  "asset_id": "video:667723",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "McChord C-17 at Fort Hunter Liggett",
+  "description": "A C-17 Globemaster III from Joint Base Lewis-McChord, Washington lands and takes off from Fort Hunter Liggett's dirt runway at Schoonover Army Airfield, March 18, 2019. C-17 Globemaster III and C-130 Hercules aircraft from several installations across the country gave Schoonover Army Airfield a work-out the week of March 18, 2019. Schoonover's dirt airfield is one of only a few in the country that allows Air Force and Marine pilots to keep up their flight certifications for landing and taking off from the dirt air strip. A ground crew inspects the runway after each turnaround and keeps the pilots apprised of wind speed and direction.",
+  "keywords": "",
+  "date": "03.18.2019",
+  "branch": "",
+  "unit_name": "Fort Hunter Liggett Public Affairs Office",
+  "credit": "Cynthia McIntyre",
+  "page_url": "https://www.dvidshub.net/video/667723/mcchord-c-17-fort-hunter-liggett",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "CALIFORNIA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-667723",
+  "status": "used",
+  "harvested_at": "2026-11-19T17:09:43Z",
+  "duration": 69.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1903/DOD_106572424/DOD_106572424-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.5,
+    29.23,
+    41.04,
+    49.78
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-667723.jpg",
+  "sheet_times": [
+    2.14,
+    6.43,
+    10.71,
+    15.0,
+    19.28,
+    23.57,
+    27.85,
+    32.14,
+    36.42,
+    40.71,
+    44.99,
+    49.27,
+    53.56,
+    57.84,
+    62.13,
+    66.41
+  ],
+  "used_by": "ccf-20261119-28"
+}
