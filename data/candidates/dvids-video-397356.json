@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:397356",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "Spring Breakout: Coast Guard Cutter Thunder Bay Ice Breaking",
+  "description": "Spring Breakout: Coast Guard Cutter Thunder Bay Ice breaking to prevent flooding on the Kennebec River, Maine.",
+  "keywords": "",
+  "date": "04.01.2015",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard PADET New York",
+  "credit": "Petty Officer 2nd Class LaNola Stone",
+  "page_url": "https://www.dvidshub.net/video/397356/spring-breakout-coast-guard-cutter-thunder-bay-ice-breaking",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "MAINE, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-397356",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T17:17:13Z",
+  "duration": 142.87,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1504/DOD_102344985/DOD_102344985-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.25,
+    14.26,
+    59.27,
+    105.98,
+    136.68
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      23.5,
+      27.4,
+      49.7,
+      54.8,
+      58.8
+    ],
+    "silence_ends": [
+      4.3,
+      24.2,
+      28.4,
+      50.8,
+      55.4,
+      142.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-397356.jpg",
+  "sheet_times": [
+    4.45,
+    13.35,
+    22.25,
+    31.14,
+    40.04,
+    48.94,
+    57.84,
+    66.74,
+    75.63,
+    84.53,
+    93.43,
+    102.33,
+    111.23,
+    120.12,
+    129.02,
+    137.92
+  ],
+  "pass_reason": "one-line release, calm icebreaking; icebreaker type queued twice this week"
+}

@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:823002",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand",
+  "title": "Folsom Dam Flood Releases 1955, 1963",
+  "description": "Even before the U.S. Army Corps of Engineers completed construction of the Folsom Dam in 1956, it successfully prevented an estimated $20 million in downstream damage during the 1955 floods. This recently discovered historical video shows Folsom Dam hard at work during both the 1955 and 1963 flood events (No Audio). Today, the dam is operated by the U.S. Bureau of Reclamation and works in conjunction with the new auxiliary spillway, downstream levees and other flood risk management system features to reduce risk for millions of Californians. Upgrades are still needed, and the Folsom Dam Raise is one of the latest projects in USACE’s ongoing flood risk reduction mission. Learn more at: https://www.spk.usace.army.mil/Missions/Civil-Works/Folsom-Dam-Raise/ Note: This video was enhanced and upscaled using a combination of artificial intelligence algorithms (DAIN, ESRGAN) and Adobe After Effects. All content is public domain.",
+  "keywords": "",
+  "date": "11.24.2021",
+  "branch": "",
+  "unit_name": "U.S. Army Corps of Engineers, Sacramento District",
+  "credit": "John Prettyman",
+  "page_url": "https://www.dvidshub.net/video/823002/folsom-dam-flood-releases-1955-1963",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "SACRAMENTO, CALIFORNIA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-823002",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T17:18:35Z",
+  "duration": 35.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2111/DOD_108702195/DOD_108702195.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    6.83
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      35.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-823002.jpg",
+  "sheet_times": [
+    1.08,
+    3.23,
+    5.39,
+    7.55,
+    9.7,
+    11.86,
+    14.02,
+    16.17,
+    18.33,
+    20.48,
+    22.64,
+    24.8,
+    26.95,
+    29.11,
+    31.27,
+    33.42
+  ],
+  "pass_reason": "35 s archival spillway release clip with no story or outcome"
+}

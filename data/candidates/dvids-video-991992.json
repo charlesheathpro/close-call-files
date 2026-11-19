@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:991992",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand",
+  "title": "B-Roll: National Guard respond to floods in western Washington",
+  "description": "Washington National Guard members respond to floods in Skagit, Snohomish and King Counties, Dec. 11-19, 2025. (Video by Adeline Witherspoon)",
+  "keywords": "",
+  "date": "12.19.2025",
+  "branch": "",
+  "unit_name": "Joint Force Headquarters - Washington National Guard",
+  "credit": "Staff Sgt. Adeline Witherspoon",
+  "page_url": "https://www.dvidshub.net/video/991992/b-roll-national-guard-respond-floods-western-washington",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "CAMP MURRAY, WASHINGTON, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-991992",
+  "status": "used",
+  "harvested_at": "2026-11-19T17:18:07Z",
+  "duration": 119.8,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2512/DOD_111464717/DOD_111464717.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    34.2,
+    34.27,
+    34.33,
+    34.4,
+    34.53,
+    34.6,
+    34.8,
+    34.87,
+    42.27,
+    42.6,
+    42.67,
+    42.8,
+    42.87,
+    42.93,
+    45.8,
+    45.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      119.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-991992.jpg",
+  "sheet_times": [
+    3.73,
+    11.18,
+    18.64,
+    26.1,
+    33.55,
+    41.01,
+    48.47,
+    55.92,
+    63.38,
+    70.83,
+    78.29,
+    85.75,
+    93.2,
+    100.66,
+    108.12,
+    115.57
+  ],
+  "used_by": "ccf-20261119-30"
+}

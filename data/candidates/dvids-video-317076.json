@@ -1,0 +1,57 @@
+{
+  "asset_id": "video:317076",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "110622-G-0000-001 WATER SPOUT",
+  "description": "MIAMI - During a rain storm Monday, a security camera captures a water spout form and sweep across the decks of a Coast Guard Cutter at Base Support Unit Miami, Miami Beach, Fla. The water spout started in the inner harbor and quickly diminished once it touched the pier. U.S. Coast Guard video.",
+  "keywords": "",
+  "date": "06.23.2011",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "U.S. Coast Guard Southeast",
+  "page_url": "https://www.dvidshub.net/video/317076/110622-g-0000-001-water-spout",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "MIAMI, FLORIDA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-317076",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T17:16:04Z",
+  "duration": 65.9,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101061977/DOD_101061977-704x480-800k.mp4",
+    "width": 704,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-317076.jpg",
+  "sheet_times": [
+    2.04,
+    6.13,
+    10.22,
+    14.31,
+    18.39,
+    22.48,
+    26.57,
+    30.66,
+    34.74,
+    38.83,
+    42.92,
+    47.01,
+    51.09,
+    55.18,
+    59.27,
+    63.36
+  ],
+  "pass_reason": "704x480 security camera waterspout; security-cam storm clips are in the do-less list"
+}
