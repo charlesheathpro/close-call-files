@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:537462",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "FTT-18 THAAD Flight Test Video",
+  "description": "The U.S. Missile Defense Agency (MDA), the Ballistic Missile Defense System Operational Test Agency, and U.S. Army soldiers of the 11th Air Defense Artillery Brigade from Fort Bliss, Texas, conducted an intercept test today of the Terminal High Altitude Area Defense (THAAD) element of the nation’s ballistic missile defense system. See https://www.mda.mil for more information.",
+  "keywords": "",
+  "date": "07.11.2017",
+  "branch": "",
+  "unit_name": "Missile Defense Agency",
+  "credit": "Leah Garton",
+  "page_url": "https://www.dvidshub.net/video/537462/ftt-18-thaad-flight-test-video",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-537462",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T17:03:54Z",
+  "duration": 145.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1707/DOD_104581449/DOD_104581449-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    96.7,
+    97.86,
+    117.05,
+    117.08
+  ],
+  "drama_score": 36,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      145.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-537462.jpg",
+  "sheet_times": [
+    4.54,
+    13.62,
+    22.69,
+    31.77,
+    40.85,
+    49.92,
+    59.0,
+    68.08,
+    77.15,
+    86.23,
+    95.31,
+    104.38,
+    113.46,
+    122.54,
+    131.61,
+    140.69
+  ],
+  "pass_reason": "THAAD intercept test; same story family as ccf-20261119-27 written today, revisit another day"
+}

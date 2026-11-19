@@ -1,0 +1,70 @@
+{
+  "asset_id": "video:747334",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "Hypersonic sled travels at 6,599 mph (Mach 8.6) at Holloman Air Force Base",
+  "description": "Holloman Air Force Base is home to the High-Speed Test Track. This was a hypersonic test that traveled Mach 8.6, which is 6,599 mph which is over one mile a second.",
+  "keywords": "",
+  "date": "05.20.2019",
+  "branch": "",
+  "unit_name": "Air Force Test Center",
+  "credit": "Ed Buclatin",
+  "page_url": "https://www.dvidshub.net/video/747334/hypersonic-sled-travels-6599-mph-mach-86-holloman-air-force-base",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-747334",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T17:01:08Z",
+  "duration": 37.59,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107768322/DOD_107768322.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.6,
+    4.64,
+    19.82,
+    19.89,
+    20.02,
+    24.96,
+    25.09,
+    25.36
+  ],
+  "drama_score": 83,
+  "audio": {
+    "silence_starts": [
+      31.7
+    ],
+    "silence_ends": [
+      37.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-747334.jpg",
+  "sheet_times": [
+    1.16,
+    3.48,
+    5.8,
+    8.11,
+    10.43,
+    12.75,
+    15.07,
+    17.39,
+    19.71,
+    22.02,
+    24.34,
+    26.66,
+    28.98,
+    31.3,
+    33.62,
+    35.93
+  ],
+  "pass_reason": "night track camera, the sled is a speck of light with burned-in speed captions"
+}

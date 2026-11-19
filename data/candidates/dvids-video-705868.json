@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:705868",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "Flight Test THAAD-23 (FTT-23)",
+  "description": "The U.S. Missile Defense Agency, Ballistic Missile Defense System Operational Test Agency and U.S. Army soldiers of the E-62 Battery, 69th Air Defense Artillery Brigade, conduct an intercept test today of the Terminal High Altitude Area Defense (THAAD) element of the nation's Ballistic Missile Defense System during Flight Test THAAD-23, August 29, 2019.",
+  "keywords": "",
+  "date": "08.30.2019",
+  "branch": "",
+  "unit_name": "Missile Defense Agency",
+  "credit": "Missile Defense Agency",
+  "page_url": "https://www.dvidshub.net/video/705868/flight-test-thaad-23-ftt-23",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "MH"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-705868",
+  "status": "used",
+  "harvested_at": "2026-11-19T17:04:07Z",
+  "duration": 124.29,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1908/DOD_107173927/DOD_107173927-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    19.75,
+    44.28,
+    49.25,
+    65.23,
+    71.57,
+    76.14,
+    87.75
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      71.6,
+      87.8
+    ],
+    "silence_ends": [
+      49.3,
+      76.2,
+      124.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-705868.jpg",
+  "sheet_times": [
+    3.87,
+    11.61,
+    19.34,
+    27.08,
+    34.82,
+    42.55,
+    50.29,
+    58.03,
+    65.76,
+    73.5,
+    81.24,
+    88.97,
+    96.71,
+    104.45,
+    112.19,
+    119.92
+  ],
+  "used_by": "ccf-20261119-27"
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:635465",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "FTM-45",
+  "description": "A target missile was launched from the Pacific Missile Range Facility at Kauai, Hawaii during Flight Test Standard Missile-45. The USS JOHN FINN (DDG-113) detected and tracked the target missile with its onboard AN/SPY-1 radar using the Aegis Baseline 9.C2 weapon system. Upon acquiring and tracking the target, the ship launched an SM-3 Block IIA guided missile which intercepted the target.",
+  "keywords": "",
+  "date": "10.26.2018",
+  "branch": "",
+  "unit_name": "Missile Defense Agency",
+  "credit": "Mark Wright",
+  "page_url": "https://www.dvidshub.net/video/635465/ftm-45",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "HAWAII, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-635465",
+  "status": "new",
+  "harvested_at": "2026-11-19T17:04:34Z",
+  "duration": 131.97,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1810/DOD_106155596/DOD_106155596-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 24.69,
+      "e": 25.53,
+      "text": "Six."
+    }
+  ],
+  "scene_cuts": [
+    38.64,
+    45.55,
+    48.88,
+    69.37,
+    77.78
+  ],
+  "drama_score": 49,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      32.1
+    ],
+    "silence_ends": [
+      23.4,
+      132.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-635465.jpg",
+  "sheet_times": [
+    4.11,
+    12.33,
+    20.54,
+    28.76,
+    36.98,
+    45.19,
+    53.41,
+    61.63,
+    69.84,
+    78.06,
+    86.28,
+    94.49,
+    102.71,
+    110.93,
+    119.14,
+    127.36
+  ]
+}
