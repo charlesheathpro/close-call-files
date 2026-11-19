@@ -2,6 +2,6 @@
   "short_id": "ccf-20261118-11",
   "revision": 2,
   "status": "error",
-  "built_at": "2026-11-19T02:34:34Z",
-  "error": "line 8: shots are 2.2, 5.7, 6.3s even after extending, but the line needs 7.1s; give that line longer or more shots"
+  "built_at": "2026-11-19T02:47:34Z",
+  "error": "[Errno 2] No such file or directory: 'ffmpeg'"
 }
