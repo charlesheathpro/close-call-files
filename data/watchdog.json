@@ -1,14 +1,17 @@
 {
-  "at": "2026-11-18T22:22:00Z",
+  "at": "2026-11-19T03:05:00Z",
   "healthy": true,
   "numbers": {
     "dropped": 76,
     "uploaded": 185,
-    "passed": 64,
+    "passed": 69,
     "needs_qa": 0,
     "build_failed": 0,
-    "scheduled_next_48h": 14,
-    "scheduled_by_mt_day_remaining": {"2026-11-18": 3, "2026-11-19": 10, "2026-11-20": 1}
+    "scheduled_next_48h": 11,
+    "scheduled_by_mt_day_remaining": {
+      "2026-11-19": 10,
+      "2026-11-20": 1
+    }
   },
-  "notes": "Nov 18 and 19 are full (10 each). Nov 20 shows 1 only because of the YouTube daily upload cap (upload_limit until 2026-11-19T18:39Z); 64 passed Shorts are waiting, so the first upload run after the cap lifts fills it and no editor pass was needed. Upload run 22:08Z, harvest 19:02Z (DVIDS still blocked, 0 new), stats today, no build errors, no auth or upload_error alerts. QA dropped -07 (calm egress basket ride)."
+  "notes": "Nov 19 is full (10). Nov 20 shows 1 only because of the YouTube daily upload cap (upload_limit until 2026-11-19T18:39Z); 69 passed Shorts are waiting, so the first upload run after the cap lifts fills it and no editor pass was needed. Upload 02:39Z, harvest 2026-11-18 19:02Z (DVIDS blocked, 0 new), stats 2026-11-18. One build run at 02:47Z had no ffmpeg on the runner and overwrote good r2 builds of ccf-20261118-10 and -12; rebuilt via triggers/build-ids at 02:57Z, both ok. No auth or upload_error alerts."
 }
