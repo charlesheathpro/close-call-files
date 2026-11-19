@@ -1,7 +1,600 @@
 {
   "short_id": "ccf-20261118-10",
   "revision": 2,
-  "status": "error",
-  "built_at": "2026-11-19T02:47:20Z",
-  "error": "[Errno 2] No such file or directory: 'ffmpeg'"
+  "status": "ok",
+  "built_at": "2026-11-19T02:55:35Z",
+  "duration": 40.17,
+  "source_resolution": "1920x1080",
+  "timeline": [
+    {
+      "text": "This retired Navy ship took hit after hit, more than two hundred nautical miles off Guam.",
+      "start": 0.05,
+      "end": 6.13,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "retired",
+          "s": 0.41,
+          "e": 0.77
+        },
+        {
+          "w": "Navy",
+          "s": 0.85,
+          "e": 1.17
+        },
+        {
+          "w": "ship",
+          "s": 1.25,
+          "e": 1.49
+        },
+        {
+          "w": "took",
+          "s": 1.57,
+          "e": 1.73
+        },
+        {
+          "w": "hit",
+          "s": 1.89,
+          "e": 2.13
+        },
+        {
+          "w": "after",
+          "s": 2.21,
+          "e": 2.45
+        },
+        {
+          "w": "hit,",
+          "s": 2.61,
+          "e": 3.25
+        },
+        {
+          "w": "more",
+          "s": 3.33,
+          "e": 3.41
+        },
+        {
+          "w": "than",
+          "s": 3.49,
+          "e": 3.73
+        },
+        {
+          "w": "two",
+          "s": 3.85,
+          "e": 3.97
+        },
+        {
+          "w": "hundred",
+          "s": 4.05,
+          "e": 4.29
+        },
+        {
+          "w": "nautical",
+          "s": 4.45,
+          "e": 4.77
+        },
+        {
+          "w": "miles",
+          "s": 4.85,
+          "e": 5.17
+        },
+        {
+          "w": "off",
+          "s": 5.25,
+          "e": 5.33
+        },
+        {
+          "w": "Guam.",
+          "s": 5.41,
+          "e": 6.13
+        }
+      ]
+    },
+    {
+      "text": "It was the decommissioned USS Juneau, turned into a target.",
+      "start": 6.45,
+      "end": 10.29,
+      "words": [
+        {
+          "w": "It",
+          "s": 6.45,
+          "e": 6.53
+        },
+        {
+          "w": "was",
+          "s": 6.61,
+          "e": 6.69
+        },
+        {
+          "w": "the",
+          "s": 6.77,
+          "e": 6.93
+        },
+        {
+          "w": "decommissioned",
+          "s": 7.01,
+          "e": 7.73
+        },
+        {
+          "w": "USS",
+          "s": 7.81,
+          "e": 8.29
+        },
+        {
+          "w": "Juneau,",
+          "s": 8.37,
+          "e": 9.09
+        },
+        {
+          "w": "turned",
+          "s": 9.21,
+          "e": 9.33
+        },
+        {
+          "w": "into",
+          "s": 9.41,
+          "e": 9.57
+        },
+        {
+          "w": "a",
+          "s": 9.65,
+          "e": 9.73
+        },
+        {
+          "w": "target.",
+          "s": 9.81,
+          "e": 10.29
+        }
+      ]
+    },
+    {
+      "text": "In June twenty twenty six, U.S. forces and their allies lined up air, surface and undersea strikes against it.",
+      "start": 10.85,
+      "end": 18.05,
+      "words": [
+        {
+          "w": "In",
+          "s": 10.85,
+          "e": 11.01
+        },
+        {
+          "w": "June",
+          "s": 11.09,
+          "e": 11.33
+        },
+        {
+          "w": "twenty",
+          "s": 11.41,
+          "e": 11.65
+        },
+        {
+          "w": "twenty",
+          "s": 11.73,
+          "e": 11.89
+        },
+        {
+          "w": "six,",
+          "s": 12.05,
+          "e": 12.69
+        },
+        {
+          "w": "U.S.",
+          "s": 12.77,
+          "e": 13.01
+        },
+        {
+          "w": "forces",
+          "s": 13.09,
+          "e": 13.49
+        },
+        {
+          "w": "and",
+          "s": 13.53,
+          "e": 13.61
+        },
+        {
+          "w": "their",
+          "s": 13.65,
+          "e": 13.73
+        },
+        {
+          "w": "allies",
+          "s": 13.81,
+          "e": 14.21
+        },
+        {
+          "w": "lined",
+          "s": 14.37,
+          "e": 14.53
+        },
+        {
+          "w": "up",
+          "s": 14.61,
+          "e": 14.77
+        },
+        {
+          "w": "air,",
+          "s": 14.93,
+          "e": 15.41
+        },
+        {
+          "w": "surface",
+          "s": 15.49,
+          "e": 15.97
+        },
+        {
+          "w": "and",
+          "s": 16.13,
+          "e": 16.21
+        },
+        {
+          "w": "undersea",
+          "s": 16.37,
+          "e": 16.77
+        },
+        {
+          "w": "strikes",
+          "s": 16.85,
+          "e": 17.17
+        },
+        {
+          "w": "against",
+          "s": 17.33,
+          "e": 17.49
+        },
+        {
+          "w": "it.",
+          "s": 17.57,
+          "e": 18.05
+        }
+      ]
+    },
+    {
+      "text": "Ground crews loaded live weapons onto patrol planes.",
+      "start": 18.37,
+      "end": 21.25,
+      "words": [
+        {
+          "w": "Ground",
+          "s": 18.37,
+          "e": 18.61
+        },
+        {
+          "w": "crews",
+          "s": 18.69,
+          "e": 19.01
+        },
+        {
+          "w": "loaded",
+          "s": 19.09,
+          "e": 19.33
+        },
+        {
+          "w": "live",
+          "s": 19.41,
+          "e": 19.73
+        },
+        {
+          "w": "weapons",
+          "s": 19.81,
+          "e": 20.13
+        },
+        {
+          "w": "onto",
+          "s": 20.21,
+          "e": 20.37
+        },
+        {
+          "w": "patrol",
+          "s": 20.45,
+          "e": 20.77
+        },
+        {
+          "w": "planes.",
+          "s": 20.85,
+          "e": 21.25
+        }
+      ]
+    },
+    {
+      "text": "No simulator can match this: a real weapon, aimed at a real ship.",
+      "start": 21.89,
+      "end": 26.61,
+      "words": [
+        {
+          "w": "No",
+          "s": 21.89,
+          "e": 22.05
+        },
+        {
+          "w": "simulator",
+          "s": 22.21,
+          "e": 22.69
+        },
+        {
+          "w": "can",
+          "s": 22.77,
+          "e": 22.93
+        },
+        {
+          "w": "match",
+          "s": 23.01,
+          "e": 23.25
+        },
+        {
+          "w": "this:",
+          "s": 23.33,
+          "e": 24.05
+        },
+        {
+          "w": "a",
+          "s": 24.13,
+          "e": 24.21
+        },
+        {
+          "w": "real",
+          "s": 24.37,
+          "e": 24.53
+        },
+        {
+          "w": "weapon,",
+          "s": 24.61,
+          "e": 25.33
+        },
+        {
+          "w": "aimed",
+          "s": 25.45,
+          "e": 25.65
+        },
+        {
+          "w": "at",
+          "s": 25.69,
+          "e": 25.77
+        },
+        {
+          "w": "a",
+          "s": 25.81,
+          "e": 25.89
+        },
+        {
+          "w": "real",
+          "s": 25.97,
+          "e": 26.13
+        },
+        {
+          "w": "ship.",
+          "s": 26.21,
+          "e": 26.61
+        }
+      ]
+    },
+    {
+      "text": "Then the strikes landed.",
+      "start": 28.13,
+      "end": 29.53,
+      "words": [
+        {
+          "w": "Then",
+          "s": 28.13,
+          "e": 28.29
+        },
+        {
+          "w": "the",
+          "s": 28.33,
+          "e": 28.41
+        },
+        {
+          "w": "strikes",
+          "s": 28.45,
+          "e": 28.77
+        },
+        {
+          "w": "landed.",
+          "s": 28.85,
+          "e": 29.53
+        }
+      ]
+    },
+    {
+      "text": "Infrared cameras watched the hull burn and smoke.",
+      "start": 29.81,
+      "end": 32.77,
+      "words": [
+        {
+          "w": "Infrared",
+          "s": 29.81,
+          "e": 30.37
+        },
+        {
+          "w": "cameras",
+          "s": 30.45,
+          "e": 30.85
+        },
+        {
+          "w": "watched",
+          "s": 30.93,
+          "e": 31.25
+        },
+        {
+          "w": "the",
+          "s": 31.29,
+          "e": 31.37
+        },
+        {
+          "w": "hull",
+          "s": 31.41,
+          "e": 31.65
+        },
+        {
+          "w": "burn",
+          "s": 31.73,
+          "e": 32.05
+        },
+        {
+          "w": "and",
+          "s": 32.09,
+          "e": 32.17
+        },
+        {
+          "w": "smoke.",
+          "s": 32.29,
+          "e": 32.77
+        }
+      ]
+    },
+    {
+      "text": "Another blast threw water higher than the ship.",
+      "start": 33.25,
+      "end": 35.65,
+      "words": [
+        {
+          "w": "Another",
+          "s": 33.25,
+          "e": 33.65
+        },
+        {
+          "w": "blast",
+          "s": 33.73,
+          "e": 34.05
+        },
+        {
+          "w": "threw",
+          "s": 34.09,
+          "e": 34.29
+        },
+        {
+          "w": "water",
+          "s": 34.45,
+          "e": 34.61
+        },
+        {
+          "w": "higher",
+          "s": 34.69,
+          "e": 34.93
+        },
+        {
+          "w": "than",
+          "s": 35.01,
+          "e": 35.09
+        },
+        {
+          "w": "the",
+          "s": 35.13,
+          "e": 35.21
+        },
+        {
+          "w": "ship.",
+          "s": 35.25,
+          "e": 35.65
+        }
+      ]
+    },
+    {
+      "text": "And the former USS Juneau sank into the Philippine Sea.",
+      "start": 36.21,
+      "end": 39.97,
+      "words": [
+        {
+          "w": "And",
+          "s": 36.21,
+          "e": 36.29
+        },
+        {
+          "w": "the",
+          "s": 36.37,
+          "e": 36.45
+        },
+        {
+          "w": "former",
+          "s": 36.53,
+          "e": 36.85
+        },
+        {
+          "w": "USS",
+          "s": 37.01,
+          "e": 37.49
+        },
+        {
+          "w": "Juneau",
+          "s": 37.57,
+          "e": 37.97
+        },
+        {
+          "w": "sank",
+          "s": 38.21,
+          "e": 38.45
+        },
+        {
+          "w": "into",
+          "s": 38.53,
+          "e": 38.69
+        },
+        {
+          "w": "the",
+          "s": 38.73,
+          "e": 38.81
+        },
+        {
+          "w": "Philippine",
+          "s": 38.85,
+          "e": 39.25
+        },
+        {
+          "w": "Sea.",
+          "s": 39.41,
+          "e": 39.97
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 40.17
+    },
+    "av_sync": {
+      "ok": true,
+      "value": -0.004
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261118-10/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261118-10-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-10/ccf-20261118-10.mp4"
 }
