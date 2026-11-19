@@ -1,7 +1,895 @@
 {
   "short_id": "ccf-20261118-11",
-  "revision": 2,
-  "status": "error",
-  "built_at": "2026-11-19T02:47:34Z",
-  "error": "[Errno 2] No such file or directory: 'ffmpeg'"
+  "revision": 3,
+  "status": "ok",
+  "built_at": "2026-11-19T02:52:25Z",
+  "duration": 55.85,
+  "source_resolution": "4096x2160",
+  "timeline": [
+    {
+      "text": "This forty eight year old ship was smashing a road through Antarctic ice.",
+      "start": 0.05,
+      "end": 4.41,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "forty",
+          "s": 0.45,
+          "e": 0.69
+        },
+        {
+          "w": "eight",
+          "s": 0.77,
+          "e": 0.85
+        },
+        {
+          "w": "year",
+          "s": 0.93,
+          "e": 1.09
+        },
+        {
+          "w": "old",
+          "s": 1.17,
+          "e": 1.25
+        },
+        {
+          "w": "ship",
+          "s": 1.33,
+          "e": 1.65
+        },
+        {
+          "w": "was",
+          "s": 1.77,
+          "e": 1.89
+        },
+        {
+          "w": "smashing",
+          "s": 2.01,
+          "e": 2.45
+        },
+        {
+          "w": "a",
+          "s": 2.53,
+          "e": 2.61
+        },
+        {
+          "w": "road",
+          "s": 2.61,
+          "e": 2.93
+        },
+        {
+          "w": "through",
+          "s": 3.01,
+          "e": 3.09
+        },
+        {
+          "w": "Antarctic",
+          "s": 3.17,
+          "e": 3.65
+        },
+        {
+          "w": "ice.",
+          "s": 3.81,
+          "e": 4.41
+        }
+      ]
+    },
+    {
+      "text": "The Coast Guard cutter Polar Star is three hundred ninety nine feet long and weighs thirteen thousand tons.",
+      "start": 4.69,
+      "end": 11.57,
+      "words": [
+        {
+          "w": "The",
+          "s": 4.69,
+          "e": 4.77
+        },
+        {
+          "w": "Coast",
+          "s": 4.85,
+          "e": 5.09
+        },
+        {
+          "w": "Guard",
+          "s": 5.21,
+          "e": 5.33
+        },
+        {
+          "w": "cutter",
+          "s": 5.41,
+          "e": 5.73
+        },
+        {
+          "w": "Polar",
+          "s": 5.81,
+          "e": 6.13
+        },
+        {
+          "w": "Star",
+          "s": 6.21,
+          "e": 6.61
+        },
+        {
+          "w": "is",
+          "s": 6.69,
+          "e": 6.93
+        },
+        {
+          "w": "three",
+          "s": 7.01,
+          "e": 7.17
+        },
+        {
+          "w": "hundred",
+          "s": 7.25,
+          "e": 7.49
+        },
+        {
+          "w": "ninety",
+          "s": 7.65,
+          "e": 7.89
+        },
+        {
+          "w": "nine",
+          "s": 7.97,
+          "e": 8.05
+        },
+        {
+          "w": "feet",
+          "s": 8.21,
+          "e": 8.37
+        },
+        {
+          "w": "long",
+          "s": 8.45,
+          "e": 8.85
+        },
+        {
+          "w": "and",
+          "s": 9.17,
+          "e": 9.25
+        },
+        {
+          "w": "weighs",
+          "s": 9.33,
+          "e": 9.65
+        },
+        {
+          "w": "thirteen",
+          "s": 9.73,
+          "e": 10.13
+        },
+        {
+          "w": "thousand",
+          "s": 10.37,
+          "e": 10.69
+        },
+        {
+          "w": "tons.",
+          "s": 10.85,
+          "e": 11.57
+        }
+      ]
+    },
+    {
+      "text": "It had sailed from Seattle to McMurdo Station, the largest station on the continent.",
+      "start": 11.89,
+      "end": 16.93,
+      "words": [
+        {
+          "w": "It",
+          "s": 11.89,
+          "e": 11.97
+        },
+        {
+          "w": "had",
+          "s": 12.05,
+          "e": 12.21
+        },
+        {
+          "w": "sailed",
+          "s": 12.29,
+          "e": 12.53
+        },
+        {
+          "w": "from",
+          "s": 12.61,
+          "e": 12.69
+        },
+        {
+          "w": "Seattle",
+          "s": 12.85,
+          "e": 13.25
+        },
+        {
+          "w": "to",
+          "s": 13.33,
+          "e": 13.41
+        },
+        {
+          "w": "McMurdo",
+          "s": 13.49,
+          "e": 13.97
+        },
+        {
+          "w": "Station,",
+          "s": 14.05,
+          "e": 14.85
+        },
+        {
+          "w": "the",
+          "s": 14.93,
+          "e": 15.01
+        },
+        {
+          "w": "largest",
+          "s": 15.09,
+          "e": 15.49
+        },
+        {
+          "w": "station",
+          "s": 15.69,
+          "e": 15.89
+        },
+        {
+          "w": "on",
+          "s": 15.93,
+          "e": 16.01
+        },
+        {
+          "w": "the",
+          "s": 16.05,
+          "e": 16.13
+        },
+        {
+          "w": "continent.",
+          "s": 16.13,
+          "e": 16.93
+        }
+      ]
+    },
+    {
+      "text": "Its job is to break a channel through miles of ice, some of it twenty one feet thick.",
+      "start": 17.25,
+      "end": 22.53,
+      "words": [
+        {
+          "w": "Its",
+          "s": 17.25,
+          "e": 17.49
+        },
+        {
+          "w": "job",
+          "s": 17.57,
+          "e": 17.89
+        },
+        {
+          "w": "is",
+          "s": 17.93,
+          "e": 18.01
+        },
+        {
+          "w": "to",
+          "s": 18.05,
+          "e": 18.13
+        },
+        {
+          "w": "break",
+          "s": 18.21,
+          "e": 18.37
+        },
+        {
+          "w": "a",
+          "s": 18.45,
+          "e": 18.53
+        },
+        {
+          "w": "channel",
+          "s": 18.61,
+          "e": 18.93
+        },
+        {
+          "w": "through",
+          "s": 19.05,
+          "e": 19.17
+        },
+        {
+          "w": "miles",
+          "s": 19.25,
+          "e": 19.57
+        },
+        {
+          "w": "of",
+          "s": 19.61,
+          "e": 19.69
+        },
+        {
+          "w": "ice,",
+          "s": 19.73,
+          "e": 20.45
+        },
+        {
+          "w": "some",
+          "s": 20.53,
+          "e": 20.69
+        },
+        {
+          "w": "of",
+          "s": 20.73,
+          "e": 20.81
+        },
+        {
+          "w": "it",
+          "s": 20.85,
+          "e": 20.93
+        },
+        {
+          "w": "twenty",
+          "s": 21.01,
+          "e": 21.33
+        },
+        {
+          "w": "one",
+          "s": 21.37,
+          "e": 21.49
+        },
+        {
+          "w": "feet",
+          "s": 21.65,
+          "e": 21.81
+        },
+        {
+          "w": "thick.",
+          "s": 21.89,
+          "e": 22.53
+        }
+      ]
+    },
+    {
+      "text": "An icebreaker rarely slices through. Its rounded bow rides up onto the ice, and the ship's weight crushes it from above.",
+      "start": 22.85,
+      "end": 30.65,
+      "words": [
+        {
+          "w": "An",
+          "s": 22.85,
+          "e": 22.93
+        },
+        {
+          "w": "icebreaker",
+          "s": 23.01,
+          "e": 23.65
+        },
+        {
+          "w": "rarely",
+          "s": 23.81,
+          "e": 24.13
+        },
+        {
+          "w": "slices",
+          "s": 24.21,
+          "e": 24.61
+        },
+        {
+          "w": "through.",
+          "s": 24.69,
+          "e": 25.01
+        },
+        {
+          "w": "Its",
+          "s": 25.49,
+          "e": 25.73
+        },
+        {
+          "w": "rounded",
+          "s": 25.81,
+          "e": 26.13
+        },
+        {
+          "w": "bow",
+          "s": 26.21,
+          "e": 26.53
+        },
+        {
+          "w": "rides",
+          "s": 26.61,
+          "e": 26.85
+        },
+        {
+          "w": "up",
+          "s": 26.93,
+          "e": 27.01
+        },
+        {
+          "w": "onto",
+          "s": 27.09,
+          "e": 27.33
+        },
+        {
+          "w": "the",
+          "s": 27.37,
+          "e": 27.45
+        },
+        {
+          "w": "ice,",
+          "s": 27.49,
+          "e": 28.13
+        },
+        {
+          "w": "and",
+          "s": 28.21,
+          "e": 28.29
+        },
+        {
+          "w": "the",
+          "s": 28.33,
+          "e": 28.41
+        },
+        {
+          "w": "ship's",
+          "s": 28.45,
+          "e": 28.85
+        },
+        {
+          "w": "weight",
+          "s": 29.01,
+          "e": 29.17
+        },
+        {
+          "w": "crushes",
+          "s": 29.25,
+          "e": 29.57
+        },
+        {
+          "w": "it",
+          "s": 29.65,
+          "e": 29.73
+        },
+        {
+          "w": "from",
+          "s": 29.81,
+          "e": 29.89
+        },
+        {
+          "w": "above.",
+          "s": 29.97,
+          "e": 30.65
+        }
+      ]
+    },
+    {
+      "text": "When the ice will not give, the crew backs up and rams it again.",
+      "start": 30.93,
+      "end": 34.77,
+      "words": [
+        {
+          "w": "When",
+          "s": 30.93,
+          "e": 31.09
+        },
+        {
+          "w": "the",
+          "s": 31.13,
+          "e": 31.21
+        },
+        {
+          "w": "ice",
+          "s": 31.25,
+          "e": 31.49
+        },
+        {
+          "w": "will",
+          "s": 31.57,
+          "e": 31.65
+        },
+        {
+          "w": "not",
+          "s": 31.73,
+          "e": 31.81
+        },
+        {
+          "w": "give,",
+          "s": 31.89,
+          "e": 32.53
+        },
+        {
+          "w": "the",
+          "s": 32.61,
+          "e": 32.69
+        },
+        {
+          "w": "crew",
+          "s": 32.77,
+          "e": 32.93
+        },
+        {
+          "w": "backs",
+          "s": 33.01,
+          "e": 33.33
+        },
+        {
+          "w": "up",
+          "s": 33.41,
+          "e": 33.65
+        },
+        {
+          "w": "and",
+          "s": 33.73,
+          "e": 33.89
+        },
+        {
+          "w": "rams",
+          "s": 33.97,
+          "e": 34.21
+        },
+        {
+          "w": "it",
+          "s": 34.29,
+          "e": 34.37
+        },
+        {
+          "w": "again.",
+          "s": 34.37,
+          "e": 34.77
+        }
+      ]
+    },
+    {
+      "text": "That season, Polar Star broke thirty five nautical miles of fast ice, from the ice pier out to the Ross Sea.",
+      "start": 35.936,
+      "end": 43.17,
+      "words": [
+        {
+          "w": "That",
+          "s": 35.936,
+          "e": 36.016
+        },
+        {
+          "w": "season,",
+          "s": 36.05,
+          "e": 36.69
+        },
+        {
+          "w": "Polar",
+          "s": 36.77,
+          "e": 37.01
+        },
+        {
+          "w": "Star",
+          "s": 37.09,
+          "e": 37.33
+        },
+        {
+          "w": "broke",
+          "s": 37.41,
+          "e": 37.65
+        },
+        {
+          "w": "thirty",
+          "s": 37.73,
+          "e": 37.97
+        },
+        {
+          "w": "five",
+          "s": 38.05,
+          "e": 38.21
+        },
+        {
+          "w": "nautical",
+          "s": 38.37,
+          "e": 38.69
+        },
+        {
+          "w": "miles",
+          "s": 38.77,
+          "e": 39.09
+        },
+        {
+          "w": "of",
+          "s": 39.17,
+          "e": 39.25
+        },
+        {
+          "w": "fast",
+          "s": 39.33,
+          "e": 39.65
+        },
+        {
+          "w": "ice,",
+          "s": 39.73,
+          "e": 40.37
+        },
+        {
+          "w": "from",
+          "s": 40.45,
+          "e": 40.53
+        },
+        {
+          "w": "the",
+          "s": 40.61,
+          "e": 40.69
+        },
+        {
+          "w": "ice",
+          "s": 40.77,
+          "e": 41.01
+        },
+        {
+          "w": "pier",
+          "s": 41.09,
+          "e": 41.33
+        },
+        {
+          "w": "out",
+          "s": 41.49,
+          "e": 41.65
+        },
+        {
+          "w": "to",
+          "s": 41.73,
+          "e": 41.81
+        },
+        {
+          "w": "the",
+          "s": 41.85,
+          "e": 41.93
+        },
+        {
+          "w": "Ross",
+          "s": 41.97,
+          "e": 42.21
+        },
+        {
+          "w": "Sea.",
+          "s": 42.29,
+          "e": 43.17
+        }
+      ]
+    },
+    {
+      "text": "The channel would let two supply ships bring in more than a thousand cargo containers and eight million gallons of fuel.",
+      "start": 43.25,
+      "end": 50.29,
+      "words": [
+        {
+          "w": "The",
+          "s": 43.25,
+          "e": 43.33
+        },
+        {
+          "w": "channel",
+          "s": 43.41,
+          "e": 43.65
+        },
+        {
+          "w": "would",
+          "s": 43.73,
+          "e": 43.89
+        },
+        {
+          "w": "let",
+          "s": 44.01,
+          "e": 44.13
+        },
+        {
+          "w": "two",
+          "s": 44.21,
+          "e": 44.29
+        },
+        {
+          "w": "supply",
+          "s": 44.37,
+          "e": 44.77
+        },
+        {
+          "w": "ships",
+          "s": 44.85,
+          "e": 45.09
+        },
+        {
+          "w": "bring",
+          "s": 45.17,
+          "e": 45.41
+        },
+        {
+          "w": "in",
+          "s": 45.49,
+          "e": 45.57
+        },
+        {
+          "w": "more",
+          "s": 45.65,
+          "e": 45.73
+        },
+        {
+          "w": "than",
+          "s": 45.81,
+          "e": 45.89
+        },
+        {
+          "w": "a",
+          "s": 45.97,
+          "e": 46.05
+        },
+        {
+          "w": "thousand",
+          "s": 46.13,
+          "e": 46.53
+        },
+        {
+          "w": "cargo",
+          "s": 46.61,
+          "e": 46.85
+        },
+        {
+          "w": "containers",
+          "s": 46.93,
+          "e": 47.73
+        },
+        {
+          "w": "and",
+          "s": 47.81,
+          "e": 48.05
+        },
+        {
+          "w": "eight",
+          "s": 48.13,
+          "e": 48.21
+        },
+        {
+          "w": "million",
+          "s": 48.45,
+          "e": 48.77
+        },
+        {
+          "w": "gallons",
+          "s": 48.85,
+          "e": 49.09
+        },
+        {
+          "w": "of",
+          "s": 49.17,
+          "e": 49.25
+        },
+        {
+          "w": "fuel.",
+          "s": 49.33,
+          "e": 50.29
+        }
+      ]
+    },
+    {
+      "text": "After three weeks of breaking ice, Polar Star and its crew arrived at McMurdo Station.",
+      "start": 50.49,
+      "end": 55.65,
+      "words": [
+        {
+          "w": "After",
+          "s": 50.49,
+          "e": 50.69
+        },
+        {
+          "w": "three",
+          "s": 50.81,
+          "e": 50.93
+        },
+        {
+          "w": "weeks",
+          "s": 51.01,
+          "e": 51.17
+        },
+        {
+          "w": "of",
+          "s": 51.25,
+          "e": 51.33
+        },
+        {
+          "w": "breaking",
+          "s": 51.49,
+          "e": 51.65
+        },
+        {
+          "w": "ice,",
+          "s": 51.73,
+          "e": 52.37
+        },
+        {
+          "w": "Polar",
+          "s": 52.45,
+          "e": 52.69
+        },
+        {
+          "w": "Star",
+          "s": 52.85,
+          "e": 53.09
+        },
+        {
+          "w": "and",
+          "s": 53.13,
+          "e": 53.21
+        },
+        {
+          "w": "its",
+          "s": 53.25,
+          "e": 53.41
+        },
+        {
+          "w": "crew",
+          "s": 53.61,
+          "e": 53.81
+        },
+        {
+          "w": "arrived",
+          "s": 53.89,
+          "e": 54.21
+        },
+        {
+          "w": "at",
+          "s": 54.29,
+          "e": 54.37
+        },
+        {
+          "w": "McMurdo",
+          "s": 54.49,
+          "e": 54.77
+        },
+        {
+          "w": "Station.",
+          "s": 54.93,
+          "e": 55.65
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 55.87
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.017
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.2
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261118-11/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261118-11-r3.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261118-11/ccf-20261118-11.mp4"
 }
