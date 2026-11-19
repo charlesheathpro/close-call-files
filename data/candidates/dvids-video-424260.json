@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-424260",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T05:35:31Z",
   "duration": 333.31,
   "source_file": {
@@ -386,5 +386,6 @@
     280.81,
     301.61,
     322.41
-  ]
+  ],
+  "pass_reason": "five minutes of waiting, launch is brief and split-screen"
 }
