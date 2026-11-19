@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:994312",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual",
+  "title": "USCGC Polar Star (WAGB 10) escorts motor vessel Stena Polaris through the ice-covered Ross Sea to McMurdo Station during Operation Deep Freeze 2026",
+  "description": "USCGC Polar Star (WAGB 10) creates a channel in the Ross Sea for the motor vessel Stena Polaris to safely navigate through on its way to supply McMurdo Station in Antarctica amid Operation Deep Freeze 2026, Jan. 21, 2026. Operation Deep Freeze is one of the more challenging U.S. military peacetime missions due to the harsh environment in which it is conducted, and this year also commemorates the Polar Star’s 50th year of service. (U.S. Coast Guard video by Petty Officer 2nd Class Christopher Bokum)",
+  "keywords": "",
+  "date": "01.21.2026",
+  "branch": "",
+  "unit_name": "Petty Officer 2nd Class Christopher Bokum",
+  "credit": "Video by",
+  "category": "Video Productions",
+  "location": {
+    "city": "Antarctica",
+    "raw": "ANTARCTICA"
+  },
+  "page_url": "https://www.dvidshub.net/video/994312/uscgc-polar-star-wagb-10-escorts-motor-vessel-stena-polaris-through-ice-covered-ross-sea-mcmurdo-station-during",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-994312",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T01:37:25Z",
+  "duration": 134.47,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111501376/DOD_111501376.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    29.76,
+    71.4
+  ],
+  "drama_score": 71,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      134.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-994312.jpg",
+  "sheet_times": [
+    4.19,
+    12.56,
+    20.93,
+    29.31,
+    37.68,
+    46.05,
+    54.42,
+    62.8,
+    71.17,
+    79.54,
+    87.92,
+    96.29,
+    104.66,
+    113.04,
+    121.41,
+    129.78
+  ],
+  "pass_reason": "second Polar Star icebreaking story; ccf-20261118-11 already tells it"
+}

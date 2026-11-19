@@ -1,0 +1,67 @@
+{
+  "asset_id": "video:913139",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual",
+  "title": "Coast Guard Cutter Polar Star (WAGB 10) break ice during Operation Deep Freeze 24",
+  "description": "Coast Guard Cutter Polar Star (WAGB 10) breaks a channel through the fast ice for Operation Deep Freeze 2024 in McMurdo Sound, Jan 6, 2024. Operation Deep Freeze is a joint service, inter-agency support operation for the National Science Foundation, which manages the United States Antarctic Program. (U.S. Coast Guard video by Petty Officer 2nd Class Jeremy Burgess and Petty Officer 2nd Class Ryan Graves)",
+  "keywords": "",
+  "date": "01.06.2024",
+  "branch": "",
+  "unit_name": "Petty Officer 2nd Class Ryan Graves",
+  "credit": "U.S. Coast Guard video by Petty Officer 2nd Class Jeremy Burgess and Petty Officer 2nd Class Ryan Graves",
+  "category": "B-Roll",
+  "location": {
+    "city": "Antarctica",
+    "raw": "ANTARCTICA"
+  },
+  "page_url": "https://www.dvidshub.net/video/913139/coast-guard-cutter-polar-star-wagb-10-break-ice-during-operation-deep-freeze-24",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-913139",
+  "status": "used",
+  "harvested_at": "2026-11-19T01:34:50Z",
+  "duration": 119.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2402/DOD_110131480/DOD_110131480.mp4",
+    "width": 4096,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.19,
+    65.15,
+    73.32
+  ],
+  "drama_score": 43,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      119.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-913139.jpg",
+  "sheet_times": [
+    3.72,
+    11.17,
+    18.61,
+    26.06,
+    33.5,
+    40.95,
+    48.39,
+    55.84,
+    63.28,
+    70.73,
+    78.17,
+    85.62,
+    93.06,
+    100.51,
+    107.95,
+    115.4
+  ],
+  "used_by": "ccf-20261118-11"
+}

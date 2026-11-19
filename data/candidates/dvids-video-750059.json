@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:750059",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual",
+  "title": "Lanikai Beach UXO Removal",
+  "description": "Sailors assigned to Mobile Diving and Salvage Unit 1 (MDSU 1) Detachment EOD, removed eight potential pieces of unexploded ordnance EOD deemed safe to move before conducting a controlled detonation of two more after they were discovered off Lanikai Beach in Kailua, Hawaii. (U.S. Navy photo by Mass Communication Specialist 2nd Class Charles Oki/Released)",
+  "keywords": "",
+  "date": "04.27.2020",
+  "branch": "",
+  "unit_name": "Petty Officer 2nd Class Charles Oki",
+  "credit": "U.S. Navy video by Petty Officer 2nd Class Charles Oki",
+  "category": "B-Roll",
+  "location": {
+    "city": "Kailua",
+    "raw": "KAILUA, HAWAII, UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/750059/lanikai-beach-uxo-removal",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-750059",
+  "status": "used",
+  "harvested_at": "2026-11-19T01:39:55Z",
+  "duration": 121.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107792422/DOD_107792422.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    27.28,
+    35.08,
+    41.21,
+    48.47,
+    60.39,
+    86.71,
+    94.93,
+    101.94
+  ],
+  "drama_score": 84,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-750059.jpg",
+  "sheet_times": [
+    3.78,
+    11.35,
+    18.92,
+    26.48,
+    34.05,
+    41.61,
+    49.18,
+    56.75,
+    64.31,
+    71.88,
+    79.44,
+    87.01,
+    94.58,
+    102.14,
+    109.71,
+    117.27
+  ],
+  "used_by": "ccf-20261118-12"
+}
