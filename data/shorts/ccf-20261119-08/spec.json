@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-08",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-759806",
   "lane": "aviation_naval",
   "story_type": "warship fire at the pier, helicopter bucket drops and tugs fight it for four days",
@@ -78,16 +78,16 @@
   "line_shots": [
     [
       {
-        "start": 84.0,
-        "end": 86.4,
+        "start": 85.0,
+        "end": 87.5,
         "layout": "crop",
         "crop_x": 0.8
       },
       {
-        "start": 80.0,
-        "end": 82.4,
+        "start": 87.5,
+        "end": 90.0,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.6
       }
     ],
     [
@@ -204,10 +204,10 @@
         "crop_x": 0.75
       },
       {
-        "start": 88.0,
-        "end": 90.4,
+        "start": 80.0,
+        "end": 82.4,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       }
     ]
   ]
