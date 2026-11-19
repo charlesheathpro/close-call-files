@@ -1,0 +1,61 @@
+{
+  "asset_id": "video:707735",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard responds to MV Golden Ray in St. Simons Sound, Brunswick, Georgia",
+  "description": "The Coast Guard and port partners are searching for the remaining four crewmembers aboard the 656-foot vehicle carrier GOLDEN RAY, in St. Simons Sound, near Brunswick, Georgia, Sept. 8, 2019. A Coast Guard MH-65 Dolphin helicopter aircrews and other port partners rescued 20 people after it was reported the vessel was disabled, listing, and had a fire on board. U.S. Coast Guard video by Air Station Savannah.",
+  "keywords": "",
+  "date": "09.08.2019",
+  "branch": "",
+  "unit_name": "Chief Petty Officer Charly Tautfest",
+  "credit": "Chief Petty Officer Charly Tautfest",
+  "category": "B-Roll",
+  "location": {
+    "city": "Georgia",
+    "raw": "GEORGIA, UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/707735/coast-guard-responds-mv-golden-ray-st-simons-sound-brunswick-georgia",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-707735",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T01:04:20Z",
+  "duration": 36.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107195834/DOD_107195834.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    28.96
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-707735.jpg",
+  "sheet_times": [
+    1.11,
+    3.33,
+    5.55,
+    7.77,
+    9.99,
+    12.21,
+    14.43,
+    16.65,
+    18.86,
+    21.08,
+    23.3,
+    25.52,
+    27.74,
+    29.96,
+    32.18,
+    34.4
+  ],
+  "pass_reason": "same Golden Ray rescue as 709028 (ccf-20261118-08)"
+}

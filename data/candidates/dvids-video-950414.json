@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:950414",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard rescues 4 from sinking boat after collision south of Block Island, RI",
+  "description": "The Coast Guard rescued four people on January 23, 2025 from a fishing boat after a collision between two fishing boats approximately 10 miles south of Block Island, Rhode Island. All four passengers aboard the Mattie and Maren II were transferred to the Coast Guard Station Montauk 47-foot motor lifeboat and taken to Station Montauk with no reported injuries. (U.S. Coast Guard courtesy video)",
+  "keywords": "",
+  "date": "01.23.2025",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard PADET New York",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "location": {
+    "city": "United States",
+    "raw": "UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/950414/coast-guard-rescues-4-sinking-boat-after-collision-south-block-island-ri",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-950414",
+  "status": "new",
+  "harvested_at": "2026-11-19T01:14:42Z",
+  "duration": 60.19,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2501/DOD_110781245/DOD_110781245.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.08,
+    47.45
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      60.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-950414.jpg",
+  "sheet_times": [
+    1.87,
+    5.6,
+    9.33,
+    13.06,
+    16.79,
+    20.52,
+    24.25,
+    27.98,
+    31.71,
+    35.44,
+    39.17,
+    42.9,
+    46.64,
+    50.37,
+    54.1,
+    57.83
+  ]
+}

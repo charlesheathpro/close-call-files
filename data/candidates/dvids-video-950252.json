@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:950252",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard, responding vessels rescue 4 U.S. boaters from life raft on the Atlantic Ocean",
+  "description": "A Coast Guard HC-144 Ocean Sentry aircrew from Air Station Miami maintains air coverage during the rescue of four U.S. boaters in Atlantic Ocean waters north of Dominican Republic, Jan. 21, 2025. The survivors were forced to abandon the sailing vessel Mariposa moments earlier after the vessel sank near the Silver Bank area. The four boaters were rescued by fishermen from the fishing vessel Bonanza who transferred the survivors to the U.S. flagged container ship Coqui for their transport to Jacksonville, Fla. (U.S. Coast Guard photo)",
+  "keywords": "",
+  "date": "01.21.2025",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard Southeast",
+  "credit": "U.S. Coast Guard video courtesy of U.S. Coast Guard Southeast",
+  "category": "B-Roll",
+  "location": {
+    "city": "United States",
+    "raw": "UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/950252/coast-guard-responding-vessels-rescue-4-us-boaters-life-raft-atlantic-ocean",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-950252",
+  "status": "used",
+  "harvested_at": "2026-11-19T01:13:43Z",
+  "duration": 67.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2501/DOD_110778819/DOD_110778819.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      67.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-950252.jpg",
+  "sheet_times": [
+    2.08,
+    6.24,
+    10.4,
+    14.57,
+    18.73,
+    22.89,
+    27.05,
+    31.21,
+    35.37,
+    39.53,
+    43.7,
+    47.86,
+    52.02,
+    56.18,
+    60.34,
+    64.5
+  ],
+  "used_by": "ccf-20261118-09"
+}

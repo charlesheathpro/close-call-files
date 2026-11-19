@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:709028",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "manual",
+  "title": "Coast Guard, port partners, salvage crews locate and rescue the four remaining Golden Ray crew members in St. Simons Sound",
+  "description": "Coast Guard crews and salvage crews, along with port partners, locate and rescue the remaining four crewmembers aboard the 656-foot vehicle carrier Golden Ray, Sept. 9, 2019, in St. Simons Sound, near Brunswick, Georgia. A Coast Guard Air Station Savannah MH-65 Dolphin helicopter aircrew, Station Brunswick boat crews and other port partners rescued 20 people the morning of Sept. 8, after it was reported the vessel was disabled and listing. (U.S. Coast Guard B-Roll)",
+  "keywords": "",
+  "date": "09.09.2019",
+  "branch": "",
+  "unit_name": "U.S. Coast Guard PADET Jacksonville",
+  "credit": "U.S. Coast Guard video courtesy of PADET Jacksonville",
+  "category": "B-Roll",
+  "location": {
+    "city": "Brunswick",
+    "raw": "BRUNSWICK, GEORGIA, UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/709028/coast-guard-port-partners-salvage-crews-locate-and-rescue-four-remaining-golden-ray-crew-members-st-simons-sound",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-709028",
+  "status": "used",
+  "harvested_at": "2026-11-19T01:04:00Z",
+  "duration": 132.27,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1909/DOD_107223011/DOD_107223011.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    12.1,
+    22.86,
+    29.74,
+    90.59,
+    103.94,
+    117.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-709028.jpg",
+  "sheet_times": [
+    4.12,
+    12.35,
+    20.59,
+    28.82,
+    37.06,
+    45.29,
+    53.53,
+    61.77,
+    70.0,
+    78.24,
+    86.47,
+    94.71,
+    102.94,
+    111.18,
+    119.41,
+    127.65
+  ],
+  "used_by": "ccf-20261118-08"
+}

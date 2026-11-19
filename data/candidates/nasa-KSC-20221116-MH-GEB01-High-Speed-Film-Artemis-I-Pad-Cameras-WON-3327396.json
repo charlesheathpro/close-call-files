@@ -1,0 +1,78 @@
+{
+ "asset_id": "nasa:KSC-20221116-MH-GEB01-High_Speed_Film_Artemis_I_Pad_Cameras_WON-3327396",
+ "source": "nasa",
+ "lane": "aviation_naval",
+ "matched_query": "high-speed camera",
+ "title": "Artemis I Launch Pad Cameras - High Speed Cameras",
+ "description": "High-speed film footage of the Artemis I launch",
+ "keywords": "Artemis, Artemis I, SLS, Orion, EGS, Exploration Ground System, Space Launch System",
+ "date": "2022-11-16T00:00:00Z",
+ "branch": "NASA",
+ "unit_name": "NASA KSC",
+ "credit": "NASA KSC video",
+ "page_url": "https://images.nasa.gov/details/KSC-20221116-MH-GEB01-High_Speed_Film_Artemis_I_Pad_Cameras_WON-3327396",
+ "via": "the NASA Image and Video Library",
+ "license": "Public domain (NASA work, U.S. government)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "nasa-KSC-20221116-MH-GEB01-High-Speed-Film-Artemis-I-Pad-Cameras-WON-3327396",
+ "status": "passed_over",
+ "harvested_at": "2026-11-19T00:55:36Z",
+ "duration": 529.34,
+ "source_file": {
+  "src": "https://images-assets.nasa.gov/video/KSC-20221116-MH-GEB01-High_Speed_Film_Artemis_I_Pad_Cameras_WON-3327396/KSC-20221116-MH-GEB01-High_Speed_Film_Artemis_I_Pad_Cameras_WON-3327396~orig.mp4",
+  "width": 1024,
+  "height": 780,
+  "duration": 529.333333
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  11.93,
+  16.63,
+  111.7,
+  122.43,
+  124.13,
+  126.67,
+  126.7,
+  251.87,
+  261.53,
+  262.83,
+  265.63,
+  397.73,
+  397.8,
+  398.43,
+  398.6,
+  398.73,
+  400.67
+ ],
+ "drama_score": 25,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   529.4
+  ]
+ },
+ "sheet": "data/candidates/nasa-KSC-20221116-MH-GEB01-High-Speed-Film-Artemis-I-Pad-Cameras-WON-3327396.jpg",
+ "sheet_times": [
+  16.53,
+  49.58,
+  82.63,
+  115.68,
+  148.74,
+  181.79,
+  214.84,
+  247.9,
+  280.95,
+  314.0,
+  347.05,
+  380.11,
+  413.16,
+  446.21,
+  479.26,
+  512.32
+ ],
+ "pass_reason": "dark slow-motion pad film of static structure, Artemis I launch already told (17-30)"
+}

@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:302776",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual",
+  "title": "FTM-22: Aegis Ballistic Missile Defense Flight Test Video",
+  "description": "A Standard Missile-3 (SM-3) Block 1B guided missile is launched from the USS Lake Erie, and successfully intercepted a medium-range ballistic missile target off the coast of Kauai, Hawaii during a Missile Defense Agency and US Navy test.",
+  "keywords": "",
+  "date": "10.03.2013",
+  "branch": "",
+  "unit_name": "Jessica Kosanovich",
+  "credit": "Missile Defense Agency video by Jessica Kosanovich",
+  "category": "B-Roll",
+  "location": {
+    "city": "United States",
+    "raw": "UNITED STATES"
+  },
+  "page_url": "https://www.dvidshub.net/video/302776/ftm-22-aegis-ballistic-missile-defense-flight-test-video",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "id": "dvids-video-302776",
+  "status": "new",
+  "harvested_at": "2026-11-19T01:13:53Z",
+  "duration": 92.61,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1310/DOD_100927489/DOD_100927489.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    24.02,
+    24.26,
+    30.4,
+    41.41,
+    51.38,
+    58.59,
+    77.21,
+    79.28,
+    81.58
+  ],
+  "drama_score": 67,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      24.1,
+      51.4
+    ],
+    "silence_ends": [
+      17.6,
+      48.2,
+      92.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-302776.jpg",
+  "sheet_times": [
+    2.88,
+    8.64,
+    14.39,
+    20.15,
+    25.91,
+    31.66,
+    37.42,
+    43.18,
+    48.93,
+    54.69,
+    60.45,
+    66.2,
+    71.96,
+    77.72,
+    83.47,
+    89.23
+  ]
+}
