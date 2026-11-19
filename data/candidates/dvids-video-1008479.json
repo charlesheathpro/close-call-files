@@ -1,0 +1,167 @@
+{
+  "asset_id": "video:1008479",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "GT256 Minuteman ICBM Test Launch (Narrated)",
+  "description": "Air Force Global Strike Command Airmen conducted an operational test launch of an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base, Calif., May 20, 2026. (Narrated)",
+  "keywords": "",
+  "date": "05.20.2026",
+  "branch": "",
+  "unit_name": "Space Launch Delta 30",
+  "credit": "Airman 1st Class Ian Hawkes",
+  "page_url": "https://www.dvidshub.net/video/1008479/gt256-minuteman-icbm-test-launch-narrated",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "VANDENBERG AIR FORCE BASE, CALIFORNIA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-1008479",
+  "status": "used",
+  "harvested_at": "2026-11-19T16:45:44Z",
+  "duration": 108.09,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111733890/DOD_111733890.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 8.5,
+      "e": 18.12,
+      "text": "Air Force Global Strike Command Airmen conducted an operational test launch of an unarmed minute"
+    },
+    {
+      "s": 18.12,
+      "e": 24.92,
+      "text": "man three intercontinental ballistic missile from Vandenberg Space Force Base May 20th to"
+    },
+    {
+      "s": 24.92,
+      "e": 30.56,
+      "text": "demonstrate the readiness of the US nuclear forces and evaluate both the weapon system"
+    },
+    {
+      "s": 30.56,
+      "e": 35.4,
+      "text": "and personnel who maintain it in a highly controlled testing environment."
+    },
+    {
+      "s": 35.4,
+      "e": 40.6,
+      "text": "The test launch used a randomly selected intercontinental ballistic missile pulled from"
+    },
+    {
+      "s": 40.6,
+      "e": 43.8,
+      "text": "Mountstrom Air Force Base, Montana."
+    },
+    {
+      "s": 43.8,
+      "e": 49.46,
+      "text": "The missile was transported more than 1,300 miles and reassembled at Vandenberg Space Force"
+    },
+    {
+      "s": 49.46,
+      "e": 51.72,
+      "text": "Base, California."
+    },
+    {
+      "s": 51.72,
+      "e": 58.12,
+      "text": "The ICBM was equipped with a single Mark 12A high-fidelity reentry vehicle and traveled"
+    },
+    {
+      "s": 58.12,
+      "e": 66.6,
+      "text": "approximately 4,200 miles at a speed of more than 15,000 miles per hour to a test range"
+    },
+    {
+      "s": 66.6,
+      "e": 70.24,
+      "text": "near the Kwajalenitol in the Marshall Islands."
+    },
+    {
+      "s": 70.24,
+      "e": 76.52,
+      "text": "The ICBM test and evaluation program helps ensure the current land-based leg of the nuclear"
+    },
+    {
+      "s": 76.52,
+      "e": 83.64,
+      "text": "triad remains safe, reliable, and effective until its successor is fully deployed."
+    },
+    {
+      "s": 83.64,
+      "e": 90.68,
+      "text": "The 55-year-old minute man three is based in Colorado, Montana, Nebraska, North Dakota,"
+    },
+    {
+      "s": 90.68,
+      "e": 95.6,
+      "text": "and Wyoming and will be replaced by the LGM-35A Sentinel."
+    },
+    {
+      "s": 95.6,
+      "e": 101.0,
+      "text": "Reporting from Vandenberg Space Force Base, I'm Airman First Class Ian Hawks."
+    }
+  ],
+  "scene_cuts": [
+    2.17,
+    2.2,
+    2.24,
+    2.27,
+    2.3,
+    2.34,
+    3.67,
+    3.7,
+    3.74,
+    3.77,
+    95.98,
+    101.44
+  ],
+  "drama_score": 52,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      34.6,
+      43.0,
+      50.7,
+      69.5,
+      83.0,
+      101.0
+    ],
+    "silence_ends": [
+      2.1,
+      35.4,
+      43.8,
+      51.7,
+      70.2,
+      83.6,
+      101.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1008479.jpg",
+  "sheet_times": [
+    3.36,
+    10.09,
+    16.81,
+    23.54,
+    30.26,
+    36.98,
+    43.71,
+    50.43,
+    57.16,
+    63.88,
+    70.61,
+    77.33,
+    84.06,
+    90.78,
+    97.5,
+    104.23
+  ],
+  "used_by": "ccf-20261119-24"
+}

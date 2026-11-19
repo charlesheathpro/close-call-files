@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:914352",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "North Dakota National Guard UH-60 Black Hawk Helicopters Fight Missouri River Ice Jams",
+  "description": "The North Dakota National Guard launched an aerial operation to respond to an ice jam on the Missouri River in Bismarck, North Dakota, Feb. 29, 2024. Two UH-60 Blackhawk helicopters deployed, dropping 660 gallons of water repeatedly to dislodge ice. The river crested at 15.43 feet, and due to mitigation efforts, fell nearly 2 feet and ended the day at 13.49 feet, dropping below minor flood stage. (U.S. National Guard video by Staff Sgt. Samuel Kroll, North Dakota National Guard Public Affairs Office)",
+  "keywords": "",
+  "date": "02.29.2024",
+  "branch": "",
+  "unit_name": "North Dakota National Guard Public Affairs",
+  "credit": "Staff Sgt. Samuel Kroll",
+  "page_url": "https://www.dvidshub.net/video/914352/north-dakota-national-guard-uh-60-black-hawk-helicopters-fight-missouri-river-ice-jams",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "BISMARCK, NORTH DAKOTA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-914352",
+  "status": "used",
+  "harvested_at": "2026-11-19T16:54:11Z",
+  "duration": 80.28,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2403/DOD_110154341/DOD_110154341.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    13.68,
+    16.05,
+    20.82,
+    25.66,
+    30.53,
+    40.14,
+    65.77,
+    71.27
+  ],
+  "drama_score": 79,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-914352.jpg",
+  "sheet_times": [
+    2.49,
+    7.48,
+    12.47,
+    17.45,
+    22.44,
+    27.42,
+    32.41,
+    37.4,
+    42.38,
+    47.37,
+    52.36,
+    57.34,
+    62.33,
+    67.31,
+    72.3,
+    77.29
+  ],
+  "used_by": "ccf-20261119-25"
+}

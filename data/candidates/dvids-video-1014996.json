@@ -1,0 +1,111 @@
+{
+  "asset_id": "video:1014996",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "US Navy Sailors conduct demolition training during Sea Breeze 2026",
+  "description": "Portland Port, England – (July 14, 2026) US Navy Sailors conduct demolition training during Sea Breeze 2026 in Portland, England, July 14, 2026. Sea Breeze 26 is an annual exercise co-sponsored by U.S. Naval Forces Europe-Africa and Marine Corps Forces Europe-Africa, designed to develop interoperability of maritime and ground forces in the Black Sea Region through combined NATO deliberate planning, integration, and command and control of Marine Amphibious Forces. (U.S. Navy video by Mass Communication Specialist 2nd Class Jonathan Nye)",
+  "keywords": "",
+  "date": "07.13.2026",
+  "branch": "",
+  "unit_name": "U.S. Naval Forces Europe-Africa/U.S. Sixth Fleet",
+  "credit": "Petty Officer 2nd Class Jonathan Nye",
+  "page_url": "https://www.dvidshub.net/video/1014996/us-navy-sailors-conduct-demolition-training-during-sea-breeze-2026",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "PORTLAND HARBOUR, GB"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-1014996",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T16:53:55Z",
+  "duration": 80.08,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111844890/DOD_111844890.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 17.36,
+      "e": 22.64,
+      "text": "you can literally just position yourself at just the gripper will attach."
+    },
+    {
+      "s": 22.64,
+      "e": 30.51,
+      "text": "I think about it's just the one thing which is like if you just had a lot of jane force."
+    },
+    {
+      "s": 32.03,
+      "e": 33.07,
+      "text": "Second one too hard."
+    },
+    {
+      "s": 65.01,
+      "e": 67.17,
+      "text": "I was thinking myself just going to lay him down here."
+    }
+  ],
+  "scene_cuts": [
+    9.48,
+    14.05,
+    17.25,
+    19.85,
+    22.69,
+    24.59,
+    28.56,
+    30.5,
+    34.1,
+    38.54,
+    40.97,
+    44.81,
+    55.22,
+    58.63,
+    63.76,
+    68.7,
+    73.17,
+    76.04
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      15.5,
+      19.6,
+      31.2,
+      73.6,
+      75.9
+    ],
+    "silence_ends": [
+      9.5,
+      16.1,
+      20.2,
+      32.0,
+      75.0,
+      80.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1014996.jpg",
+  "sheet_times": [
+    2.49,
+    7.46,
+    12.43,
+    17.41,
+    22.38,
+    27.36,
+    32.33,
+    37.3,
+    42.28,
+    47.25,
+    52.22,
+    57.2,
+    62.17,
+    67.15,
+    72.12,
+    77.09
+  ],
+  "pass_reason": "hands wiring charges and a robot on a table; no blast on screen"
+}

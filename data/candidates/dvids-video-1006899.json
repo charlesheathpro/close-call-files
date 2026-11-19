@@ -1,0 +1,61 @@
+{
+  "asset_id": "video:1006899",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "Controlled Construction detonation in Florida Everglades",
+  "description": "BELLE GLADE, Fla. May 13, 2026 - The U.S. Army Corps of Engineers (USACE) Jacksonville District as part of the ongoing construction of the Everglades Agricultural Area (EAA) Reservoir Project, today completed one of the largest controlled construction detonations ever conducted, a critical component of Everglades restoration. USACE will efficiently use the onsite material produced by detonation to construct a dam from natural materials that meets dam safety standards.(Video by Allen Wynne)",
+  "keywords": "",
+  "date": "05.13.2026",
+  "branch": "",
+  "unit_name": "U.S. Army Corps of Engineers, Jacksonville District",
+  "credit": "Mark Rankin",
+  "page_url": "https://www.dvidshub.net/video/1006899/controlled-construction-detonation-florida-everglades",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "text": "BELLE GLADE, FLORIDA, US"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-1006899",
+  "status": "passed_over",
+  "harvested_at": "2026-11-19T16:52:56Z",
+  "duration": 61.56,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111703956/DOD_111703956.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 25,
+  "audio": {
+    "silence_starts": [
+      6.5
+    ],
+    "silence_ends": [
+      61.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1006899.jpg",
+  "sheet_times": [
+    1.91,
+    5.72,
+    9.54,
+    13.36,
+    17.17,
+    20.99,
+    24.81,
+    28.62,
+    32.44,
+    36.26,
+    40.07,
+    43.89,
+    47.7,
+    51.52,
+    55.34,
+    59.15
+  ],
+  "pass_reason": "single drone shot of a ripple blast then 40 s of settling dust; same look as passed 1006720"
+}
