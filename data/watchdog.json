@@ -1,16 +1,13 @@
 {
-  "at": "2026-11-19T10:28:40Z",
-  "healthy": true,
+  "at": "2026-11-19T14:28:11Z",
+  "healthy": false,
   "numbers": {
-    "dropped": 77,
-    "uploaded": 185,
-    "passed": 84,
+    "passed_waiting": 90,
+    "scheduled_next_48h": 9,
     "needs_qa": 0,
-    "scheduled_next_48h": 11,
-    "scheduled_by_mt_day_remaining": {
-      "2026-11-19": 10,
-      "2026-11-20": 1
-    }
+    "uploaded": 185,
+    "dropped": 77
   },
-  "notes": "Nov 19 MT full. Nov 20 shows 1 only because YouTube's daily upload cap holds until 2026-11-19T18:39Z; 84 passed Shorts are waiting, so the first upload run after the cap lifts fills it and no editor pass was needed. Upload run in progress since 09:27Z, harvest 2026-11-18 19:02Z (DVIDS blocked, 0 new), no repeated build errors, no auth alerts. QA fixed -09, -13 (black frames from a source fade) and -14 in this run."
+  "found": "Nov 20 has 1 scheduled because YouTube's daily upload cap (uploadLimitExceeded) blocks uploads until 2026-11-19T18:39Z. 90 passed Shorts waiting. Harvest last ran Nov 18 19:02Z with 0 new (DVIDS blocked).",
+  "fixed": "No editor pass: the gap is the upload cap, not supply. Upload runs every 3 h and will fill Nov 20 after the cap lifts."
 }
