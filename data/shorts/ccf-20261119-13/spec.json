@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261119-13",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "dvids-video-516509",
   "lane": "aviation_naval",
   "story_type": "electromagnetic railgun test shot, muzzle fireball, high-speed camera of the projectile",
@@ -39,7 +39,7 @@
   "extra_sources": [
     {
       "url": "https://www.dvidshub.net/video/539084/navy-railgun-successfully-fires-multi-shot-salvos",
-      "excerpt": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles \u2013 and at speeds that exceed Mach 6."
+      "excerpt": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles – and at speeds that exceed Mach 6."
     }
   ],
   "facts": [
@@ -49,7 +49,7 @@
     },
     {
       "claim": "Electrical pulse instead of gunpowder, over 100 nautical miles, faster than Mach 6",
-      "source_quote": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles \u2013 and at speeds that exceed Mach 6."
+      "source_quote": "The revolutionary railgun relies on a massive electrical pulse, rather than gunpowder or other chemical propellants, to launch projectiles at distances over 100 nautical miles – and at speeds that exceed Mach 6."
     }
   ],
   "line_shots": [
@@ -58,7 +58,7 @@
         "start": 83.0,
         "end": 84.95,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.4
       },
       {
         "start": 86.0,
@@ -109,15 +109,21 @@
     ],
     [
       {
-        "start": 99.0,
-        "end": 101.4,
-        "layout": "fit",
+        "start": 99.5,
+        "end": 102.9,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 8.0,
+        "end": 10.2,
+        "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 101.4,
-        "end": 103.6,
-        "layout": "fit",
+        "start": 30.0,
+        "end": 32.6,
+        "layout": "crop",
         "crop_x": 0.5
       }
     ],
@@ -145,13 +151,13 @@
       {
         "start": 89.5,
         "end": 92.0,
-        "layout": "fit",
+        "layout": "crop",
         "crop_x": 0.5
       },
       {
         "start": 92.0,
         "end": 94.5,
-        "layout": "fit",
+        "layout": "crop",
         "crop_x": 0.5
       }
     ],
@@ -160,7 +166,7 @@
         "start": 72.5,
         "end": 74.25,
         "layout": "crop",
-        "crop_x": 0.7
+        "crop_x": 0.45
       },
       {
         "start": 74.3,
@@ -172,13 +178,13 @@
         "start": 77.4,
         "end": 79.8,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.45
       },
       {
         "start": 80.0,
         "end": 82.1,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.35
       }
     ]
   ]
