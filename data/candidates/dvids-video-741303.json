@@ -1,0 +1,52 @@
+{
+ "asset_id": "video:741303",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues 2 people, 1 dog from vessel off Oregon coast",
+ "description": "A Coast Guard aircrew from Sector Columbia River hoisted two people and their dog on Feb. 29, 2020, from their boat several miles off the coast of Seaside, Oregon. The rough sea conditions prevented the boaters from safely returning to port. (U.S. Coast Guard video)",
+ "credit": "",
+ "byline": "",
+ "unit_name": "",
+ "page_url": "https://www.dvidshub.net/video/741303/coast-guard-rescues-2-people-1-dog-vessel-off-oregon-coast",
+ "via": "DVIDS",
+ "license": "public domain",
+ "id": "dvids-video-741303",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T01:56:46Z",
+ "duration": 160.994,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2002/DOD_107705181/DOD_107705181.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "scene_cuts": [
+  130.93
+ ],
+ "drama_score": 60,
+ "sheet": "data/candidates/dvids-video-741303.jpg",
+ "sheet_times": [
+  4.01,
+  12.04,
+  20.06,
+  28.09,
+  36.11,
+  44.14,
+  52.16,
+  60.19,
+  68.21,
+  76.23,
+  84.26,
+  92.28,
+  100.31,
+  108.33,
+  116.36,
+  124.38,
+  132.41,
+  140.43,
+  148.46,
+  156.48
+ ],
+ "copyright_flags": [],
+ "pass_reason": "night spotlight hoist-cam, then FLIR"
+}

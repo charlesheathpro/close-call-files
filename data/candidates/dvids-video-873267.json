@@ -1,0 +1,52 @@
+{
+ "asset_id": "video:873267",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues 3 surfers near Agate Beach, OR",
+ "description": "An MH-65 Dolphin helicopter aircrew from Coast Guard Air Facility Newport rescues three surfers who were pushed against the rocks near Agate Beach, Oregon, Feb. 12, 2023. The aircrew transported all three people to shore, where members from Newport Fire Department were waiting to provide assistance. (U.S. Coast Guard courtesy video)",
+ "credit": "",
+ "byline": "",
+ "unit_name": "",
+ "page_url": "https://www.dvidshub.net/video/873267/coast-guard-rescues-3-surfers-near-agate-beach",
+ "via": "DVIDS",
+ "license": "public domain",
+ "id": "dvids-video-873267",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T01:21:14Z",
+ "duration": 90.167,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2302/DOD_109456025/DOD_109456025.mp4",
+  "width": 1080,
+  "height": 1920
+ },
+ "scene_cuts": [
+  13.47
+ ],
+ "drama_score": 100,
+ "sheet": "data/candidates/dvids-video-873267.jpg",
+ "sheet_times": [
+  2.24,
+  6.73,
+  11.21,
+  15.69,
+  20.18,
+  24.66,
+  29.14,
+  33.63,
+  38.11,
+  42.59,
+  47.08,
+  51.56,
+  56.04,
+  60.53,
+  65.01,
+  69.49,
+  73.98,
+  78.46,
+  82.94,
+  87.43
+ ],
+ "copyright_flags": [],
+ "pass_reason": "door-cam with heavy color noise on rocks, surfers barely visible; mixed vertical phone clips"
+}

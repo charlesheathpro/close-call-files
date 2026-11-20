@@ -1,0 +1,52 @@
+{
+ "asset_id": "video:820685",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues man from Willapa Bay, Wash.",
+ "description": "A Coast Guard aircrew from Sector Columbia River aboard an MH-60 Jayhawk hoists a man from a capsized vessel near Willapa National Wildlife Refuge, Nov. 5, 2021. The girlfriend of the man saw the boat roll and called 911; Pacific County dispatch then relayed the information to the Coast Guard. (U.S. Coast Guard video)",
+ "credit": "",
+ "byline": "",
+ "unit_name": "",
+ "page_url": "https://www.dvidshub.net/video/820685/coast-guard-rescues-man-willapa-bay-wash",
+ "via": "DVIDS",
+ "license": "public domain",
+ "id": "dvids-video-820685",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T01:38:46Z",
+ "duration": 80.085,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2110/DOD_108669683/DOD_108669683.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "scene_cuts": [
+  23.06
+ ],
+ "drama_score": 37,
+ "sheet": "data/candidates/dvids-video-820685.jpg",
+ "sheet_times": [
+  1.99,
+  5.97,
+  9.95,
+  13.93,
+  17.91,
+  21.89,
+  25.87,
+  29.84,
+  33.82,
+  37.8,
+  41.78,
+  45.76,
+  49.74,
+  53.72,
+  57.7,
+  61.68,
+  65.66,
+  69.64,
+  73.62,
+  77.6
+ ],
+ "copyright_flags": [],
+ "pass_reason": "night FLIR then black door-cam"
+}
