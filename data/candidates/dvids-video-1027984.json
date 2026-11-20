@@ -1,0 +1,55 @@
+{
+  "asset_id": "video:1027984",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "Flames move quick through designated areas at Devens RFTA",
+  "description": "Under the watchful eyes of area firefighters, flames consumed the dry leaves, loose branches and grass on the western edge of Turner Drop Zone Oct. 27 during a prescribed burn at Devens Reserve Forces Training Area, Mass. The fire enriched about 115 acres while reducing fuel and preventing unplanned fires.",
+  "keywords": "",
+  "date": null,
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/1027984",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1027984",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T21:31:23Z",
+  "duration": 20.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112108205/DOD_112108205.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1027984.jpg",
+  "sheet_times": [
+    0.63,
+    1.89,
+    3.14,
+    4.4,
+    5.66,
+    6.92,
+    8.17,
+    9.43,
+    10.69,
+    11.95,
+    13.2,
+    14.46,
+    15.72,
+    16.98,
+    18.23,
+    19.49
+  ],
+  "pass_reason": "one locked 20 s shot of a low prescribed burn"
+}
