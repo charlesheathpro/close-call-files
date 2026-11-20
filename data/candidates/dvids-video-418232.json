@@ -1,74 +1,75 @@
 {
-  "asset_id": "video:418232",
-  "source": "dvids",
-  "lane": "aviation_naval",
-  "matched_query": "hand-harvest",
-  "title": "U.S. Agencies Stop Semi-Submersible, Seize 12,000 Pounds of Cocaine",
-  "description": "The Coast Guard Cutter Stratton crew seizes cocaine bales from a self-propelled semi-submersible interdicted in international waters off the coast of Central America, July 19, 2015. The Coast Guard recovered more than 6 tons of cocaine from the 40-foot vessel.",
-  "credit": "",
-  "page_url": "https://www.dvidshub.net/video/418232/us-agencies-stop-semi-submersible-seize-12000-pounds-cocaine",
-  "via": "DVIDS",
-  "license": "public domain",
-  "date": "07.19.2015",
-  "location_text": "US",
-  "id": "dvids-video-418232",
-  "status": "new",
-  "harvested_at": "2026-11-20T06:04:20Z",
-  "duration": 218.346,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102644099/DOD_102644099-640x360-691k.mp4",
-    "width": 640,
-    "height": 360
-  },
-  "scene_cuts": [
-    4.0,
-    50.98,
-    78.18,
-    94.76,
-    112.35,
-    131.56,
-    154.82,
-    188.85,
-    205.41
+ "asset_id": "video:418232",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "U.S. Agencies Stop Semi-Submersible, Seize 12,000 Pounds of Cocaine",
+ "description": "The Coast Guard Cutter Stratton crew seizes cocaine bales from a self-propelled semi-submersible interdicted in international waters off the coast of Central America, July 19, 2015. The Coast Guard recovered more than 6 tons of cocaine from the 40-foot vessel.",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/418232/us-agencies-stop-semi-submersible-seize-12000-pounds-cocaine",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "07.19.2015",
+ "location_text": "US",
+ "id": "dvids-video-418232",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T06:04:20Z",
+ "duration": 218.346,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1508/DOD_102644099/DOD_102644099-640x360-691k.mp4",
+  "width": 640,
+  "height": 360
+ },
+ "scene_cuts": [
+  4.0,
+  50.98,
+  78.18,
+  94.76,
+  112.35,
+  131.56,
+  154.82,
+  188.85,
+  205.41
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   77.9,
+   86.4,
+   93.3
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      77.9,
-      86.4,
-      93.3
-    ],
-    "silence_ends": [
-      51.0,
-      78.6,
-      87.5,
-      94.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-418232.jpg",
-  "sheet_times": [
-    5.45,
-    16.34,
-    27.23,
-    38.12,
-    49.02,
-    59.91,
-    70.8,
-    81.69,
-    92.58,
-    103.48,
-    114.37,
-    125.26,
-    136.15,
-    147.05,
-    157.94,
-    168.83,
-    179.72,
-    190.62,
-    201.51,
-    212.4
-  ],
-  "copyright_flags": [],
-  "transcript": []
+  "silence_ends": [
+   51.0,
+   78.6,
+   87.5,
+   94.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-418232.jpg",
+ "sheet_times": [
+  5.45,
+  16.34,
+  27.23,
+  38.12,
+  49.02,
+  59.91,
+  70.8,
+  81.69,
+  92.58,
+  103.48,
+  114.37,
+  125.26,
+  136.15,
+  147.05,
+  157.94,
+  168.83,
+  179.72,
+  190.62,
+  201.51,
+  212.4
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "360p"
 }
