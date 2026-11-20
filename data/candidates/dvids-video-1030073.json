@@ -14,7 +14,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "dvids-video-1030073",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-20T21:43:24Z",
   "duration": 30.0,
   "source_file": {
@@ -100,5 +100,6 @@
     24.89,
     26.73,
     28.57
-  ]
+  ],
+  "pass_reason": "AFN news package: interview most of the runtime, rockets are thin trails in the distance"
 }

@@ -1,0 +1,56 @@
+{
+  "asset_id": "video:1018754",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand",
+  "title": "Exercise Savage Jackal: 57 RQS strengthens combat readiness through maritime recovery operations",
+  "description": "U.S. Air Force pararescuemen assigned to the 57th Rescue Squadron based out of Aviano Air Base, Italy, conduct maritime hoist insertion procedures to recover a simulated isolated person during Exercise Savage Jackal in San Diego, California, July 19, 2026. Open-water rescue scenarios test the squadron's capability to locate, stabilize and extract isolated personnel under extreme oceanic conditions. (U.S. Air Force video by Airman 1st Class Antone Williams)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Air Force video by Airman 1st Class Antone Williams",
+  "page_url": "https://www.dvidshub.net/video/1018754",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1018754",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T21:56:18Z",
+  "duration": 108.51,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111903898/DOD_111903898.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.67,
+    35.42
+  ],
+  "drama_score": 39,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1018754.jpg",
+  "sheet_times": [
+    3.38,
+    10.13,
+    16.88,
+    23.63,
+    30.38,
+    37.13,
+    43.88,
+    50.63,
+    57.38,
+    64.13,
+    70.88,
+    77.63,
+    84.38,
+    91.13,
+    97.88,
+    104.63
+  ],
+  "pass_reason": "training: Osprey is a distant speck over calm sea, hoist never readable"
+}

@@ -1,0 +1,59 @@
+{
+  "asset_id": "video:1024588",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "America's Airshow Practice Day: USN F-35C TAC Demo",
+  "description": "A U.S. Navy F-35C Lightning II conducts an aerial demonstration during the 2026 Marine Corps Air Station Miramar Air Show in San Diego, Sept. 24, 2026. With the F-35C Lightning II’s larger wings, reinforced landing gear, and tailhooks for catapult launches, it is designed for long-range strike missions and advanced stealth operations from aircraft carriers. America's Air Show 2026 is a unique and incredible opportunity to witness Marine and joint aviation capabilities, civilian performers and the world-famous Blue Angels; to celebrate America’s 250th birthday alongside Marines and to see first-hand the innovative spirit of the Marine Corps through emerging technologies and forward-thinking. (U.S. Marine Corps video by Cpl. Michael Gavin)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Marine Corps video by Cpl. Michael Gavin",
+  "page_url": "https://www.dvidshub.net/video/1024588",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1024588",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T21:48:23Z",
+  "duration": 39.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_112010710/DOD_112010710.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    32.32
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1024588.jpg",
+  "sheet_times": [
+    1.23,
+    3.68,
+    6.13,
+    8.59,
+    11.04,
+    13.49,
+    15.95,
+    18.4,
+    20.85,
+    23.31,
+    25.76,
+    28.22,
+    30.67,
+    33.12,
+    35.58,
+    38.03
+  ],
+  "pass_reason": "airshow demo: jet silhouettes against grey sky, no story or danger"
+}
