@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:283453",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard Station Barnegat Light Heavy Weather Training",
+  "description": "The crew of Coast Guard Station Barnegat Light, N.J., conducts offshore surf and heavy weather training Thursday, March 7, 2013, as 10-16 foot ocean swells and surf up to 15 feet were recorded off Long Beach Island, N.J. The unit's crew members, including Surfmen, who are the Coast Guard's most highly trained boat handlers, took advantage of the heavy weather to maintain readiness and the skills required to respond to maritime emergencies. U.S. Coast Guard video by Petty Officer 3rd Class Patrick Seebald.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/283453/coast-guard-station-barnegat-light-heavy-weather-training",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "03.07.2013",
+  "location_text": "BARNEGAT LIGHT, NEW JERSEY, US",
+  "id": "dvids-video-283453",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:42:09Z",
+  "duration": 72.064,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1303/DOD_100756846/DOD_100756846-720x406-800k.mp4",
+    "width": 720,
+    "height": 406
+  },
+  "scene_cuts": [
+    10.01,
+    59.16,
+    67.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      59.6,
+      64.9,
+      66.3
+    ],
+    "silence_ends": [
+      10.1,
+      63.8,
+      66.3,
+      72.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-283453.jpg",
+  "sheet_times": [
+    1.49,
+    4.47,
+    7.45,
+    10.44,
+    13.42,
+    16.4,
+    19.38,
+    22.36,
+    25.35,
+    28.33,
+    31.31,
+    34.29,
+    37.27,
+    40.25,
+    43.24,
+    46.22,
+    49.2,
+    52.18,
+    55.16,
+    58.15,
+    61.13,
+    64.11,
+    67.09,
+    70.07
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "720x406, under 480 short side; mostly faces in the boat"
+}

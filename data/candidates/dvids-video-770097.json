@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:770097",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "USS Zumwalt (DDG 1000) Live-Fire Test of SM-2 Missile",
+  "description": "PACIFIC OCEAN (Oct. 13, 2020) USS Zumwalt (DDG 1000) successfully executed the first live fire test of the MK 57 Vertical Launching System with a Standard Missile (SM-2) on the Naval Air Weapons Center Weapons Division Sea Test Range, Point Mugu, Oct. 13. The ships’ stealth and ability to operate in both the open-ocean and near-shore environments creates a new level of battlespace complexity for potential adversaries. The Zumwalt class will also operate as a key enabler in the acceleration of new warfighting capabilities and rapid development and validation of operational tactics, techniques, and procedures.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/770097/uss-zumwalt-ddg-1000-live-fire-test-sm-2-missile",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "10.13.2020",
+  "location_text": "PACIFIC OCEAN",
+  "id": "dvids-video-770097",
+  "status": "used",
+  "harvested_at": "2026-11-20T09:37:14Z",
+  "duration": 41.675,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2010/DOD_108027509/DOD_108027509-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    5.04,
+    8.04,
+    9.74,
+    12.98,
+    24.89,
+    31.6,
+    34.77
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      24.9
+    ],
+    "silence_ends": [
+      3.0,
+      31.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-770097.jpg",
+  "sheet_times": [
+    0.86,
+    2.57,
+    4.29,
+    6.0,
+    7.72,
+    9.44,
+    11.15,
+    12.87,
+    14.58,
+    16.3,
+    18.01,
+    19.73,
+    21.45,
+    23.16,
+    24.88,
+    26.59,
+    28.31,
+    30.02,
+    31.74,
+    33.45,
+    35.17,
+    36.89,
+    38.6,
+    40.32
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "used_by": "ccf-20261120-04"
+}

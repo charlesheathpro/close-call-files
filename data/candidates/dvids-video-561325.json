@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:561325",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "Dawn Blitz 2017 HIMARS USS Anchorage",
+  "description": "U.S. Marines with Battery R, 5th Battalion, 11th Marine Regiment, 1st Marine Division, shoot a rocket from a High Mobility Artillery Rocket Systems (HIMARS) from the deck of the USS Anchorage striking a land-based target in support of Exercise Dawn Blitz, Oct. 22, 2017. Dawn Blitz is a scenario-driven amphibious exercise conducted between Expeditionary Strike Group 3 and 1st Marine Expeditionary Brigade, testing their ability to conduct amphibious operations in response to global crises and to project power ashore as part of a Navy-Marine Corps team. . (U.S. Marine Corps video by LCpl Victoria Decker)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/561325/dawn-blitz-2017-himars-uss-anchorage",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "10.22.2017",
+  "location_text": "CALIFORNIA, US",
+  "id": "dvids-video-561325",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:52:10Z",
+  "duration": 59.434,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_105022039/DOD_105022039-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    15.02,
+    19.12,
+    21.45,
+    29.63,
+    37.2,
+    48.48
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      45.1,
+      56.5
+    ],
+    "silence_ends": [
+      49.2,
+      59.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-561325.jpg",
+  "sheet_times": [
+    1.23,
+    3.68,
+    6.14,
+    8.59,
+    11.05,
+    13.51,
+    15.96,
+    18.42,
+    20.87,
+    23.33,
+    25.78,
+    28.24,
+    30.69,
+    33.15,
+    35.61,
+    38.06,
+    40.52,
+    42.97,
+    45.43,
+    47.88,
+    50.34,
+    52.8,
+    55.25,
+    57.71
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "duplicate edit of dvids-video-561288 (same footage)"
+}

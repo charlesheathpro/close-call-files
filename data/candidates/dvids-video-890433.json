@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:890433",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Vermont Flood: Search and Rescue",
+  "description": "U.S. Army Spc. Ryan Spodick, combat medic, C-Co 3-126th Army Aviation, Garrison Support Command, Vermont Army National Guard, speaks about his role on the quick reaction force and LMTV vehicle used for search and rescue operations in Manchester, Vt., July 16, 2023. The Vermont National Guard was activated to assist in flood disaster relief and search and rescue operations. (U.S. Army National Guard photo by Sgt. Denis Nunez).",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/890433/vermont-flood-search-and-rescue",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.16.2023",
+  "location_text": "MANCHESTER, VERMONT, US",
+  "id": "dvids-video-890433",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:41:40Z",
+  "duration": 70.504,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2307/DOD_109766432/DOD_109766432.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "scene_cuts": [
+    65.33
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      20.0,
+      28.8,
+      65.3
+    ],
+    "silence_ends": [
+      20.7,
+      29.4,
+      70.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-890433.jpg",
+  "sheet_times": [
+    1.46,
+    4.38,
+    7.29,
+    10.21,
+    13.13,
+    16.04,
+    18.96,
+    21.88,
+    24.79,
+    27.71,
+    30.63,
+    33.54,
+    36.46,
+    39.38,
+    42.29,
+    45.21,
+    48.13,
+    51.04,
+    53.96,
+    56.88,
+    59.79,
+    62.71,
+    65.63,
+    68.55
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "talking-head interview only"
+}

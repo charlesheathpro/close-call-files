@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:321889",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "Fort Hood SRP Demolition",
+  "description": "This is b-roll of the destruction of the site where the November 5th, 2009 Fort hood shooting took place, Bldg. 42003. Also available in high definition",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/321889/fort-hood-srp-demolition",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "02.18.2014",
+  "location_text": "FORT HOOD, TEXAS, US",
+  "id": "dvids-video-321889",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:42:05Z",
+  "duration": 119.637,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1402/DOD_101122774/DOD_101122774-720x406-800k.mp4",
+    "width": 720,
+    "height": 406
+  },
+  "scene_cuts": [
+    4.0,
+    16.42,
+    27.43,
+    37.64,
+    47.68,
+    57.99,
+    77.78,
+    88.92,
+    98.1,
+    108.91,
+    119.45
+  ],
+  "drama_score": 99,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      4.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-321889.jpg",
+  "sheet_times": [
+    2.48,
+    7.45,
+    12.41,
+    17.37,
+    22.34,
+    27.3,
+    32.27,
+    37.23,
+    42.19,
+    47.16,
+    52.12,
+    57.09,
+    62.05,
+    67.01,
+    71.98,
+    76.94,
+    81.91,
+    86.87,
+    91.84,
+    96.8,
+    101.76,
+    106.73,
+    111.69,
+    116.66
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Fort Hood shooting site demolition, casualty context; 406p"
+}
