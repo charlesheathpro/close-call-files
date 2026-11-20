@@ -1,17 +1,17 @@
 {
- "at": "2026-11-20T14:40:00Z",
+ "at": "2026-11-20T18:20:50Z",
  "healthy": true,
  "numbers": {
-  "passed_waiting": 114,
-  "scheduled_next_48h": 9,
+  "passed_waiting": 117,
+  "scheduled_next_48h": 7,
   "scheduled_by_day_MT": {
    "2026-11-20": 10,
    "2026-11-21": 1
   },
-  "needs_qa": 0,
+  "needs_qa": 1,
   "uploaded": 195,
   "dropped": 87
  },
- "found": "Nov 21 (MT) has 1 scheduled because YouTube's daily upload cap (uploadLimitExceeded) runs until 2026-11-20T18:55Z; 114 passed Shorts are waiting, so an editor pass would not help. Upload ran 14:12Z, harvest Nov 19 19:02Z, stats Nov 20, builds landing. No build errors, no auth or upload_error alerts.",
- "fixed": "Nothing systemic. The next scheduled upload run after 18:55Z fills Nov 21 and Nov 22."
+ "found": "Nov 21 (MT) gap is YouTube's uploadLimitExceeded window, which ends 2026-11-20T18:55Z; 117 passed Shorts wait, so no editor pass needed. Upload ran 17:59Z, harvest Nov 19 19:02Z, stats Nov 20, builds landing, no build errors, no auth or upload_error alerts.",
+ "fixed": "Nothing systemic. The hourly upload run at :41 after 18:55Z fills Nov 21 and Nov 22."
 }
