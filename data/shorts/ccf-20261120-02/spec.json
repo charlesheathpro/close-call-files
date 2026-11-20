@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261120-02",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-988554",
   "lane": "aviation_naval",
   "story_type": "Special Forces demolish an old railroad truss bridge with explosives",
@@ -9,14 +9,14 @@
   "hook": "Green Berets versus a railroad bridge from 1897.",
   "narration": [
     "Green Berets packed this old railroad bridge with explosives.",
-    "The Northern Pacific Railway Bridge in Livingston, Montana, was built in 1897.",
+    "This bridge in Livingston, Montana, was built in 1897.",
     "Trains used it until 1986.",
     "In September 2022, Special Forces engineers turned it into a classroom for live explosives.",
     "Demolition crews put charges right against the steel members they need to cut.",
-    "The goal was practice on a big structure, for missions in rough, faraway places.",
+    "The goal was live practice on a structure this big.",
     "[short pause] Then the firing team set it off."
   ],
-  "outcome": "The charges cut the steel and the old truss came down.",
+  "outcome": "The charges cut the steel and the truss came down.",
   "location_card": {
     "place": "Livingston, Montana",
     "date": "Sept. 24, 2022"
@@ -126,30 +126,24 @@
         "crop_x": 0.5
       },
       {
-        "start": 39.7,
-        "end": 41.3,
+        "start": 42.7,
+        "end": 45.8,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 46.5,
+        "start": 45.9,
         "end": 48.4,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 55.5,
+        "start": 54.7,
         "end": 57.3,
         "layout": "crop",
         "crop_x": 0.45
-      },
-      {
-        "start": 30.4,
-        "end": 32.3,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ],
     [
