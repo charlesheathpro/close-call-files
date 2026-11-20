@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-NAS01-0001-Artemis-II-Launch-WB57-Visible",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:02:29Z",
   "duration": 479.2,
   "source_file": {
@@ -55,5 +55,6 @@
     403.9,
     433.82,
     463.74
-  ]
+  ],
+  "pass_reason": "Artemis II launch already covered from several angles; QA rejected another liftoff"
 }

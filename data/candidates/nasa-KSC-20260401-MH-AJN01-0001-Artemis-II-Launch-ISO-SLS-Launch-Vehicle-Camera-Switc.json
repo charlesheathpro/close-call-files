@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-AJN01-0001-Artemis-II-Launch-ISO-SLS-Launch-Vehicle-Camera-Switc",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T00:59:45Z",
   "duration": 541.03,
   "source_file": {
@@ -617,5 +617,6 @@
     456.07,
     489.86,
     523.64
-  ]
+  ],
+  "pass_reason": "Artemis II launch already covered from several angles; QA rejected another liftoff"
 }

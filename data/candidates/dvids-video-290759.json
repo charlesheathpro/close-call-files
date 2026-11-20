@@ -26,7 +26,7 @@
   "time_start": 8.14147,
   "aspect_ratio": "16:9",
   "id": "dvids-video-290759",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T00:40:05Z",
   "duration": 423.83,
   "source_file": {
@@ -71,5 +71,6 @@
     358.46,
     384.41,
     410.35
-  ]
+  ],
+  "pass_reason": "training, onboard hoist of troopers, calm"
 }

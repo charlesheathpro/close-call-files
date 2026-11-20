@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20161208-Larsen-m12449-Scenic-nadirs",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:36:51Z",
   "duration": 256.53,
   "source_file": {
@@ -63,5 +63,6 @@
     216.03,
     232.03,
     248.03
-  ]
+  ],
+  "pass_reason": "Larsen C rift already a Short (14-78)"
 }
