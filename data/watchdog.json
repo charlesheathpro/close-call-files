@@ -1,13 +1,13 @@
 {
-  "at": "2026-11-20T06:40:00Z",
+  "at": "2026-11-20T10:35:00Z",
   "healthy": true,
   "numbers": {
-    "passed_waiting": 99,
+    "passed_waiting": 104,
     "scheduled_next_48h": 11,
     "scheduled_by_day_MT": {"2026-11-19": 10, "2026-11-20": 10, "2026-11-21": 1},
-    "needs_build": 6,
+    "needs_qa": 6,
     "uploaded": 195
   },
-  "found": "Nov 21 (MT) has 1 scheduled only because YouTube's daily upload cap (uploadLimitExceeded) runs until 2026-11-20T18:55Z; supply is far beyond 10/day, so an editor pass would not help. Harvest, build, upload and stats all landed in the last 30 hours. One build failure (ccf-20261119-54, dead air from a pause tag), not systemic. No auth alerts.",
-  "fixed": "Fixed -54 in QA. Nothing else needed; the first upload run after the cap lifts fills Nov 21."
+  "found": "Nov 21 (MT) still has 1 scheduled because YouTube's daily upload cap (uploadLimitExceeded) runs until 2026-11-20T18:55Z; 104 passed Shorts are waiting, so an editor pass would not help. An upload run is on watch (started 00:54Z) with another queued; harvest (Nov 19 19:02Z), stats (Nov 20 04:13Z) and builds all landed. No build errors, no auth alerts.",
+  "fixed": "Nothing needed; the first upload run after the cap lifts fills Nov 21."
 }
