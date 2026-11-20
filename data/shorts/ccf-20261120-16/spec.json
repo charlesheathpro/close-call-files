@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261120-16",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "dvids-video-1026912",
   "lane": "hazards",
   "story_type": "rocket-fired mine clearing line charge detonation",
@@ -8,11 +8,11 @@
   "priority": 5,
   "hook": "A rocket drags almost a ton of C4 across a field.",
   "narration": [
-    "This is a minefield breaching charge.",
+    "This is a minefield breaching charge, fired by soldiers.",
     "A rocket drags out a long line of explosives.",
-    "Inside is almost a ton of C4."
+    "Inside it is almost a ton of C4."
   ],
-  "outcome": "Then the whole line went off at once.",
+  "outcome": "Then the whole line went off.",
   "location_card": {
     "place": "Fort Leonard Wood, Missouri",
     "date": "Aug. 1, 2025"
@@ -48,6 +48,12 @@
         "end": 13.9,
         "layout": "crop",
         "crop_x": 0.45
+      },
+      {
+        "start": 13.9,
+        "end": 15.65,
+        "layout": "crop",
+        "crop_x": 0.55
       }
     ],
     [
@@ -84,12 +90,6 @@
         "end": 10.9,
         "layout": "crop",
         "crop_x": 0.5
-      },
-      {
-        "start": 13.85,
-        "end": 15.65,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ]
   ]
