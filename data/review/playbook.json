@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-20T04:14:18Z",
+  "at": "2026-11-20T11:12:31Z",
   "mature": 164,
   "features": [
     {
       "feature": "story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor",
       "n": 1,
-      "effect": 0.51
+      "effect": 0.52
     },
     {
       "feature": "story: three men on a capsized hull in open water, life ring and line to a rescue boat",
@@ -83,12 +83,12 @@
       "effect": 0.26
     },
     {
-      "feature": "story: elderly sailor and dog, disabled sailboat far offshore",
+      "feature": "story: overdue mariners adrift far offshore, aircraft drop survival kits, merchant ship pickup",
       "n": 1,
-      "effect": 0.25
+      "effect": 0.26
     },
     {
-      "feature": "story: overdue mariners adrift far offshore, aircraft drop survival kits, merchant ship pickup",
+      "feature": "story: elderly sailor and dog, disabled sailboat far offshore",
       "n": 1,
       "effect": 0.25
     },
@@ -168,19 +168,14 @@
       "effect": 0.17
     },
     {
+      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
+      "n": 1,
+      "effect": 0.16
+    },
+    {
       "feature": "story: rooftop hoist flood",
       "n": 1,
       "effect": 0.15
-    },
-    {
-      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
-      "n": 1,
-      "effect": 0.15
-    },
-    {
-      "feature": "music: sea",
-      "n": 56,
-      "effect": 0.14
     },
     {
       "feature": "story: hiker stuck overnight on a frozen mountain, black hawk hoist through ice-covered trees",
@@ -188,12 +183,12 @@
       "effect": 0.14
     },
     {
-      "feature": "story: boat fire rescue",
-      "n": 1,
+      "feature": "music: sea",
+      "n": 56,
       "effect": 0.13
     },
     {
-      "feature": "story: spacecraft parachute failure at splashdown",
+      "feature": "story: boat fire rescue",
       "n": 1,
       "effect": 0.13
     },
@@ -201,16 +196,6 @@
       "feature": "story: hurricane hoist",
       "n": 1,
       "effect": 0.12
-    },
-    {
-      "feature": "lane: aviation_naval",
-      "n": 35,
-      "effect": 0.1
-    },
-    {
-      "feature": "spacecraft or test story",
-      "n": 20,
-      "effect": 0.1
     },
     {
       "feature": "story: parachute rescue to a ship at sea",
@@ -223,8 +208,18 @@
       "effect": 0.1
     },
     {
+      "feature": "lane: aviation_naval",
+      "n": 35,
+      "effect": 0.09
+    },
+    {
       "feature": "music: rescue",
       "n": 24,
+      "effect": 0.09
+    },
+    {
+      "feature": "spacecraft or test story",
+      "n": 20,
       "effect": 0.09
     },
     {
@@ -243,6 +238,11 @@
       "effect": 0.09
     },
     {
+      "feature": "story: spacecraft parachute failure at splashdown",
+      "n": 1,
+      "effect": 0.09
+    },
+    {
       "feature": "story: trapped dog",
       "n": 1,
       "effect": 0.09
@@ -253,12 +253,12 @@
       "effect": 0.08
     },
     {
-      "feature": "story: cruise ship medevac hoist",
+      "feature": "story: dog flood hoist",
       "n": 1,
-      "effect": 0.07
+      "effect": 0.08
     },
     {
-      "feature": "story: dog flood hoist",
+      "feature": "story: cruise ship medevac hoist",
       "n": 1,
       "effect": 0.07
     },
@@ -488,6 +488,11 @@
       "effect": -0.02
     },
     {
+      "feature": "story: crew capsule splashdown",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
       "feature": "story: dog rescue hurricane",
       "n": 1,
       "effect": -0.02
@@ -513,11 +518,6 @@
       "effect": -0.03
     },
     {
-      "feature": "story: crew capsule splashdown",
-      "n": 1,
-      "effect": -0.03
-    },
-    {
       "feature": "story: man overboard open ocean",
       "n": 1,
       "effect": -0.03
@@ -531,11 +531,6 @@
       "feature": "story: would-be rescuers swim after a paddle boarder and need rescue themselves, helicopter basket hoist",
       "n": 1,
       "effect": -0.03
-    },
-    {
-      "feature": "hook has a number",
-      "n": 112,
-      "effect": -0.04
     },
     {
       "feature": "story: aerial firefighting",
@@ -566,6 +561,11 @@
       "feature": "story: rooftop hoist",
       "n": 1,
       "effect": -0.04
+    },
+    {
+      "feature": "hook has a number",
+      "n": 112,
+      "effect": -0.05
     },
     {
       "feature": "story: capsized boat, people in water",
@@ -765,7 +765,7 @@
     {
       "feature": "story: storm sailboat hoist",
       "n": 1,
-      "effect": -0.16
+      "effect": -0.17
     },
     {
       "feature": "story: elderly sailor, sailboat aground in breaking waves",
@@ -888,14 +888,14 @@
       "effect": -0.41
     },
     {
-      "feature": "story: missing boaters clinging to a capsized hull",
+      "feature": "story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists",
       "n": 1,
       "effect": -0.45
     },
     {
-      "feature": "story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists",
+      "feature": "story: missing boaters clinging to a capsized hull",
       "n": 1,
-      "effect": -0.46
+      "effect": -0.45
     },
     {
       "feature": "story: historic rocket test stand implosion",
@@ -917,37 +917,37 @@
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 34201.0,
+      "views": 37103.0,
       "ret": 98.76,
-      "score": 2.043
+      "score": 2.072
     },
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
-      "views": 47509.0,
+      "views": 47518.0,
       "ret": 80.94,
-      "score": 1.847
+      "score": 1.844
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 50040.0,
+      "views": 50064.0,
       "ret": 69.82,
-      "score": 1.618
+      "score": 1.616
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
       "views": 9641.0,
       "ret": 96.96,
-      "score": 1.544
+      "score": 1.543
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
       "views": 5189.0,
       "ret": 96.95,
-      "score": 1.515
+      "score": 1.516
     }
   ],
   "bottom": [
@@ -956,35 +956,35 @@
       "title": "Florence: 67 people, 12 pets in one day",
       "views": 128.0,
       "ret": 44.68,
-      "score": -1.649
+      "score": -1.648
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 32.0,
       "ret": 64.08,
-      "score": -1.795
+      "score": -1.793
     },
     {
       "short_id": "ccf-20261111-01",
       "title": "Crab boat sank at night off Washington",
       "views": 90.0,
       "ret": 44.24,
-      "score": -1.81
+      "score": -1.808
     },
     {
       "short_id": "ccf-20261108-24",
       "title": "Saturn V test tower comes down",
       "views": 56.0,
       "ret": 48.53,
-      "score": -1.914
+      "score": -1.912
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 12.0,
       "ret": 61.67,
-      "score": -2.253
+      "score": -2.25
     }
   ],
   "query_weights": {
@@ -1020,7 +1020,7 @@
     "Air Station Traverse City rescue": 0.89,
     "Air Station Barbers Point rescue": 1.03,
     "hospital evacuation": 1.04,
-    "MH-60 Jayhawk rescue": 0.99,
+    "MH-60 Jayhawk rescue": 1.0,
     "Air Station Port Angeles rescue": 1.24,
     "mountain rescue": 0.99,
     "rescue swimmer": 0.93,
@@ -1045,7 +1045,7 @@
     "landing": 0.93,
     "medevac": 0.91,
     "engine test": 0.91,
-    "Apollo": 1.23,
+    "Apollo": 1.21,
     "engine fire": 0.95,
     "emergency landing": 0.94,
     "editor targeted search": 1.06,
@@ -1054,19 +1054,11 @@
     "spacewalk": 0.96
   },
   "lane_scores": {
-    "rescue": 0.0,
-    "hazards": -0.5,
-    "aviation_naval": 0.08
+    "rescue": 0.01,
+    "hazards": -0.49,
+    "aviation_naval": 0.07
   },
   "qa_rejections_7d": [
-    {
-      "short_id": "ccf-20261116-13",
-      "notes": "Calm training dive with no danger on screen; about six seconds of blurry water-on-glass close-ups in the middle and a static hatch shot. The Squalus history is a good idea but the footage cannot carry it."
-    },
-    {
-      "short_id": "ccf-20261116-23",
-      "notes": "Single static test-stand camera for 40 seconds with six seconds of no fire in the middle; no danger or human hook, and 'every valve fired on command' and 'nobody touching it but the computer' are not in the source."
-    },
     {
       "short_id": "ccf-20261117-02",
       "notes": "Hoist-cam footage is smeared with heavy color noise and the top-down frames are hard to read in the first second; a third Kodiak Jayhawk hoist in this batch, interchangeable with recent Alaska hoists."
@@ -1118,8 +1110,18 @@
     {
       "short_id": "ccf-20261119-43",
       "notes": "Nine minutes of a C-17 taxiing on snow: the touchdown and snow spray are distant and small, the roller shot holds for 7 seconds, and there is no danger or peak moment for an opener."
+    },
+    {
+      "short_id": "ccf-20261119-54",
+      "notes": "Opening sled shot is strong, but nothing dangerous happens on screen, 23 to 30 s is documentary dissolves, 18 s is an empty horizon, and the ending is a saying catching on rather than an outcome."
+    },
+    {
+      "short_id": "ccf-20261119-56",
+      "notes": "Calm seas and a routine bale offload; the scuttling threat is only told, never seen. Duplicates the narco-sub story of -55, which is far stronger."
     }
   ],
-  "config_changed_at": "2026-11-19T11:23:27Z",
-  "changed": []
+  "config_changed_at": "2026-11-20T11:12:31Z",
+  "changed": [
+    "query weights for 64 searches"
+  ]
 }
