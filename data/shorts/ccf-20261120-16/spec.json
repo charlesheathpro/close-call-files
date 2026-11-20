@@ -92,5 +92,7 @@
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "QA Nov 20: source is only 15.7 s, so the Short renders at 12.8 s, under the 20 s floor; it cannot be lengthened without repeating shots. The almost-a-ton C4 line also had no source quote."
 }

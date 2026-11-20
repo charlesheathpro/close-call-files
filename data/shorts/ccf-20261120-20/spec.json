@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261120-20",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-1026930",
   "lane": "aviation_naval",
   "story_type": "fighter demo cockpit camera, inverted over Washington, D.C.",
@@ -40,24 +40,10 @@
     },
     {
       "claim": "Celebrated the nation's 250th anniversary",
-      "source_quote": "The historic event showcased American airpower and celebrated the nation\u2019s 250th anniversary."
+      "source_quote": "The historic event showcased American airpower and celebrated the nation’s 250th anniversary."
     }
   ],
   "line_shots": [
-    [
-      {
-        "start": 28,
-        "end": 31,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 31.5,
-        "end": 34.5,
-        "layout": "crop",
-        "crop_x": 0.55
-      }
-    ],
     [
       {
         "start": 8,
@@ -66,10 +52,24 @@
         "crop_x": 0.38
       },
       {
+        "start": 28,
+        "end": 30,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
         "start": 11.3,
         "end": 14.3,
         "layout": "crop",
         "crop_x": 0.5
+      },
+      {
+        "start": 30.2,
+        "end": 34.5,
+        "layout": "crop",
+        "crop_x": 0.55
       }
     ],
     [
@@ -114,10 +114,10 @@
         "crop_x": 0.45
       },
       {
-        "start": 1,
-        "end": 4,
+        "start": 5.3,
+        "end": 7.9,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       }
     ],
     [
