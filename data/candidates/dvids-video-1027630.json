@@ -14,7 +14,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "dvids-video-1027630",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-20T21:00:37Z",
   "duration": 207.77,
   "source_file": {
@@ -94,5 +94,6 @@
     174.88,
     187.84,
     200.79
-  ]
+  ],
+  "pass_reason": "EOD prep at tables for most of the runtime; blasts are brief smoke; EOD done in 20-07"
 }
