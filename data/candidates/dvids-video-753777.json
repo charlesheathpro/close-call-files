@@ -1,0 +1,62 @@
+{
+ "asset_id": "video:753777",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "USS Portland (LPD 27) tests LWSD",
+ "description": "200516-N-NO801-1002 Amphibious transport dock ship USS Portland (LPD 27) successfully disabled an unmanned aerial vehicle (UAV) with a Solid State Laser - Technology Maturation Laser Weapon System Demonstrator (LWSD) MK 2 MOD 0. US Navy video from US Pacific Fleet Public Affairs.",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/753777/uss-portland-lpd-27-tests-lwsd",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "05.16.2020",
+ "location_text": "PACIFIC OCEAN",
+ "id": "dvids-video-753777",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:38:44Z",
+ "duration": 9.642,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2005/DOD_107826675/DOD_107826675.mp4",
+  "width": 704,
+  "height": 480
+ },
+ "scene_cuts": [
+  2.07,
+  9.53
+ ],
+ "drama_score": 18,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   9.6
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-753777.jpg",
+ "sheet_times": [
+  0.23,
+  0.69,
+  1.14,
+  1.6,
+  2.06,
+  2.51,
+  2.97,
+  3.43,
+  3.89,
+  4.34,
+  4.8,
+  5.26,
+  5.71,
+  6.17,
+  6.63,
+  7.09,
+  7.54,
+  8.0,
+  8.46,
+  8.91
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "10 s, 480p"
+}

@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:1028536",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues four people near Icy Bay, Alaska",
+ "description": "A Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter aircrew rescues four people near Icy Bay, Alaska, Oct. 29, 2026. The aircrew hoisted all four people after their fishing vessel had become disabled and unable to anchor. (U.S. Coast Guard video courtesy of Coast Guard Air Station Kodiak)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1028536/coast-guard-rescues-four-people-near-icy-bay-alaska",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "10.29.2026",
+ "location_text": "KODIAK, ALASKA, US",
+ "id": "dvids-video-1028536",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:37:52Z",
+ "duration": 36.837,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119678/DOD_112119678.mp4",
+  "width": 640,
+  "height": 480
+ },
+ "scene_cuts": [],
+ "drama_score": 57,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   36.8
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1028536.jpg",
+ "sheet_times": [
+  0.91,
+  2.73,
+  4.54,
+  6.36,
+  8.18,
+  9.99,
+  11.81,
+  13.63,
+  15.44,
+  17.26,
+  19.08,
+  20.89,
+  22.71,
+  24.53,
+  26.34,
+  28.16,
+  29.98,
+  31.79,
+  33.61,
+  35.43
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night IR or door-cam hoist; people hard to read"
+}

@@ -1,0 +1,61 @@
+{
+ "asset_id": "video:731345",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "F-16 shoot down test drone",
+ "description": "A F-16C flown by Maj Jeffrey Entine,  85th Flight Test Squadron test pilot, fires a rocket at a test drone at Eglin Air Force Base, Fla., Dec. 12, 2019. This test successfully demonstrated shooting a small drone at low altitudes. (U.S. Air Force photo by Tech. Sgt. John Raven)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/731345/f-16-shoot-down-test-drone",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "12.19.2019",
+ "location_text": "EGLIN AFB, FLORIDA, US",
+ "id": "dvids-video-731345",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:38:57Z",
+ "duration": 23.808,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547305/DOD_107547305-1024x576-1769k.mp4",
+  "width": 1024,
+  "height": 576
+ },
+ "scene_cuts": [
+  23.6
+ ],
+ "drama_score": 61,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   23.8
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-731345.jpg",
+ "sheet_times": [
+  0.58,
+  1.75,
+  2.91,
+  4.08,
+  5.24,
+  6.41,
+  7.58,
+  8.74,
+  9.91,
+  11.07,
+  12.24,
+  13.4,
+  14.57,
+  15.73,
+  16.9,
+  18.06,
+  19.23,
+  20.39,
+  21.56,
+  22.73
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Rocket launch only; the drone and hit are never shown"
+}

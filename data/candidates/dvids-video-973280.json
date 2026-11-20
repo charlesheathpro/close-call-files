@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:973280",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "U.S. Coast Guard, Ocean Safety respond to an aground vessel near Honolulu",
+ "description": "The 75-foot passenger vessel Discovery runs aground near Kewalo Basin Harbor in Honolulu, Hawaii, Aug. 9, 2025. Crews from Coast Guard Station Honolulu and Honolulu Ocean Safety Department responded and ensured the two people aboard the Discovery were uninjured. (U.S. Coast Guard video)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/973280/us-coast-guard-ocean-safety-respond-aground-vessel-near-honolulu",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "08.09.2025",
+ "location_text": "HONOLULU, HAWAII, US",
+ "id": "dvids-video-973280",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:37:48Z",
+ "duration": 30.067,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2508/DOD_111221515/DOD_111221515.mp4",
+  "width": 640,
+  "height": 360
+ },
+ "scene_cuts": [],
+ "drama_score": 46,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   30.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-973280.jpg",
+ "sheet_times": [
+  0.74,
+  2.22,
+  3.7,
+  5.17,
+  6.65,
+  8.13,
+  9.61,
+  11.09,
+  12.57,
+  14.04,
+  15.52,
+  17.0,
+  18.48,
+  19.96,
+  21.44,
+  22.91,
+  24.39,
+  25.87,
+  27.35,
+  28.83
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "360p, 30 s, no danger on screen"
+}
