@@ -1,0 +1,74 @@
+{
+ "asset_id": "video:1021096",
+ "source": "dvids",
+ "lane": "hazards",
+ "matched_query": "hand-harvest",
+ "title": "B-Roll for the calm before the storm video",
+ "description": "B-roll of Air Force Reserve Hurricane Hunters setting out to do a routine training mission from the 53rd Weather Reconnaissance Squadron, at Keesler Air Force Base, Mississippi, August 25, 2026. The training was right before Hurricane Dolly dissipated in the Atlantic. (U.S. Air Force video by Staff Sgt. Stacey Thornburg and Lt. Col. Mark Withee)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1021096/b-roll-calm-before-storm-video",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "08.25.2026",
+ "location_text": "KEESLER AIR FORCE BASE, MISSISSIPPI, US",
+ "id": "dvids-video-1021096",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:26:13Z",
+ "duration": 126.259,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111934815/DOD_111934815.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [
+  7.61,
+  8.61,
+  15.82,
+  16.72,
+  26.19,
+  27.39,
+  40.31,
+  41.74,
+  58.02,
+  60.29,
+  78.71,
+  81.51,
+  100.67,
+  103.97
+ ],
+ "drama_score": 99,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   126.2
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1021096.jpg",
+ "sheet_times": [
+  3.14,
+  9.43,
+  15.72,
+  22.01,
+  28.3,
+  34.58,
+  40.87,
+  47.16,
+  53.45,
+  59.74,
+  66.02,
+  72.31,
+  78.6,
+  84.89,
+  91.18,
+  97.46,
+  103.75,
+  110.04,
+  116.33,
+  122.62
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Routine training b-roll"
+}

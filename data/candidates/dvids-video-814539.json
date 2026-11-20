@@ -1,62 +1,63 @@
 {
-  "asset_id": "video:814539",
-  "source": "dvids",
-  "lane": "aviation_naval",
-  "matched_query": "hand-harvest",
-  "title": "Homeland Missile Defense System Conducts Successful Launch of Upgraded Boost Vehicle",
-  "description": "The U.S. Missile Defense Agency conducted a successful launch of a Ground-Based Midcourse Defense (GMD) Ground Based Interceptor (GBI) flying a mock-up of the Exoatmospheric Kill Vehicle (EKV). This test was the first flight test of a three-stage booster operating in two-stage mode meaning the third stage was not ignited, allowing earlier release of the kill vehicle providing increased battlespace. This new capability is known as a 2-/3-Stage selectable GBI. This capability gives the warfighter greater flexibility in executing the defense of the homeland while significantly increasing the battlespace for successful threat engagement. Using a mock-up of an EKV provided a significant reduction in cost of the test and spared critical defense assets that were not required in this non-intercept test.",
-  "credit": "",
-  "page_url": "https://www.dvidshub.net/video/814539/homeland-missile-defense-system-conducts-successful-launch-upgraded-boost-vehicle",
-  "via": "DVIDS",
-  "license": "public domain",
-  "date": "09.12.2021",
-  "location_text": "US",
-  "id": "dvids-video-814539",
-  "status": "new",
-  "harvested_at": "2026-11-20T04:57:14Z",
-  "duration": 163.008,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2109/DOD_108580864/DOD_108580864.mp4",
-    "width": 960,
-    "height": 540
-  },
-  "scene_cuts": [
-    85.25
+ "asset_id": "video:814539",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "Homeland Missile Defense System Conducts Successful Launch of Upgraded Boost Vehicle",
+ "description": "The U.S. Missile Defense Agency conducted a successful launch of a Ground-Based Midcourse Defense (GMD) Ground Based Interceptor (GBI) flying a mock-up of the Exoatmospheric Kill Vehicle (EKV). This test was the first flight test of a three-stage booster operating in two-stage mode meaning the third stage was not ignited, allowing earlier release of the kill vehicle providing increased battlespace. This new capability is known as a 2-/3-Stage selectable GBI. This capability gives the warfighter greater flexibility in executing the defense of the homeland while significantly increasing the battlespace for successful threat engagement. Using a mock-up of an EKV provided a significant reduction in cost of the test and spared critical defense assets that were not required in this non-intercept test.",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/814539/homeland-missile-defense-system-conducts-successful-launch-upgraded-boost-vehicle",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "09.12.2021",
+ "location_text": "US",
+ "id": "dvids-video-814539",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T04:57:14Z",
+ "duration": 163.008,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2109/DOD_108580864/DOD_108580864.mp4",
+  "width": 960,
+  "height": 540
+ },
+ "scene_cuts": [
+  85.25
+ ],
+ "drama_score": 86,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   160.8
   ],
-  "drama_score": 86,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      160.8
-    ],
-    "silence_ends": [
-      0.6,
-      163.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-814539.jpg",
-  "sheet_times": [
-    4.06,
-    12.19,
-    20.31,
-    28.44,
-    36.56,
-    44.69,
-    52.82,
-    60.94,
-    69.07,
-    77.19,
-    85.32,
-    93.44,
-    101.57,
-    109.69,
-    117.82,
-    125.94,
-    134.07,
-    142.19,
-    150.32,
-    158.45
-  ],
-  "copyright_flags": [],
-  "transcript": []
+  "silence_ends": [
+   0.6,
+   163.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-814539.jpg",
+ "sheet_times": [
+  4.06,
+  12.19,
+  20.31,
+  28.44,
+  36.56,
+  44.69,
+  52.82,
+  60.94,
+  69.07,
+  77.19,
+  85.32,
+  93.44,
+  101.57,
+  109.69,
+  117.82,
+  125.94,
+  134.07,
+  142.19,
+  150.32,
+  158.45
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Mostly animation and graphics; launch only a few seconds"
 }

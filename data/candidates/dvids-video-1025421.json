@@ -1,0 +1,61 @@
+{
+ "asset_id": "video:1025421",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "NROL-97 Launches From Cape Canaveral Space Force Station",
+ "description": "A Falcon Heavy rocket launches from Space Launch Complex 39A at Kennedy Space Center, Florida, on Oct. 1, 2026. This rocket carried a classified payload for the National Reconnaissance Office as part of the NROL-97 mission. (U.S. Space Force video by Staff Sgt. Spencer Contreras)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1025421/nrol-97-launches-cape-canaveral-space-force-station",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "10.01.2026",
+ "location_text": "CAPE CANAVERAL, FLORIDA, US",
+ "id": "dvids-video-1025421",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:26:46Z",
+ "duration": 56.848,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112030446/DOD_112030446.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [],
+ "drama_score": 42,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   52.1
+  ],
+  "silence_ends": [
+   14.3,
+   56.8
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1025421.jpg",
+ "sheet_times": [
+  1.41,
+  4.23,
+  7.04,
+  9.86,
+  12.68,
+  15.5,
+  18.31,
+  21.13,
+  23.95,
+  26.77,
+  29.58,
+  32.4,
+  35.22,
+  38.04,
+  40.85,
+  43.67,
+  46.49,
+  49.3,
+  52.12,
+  54.94
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night launch, rocket a dot after 20 s"
+}
