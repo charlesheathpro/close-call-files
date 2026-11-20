@@ -1,6 +1,6 @@
 {
  "short_id": "ccf-20261119-54",
- "revision": 1,
+ "revision": 2,
  "candidate_id": "dvids-video-513892",
  "lane": "aviation_naval",
  "story_type": "historic rocket sled tests, origin of Murphy's Law",
@@ -111,10 +111,22 @@
     "crop_x": 0.55
    },
    {
+    "start": 46.7,
+    "end": 48.8,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
     "start": 40.9,
     "end": 42.8,
     "layout": "crop",
     "crop_x": 0.5
+   },
+   {
+    "start": 44.0,
+    "end": 46.6,
+    "layout": "crop",
+    "crop_x": 0.6
    }
   ],
   [
