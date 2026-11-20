@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-2026-11-26-RS-25-Engine-Test-Full-Duration",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-19T18:59:31Z",
   "duration": 228.33,
   "source_file": {
@@ -88,5 +88,6 @@
     192.23,
     206.47,
     220.71
-  ]
+  ],
+  "used_by": "ccf-20261120-11"
 }

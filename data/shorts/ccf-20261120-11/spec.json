@@ -1,0 +1,162 @@
+{
+  "short_id": "ccf-20261120-11",
+  "revision": 1,
+  "candidate_id": "nasa-2026-11-26-RS-25-Engine-Test-Full-Duration",
+  "lane": "aviation_naval",
+  "story_type": "rocket engine full duration hot fire on a test stand",
+  "music_mood": "hazards",
+  "priority": 7,
+  "hook": "A Moon rocket engine, bolted down and fired for 200 seconds.",
+  "narration": [
+    "This rocket engine roared for three minutes and twenty seconds, bolted to a test stand.",
+    "It is an RS-25, the kind that launches NASA's Moon rocket, fired at Stennis Space Center in Mississippi.",
+    "This developmental engine will never fly. Its whole job is to be tested.",
+    "Every run gives NASA and L3Harris data to make the flight engines perform better and last longer.",
+    "Below it, a flame deflector turns the blast sideways, away from the stand.",
+    "[short pause] Four of these together make up to two million pounds of thrust."
+  ],
+  "outcome": "It ran the full planned three minutes and twenty seconds, then shut down.",
+  "location_card": {
+    "place": "Stennis Space Center, Mississippi",
+    "date": "Nov. 18, 2026"
+  },
+  "keep_source_audio": true,
+  "title": "Moon rocket engine fired for 200 seconds",
+  "description": "NASA tests RS-25 developmental engine No. 10001 for its full planned duration of 200 seconds on the Fred Haise Test Stand at Stennis Space Center, Mississippi, Nov. 18, 2026.\n\nFootage: NASA Stennis Space Center video, via the NASA Image and Video Library: https://images.nasa.gov/details/2026-11-26%20-%20RS-25%20Engine%20Test%20-%20Full%20Duration\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #rocketengine #artemis",
+  "tags": [
+    "rs-25",
+    "rocket engine",
+    "hot fire",
+    "nasa",
+    "stennis",
+    "artemis",
+    "sls",
+    "engine test",
+    "real footage"
+  ],
+  "question_comment": "Would you stand a mile away from this, or closer?",
+  "facts": [
+    {
+      "claim": "Tested RS-25 engine No. 10001 Nov. 18, 2026 at Stennis",
+      "source_quote": "tested RS-25 engine No. 10001 on Nov. 18, 2026, on the Fred Haise Test Stand"
+    },
+    {
+      "claim": "Ran the planned 3 minutes 20 seconds",
+      "source_quote": "The hot fire test lasted for the planned duration of three minutes and 20 seconds (200 seconds)"
+    },
+    {
+      "claim": "Developmental engine will not fly; data for L3Harris and NASA",
+      "source_quote": "While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime engine contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability"
+    },
+    {
+      "claim": "Four engines, up to 2 million pounds thrust",
+      "source_quote": "four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 36.0,
+        "end": 38.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 46.5,
+        "end": 49.2,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 28.0,
+        "end": 30.8,
+        "layout": "crop",
+        "crop_x": 0.62
+      },
+      {
+        "start": 77.0,
+        "end": 79.8,
+        "layout": "crop",
+        "crop_x": 0.25
+      }
+    ],
+    [
+      {
+        "start": 66.0,
+        "end": 68.8,
+        "layout": "crop",
+        "crop_x": 0.75
+      },
+      {
+        "start": 69.5,
+        "end": 72.2,
+        "layout": "crop",
+        "crop_x": 0.25
+      }
+    ],
+    [
+      {
+        "start": 98.0,
+        "end": 100.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 154.0,
+        "end": 156.8,
+        "layout": "crop",
+        "crop_x": 0.35
+      },
+      {
+        "start": 186.0,
+        "end": 188.8,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 50.0,
+        "end": 52.8,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 56.0,
+        "end": 58.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 106.0,
+        "end": 108.8,
+        "layout": "crop",
+        "crop_x": 0.65
+      },
+      {
+        "start": 178.5,
+        "end": 181.2,
+        "layout": "crop",
+        "crop_x": 0.62
+      }
+    ],
+    [
+      {
+        "start": 189.5,
+        "end": 192.3,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 217.0,
+        "end": 220.0,
+        "layout": "crop",
+        "crop_x": 0.75
+      }
+    ]
+  ]
+}
