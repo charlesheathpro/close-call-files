@@ -1,27 +1,27 @@
-# Editor notes (review of Nov 19, 2026 UTC)
+# Editor notes (review of Nov 20, 2026 UTC)
 
 ## Where we are
-232 subscribers (up 26, best day yet), 454,722 channel views (up 19,805), 185 Shorts uploaded, no rejections, every published one public. Next 24 hours: 10 of 10 booked. Passed buffer 69 (aviation and naval 36, rescue 21, hazards 12). Supply fine: 2,433 unused clips.
+267 subscribers (up 35, best day yet), 482,322 channel views (up 27,600), 195 Shorts uploaded, no rejections, every published one public. Next 24 h: 10 of 10 booked. Passed buffer 98 (aviation and naval 56, rescue 28, hazards 14). Supply fine: 2,439 unused clips, but harvest found only 2 new last run (DVIDS blocked).
 
 ## Today's job
-Buffer is 69, almost a week of slots. Only specs that clear the viral bar. The buffer leans aviation and naval while rescue earns most views: write rescue first, other lanes only if exceptional.
+Buffer is 98, almost ten days of slots. Only specs that clear the viral bar. Buffer leans aviation and naval; rescue earns more views. Write rescue first, other lanes only if exceptional.
 
-## Numbers (144 Shorts with analytics)
-- Last 9 days: rescue 30 Shorts, median 1,362 views, 67% watched, 19 subs. Aviation and naval 9, median 1,005, 74%, 12 subs. Hazards 1, 156 views, 43%.
-- Top: plane jump into a lake 16,146 (79%, 8 subs); aground in surf at nightfall 8,069 (81%); four on an upside down boat 7,226 (84%, 5 subs).
-- Last 10 median watched: 75.1 (was 68.8).
-- Early movers: parachuting to a sick sailor 8,146; wake threw him from his boat 3,127.
-- Bottom: tornado cam 156; Florence roundup 128; crab boat raft at night 88; Saturn V tower 56.
+## Numbers (164 Shorts with analytics)
+- Last 9 days: rescue 33 Shorts, median 1,290 views, 68% watched, 29 subs. Aviation and naval 17, median 1,040, 67%, 27 subs. No hazards matured.
+- Top: parachuting to a sick sailor 34,201 (99%, 7 subs); jump out of a plane into a lake 16,361 (79%, 13 subs); aground in surf at nightfall 8,523 (82%).
+- Last 10 median watched: 66.3 (was 75.1).
+- Early movers: lightning tower on a launch pad 2,690; rescue seen from the life raft 2,011; medicine dropped 675 miles from land 1,275.
+- Bottom: Florence roundup 128; crab boat raft at night 90; hurricane sailboat 56.
 
 ## Do more
+- Bold human action: a parachute drop, a jump, a swimmer going in.
 - People plainly on screen on a flipped, sinking or grounded boat; count and distance offshore in line one.
-- Bold human action: a jump, a parachute drop, a swimmer going in.
-- Hooks with a twist in line two.
+- Point of view footage (life raft, helmet cam); a twist in line two.
 
 ## Do less
-- Storm and hurricane roundups, tornado cams, historic test stands, calm routine hoists.
+- Storm roundups, tornado cams, historic test stands, calm hoists and calm tests.
 - Night footage where the people are hard to see.
-- Repeating a hook number, air station or angle within 3 days.
+- Repeating a hook number, air station, rocket or angle within 3 days.
 
 ## Lane mix
-Rescue 0.45, aviation and naval 0.45, hazards 0.1. Learner left it unchanged and it stands.
+Rescue 0.45, aviation and naval 0.45, hazards 0.1. Unchanged.
