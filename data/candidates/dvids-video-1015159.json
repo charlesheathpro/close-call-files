@@ -1,0 +1,59 @@
+{
+  "asset_id": "video:1015159",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand",
+  "title": "Texas Military Department Flash Flood Rescue in Crystal City Highlight Reel",
+  "description": "Texas Military Department Service Members and Texas Task Force 1 are actively conducting rescue operations in Crystal City, Texas July 17, 2026. Flood rescue operations are slated to continue in impacted areas in Central and South Texas. (Army National Guard video by Spc. Jason Santillana)",
+  "keywords": "",
+  "date": null,
+  "credit": "Army National Guard video by Spc. Jason Santillana",
+  "page_url": "https://www.dvidshub.net/video/1015159",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1015159",
+  "status": "new",
+  "harvested_at": "2026-11-20T21:43:18Z",
+  "duration": 16.4,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111847789/DOD_111847789.mp4",
+    "width": 1080,
+    "height": 1920
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.93,
+    10.07
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      13.9
+    ],
+    "silence_ends": [
+      16.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1015159.jpg",
+  "sheet_times": [
+    0.5,
+    1.49,
+    2.48,
+    3.48,
+    4.47,
+    5.47,
+    6.46,
+    7.45,
+    8.45,
+    9.44,
+    10.43,
+    11.43,
+    12.42,
+    13.42,
+    14.41,
+    15.4
+  ]
+}

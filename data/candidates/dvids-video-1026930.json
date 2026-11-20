@@ -1,0 +1,53 @@
+{
+  "asset_id": "video:1026930",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "From the Cockpit: America 250 Over Washington, D.C.",
+  "description": "U.S. Air Force Capt. Nick “Laz” Le Tourneau, F-22 Raptor Aerial Demonstration Team pilot and commander, practices his aerial demonstration over the National Mall during Fourth of July celebrations in Washington, D.C., July 3, 2026. The historic event showcased American airpower and celebrated the nation’s 250th anniversary. The F-22 Raptor Aerial Demonstration highlights the aircraft’s unmatched maneuverability through a series of combat maneuvers, inspiring Americans and allies while deterring foreign adversaries. (U.S. Air Force video by Staff Sgt. Lauren Diaz)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Air Force video by Staff Sgt. Lauren Diaz",
+  "page_url": "https://www.dvidshub.net/video/1026930",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1026930",
+  "status": "used",
+  "harvested_at": "2026-11-20T21:41:18Z",
+  "duration": 52.92,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083901/DOD_112083901.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-1026930.jpg",
+  "sheet_times": [
+    1.64,
+    4.91,
+    8.19,
+    11.47,
+    14.74,
+    18.02,
+    21.3,
+    24.57,
+    27.85,
+    31.12,
+    34.4,
+    37.68,
+    40.95,
+    44.23,
+    47.51,
+    50.78
+  ],
+  "used_by": "ccf-20261120-20"
+}

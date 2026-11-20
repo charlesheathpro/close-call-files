@@ -1,0 +1,104 @@
+{
+  "asset_id": "video:1030073",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "17th Field Artillery Regiment HIMARS live fire at Combined Arms Training Center Camp Fuji",
+  "description": "U.S. Army Soldiers assigned to 17th Field Artillery Regiment conduct High Mobility Artillery Rocket System (HIMARS) training during a live fire exercise at CATC Camp Fuji Oct. 28, 2026. The exercise demonstrates the U.S. Army's commitment to maintaining a ready and capable force in the Indo-Pacific. (U.S. Air Force video by Senior Airman Austin Salazar)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Air Force video by Senior Airman Austin Salazar",
+  "page_url": "https://www.dvidshub.net/video/1030073",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1030073",
+  "status": "new",
+  "harvested_at": "2026-11-20T21:43:24Z",
+  "duration": 30.0,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153398/DOD_112153398.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.18,
+      "e": 4.34,
+      "text": "US soldiers conduct time-war training at Combined Arms Training Center Camp Fuji"
+    },
+    {
+      "s": 4.34,
+      "e": 6.74,
+      "text": "Sergeant First Class Smith provides more information."
+    },
+    {
+      "s": 6.74,
+      "e": 11.34,
+      "text": "This training helps maintain readiness by we get a chance to shoot about twice a year so"
+    },
+    {
+      "s": 11.34,
+      "e": 15.7,
+      "text": "it stresses our crews and our crews' drills and then be able to shoot in an"
+    },
+    {
+      "s": 15.7,
+      "e": 18.78,
+      "text": "austerelier environment that's somewhere that we're not familiar with."
+    },
+    {
+      "s": 18.78,
+      "e": 23.3,
+      "text": "Repetition helps my crew by I have them have the motto of we train until we can't"
+    },
+    {
+      "s": 23.3,
+      "e": 26.18,
+      "text": "get it wrong we don't train until we get it right."
+    },
+    {
+      "s": 26.18,
+      "e": 29.42,
+      "text": "Reporting from Kaxi Camp Fuji, I'm Seniorman Austin Salazar."
+    }
+  ],
+  "scene_cuts": [
+    0.5,
+    3.27,
+    8.71,
+    18.72,
+    24.99,
+    29.5
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      18.2
+    ],
+    "silence_ends": [
+      18.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1030073.jpg",
+  "sheet_times": [
+    0.92,
+    2.77,
+    4.61,
+    6.45,
+    8.3,
+    10.14,
+    11.98,
+    13.83,
+    15.67,
+    17.51,
+    19.36,
+    21.2,
+    23.04,
+    24.89,
+    26.73,
+    28.57
+  ]
+}
