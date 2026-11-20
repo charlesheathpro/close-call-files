@@ -2,7 +2,7 @@
   "rows": [
     {
       "stage": "Waiting to build",
-      "count": 0
+      "count": 2
     },
     {
       "stage": "Build failed",
@@ -18,16 +18,16 @@
     },
     {
       "stage": "Ready to upload",
-      "count": 118
+      "count": 109
     },
     {
       "stage": "Uploaded",
-      "count": 195
+      "count": 205
     },
     {
       "stage": "Dropped",
-      "count": 86
+      "count": 88
     }
   ],
-  "generated_at": "2026-11-20T18:25:18Z"
+  "generated_at": "2026-11-20T22:24:22Z"
 }
