@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:1014541",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard hoists man from sinking catamaran offshore Kauai",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew assigned to Coast Guard Air Station Barbers Point in Kapolei, Hawaii, hoists a man from his sinking catamaran offshore Kauai, July 12, 2026. The man was transported to Lihue Airport in Lihue, Hawaii, and was evaluated by EMS with no medical concerns. (U.S. Coast Guard video, courtesy Air Station Barbers Point)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/1014541/coast-guard-hoists-man-sinking-catamaran-offshore-kauai",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.12.2026",
+  "location_text": "HAWAII, US",
+  "id": "dvids-video-1014541",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:00:43Z",
+  "duration": 226.426,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111838330/DOD_111838330.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "scene_cuts": [
+    6.91,
+    43.01,
+    70.77,
+    187.92,
+    191.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      43.0
+    ],
+    "silence_ends": [
+      6.9,
+      109.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1014541.jpg",
+  "sheet_times": [
+    4.71,
+    14.12,
+    23.53,
+    32.95,
+    42.36,
+    51.77,
+    61.19,
+    70.6,
+    80.02,
+    89.43,
+    98.84,
+    108.26,
+    117.67,
+    127.08,
+    136.5,
+    145.91,
+    155.32,
+    164.74,
+    174.15,
+    183.57,
+    192.98,
+    202.39,
+    211.81,
+    221.22
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "night 480p door-cam, mostly black"
+}

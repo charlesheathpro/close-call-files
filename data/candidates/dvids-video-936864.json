@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:936864",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "USCG crew assists fishing vessel near Point Couverden",
+  "description": "A boat crew from U.S. Coast Guard Small Boat Station Juneau assists five members from the fishing vessel Morgan Anne near Point Couverden, Alaska, after taking on water from running aground, Sept. 15, 2024. The captain of the fishing vessel remained on the vessel and was escorted by good samaritans to Hoonah for a hull inspection after regaining stability. (U.S. Coast Guard video by Lt. Jon Orthman)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/936864/uscg-crew-assists-fishing-vessel-near-point-couverden",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "09.15.2024",
+  "location_text": "ALASKA, US",
+  "id": "dvids-video-936864",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:12:52Z",
+  "duration": 30.964,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110566212/DOD_110566212.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "scene_cuts": [],
+  "drama_score": 39,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-936864.jpg",
+  "sheet_times": [
+    0.63,
+    1.9,
+    3.17,
+    4.44,
+    5.71,
+    6.98,
+    8.25,
+    9.52,
+    10.79,
+    12.06,
+    13.33,
+    14.6,
+    15.87,
+    17.14,
+    18.41,
+    19.67,
+    20.94,
+    22.21,
+    23.48,
+    24.75,
+    26.02,
+    27.29,
+    28.56,
+    29.83
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Dark color/IR FLIR with HUD text; people blurry, no danger visible"
+}

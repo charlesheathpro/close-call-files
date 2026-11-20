@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:522639",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "22 Sept 2014 - B-52 tests AGM-86B Air-Launched Cruise Missile",
+  "description": "Historical documentation of a B-52 test launching an AGM-86B air-launched cruise missile Sept. 22, 2014 over the Utah Test and Training Range.\n\nCorresponding Air Force fact sheet: http://www.af.mil/About-Us/Fact-Sheets/Display/Article/104612/agm-86bcd-missiles/",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/522639/22-sept-2014-b-52-tests-agm-86b-air-launched-cruise-missile",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "09.22.2014",
+  "location_text": "UTAH, US",
+  "id": "dvids-video-522639",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:02:42Z",
+  "duration": 101.994,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104328396/DOD_104328396-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    4.0,
+    16.48,
+    29.13,
+    48.82,
+    61.59,
+    75.78,
+    85.99
+  ],
+  "drama_score": 56,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      102.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-522639.jpg",
+  "sheet_times": [
+    2.11,
+    6.34,
+    10.57,
+    14.8,
+    19.03,
+    23.26,
+    27.49,
+    31.72,
+    35.95,
+    40.17,
+    44.4,
+    48.63,
+    52.86,
+    57.09,
+    61.32,
+    65.55,
+    69.78,
+    74.01,
+    78.23,
+    82.46,
+    86.69,
+    90.92,
+    95.15,
+    99.38
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "no stated outcome for the 2014 test; missile flight only"
+}

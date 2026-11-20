@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:1021135",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard Air Facility Charleston aircrew rescues two aboard grounded vessel near Bull's Bay, South Carolina",
+  "description": "A Coast Guard Air Facility Charleston MH-65 Dolphin helicopter aircrew hoists two people from a 67-foot vessel that became stranded on a sandbar near Bulls Bay, South Carolina, Aug. 24. The aircrew transferred the two individuals to emergency medical services at a nearby airport with no injuries reported. (U.S. Coast Guard video)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/1021135/coast-guard-air-facility-charleston-aircrew-rescues-two-aboard-grounded-vessel-near-bulls-bay-south-carolina",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "08.24.2026",
+  "location_text": "SOUTH CAROLINA, US",
+  "id": "dvids-video-1021135",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:14:43Z",
+  "duration": 67.567,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111936441/DOD_111936441.mp4",
+    "width": 654,
+    "height": 480
+  },
+  "scene_cuts": [
+    41.88
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      67.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1021135.jpg",
+  "sheet_times": [
+    1.4,
+    4.19,
+    6.99,
+    9.78,
+    12.58,
+    15.37,
+    18.16,
+    20.96,
+    23.75,
+    26.55,
+    29.34,
+    32.14,
+    34.93,
+    37.73,
+    40.52,
+    43.31,
+    46.11,
+    48.9,
+    51.7,
+    54.49,
+    57.29,
+    60.08,
+    62.88,
+    65.67
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night spotlit black-and-white hoist-cam"
+}

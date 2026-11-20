@@ -1,0 +1,82 @@
+{
+  "asset_id": "video:541457",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "USAF A-10s Drop Guided Weapons and Fire 30 MM Gun",
+  "description": "Pilots from the 422 TES flying the A-10 Thunderbolt II, dropped guided weapons and fired the 30 MM Gun during training sorties. The weapons were, Guided Bomb Unit-12s (GBU-12), Guided Bomb Unit-38s (GBU-38), Guided Bomb Unit-31s (GBU-31).",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/541457/usaf-10s-drop-guided-weapons-and-fire-30-mm-gun",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.19.2017",
+  "location_text": "NEVADA TEST AND TRAINING RANGE, NEVADA, US",
+  "id": "dvids-video-541457",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:12:00Z",
+  "duration": 179.456,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1708/DOD_104671556/DOD_104671556-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    21.25,
+    27.79,
+    32.63,
+    37.34,
+    48.52,
+    60.13,
+    71.57,
+    77.98,
+    91.16,
+    102.5,
+    110.31,
+    119.82,
+    128.16,
+    145.51,
+    162.5,
+    168.37
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      10.8,
+      24.3
+    ],
+    "silence_ends": [
+      11.6,
+      25.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-541457.jpg",
+  "sheet_times": [
+    3.73,
+    11.18,
+    18.64,
+    26.1,
+    33.55,
+    41.01,
+    48.47,
+    55.92,
+    63.38,
+    70.84,
+    78.29,
+    85.75,
+    93.21,
+    100.66,
+    108.12,
+    115.58,
+    123.03,
+    130.49,
+    137.95,
+    145.4,
+    152.86,
+    160.31,
+    167.77,
+    175.23
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "distant range impacts, no story or stated result"
+}

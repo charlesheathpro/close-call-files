@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:290714",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard Rescues Jet Skier",
+  "description": "A Coast Guard aircrew was diverted while on a training mission to assist a man who's jet ski became disabled and capsized off the coast of South Bay, Port Aransas, Texas, May 14, 2013. U.S. Coast Guard video.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/290714/coast-guard-rescues-jet-skier",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "05.14.2013",
+  "location_text": "PORT ARANSAS, TEXAS, US",
+  "id": "dvids-video-290714",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:14:33Z",
+  "duration": 50.176,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1305/DOD_100814771/DOD_100814771-720x480-800k.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "scene_cuts": [
+    6.11
+  ],
+  "drama_score": 97,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      50.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-290714.jpg",
+  "sheet_times": [
+    1.03,
+    3.1,
+    5.17,
+    7.24,
+    9.31,
+    11.38,
+    13.45,
+    15.52,
+    17.59,
+    19.66,
+    21.73,
+    23.8,
+    25.87,
+    27.94,
+    30.01,
+    32.08,
+    34.15,
+    36.22,
+    38.29,
+    40.36,
+    42.43,
+    44.5,
+    46.57,
+    48.64
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night spotlit hoist-cam, black and white"
+}

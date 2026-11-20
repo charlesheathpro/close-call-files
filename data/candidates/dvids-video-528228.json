@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:528228",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 2 kite surfers in distress near Oyster Point Marina",
+  "description": "The Coast Guard rescued two kite surfers in distress near Oyster Point Marina, Saturday, May 27, 2017.  The Coast Guard Cutter Pike discovered the two individuals clinging to a navigational buoy near Oyster Point Marina. Coast Guard video by Coast Guard Cutter Pike",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/528228/coast-guard-rescues-2-kite-surfers-distress-near-oyster-point-marina",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "05.27.2017",
+  "location_text": "SAN FRANCISCO, CALIFORNIA, US",
+  "id": "dvids-video-528228",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T08:44:52Z",
+  "duration": 42.965,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1705/DOD_104420316/DOD_104420316-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      43.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-528228.jpg",
+  "sheet_times": [
+    0.88,
+    2.65,
+    4.42,
+    6.19,
+    7.96,
+    9.73,
+    11.5,
+    13.27,
+    15.04,
+    16.81,
+    18.58,
+    20.35,
+    22.12,
+    23.89,
+    25.66,
+    27.43,
+    29.19,
+    30.96,
+    32.73,
+    34.5,
+    36.27,
+    38.04,
+    39.81,
+    41.58
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "smeared FLIR screen recording, people tiny"
+}

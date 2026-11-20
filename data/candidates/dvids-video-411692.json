@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:411692",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 65-year-old woman from sailboat near Round Island, Michigan during Chicago to Mackinac Solo Challenge",
+  "description": "Petty Officer Third Class Nick Trimpe, a rescue swimmer at Coast Guard Air Station Traverse City, prepares to assist the skipper off of a grounded sailing vessel and onto a nearby beach on Round Island in the Mackinac Straits, June 23, 2015. The woman was participating in the Chicago to Mackinac Solo Challenge. U.S. Coast Guard video by Air Station Traverse City.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/411692/coast-guard-rescues-65-year-old-woman-sailboat-near-round-island-michigan-during-chicago-mackinac-solo-challenge",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "06.23.2015",
+  "location_text": "SAINT IGNACE, MICHIGAN, US",
+  "id": "dvids-video-411692",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:19:17Z",
+  "duration": 85.248,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1506/DOD_102545798/DOD_102545798-640x480-922k.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "scene_cuts": [
+    0.03
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      85.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-411692.jpg",
+  "sheet_times": [
+    1.77,
+    5.3,
+    8.83,
+    12.36,
+    15.89,
+    19.42,
+    22.95,
+    26.48,
+    30.01,
+    33.55,
+    37.08,
+    40.61,
+    44.14,
+    47.67,
+    51.2,
+    54.73,
+    58.26,
+    61.8,
+    65.33,
+    68.86,
+    72.39,
+    75.92,
+    79.45,
+    82.98
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Pink-tinted FLIR with HUD at 640x480; static view of a grounded sailboat"
+}

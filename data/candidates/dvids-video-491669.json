@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:491669",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard Responds to Boat Collision off Block Island, Rhode Island",
+  "description": "Aerial footage of the yacht, Lucia, sinking from a Coast Guard MH-60 Jayhawk helicopter Tuesday, Nov. 8, 2016. The air crew launched from Air Station Cape Cod after watchstanders at Coast Guard Sector Southeastern New England received a radio transmission from the captain of the Squeeze Play reporting the collision. (U.S. Coast Guard video)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/491669/coast-guard-responds-boat-collision-off-block-island-rhode-island",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "11.08.2016",
+  "location_text": "BLOCK ISLAND, RHODE ISLAND, US",
+  "id": "dvids-video-491669",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:17:49Z",
+  "duration": 83.626,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1611/DOD_103830224/DOD_103830224-640x480-922k.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "scene_cuts": [
+    4.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      83.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-491669.jpg",
+  "sheet_times": [
+    1.73,
+    5.2,
+    8.66,
+    12.12,
+    15.59,
+    19.05,
+    22.51,
+    25.98,
+    29.44,
+    32.9,
+    36.37,
+    39.83,
+    43.29,
+    46.76,
+    50.22,
+    53.69,
+    57.15,
+    60.61,
+    64.08,
+    67.54,
+    71.0,
+    74.47,
+    77.93,
+    81.39
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Daylight yacht sinking on FLIR color cam, but no federal release states the people's outcome; 640x480 HUD"
+}

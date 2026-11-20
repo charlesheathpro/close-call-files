@@ -1,0 +1,67 @@
+{
+  "asset_id": "video:935954",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard, partner agency rescue 2 boaters 18 miles off Pass-a-Grille Beach",
+  "description": "A Coast Guard Air Station Clearwater aircrew and Pinellas County Sheriff’s deputies rescued two adults after their 26-foot boat capsized 18 miles off Pass-a-Grille Beach, Florida, Sep. 6, 2024. Using the signal from one of the survivor's personal locator beacon, the aircrew located both people wearing life jackets. The aircrew hoisted one individual from their partially submerged vessel, and the deputies retrieved the other survivor. (U.S. Coast Guard photo)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/935954/coast-guard-partner-agency-rescue-2-boaters-18-miles-off-pass-grille-beach",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "09.06.2024",
+  "location_text": "ST. PETE BEACH, FLORIDA, US",
+  "id": "dvids-video-935954",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T08:41:08Z",
+  "duration": 103.467,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110547536/DOD_110547536.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "scene_cuts": [
+    5.0,
+    22.6,
+    63.87
+  ],
+  "drama_score": 60,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      103.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-935954.jpg",
+  "sheet_times": [
+    2.15,
+    6.44,
+    10.73,
+    15.02,
+    19.31,
+    23.6,
+    27.89,
+    32.18,
+    36.47,
+    40.76,
+    45.05,
+    49.34,
+    53.63,
+    57.92,
+    62.21,
+    66.5,
+    70.79,
+    75.08,
+    79.37,
+    83.66,
+    87.95,
+    92.24,
+    96.53,
+    100.82
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "washed-out FLIR and murky door-cam for most of the clip"
+}

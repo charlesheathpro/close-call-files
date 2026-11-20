@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:886683",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 4 boaters from vessel taking on water near Morgan City, La.",
+  "description": "A Coast Guard Air Station New Orleans MH-60 aircrew hoists boaters aboard a recreational vessel taking on water onto the helicopter 20 miles south of Morgan City, Louisiana, on June 11, 2023. The vessel taking on water had four boaters aboard that were hoisted and transferred to Lakefront Airport in New Orleans. There were no reported injuries. (U.S. Coast Guard video by Air Station New Orleans)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/886683/coast-guard-rescues-4-boaters-vessel-taking-water-near-morgan-city-la",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "06.11.2023",
+  "location_text": "MORGAN CITY, LOUISIANA, US",
+  "id": "dvids-video-886683",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:09:31Z",
+  "duration": 73.407,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109701787/DOD_109701787.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "scene_cuts": [
+    14.35
+  ],
+  "drama_score": 65,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      73.4
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-886683.jpg",
+  "sheet_times": [
+    1.52,
+    4.56,
+    7.59,
+    10.63,
+    13.67,
+    16.71,
+    19.75,
+    22.78,
+    25.82,
+    28.86,
+    31.9,
+    34.93,
+    37.97,
+    41.01,
+    44.05,
+    47.09,
+    50.12,
+    53.16,
+    56.2,
+    59.24,
+    62.27,
+    65.31,
+    68.35,
+    71.39
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night: FLIR with HUD then spotlit hoist-cam, calm routine hoists"
+}

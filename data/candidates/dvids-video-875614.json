@@ -1,0 +1,68 @@
+{
+  "asset_id": "video:875614",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "74th Engineer Dive Detachment Hosts Underwater Demolition Training",
+  "description": "The 74th Engineer Dive Detachment Hosts Underwater Demolition Training. Underwater demolitions are used to clear obstructions in ports and waterways and set explosive clearing charges for underwater mining operations.",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/875614/74th-engineer-dive-detachment-hosts-underwater-demolition-training",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "03.01.2023",
+  "location_text": "NORTH CAROLINA, US",
+  "id": "dvids-video-875614",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:23:26Z",
+  "duration": 30.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2303/DOD_109495848/DOD_109495848.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "scene_cuts": [
+    0.9,
+    0.93,
+    0.97,
+    1.0
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      1.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-875614.jpg",
+  "sheet_times": [
+    0.62,
+    1.85,
+    3.08,
+    4.31,
+    5.54,
+    6.77,
+    8.0,
+    9.23,
+    10.46,
+    11.69,
+    12.92,
+    14.15,
+    15.38,
+    16.61,
+    17.84,
+    19.07,
+    20.3,
+    21.53,
+    22.76,
+    23.99,
+    25.22,
+    26.45,
+    27.68,
+    28.91
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "30 s, mostly logo, interview and prep; one water blast in the last 3 s"
+}

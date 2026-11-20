@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:612093",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard, good Samaritan rescue 2 after boat capsizes (Mayday Audio)",
+  "description": "Heard here is the Mayday call captured by Coast Guard Sector St. Petersburg, Florida watchstanders Thursday, July 5, 2018 before a 25-foot fishing boat capsized with two men aboard 50 miles west of Naples, Florida. The Coast Guard and a good Samaritan rescued the two boaters and transported them to Pelican Pier, Naples with no injuries reported. (U.S. Coast Guard audio)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/612093/coast-guard-good-samaritan-rescue-2-after-boat-capsizes-mayday-audio",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.05.2018",
+  "location_text": "FORT MYERS BEACH, FLORIDA, US",
+  "id": "dvids-video-612093",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:14:54Z",
+  "duration": 4.01,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1807/DOD_105801639/DOD_105801639.mp4",
+    "width": 960,
+    "height": 540
+  },
+  "scene_cuts": [],
+  "drama_score": 27,
+  "audio": {
+    "silence_starts": [
+      3.3
+    ],
+    "silence_ends": [
+      4.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-612093.jpg",
+  "sheet_times": [
+    0.07,
+    0.22,
+    0.37,
+    0.51,
+    0.66,
+    0.8,
+    0.95,
+    1.1,
+    1.24,
+    1.39,
+    1.54,
+    1.68,
+    1.83,
+    1.97,
+    2.12,
+    2.27,
+    2.41,
+    2.56,
+    2.71,
+    2.85,
+    3.0,
+    3.14,
+    3.29,
+    3.44
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Audio-only, 4 s video"
+}

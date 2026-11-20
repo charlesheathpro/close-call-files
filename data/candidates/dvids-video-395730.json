@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:395730",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard Rescues Two Fishermen Near Block Island",
+  "description": "Coast Guard crews rescue two fishermen from their sinking vessel 10 miles south of Newport, Rhode Island, on March 23, 2015. Crews from Coast Guard Station Castle Hill, Coast Guard Station Point Judith, and Air Station Cape Cod responded to the 38-foot fishing boat that was taking on water. (U.S. Coast Guard photo by Coast Guard Station Castle Hill.)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/395730/coast-guard-rescues-two-fishermen-near-block-island",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "03.23.2015",
+  "location_text": "NEWPORT, RHODE ISLAND, US",
+  "id": "dvids-video-395730",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:13:14Z",
+  "duration": 13.93,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1503/DOD_102311568/DOD_102311568-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    4.2
+  ],
+  "drama_score": 94,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      13.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-395730.jpg",
+  "sheet_times": [
+    0.28,
+    0.84,
+    1.4,
+    1.96,
+    2.52,
+    3.08,
+    3.64,
+    4.2,
+    4.76,
+    5.32,
+    5.88,
+    6.44,
+    6.99,
+    7.55,
+    8.11,
+    8.67,
+    9.23,
+    9.79,
+    10.35,
+    10.91,
+    11.47,
+    12.03,
+    12.59,
+    13.15
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "14 s clip, too short"
+}

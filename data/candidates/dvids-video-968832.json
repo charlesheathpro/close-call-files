@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:968832",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 5 people from disabled boat off Sanibel",
+  "description": "A Coast Guard Air Station Clearwater aircrew rescues 2 children and 3 adults, Wednesday, after their 28-foot vessel became disabled, 30 miles west of Sanibel Island, Florida, July 2, 2025. Coast Guard Seventh District watchstanders were alerted about the distress through a Personal Locator Beacon activation around 2 a.m. (U.S. Coast Guard video)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/968832/coast-guard-rescues-5-people-disabled-boat-off-sanibel",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.02.2025",
+  "location_text": "SANIBEL ISLAND, FLORIDA, US",
+  "id": "dvids-video-968832",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T08:45:57Z",
+  "duration": 53.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2507/DOD_111111957/DOD_111111957.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "scene_cuts": [
+    8.64
+  ],
+  "drama_score": 55,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      53.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-968832.jpg",
+  "sheet_times": [
+    1.1,
+    3.29,
+    5.48,
+    7.67,
+    9.87,
+    12.06,
+    14.25,
+    16.44,
+    18.64,
+    20.83,
+    23.02,
+    25.21,
+    27.41,
+    29.6,
+    31.79,
+    33.98,
+    36.18,
+    38.37,
+    40.56,
+    42.75,
+    44.95,
+    47.14,
+    49.33,
+    51.52
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "night door-cam, almost all black"
+}

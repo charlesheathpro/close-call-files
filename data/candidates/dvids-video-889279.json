@@ -1,0 +1,67 @@
+{
+  "asset_id": "video:889279",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard, good Samaritans rescue 5 after boat collision near Galveston, Texas",
+  "description": "A Coast Guard MH-65 Dolphin helicopter crew from Air Station Houston hoists a man who sustained a head injury and a woman who broke her leg in a boat collision near Galveston, Texas, July 4, 2023. Five people aboard an 18-foot pleasure craft were injured and thrown into the water after their boat collided with a barge and capsized east of the Galveston Causeway. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/889279/coast-guard-good-samaritans-rescue-5-after-boat-collision-near-galveston-texas",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.04.2023",
+  "location_text": "GALVESTON, TEXAS, US",
+  "id": "dvids-video-889279",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:15:01Z",
+  "duration": 135.602,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2307/DOD_109744024/DOD_109744024.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "scene_cuts": [
+    12.41,
+    45.25,
+    89.16
+  ],
+  "drama_score": 98,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      135.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-889279.jpg",
+  "sheet_times": [
+    2.81,
+    8.44,
+    14.07,
+    19.7,
+    25.33,
+    30.96,
+    36.59,
+    42.22,
+    47.85,
+    53.48,
+    59.11,
+    64.74,
+    70.37,
+    75.99,
+    81.62,
+    87.25,
+    92.88,
+    98.51,
+    104.14,
+    109.77,
+    115.4,
+    121.03,
+    126.66,
+    132.29
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night hoist-cam; injured people (head injury, broken leg) are the story"
+}

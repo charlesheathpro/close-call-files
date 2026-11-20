@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:886898",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues man from grounded vessel in Bulls Bay",
+  "description": "A Coast Guard Air Station Savannah helicopter crew hoisted a man from an aground 24-foot vessel in Bulls Bay, South Carolina, June 12, 2023. The man could only be reached by air due to the water depth. (U.S. Coast Guard photo, courtesy photo)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/886898/coast-guard-rescues-man-grounded-vessel-bulls-bay",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "06.14.2023",
+  "location_text": "CHARLESTON, SOUTH CAROLINA, US",
+  "id": "dvids-video-886898",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:17:26Z",
+  "duration": 15.782,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2306/DOD_109705473/DOD_109705473.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "scene_cuts": [],
+  "drama_score": 35,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      15.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-886898.jpg",
+  "sheet_times": [
+    0.32,
+    0.96,
+    1.59,
+    2.23,
+    2.87,
+    3.5,
+    4.14,
+    4.78,
+    5.41,
+    6.05,
+    6.69,
+    7.32,
+    7.96,
+    8.6,
+    9.23,
+    9.87,
+    10.51,
+    11.14,
+    11.78,
+    12.42,
+    13.05,
+    13.69,
+    14.33,
+    14.96
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "16 s clip, too short"
+}

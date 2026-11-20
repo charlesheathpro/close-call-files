@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:758810",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues person stranded on aground jet ski in Rancocas Creek, New Jersey",
+  "description": "A Coast Guard Air Station Atlantic City aircrew rescues a woman who became stranded in Rancocas Creek, New Jersey, after running her jet ski aground in deep mud, July 5, 2020. Local fire rescue boats were unable to enact a rescue that night, due to the vessel being inaccessible from the chest-deep mud. (U.S. Coast Guard video courtesy of Coast Guard Air Station Atlantic City)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/758810/coast-guard-rescues-person-stranded-aground-jet-ski-rancocas-creek-new-jersey",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "07.05.2020",
+  "location_text": "NEW JERSEY, US",
+  "id": "dvids-video-758810",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:14:25Z",
+  "duration": 66.199,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2007/DOD_107885783/DOD_107885783-640x480-922k.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "scene_cuts": [],
+  "drama_score": 57,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      66.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-758810.jpg",
+  "sheet_times": [
+    1.37,
+    4.11,
+    6.84,
+    9.58,
+    12.32,
+    15.06,
+    17.79,
+    20.53,
+    23.27,
+    26.01,
+    28.74,
+    31.48,
+    34.22,
+    36.96,
+    39.69,
+    42.43,
+    45.17,
+    47.91,
+    50.64,
+    53.38,
+    56.12,
+    58.86,
+    61.59,
+    64.33
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night rescue, 640x480"
+}

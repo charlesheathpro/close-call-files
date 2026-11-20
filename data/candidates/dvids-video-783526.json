@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:783526",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 3 people, 1 dog from fishing vessel taking on water near Willapa Bay, WA",
+  "description": "A Coast Guard Sector Columbia River aircrew aboard an MH-60 Jayhawk helicopter rescue three mariners and a dog from a sinking vessel near Willapa Bay, WA, Saturday, Feb. 13. The vessel lost power and was nearing dangerous breaking surf when the rescue was conducted, saving all lives aboard. (U.S. Coast Guard video by Lt. Cdr. Jason Joll)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/783526/coast-guard-rescues-3-people-1-dog-fishing-vessel-taking-water-near-willapa-bay-wa",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "02.13.2021",
+  "location_text": "SEATTLE, WASHINGTON, US",
+  "id": "dvids-video-783526",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:09:12Z",
+  "duration": 44.82,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2102/DOD_108185588/DOD_108185588-640x480-922k.mp4",
+    "width": 640,
+    "height": 480
+  },
+  "scene_cuts": [],
+  "drama_score": 37,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      44.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-783526.jpg",
+  "sheet_times": [
+    0.92,
+    2.77,
+    4.62,
+    6.46,
+    8.31,
+    10.16,
+    12.0,
+    13.85,
+    15.7,
+    17.54,
+    19.39,
+    21.24,
+    23.08,
+    24.93,
+    26.78,
+    28.62,
+    30.47,
+    32.32,
+    34.16,
+    36.01,
+    37.86,
+    39.7,
+    41.55,
+    43.4
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Dark, crushed-color door-cam at 640x480; the sinking boat is never shown, only the basket and breaking water"
+}

@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:846351",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand-harvest",
+  "title": "Coast Guard rescues 1 from aground vessel near Lake Charles, Louisiana",
+  "description": "A Coast Guard Air Station Houston helicopter crew rescues a man after his vessel went aground near Lake Charles, Louisiana, June 7, 2022. The helicopter crew arrived on scene, hoisted the man and transported him to Chennault International Airport. (U.S. Coast Guard video, courtesy Air Station Houston)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/846351/coast-guard-rescues-1-aground-vessel-near-lake-charles-louisiana",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "06.06.2022",
+  "location_text": "TEXAS, US",
+  "id": "dvids-video-846351",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T09:17:41Z",
+  "duration": 30.831,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2206/DOD_109043049/DOD_109043049.mp4",
+    "width": 720,
+    "height": 480
+  },
+  "scene_cuts": [],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      30.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-846351.jpg",
+  "sheet_times": [
+    0.63,
+    1.9,
+    3.16,
+    4.42,
+    5.69,
+    6.95,
+    8.21,
+    9.48,
+    10.74,
+    12.01,
+    13.27,
+    14.53,
+    15.8,
+    17.06,
+    18.32,
+    19.59,
+    20.85,
+    22.12,
+    23.38,
+    24.64,
+    25.91,
+    27.17,
+    28.44,
+    29.7
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Night spotlit hoist-cam, mostly dark"
+}
