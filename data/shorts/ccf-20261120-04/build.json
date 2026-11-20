@@ -1,7 +1,332 @@
 {
   "short_id": "ccf-20261120-04",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-20T10:01:09Z",
-  "error": "line 4: shots are 3.1s even after extending, but the line needs 5.2s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-20T10:04:52Z",
+  "duration": 17.93,
+  "source_resolution": "1024x576",
+  "timeline": [
+    {
+      "text": "This was the first live missile fired from USS Zumwalt's launchers.",
+      "start": 0.05,
+      "end": 4.45,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.26
+        },
+        {
+          "w": "was",
+          "s": 0.29,
+          "e": 0.423
+        },
+        {
+          "w": "the",
+          "s": 0.45,
+          "e": 0.65
+        },
+        {
+          "w": "first",
+          "s": 0.69,
+          "e": 0.978
+        },
+        {
+          "w": "live",
+          "s": 1.01,
+          "e": 1.27
+        },
+        {
+          "w": "missile",
+          "s": 1.33,
+          "e": 1.677
+        },
+        {
+          "w": "fired",
+          "s": 1.73,
+          "e": 2.1
+        },
+        {
+          "w": "from",
+          "s": 2.13,
+          "e": 2.29
+        },
+        {
+          "w": "USS",
+          "s": 2.37,
+          "e": 2.85
+        },
+        {
+          "w": "Zumwalt's",
+          "s": 2.93,
+          "e": 3.41
+        },
+        {
+          "w": "launchers.",
+          "s": 3.49,
+          "e": 4.45
+        }
+      ]
+    },
+    {
+      "text": "Its sharp, angled hull is built for stealth.",
+      "start": 4.57,
+      "end": 7.65,
+      "words": [
+        {
+          "w": "Its",
+          "s": 4.57,
+          "e": 4.69
+        },
+        {
+          "w": "sharp,",
+          "s": 4.77,
+          "e": 5.25
+        },
+        {
+          "w": "angled",
+          "s": 5.33,
+          "e": 5.65
+        },
+        {
+          "w": "hull",
+          "s": 5.73,
+          "e": 6.05
+        },
+        {
+          "w": "is",
+          "s": 6.13,
+          "e": 6.37
+        },
+        {
+          "w": "built",
+          "s": 6.45,
+          "e": 6.53
+        },
+        {
+          "w": "for",
+          "s": 6.61,
+          "e": 6.69
+        },
+        {
+          "w": "stealth.",
+          "s": 6.77,
+          "e": 7.65
+        }
+      ]
+    },
+    {
+      "text": "Missiles wait below the deck and fire straight up.",
+      "start": 7.73,
+      "end": 10.397,
+      "words": [
+        {
+          "w": "Missiles",
+          "s": 7.73,
+          "e": 8.13
+        },
+        {
+          "w": "wait",
+          "s": 8.25,
+          "e": 8.37
+        },
+        {
+          "w": "below",
+          "s": 8.53,
+          "e": 8.69
+        },
+        {
+          "w": "the",
+          "s": 8.77,
+          "e": 8.85
+        },
+        {
+          "w": "deck",
+          "s": 9.05,
+          "e": 9.25
+        },
+        {
+          "w": "and",
+          "s": 9.33,
+          "e": 9.41
+        },
+        {
+          "w": "fire",
+          "s": 9.61,
+          "e": 9.81
+        },
+        {
+          "w": "straight",
+          "s": 9.97,
+          "e": 10.13
+        },
+        {
+          "w": "up.",
+          "s": 10.21,
+          "e": 10.397
+        }
+      ]
+    },
+    {
+      "text": "Cameras on the deck caught the launch from every side.",
+      "start": 11.41,
+      "end": 14.29,
+      "words": [
+        {
+          "w": "Cameras",
+          "s": 11.41,
+          "e": 11.73
+        },
+        {
+          "w": "on",
+          "s": 11.77,
+          "e": 11.85
+        },
+        {
+          "w": "the",
+          "s": 11.89,
+          "e": 11.97
+        },
+        {
+          "w": "deck",
+          "s": 12.09,
+          "e": 12.21
+        },
+        {
+          "w": "caught",
+          "s": 12.29,
+          "e": 12.45
+        },
+        {
+          "w": "the",
+          "s": 12.53,
+          "e": 12.61
+        },
+        {
+          "w": "launch",
+          "s": 12.73,
+          "e": 12.85
+        },
+        {
+          "w": "from",
+          "s": 12.93,
+          "e": 13.17
+        },
+        {
+          "w": "every",
+          "s": 13.25,
+          "e": 13.49
+        },
+        {
+          "w": "side.",
+          "s": 13.65,
+          "e": 14.29
+        }
+      ]
+    },
+    {
+      "text": "The Navy called it a successful first live fire test.",
+      "start": 14.37,
+      "end": 17.73,
+      "words": [
+        {
+          "w": "The",
+          "s": 14.37,
+          "e": 14.45
+        },
+        {
+          "w": "Navy",
+          "s": 14.49,
+          "e": 14.77
+        },
+        {
+          "w": "called",
+          "s": 14.89,
+          "e": 15.01
+        },
+        {
+          "w": "it",
+          "s": 15.09,
+          "e": 15.17
+        },
+        {
+          "w": "a",
+          "s": 15.25,
+          "e": 15.33
+        },
+        {
+          "w": "successful",
+          "s": 15.41,
+          "e": 16.05
+        },
+        {
+          "w": "first",
+          "s": 16.21,
+          "e": 16.45
+        },
+        {
+          "w": "live",
+          "s": 16.53,
+          "e": 16.77
+        },
+        {
+          "w": "fire",
+          "s": 16.93,
+          "e": 17.09
+        },
+        {
+          "w": "test.",
+          "s": 17.25,
+          "e": 17.73
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 17.93
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.003
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.2
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.0
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261120-04/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261120-04-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261120-04/ccf-20261120-04.mp4"
 }
