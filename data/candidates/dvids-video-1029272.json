@@ -1,82 +1,86 @@
 {
- "asset_id": "video:1029272",
- "source": "dvids",
- "lane": "aviation_naval",
- "matched_query": "hand-harvest",
- "title": "1-7 Cav conducts live fire exercise and controlled demolition",
- "description": "Troopers assigned to 1st Squadron, 7th Cavalry Regiment, 1st Armored Brigade Combat Team, conduct a live fire exercise training and employ unmanned vehicles to demolish identified obstacles at Fort Hood, Texas, Nov. 5, 2026. Using an intelligence, surveillance and reconnaissance (ISR) drone to identify obstacles, the Troopers employ the FireAnt, equipped with C-4 explosives, to destroy them. (U.S. Army video by Sgt. Jesse Rugg)",
- "credit": "",
- "page_url": "https://www.dvidshub.net/video/1029272/1-7-cav-conducts-live-fire-exercise-and-controlled-demolition",
- "via": "DVIDS",
- "license": "public domain",
- "date": "11.05.2026",
- "location_text": "FORT HOOD, TEXAS, US",
- "id": "dvids-video-1029272",
- "status": "passed_over",
- "harvested_at": "2026-11-20T05:33:31Z",
- "duration": 82.566,
- "source_file": {
-  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112136542/DOD_112136542.mp4",
-  "width": 3840,
-  "height": 2160
- },
- "scene_cuts": [
-  15.47,
-  18.54,
-  26.98,
-  30.68,
-  34.05,
-  36.72,
-  40.22,
-  44.19,
-  47.85,
-  52.49,
-  54.22,
-  57.32,
-  69.19,
-  77.46
- ],
- "drama_score": 100,
- "audio": {
-  "silence_starts": [
-   19.5,
-   20.3,
-   25.1,
-   25.7,
-   53.3
+  "asset_id": "video:1029272",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "1-7 Cav conducts live fire exercise and controlled demolition",
+  "description": "Troopers assigned to 1st Squadron, 7th Cavalry Regiment, 1st Armored Brigade Combat Team, conduct a live fire exercise training and employ unmanned vehicles to demolish identified obstacles at Fort Hood, Texas, Nov. 5, 2026. Using an intelligence, surveillance and reconnaissance (ISR) drone to identify obstacles, the Troopers employ the FireAnt, equipped with C-4 explosives, to destroy them. (U.S. Army video by Sgt. Jesse Rugg)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Army video by Sgt. Jesse Rugg",
+  "page_url": "https://www.dvidshub.net/video/1029272",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1029272",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T20:51:53Z",
+  "duration": 82.57,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112136542/DOD_112136542.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 6.54,
+      "e": 8.54,
+      "text": "You"
+    }
   ],
-  "silence_ends": [
-   20.2,
-   21.3,
-   25.7,
-   27.0,
-   54.1
-  ]
- },
- "sheet": "data/candidates/dvids-video-1029272.jpg",
- "sheet_times": [
-  2.05,
-  6.15,
-  10.26,
-  14.36,
-  18.46,
-  22.57,
-  26.67,
-  30.77,
-  34.88,
-  38.98,
-  43.08,
-  47.19,
-  51.29,
-  55.39,
-  59.5,
-  63.6,
-  67.7,
-  71.81,
-  75.91,
-  80.01
- ],
- "copyright_flags": [],
- "transcript": [],
- "pass_reason": "Blast distant and small; mostly vehicles and drone controls"
+  "scene_cuts": [
+    15.47,
+    18.54,
+    26.98,
+    30.68,
+    34.05,
+    36.72,
+    40.22,
+    44.19,
+    47.85,
+    52.49,
+    54.22,
+    57.32,
+    69.19,
+    77.46
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      19.5,
+      20.3,
+      25.1,
+      25.7,
+      53.3
+    ],
+    "silence_ends": [
+      20.2,
+      21.3,
+      25.7,
+      27.0,
+      54.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1029272.jpg",
+  "sheet_times": [
+    2.56,
+    7.69,
+    12.82,
+    17.95,
+    23.08,
+    28.21,
+    33.34,
+    38.47,
+    43.6,
+    48.73,
+    53.86,
+    58.98,
+    64.11,
+    69.24,
+    74.37,
+    79.5
+  ],
+  "pass_reason": "FireAnt blasts are tiny and distant; mostly drones, controllers and tanks driving"
 }

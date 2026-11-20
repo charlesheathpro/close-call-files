@@ -1,0 +1,83 @@
+{
+  "asset_id": "video:1029719",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "W.Va. Guard Provides Aerial Firefighting Support",
+  "description": "The West Virginia National Guard provided aerial wildland firefighting support to emergency personnel in Morgan County, West Virginia, including the West Virginia Division of Forestry and personnel from Cacapon Resort State Park, on Tuesday, November 11, 2026, to combat the ongoing Kessel Fire that has consumed more than 275 acres of woodland in West Virginia’s Eastern Panhandle. Crews from Co. C, 1/150th Assault Battalion out of Wheeling, WV, deployed to deliver water from a specialized aerial device known as a “Bambi Bucket” to otherwise hard-to-reach areas of the fire dangerous for ground-based personnel.",
+  "keywords": "",
+  "date": null,
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/1029719",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1029719",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T20:47:22Z",
+  "duration": 289.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112146046/DOD_112146046.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.52
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      37.4,
+      38.9,
+      39.7,
+      42.7,
+      44.5,
+      45.3,
+      46.9,
+      47.6,
+      165.1,
+      170.0,
+      172.8,
+      226.4
+    ],
+    "silence_ends": [
+      15.5,
+      38.5,
+      39.7,
+      42.1,
+      43.6,
+      45.3,
+      46.8,
+      47.6,
+      49.0,
+      170.0,
+      172.8,
+      182.0,
+      227.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1029719.jpg",
+  "sheet_times": [
+    9.04,
+    27.13,
+    45.22,
+    63.31,
+    81.4,
+    99.49,
+    117.57,
+    135.66,
+    153.75,
+    171.84,
+    189.93,
+    208.02,
+    226.11,
+    244.19,
+    262.28,
+    280.37
+  ],
+  "pass_reason": "Kessel Fire bucket drops: release gives no outcome (fire ongoing), bucket drops repeat 19-51"
+}

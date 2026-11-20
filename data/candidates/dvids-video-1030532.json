@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:1030532",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "hand",
+  "title": "Soldiers conduct high water rescue missions",
+  "description": "Florida Army National Guard Soldiers, assigned to Bravo Battery, 1st Battalion, 260th Air Defense Artillery Regiment, conduct high water rescue missions in Cocoa, Florida. The Soldiers evacuated local citizens impacted by severe flooding in the area.",
+  "keywords": "",
+  "date": null,
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/1030532",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1030532",
+  "status": "used",
+  "harvested_at": "2026-11-20T20:52:13Z",
+  "duration": 368.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112162884/DOD_112162884.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.76,
+    29.24,
+    35.16,
+    46.71,
+    59.89,
+    73.07,
+    76.03,
+    101.81,
+    136.01,
+    157.37,
+    162.12,
+    206.87,
+    239.07,
+    309.98,
+    324.24,
+    339.59,
+    343.34,
+    344.93,
+    353.98,
+    363.86
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      368.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1030532.jpg",
+  "sheet_times": [
+    11.51,
+    34.53,
+    57.55,
+    80.57,
+    103.59,
+    126.61,
+    149.63,
+    172.65,
+    195.67,
+    218.69,
+    241.71,
+    264.73,
+    287.76,
+    310.78,
+    333.8,
+    356.82
+  ],
+  "used_by": "ccf-20261120-17"
+}

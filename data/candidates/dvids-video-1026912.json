@@ -1,0 +1,67 @@
+{
+  "asset_id": "video:1026912",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "hand",
+  "title": "Mine Clearing Line Charge, also known as MICLIC, being fired at Fort Leonard Wood",
+  "description": "U.S. Army Engineer School and Fort Leonard Wood strengthen international partnerships by cross training with Australian Defense Forces on the Mine Clearing Line Charge, also known as MICLIC. (U.S. Army video by Maria Cassidy)",
+  "keywords": "",
+  "date": null,
+  "credit": "U.S. Army video by Maria Cassidy",
+  "page_url": "https://www.dvidshub.net/video/1026912",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1026912",
+  "status": "used",
+  "harvested_at": "2026-11-20T20:46:58Z",
+  "duration": 15.73,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083568/DOD_112083568.mp4",
+    "width": 720,
+    "height": 1280
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 1.3,
+      "e": 3.3,
+      "text": "Oh"
+    }
+  ],
+  "scene_cuts": [
+    4.47,
+    6.03,
+    10.97
+  ],
+  "drama_score": 76,
+  "audio": {
+    "silence_starts": [
+      12.8
+    ],
+    "silence_ends": [
+      15.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1026912.jpg",
+  "sheet_times": [
+    0.48,
+    1.43,
+    2.38,
+    3.33,
+    4.28,
+    5.24,
+    6.19,
+    7.14,
+    8.09,
+    9.04,
+    10.0,
+    10.95,
+    11.9,
+    12.85,
+    13.81,
+    14.76
+  ],
+  "used_by": "ccf-20261120-16"
+}

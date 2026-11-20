@@ -1,0 +1,58 @@
+{
+  "asset_id": "video:1027198",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "LC-130 Takeoffs and Landings in Greenland",
+  "description": "A LC-130H from the 109th Airlift Wing performs take offs and landings during a training flight at Raven Camp, Greenland, Aug. 31, 2026. The LC-130s are the largest aircraft in the world capable of landing on snow and ice using skis. (Air National Guard video by Master Sgt. Jamie Spaulding)",
+  "keywords": "",
+  "date": null,
+  "credit": "Air National Guard video by Master Sgt. Jamie Spaulding",
+  "page_url": "https://www.dvidshub.net/video/1027198",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1027198",
+  "status": "new",
+  "harvested_at": "2026-11-20T21:01:09Z",
+  "duration": 55.76,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112089833/DOD_112089833.mp4",
+    "width": 4096,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    20.5
+  ],
+  "drama_score": 80,
+  "audio": {
+    "silence_starts": [
+      54.0
+    ],
+    "silence_ends": [
+      55.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1027198.jpg",
+  "sheet_times": [
+    1.73,
+    5.18,
+    8.63,
+    12.09,
+    15.54,
+    18.99,
+    22.45,
+    25.9,
+    29.35,
+    32.81,
+    36.26,
+    39.72,
+    43.17,
+    46.62,
+    50.08,
+    53.53
+  ]
+}
