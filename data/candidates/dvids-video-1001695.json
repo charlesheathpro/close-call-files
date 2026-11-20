@@ -1,0 +1,57 @@
+{
+ "asset_id": "video:1001695",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues 5 people near Aleutian Islands, Alaska",
+ "description": "A U.S. Coast Guard Air Station Kodiak MH-60 Jayhawk helicopter aircrew from Coast Guard Air Station Kodiak hoists a crewmember from the grounded fishing vessel Ocean Bay near Umnak Island, Alaska April 2, 2026. The aircrew transferred the five Ocean Bay crewmembers to emergency medical services in Dutch Harbor with no reported injuries. (Courtesy video)",
+ "credit": "",
+ "byline": "",
+ "unit_name": "",
+ "page_url": "https://www.dvidshub.net/video/1001695/coast-guard-rescues-5-people-near-aleutian-islands-alaska",
+ "via": "DVIDS",
+ "license": "public domain",
+ "id": "dvids-video-1001695",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T00:49:35Z",
+ "duration": 87.087,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2604/DOD_111610844/DOD_111610844.mp4",
+  "width": 540,
+  "height": 960
+ },
+ "scene_cuts": [
+  20.79,
+  25.49,
+  26.89,
+  54.52
+ ],
+ "drama_score": 100,
+ "sheet": "data/candidates/dvids-video-1001695.jpg",
+ "sheet_times": [
+  2.16,
+  6.49,
+  10.82,
+  15.15,
+  19.48,
+  23.81,
+  28.14,
+  32.47,
+  36.8,
+  41.13,
+  45.46,
+  49.79,
+  54.12,
+  58.45,
+  62.78,
+  67.1,
+  71.43,
+  75.76,
+  80.09,
+  84.42
+ ],
+ "copyright_flags": [
+  "courtesy: courtesy video"
+ ],
+ "pass_reason": "courtesy video, 540x960 vertical"
+}
