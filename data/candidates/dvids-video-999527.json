@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:999527",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard Rescue Swimmer Conducts Final Helicopter Jump in Seabrook",
+ "description": "U.S. Coast Guard Aviation Survival Technician Second Class Omar Alba, assigned to Air Station Houston, executes his final helicopter jump in Seabrook, Texas, March 13, 2026. The jump from the hovering aircraft marks the end of his service as a rescue swimmer. (U.S. Coast Guard video by PA3 Shirzad)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/999527/coast-guard-rescue-swimmer-conducts-final-helicopter-jump-seabrook",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "03.13.2026",
+ "location_text": "US",
+ "id": "dvids-video-999527",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:52:23Z",
+ "duration": 10.31,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2603/DOD_111575587/DOD_111575587.mp4",
+  "width": 2752,
+  "height": 4128
+ },
+ "scene_cuts": [],
+ "drama_score": 92,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   10.3
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-999527.jpg",
+ "sheet_times": [
+  0.25,
+  0.74,
+  1.23,
+  1.72,
+  2.21,
+  2.7,
+  3.19,
+  3.68,
+  4.17,
+  4.66,
+  5.15,
+  5.64,
+  6.13,
+  6.62,
+  7.11,
+  7.6,
+  8.09,
+  8.58,
+  9.07,
+  9.57
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "10 s vertical clip, routine final jump"
+}
