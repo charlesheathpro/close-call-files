@@ -1,0 +1,61 @@
+{
+ "asset_id": "video:1015815",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "B-Roll: Decommissioned USS Peleliu struck by Harpoon anti-ship cruise missiles during RIMPAC 26 sinking exercise",
+ "description": "Decommissioned amphibious assault ship USS Peleliu (LHA 5) is struck by two UGM-84 Harpoon anti-ship cruise missiles, fired from Los Angeles-class fast-attack submarine USS Columbia (SSN 771), during a live-fire sinking exercise during Exercise Rim of the Pacific 2026 in the Pacific Ocean, July 17, 2026. Over 35 years of naval service, Peleliu, with a displacement of nearly 40,000 tons, launched a variety of aircraft from its formidable flight deck while conducting combat operations and humanitarian missions across half the globe. LHAs are the largest of all amphibious warfare ships, resembling a small aircraft carrier. Thirty nations, 30 ships, five submarines, 15 national land forces, more than 190 aircraft and more than 30,000 personnel are participating in RIMPAC in and around the Hawaiian Islands, June 24 to July 31. The world's largest international maritime exercise, RIMPAC provides a unique training opportunity while fostering and sustaining cooperative relationships among participants critical to ensuring the safety of sea lanes and security on the world's oceans. RIMPAC 2026 is the 30th exercise in the series that began in 1971. (U.S. Navy video)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Navy video",
+ "page_url": "https://www.dvidshub.net/video/1015815",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1015815",
+ "status": "used",
+ "harvested_at": "2026-11-20T16:49:48Z",
+ "duration": 25.0,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111857086/DOD_111857086.mp4",
+  "width": 1280,
+  "height": 704
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 60,
+ "audio": {
+  "silence_starts": [
+   4.4,
+   19.2,
+   20.8
+  ],
+  "silence_ends": [
+   5.1,
+   20.1,
+   22.6
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1015815.jpg",
+ "sheet_times": [
+  0.77,
+  2.3,
+  3.83,
+  5.36,
+  6.89,
+  8.42,
+  9.95,
+  11.48,
+  13.02,
+  14.55,
+  16.08,
+  17.61,
+  19.14,
+  20.67,
+  22.2,
+  23.73
+ ],
+ "used_by": "ccf-20261120-13"
+}

@@ -1,0 +1,126 @@
+{
+ "asset_id": "video:317555",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "The Coast Guard cutter Anacapa sinks the derelict tsunami debris Japanese fishing vessel Ryou-Un Maru",
+ "description": "GULF OF ALASKA - The Japanese fishing vessel, Ryou-Un Maru, is sunk in the Gulf of Alaska after receiving significant damage from the Coast Guard Cutter Anancapa crew firing explosive ammunition into it 180 miles west of the Southeast Alaskan coast April 5, 2012. The crew was successful and sank the vessel at 6:15 p.m. in 6,000 feet of water by using explosive ammunition and filling it with water. U.S. Coast Guard video by Petty Officer 2nd Class Brandon Thomas.",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Coast Guard video by Petty Officer 2nd Class Brandon Thomas",
+ "page_url": "https://www.dvidshub.net/video/317555",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-317555",
+ "status": "used",
+ "harvested_at": "2026-11-20T16:43:50Z",
+ "duration": 286.02,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1312/DOD_101062508/DOD_101062508-720x480-800k.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 59.7,
+   "e": 61.18,
+   "text": "the last local time."
+  },
+  {
+   "s": 61.18,
+   "e": 62.34,
+   "text": "The counter in the capital will be conducting"
+  },
+  {
+   "s": 62.34,
+   "e": 64.14,
+   "text": "live fire-generating exercise."
+  },
+  {
+   "s": 64.14,
+   "e": 65.84,
+   "text": "Position five, five degrees."
+  },
+  {
+   "s": 65.84,
+   "e": 67.38,
+   "text": "And there are one minutes north,"
+  },
+  {
+   "s": 67.38,
+   "e": 70.64,
+   "text": "one, three, eight degrees, four, eight minutes west."
+  },
+  {
+   "s": 70.64,
+   "e": 72.5,
+   "text": "All vessels and aircraft are required to maintain"
+  },
+  {
+   "s": 72.5,
+   "e": 74.74,
+   "text": "a distance in the middle less than six notable miles"
+  },
+  {
+   "s": 74.74,
+   "e": 77.94,
+   "text": "in an altitude of no less than 25,000 feet."
+  },
+  {
+   "s": 77.94,
+   "e": 79.14,
+   "text": "Any concern traffic contact,"
+  },
+  {
+   "s": 79.14,
+   "e": 82.58,
+   "text": "those who are going to keep on channel one, six."
+  },
+  {
+   "s": 82.58,
+   "e": 83.42,
+   "text": "All right."
+  }
+ ],
+ "scene_cuts": [
+  5.0,
+  54.75,
+  82.98,
+  216.22,
+  216.58
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   117.6
+  ],
+  "silence_ends": [
+   5.1,
+   286.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-317555.jpg",
+ "sheet_times": [
+  8.92,
+  26.77,
+  44.61,
+  62.46,
+  80.3,
+  98.15,
+  115.99,
+  133.84,
+  151.68,
+  169.53,
+  187.37,
+  205.22,
+  223.07,
+  240.91,
+  258.76,
+  276.6
+ ],
+ "used_by": "ccf-20261120-12"
+}

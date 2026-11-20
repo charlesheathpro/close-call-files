@@ -1,0 +1,114 @@
+{
+  "short_id": "ccf-20261120-13",
+  "revision": 1,
+  "candidate_id": "dvids-video-1015815",
+  "lane": "aviation_naval",
+  "story_type": "sinking exercise, onboard camera as an anti-ship missile hits",
+  "music_mood": "naval",
+  "priority": 3,
+  "hook": "A camera bolted to a 40,000 ton warship. Then the missile hit.",
+  "narration": [
+    "This camera was bolted to a forty thousand ton warship when the missile hit.",
+    "The old USS Peleliu served thirty five years before this last job off Hawaii.",
+    "A submarine fired two Harpoons. They skim the waves, so a target sees them late."
+  ],
+  "outcome": "Peleliu sank in fifteen thousand feet of water off Kauai.",
+  "location_card": {
+    "place": "Off Kauai, Hawaii",
+    "date": "July 17, 2026"
+  },
+  "keep_source_audio": true,
+  "title": "Harpoon hits a 40,000 ton warship",
+  "description": "A camera aboard the decommissioned USS Peleliu records a Harpoon missile strike fired by the submarine USS Columbia during the RIMPAC 2026 sinking exercise off Kauai, Hawaii, July 17, 2026.\n\nFootage: U.S. Navy video, via DVIDS: https://www.dvidshub.net/video/1015815\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #navy #warship #explosion",
+  "tags": [
+    "uss peleliu",
+    "sinkex",
+    "harpoon missile",
+    "rimpac 2026",
+    "navy",
+    "warship",
+    "explosion",
+    "submarine",
+    "real footage"
+  ],
+  "question_comment": "Should old warships be sunk like this or turned into museums?",
+  "facts": [
+    {
+      "claim": "Peleliu struck by two Harpoons fired from USS Columbia during RIMPAC 2026 SINKEX, July 17, 2026",
+      "source_quote": "Decommissioned amphibious assault ship USS Peleliu (LHA 5) is struck by two UGM-84 Harpoon anti-ship cruise missiles, fired from Los Angeles-class fast-attack submarine USS Columbia (SSN 771), during a live-fire sinking exercise during Exercise Rim of the Pacific 2026 in the Pacific Ocean, July 17, 2026."
+    },
+    {
+      "claim": "35 years of service, nearly 40,000 tons",
+      "source_quote": "Over 35 years of naval service, Peleliu, with a displacement of nearly 40,000 tons"
+    },
+    {
+      "claim": "Sunk in 15,000 feet of water more than 50 nautical miles off northern Kauai",
+      "source_quote": "Mobile Bay and Peleliu were sunk in waters 15,000 feet deep, more than 50 nautical miles off the northern coast of the island of Kauai.",
+      "source": "https://www.dvidshub.net/news/570552/us-and-partner-nations-conduct-sinkex-during-rimpac-26"
+    }
+  ],
+  "extra_sources": [
+    {
+      "url": "https://www.dvidshub.net/news/570552/us-and-partner-nations-conduct-sinkex-during-rimpac-26",
+      "excerpt": "PACIFIC OCEAN - Ships and aircraft participating in exercise Rim of the Pacific (RIMPAC) 2026 conducted a planned, live-fire sinking exercise (SINKEX) and sank decommissioned USS Mobile Bay (CG 53), July 12, 2026, and decommissioned USS Peleliu (LHA 5), July 17. Mobile Bay and Peleliu were sunk in waters 15,000 feet deep, more than 50 nautical miles off the northern coast of the island of Kauai."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 4.6,
+        "end": 7.4,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 7.4,
+        "end": 10.2,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 10.2,
+        "end": 13.4,
+        "layout": "crop",
+        "crop_x": 0.68
+      },
+      {
+        "start": 13.4,
+        "end": 16.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 16.6,
+        "end": 19.4,
+        "layout": "crop",
+        "crop_x": 0.75
+      },
+      {
+        "start": 19.4,
+        "end": 22.2,
+        "layout": "crop",
+        "crop_x": 0.62
+      }
+    ],
+    [
+      {
+        "start": 22.2,
+        "end": 24.9,
+        "layout": "crop",
+        "crop_x": 0.78
+      },
+      {
+        "start": 0.5,
+        "end": 4.5,
+        "layout": "crop",
+        "crop_x": 0.62
+      }
+    ]
+  ]
+}

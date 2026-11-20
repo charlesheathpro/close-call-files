@@ -1,0 +1,157 @@
+{
+ "asset_id": "video:908881",
+ "source": "dvids",
+ "lane": "hazards",
+ "matched_query": "hand",
+ "title": "Silver Flag Live Fire Burn Pit",
+ "description": "Video highlighting the live fire burn pit conducted by the 801st Red Horse Training Squadron at Silver Flag, Tyndall Air Force Base, Florida.\n(U.S. Air Force video by Airman Zeeshan Naeem)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Air Force video by Airman Zeeshan Naeem",
+ "page_url": "https://www.dvidshub.net/video/908881",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-908881",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:46:37Z",
+ "duration": 71.94,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110058077/DOD_110058077.mp4",
+  "width": 3840,
+  "height": 2160
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 0.0,
+   "e": 11.74,
+   "text": "So Silver Flag is important because it teaches Airmen how to be in a deployment location,"
+  },
+  {
+   "s": 11.74,
+   "e": 13.24,
+   "text": "fire specific."
+  },
+  {
+   "s": 13.24,
+   "e": 18.22,
+   "text": "It teaches Airmen how it would be in a in-country station where you have all the resources"
+  },
+  {
+   "s": 18.22,
+   "e": 19.7,
+   "text": "you would back home."
+  },
+  {
+   "s": 19.7,
+   "e": 23.14,
+   "text": "It teaches us how we would do things a little bit differently."
+  },
+  {
+   "s": 23.14,
+   "e": 28.14,
+   "text": "And we have of course the fire pit, which is the only fire pit in the DOD that is able"
+  },
+  {
+   "s": 28.14,
+   "e": 32.9,
+   "text": "to use live jet-a fuel and home."
+  },
+  {
+   "s": 32.9,
+   "e": 37.98,
+   "text": "The Marines haven't been here in decades and I think that we need to start sending Marines"
+  },
+  {
+   "s": 37.98,
+   "e": 40.26,
+   "text": "here to do more joint training."
+  },
+  {
+   "s": 40.26,
+   "e": 44.18,
+   "text": "I think it's important for the Marines to train with Airmen to build that commodity"
+  },
+  {
+   "s": 44.18,
+   "e": 48.86,
+   "text": "and spread knowledge between each other this way we could be better prepared for deployment."
+  },
+  {
+   "s": 48.86,
+   "e": 51.14,
+   "text": "My experience with the live burns was amazing."
+  },
+  {
+   "s": 51.14,
+   "e": 57.98,
+   "text": "Being able to use H-FFLF as well as actually practicing technique with live cars."
+  },
+  {
+   "s": 57.98,
+   "e": 60.1,
+   "text": "Silver Flag was awesome."
+  },
+  {
+   "s": 60.18,
+   "e": 64.82,
+   "text": "I got a lot of knowledge and got to talk to a lot of the Airmen who gave me that knowledge"
+  },
+  {
+   "s": 64.82,
+   "e": 67.94,
+   "text": "and I'm going to be able to take it back with me and spread it to the Marines."
+  }
+ ],
+ "scene_cuts": [
+  3.0,
+  6.14,
+  14.05,
+  15.82,
+  20.69,
+  23.06,
+  25.06,
+  28.06,
+  30.96,
+  39.97,
+  41.67,
+  44.28,
+  46.28,
+  48.31,
+  50.32,
+  52.15,
+  59.93,
+  63.43
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   71.1
+  ],
+  "silence_ends": [
+   71.9
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-908881.jpg",
+ "sheet_times": [
+  2.23,
+  6.7,
+  11.16,
+  15.63,
+  20.09,
+  24.56,
+  29.02,
+  33.49,
+  37.95,
+  42.42,
+  46.88,
+  51.35,
+  55.81,
+  60.28,
+  64.74,
+  69.21
+ ],
+ "pass_reason": "mostly interviews; about 10 s of fire, no outcome"
+}
