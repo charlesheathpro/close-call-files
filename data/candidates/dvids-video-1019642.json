@@ -1,0 +1,67 @@
+{
+ "asset_id": "video:1019642",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues 2 kayakers near Anacapa Island, Calif.",
+ "description": "A Coast Guard Air Station Ventura Jayhawk helicopter aircrew hoists two kayakers from the water  off Anacapa Island, California, August 15, 2026. The two kayakers were then transferred to Ventura County emergency medical services at the Oxnard Airport. (U.S. Coast Guard video)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1019642/coast-guard-rescues-2-kayakers-near-anacapa-island-calif",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "08.15.2026",
+ "location_text": "VENTURA-OXNARD AIRPORT, CALIFORNIA, US",
+ "id": "dvids-video-1019642",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:04:17Z",
+ "duration": 83.75,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2608/DOD_111914205/DOD_111914205.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "scene_cuts": [],
+ "drama_score": 85,
+ "audio": {
+  "silence_starts": [
+   48.3,
+   52.8,
+   59.4,
+   67.0,
+   71.9
+  ],
+  "silence_ends": [
+   50.8,
+   54.1,
+   64.0,
+   68.4,
+   83.7
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1019642.jpg",
+ "sheet_times": [
+  2.08,
+  6.24,
+  10.41,
+  14.57,
+  18.73,
+  22.89,
+  27.06,
+  31.22,
+  35.38,
+  39.54,
+  43.71,
+  47.87,
+  52.03,
+  56.19,
+  60.36,
+  64.52,
+  68.68,
+  72.84,
+  77.01,
+  81.17
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night door-cam hoist, mostly dark water"
+}

@@ -1,0 +1,61 @@
+{
+ "asset_id": "video:1028766",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues six people from grounded vessel in South Carolina",
+ "description": "A U.S. Coast Guard Air Station Savannah MH-65 Dolphin helicopter aircrew rescued six people from a grounded 18-foot recreational vessel near Turtle Island Wildlife Management Area in Jasper County, Nov. 4, 2026. The aircrew safely hoisted the six people and transported them to Hunter Army Airfield, and no injuries were reported. (U.S. Coast Guard courtesy video)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1028766/coast-guard-rescues-six-people-grounded-vessel-south-carolina",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "11.04.2026",
+ "location_text": "CHARLESTON, SOUTH CAROLINA, US",
+ "id": "dvids-video-1028766",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T04:39:53Z",
+ "duration": 97.264,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112125057/DOD_112125057.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "scene_cuts": [
+  24.76
+ ],
+ "drama_score": 94,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   97.2
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1028766.jpg",
+ "sheet_times": [
+  2.42,
+  7.26,
+  12.1,
+  16.93,
+  21.77,
+  26.61,
+  31.45,
+  36.29,
+  41.12,
+  45.96,
+  50.8,
+  55.64,
+  60.48,
+  65.32,
+  70.15,
+  74.99,
+  79.83,
+  84.67,
+  89.51,
+  94.34
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night black-and-white hoist cam, 480p; boat and people hard to read"
+}

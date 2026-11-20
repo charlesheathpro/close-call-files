@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:831287",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues 4 from a life raft 60 miles west of St. Petersburg",
+ "description": "The crew of a Coast Guard Air Station Clearwater MH-60 Jayhawk helicopter hoists four survivors from a life raft after their fishing vessel sank Feb. 13, 2022, 60 miles west of St. Petersburg. The four survivors were transported to Air Station Clearwater where they were transferred to awaiting Emergency Medical Services personnel for evaluations. (U.S. Coast Guard photo)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/831287/coast-guard-rescues-4-life-raft-60-miles-west-st-petersburg",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "02.13.2022",
+ "location_text": "ST PETERSBURG, FLORIDA, US",
+ "id": "dvids-video-831287",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T04:57:04Z",
+ "duration": 27.2,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2202/DOD_108811955/DOD_108811955.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [],
+ "drama_score": 92,
+ "audio": {
+  "silence_starts": [
+   25.1
+  ],
+  "silence_ends": [
+   25.9
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-831287.jpg",
+ "sheet_times": [
+  0.67,
+  2.0,
+  3.34,
+  4.67,
+  6.01,
+  7.34,
+  8.68,
+  10.01,
+  11.35,
+  12.68,
+  14.02,
+  15.35,
+  16.69,
+  18.02,
+  19.36,
+  20.69,
+  22.03,
+  23.36,
+  24.7,
+  26.03
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night IR hoist cam, survivors barely visible"
+}

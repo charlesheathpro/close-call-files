@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:940039",
+ "source": "dvids",
+ "lane": "rescue",
+ "matched_query": "hand-harvest",
+ "title": "Coast Guard rescues two from vessel taking on water",
+ "description": "A Coast Guard Air Station Miami aircrew rescues two people from a sinking vessel approximately 55 miles northeast of Key West, Florida, Oct. 11, 2024. The two people were transported to Marathon with no reported medical concerns. (U.S. Coast Guard video)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/940039/coast-guard-rescues-two-vessel-taking-water",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "10.11.2024",
+ "location_text": "FLORIDA, US",
+ "id": "dvids-video-940039",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T04:40:13Z",
+ "duration": 76.076,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2410/DOD_110620527/DOD_110620527.mp4",
+  "width": 720,
+  "height": 480
+ },
+ "scene_cuts": [],
+ "drama_score": 64,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   76.1
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-940039.jpg",
+ "sheet_times": [
+  1.89,
+  5.67,
+  9.45,
+  13.23,
+  17.0,
+  20.78,
+  24.56,
+  28.34,
+  32.12,
+  35.9,
+  39.68,
+  43.46,
+  47.23,
+  51.01,
+  54.79,
+  58.57,
+  62.35,
+  66.13,
+  69.91,
+  73.69
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Night green-tinted hoist cam at 480p; swimmer and survivors are specks"
+}
