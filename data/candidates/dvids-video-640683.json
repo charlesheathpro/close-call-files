@@ -1,0 +1,71 @@
+{
+  "asset_id": "video:640683",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "California National Guard UH-60M Black Hawk over Camp Fire",
+  "description": "A UH-60M Black Hawk helicopter from the California Army National Guard's 1st Assault Helicopter Battalion, 140th Aviation Regiment, overflies and drops buckets of water on the Camp Fire in Northern California, Nov. 14, 2018. Crew chief and U.S. Army Sgt. Anthony Orduno is seen directing the helicopter into a dip sites and coordinating the water drop. Chief Warrant Officer 2 Douglas Martine is seen piloting the helicopter. This is the first water bucket flight for the Cal Guard's new M-model UH-60 helicopters. (U.S. Air National Guard video by Senior Airman Crystal Housman)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/640683/california-national-guard-uh-60m-black-hawk-over-camp-fire",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "11.14.2018",
+  "location_text": "BUTTE COUNTY, CALIFORNIA, US",
+  "id": "dvids-video-640683",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T10:08:29Z",
+  "duration": 114.752,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1811/DOD_106218663/DOD_106218663-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    4.5,
+    21.94,
+    67.94,
+    89.76,
+    106.4
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      114.1
+    ],
+    "silence_ends": [
+      4.5,
+      114.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-640683.jpg",
+  "sheet_times": [
+    2.38,
+    7.14,
+    11.9,
+    16.66,
+    21.42,
+    26.18,
+    30.94,
+    35.7,
+    40.46,
+    45.22,
+    49.99,
+    54.75,
+    59.51,
+    64.27,
+    69.03,
+    73.79,
+    78.55,
+    83.31,
+    88.07,
+    92.83,
+    97.59,
+    102.35,
+    107.11,
+    111.87
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "Camp Fire (85 deaths) context; 576p"
+}

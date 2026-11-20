@@ -1,0 +1,72 @@
+{
+  "asset_id": "video:603787",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand-harvest",
+  "title": "USS The Sullivans Launches Standard Missile 2",
+  "description": "180528-N-N0701-0011 ATLANTIC OCEAN (May 28, 2018) The Arleigh Burke-class guided missile destroyer USS The Sullivans (DDG 68) launched a Standard Missile 2 (SM-2) in the Virginia Capes operating area as part of an exercise to test the ship's ability to defend against a close-in aerial attack. The Sullivans deployed with the Harry S. Truman Carrier Strike Group in support of NATO Allies, European, and Africa partner nations, coalition partners, and U.S. national security interest in Europe and Africa. (U.S. Navy video/Released)",
+  "credit": "",
+  "page_url": "https://www.dvidshub.net/video/603787/uss-sullivans-launches-standard-missile-2",
+  "via": "DVIDS",
+  "license": "public domain",
+  "date": "05.28.2018",
+  "location_text": "ATLANTIC OCEAN",
+  "id": "dvids-video-603787",
+  "status": "passed_over",
+  "harvested_at": "2026-11-20T10:08:53Z",
+  "duration": 86.592,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1805/DOD_105688165/DOD_105688165-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "scene_cuts": [
+    3.54,
+    16.35,
+    26.09,
+    37.57,
+    48.18,
+    63.23,
+    63.3,
+    75.44
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      84.8
+    ],
+    "silence_ends": [
+      86.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-603787.jpg",
+  "sheet_times": [
+    1.79,
+    5.38,
+    8.97,
+    12.56,
+    16.14,
+    19.73,
+    23.32,
+    26.9,
+    30.49,
+    34.08,
+    37.67,
+    41.25,
+    44.84,
+    48.43,
+    52.01,
+    55.6,
+    59.19,
+    62.78,
+    66.36,
+    69.95,
+    73.54,
+    77.12,
+    80.71,
+    84.3
+  ],
+  "copyright_flags": [],
+  "transcript": [],
+  "pass_reason": "destroyer SM-2 launch, same story type as ccf-20261120-04 today"
+}
