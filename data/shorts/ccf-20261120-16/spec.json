@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261120-16",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-1026912",
   "lane": "hazards",
   "story_type": "rocket-fired mine clearing line charge detonation",
@@ -80,16 +80,16 @@
     ],
     [
       {
+        "start": 8.4,
+        "end": 10.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
         "start": 13.85,
         "end": 15.65,
         "layout": "crop",
         "crop_x": 0.55
-      },
-      {
-        "start": 8.5,
-        "end": 10.85,
-        "layout": "crop",
-        "crop_x": 0.5
       }
     ]
   ]
