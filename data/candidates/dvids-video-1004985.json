@@ -1,0 +1,79 @@
+{
+ "asset_id": "video:1004985",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "Nimitz Conducts Live-Fire Weapons Evolution",
+ "description": "Nimitz-class aircraft carrier USS Nimitz (CVN 68) conducts a live-fire weapons exercise with a “killer lemon” target while underway in the Atlantic Ocean, May 1, 2026. Nimitz is deployed as part of Southern Seas 2026 which seeks to enhance capability, improve interoperability, and strengthen maritime partnerships with countries throughout the region through joint, multinational and interagency exchanges and cooperation. (U.S. Navy video by Mass Communication Specialist 2nd Class Edward Jacome)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1004985/nimitz-conducts-live-fire-weapons-evolution",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "05.01.2026",
+ "location_text": "US",
+ "id": "dvids-video-1004985",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T06:02:07Z",
+ "duration": 60.06,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2605/DOD_111672770/DOD_111672770.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [
+  5.0,
+  10.01,
+  15.02,
+  20.02,
+  25.02,
+  36.74,
+  41.75
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   10.6,
+   12.3,
+   20.1,
+   22.1,
+   56.2,
+   57.7,
+   59.0
+  ],
+  "silence_ends": [
+   12.0,
+   15.1,
+   20.8,
+   23.0,
+   57.5,
+   58.6,
+   60.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1004985.jpg",
+ "sheet_times": [
+  1.49,
+  4.47,
+  7.45,
+  10.42,
+  13.4,
+  16.38,
+  19.36,
+  22.34,
+  25.31,
+  28.29,
+  31.27,
+  34.25,
+  37.23,
+  40.2,
+  43.18,
+  46.16,
+  49.14,
+  52.11,
+  55.09,
+  58.07
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Distant splashes around a buoy target, low stakes"
+}

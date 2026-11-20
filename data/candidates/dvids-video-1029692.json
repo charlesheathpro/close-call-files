@@ -1,0 +1,79 @@
+{
+ "asset_id": "video:1029692",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "DEVCOM Live-Fire Demonstration B-Roll",
+ "description": "U.S. Army Combat Capabilities Development Command (DEVCOM) Armaments Center, in coordination with USAREUR-AF and 7th Army Training Command, conducts a live-fire demonstration of emerging unmanned air and ground capabilities at Grafenwoehr Training Area, Germany, Nov. 12, 2026. The training focused on warfighting readiness and deterrence through training and collective exercises, building lethal, adaptable, combat-credible formations. (U.S. Army video by Cpl. Thomas Dixon)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/1029692/devcom-live-fire-demonstration-b-roll",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "11.11.2026",
+ "location_text": "GRAFENWOEHR, BAYERN, DE",
+ "id": "dvids-video-1029692",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T05:58:41Z",
+ "duration": 326.359,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112145655/DOD_112145655.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [
+  7.74,
+  49.45,
+  57.12,
+  64.7,
+  100.07,
+  111.64,
+  123.56,
+  157.49,
+  188.82,
+  203.37,
+  219.22,
+  230.36,
+  252.05,
+  257.59,
+  308.04
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   2.8,
+   4.5,
+   185.9
+  ],
+  "silence_ends": [
+   3.7,
+   7.2,
+   186.5
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1029692.jpg",
+ "sheet_times": [
+  8.15,
+  24.44,
+  40.73,
+  57.03,
+  73.32,
+  89.61,
+  105.9,
+  122.2,
+  138.49,
+  154.78,
+  171.08,
+  187.37,
+  203.66,
+  219.96,
+  236.25,
+  252.54,
+  268.83,
+  285.13,
+  301.42,
+  317.71
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Calm loading of a robot launcher; drones are specks"
+}
