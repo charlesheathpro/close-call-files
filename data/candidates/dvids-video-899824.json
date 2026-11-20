@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:899824",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "USS Halsey Supports Vital Navy Strategic Deterrence Mission",
+ "description": "PACIFIC OCEAN (Sep. 27, 2023) - An unarmed Trident II D5LE missile launches from the Ohio-class ballistic missile submarine USS Louisiana (SSBN 743), as seen from the Arleigh Burke-class guided-missile destroyer USS Halsey (DDG 97), off the coast of San Diego, California Wednesday. Halsey participated as a support vessel in the Demonstration and Shakedown Operation (DASO 32). The primary objective of DASO is to evaluate and demonstrate the readiness of the SSBN\u2019s Strategic Weapon System (SWS) and crew before operational deployment following the submarine\u2019s engineered refueling overhaul. DASO-32 is the final DASO conducted by an Ohio-class SSBN coming out of engineering refueling overhaul (ERO), marking the completion of all post-ERO DASOs for the Ohio-class SSBNs. The Trident II D5LE strategic weapon system is the system that will provide the initial SWS capability for the Columbia-class SSBN. (U.S. Navy photo courtesy USS Halsey/Released)",
+ "keywords": "",
+ "date": null,
+ "credit": "Courtesy",
+ "page_url": "https://www.dvidshub.net/video/899824",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-899824",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T17:02:46Z",
+ "duration": 89.99,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2309/DOD_109929106/DOD_109929106.mp4",
+  "width": 3840,
+  "height": 2160
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 12.5,
+   "e": 14.5,
+   "text": "Everybody was worried."
+  }
+ ],
+ "scene_cuts": [],
+ "drama_score": 62,
+ "audio": {
+  "silence_starts": [],
+  "silence_ends": []
+ },
+ "sheet": "data/candidates/dvids-video-899824.jpg",
+ "sheet_times": [
+  2.8,
+  8.39,
+  13.98,
+  19.58,
+  25.17,
+  30.76,
+  36.36,
+  41.95,
+  47.54,
+  53.13,
+  58.73,
+  64.32,
+  69.91,
+  75.51,
+  81.1,
+  86.69
+ ],
+ "pass_reason": "missile is a distant thin trail over flat sea; one Trident Short already"
+}

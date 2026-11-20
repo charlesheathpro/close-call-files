@@ -1,0 +1,53 @@
+{
+ "asset_id": "video:895133",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Inside the eye of Hurricane Franklin",
+ "description": "The 53rd Weather Reconnaissance Squadron, an Air Force Reserve unit based in Keesler Air Force Base, Mississippi, fly through the eye of Hurricane Franklin Aug. 26, 2023.",
+ "keywords": "",
+ "date": null,
+ "credit": "Courtesy",
+ "page_url": "https://www.dvidshub.net/video/895133",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-895133",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:59:51Z",
+ "duration": 364.95,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2308/DOD_109850951/DOD_109850951.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 47,
+ "audio": {
+  "silence_starts": [],
+  "silence_ends": []
+ },
+ "sheet": "data/candidates/dvids-video-895133.jpg",
+ "sheet_times": [
+  11.39,
+  34.17,
+  56.94,
+  79.72,
+  102.5,
+  125.28,
+  148.06,
+  170.83,
+  193.61,
+  216.39,
+  239.17,
+  261.95,
+  284.72,
+  307.5,
+  330.28,
+  353.06
+ ],
+ "pass_reason": "six minutes of calm clouds in the eye, no danger or peak moment"
+}

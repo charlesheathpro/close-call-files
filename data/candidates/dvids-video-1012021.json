@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:1012021",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Starfall Demo Launches from Cape Canaveral Space Force Station",
+ "description": "A Falcon 9 rocket carrying the Starfall Demo mission successfully launches from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, on June 23, 2026. Following liftoff, the mission demonstrated SpaceX\u2019s Starfall reentry capsule technology, supporting efforts to advance commercial access to microgravity and future cargo return capabilities. (U.S. Space Force video by Gwendolyn Kurzen)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Space Force video by Gwendolyn Kurzen",
+ "page_url": "https://www.dvidshub.net/video/1012021",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1012021",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:42:59Z",
+ "duration": 26.03,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2606/DOD_111793843/DOD_111793843.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 33,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   21.5
+  ],
+  "silence_ends": [
+   5.5,
+   26.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1012021.jpg",
+ "sheet_times": [
+  0.8,
+  2.39,
+  3.99,
+  5.58,
+  7.18,
+  8.77,
+  10.37,
+  11.97,
+  13.56,
+  15.16,
+  16.75,
+  18.35,
+  19.94,
+  21.54,
+  23.13,
+  24.73
+ ],
+ "pass_reason": "only about 15 s of one distant launch angle; release gives no mission result"
+}

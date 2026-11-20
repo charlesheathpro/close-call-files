@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:1026047",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Into Hurricane Isaias",
+ "description": "The 53rd Weather Reconnaissance Squadron, an Air Force Reserve unit assigned to the 403rd Wing at Keesler Air Force Base, Mississippi, flew through Hurricane Isaias Oct. 9, 2026 to collect weather data for National Hurricane Center forecasts. (U.S. Air Force video by Lt. Col. Mark Withee)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Air Force video by Lt. Col. Mark Withee",
+ "page_url": "https://www.dvidshub.net/video/1026047",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1026047",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:56:55Z",
+ "duration": 431.53,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112048611/DOD_112048611.mp4",
+  "width": 1280,
+  "height": 720
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  36.0
+ ],
+ "drama_score": 51,
+ "audio": {
+  "silence_starts": [
+   36.0
+  ],
+  "silence_ends": [
+   128.7
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1026047.jpg",
+ "sheet_times": [
+  13.47,
+  40.41,
+  67.35,
+  94.29,
+  121.23,
+  148.17,
+  175.11,
+  202.05,
+  228.99,
+  255.92,
+  282.86,
+  309.8,
+  336.74,
+  363.68,
+  390.62,
+  417.56
+ ],
+ "pass_reason": "calm cloud views through a window for seven minutes; no danger on screen"
+}

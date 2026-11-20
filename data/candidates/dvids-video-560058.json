@@ -1,0 +1,57 @@
+{
+ "asset_id": "video:560058",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Coast Guard interdicts smugglers in Eastern Pacific",
+ "description": "U.S. Coast Guard crew members from the Helicopter Interceptor Squadron pursue a suspected smuggling vessel in international waters of the Eastern Pacific Ocean February 24, 2017. HITRON crews use commands, warning shots and when necessary engine-disabling gunfire to help stop suspicious vessels which are then boarded by Coast Guard boarding officers operating on cutters and partner agency ships on patrol in the region. (U.S. Coast Guard video by Helicopter Interceptor Squadron/released).",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Coast Guard video by Helicopter Interceptor Squadron/released",
+ "page_url": "https://www.dvidshub.net/video/560058",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-560058",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T17:04:07Z",
+ "duration": 146.09,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1710/DOD_104995083/DOD_104995083-640x480-922k.mp4",
+  "width": 640,
+  "height": 480
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 91,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   146.1
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-560058.jpg",
+ "sheet_times": [
+  4.55,
+  13.65,
+  22.75,
+  31.85,
+  40.95,
+  50.05,
+  59.15,
+  68.25,
+  77.34,
+  86.44,
+  95.54,
+  104.64,
+  113.74,
+  122.84,
+  131.94,
+  141.04
+ ],
+ "pass_reason": "grayscale FLIR with HUD overlay and blurred boxes, letterboxed 4:3; murky on a phone"
+}

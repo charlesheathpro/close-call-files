@@ -1,0 +1,119 @@
+{
+  "short_id": "ccf-20261120-14",
+  "revision": 1,
+  "candidate_id": "dvids-video-1025626",
+  "lane": "aviation_naval",
+  "story_type": "crewed launch, then the booster flies back and lands",
+  "music_mood": "aviation",
+  "priority": 4,
+  "hook": "Four people rode this rocket up. The bottom half came back alone.",
+  "narration": [
+    "Four people rode on top of this rocket. Then the bottom half flew home without them.",
+    "Crew-13 lifted off from Cape Canaveral on October first, 2026, bound for the space station.",
+    "A Falcon 9 first stage only does the first part of the climb, then separates and steers itself back.",
+    "[short pause] So the booster came down tail first, firing its engine to slow its fall."
+  ],
+  "outcome": "The booster landed upright, and all four astronauts reached the space station.",
+  "location_card": {
+    "place": "Cape Canaveral, Florida",
+    "date": "Oct. 1, 2026"
+  },
+  "keep_source_audio": true,
+  "title": "Crew-13 launch and booster landing",
+  "description": "A Falcon 9 launches the four-person Crew-13 mission to the International Space Station from Cape Canaveral Space Force Station, Florida, Oct. 1, 2026, and its first stage returns to land.\n\nFootage: U.S. Space Force video by Staff Sgt. Spencer Contreras, via DVIDS: https://www.dvidshub.net/video/1025626\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #spacex #falcon9 #rocketlaunch",
+  "tags": [
+    "crew-13",
+    "falcon 9",
+    "booster landing",
+    "rocket launch",
+    "cape canaveral",
+    "space station",
+    "dragon",
+    "astronauts",
+    "real footage"
+  ],
+  "question_comment": "Would you ride a rocket whose first stage has already flown before?",
+  "facts": [
+    {
+      "claim": "Falcon 9 launched from SLC-40, Cape Canaveral, Oct. 1, 2026",
+      "source_quote": "A Falcon 9 rocket launches from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, on Oct. 1, 2026."
+    },
+    {
+      "claim": "It carried four people to the ISS in a Dragon as Crew-13",
+      "source_quote": "This rocket carried a crew of four people to the International Space Station in a Dragon Capsule as part of the Crew-13 Mission."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 12.2,
+        "end": 15.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 15.0,
+        "end": 18.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 6.0,
+        "end": 9.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 9.0,
+        "end": 12.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 18.0,
+        "end": 21.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 21.6,
+        "end": 25.2,
+        "layout": "crop",
+        "crop_x": 0.52
+      }
+    ],
+    [
+      {
+        "start": 35.6,
+        "end": 38.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 38.6,
+        "end": 41.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 41.4,
+        "end": 44.3,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 25.2,
+        "end": 28.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "preview_ok": "Single rocket or booster against flat sky in every flagged frame; the vehicle and its flame are centered and clearly visible"
+}

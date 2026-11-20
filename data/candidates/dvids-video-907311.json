@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:907311",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "Flight Test Ground Based Midcourse Defense-12 (FTG-12)",
+  "description": "The U.S. Missile Defense Agency, in cooperation with U.S. Northern Command, the U.S. Space Force Space Launch Delta 30, and the U.S. Space Command Joint Functional Component Command for Integrated Missile Defense, conducted a successful intercept today of an Intermediate Range Ballistic Missile (IRBM) by an upgraded Ground-Based Interceptor (GBI). The test demonstrated the ability of the Ground-Based Midcourse Defense (GMD) capability to engage threats faster.\n\nThe test employed an upgraded GBI with a Capability Enhanced-II Block 1 Exo-Atmospheric Kill Vehicle. This test was also the first test of a three-stage GBI operating in two-stage mode, which means the third stage was commanded not to ignite and allowed earlier release of the kill vehicle, providing closer range engagements.\n\nThe primary objective of the test was to demonstrate the ability of GMD to engage a target in the expanded engagement space made possible by the GBI in two-stage mode.",
+  "keywords": "",
+  "date": null,
+  "credit": "Courtesy",
+  "page_url": "https://www.dvidshub.net/video/907311",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-907311",
+  "status": "new",
+  "harvested_at": "2026-11-20T17:09:12Z",
+  "duration": 182.62,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2312/DOD_110040865/DOD_110040865.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    19.92,
+    59.83,
+    84.05,
+    89.02,
+    102.4,
+    120.49,
+    140.31
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      120.5
+    ],
+    "silence_ends": [
+      89.1,
+      182.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-907311.jpg",
+  "sheet_times": [
+    5.69,
+    17.07,
+    28.46,
+    39.84,
+    51.22,
+    62.6,
+    73.98,
+    85.37,
+    96.75,
+    108.13,
+    119.51,
+    130.9,
+    142.28,
+    153.66,
+    165.04,
+    176.42
+  ]
+}

@@ -1,0 +1,65 @@
+{
+ "asset_id": "video:1025626",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Crew-13 Launches from Cape Canaveral",
+ "description": "A Falcon 9 rocket launches from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, on Oct. 1, 2026. This rocket carried a crew of four people to the International Space Station in a Dragon Capsule as part of the Crew-13 Mission. (U.S. Space Force video by Staff Sgt. Spencer Contreras)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Space Force video by Staff Sgt. Spencer Contreras",
+ "page_url": "https://www.dvidshub.net/video/1025626",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1025626",
+ "status": "used",
+ "harvested_at": "2026-11-20T17:08:04Z",
+ "duration": 50.38,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112040320/DOD_112040320.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 66,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   5.8,
+   8.2,
+   35.3,
+   45.7
+  ],
+  "silence_ends": [
+   5.0,
+   8.2,
+   9.2,
+   36.8,
+   50.4
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1025626.jpg",
+ "sheet_times": [
+  1.56,
+  4.68,
+  7.79,
+  10.91,
+  14.03,
+  17.15,
+  20.27,
+  23.38,
+  26.5,
+  29.62,
+  32.74,
+  35.85,
+  38.97,
+  42.09,
+  45.21,
+  48.32
+ ],
+ "used_by": "ccf-20261120-14"
+}

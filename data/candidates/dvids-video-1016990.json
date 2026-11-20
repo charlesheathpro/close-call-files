@@ -1,0 +1,78 @@
+{
+ "asset_id": "video:1016990",
+ "source": "dvids",
+ "lane": "hazards",
+ "matched_query": "hand",
+ "title": "Oregon Guard aircrews begin water bucket missions on eastern Oregon wildfires",
+ "description": "Oregon Army National Guard aircrews began water bucket operations July 29, 2026, flying CH-47 Chinook and HH-60M Black Hawk helicopters in support of wildland firefighting on the Hagen Fire in Umatilla County. Operating out of Army Aviation Support Facility #2 in Pendleton, crews completed 44 water drops that day, delivering approximately 50,070 gallons of water on a fire that had burned more than 33,500 acres. Guard maintainers, crew chiefs and pilots are working alongside the Oregon Department of Forestry and Cal Fire personnel to sustain the mission for as long as it's needed.",
+ "keywords": "",
+ "date": null,
+ "credit": "Courtesy",
+ "page_url": "https://www.dvidshub.net/video/1016990",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1016990",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:49:08Z",
+ "duration": 110.04,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111874012/DOD_111874012.mp4",
+  "width": 3840,
+  "height": 2160
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  6.27,
+  11.14,
+  15.62,
+  19.99,
+  22.59,
+  27.13,
+  32.03,
+  41.81,
+  45.51,
+  51.25,
+  54.89,
+  72.01,
+  80.08,
+  88.12,
+  94.49,
+  98.83
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.5,
+   3.4,
+   4.1
+  ],
+  "silence_ends": [
+   1.1,
+   4.1,
+   4.9
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1016990.jpg",
+ "sheet_times": [
+  3.42,
+  10.27,
+  17.12,
+  23.96,
+  30.81,
+  37.66,
+  44.5,
+  51.35,
+  58.19,
+  65.04,
+  71.89,
+  78.73,
+  85.58,
+  92.43,
+  99.27,
+  106.12
+ ],
+ "pass_reason": "same Hagen Fire event as ccf-20261119-51"
+}

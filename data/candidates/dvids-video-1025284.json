@@ -1,0 +1,77 @@
+{
+ "asset_id": "video:1025284",
+ "source": "dvids",
+ "lane": "hazards",
+ "matched_query": "hand",
+ "title": "Beale AFB EOD Airmen Demonstrate Equipment",
+ "description": "U.S. Air Force explosive ordnance disposal Airmen assigned to the 9th Civil Engineer Squadron demonstrate EOD equipment and procedures at Beale Air Force Base, California, Sept. 1, 2026. The demonstration provided an overview of the capabilities and equipment the Airmen use during missions. (U.S. Air Force video by Airman 1st Class Ty\u2019Jaih Wallace)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Air Force video by Airman 1st Class Ty\u2019Jaih Wallace",
+ "page_url": "https://www.dvidshub.net/video/1025284",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-1025284",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T16:51:36Z",
+ "duration": 71.32,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026187/DOD_112026187.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [
+  {
+   "s": 29.71,
+   "e": 31.71,
+   "text": "Oh, are those the presets?"
+  }
+ ],
+ "scene_cuts": [
+  8.54,
+  13.88,
+  18.89,
+  23.89,
+  28.9,
+  33.9,
+  38.91,
+  43.91,
+  52.34,
+  60.76,
+  65.77
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   70.4
+  ],
+  "silence_ends": [
+   18.9,
+   71.3
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-1025284.jpg",
+ "sheet_times": [
+  2.21,
+  6.64,
+  11.07,
+  15.49,
+  19.92,
+  24.34,
+  28.77,
+  33.2,
+  37.62,
+  42.05,
+  46.48,
+  50.9,
+  55.33,
+  59.76,
+  64.18,
+  68.61
+ ],
+ "pass_reason": "equipment demo with robots and suits, no detonation"
+}

@@ -1,0 +1,59 @@
+{
+ "asset_id": "video:515996",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Coast Guard Cutter James and Helicopter Interdiction Tactical Squadron Interdict Suspected Drug Smuggling Vessel",
+ "description": "The crew of the Coast Guard Cutter James along with embarked crew members from Helicopter Interdiction Tactical Squadron interdict a suspected drug smuggling vessel in the Eastern Pacific Ocean March 11, 2017, marking HITRON's 500th drug interdiction.  HITRON helicopters operate in known smuggling vectors and rely on expertly trained aircrews and precision marksmen to disable go-fast drug smuggling vessels in the event suspects refuse to comply with verbal and visual warnings for law enforcement boardings in accordance with international maritime law. (U.S. Coast Guard video)",
+ "keywords": "",
+ "date": null,
+ "credit": "U.S. Coast Guard video",
+ "page_url": "https://www.dvidshub.net/video/515996",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "dvids-video-515996",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T17:03:39Z",
+ "duration": 78.59,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104211431/DOD_104211431-1024x576-1769k.mp4",
+  "width": 1024,
+  "height": 576
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.0
+ ],
+ "drama_score": 63,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   78.6
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-515996.jpg",
+ "sheet_times": [
+  2.44,
+  7.32,
+  12.2,
+  17.08,
+  21.96,
+  26.84,
+  31.72,
+  36.61,
+  41.49,
+  46.37,
+  51.25,
+  56.13,
+  61.01,
+  65.89,
+  70.77,
+  75.65
+ ],
+ "pass_reason": "grayscale FLIR with HUD overlay and blurred boxes, letterboxed 4:3; murky on a phone"
+}

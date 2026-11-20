@@ -1,0 +1,60 @@
+{
+  "asset_id": "video:956501",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "hand",
+  "title": "Stellar Banshee / Flight Test Other-40 (FTX-40)",
+  "description": "March 24, 2025, the Missile Defense Agency and the U.S. Navy successfully executed Flight Test Other-40 (FTX-40) off the coast of Hawaii. USS Pinckney (DDG 91) demonstrated the ability to detect, track and perform a simulated engagement of an advanced maneuvering hypersonic target using the SBT Inc. 3 capability embedded in the latest Aegis software baseline.",
+  "keywords": "",
+  "date": null,
+  "credit": "Courtesy",
+  "page_url": "https://www.dvidshub.net/video/956501",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-956501",
+  "status": "new",
+  "harvested_at": "2026-11-20T17:08:36Z",
+  "duration": 77.91,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2503/DOD_110884246/DOD_110884246.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.94,
+    14.85,
+    72.94
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      77.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-956501.jpg",
+  "sheet_times": [
+    2.42,
+    7.26,
+    12.1,
+    16.93,
+    21.77,
+    26.61,
+    31.45,
+    36.29,
+    41.12,
+    45.96,
+    50.8,
+    55.64,
+    60.48,
+    65.32,
+    70.15,
+    74.99
+  ]
+}
