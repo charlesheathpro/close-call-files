@@ -1,171 +1,171 @@
 {
-  "short_id": "ccf-20261120-08",
-  "revision": 1,
-  "candidate_id": "nasa-jsc2019m001214-Boeing-OFT-Mission-Highlights",
-  "lane": "aviation_naval",
-  "story_type": "uncrewed capsule misses its orbit, lands on airbags in the desert",
-  "music_mood": "night",
-  "priority": 9,
-  "hook": "It missed its orbit. Now it had to land on solid ground.",
-  "narration": [
-    "This spacecraft was falling through the desert sky under three parachutes.",
-    "It was Boeing's Starliner, launched with no one aboard.",
-    "But it never reached its planned orbit, so it could not dock with the space station.",
-    "Starliner comes down on land, so airbags under the capsule soften the touchdown.",
-    "[short pause] It came down at White Sands Space Harbor in New Mexico."
-  ],
-  "outcome": "Starliner settled gently onto its airbags, the first land touchdown of a human-rated capsule in U.S. history.",
-  "location_card": {
-    "place": "White Sands Space Harbor, New Mexico",
-    "date": "Dec. 22, 2019"
+ "short_id": "ccf-20261120-08",
+ "revision": 2,
+ "candidate_id": "nasa-jsc2019m001214-Boeing-OFT-Mission-Highlights",
+ "lane": "aviation_naval",
+ "story_type": "uncrewed capsule misses its orbit, lands on airbags in the desert",
+ "music_mood": "night",
+ "priority": 9,
+ "hook": "It missed its orbit. Now it had to land in the dark.",
+ "narration": [
+  "This spacecraft was falling through the desert sky under three parachutes.",
+  "It was Boeing's Starliner, launched with no one aboard.",
+  "But it never reached its planned orbit, so it could not dock with the space station.",
+  "Starliner comes down on land, so airbags under the capsule soften the touchdown.",
+  "[short pause] It came down at White Sands Space Harbor in New Mexico."
+ ],
+ "outcome": "Starliner settled gently onto its airbags, the first land touchdown of a human-rated capsule in U.S. history.",
+ "location_card": {
+  "place": "White Sands Space Harbor, New Mexico",
+  "date": "Dec. 22, 2019"
+ },
+ "keep_source_audio": false,
+ "preview_ok": "Infrared descent shots are a black night sky with the white capsule and parachutes clearly in frame; DARK flags the sky, not the subject.",
+ "title": "Starliner lands on airbags in the dark",
+ "description": "Boeing's uncrewed CST-100 Starliner lands at White Sands Space Harbor, New Mexico, Dec. 22, 2019, after its Orbital Flight Test did not reach its planned orbit.\n\nFootage: NASA JSC video, via the NASA Image and Video Library: https://images.nasa.gov/details/jsc2019m001214_Boeing%20OFT%20Mission%20Highlights\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #starliner #space",
+ "tags": [
+  "starliner",
+  "nasa",
+  "boeing",
+  "capsule landing",
+  "white sands",
+  "airbags",
+  "spacecraft",
+  "real footage"
+ ],
+ "question_comment": "Would you rather come home on land or splash down in the ocean?",
+ "facts": [
+  {
+   "claim": "Starliner completed the first land touchdown of a human-rated capsule in U.S. history at White Sands Space Harbor",
+   "source_quote": "Boeing’s CST-100 Starliner spacecraft completed the first land touchdown of a human-rated capsule in U.S. history Sunday at White Sands Space Harbor in New Mexico"
   },
-  "keep_source_audio": false,
-  "preview_ok": "Infrared descent shots are a black night sky with the white capsule and parachutes clearly in frame; DARK flags the sky, not the subject.",
-  "title": "Starliner lands on airbags in the dark",
-  "description": "Boeing's uncrewed CST-100 Starliner lands at White Sands Space Harbor, New Mexico, Dec. 22, 2019, after its Orbital Flight Test did not reach its planned orbit.\n\nFootage: NASA JSC video, via the NASA Image and Video Library: https://images.nasa.gov/details/jsc2019m001214_Boeing%20OFT%20Mission%20Highlights\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #starliner #space",
-  "tags": [
-    "starliner",
-    "nasa",
-    "boeing",
-    "capsule landing",
-    "white sands",
-    "airbags",
-    "spacecraft",
-    "real footage"
+  {
+   "claim": "Launched uncrewed Dec. 20 on an Atlas V",
+   "source_quote": "The uncrewed Starliner spacecraft launched on the ULA Atlas V rocket at 6:36 a.m. Friday, Dec. 20"
+  },
+  {
+   "claim": "Did not reach its planned orbit or dock to the ISS",
+   "source_quote": "Although Starliner did not reach its planned orbit and dock to the International Space Station as planned"
+  },
+  {
+   "claim": "Settled gently onto its airbags",
+   "source_quote": "Starliner settled gently onto its airbags"
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 520.0,
+    "end": 522.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 528.0,
+    "end": 530.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 544.0,
+    "end": 546.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
   ],
-  "question_comment": "Would you rather come home on land or splash down in the ocean?",
-  "facts": [
-    {
-      "claim": "Starliner completed the first land touchdown of a human-rated capsule in U.S. history at White Sands Space Harbor",
-      "source_quote": "Boeing’s CST-100 Starliner spacecraft completed the first land touchdown of a human-rated capsule in U.S. history Sunday at White Sands Space Harbor in New Mexico"
-    },
-    {
-      "claim": "Launched uncrewed Dec. 20 on an Atlas V",
-      "source_quote": "The uncrewed Starliner spacecraft launched on the ULA Atlas V rocket at 6:36 a.m. Friday, Dec. 20"
-    },
-    {
-      "claim": "Did not reach its planned orbit or dock to the ISS",
-      "source_quote": "Although Starliner did not reach its planned orbit and dock to the International Space Station as planned"
-    },
-    {
-      "claim": "Settled gently onto its airbags",
-      "source_quote": "Starliner settled gently onto its airbags"
-    }
+  [
+   {
+    "start": 35.0,
+    "end": 37.4,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
+    "start": 38.0,
+    "end": 40.6,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
   ],
-  "line_shots": [
-    [
-      {
-        "start": 520.0,
-        "end": 522.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 528.0,
-        "end": 530.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 544.0,
-        "end": 546.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 35.0,
-        "end": 37.4,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 38.0,
-        "end": 40.6,
-        "layout": "crop",
-        "crop_x": 0.55
-      }
-    ],
-    [
-      {
-        "start": 86.5,
-        "end": 89.0,
-        "layout": "crop",
-        "crop_x": 0.6
-      },
-      {
-        "start": 504.0,
-        "end": 506.4,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 592.0,
-        "end": 594.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 672.0,
-        "end": 674.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 680.0,
-        "end": 682.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 690.0,
-        "end": 692.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
-      {
-        "start": 700.0,
-        "end": 702.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 708.0,
-        "end": 710.4,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 704.0,
-        "end": 706.4,
-        "layout": "crop",
-        "crop_x": 0.48
-      }
-    ],
-    [
-      {
-        "start": 728.0,
-        "end": 730.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 731.0,
-        "end": 733.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 734.0,
-        "end": 736.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ]
+  [
+   {
+    "start": 86.5,
+    "end": 89.0,
+    "layout": "crop",
+    "crop_x": 0.6
+   },
+   {
+    "start": 504.0,
+    "end": 506.4,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
+    "start": 592.0,
+    "end": 594.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 672.0,
+    "end": 674.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   },
+   {
+    "start": 680.0,
+    "end": 682.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   },
+   {
+    "start": 690.0,
+    "end": 692.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   }
+  ],
+  [
+   {
+    "start": 700.0,
+    "end": 702.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   },
+   {
+    "start": 708.0,
+    "end": 710.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   },
+   {
+    "start": 704.0,
+    "end": 706.4,
+    "layout": "crop",
+    "crop_x": 0.65
+   }
+  ],
+  [
+   {
+    "start": 722.0,
+    "end": 724.6,
+    "layout": "crop",
+    "crop_x": 0.52
+   },
+   {
+    "start": 760.0,
+    "end": 762.6,
+    "layout": "crop",
+    "crop_x": 0.45
+   },
+   {
+    "start": 784.0,
+    "end": 786.6,
+    "layout": "crop",
+    "crop_x": 0.4
+   }
   ]
+ ]
 }
