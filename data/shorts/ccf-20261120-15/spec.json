@@ -1,0 +1,155 @@
+{
+  "short_id": "ccf-20261120-15",
+  "revision": 1,
+  "candidate_id": "dvids-video-907311",
+  "lane": "aviation_naval",
+  "story_type": "ground-based interceptor fired from a silo at a ballistic missile target",
+  "music_mood": "hazards",
+  "priority": 6,
+  "hook": "Fired out of an underground silo to hit a missile in space.",
+  "narration": [
+    "This missile was fired out of an underground silo to hit another missile in space.",
+    "First, a cargo jet dropped the target over the Pacific near Hawaii, and its motor lit.",
+    "Then the interceptor launched from Vandenberg in California.",
+    "It carries no warhead. Its kill vehicle destroys the target by ramming it at enormous speed.",
+    "[short pause] This time its third stage was told not to fire, so the kill vehicle let go early."
+  ],
+  "outcome": "The upgraded interceptor hit the target missile, a successful intercept.",
+  "location_card": {
+    "place": "Vandenberg Space Force Base, California",
+    "date": "Dec. 11, 2023"
+  },
+  "keep_source_audio": true,
+  "title": "Missile fired from a silo hits a missile",
+  "description": "The Missile Defense Agency's FTG-12 test: an upgraded Ground-Based Interceptor launched from Vandenberg Space Force Base intercepts an air-launched intermediate range ballistic missile target, Dec. 11, 2023.\n\nFootage: U.S. Missile Defense Agency video, via DVIDS: https://www.dvidshub.net/video/907311\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #missiledefense #rocketlaunch #vandenberg",
+  "tags": [
+    "missile defense",
+    "ground-based interceptor",
+    "ftg-12",
+    "vandenberg",
+    "missile launch",
+    "intercept test",
+    "kill vehicle",
+    "real footage"
+  ],
+  "question_comment": "Could you hit a bullet with a bullet? Would you trust this system?",
+  "facts": [
+    {
+      "claim": "Successful intercept of an IRBM by an upgraded GBI",
+      "source_quote": "conducted a successful intercept today of an Intermediate Range Ballistic Missile (IRBM) by an upgraded Ground-Based Interceptor (GBI)."
+    },
+    {
+      "claim": "Third stage commanded not to ignite, earlier release of the kill vehicle",
+      "source_quote": "This test was also the first test of a three-stage GBI operating in two-stage mode, which means the third stage was commanded not to ignite and allowed earlier release of the kill vehicle, providing closer range engagements."
+    },
+    {
+      "claim": "Exo-atmospheric kill vehicle",
+      "source_quote": "The test employed an upgraded GBI with a Capability Enhanced-II Block 1 Exo-Atmospheric Kill Vehicle."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 89.5,
+        "end": 92.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 92.5,
+        "end": 95.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 95.5,
+        "end": 99.5,
+        "layout": "crop",
+        "crop_x": 0.42
+      }
+    ],
+    [
+      {
+        "start": 30.0,
+        "end": 33.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 50.0,
+        "end": 53.0,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 55.0,
+        "end": 58.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 103.0,
+        "end": 106.5,
+        "layout": "crop",
+        "crop_x": 0.48
+      },
+      {
+        "start": 107.0,
+        "end": 110.0,
+        "layout": "crop",
+        "crop_x": 0.48
+      }
+    ],
+    [
+      {
+        "start": 110.5,
+        "end": 114.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 114.0,
+        "end": 118.0,
+        "layout": "crop",
+        "crop_x": 0.48
+      },
+      {
+        "start": 118.0,
+        "end": 120.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 130.0,
+        "end": 133.5,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 134.0,
+        "end": 137.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 137.5,
+        "end": 140.2,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 77.0,
+        "end": 80.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "preview_ok": "Wide blue-hour shots: the interceptor's glowing motor and smoke trail are in frame on a plain sky, which trips EMPTY"
+}
