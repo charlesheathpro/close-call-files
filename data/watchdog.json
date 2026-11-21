@@ -1,15 +1,17 @@
 {
-  "at": "2026-11-21T14:26:51Z",
+  "at": "2026-11-21T18:26:05Z",
   "healthy": true,
   "numbers": {
     "dropped": 94,
     "uploaded": 205,
-    "passed": 128,
-    "scheduled_next_48h": 9,
+    "passed": 131,
+    "needs_qa": 0,
+    "needs_build": 0,
+    "scheduled_next_48h": 11,
     "upcoming_by_mt_day": {
-      "2026-11-21": 8,
+      "2026-11-21": 10,
       "2026-11-22": 1
     }
   },
-  "notes": "Nov 22 gap (1 scheduled) is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; hourly upload runs will fill it then from the 128 passed Shorts, so an editor pass would not help. Harvest 05:20Z, upload 12:10Z, stats today; no repeated build errors, no auth alerts. QA: passed 21-06 r2, 21-09, 21-10 r3; dropped 21-07 and 21-08 for variety. Commons originals return 429 to this sandbox, so preview_shots could not run; fixes were checked on the rebuilt renders."
+  "notes": "Nov 22 gap (1 scheduled) is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; upload runs (last 17:37Z) fill it from 131 passed Shorts once it lifts, so no editor pass needed. Harvest 17:24Z (DVIDS blocked, Commons working), stats today, no repeated build errors, no auth alerts. QA: passed 21-12, 21-14, 21-13 r2 (fixed: under 20s, unsupported Cabo wording)."
 }
