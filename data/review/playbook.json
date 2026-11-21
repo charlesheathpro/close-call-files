@@ -1,11 +1,11 @@
 {
-  "at": "2026-11-21T04:14:36Z",
+  "at": "2026-11-21T10:50:18Z",
   "mature": 174,
   "features": [
     {
       "feature": "story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor",
       "n": 1,
-      "effect": 0.52
+      "effect": 0.53
     },
     {
       "feature": "story: three men on a capsized hull in open water, life ring and line to a rescue boat",
@@ -15,7 +15,7 @@
     {
       "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
       "n": 1,
-      "effect": 0.41
+      "effect": 0.42
     },
     {
       "feature": "story: runaway boat with no one aboard",
@@ -213,6 +213,11 @@
       "effect": 0.12
     },
     {
+      "feature": "story: man stranded on jetty in breaking waves, boat crew line rescue",
+      "n": 1,
+      "effect": 0.1
+    },
+    {
       "feature": "story: parachute rescue to a ship at sea",
       "n": 1,
       "effect": 0.1
@@ -229,11 +234,6 @@
     },
     {
       "feature": "story: fishing boat fire, crew abandons ship to a life raft",
-      "n": 1,
-      "effect": 0.09
-    },
-    {
-      "feature": "story: man stranded on jetty in breaking waves, boat crew line rescue",
       "n": 1,
       "effect": 0.09
     },
@@ -378,11 +378,6 @@
       "effect": 0.04
     },
     {
-      "feature": "story: teens stranded on a navigation marker, swimmer tows them clear, basket hoist",
-      "n": 1,
-      "effect": 0.04
-    },
-    {
       "feature": "story: car in water",
       "n": 1,
       "effect": 0.03
@@ -394,6 +389,11 @@
     },
     {
       "feature": "story: offshore sailboat hoist with a destroyer refueling stop",
+      "n": 1,
+      "effect": 0.03
+    },
+    {
+      "feature": "story: teens stranded on a navigation marker, swimmer tows them clear, basket hoist",
       "n": 1,
       "effect": 0.03
     },
@@ -503,14 +503,14 @@
       "effect": -0.01
     },
     {
-      "feature": "music: night",
-      "n": 10,
+      "feature": "length 30 to 45 s",
+      "n": 99,
       "effect": -0.01
     },
     {
-      "feature": "length 30 to 45 s",
-      "n": 99,
-      "effect": -0.02
+      "feature": "music: night",
+      "n": 10,
+      "effect": -0.01
     },
     {
       "feature": "story: dog rescue hurricane",
@@ -528,6 +528,11 @@
       "effect": -0.02
     },
     {
+      "feature": "story: spacewalk seen from a helmet camera",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
       "feature": "story: surf drills in hurricane seas (training)",
       "n": 1,
       "effect": -0.02
@@ -538,17 +543,17 @@
       "effect": -0.03
     },
     {
+      "feature": "story: aircraft emergency",
+      "n": 1,
+      "effect": -0.03
+    },
+    {
       "feature": "story: boat to boat family transfer in a storm",
       "n": 1,
       "effect": -0.03
     },
     {
       "feature": "story: rocket stage full-duration test fire, second attempt",
-      "n": 1,
-      "effect": -0.03
-    },
-    {
-      "feature": "story: spacewalk seen from a helmet camera",
       "n": 1,
       "effect": -0.03
     },
@@ -569,11 +574,6 @@
     },
     {
       "feature": "story: aerial firefighting",
-      "n": 1,
-      "effect": -0.04
-    },
-    {
-      "feature": "story: aircraft emergency",
       "n": 1,
       "effect": -0.04
     },
@@ -843,6 +843,11 @@
       "effect": -0.2
     },
     {
+      "feature": "story: sailboat torn apart in a hurricane far offshore, cargo ship takes the crew off",
+      "n": 1,
+      "effect": -0.2
+    },
+    {
       "feature": "story: wildfire rescue",
       "n": 1,
       "effect": -0.2
@@ -855,11 +860,6 @@
     {
       "feature": "length 45 s or more",
       "n": 27,
-      "effect": -0.21
-    },
-    {
-      "feature": "story: sailboat torn apart in a hurricane far offshore, cargo ship takes the crew off",
-      "n": 1,
       "effect": -0.21
     },
     {
@@ -960,51 +960,51 @@
     {
       "feature": "story: dog hoist from sinking boat",
       "n": 1,
-      "effect": -0.58
+      "effect": -0.57
     }
   ],
   "top": [
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 42341.0,
+      "views": 43533.0,
       "ret": 88.06,
-      "score": 2.083
+      "score": 2.092
     },
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
-      "views": 47521.0,
+      "views": 47522.0,
       "ret": 80.9,
-      "score": 1.891
+      "score": 1.893
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 50114.0,
+      "views": 50117.0,
       "ret": 69.74,
-      "score": 1.649
+      "score": 1.652
     },
     {
       "short_id": "ccf-20261105-41",
       "title": "Runaway boat circling with no one aboard",
-      "views": 9646.0,
+      "views": 9652.0,
       "ret": 97.0,
-      "score": 1.593
+      "score": 1.594
     },
     {
       "short_id": "ccf-20261028-08",
       "title": "Capsule torn off a rocket at Mach 1",
-      "views": 5189.0,
+      "views": 5190.0,
       "ret": 96.96,
-      "score": 1.545
+      "score": 1.546
     }
   ],
   "bottom": [
     {
       "short_id": "ccf-20261110-01",
       "title": "Florence: 67 people, 12 pets in one day",
-      "views": 128.0,
+      "views": 129.0,
       "ret": 45.16,
       "score": -1.683
     },
@@ -1013,28 +1013,28 @@
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 32.0,
       "ret": 64.08,
-      "score": -1.831
+      "score": -1.836
     },
     {
       "short_id": "ccf-20261111-01",
       "title": "Crab boat sank at night off Washington",
-      "views": 90.0,
+      "views": 91.0,
       "ret": 44.32,
-      "score": -1.857
+      "score": -1.856
     },
     {
       "short_id": "ccf-20261108-24",
       "title": "Saturn V test tower comes down",
       "views": 56.0,
       "ret": 48.53,
-      "score": -1.963
+      "score": -1.967
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
-      "views": 12.0,
+      "views": 13.0,
       "ret": 61.67,
-      "score": -2.3
+      "score": -2.273
     }
   ],
   "query_weights": {
@@ -1046,7 +1046,7 @@
     "Hurricane Helene rescue": 1.01,
     "Hurricane Milton rescue": 0.99,
     "cliff rescue": 0.86,
-    "Coast Guard rescue": 1.11,
+    "Coast Guard rescue": 1.1,
     "surf rescue": 1.02,
     "Hurricane Ian rescue": 1.03,
     "flood rescue": 1.1,
@@ -1078,7 +1078,7 @@
     "hot fire test": 1.14,
     "motor lifeboat surf": 0.99,
     "ejection": 1.0,
-    "flight test": 0.83,
+    "flight test": 0.82,
     "engine test fire": 0.89,
     "survivors": 0.87,
     "launch": 0.91,
@@ -1091,9 +1091,9 @@
     "rescues": 0.99,
     "hoist": 0.93,
     "tornado damage": 0.79,
-    "hurricane rescue": 0.88,
+    "hurricane rescue": 0.89,
     "landing": 0.93,
-    "medevac": 0.97,
+    "medevac": 0.98,
     "engine test": 0.91,
     "Apollo": 1.19,
     "engine fire": 0.98,
@@ -1102,7 +1102,7 @@
     "editor search": 0.97,
     "editor": 1.19,
     "lightning": 1.12,
-    "spacewalk": 0.98,
+    "spacewalk": 0.99,
     "Hurricane Harvey rescue": 1.03
   },
   "lane_scores": {
@@ -1172,6 +1172,9 @@
       "notes": "Hoist-cam footage is washed out and heavily artifacted, the opening is a blurry overexposed deck, the last 6 seconds repeat one angle, and there is no visible danger; source quality cannot be fixed by recutting."
     }
   ],
-  "config_changed_at": "2026-11-20T11:12:31Z",
-  "changed": []
+  "config_changed_at": "2026-11-21T10:50:18Z",
+  "changed": [
+    "lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.43, 'aviation_naval': 0.47, 'hazards': 0.1}",
+    "query weights for 66 searches"
+  ]
 }

@@ -1,11 +1,11 @@
-# Playbook (computed 2026-11-21T04:14:36Z from 174 Shorts older than 48 hours)
+# Playbook (computed 2026-11-21T10:50:18Z from 174 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.52, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.53, 1 Shorts)
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.42, 1 Shorts)
 - story: runaway boat with no one aboard (+0.4, 1 Shorts)
 - story: launch abort test (+0.39, 1 Shorts)
 - story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
@@ -13,7 +13,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: splashdown recovery (+0.38, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.58, 1 Shorts)
+- story: dog hoist from sinking boat (-0.57, 1 Shorts)
 - lane: hazards (-0.52, 4 Shorts)
 - story: historic rocket test stand implosion (-0.49, 1 Shorts)
 - story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.47, 1 Shorts)
@@ -23,18 +23,18 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
 
 ## Best Shorts
-- Parachuting to a sick sailor at sea: 42341 views, 88% watched
-- Flipped hull 11 miles out, 3 men on top: 47521 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50114 views, 70% watched
-- Runaway boat circling with no one aboard: 9646 views, 97% watched
-- Capsule torn off a rocket at Mach 1: 5189 views, 97% watched
+- Parachuting to a sick sailor at sea: 43533 views, 88% watched
+- Flipped hull 11 miles out, 3 men on top: 47522 views, 81% watched
+- 17-year-old adrift at night, no paddle: 50117 views, 70% watched
+- Runaway boat circling with no one aboard: 9652 views, 97% watched
+- Capsule torn off a rocket at Mach 1: 5190 views, 97% watched
 
 ## Weakest Shorts
-- Florence: 67 people, 12 pets in one day: 128 views, 45% watched
+- Florence: 67 people, 12 pets in one day: 129 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 32 views, 64% watched
-- Crab boat sank at night off Washington: 90 views, 44% watched
+- Crab boat sank at night off Washington: 91 views, 44% watched
 - Saturn V test tower comes down: 56 views, 49% watched
-- Dog hoisted from a sinking catamaran: 12 views, 62% watched
+- Dog hoisted from a sinking catamaran: 13 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261117-14: Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped.
@@ -52,3 +52,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261120-18: Clean footage of an LC-130 on the Greenland ice, but it is routine training with no visible danger, repeated head-on taxi shots, and an ending that does not show the climb-out clearly. Dropped.
 - ccf-20261120-22: Source is one static 67-second hover shot of the Portuguese helicopter over the deck; nothing on screen shows the explosion, the parachute drop or the airlift, so every line plays over the same frame and it cannot hold retention.
 - ccf-20261120-25: Hoist-cam footage is washed out and heavily artifacted, the opening is a blurry overexposed deck, the last 6 seconds repeat one angle, and there is no visible danger; source quality cannot be fixed by recutting.
+
+## Changed tonight
+- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.43, 'aviation_naval': 0.47, 'hazards': 0.1}
+- query weights for 66 searches
