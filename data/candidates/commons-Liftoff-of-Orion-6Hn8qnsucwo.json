@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Liftoff-of-Orion-6Hn8qnsucwo",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:05:42Z",
   "duration": 263.17,
   "source_file": {
@@ -374,5 +374,6 @@
     221.63,
     238.04,
     254.46
-  ]
+  ],
+  "pass_reason": "launch plus low-res rocket cam; rocket cam story done (ccf-20261114-33)"
 }

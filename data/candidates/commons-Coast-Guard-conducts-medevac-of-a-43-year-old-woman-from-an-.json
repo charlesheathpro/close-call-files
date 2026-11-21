@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Coast-Guard-conducts-medevac-of-a-43-year-old-woman-from-an-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:04:44Z",
   "duration": 45.03,
   "source_file": {
@@ -54,5 +54,6 @@
     37.57,
     40.35,
     43.14
-  ]
+  ],
+  "pass_reason": "one static hoist-cam angle, calm medevac"
 }

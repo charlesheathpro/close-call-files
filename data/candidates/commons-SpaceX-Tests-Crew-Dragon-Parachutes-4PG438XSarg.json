@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-Tests-Crew-Dragon-Parachutes-4PG438XSarg",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:05:04Z",
   "duration": 79.33,
   "source_file": {
@@ -116,5 +116,6 @@
     66.51,
     71.44,
     76.36
-  ]
+  ],
+  "pass_reason": "duplicate of SpaceX Tests Crew Dragon Parachutes"
 }

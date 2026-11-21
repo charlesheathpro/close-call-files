@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-971365",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:00:21Z",
   "duration": 264.3,
   "source_file": {
@@ -214,5 +214,6 @@
     222.58,
     239.07,
     255.56
-  ]
+  ],
+  "pass_reason": "sling load training"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Orion-Pad-Abort-1-Launch-Abort-System-Flight-Test",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-21T17:03:33Z",
   "duration": 86.22,
   "source_file": {
@@ -74,5 +74,6 @@
     72.33,
     77.69,
     83.04
-  ]
+  ],
+  "used_by": "ccf-20261121-16"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Station-Golden-Gate-offers-a-helping-hand",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:11:58Z",
   "duration": 15.17,
   "source_file": {
@@ -52,5 +52,6 @@
     12.38,
     13.3,
     14.21
-  ]
+  ],
+  "pass_reason": "mannequin training"
 }

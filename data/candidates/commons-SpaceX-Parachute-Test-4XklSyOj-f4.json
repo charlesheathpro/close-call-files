@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-Parachute-Test-4XklSyOj-f4",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:04:41Z",
   "duration": 96.85,
   "source_file": {
@@ -55,5 +55,6 @@
     81.29,
     87.31,
     93.34
-  ]
+  ],
+  "pass_reason": "same footage as passed NASA KSC-20190918 parachute test; calm, no failure"
 }

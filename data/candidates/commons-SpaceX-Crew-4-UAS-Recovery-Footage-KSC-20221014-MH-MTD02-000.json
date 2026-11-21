@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-Crew-4-UAS-Recovery-Footage-KSC-20221014-MH-MTD02-000",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:19Z",
   "duration": 140.41,
   "source_file": {
@@ -62,5 +62,6 @@
     118.05,
     126.8,
     135.54
-  ]
+  ],
+  "pass_reason": "calm capsule recovery onto ship, no peak moment"
 }

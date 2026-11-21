@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-In-Flight-Abort-Test-4z4-OLSfdSc",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-21T17:06:08Z",
   "duration": 126.86,
   "source_file": {
@@ -222,5 +222,6 @@
     106.62,
     114.52,
     122.42
-  ]
+  ],
+  "used_by": "ccf-20261121-15"
 }

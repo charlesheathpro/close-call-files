@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Fired-Up-Final-Test-of-Orion-Motor-Critical-to-Astronaut-Saf",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:11:17Z",
   "duration": 46.7,
   "source_file": {
@@ -63,5 +63,6 @@
     38.98,
     41.87,
     44.76
-  ]
+  ],
+  "pass_reason": "same story as dropped ccf-20261116-23 (ACM hot fire)"
 }

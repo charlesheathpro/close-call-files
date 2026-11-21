@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-Short-Coast-Guard-medevacs-man-35-miles-south-of-Grand-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T16:59:58Z",
   "duration": 55.94,
   "source_file": {
@@ -52,5 +52,6 @@
     46.78,
     50.25,
     53.71
-  ]
+  ],
+  "pass_reason": "calm medevac hoist cam with a bandaged patient on screen"
 }
