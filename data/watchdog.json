@@ -1,13 +1,15 @@
 {
-  "at": "2026-11-21T06:30:00Z",
+  "at": "2026-11-21T10:28:38Z",
   "healthy": true,
   "numbers": {
-    "passed": 120,
-    "needs_qa": 0,
-    "uploaded": 205,
     "dropped": 91,
+    "uploaded": 205,
+    "passed": 125,
     "scheduled_next_48h": 11,
-    "scheduled_by_mt_day": {"2026-11-20": 10, "2026-11-21": 10, "2026-11-22": 1}
+    "upcoming_by_mt_day": {
+      "2026-11-21": 10,
+      "2026-11-22": 1
+    }
   },
-  "notes": "Nov 22 gap is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; 120 passed Shorts wait, so an editor pass would not help. Harvest landed 05:20Z, builds landing, review and stats today. No repeated build errors, no auth alerts. QA passed ccf-20261120-29, -30, -31."
+  "notes": "Nov 22 gap is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; 125 passed Shorts wait, so an editor pass would not help. Harvest landed 05:20Z, builds landing, stats/review today. No repeated build errors, no auth alerts. QA passed ccf-20261121-01..05 (fixed 02 and 05 in-run)."
 }
