@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-15",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "commons-SpaceX-In-Flight-Abort-Test-4z4-OLSfdSc",
   "lane": "aviation_naval",
   "story_type": "in-flight launch abort test, rocket breaks apart",
@@ -78,16 +78,16 @@
   "line_shots": [
     [
       {
-        "start": 74.6,
-        "end": 77.4,
-        "layout": "crop",
-        "crop_x": 0.15
-      },
-      {
-        "start": 77.6,
-        "end": 80.2,
+        "start": 72.6,
+        "end": 75.4,
         "layout": "crop",
         "crop_x": 0.2
+      },
+      {
+        "start": 75.6,
+        "end": 78.4,
+        "layout": "crop",
+        "crop_x": 0.15
       }
     ],
     [
@@ -160,50 +160,50 @@
     ],
     [
       {
-        "start": 68.0,
-        "end": 70.8,
+        "start": 66.9,
+        "end": 69.6,
         "layout": "crop",
         "crop_x": 0.3
       },
       {
-        "start": 71.0,
-        "end": 74.4,
+        "start": 69.8,
+        "end": 72.4,
         "layout": "crop",
-        "crop_x": 0.2
+        "crop_x": 0.25
       }
     ],
     [
       {
-        "start": 86.0,
-        "end": 89.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 84.0,
+        "end": 87.0,
+        "layout": "crop",
+        "crop_x": 0.25
       },
       {
-        "start": 93.0,
-        "end": 96.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 91.0,
+        "end": 94.0,
+        "layout": "crop",
+        "crop_x": 0.25
       },
       {
-        "start": 99.0,
-        "end": 102.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 98.0,
+        "end": 101.0,
+        "layout": "crop",
+        "crop_x": 0.25
       }
     ],
     [
       {
-        "start": 113.0,
-        "end": 116.0,
-        "layout": "fit",
-        "crop_x": 0.5
+        "start": 113.5,
+        "end": 116.5,
+        "layout": "crop",
+        "crop_x": 0.78
       },
       {
         "start": 119.5,
         "end": 122.5,
-        "layout": "fit",
-        "crop_x": 0.5
+        "layout": "crop",
+        "crop_x": 0.78
       }
     ]
   ]

@@ -169,5 +169,7 @@
         "crop_x": 0.6
       }
     ]
-  ]
+  ],
+  "status": "dropped",
+  "drop_reason": "Render check: only about 21 s of the source shows the C-17, so two lines sat on one repeated plane shot for 16 s; the extraction is cropped at the frame edge and the capsule is a small speck for the rest. Fails the viral bar."
 }
