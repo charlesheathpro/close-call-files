@@ -1,40 +1,40 @@
-# Playbook (computed 2026-11-21T15:33:54Z from 176 Shorts older than 48 hours)
+# Playbook (computed 2026-11-21T21:06:08Z from 180 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.51, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
-- story: runaway boat with no one aboard (+0.39, 1 Shorts)
-- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.38, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.48, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.46, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.4, 1 Shorts)
+- story: runaway boat with no one aboard (+0.38, 1 Shorts)
+- story: workers high on a launch pad lightning tower (+0.38, 1 Shorts)
 - story: launch abort test (+0.37, 1 Shorts)
 - story: splashdown recovery (+0.37, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.36, 1 Shorts)
 
 ## Do less of
-- story: record-holding spy jet takeoff (-0.68, 1 Shorts)
 - story: dog hoist from sinking boat (-0.56, 1 Shorts)
-- lane: hazards (-0.49, 4 Shorts)
-- story: historic rocket test stand implosion (-0.47, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.44, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.4, 1 Shorts)
-- story: security camera catches a tornado strike (-0.38, 1 Shorts)
+- lane: hazards (-0.52, 4 Shorts)
+- story: historic rocket test stand implosion (-0.49, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.46, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.46, 1 Shorts)
+- story: record-holding spy jet takeoff (-0.42, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
+- music: hazards (-0.41, 4 Shorts)
 
 ## Best Shorts
-- Parachuting to a sick sailor at sea: 43802 views, 88% watched
+- Parachuting to a sick sailor at sea: 44133 views, 84% watched
 - Flipped hull 11 miles out, 3 men on top: 47522 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50141 views, 70% watched
-- Runaway boat circling with no one aboard: 9652 views, 97% watched
-- Sailboat pinned against a rock wall: 44097 views, 68% watched
+- 17-year-old adrift at night, no paddle: 50198 views, 70% watched
+- Runaway boat circling with no one aboard: 9658 views, 97% watched
+- Hanging off a launch pad lightning tower: 3871 views, 110% watched
 
 ## Weakest Shorts
-- Crab boat sank at night off Washington: 91 views, 44% watched
+- SR-71 Blackbird takeoff, Mach 3 jet: 102 views, 49% watched
 - Clinging to a flipped boat 12 miles out: 32 views, 64% watched
+- Crab boat sank at night off Washington: 91 views, 44% watched
 - Saturn V test tower comes down: 56 views, 49% watched
 - Dog hoisted from a sinking catamaran: 13 views, 62% watched
-- SR-71 Blackbird takeoff, Mach 3 jet: 98 views, 0% watched
 
 ## QA rejections this week (do not repeat these)
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
