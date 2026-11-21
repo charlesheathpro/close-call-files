@@ -1,60 +1,61 @@
 {
-  "asset_id": "commons:File:Cable snaps on USS Eisenhower during landing.webm",
-  "source": "commons",
-  "lane": "aviation_naval",
-  "matched_query": "Navy flight deck",
-  "title": "Cable snaps on USS Eisenhower during landing",
-  "description": "A landing E-2C Hawkeye is sent off the flight deck of the USS Dwight D. Eisenhower when a landing cable snaps.",
-  "keywords": "Media from YouTube, PD US Government, CC-PD-Mark, Videos of 2016, Uploaded with videoconvert, Video display resolution 1280 x 720, Files by User:Mark Schierbecker",
-  "date": "2016-03-18",
-  "branch": "",
-  "unit_name": "U.S. Navy",
-  "credit": "U.S. Navy video",
-  "original_source": "YouTube: https://www.youtube.com/watch?v=r-EHwYOfY94 – View/save archived versions on archive.org",
-  "page_url": "https://commons.wikimedia.org/wiki/File:Cable_snaps_on_USS_Eisenhower_during_landing.webm",
-  "via": "Wikimedia Commons",
-  "license": "Public domain (U.S. federal government work)",
-  "location": {},
-  "time_start": 0.0,
-  "id": "commons-Cable-snaps-on-USS-Eisenhower-during-landing",
-  "status": "new",
-  "harvested_at": "2026-11-21T05:10:53Z",
-  "duration": 55.95,
-  "source_file": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cable_snaps_on_USS_Eisenhower_during_landing.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "width": 1280,
-    "height": 720,
-    "size": 4221743
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 65,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      56.0
-    ]
-  },
-  "sheet": "data/candidates/commons-Cable-snaps-on-USS-Eisenhower-during-landing.jpg",
-  "sheet_times": [
-    1.73,
-    5.2,
-    8.66,
-    12.13,
-    15.6,
-    19.06,
-    22.53,
-    25.99,
-    29.46,
-    32.93,
-    36.39,
-    39.86,
-    43.32,
-    46.79,
-    50.25,
-    53.72
+ "asset_id": "commons:File:Cable snaps on USS Eisenhower during landing.webm",
+ "source": "commons",
+ "lane": "aviation_naval",
+ "matched_query": "Navy flight deck",
+ "title": "Cable snaps on USS Eisenhower during landing",
+ "description": "A landing E-2C Hawkeye is sent off the flight deck of the USS Dwight D. Eisenhower when a landing cable snaps.",
+ "keywords": "Media from YouTube, PD US Government, CC-PD-Mark, Videos of 2016, Uploaded with videoconvert, Video display resolution 1280 x 720, Files by User:Mark Schierbecker",
+ "date": "2016-03-18",
+ "branch": "",
+ "unit_name": "U.S. Navy",
+ "credit": "U.S. Navy video",
+ "original_source": "YouTube: https://www.youtube.com/watch?v=r-EHwYOfY94 – View/save archived versions on archive.org",
+ "page_url": "https://commons.wikimedia.org/wiki/File:Cable_snaps_on_USS_Eisenhower_during_landing.webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "commons-Cable-snaps-on-USS-Eisenhower-during-landing",
+ "status": "used",
+ "harvested_at": "2026-11-21T05:10:53Z",
+ "duration": 55.95,
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cable_snaps_on_USS_Eisenhower_during_landing.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1280,
+  "height": 720,
+  "size": 4221743
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 65,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   56.0
   ]
+ },
+ "sheet": "data/candidates/commons-Cable-snaps-on-USS-Eisenhower-during-landing.jpg",
+ "sheet_times": [
+  1.73,
+  5.2,
+  8.66,
+  12.13,
+  15.6,
+  19.06,
+  22.53,
+  25.99,
+  29.46,
+  32.93,
+  36.39,
+  39.86,
+  43.32,
+  46.79,
+  50.25,
+  53.72
+ ],
+ "used_by": "ccf-20261121-01"
 }

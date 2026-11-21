@@ -1,0 +1,95 @@
+{
+ "short_id": "ccf-20261121-02",
+ "candidate_id": "commons-Apollo-11-launch-video-of-engines-at-500-fps-camera-E-8",
+ "lane": "aviation_naval",
+ "story_type": "moon rocket ignition and liftoff filmed at 500 frames a second from the base of the launch tower",
+ "music_mood": "hazards",
+ "priority": 6,
+ "hook": "A camera at the foot of Apollo 11 as the engines lit.",
+ "narration": [
+  "This camera sat at the base of Apollo 11's launch tower as the engines lit.",
+  "It filmed at five hundred frames a second, so about thirty seconds of launch became eight minutes.",
+  "Kerosene and liquid oxygen spill out and catch fire first. That spins up the turbines that drive fuel to the F-1 engines.",
+  "At full thrust, the exhaust drags the billowing gas down under the rocket and into the flame trench.",
+  "Some three hundred thousand gallons of water poured onto the launcher to cool it and soften the shock waves.",
+  "Its surfaces were painted with a coating built to char and burn away, protecting the steel underneath."
+ ],
+ "outcome": "At liftoff the hold-down arms let go, and Apollo 11 climbed away and left the launcher burning.",
+ "location_card": {
+  "place": "Kennedy Space Center, Florida",
+  "date": "July 16, 1969"
+ },
+ "keep_source_audio": false,
+ "title": "Apollo 11 engines at 500 frames a second",
+ "description": "On July 16, 1969, camera E-8 at the base of the Launch Umbilical Tower filmed the Apollo 11 Saturn V's engines at 500 frames per second, stretching about 30 seconds of launch into eight minutes.\n\nFootage: NASA/Kennedy Space Center video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Apollo_11_launch,_video_of_engines_at_500_fps_(camera_E-8).ogv\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #apollo11 #nasa #saturnv",
+ "tags": [
+  "apollo 11",
+  "saturn v",
+  "nasa",
+  "rocket launch",
+  "slow motion",
+  "f-1 engine",
+  "moon landing",
+  "real footage"
+ ],
+ "question_comment": "Would you have wanted to stand anywhere near this?",
+ "facts": [
+  {
+   "claim": "Camera E-8 sat at the base of the Launch Umbilical Tower and filmed at 500 frames per second, about 30 seconds of real time",
+   "source_quote": "Camera E-8 captured this footage on 16 mm film at 500 frames per second. This footage takes place within approximately 30 seconds of real time."
+  },
+  {
+   "claim": "Initial flames are kerosene and liquid oxygen ignited, spinning up turbines that drive fuel to the F-1 engines",
+   "source_quote": "The initial flames are the result of kerosene and liquid oxygen being released from the Saturn V rocket's fuel tanks and being ignited by hypergolic cartridges, which spin up the turbines and drive fuel to the F-1 engines."
+  },
+  {
+   "claim": "At full thrust the exhaust pulls gas below the vehicle into the flame trench",
+   "source_quote": "After reaching full thrust, the downward force of the exhaust creates a low pressure area which pulls the billowing gas below the vehicle and into the flame trench."
+  },
+  {
+   "claim": "About 300,000 gallons of water cooled the pad and dampened shock waves; ablative coating burned off to protect surfaces",
+   "source_quote": "the pad's Water Deluge System discharged some 300,000 gallons of water onto the surfaces of the Mobile Launcher and Launch Umbilical Tower"
+  },
+  {
+   "claim": "At T-0 the hold-down arms release the rocket",
+   "source_quote": "At T-0, the hold down arms release the rocket"
+  }
+ ],
+ "line_shots": [
+  [
+   {"start": 80.0, "end": 82.5, "layout": "crop", "crop_x": 0.6},
+   {"start": 100.0, "end": 102.5, "layout": "crop", "crop_x": 0.45}
+  ],
+  [
+   {"start": 12.0, "end": 14.5, "layout": "crop", "crop_x": 0.5},
+   {"start": 30.0, "end": 32.5, "layout": "crop", "crop_x": 0.35},
+   {"start": 45.0, "end": 47.5, "layout": "crop", "crop_x": 0.55}
+  ],
+  [
+   {"start": 18.0, "end": 20.5, "layout": "crop", "crop_x": 0.4},
+   {"start": 55.0, "end": 57.5, "layout": "crop", "crop_x": 0.5},
+   {"start": 65.0, "end": 67.5, "layout": "crop", "crop_x": 0.6},
+   {"start": 72.0, "end": 74.5, "layout": "crop", "crop_x": 0.45}
+  ],
+  [
+   {"start": 112.0, "end": 114.5, "layout": "crop", "crop_x": 0.5},
+   {"start": 125.0, "end": 127.5, "layout": "crop", "crop_x": 0.6},
+   {"start": 138.0, "end": 140.5, "layout": "crop", "crop_x": 0.45}
+  ],
+  [
+   {"start": 268.0, "end": 270.5, "layout": "crop", "crop_x": 0.6},
+   {"start": 300.0, "end": 302.5, "layout": "crop", "crop_x": 0.7},
+   {"start": 320.0, "end": 322.5, "layout": "crop", "crop_x": 0.55}
+  ],
+  [
+   {"start": 340.0, "end": 342.5, "layout": "crop", "crop_x": 0.6},
+   {"start": 360.0, "end": 362.5, "layout": "crop", "crop_x": 0.75},
+   {"start": 385.0, "end": 387.5, "layout": "crop", "crop_x": 0.6}
+  ],
+  [
+   {"start": 410.0, "end": 413.0, "layout": "crop", "crop_x": 0.65},
+   {"start": 440.0, "end": 442.5, "layout": "crop", "crop_x": 0.7}
+  ]
+ ],
+ "revision": 1
+}

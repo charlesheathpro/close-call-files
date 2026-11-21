@@ -1,59 +1,60 @@
 {
-  "asset_id": "commons:File:Orion Camera View of Artemis II Upper Stage Separation (art002m1200920156).webm",
-  "source": "commons",
-  "lane": "aviation_naval",
-  "matched_query": "rocket stage separation",
-  "title": "Orion Camera View of Artemis II Upper Stage Separation (art002m1200920156)",
-  "description": "A view from cameras on the exterior of the Orion spacecraft of the jettisoning of the upper stage of the SLS (Space Launch System) rocket, or the interim cryogenic propulsion stage, that helped push it into high Earth orbit following a 6:35 p.m. EDT liftoff on April 1, 2026. The upper stage was used as a reference target during Orion’s proximity operations demonstration, before performing one last burn to re-enter Earth’s atmosphere over the Pacific Ocean.",
-  "keywords": "PD NASA, Files with closed captioning in English, Uploaded with video2commons, Video display resolution 3840 x 2160, NASA videos in 2026, Files from NASA with known IDs, NASA Library files uploaded by OptimusPrimeBot, Artemis 2 ICPS, Videos taken on 2026-04-01, Videos of Artemis 2 launch, Artemis 2 flight day 1, 4K NASA videos",
-  "date": "Taken on 1 April 2026",
-  "branch": "",
-  "unit_name": "NASA Johnson Space Center",
-  "credit": "NASA Johnson Space Center video",
-  "original_source": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: art002m1200920156_ICPS-Separation_2.",
-  "page_url": "https://commons.wikimedia.org/wiki/File:Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_(art002m1200920156).webm",
-  "via": "Wikimedia Commons",
-  "license": "Public domain (U.S. federal government work)",
-  "location": {},
-  "time_start": 0.0,
-  "id": "commons-Orion-Camera-View-of-Artemis-II-Upper-Stage-Separation-art00",
-  "status": "new",
-  "harvested_at": "2026-11-21T05:18:20Z",
-  "duration": 78.78,
-  "source_file": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_%28art002m1200920156%29.webm/Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_%28art002m1200920156%29.webm.1080p.vp9.webm",
-    "width": 1920,
-    "height": 1080
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 59,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      78.8
-    ]
-  },
-  "sheet": "data/candidates/commons-Orion-Camera-View-of-Artemis-II-Upper-Stage-Separation-art00.jpg",
-  "sheet_times": [
-    2.45,
-    7.34,
-    12.23,
-    17.12,
-    22.02,
-    26.91,
-    31.8,
-    36.69,
-    41.59,
-    46.48,
-    51.37,
-    56.26,
-    61.16,
-    66.05,
-    70.94,
-    75.83
+ "asset_id": "commons:File:Orion Camera View of Artemis II Upper Stage Separation (art002m1200920156).webm",
+ "source": "commons",
+ "lane": "aviation_naval",
+ "matched_query": "rocket stage separation",
+ "title": "Orion Camera View of Artemis II Upper Stage Separation (art002m1200920156)",
+ "description": "A view from cameras on the exterior of the Orion spacecraft of the jettisoning of the upper stage of the SLS (Space Launch System) rocket, or the interim cryogenic propulsion stage, that helped push it into high Earth orbit following a 6:35 p.m. EDT liftoff on April 1, 2026. The upper stage was used as a reference target during Orion’s proximity operations demonstration, before performing one last burn to re-enter Earth’s atmosphere over the Pacific Ocean.",
+ "keywords": "PD NASA, Files with closed captioning in English, Uploaded with video2commons, Video display resolution 3840 x 2160, NASA videos in 2026, Files from NASA with known IDs, NASA Library files uploaded by OptimusPrimeBot, Artemis 2 ICPS, Videos taken on 2026-04-01, Videos of Artemis 2 launch, Artemis 2 flight day 1, 4K NASA videos",
+ "date": "Taken on 1 April 2026",
+ "branch": "",
+ "unit_name": "NASA Johnson Space Center",
+ "credit": "NASA Johnson Space Center video",
+ "original_source": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: art002m1200920156_ICPS-Separation_2.",
+ "page_url": "https://commons.wikimedia.org/wiki/File:Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_(art002m1200920156).webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "commons-Orion-Camera-View-of-Artemis-II-Upper-Stage-Separation-art00",
+ "status": "passed_over",
+ "harvested_at": "2026-11-21T05:18:20Z",
+ "duration": 78.78,
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/46/Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_%28art002m1200920156%29.webm/Orion_Camera_View_of_Artemis_II_Upper_Stage_Separation_%28art002m1200920156%29.webm.1080p.vp9.webm",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 59,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   78.8
   ]
+ },
+ "sheet": "data/candidates/commons-Orion-Camera-View-of-Artemis-II-Upper-Stage-Separation-art00.jpg",
+ "sheet_times": [
+  2.45,
+  7.34,
+  12.23,
+  17.12,
+  22.02,
+  26.91,
+  31.8,
+  36.69,
+  41.59,
+  46.48,
+  51.37,
+  56.26,
+  61.16,
+  66.05,
+  70.94,
+  75.83
+ ],
+ "pass_reason": "static spacecraft hardware view, nothing moving"
 }
