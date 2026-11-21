@@ -78,16 +78,16 @@
     "crop_x": 0.5
    },
    {
+    "start": 27.0,
+    "end": 29.6,
+    "layout": "crop",
+    "crop_x": 0.4
+   },
+   {
     "start": 30.0,
     "end": 32.5,
     "layout": "crop",
-    "crop_x": 0.35
-   },
-   {
-    "start": 35.0,
-    "end": 37.5,
-    "layout": "crop",
-    "crop_x": 0.55
+    "crop_x": 0.6
    }
   ],
   [
@@ -191,5 +191,5 @@
    }
   ]
  ],
- "revision": 2
+ "revision": 3
 }
