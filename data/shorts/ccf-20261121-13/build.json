@@ -1,311 +1,368 @@
 {
   "short_id": "ccf-20261121-13",
-  "revision": 1,
+  "revision": 2,
   "status": "ok",
-  "built_at": "2026-11-21T17:00:55Z",
-  "duration": 18.01,
+  "built_at": "2026-11-21T18:22:41Z",
+  "duration": 21.29,
   "source_resolution": "1280x720",
   "timeline": [
     {
       "text": "Three hundred miles off Mexico, this crew hung over a cargo ship on one cable.",
       "start": 0.05,
-      "end": 5.65,
+      "end": 5.41,
       "words": [
         {
           "w": "Three",
           "s": 0.05,
-          "e": 0.37
+          "e": 0.29
         },
         {
           "w": "hundred",
-          "s": 0.41,
-          "e": 0.61
+          "s": 0.37,
+          "e": 0.53
         },
         {
           "w": "miles",
-          "s": 0.77,
+          "s": 0.69,
           "e": 1.01
         },
         {
           "w": "off",
           "s": 1.09,
-          "e": 1.25
+          "e": 1.17
         },
         {
           "w": "Mexico,",
-          "s": 1.33,
-          "e": 2.29
+          "s": 1.25,
+          "e": 2.21
         },
         {
           "w": "this",
-          "s": 2.37,
-          "e": 2.53
+          "s": 2.29,
+          "e": 2.45
         },
         {
           "w": "crew",
-          "s": 2.61,
-          "e": 2.85
+          "s": 2.53,
+          "e": 2.77
         },
         {
           "w": "hung",
-          "s": 2.93,
-          "e": 3.09
+          "s": 2.85,
+          "e": 2.93
         },
         {
           "w": "over",
-          "s": 3.17,
-          "e": 3.33
+          "s": 3.01,
+          "e": 3.17
         },
         {
           "w": "a",
-          "s": 3.41,
-          "e": 3.49
+          "s": 3.25,
+          "e": 3.33
         },
         {
           "w": "cargo",
-          "s": 3.57,
-          "e": 3.89
+          "s": 3.41,
+          "e": 3.73
         },
         {
           "w": "ship",
-          "s": 3.97,
-          "e": 4.21
+          "s": 3.81,
+          "e": 4.05
         },
         {
           "w": "on",
-          "s": 4.33,
-          "e": 4.45
+          "s": 4.17,
+          "e": 4.29
         },
         {
           "w": "one",
-          "s": 4.53,
-          "e": 4.61
+          "s": 4.37,
+          "e": 4.45
         },
         {
           "w": "cable.",
-          "s": 4.69,
-          "e": 5.65
+          "s": 4.53,
+          "e": 5.41
         }
       ]
     },
     {
-      "text": "A crewman aboard was hurt, so rescuers flew out from Cabo San Lucas.",
-      "start": 5.73,
-      "end": 10.45,
+      "text": "A sailor on board was hurt, so the California Air National Guard sent its pararescuemen.",
+      "start": 5.49,
+      "end": 11.17,
       "words": [
         {
           "w": "A",
-          "s": 5.73,
-          "e": 5.81
+          "s": 5.49,
+          "e": 5.57
         },
         {
-          "w": "crewman",
-          "s": 5.93,
+          "w": "sailor",
+          "s": 5.65,
+          "e": 5.97
+        },
+        {
+          "w": "on",
+          "s": 6.05,
           "e": 6.13
         },
         {
-          "w": "aboard",
+          "w": "board",
           "s": 6.21,
-          "e": 6.53
+          "e": 6.37
         },
         {
           "w": "was",
-          "s": 6.65,
-          "e": 6.77
+          "s": 6.49,
+          "e": 6.61
         },
         {
           "w": "hurt,",
-          "s": 6.81,
-          "e": 7.41
+          "s": 6.717,
+          "e": 7.25
         },
         {
           "w": "so",
-          "s": 7.53,
-          "e": 7.65
+          "s": 7.33,
+          "e": 7.41
         },
         {
-          "w": "rescuers",
-          "s": 7.77,
-          "e": 8.29
+          "w": "the",
+          "s": 7.49,
+          "e": 7.57
         },
         {
-          "w": "flew",
-          "s": 8.37,
-          "e": 8.53
+          "w": "California",
+          "s": 7.89,
+          "e": 8.21
         },
         {
-          "w": "out",
-          "s": 8.61,
-          "e": 8.77
+          "w": "Air",
+          "s": 8.29,
+          "e": 8.45
         },
         {
-          "w": "from",
-          "s": 8.85,
-          "e": 8.93
+          "w": "National",
+          "s": 8.53,
+          "e": 8.85
         },
         {
-          "w": "Cabo",
+          "w": "Guard",
           "s": 9.01,
-          "e": 9.25
+          "e": 9.33
         },
         {
-          "w": "San",
-          "s": 9.33,
-          "e": 9.41
+          "w": "sent",
+          "s": 9.41,
+          "e": 9.57
         },
         {
-          "w": "Lucas.",
-          "s": 9.49,
-          "e": 10.45
+          "w": "its",
+          "s": 9.65,
+          "e": 9.73
+        },
+        {
+          "w": "pararescuemen.",
+          "s": 9.81,
+          "e": 11.17
         }
       ]
     },
     {
       "text": "They rode the hoist down and got him ready to lift.",
-      "start": 10.57,
-      "end": 13.57,
+      "start": 11.25,
+      "end": 14.13,
       "words": [
         {
           "w": "They",
-          "s": 10.57,
-          "e": 10.69
-        },
-        {
-          "w": "rode",
-          "s": 10.73,
-          "e": 10.93
-        },
-        {
-          "w": "the",
-          "s": 10.97,
-          "e": 11.05
-        },
-        {
-          "w": "hoist",
-          "s": 11.09,
+          "s": 11.25,
           "e": 11.33
         },
         {
-          "w": "down",
+          "w": "rode",
           "s": 11.41,
-          "e": 11.81
+          "e": 11.57
         },
         {
-          "w": "and",
-          "s": 11.89,
+          "w": "the",
+          "s": 11.61,
+          "e": 11.69
+        },
+        {
+          "w": "hoist",
+          "s": 11.73,
           "e": 11.97
         },
         {
-          "w": "got",
+          "w": "down",
           "s": 12.05,
-          "e": 12.13
+          "e": 12.45
+        },
+        {
+          "w": "and",
+          "s": 12.53,
+          "e": 12.61
+        },
+        {
+          "w": "got",
+          "s": 12.69,
+          "e": 12.77
         },
         {
           "w": "him",
-          "s": 12.21,
-          "e": 12.29
+          "s": 12.85,
+          "e": 12.93
         },
         {
           "w": "ready",
-          "s": 12.37,
-          "e": 12.53
+          "s": 13.05,
+          "e": 13.17
         },
         {
           "w": "to",
-          "s": 12.61,
-          "e": 12.69
+          "s": 13.25,
+          "e": 13.33
         },
         {
           "w": "lift.",
-          "s": 12.85,
-          "e": 13.57
+          "s": 13.49,
+          "e": 14.13
         }
       ]
     },
     {
-      "text": "The crew flew him back to Cabo, then a plane took him on to San Diego.",
-      "start": 13.65,
-      "end": 17.81,
+      "text": "Below them, the ship's crew waited on deck.",
+      "start": 14.29,
+      "end": 17.01,
       "words": [
         {
-          "w": "The",
-          "s": 13.65,
-          "e": 13.73
-        },
-        {
-          "w": "crew",
-          "s": 13.89,
-          "e": 14.05
-        },
-        {
-          "w": "flew",
-          "s": 14.13,
-          "e": 14.29
-        },
-        {
-          "w": "him",
-          "s": 14.37,
+          "w": "Below",
+          "s": 14.29,
           "e": 14.45
         },
         {
-          "w": "back",
+          "w": "them,",
           "s": 14.53,
-          "e": 14.69
+          "e": 14.97
         },
         {
-          "w": "to",
-          "s": 14.73,
-          "e": 14.81
+          "w": "the",
+          "s": 15.01,
+          "e": 15.09
         },
         {
-          "w": "Cabo,",
-          "s": 14.85,
-          "e": 15.57
+          "w": "ship's",
+          "s": 15.09,
+          "e": 15.41
         },
         {
-          "w": "then",
-          "s": 15.65,
+          "w": "crew",
+          "s": 15.57,
           "e": 15.73
         },
         {
-          "w": "a",
+          "w": "waited",
           "s": 15.81,
-          "e": 15.89
+          "e": 15.97
         },
         {
-          "w": "plane",
+          "w": "on",
           "s": 16.05,
           "e": 16.21
         },
         {
-          "w": "took",
-          "s": 16.29,
-          "e": 16.37
+          "w": "deck.",
+          "s": 16.37,
+          "e": 17.01
+        }
+      ]
+    },
+    {
+      "text": "They got him to Cabo San Lucas, and a plane flew him on to San Diego.",
+      "start": 17.09,
+      "end": 21.09,
+      "words": [
+        {
+          "w": "They",
+          "s": 17.09,
+          "e": 17.17
+        },
+        {
+          "w": "got",
+          "s": 17.25,
+          "e": 17.33
         },
         {
           "w": "him",
-          "s": 16.45,
-          "e": 16.53
-        },
-        {
-          "w": "on",
-          "s": 16.61,
-          "e": 16.69
+          "s": 17.41,
+          "e": 17.49
         },
         {
           "w": "to",
-          "s": 16.77,
-          "e": 16.85
+          "s": 17.57,
+          "e": 17.65
+        },
+        {
+          "w": "Cabo",
+          "s": 17.73,
+          "e": 17.89
         },
         {
           "w": "San",
-          "s": 16.93,
-          "e": 17.01
+          "s": 17.97,
+          "e": 18.13
+        },
+        {
+          "w": "Lucas,",
+          "s": 18.21,
+          "e": 18.877
+        },
+        {
+          "w": "and",
+          "s": 18.903,
+          "e": 18.983
+        },
+        {
+          "w": "a",
+          "s": 19.01,
+          "e": 19.09
+        },
+        {
+          "w": "plane",
+          "s": 19.25,
+          "e": 19.41
+        },
+        {
+          "w": "flew",
+          "s": 19.49,
+          "e": 19.65
+        },
+        {
+          "w": "him",
+          "s": 19.73,
+          "e": 19.81
+        },
+        {
+          "w": "on",
+          "s": 19.89,
+          "e": 19.97
+        },
+        {
+          "w": "to",
+          "s": 20.05,
+          "e": 20.13
+        },
+        {
+          "w": "San",
+          "s": 20.21,
+          "e": 20.29
         },
         {
           "w": "Diego.",
-          "s": 17.13,
-          "e": 17.81
+          "s": 20.41,
+          "e": 21.09
         }
       ]
     }
@@ -317,15 +374,15 @@
     },
     "duration": {
       "ok": true,
-      "value": 18.03
+      "value": 21.3
     },
     "av_sync": {
       "ok": true,
-      "value": 0.023
+      "value": 0.01
     },
     "fits_narration": {
       "ok": true,
-      "value": 0.22
+      "value": 0.21
     },
     "loudness": {
       "ok": true,
@@ -333,7 +390,7 @@
     },
     "true_peak": {
       "ok": true,
-      "value": -2.2
+      "value": -2.4
     },
     "dead_air": {
       "ok": true,
@@ -355,6 +412,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261121-13/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261121-13-r1.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261121-13-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261121-13/ccf-20261121-13.mp4"
 }
