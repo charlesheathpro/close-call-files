@@ -1,44 +1,42 @@
-# Playbook (computed 2026-11-21T10:50:18Z from 174 Shorts older than 48 hours)
+# Playbook (computed 2026-11-21T15:33:54Z from 176 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.53, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.42, 1 Shorts)
-- story: runaway boat with no one aboard (+0.4, 1 Shorts)
-- story: launch abort test (+0.39, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.51, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.47, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: runaway boat with no one aboard (+0.39, 1 Shorts)
 - story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.38, 1 Shorts)
-- story: splashdown recovery (+0.38, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.37, 1 Shorts)
+- story: launch abort test (+0.37, 1 Shorts)
+- story: splashdown recovery (+0.37, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.57, 1 Shorts)
-- lane: hazards (-0.52, 4 Shorts)
-- story: historic rocket test stand implosion (-0.49, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.47, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.46, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
-- story: security camera catches a tornado strike (-0.4, 1 Shorts)
-- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
+- story: record-holding spy jet takeoff (-0.68, 1 Shorts)
+- story: dog hoist from sinking boat (-0.56, 1 Shorts)
+- lane: hazards (-0.49, 4 Shorts)
+- story: historic rocket test stand implosion (-0.47, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.44, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.4, 1 Shorts)
+- story: security camera catches a tornado strike (-0.38, 1 Shorts)
 
 ## Best Shorts
-- Parachuting to a sick sailor at sea: 43533 views, 88% watched
+- Parachuting to a sick sailor at sea: 43802 views, 88% watched
 - Flipped hull 11 miles out, 3 men on top: 47522 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50117 views, 70% watched
+- 17-year-old adrift at night, no paddle: 50141 views, 70% watched
 - Runaway boat circling with no one aboard: 9652 views, 97% watched
-- Capsule torn off a rocket at Mach 1: 5190 views, 97% watched
+- Sailboat pinned against a rock wall: 44097 views, 68% watched
 
 ## Weakest Shorts
-- Florence: 67 people, 12 pets in one day: 129 views, 45% watched
-- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
 - Crab boat sank at night off Washington: 91 views, 44% watched
+- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
 - Saturn V test tower comes down: 56 views, 49% watched
 - Dog hoisted from a sinking catamaran: 13 views, 62% watched
+- SR-71 Blackbird takeoff, Mach 3 jet: 98 views, 0% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261117-14: Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped.
-- ccf-20261117-15: Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped.
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
 - ccf-20261118-01: Strong fireball opening, but the crop turns the trainer car into a black slab, the clip is a low-stakes demo with a crowd in the stands, and the source never shows the fire put out, so the last line ends on a cliffhanger. Dropped.
 - ccf-20261118-07: Clean build and accurate facts, but the footage is a calm test ride: long stretches of a cable over grass and a stationary basket interior, with no danger or human hook on screen. Too close to today's run of NASA Shorts (Starliner, Soyuz, Crew-9, DART, Orion). Dropped.
@@ -52,7 +50,5 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261120-18: Clean footage of an LC-130 on the Greenland ice, but it is routine training with no visible danger, repeated head-on taxi shots, and an ending that does not show the climb-out clearly. Dropped.
 - ccf-20261120-22: Source is one static 67-second hover shot of the Portuguese helicopter over the deck; nothing on screen shows the explosion, the parachute drop or the airlift, so every line plays over the same frame and it cannot hold retention.
 - ccf-20261120-25: Hoist-cam footage is washed out and heavily artifacted, the opening is a blurry overexposed deck, the last 6 seconds repeat one angle, and there is no visible danger; source quality cannot be fixed by recutting.
-
-## Changed tonight
-- lane_mix {'rescue': 0.45, 'aviation_naval': 0.45, 'hazards': 0.1} -> {'rescue': 0.43, 'aviation_naval': 0.47, 'hazards': 0.1}
-- query weights for 66 searches
+- ccf-20261121-07: Clean hoist-camera footage with a swimmer swinging over the wake, but it is the seventh moving-fishing-boat hoist in two days (20-27, 20-28, 20-29, 20-30, 21-04, 21-05) and its title and hook nearly repeat 20-30. Fails item 13 (interchangeable).
+- ccf-20261121-08: Third Saturn V liftoff in this batch (21-02 Apollo 11 engines, 21-06 Apollo 4) and the cloud/sound barrier lines play over shots with no condensation cloud (the cloud only appears in the 0 to 4 s opener). No danger and a weak resolution; 21-06 tells the stronger Saturn V story.
