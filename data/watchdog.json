@@ -1,13 +1,13 @@
 {
-  "at": "2026-11-21T02:30:00Z",
+  "at": "2026-11-21T06:30:00Z",
   "healthy": true,
   "numbers": {
-    "passed": 117,
+    "passed": 120,
     "needs_qa": 0,
     "uploaded": 205,
     "dropped": 91,
-    "scheduled_next_48h": 12,
+    "scheduled_next_48h": 11,
     "scheduled_by_mt_day": {"2026-11-20": 10, "2026-11-21": 10, "2026-11-22": 1}
   },
-  "notes": "Nov 22 shows 1 scheduled only because YouTube's uploadLimitExceeded cap holds until 2026-11-21T19:01Z; 117 passed Shorts are waiting, so supply is not the gap and no editor pass was needed. Harvest 18:34Z, builds and uploads landing, stats today. No repeated build errors, no auth alerts."
+  "notes": "Nov 22 gap is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; 120 passed Shorts wait, so an editor pass would not help. Harvest landed 05:20Z, builds landing, review and stats today. No repeated build errors, no auth alerts. QA passed ccf-20261120-29, -30, -31."
 }
