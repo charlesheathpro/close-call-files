@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss072m263261159-Progress-90-Cargo-Ship-Launch-241121",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-29T17:25:04Z",
   "duration": 2181.13,
   "source_file": {
@@ -301,5 +301,6 @@
     1839.91,
     1976.2,
     2112.49
-  ]
+  ],
+  "pass_reason": "Repeats the Progress onboard-camera launch Short (17-09)"
 }

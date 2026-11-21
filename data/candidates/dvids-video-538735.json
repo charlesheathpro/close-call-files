@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-538735",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:57:58Z",
   "duration": 74.07,
   "source_file": {
@@ -83,5 +83,6 @@
     62.08,
     66.67,
     71.27
-  ]
+  ],
+  "pass_reason": "Murky infrared hoist, calm and hard to read"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.42573,
   "aspect_ratio": "16:9",
   "id": "dvids-video-479872",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:05:55Z",
   "duration": 123.58,
   "source_file": {
@@ -196,5 +196,6 @@
     104.54,
     111.95,
     119.37
-  ]
+  ],
+  "pass_reason": "Static top-down hover over forest, then injured patients in the cabin"
 }

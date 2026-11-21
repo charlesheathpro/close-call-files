@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-83773",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:52:22Z",
   "duration": 257.71,
   "source_file": {
@@ -504,5 +504,6 @@
     217.65,
     233.47,
     249.3
-  ]
+  ],
+  "pass_reason": "480p 4:3, no outcome in the release, third cruise ship hoist"
 }
