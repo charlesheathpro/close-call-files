@@ -1,17 +1,18 @@
 {
-  "at": "2026-11-21T18:26:05Z",
+  "at": "2026-11-21T22:14:58Z",
   "healthy": true,
   "numbers": {
-    "dropped": 94,
-    "uploaded": 205,
-    "passed": 131,
+    "dropped": 96,
+    "uploaded": 215,
+    "passed": 122,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_next_48h": 11,
+    "scheduled_next_48h": 14,
     "upcoming_by_mt_day": {
-      "2026-11-21": 10,
-      "2026-11-22": 1
+      "2026-11-21": 3,
+      "2026-11-22": 10,
+      "2026-11-23": 1
     }
   },
-  "notes": "Nov 22 gap (1 scheduled) is YouTube's uploadLimitExceeded cap, active until 2026-11-21T19:01Z; upload runs (last 17:37Z) fill it from 131 passed Shorts once it lifts, so no editor pass needed. Harvest 17:24Z (DVIDS blocked, Commons working), stats today, no repeated build errors, no auth alerts. QA: passed 21-12, 21-14, 21-13 r2 (fixed: under 20s, unsupported Cabo wording)."
+  "notes": "Nov 22 has 10 scheduled. Nov 23 gap (1) is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z; 122 passed Shorts are waiting, so upload runs fill it once the cap lifts and no editor pass is needed. Upload run 22:06Z, harvest 17:24Z (DVIDS blocked, Commons working), stats today, no build errors, no auth alerts. QA: passed 21-15 r4, dropped 21-16 (pre-flight CG animation)."
 }
