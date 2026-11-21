@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20200623-TECHf-0002-Mars-Helicopter-Delivery-System",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:34:53Z",
   "duration": 117.03,
   "source_file": {
@@ -229,5 +229,6 @@
     98.33,
     105.61,
     112.89
-  ]
+  ],
+  "pass_reason": "animation and lab b-roll"
 }

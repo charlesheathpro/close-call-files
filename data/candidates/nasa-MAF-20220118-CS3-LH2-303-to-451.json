@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20220118-CS3-LH2-303-to-451",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:33:57Z",
   "duration": 258.97,
   "source_file": {
@@ -205,5 +205,6 @@
     218.08,
     234.24,
     250.39
-  ]
+  ],
+  "pass_reason": "tank transport b-roll, nothing happening"
 }

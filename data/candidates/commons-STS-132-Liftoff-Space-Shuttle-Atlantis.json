@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-STS-132-Liftoff-Space-Shuttle-Atlantis",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-21T05:07:32Z",
   "duration": 157.06,
   "source_file": {
@@ -177,5 +177,6 @@
     132.09,
     141.88,
     151.66
-  ]
+  ],
+  "used_by": "ccf-20261121-09"
 }

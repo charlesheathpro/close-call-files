@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2020m000226-Tropical-Storm-Laura-Gulf-Fly-over-200824-MP4",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:48:42Z",
   "duration": 525.13,
   "source_file": {
@@ -62,5 +62,6 @@
     442.66,
     475.45,
     508.24
-  ]
+  ],
+  "pass_reason": "ISS storm view mostly blocked by station hardware; storm-from-space done"
 }
