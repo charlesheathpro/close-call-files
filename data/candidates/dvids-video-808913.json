@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-808913",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:52:18Z",
   "duration": 73.41,
   "source_file": {
@@ -81,5 +81,6 @@
     61.52,
     66.07,
     70.63
-  ]
+  ],
+  "pass_reason": "grainy grayscale FLIR, tug distant"
 }
