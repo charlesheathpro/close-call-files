@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-13",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-192002",
   "lane": "rescue",
   "story_type": "pararescue hoist onto a cargo ship far offshore",
@@ -8,10 +8,11 @@
   "hook": "300 miles off Mexico, hanging over a cargo ship on one cable.",
   "narration": [
     "Three hundred miles off Mexico, this crew hung over a cargo ship on one cable.",
-    "A crewman aboard was hurt, so rescuers flew out from Cabo San Lucas.",
-    "They rode the hoist down and got him ready to lift."
+    "A sailor on board was hurt, so the California Air National Guard sent its pararescuemen.",
+    "They rode the hoist down and got him ready to lift.",
+    "Below them, the ship's crew waited on deck."
   ],
-  "outcome": "The crew flew him back to Cabo, then a plane took him on to San Diego.",
+  "outcome": "They got him to Cabo San Lucas, and a plane flew him on to San Diego.",
   "location_card": {
     "place": "East Pacific, off Mexico",
     "date": "Nov. 29, 2012"
@@ -47,6 +48,10 @@
     {
       "claim": "Patient loaded onto the MC-130P at Cabo and flown to Miramar near San Diego",
       "source_quote": "Upon arriving at Cabo San Lucas, the patient was loaded onto the MC-130P"
+    },
+    {
+      "claim": "California Air National Guard pararescuemen rescued an injured sailor",
+      "source_quote": "California Air National Guard pararescuemen rescue an injured Filipino comercial sailor"
     }
   ],
   "extra_sources": [
@@ -70,14 +75,14 @@
   "line_shots": [
     [
       {
-        "start": 10.6,
-        "end": 13.3,
+        "start": 11.0,
+        "end": 13.45,
         "layout": "crop",
         "crop_x": 0.4
       },
       {
-        "start": 13.3,
-        "end": 16.0,
+        "start": 13.45,
+        "end": 15.9,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -85,15 +90,15 @@
     [
       {
         "start": 0.1,
-        "end": 3.75,
+        "end": 2.9,
         "layout": "crop",
         "crop_x": 0.95
       },
       {
-        "start": 20.9,
-        "end": 22.55,
+        "start": 2.9,
+        "end": 5.55,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.6
       }
     ],
     [
@@ -102,26 +107,28 @@
         "end": 8.25,
         "layout": "crop",
         "crop_x": 0.4
-      },
-      {
-        "start": 8.3,
-        "end": 10.5,
-        "layout": "crop",
-        "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 16.0,
-        "end": 18.1,
+        "start": 18.85,
+        "end": 22.9,
+        "layout": "crop",
+        "crop_x": 0.4
+      }
+    ],
+    [
+      {
+        "start": 15.9,
+        "end": 17.95,
         "layout": "crop",
         "crop_x": 0.42
       },
       {
-        "start": 18.2,
-        "end": 20.25,
+        "start": 8.3,
+        "end": 10.35,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.55
       }
     ]
   ]
