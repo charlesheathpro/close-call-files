@@ -1,46 +1,42 @@
-# Playbook (computed 2026-11-20T16:20:34Z from 167 Shorts older than 48 hours)
+# Playbook (computed 2026-11-21T04:14:36Z from 174 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.51, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.46, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.52, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.48, 1 Shorts)
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.41, 1 Shorts)
+- story: runaway boat with no one aboard (+0.4, 1 Shorts)
+- story: launch abort test (+0.39, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.38, 1 Shorts)
 - story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.38, 1 Shorts)
-- story: launch abort test (+0.37, 1 Shorts)
-- story: runaway boat with no one aboard (+0.37, 1 Shorts)
-- story: abandon ship, boat crew pickup (+0.36, 1 Shorts)
-- story: splashdown recovery (+0.36, 1 Shorts)
+- story: splashdown recovery (+0.38, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.56, 1 Shorts)
-- lane: hazards (-0.48, 4 Shorts)
-- story: historic rocket test stand implosion (-0.46, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.44, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.43, 1 Shorts)
-- story: rocket stage full-duration test fire, second attempt (-0.39, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.39, 1 Shorts)
-- story: four boaters sitting on a capsized hull far offshore, swimmer and basket hoist (-0.39, 1 Shorts)
+- story: dog hoist from sinking boat (-0.58, 1 Shorts)
+- lane: hazards (-0.52, 4 Shorts)
+- story: historic rocket test stand implosion (-0.49, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.47, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.46, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
+- story: security camera catches a tornado strike (-0.4, 1 Shorts)
+- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
 
 ## Best Shorts
-- Parachuting to a sick sailor at sea: 39397 views, 99% watched
-- Flipped hull 11 miles out, 3 men on top: 47520 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50090 views, 70% watched
-- Sailboat pinned against a rock wall: 43188 views, 69% watched
-- Runaway boat circling with no one aboard: 9642 views, 97% watched
+- Parachuting to a sick sailor at sea: 42341 views, 88% watched
+- Flipped hull 11 miles out, 3 men on top: 47521 views, 81% watched
+- 17-year-old adrift at night, no paddle: 50114 views, 70% watched
+- Runaway boat circling with no one aboard: 9646 views, 97% watched
+- Capsule torn off a rocket at Mach 1: 5189 views, 97% watched
 
 ## Weakest Shorts
-- Moon rocket test, take two: 964 views, 0% watched
-- Crab boat sank at night off Washington: 90 views, 44% watched
+- Florence: 67 people, 12 pets in one day: 128 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 32 views, 64% watched
+- Crab boat sank at night off Washington: 90 views, 44% watched
 - Saturn V test tower comes down: 56 views, 49% watched
 - Dog hoisted from a sinking catamaran: 12 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261117-02: Hoist-cam footage is smeared with heavy color noise and the top-down frames are hard to read in the first second; a third Kodiak Jayhawk hoist in this batch, interchangeable with recent Alaska hoists.
-- ccf-20261117-04: Artemis II liftoff again (already 14-03, 14-32, 16-08 in the queue or posted), and about ten seconds in the middle show a tiny rocket sitting on the pad before ignition.
-- ccf-20261117-05: Calm routine hoist: the hoist cam hangs over a small patch of deck for most of the Short, mostly in a narrow fit strip, and the 964-foot ship is never shown at scale.
-- ccf-20261117-07: The release does not say how the night ended, so the outcome line is unsupported; one locked shot for 25 seconds and the fifth lava fountain Short in the queue.
 - ccf-20261117-14: Calm rehearsal with a static group photo near the end and no real danger; repeats the recent spacecraft uprighting test and splashdown Shorts. Dropped.
 - ccf-20261117-15: Calm routine landing on a helideck where the patient walks aboard; the helideck shots repeat and nothing on screen is at risk. Dropped.
 - ccf-20261117-22: Builds cleanly now, but it is calm routine training: no danger on screen, and 9 to 14s is name patches and a tail fin. Dropped.
@@ -52,3 +48,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261119-43: Nine minutes of a C-17 taxiing on snow: the touchdown and snow spray are distant and small, the roller shot holds for 7 seconds, and there is no danger or peak moment for an opener.
 - ccf-20261119-54: Opening sled shot is strong, but nothing dangerous happens on screen, 23 to 30 s is documentary dissolves, 18 s is an empty horizon, and the ending is a saying catching on rather than an outcome.
 - ccf-20261119-56: Calm seas and a routine bale offload; the scuttling threat is only told, never seen. Duplicates the narco-sub story of -55, which is far stronger.
+- ccf-20261120-16: Strong MICLIC blast, but the Short is 12.8 s from a 15.7 s source and cannot reach 20 s without reused shots. Dropped.
+- ccf-20261120-18: Clean footage of an LC-130 on the Greenland ice, but it is routine training with no visible danger, repeated head-on taxi shots, and an ending that does not show the climb-out clearly. Dropped.
+- ccf-20261120-22: Source is one static 67-second hover shot of the Portuguese helicopter over the deck; nothing on screen shows the explosion, the parachute drop or the airlift, so every line plays over the same frame and it cannot hold retention.
+- ccf-20261120-25: Hoist-cam footage is washed out and heavily artifacted, the opening is a blurry overexposed deck, the last 6 seconds repeat one angle, and there is no visible danger; source quality cannot be fixed by recutting.
