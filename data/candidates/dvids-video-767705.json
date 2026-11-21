@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-767705",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:45:16Z",
   "duration": 45.7,
   "source_file": {
@@ -71,5 +71,6 @@
     38.13,
     40.96,
     43.78
-  ]
+  ],
+  "pass_reason": "night FLIR specks; subject unreadable on a phone"
 }

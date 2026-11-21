@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2021-0318-GreenRun2-ResourceReel",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:05:10Z",
   "duration": 533.0,
   "source_file": {
@@ -231,5 +231,6 @@
     449.3,
     482.58,
     515.86
-  ]
+  ],
+  "pass_reason": "Green Run 2 already told in ccf-20261114-89"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2021-0318-GreenRun2-CompleteBroadcast",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:49:50Z",
   "duration": 4500.07,
   "source_file": {
@@ -4344,5 +4344,6 @@
     3796.51,
     4077.73,
     4358.96
-  ]
+  ],
+  "pass_reason": "Green Run 2 already told in ccf-20261114-89"
 }

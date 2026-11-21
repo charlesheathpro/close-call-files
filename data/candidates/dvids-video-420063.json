@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-420063",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:37:25Z",
   "duration": 97.29,
   "source_file": {
@@ -96,5 +96,6 @@
     82.3,
     88.1,
     93.89
-  ]
+  ],
+  "pass_reason": "only a cargo plane taxiing and taking off; no rescue on screen and no stated outcome"
 }

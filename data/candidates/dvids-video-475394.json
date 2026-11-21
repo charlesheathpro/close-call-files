@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-475394",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:04:20Z",
   "duration": 126.41,
   "source_file": {
@@ -73,5 +73,6 @@
     106.86,
     114.48,
     122.1
-  ]
+  ],
+  "pass_reason": "hoist cam heavily color-artifacted and washed out; litter close-ups"
 }
