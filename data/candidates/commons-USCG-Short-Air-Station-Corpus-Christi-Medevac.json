@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USCG-Short-Air-Station-Corpus-Christi-Medevac",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:09:59Z",
   "duration": 52.65,
   "source_file": {
@@ -62,5 +62,6 @@
     44.0,
     47.26,
     50.52
-  ]
+  ],
+  "pass_reason": "calm seas, helicopter hovering over a huge tanker; routine, no visible danger"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-New-Footage-CH-46-Sea-Knight-Crash-on-USNS-Pecos",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:11:13Z",
   "duration": 542.21,
   "source_file": {
@@ -127,5 +127,6 @@
     457.07,
     490.92,
     524.78
-  ]
+  ],
+  "pass_reason": "fatal crash, seven Marines died; outside the channel's close-call tone and no-casualty rule"
 }

@@ -1,0 +1,66 @@
+{
+  "asset_id": "nasa:BR__CLIP_CS_ICPS_ISO_Artemis_I_Launch_Rocket_Cam_RAW_2-_1723357",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "core stage separation",
+  "title": "Orion Camera Captures SLS Core Stage",
+  "description": "Following launch at 1:47 a.m. EST Nov. 16, the core stage of the Space Launch System separated from Orion and the Interim Cryogenic Propulsion Stage. The core stage can be seen in the background of this view, captured by a camera on the end of Orion’s solar array, in the top right above the ICPS.",
+  "keywords": "Artemis, Artemis I Resource Reel, Artemis I, Orion, SLS",
+  "date": "2022-11-16T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JSC",
+  "credit": "NASA JSC video",
+  "page_url": "https://images.nasa.gov/details/BR__CLIP_CS_ICPS_ISO_Artemis_I_Launch_Rocket_Cam_RAW_2-_1723357",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-BR-CLIP-CS-ICPS-ISO-Artemis-I-Launch-Rocket-Cam-RAW-2-1723357",
+  "status": "passed_over",
+  "harvested_at": "2026-11-21T05:35:35Z",
+  "duration": 46.87,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/BR__CLIP_CS_ICPS_ISO_Artemis_I_Launch_Rocket_Cam_RAW_2-_1723357/BR__CLIP_CS_ICPS_ISO_Artemis_I_Launch_Rocket_Cam_RAW_2-_1723357~orig.mp4",
+    "width": 1280,
+    "height": 720,
+    "duration": 46.848
+  },
+  "transcript_source": "captions",
+  "transcript": [
+    {
+      "s": 1.0,
+      "e": 30.0,
+      "text": "[video with no audio content]"
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 49,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      46.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-BR-CLIP-CS-ICPS-ISO-Artemis-I-Launch-Rocket-Cam-RAW-2-1723357.jpg",
+  "sheet_times": [
+    1.45,
+    4.35,
+    7.24,
+    10.14,
+    13.04,
+    15.94,
+    18.84,
+    21.73,
+    24.63,
+    27.53,
+    30.43,
+    33.33,
+    36.22,
+    39.12,
+    42.02,
+    44.92
+  ],
+  "pass_reason": "static grayscale view of the upper stage; the core stage is a speck, nothing moves"
+}
