@@ -1,17 +1,13 @@
 {
-  "at": "2026-11-20T22:24:11Z",
+  "at": "2026-11-21T02:30:00Z",
   "healthy": true,
   "numbers": {
-    "passed": 109,
-    "needs_qa": 2,
+    "passed": 117,
+    "needs_qa": 0,
     "uploaded": 205,
-    "dropped": 89,
-    "scheduled_next_48h": 14,
-    "scheduled_by_mt_day": {
-      "2026-11-20": 10,
-      "2026-11-21": 10,
-      "2026-11-22": 1
-    }
+    "dropped": 91,
+    "scheduled_next_48h": 12,
+    "scheduled_by_mt_day": {"2026-11-20": 10, "2026-11-21": 10, "2026-11-22": 1}
   },
-  "notes": "Nov 22 has 1 scheduled because YouTube's uploadLimitExceeded cap holds until 2026-11-21T19:01Z; 109 passed Shorts are waiting, so supply is not the gap and no editor pass was needed. Upload runs landing (last 22:00Z), harvest 18:34Z, stats today. No repeated build errors."
+  "notes": "Nov 22 shows 1 scheduled only because YouTube's uploadLimitExceeded cap holds until 2026-11-21T19:01Z; 117 passed Shorts are waiting, so supply is not the gap and no editor pass was needed. Harvest 18:34Z, builds and uploads landing, stats today. No repeated build errors, no auth alerts."
 }
