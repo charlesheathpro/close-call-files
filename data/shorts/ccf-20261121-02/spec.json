@@ -11,8 +11,7 @@
   "It filmed at five hundred frames a second, so about thirty seconds of launch became eight minutes.",
   "Kerosene and liquid oxygen spill out and catch fire first. That spins up the turbines that drive fuel to the F-1 engines.",
   "At full thrust, the exhaust drags the billowing gas down under the rocket and into the flame trench.",
-  "Some three hundred thousand gallons of water poured onto the launcher to cool it and soften the shock waves.",
-  "Its surfaces were painted with a coating built to char and burn away, protecting the steel underneath."
+  "Some three hundred thousand gallons of water poured onto the launcher to cool it and soften the shock waves."
  ],
  "outcome": "At liftoff the hold-down arms let go, and Apollo 11 climbed away and left the launcher burning.",
  "location_card": {
@@ -72,8 +71,8 @@
   ],
   [
    {
-    "start": 12.0,
-    "end": 14.5,
+    "start": 23.5,
+    "end": 26.5,
     "layout": "crop",
     "crop_x": 0.5
    },
@@ -98,8 +97,8 @@
     "crop_x": 0.4
    },
    {
-    "start": 55.0,
-    "end": 57.5,
+    "start": 68.0,
+    "end": 70.5,
     "layout": "crop",
     "crop_x": 0.5
    },
@@ -118,22 +117,22 @@
   ],
   [
    {
-    "start": 112.0,
-    "end": 114.5,
+    "start": 104.0,
+    "end": 106.5,
     "layout": "crop",
     "crop_x": 0.5
    },
    {
-    "start": 125.0,
-    "end": 127.5,
+    "start": 108.0,
+    "end": 110.5,
     "layout": "crop",
-    "crop_x": 0.6
+    "crop_x": 0.55
    },
    {
-    "start": 130.0,
-    "end": 132.5,
+    "start": 114.0,
+    "end": 116.5,
     "layout": "crop",
-    "crop_x": 0.45
+    "crop_x": 0.5
    }
   ],
   [
@@ -150,46 +149,32 @@
     "crop_x": 0.7
    },
    {
-    "start": 320.0,
-    "end": 322.5,
-    "layout": "crop",
-    "crop_x": 0.55
-   }
-  ],
-  [
-   {
-    "start": 340.0,
-    "end": 342.5,
-    "layout": "crop",
-    "crop_x": 0.6
-   },
-   {
-    "start": 360.0,
-    "end": 362.5,
-    "layout": "crop",
-    "crop_x": 0.75
-   },
-   {
-    "start": 385.0,
-    "end": 387.5,
+    "start": 285.0,
+    "end": 287.5,
     "layout": "crop",
     "crop_x": 0.6
    }
   ],
   [
    {
-    "start": 410.0,
-    "end": 413.0,
+    "start": 125.0,
+    "end": 127.5,
     "layout": "crop",
-    "crop_x": 0.65
+    "crop_x": 0.4
    },
    {
-    "start": 440.0,
-    "end": 442.5,
+    "start": 132.0,
+    "end": 134.5,
     "layout": "crop",
-    "crop_x": 0.7
+    "crop_x": 0.4
+   },
+   {
+    "start": 294.0,
+    "end": 297.0,
+    "layout": "crop",
+    "crop_x": 0.62
    }
   ]
  ],
- "revision": 3
+ "revision": 4
 }
