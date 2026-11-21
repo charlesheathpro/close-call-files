@@ -5,13 +5,13 @@
   "story_type": "jump jet hovers and lands vertically on an amphibious assault ship at sea, squadron farewell tour",
   "music_mood": "naval",
   "priority": 6,
-  "hook": "This jet stopped in midair over a moving warship.",
+  "hook": "This jet stopped in midair over a warship at sea.",
   "narration": [
-    "This jet stopped in midair over a moving warship, then sat straight down on it.",
+    "This jet stopped in midair over a warship at sea, then sat straight down on it.",
     "It was a Marine Corps AV-8B Harrier from the Tomcats squadron, over the Coral Sea.",
     "Four swiveling nozzles point the engine's thrust straight down, so a Harrier can hover with no runway at all.",
-    "It left the ship with only a short run down the deck.",
-    "Then it came back and hung over the flight deck.",
+    "The pilot balances the jet on that column of thrust, just above the deck.",
+    "It held there, hanging over the flight deck.",
     "This was the squadron's farewell tour. The ship was trading its Harriers for the F-35B."
   ],
   "outcome": "The Harrier settled onto the deck of the amphibious assault ship USS Bonhomme Richard.",
@@ -106,25 +106,13 @@
         "crop_x": 0.5
       },
       {
-        "start": 72.0,
-        "end": 74.4,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 76.0,
-        "end": 78.4,
-        "layout": "crop",
-        "crop_x": 0.6
-      }
-    ],
-    [
-      {
         "start": 105.0,
         "end": 107.4,
         "layout": "crop",
         "crop_x": 0.5
-      },
+      }
+    ],
+    [
       {
         "start": 108.0,
         "end": 110.0,
@@ -185,5 +173,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }

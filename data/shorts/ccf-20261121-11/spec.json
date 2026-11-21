@@ -8,7 +8,7 @@
   "hook": "Its tailhook tore off the instant it touched down.",
   "narration": [
     "This bomber's tailhook tore away the moment it touched the deck.",
-    "It was a North American AJ Savage, coming aboard the carrier USS Midway in the early 1950s.",
+    "It was an AJ Savage, landing on the carrier USS Midway in the early 1950s.",
     "A tailhook snags one of the wires stretched across the deck and drags a landing plane to a stop in a few seconds.",
     "Midway still had a straight deck, so a plane that missed the wires rolled straight toward the jets parked up front.",
     "This Savage had nothing left to catch a wire."
@@ -54,34 +54,34 @@
   "line_shots": [
     [
       {
-        "start": 138.5,
-        "end": 140.9,
+        "start": 125.0,
+        "end": 127.4,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
-        "start": 141.0,
-        "end": 143.4,
+        "start": 127.4,
+        "end": 129.7,
         "layout": "fit",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 55.5,
-        "end": 57.9,
+        "start": 51.0,
+        "end": 53.4,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
-        "start": 58.5,
-        "end": 60.9,
+        "start": 55.0,
+        "end": 57.5,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
-        "start": 60.9,
-        "end": 62.9,
+        "start": 60.6,
+        "end": 63.0,
         "layout": "fit",
         "crop_x": 0.5
       }
@@ -128,13 +128,25 @@
     ],
     [
       {
-        "start": 131.6,
-        "end": 134.4,
+        "start": 116.5,
+        "end": 118.9,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 119.0,
+        "end": 121.4,
         "layout": "fit",
         "crop_x": 0.5
       }
     ],
     [
+      {
+        "start": 131.6,
+        "end": 134.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
       {
         "start": 143.5,
         "end": 146.3,
@@ -142,18 +154,12 @@
         "crop_x": 0.5
       },
       {
-        "start": 146.9,
-        "end": 149.1,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
-        "start": 135.4,
-        "end": 138.4,
+        "start": 121.6,
+        "end": 124.6,
         "layout": "fit",
         "crop_x": 0.5
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }
