@@ -12,7 +12,7 @@
     "Together they made seven and a half million pounds of thrust.",
     "NASA flew every stage live on this very first flight, all at once, instead of testing them one at a time.",
     "At thirty nine miles up, the first stage engines shut down.",
-    "Cameras on the rocket filmed the spent stage dropping away.",
+    "Cameras on the rocket filmed the stages pulling apart.",
     "In orbit, the spacecraft fired its own engine and climbed more than eleven thousand miles out.",
     "Then it dove back in at over twenty five thousand miles per hour to test the heat shield."
   ],
@@ -150,45 +150,27 @@
     [
       {
         "start": 457.5,
-        "end": 459.9,
+        "end": 460.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 462.5,
-        "end": 464.9,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 466.0,
-        "end": 468.4,
+        "start": 491.5,
+        "end": 494.4,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 488.5,
-        "end": 490.9,
-        "layout": "crop",
-        "crop_x": 0.4
-      },
-      {
-        "start": 491.5,
-        "end": 493.9,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 498.0,
-        "end": 500.4,
+        "start": 496.0,
+        "end": 499.0,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
         "start": 504.0,
-        "end": 506.4,
+        "end": 507.0,
         "layout": "crop",
         "crop_x": 0.55
       }
@@ -240,5 +222,5 @@
       }
     ]
   ],
-  "revision": 1
+  "revision": 2
 }
