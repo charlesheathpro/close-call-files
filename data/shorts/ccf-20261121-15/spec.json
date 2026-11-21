@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-15",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "commons-SpaceX-In-Flight-Abort-Test-4z4-OLSfdSc",
   "lane": "aviation_naval",
   "story_type": "in-flight launch abort test, rocket breaks apart",
@@ -194,16 +194,16 @@
     ],
     [
       {
-        "start": 113.5,
-        "end": 116.5,
+        "start": 104.5,
+        "end": 107.5,
         "layout": "crop",
-        "crop_x": 0.78
+        "crop_x": 0.25
       },
       {
-        "start": 119.5,
-        "end": 122.5,
+        "start": 113.0,
+        "end": 116.0,
         "layout": "crop",
-        "crop_x": 0.78
+        "crop_x": 0.25
       }
     ]
   ]
