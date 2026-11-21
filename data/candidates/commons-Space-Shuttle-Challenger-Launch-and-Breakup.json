@@ -1,0 +1,130 @@
+{
+  "asset_id": "commons:File:Space Shuttle Challenger Launch and Breakup.webm",
+  "source": "commons",
+  "lane": "aviation_naval",
+  "matched_query": "Space Shuttle launch",
+  "title": "Space Shuttle Challenger Launch and Breakup",
+  "description": "Space Shuttle Challenger launching from KSC LC-39B on the STS-51L mission, and breaking up.\nHigh Quality version with Stereo Sound",
+  "keywords": "PD NASA, Videos of Space Shuttle Challenger disaster",
+  "date": "1986-01-28",
+  "branch": "",
+  "unit_name": "NASA STI Program",
+  "credit": "NASA STI Program video",
+  "original_source": "Digitization of a VHS tape owned by the United States Geological Survey",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Space_Shuttle_Challenger_Launch_and_Breakup.webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "commons-Space-Shuttle-Challenger-Launch-and-Breakup",
+  "status": "new",
+  "harvested_at": "2026-11-21T05:08:15Z",
+  "duration": 170.01,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Space_Shuttle_Challenger_Launch_and_Breakup.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "width": 1280,
+    "height": 720,
+    "size": 33793161
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.37,
+      "e": 5.99,
+      "text": "The T-minus 10, 9, 8, 7, 6."
+    },
+    {
+      "s": 5.99,
+      "e": 13.37,
+      "text": "We have main engine start, 4, 3, 2, 1, and lift off."
+    },
+    {
+      "s": 13.37,
+      "e": 16.65,
+      "text": "Lift off of the 25th Space Shuttle mission,"
+    },
+    {
+      "s": 16.65,
+      "e": 42.09,
+      "text": "and it is cleared the tower."
+    },
+    {
+      "s": 42.09,
+      "e": 57.26,
+      "text": "At 94%, to the flight, 104%, 5%,"
+    },
+    {
+      "s": 57.26,
+      "e": 64.46,
+      "text": "to the three engines running normally, three good fuel cells."
+    },
+    {
+      "s": 64.46,
+      "e": 66.94,
+      "text": "Velocity 2,257 feet per second."
+    },
+    {
+      "s": 66.94,
+      "e": 76.17,
+      "text": "Altitude 4.3 nautical miles,"
+    },
+    {
+      "s": 76.17,
+      "e": 78.35,
+      "text": "throttling up three engines now at 104%."
+    },
+    {
+      "s": 78.35,
+      "e": 88.1,
+      "text": "Challenger, go throttle up."
+    },
+    {
+      "s": 88.1,
+      "e": 89.82,
+      "text": "Velocity 2,900 feet per second."
+    },
+    {
+      "s": 89.82,
+      "e": 92.5,
+      "text": "Altitude 9 nautical miles, downrange distance 7 nautical"
+    },
+    {
+      "s": 92.5,
+      "e": 125.66,
+      "text": "situation."
+    }
+  ],
+  "scene_cuts": [
+    104.17
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      140.6,
+      161.5
+    ],
+    "silence_ends": [
+      161.5,
+      170.0
+    ]
+  },
+  "sheet": "data/candidates/commons-Space-Shuttle-Challenger-Launch-and-Breakup.jpg",
+  "sheet_times": [
+    5.3,
+    15.89,
+    26.49,
+    37.08,
+    47.67,
+    58.27,
+    68.86,
+    79.46,
+    90.05,
+    100.64,
+    111.24,
+    121.83,
+    132.43,
+    143.02,
+    153.62,
+    164.21
+  ]
+}
