@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-698193",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-19T05:20:40Z",
   "duration": 23.36,
   "source_file": {
@@ -62,5 +62,6 @@
     19.29,
     20.72,
     22.15
-  ]
+  ],
+  "pass_reason": "calm vehicle offload, 23 s"
 }

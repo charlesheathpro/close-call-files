@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "16:9",
   "id": "dvids-video-491666",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:54:11Z",
   "duration": 231.15,
   "source_file": {
@@ -93,5 +93,6 @@
     195.24,
     209.4,
     223.56
-  ]
+  ],
+  "pass_reason": "training, shaky helmet cam"
 }

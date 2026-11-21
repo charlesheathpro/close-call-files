@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-679860",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:32:03Z",
   "duration": 62.86,
   "source_file": {
@@ -71,5 +71,6 @@
     52.62,
     56.52,
     60.41
-  ]
+  ],
+  "pass_reason": "mostly cabin interior, calm"
 }

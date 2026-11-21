@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-77881",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:37:54Z",
   "duration": 299.9,
   "source_file": {
@@ -90,5 +90,6 @@
     253.25,
     271.71,
     290.17
-  ]
+  ],
+  "pass_reason": "release too vague to state who or how it ended"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317708",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:48:39Z",
   "duration": 248.98,
   "source_file": {
@@ -68,5 +68,6 @@
     209.66,
     225.19,
     240.72
-  ]
+  ],
+  "pass_reason": "release has no outcome, low res night FLIR"
 }

@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Orion-Solar-Array-Wing-1-View-of-SLS-Core-Stage-Separation-a",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:18:53Z",
   "duration": 296.53,
   "source_file": {
@@ -56,5 +56,6 @@
     249.77,
     268.27,
     286.77
-  ]
+  ],
+  "pass_reason": "no visible event, Earth limb only"
 }
