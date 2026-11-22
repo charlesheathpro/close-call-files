@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14614-02-Kelly-Jellison-Incentive-Flight",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-22T09:03:05Z",
   "duration": 740.1,
   "source_file": {
@@ -861,5 +861,6 @@
     624.04,
     670.26,
     716.49
-  ]
+  ],
+  "used_by": "ccf-20261122-06"
 }
