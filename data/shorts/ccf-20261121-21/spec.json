@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-21",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "commons-Videosmarsldsd20140808LDSDhighdef20140808-1280",
   "lane": "aviation_naval",
   "story_type": "Mars landing test: balloon drop, rocket to Mach 4, supersonic parachute tears apart",
@@ -75,22 +75,28 @@
     ],
     [
       {
-        "start": 1.0,
-        "end": 4.0,
+        "start": 14.0,
+        "end": 17.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 14.0,
-        "end": 17.0,
+        "start": 4.4,
+        "end": 7.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 20.6,
+        "end": 23.6,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 17.5,
-        "end": 20.5,
+        "start": 17.0,
+        "end": 20.4,
         "layout": "crop",
         "crop_x": 0.5
       },
@@ -177,16 +183,16 @@
         "crop_x": 0.5
       },
       {
-        "start": 108.5,
-        "end": 111.5,
+        "start": 116.0,
+        "end": 119.0,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 116.0,
-        "end": 119.0,
+        "start": 108.5,
+        "end": 111.5,
         "layout": "crop",
         "crop_x": 0.5
       },
