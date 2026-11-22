@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261122-03",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "commons-M2-F2-drop-from-NB-52A-mothership",
   "lane": "aviation_naval",
   "story_type": "wingless research plane dropped from a B-52, glides to a lakebed landing",
@@ -9,9 +9,9 @@
   "hook": "This plane has no wings. NASA dropped it from a B-52.",
   "narration": [
     "This plane has no wings, and it was just dropped from a B-52.",
-    "It is NASA's M2-F2, a lifting body, over California in nineteen sixty six.",
-    "The shape of its body makes the lift. The same idea later helped shape the space shuttle.",
-    "On its first flight it fell away at forty five thousand feet, with one chance at the landing."
+    "It is NASA's M2-F2, over California in nineteen sixty six.",
+    "Its body shape makes the lift. The same idea later helped shape the space shuttle.",
+    "On its first flight, it fell away at forty five thousand feet."
   ],
   "outcome": "The M2-F2 glided all the way down and landed on the dry lakebed at Edwards.",
   "location_card": {
@@ -75,55 +75,61 @@
     [
       {
         "start": 5.7,
-        "end": 8.3,
+        "end": 8.4,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 9.0,
-        "end": 11.6,
+        "start": 8.6,
+        "end": 11.0,
         "layout": "crop",
         "crop_x": 0.45
+      },
+      {
+        "start": 11.1,
+        "end": 13.3,
+        "layout": "crop",
+        "crop_x": 0.6
       }
     ],
     [
       {
-        "start": 11.8,
-        "end": 14.4,
-        "layout": "crop",
-        "crop_x": 0.6
-      },
-      {
-        "start": 14.6,
-        "end": 17.2,
+        "start": 13.4,
+        "end": 15.8,
         "layout": "crop",
         "crop_x": 0.65
       },
       {
-        "start": 17.4,
-        "end": 19.6,
+        "start": 15.9,
+        "end": 18.1,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 18.2,
+        "end": 20.3,
         "layout": "crop",
         "crop_x": 0.6
       }
     ],
     [
       {
-        "start": 19.8,
-        "end": 22.2,
+        "start": 20.3,
+        "end": 22.6,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 22.4,
-        "end": 24.6,
+        "start": 22.7,
+        "end": 24.8,
         "layout": "crop",
         "crop_x": 0.55
       }
     ],
     [
       {
-        "start": 24.8,
-        "end": 27.2,
+        "start": 24.9,
+        "end": 27.3,
         "layout": "crop",
         "crop_x": 0.45
       },
@@ -134,7 +140,7 @@
         "crop_x": 0.55
       },
       {
-        "start": 30.0,
+        "start": 29.9,
         "end": 32.4,
         "layout": "crop",
         "crop_x": 0.6

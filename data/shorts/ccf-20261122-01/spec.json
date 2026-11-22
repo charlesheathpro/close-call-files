@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261122-01",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "commons-SpaceX-Crew-Dragon-Conducts-Unique-Flight-Test-dsg6WR4BWhw",
   "lane": "aviation_naval",
   "story_type": "pad abort test, capsule escapes from the launch pad",
@@ -8,7 +8,7 @@
   "priority": 5,
   "hook": "Eight engines fired at once and threw this capsule off the pad.",
   "narration": [
-    "Eight rocket engines fired at once and threw this capsule off the launch pad.",
+    "Eight engines fired at once and threw this capsule off the pad.",
     "This was SpaceX's Crew Dragon on May sixth, twenty fifteen, at Cape Canaveral in Florida.",
     "There was no rocket under it. It sat on a specially built platform, and the escape itself was the test.",
     "If a rocket ever fails on the pad, this is what gets the crew away. The capsule has to leave on its own, fast.",
@@ -53,16 +53,16 @@
   "line_shots": [
     [
       {
-        "start": 100.0,
-        "end": 102.6,
+        "start": 97.6,
+        "end": 100.1,
         "layout": "crop",
-        "crop_x": 0.45
+        "crop_x": 0.35
       },
       {
-        "start": 102.8,
-        "end": 105.4,
+        "start": 100.2,
+        "end": 102.6,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       }
     ],
     [
