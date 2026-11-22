@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:121569",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "catapult launch",
+  "title": "First Catapult Launch of JSF F-35C",
+  "description": "B-roll of the first catapult launch of the F-35C Joint Strike Fighter on July 27 at Lakehurst, N.J. Also available in high definition.",
+  "keywords": "Joint Strike Fighter, JSF, Lakehurst, F35-C, catapult launch, High Definition, New Jersey",
+  "date": "2011-07-28T00:00:00-04:00",
+  "date_published": "2011-07-28T00:53:27-04:00",
+  "branch": "Navy",
+  "unit_name": "U.S. Navy",
+  "credit": "Courtesy",
+  "category": "B-Roll",
+  "virin": null,
+  "location": {
+    "city": "Lakehurst",
+    "state": "New Jersey",
+    "country": "United States",
+    "state_abbreviation": "NJ",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/121569/first-catapult-launch-jsf-f-35c",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 5.07173,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-121569",
+  "status": "new",
+  "harvested_at": "2026-11-22T17:47:39Z",
+  "duration": 52.25,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1107/DOD_100215440/DOD_100215440.mp4",
+    "width": 1440,
+    "height": 1080,
+    "bitrate": 10000,
+    "size": 68702639
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.07,
+    10.71,
+    14.51,
+    21.39,
+    24.56,
+    27.79,
+    39.11
+  ],
+  "drama_score": 73,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      5.1
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-121569.jpg",
+  "sheet_times": [
+    6.53,
+    9.45,
+    12.36,
+    15.28,
+    18.2,
+    21.12,
+    24.03,
+    26.95,
+    29.87,
+    32.78,
+    35.7,
+    38.62,
+    41.54,
+    44.45,
+    47.37,
+    50.29
+  ]
+}
