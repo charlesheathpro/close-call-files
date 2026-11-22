@@ -1,44 +1,42 @@
-# Playbook (computed 2026-11-22T10:58:32Z from 184 Shorts older than 48 hours)
+# Playbook (computed 2026-11-22T15:37:40Z from 186 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.48, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.45, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.47, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.44, 1 Shorts)
 - story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.39, 1 Shorts)
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.39, 1 Shorts)
-- story: runaway boat with no one aboard (+0.38, 1 Shorts)
-- story: workers high on a launch pad lightning tower (+0.38, 1 Shorts)
-- story: launch abort test (+0.37, 1 Shorts)
-- story: splashdown recovery (+0.36, 1 Shorts)
+- story: launch abort test (+0.36, 1 Shorts)
+- story: runaway boat with no one aboard (+0.36, 1 Shorts)
+- story: workers high on a launch pad lightning tower (+0.36, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.35, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.56, 1 Shorts)
-- lane: hazards (-0.52, 4 Shorts)
-- story: historic rocket test stand implosion (-0.48, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.46, 1 Shorts)
+- story: dog hoist from sinking boat (-0.55, 1 Shorts)
+- lane: hazards (-0.5, 4 Shorts)
+- story: historic rocket test stand implosion (-0.47, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
-- story: record-holding spy jet takeoff (-0.41, 1 Shorts)
-- music: hazards (-0.41, 4 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.44, 1 Shorts)
+- story: record-holding spy jet takeoff (-0.4, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.4, 1 Shorts)
+- music: hazards (-0.4, 4 Shorts)
 
 ## Best Shorts
-- Parachuting to a sick sailor at sea: 44659 views, 84% watched
-- Flipped hull 11 miles out, 3 men on top: 47521 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50207 views, 70% watched
-- Engineer rides an F/A-18 through a loop: 33810 views, 81% watched
-- Hanging off a launch pad lightning tower: 4131 views, 110% watched
+- Parachuting to a sick sailor at sea: 44746 views, 84% watched
+- Flipped hull 11 miles out, 3 men on top: 47522 views, 81% watched
+- 17-year-old adrift at night, no paddle: 50209 views, 70% watched
+- Engineer rides an F/A-18 through a loop: 35070 views, 81% watched
+- Runaway boat circling with no one aboard: 9659 views, 97% watched
 
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 129 views, 45% watched
-- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
 - Crab boat sank at night off Washington: 91 views, 44% watched
+- Clinging to a flipped boat 12 miles out: 32 views, 64% watched
 - Saturn V test tower comes down: 57 views, 49% watched
 - Dog hoisted from a sinking catamaran: 13 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
-- ccf-20261119-37: Calm, clear blue water and a routine basket hoist of overdue fishermen; no visible danger, and the boat is cut off the top of the frame around 4 to 6s. Fails the viral bar.
-- ccf-20261119-38: Opens on a parked X-47B far away; only about 5s of action (catapult launch near source 13s, trap near 29s), the rest is slow taxiing and wing fold, and the jet is cropped at the side around 9 to 13s.
 - ccf-20261119-43: Nine minutes of a C-17 taxiing on snow: the touchdown and snow spray are distant and small, the roller shot holds for 7 seconds, and there is no danger or peak moment for an opener.
 - ccf-20261119-54: Opening sled shot is strong, but nothing dangerous happens on screen, 23 to 30 s is documentary dissolves, 18 s is an empty horizon, and the ending is a saying catching on rather than an outcome.
 - ccf-20261119-56: Calm seas and a routine bale offload; the scuttling threat is only told, never seen. Duplicates the narco-sub story of -55, which is far stronger.
@@ -52,7 +50,5 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261121-18: Clean, well-cropped 16mm launch footage, but it is the fourth Artemis II liftoff angle in the queue and shows a routine launch with no visible danger.
 - ccf-20261122-01: r3 removed the animation opener and the interview cut-ins, but the real footage is hazy and distant: the liftoff is a speck for 8 seconds and the in-air capsule shots are pale and repetitive. No visible danger at Short scale, and a pad abort already ran as ccf-20261121-16.
 - ccf-20261122-04: Third F/A-18 incentive ride in this batch with the same hook pattern, and the weakest one: the opener is a calm back-seat shot with sky and no visible maneuver. Interchangeable with -05 and -06.
-
-## Changed tonight
-- lane_mix {'rescue': 0.43, 'aviation_naval': 0.47, 'hazards': 0.1} -> {'rescue': 0.4, 'aviation_naval': 0.51, 'hazards': 0.1}
-- query weights for 69 searches
+- ccf-20261122-10: No danger or close call: a photographer's T-38 ride, mostly cockpit selfies and a ladder shot after the opening formation, and nothing on screen backs the 'landed with every camera still rolling' outcome.
+- ccf-20261122-14: Calm record flight with no danger on screen; about ten seconds on the same altimeter dial, and it is the third X-15 Short from the same documentary in this batch.
