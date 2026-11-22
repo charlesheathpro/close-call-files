@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-NASA-Tests-Orion-Spacecraft-Parachute-Jettison-Over-Arizona",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:03:58Z",
   "duration": 466.49,
   "source_file": {
@@ -61,5 +61,6 @@
     393.18,
     422.3,
     451.43
-  ]
+  ],
+  "pass_reason": "Mostly specks over desert from far above; same kind of Orion chute test as dropped ccf-20261121-17."
 }

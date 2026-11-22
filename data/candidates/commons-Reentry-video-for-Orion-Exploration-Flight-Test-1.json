@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Reentry-video-for-Orion-Exploration-Flight-Test-1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:09:24Z",
   "duration": 623.34,
   "source_file": {
@@ -55,5 +55,6 @@
     525.53,
     564.45,
     603.38
-  ]
+  ],
+  "pass_reason": "EFT-1 window reentry already covered by ccf-20261114-91."
 }

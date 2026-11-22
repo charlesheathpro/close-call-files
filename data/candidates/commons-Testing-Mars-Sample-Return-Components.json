@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Testing-Mars-Sample-Return-Components",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:10:38Z",
   "duration": 160.48,
   "source_file": {
@@ -257,5 +257,6 @@
     134.99,
     144.98,
     154.98
-  ]
+  ],
+  "pass_reason": "Lab montage mixed with animation and interviews; no single event."
 }

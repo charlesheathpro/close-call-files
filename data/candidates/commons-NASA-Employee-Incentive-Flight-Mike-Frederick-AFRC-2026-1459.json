@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-NASA-Employee-Incentive-Flight-Mike-Frederick-AFRC-2026-1459",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-15T17:11:16Z",
   "duration": 464.2,
   "source_file": {
@@ -230,5 +230,6 @@
     391.25,
     420.23,
     449.21
-  ]
+  ],
+  "pass_reason": "Second incentive flight after ccf-20261115-53; jet only seen distant from the ground, no cockpit footage."
 }

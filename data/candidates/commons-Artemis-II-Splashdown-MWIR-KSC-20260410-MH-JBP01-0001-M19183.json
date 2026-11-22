@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Artemis-II-Splashdown-MWIR-KSC-20260410-MH-JBP01-0001-M19183",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:40Z",
   "duration": 293.4,
   "source_file": {
@@ -52,5 +52,6 @@
     247.13,
     265.44,
     283.75
-  ]
+  ],
+  "pass_reason": "Commons copy of the thermal splashdown view already passed over: tiny distant capsule, Artemis II return already covered."
 }

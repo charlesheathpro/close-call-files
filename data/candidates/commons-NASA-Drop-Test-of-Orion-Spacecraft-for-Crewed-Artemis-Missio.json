@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-NASA-Drop-Test-of-Orion-Spacecraft-for-Crewed-Artemis-Missio",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:05:48Z",
   "duration": 29.56,
   "source_file": {
@@ -80,5 +80,6 @@
     24.52,
     26.34,
     28.15
-  ]
+  ],
+  "pass_reason": "Same drop test as dropped ccf-20261115-15."
 }

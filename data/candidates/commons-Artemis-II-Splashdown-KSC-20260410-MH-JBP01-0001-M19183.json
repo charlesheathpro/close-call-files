@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Artemis-II-Splashdown-KSC-20260410-MH-JBP01-0001-M19183",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:34Z",
   "duration": 176.93,
   "source_file": {
@@ -51,5 +51,6 @@
     148.87,
     159.89,
     170.92
-  ]
+  ],
+  "pass_reason": "Commons copy of the NASA Artemis II splashdown visual already passed over: slow distant capsule under chutes; Artemis II return already covered by ccf-20261029-01."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2026-14594-MikeFrederick-Incentiveflights-Broll-Final",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-15T17:09:33Z",
   "duration": 464.17,
   "source_file": {
@@ -103,5 +103,6 @@
     391.22,
     420.2,
     449.18
-  ]
+  ],
+  "pass_reason": "Same incentive flight as the Commons copy; distant jet, interchangeable with ccf-20261115-53."
 }

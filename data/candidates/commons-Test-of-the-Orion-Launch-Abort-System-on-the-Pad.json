@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Test-of-the-Orion-Launch-Abort-System-on-the-Pad",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:00:26Z",
   "duration": 64.66,
   "source_file": {
@@ -58,5 +58,6 @@
     54.13,
     58.14,
     62.15
-  ]
+  ],
+  "pass_reason": "640x480 from 2008, before Pad Abort-1 flew (pre-flight animation, same problem as dropped ccf-20261121-16)."
 }

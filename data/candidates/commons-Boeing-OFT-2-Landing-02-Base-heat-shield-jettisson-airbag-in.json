@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Boeing-OFT-2-Landing-02-Base-heat-shield-jettisson-airbag-in",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:04:58Z",
   "duration": 178.13,
   "source_file": {
@@ -52,5 +52,6 @@
     149.88,
     160.98,
     172.08
-  ]
+  ],
+  "pass_reason": "Starliner airbag landing repeats ccf-20261120-08; release has no story beyond the landing."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2021-05-17-A-Bird-s-Eye-View-SLS-Core-Stage-at-Stennis",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:32:15Z",
   "duration": 165.13,
   "source_file": {
@@ -95,5 +95,6 @@
     138.91,
     149.2,
     159.49
-  ]
+  ],
+  "pass_reason": "Green Run hot fire already covered twice (ccf-20261103-30, -1114-89); rest is logistics."
 }

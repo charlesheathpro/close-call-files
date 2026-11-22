@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Astronaut-s-Eye-View-of-NASA-s-Orion-Spacecraft-Re-entry",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:09:45Z",
   "duration": 623.58,
   "source_file": {
@@ -62,5 +62,6 @@
     525.72,
     564.67,
     603.61
-  ]
+  ],
+  "pass_reason": "EFT-1 window reentry already covered by ccf-20261114-91."
 }

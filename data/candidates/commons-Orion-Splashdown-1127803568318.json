@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Orion-Splashdown-1127803568318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:26Z",
   "duration": 323.72,
   "source_file": {
@@ -286,5 +286,6 @@
     272.72,
     292.92,
     313.12
-  ]
+  ],
+  "pass_reason": "Artemis I splashdown already covered by ccf-20261030-11."
 }
