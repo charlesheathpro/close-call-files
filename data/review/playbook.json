@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-22T03:26:07Z",
+  "at": "2026-11-22T10:58:32Z",
   "mature": 184,
   "features": [
     {
@@ -11,6 +11,11 @@
       "feature": "story: three men on a capsized hull in open water, life ring and line to a rescue boat",
       "n": 1,
       "effect": 0.45
+    },
+    {
+      "feature": "story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera",
+      "n": 1,
+      "effect": 0.39
     },
     {
       "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
@@ -33,27 +38,22 @@
       "effect": 0.37
     },
     {
-      "feature": "story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera",
-      "n": 1,
-      "effect": 0.37
-    },
-    {
-      "feature": "story: abandon ship, boat crew pickup",
-      "n": 1,
-      "effect": 0.36
-    },
-    {
-      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
-      "n": 1,
-      "effect": 0.36
-    },
-    {
       "feature": "story: splashdown recovery",
       "n": 1,
       "effect": 0.36
     },
     {
+      "feature": "story: abandon ship, boat crew pickup",
+      "n": 1,
+      "effect": 0.35
+    },
+    {
       "feature": "story: high-altitude jet in a pressure suit",
+      "n": 1,
+      "effect": 0.35
+    },
+    {
+      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
       "n": 1,
       "effect": 0.35
     },
@@ -153,6 +153,16 @@
       "effect": 0.19
     },
     {
+      "feature": "music: aviation",
+      "n": 33,
+      "effect": 0.19
+    },
+    {
+      "feature": "source: nasa",
+      "n": 31,
+      "effect": 0.19
+    },
+    {
       "feature": "spacecraft or test story",
       "n": 23,
       "effect": 0.19
@@ -161,16 +171,6 @@
       "feature": "story: boat swamped in waves, swimmer and basket hoist",
       "n": 1,
       "effect": 0.19
-    },
-    {
-      "feature": "music: aviation",
-      "n": 33,
-      "effect": 0.18
-    },
-    {
-      "feature": "source: nasa",
-      "n": 31,
-      "effect": 0.18
     },
     {
       "feature": "story: helicopter hoist from a cargo ship in twenty-foot swells and gale winds",
@@ -185,7 +185,7 @@
     {
       "feature": "length under 30 s",
       "n": 50,
-      "effect": 0.17
+      "effect": 0.16
     },
     {
       "feature": "story: burning fishing boat, two men in a life raft, cutter small boat pickup",
@@ -240,7 +240,7 @@
     {
       "feature": "story: boat fire rescue",
       "n": 1,
-      "effect": 0.12
+      "effect": 0.11
     },
     {
       "feature": "story: hoist off a famous ocean liner in the winter atlantic",
@@ -298,6 +298,11 @@
       "effect": 0.08
     },
     {
+      "feature": "music: naval",
+      "n": 4,
+      "effect": 0.06
+    },
+    {
       "feature": "story: cruise ship medevac hoist",
       "n": 1,
       "effect": 0.06
@@ -326,11 +331,6 @@
       "feature": "story: surfer stranded on rocks in breaking surf, swimmer lowered onto the rock, hoisted together",
       "n": 1,
       "effect": 0.06
-    },
-    {
-      "feature": "music: naval",
-      "n": 4,
-      "effect": 0.05
     },
     {
       "feature": "story: disabled gambling ship in heavy seas, basket hoist",
@@ -468,11 +468,6 @@
       "effect": -0.0
     },
     {
-      "feature": "story: boat on fire, survivors paddle away in a small inflatable raft, helicopter airlift from the water",
-      "n": 1,
-      "effect": -0.0
-    },
-    {
       "feature": "story: boaters in the water far offshore after a shark attack, search plane spots them, boat crew and helicopter hoist",
       "n": 1,
       "effect": -0.0
@@ -509,6 +504,11 @@
     },
     {
       "feature": "story: boat fire evacuation",
+      "n": 1,
+      "effect": -0.01
+    },
+    {
+      "feature": "story: boat on fire, survivors paddle away in a small inflatable raft, helicopter airlift from the water",
       "n": 1,
       "effect": -0.01
     },
@@ -783,11 +783,6 @@
       "effect": -0.13
     },
     {
-      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
-      "n": 1,
-      "effect": -0.13
-    },
-    {
       "feature": "story: crewed moon rocket liftoff seen from a camera on the capsule",
       "n": 1,
       "effect": -0.13
@@ -801,6 +796,11 @@
       "feature": "story: sinking fishing boat",
       "n": 1,
       "effect": -0.13
+    },
+    {
+      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
+      "n": 1,
+      "effect": -0.14
     },
     {
       "feature": "story: flood hoist from rooftop",
@@ -978,12 +978,12 @@
       "effect": -0.41
     },
     {
-      "feature": "story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews",
+      "feature": "story: record-holding spy jet takeoff",
       "n": 1,
-      "effect": -0.42
+      "effect": -0.41
     },
     {
-      "feature": "story: record-holding spy jet takeoff",
+      "feature": "story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews",
       "n": 1,
       "effect": -0.42
     },
@@ -1000,7 +1000,7 @@
     {
       "feature": "story: historic rocket test stand implosion",
       "n": 1,
-      "effect": -0.49
+      "effect": -0.48
     },
     {
       "feature": "lane: hazards",
@@ -1017,37 +1017,37 @@
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 44420.0,
-      "ret": 83.78,
-      "score": 1.909
+      "views": 44659.0,
+      "ret": 83.77,
+      "score": 1.906
     },
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
       "views": 47521.0,
       "ret": 80.89,
-      "score": 1.798
+      "score": 1.793
     },
     {
       "short_id": "ccf-20261106-51",
       "title": "17-year-old adrift at night, no paddle",
-      "views": 50206.0,
+      "views": 50207.0,
       "ret": 69.7,
-      "score": 1.563
+      "score": 1.558
     },
     {
-      "short_id": "ccf-20261105-41",
-      "title": "Runaway boat circling with no one aboard",
-      "views": 9658.0,
-      "ret": 96.99,
-      "score": 1.513
+      "short_id": "ccf-20261115-53",
+      "title": "Engineer rides an F/A-18 through a loop",
+      "views": 33810.0,
+      "ret": 80.89,
+      "score": 1.552
     },
     {
       "short_id": "ccf-20261115-04",
       "title": "Hanging off a launch pad lightning tower",
-      "views": 3899.0,
-      "ret": 109.65,
-      "score": 1.504
+      "views": 4131.0,
+      "ret": 109.57999999999998,
+      "score": 1.513
     }
   ],
   "bottom": [
@@ -1056,35 +1056,35 @@
       "title": "Florence: 67 people, 12 pets in one day",
       "views": 129.0,
       "ret": 45.16,
-      "score": -1.662
+      "score": -1.661
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 32.0,
       "ret": 64.08,
-      "score": -1.807
+      "score": -1.804
     },
     {
       "short_id": "ccf-20261111-01",
       "title": "Crab boat sank at night off Washington",
       "views": 91.0,
       "ret": 44.32,
-      "score": -1.829
+      "score": -1.828
     },
     {
       "short_id": "ccf-20261108-24",
       "title": "Saturn V test tower comes down",
-      "views": 56.0,
+      "views": 57.0,
       "ret": 48.53,
-      "score": -1.936
+      "score": -1.926
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 13.0,
       "ret": 61.67,
-      "score": -2.229
+      "score": -2.225
     }
   ],
   "query_weights": {
@@ -1153,7 +1153,7 @@
     "editor": 1.19,
     "lightning": 1.25,
     "SR-71": 0.78,
-    "F-15 flight": 1.25,
+    "F-15 flight": 1.26,
     "spacewalk": 0.98,
     "Hurricane Harvey rescue": 1.03,
     "ice rescue": 1.16
@@ -1164,18 +1164,6 @@
     "aviation_naval": 0.13
   },
   "qa_rejections_7d": [
-    {
-      "short_id": "ccf-20261118-01",
-      "notes": "Strong fireball opening, but the crop turns the trainer car into a black slab, the clip is a low-stakes demo with a crowd in the stands, and the source never shows the fire put out, so the last line ends on a cliffhanger. Dropped."
-    },
-    {
-      "short_id": "ccf-20261118-07",
-      "notes": "Clean build and accurate facts, but the footage is a calm test ride: long stretches of a cable over grass and a stationary basket interior, with no danger or human hook on screen. Too close to today's run of NASA Shorts (Starliner, Soyuz, Crew-9, DART, Orion). Dropped."
-    },
-    {
-      "short_id": "ccf-20261119-07",
-      "notes": "Only one launch in the source; lines 2 and 3 play over people standing beside the sled and a man signaling, and the sled in flight is a tiny dot. Routine test with no danger, and a second USS Gerald R. Ford Short in the same batch as -06. Dropped."
-    },
     {
       "short_id": "ccf-20261119-37",
       "notes": "Calm, clear blue water and a routine basket hoist of overdue fishermen; no visible danger, and the boat is cut off the top of the frame around 4 to 6s. Fails the viral bar."
@@ -1223,8 +1211,23 @@
     {
       "short_id": "ccf-20261121-16",
       "notes": "Footage is a CG animation made before the test, presented as the real flight. Dropped."
+    },
+    {
+      "short_id": "ccf-20261121-18",
+      "notes": "Clean, well-cropped 16mm launch footage, but it is the fourth Artemis II liftoff angle in the queue and shows a routine launch with no visible danger."
+    },
+    {
+      "short_id": "ccf-20261122-01",
+      "notes": "r3 removed the animation opener and the interview cut-ins, but the real footage is hazy and distant: the liftoff is a speck for 8 seconds and the in-air capsule shots are pale and repetitive. No visible danger at Short scale, and a pad abort already ran as ccf-20261121-16."
+    },
+    {
+      "short_id": "ccf-20261122-04",
+      "notes": "Third F/A-18 incentive ride in this batch with the same hook pattern, and the weakest one: the opener is a calm back-seat shot with sky and no visible maneuver. Interchangeable with -05 and -06."
     }
   ],
-  "config_changed_at": "2026-11-21T10:50:18Z",
-  "changed": []
+  "config_changed_at": "2026-11-22T10:58:32Z",
+  "changed": [
+    "lane_mix {'rescue': 0.43, 'aviation_naval': 0.47, 'hazards': 0.1} -> {'rescue': 0.4, 'aviation_naval': 0.51, 'hazards': 0.1}",
+    "query weights for 69 searches"
+  ]
 }
