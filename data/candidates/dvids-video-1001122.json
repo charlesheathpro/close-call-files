@@ -13,7 +13,7 @@
   "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
   "id": "dvids-video-1001122",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-19T09:00:22Z",
   "duration": 49.95,
   "source_file": {
@@ -55,5 +55,6 @@
     44.81,
     47.9
   ],
-  "pass_reason": "Night thermal again (09 today), thin release; revisit another day"
+  "pass_reason": "Night thermal again (09 today), thin release; revisit another day",
+  "used_by": "ccf-20261121-20"
 }
