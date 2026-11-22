@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-19",
-  "revision": 1,
+  "revision": 2,
   "candidate_id": "dvids-video-859395",
   "lane": "aviation_naval",
   "story_type": "rocket launcher flown in by cargo plane, drives to the range and fires",
@@ -10,10 +10,10 @@
     "This rocket launcher rolled off a cargo plane, then drove out and opened fire.",
     "An Air Force MC-130J landed at the Vidsel Test Range in northern Sweden in September, twenty twenty two.",
     "Inside was an M142 HIMARS, a rocket launcher built on a truck.",
-    "This is called rapid infiltration. A plane drops the launcher close to its targets, so it can fire and move before anyone finds it.",
+    "This is called rapid infiltration. A plane lands the launcher close to its targets, so it can fire and move before anyone finds it.",
     "Swedish soldiers escorted the American crew to the firing point.",
     "The crew ran their final checks, and the launch pod swung up.",
-    "Then the first rocket tore out of the pod in a wall of smoke. [short pause]",
+    "Then a rocket tore out of the pod in a wall of smoke. [short pause]",
     "From across the range, each one climbed straight out of its own cloud."
   ],
   "outcome": "The crew finished the live fire and drove the launcher off the range.",
@@ -51,7 +51,7 @@
     },
     {
       "claim": "Live fire at Vidsel Test Range",
-      "source_quote": "live-fire exercise\u2014at Vidsel Test Range, Sweden, Sep. 27, 2022"
+      "source_quote": "live-fire exercise—at Vidsel Test Range, Sweden, Sep. 27, 2022"
     },
     {
       "claim": "Final checks, launch, then the launcher left the range",
@@ -61,16 +61,16 @@
   "line_shots": [
     [
       {
-        "start": 257.3,
-        "end": 260.3,
+        "start": 236.7,
+        "end": 239.3,
         "layout": "crop",
         "crop_x": 0.15
       },
       {
-        "start": 236.8,
-        "end": 239.8,
+        "start": 192.0,
+        "end": 194.6,
         "layout": "crop",
-        "crop_x": 0.25
+        "crop_x": 0.5
       }
     ],
     [
@@ -169,22 +169,16 @@
     ],
     [
       {
-        "start": 186.0,
-        "end": 189.0,
-        "layout": "crop",
-        "crop_x": 0.1
-      },
-      {
-        "start": 203.0,
-        "end": 206.0,
-        "layout": "crop",
-        "crop_x": 0.25
-      },
-      {
-        "start": 219.0,
-        "end": 222.0,
+        "start": 243.8,
+        "end": 246.4,
         "layout": "crop",
         "crop_x": 0.2
+      },
+      {
+        "start": 257.4,
+        "end": 260.0,
+        "layout": "crop",
+        "crop_x": 0.15
       }
     ],
     [
@@ -209,22 +203,16 @@
     ],
     [
       {
-        "start": 293.0,
-        "end": 296.0,
+        "start": 308.5,
+        "end": 311.8,
         "layout": "crop",
-        "crop_x": 0.25
+        "crop_x": 0.5
       },
       {
-        "start": 309.0,
-        "end": 312.0,
+        "start": 298.0,
+        "end": 301.0,
         "layout": "crop",
-        "crop_x": 0.7
-      },
-      {
-        "start": 253.8,
-        "end": 257.1,
-        "layout": "crop",
-        "crop_x": 0.15
+        "crop_x": 0.1
       }
     ]
   ]

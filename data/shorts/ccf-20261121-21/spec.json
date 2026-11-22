@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261121-21",
-  "revision": 3,
+  "revision": 4,
   "candidate_id": "commons-Videosmarsldsd20140808LDSDhighdef20140808-1280",
   "lane": "aviation_naval",
   "story_type": "Mars landing test: balloon drop, rocket to Mach 4, supersonic parachute tears apart",
@@ -61,50 +61,44 @@
   "line_shots": [
     [
       {
-        "start": 104.0,
-        "end": 107.0,
+        "start": 102.0,
+        "end": 105.5,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 110.5,
-        "end": 113.5,
+        "start": 108.7,
+        "end": 112.2,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 14.0,
-        "end": 17.0,
+        "start": 11.8,
+        "end": 15.4,
         "layout": "crop",
         "crop_x": 0.5
       },
-      {
-        "start": 4.4,
-        "end": 7.2,
-        "layout": "crop",
-        "crop_x": 0.5
-      },
-      {
-        "start": 20.6,
-        "end": 23.6,
-        "layout": "crop",
-        "crop_x": 0.5
-      }
-    ],
-    [
       {
         "start": 17.0,
-        "end": 20.4,
+        "end": 20.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 22.7,
+        "end": 25.9,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 24.0,
-        "end": 27.0,
+        "start": 26.0,
+        "end": 28.6,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       }
     ],
     [
@@ -129,20 +123,20 @@
     ],
     [
       {
-        "start": 27.5,
-        "end": 31.5,
-        "layout": "crop",
-        "crop_x": 0.6
-      },
-      {
         "start": 52.0,
         "end": 55.0,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 60.0,
-        "end": 62.3,
+        "start": 28.6,
+        "end": 31.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 59.9,
+        "end": 62.4,
         "layout": "crop",
         "crop_x": 0.6
       }
@@ -163,14 +157,20 @@
     ],
     [
       {
-        "start": 77.0,
-        "end": 80.0,
+        "start": 82.5,
+        "end": 85.0,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 80.5,
-        "end": 83.4,
+        "start": 85.1,
+        "end": 87.45,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 87.5,
+        "end": 89.9,
         "layout": "crop",
         "crop_x": 0.5
       }
@@ -183,25 +183,26 @@
         "crop_x": 0.5
       },
       {
-        "start": 113.5,
-        "end": 117.0,
+        "start": 99.0,
+        "end": 102.0,
         "layout": "crop",
         "crop_x": 0.5
       }
     ],
     [
       {
-        "start": 107.2,
-        "end": 110.4,
+        "start": 105.5,
+        "end": 108.7,
         "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 100.8,
-        "end": 103.9,
+        "start": 112.2,
+        "end": 115.9,
         "layout": "crop",
         "crop_x": 0.5
       }
     ]
-  ]
+  ],
+  "preview_ok": "r4: DARK/EMPTY flags are the black background of the high speed parachute camera; the chute is in frame in every shot. Removed the burned-in 'Voice of' and ballute captions and the black frame at 116s."
 }
