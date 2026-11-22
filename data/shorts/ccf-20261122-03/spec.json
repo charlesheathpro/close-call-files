@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261122-03",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "commons-M2-F2-drop-from-NB-52A-mothership",
   "lane": "aviation_naval",
   "story_type": "wingless research plane dropped from a B-52, glides to a lakebed landing",
@@ -60,13 +60,13 @@
   "line_shots": [
     [
       {
-        "start": 0.2,
-        "end": 2.9,
+        "start": 1.1,
+        "end": 3.6,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.5
       },
       {
-        "start": 3.0,
+        "start": 3.7,
         "end": 5.6,
         "layout": "crop",
         "crop_x": 0.45
@@ -103,13 +103,13 @@
         "start": 15.9,
         "end": 18.1,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.75
       },
       {
         "start": 18.2,
         "end": 20.3,
         "layout": "crop",
-        "crop_x": 0.6
+        "crop_x": 0.75
       }
     ],
     [
@@ -117,13 +117,13 @@
         "start": 20.3,
         "end": 22.6,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.75
       },
       {
         "start": 22.7,
         "end": 24.8,
         "layout": "crop",
-        "crop_x": 0.55
+        "crop_x": 0.75
       }
     ],
     [
