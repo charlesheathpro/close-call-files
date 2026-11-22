@@ -1,0 +1,144 @@
+{
+  "short_id": "ccf-20261122-03",
+  "revision": 1,
+  "candidate_id": "commons-M2-F2-drop-from-NB-52A-mothership",
+  "lane": "aviation_naval",
+  "story_type": "wingless research plane dropped from a B-52, glides to a lakebed landing",
+  "music_mood": "aviation",
+  "priority": 5,
+  "hook": "This plane has no wings. NASA dropped it from a B-52.",
+  "narration": [
+    "This plane has no wings, and it was just dropped from a B-52.",
+    "It is NASA's M2-F2, a lifting body, over California in nineteen sixty six.",
+    "The shape of its body makes the lift. The same idea later helped shape the space shuttle.",
+    "On its first flight it fell away at forty five thousand feet, with one chance at the landing."
+  ],
+  "outcome": "The M2-F2 glided all the way down and landed on the dry lakebed at Edwards.",
+  "location_card": {
+    "place": "Edwards Air Force Base, California",
+    "date": "1966"
+  },
+  "keep_source_audio": false,
+  "title": "Wingless plane dropped from a B-52",
+  "description": "In 1966, NASA's M2-F2 lifting body, a research aircraft with no wings, was drop-launched from a B-52 mothership over California and glided back to a landing on the dry lakebed at Edwards Air Force Base.\n\nFootage: NASA Dryden Flight Research Center video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:M2-F2_drop_from_NB-52A_mothership.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #nasa #aviation #history",
+  "tags": [
+    "m2-f2",
+    "lifting body",
+    "nasa",
+    "b-52",
+    "edwards air force base",
+    "test pilot",
+    "space shuttle",
+    "aviation history",
+    "real footage"
+  ],
+  "question_comment": "Would you fly something with no wings and no second chance at the landing?",
+  "facts": [
+    {
+      "claim": "The M2-F2 was drop-launched from the NB-52A mothership",
+      "source_quote": "This 32 second movie clip shows the M2-F2 drop from the NB-52A mothership."
+    },
+    {
+      "claim": "Lifting bodies were drop-launched from a B-52 and glided back to wheeled landings on the dry lake at Edwards; they influenced the Space Shuttle",
+      "source_quote": "The vehicles were then drop-launched and, at the end of their flights, glided back to wheeled landings on the dry lake or runway at Edwards AFB. The lifting body designs influenced the design of the Space Shuttle"
+    },
+    {
+      "claim": "First flight July 12, 1966, dropped at 45,000 feet",
+      "source_quote": "Thompson was dropped from the B-52's wing pylon mount at an altitude of 45,000 feet on that maiden glide flight."
+    }
+  ],
+  "extra_sources": [
+    {
+      "url": "https://images.nasa.gov/details/ECN-1146",
+      "excerpt": "The M2-F2 and the other lifting-body designs were all attached to a wing pylon on NASA’s B-52 mothership and carried aloft. The vehicles were then drop-launched and, at the end of their flights, glided back to wheeled landings on the dry lake or runway at Edwards AFB. The lifting body designs influenced the design of the Space Shuttle and were also reincarnated in the design of the X-38 in the 1990s."
+    },
+    {
+      "url": "https://images.nasa.gov/details/ECN-1088",
+      "excerpt": "Milt Thompson was the pilot. By then, the same B-52 used to air launch the famed X-15 rocket research aircraft was modified to also carry the lifting bodies. Thompson was dropped from the B-52's wing pylon mount at an altitude of 45,000 feet on that maiden glide flight."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 0.2,
+        "end": 2.9,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 3.0,
+        "end": 5.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 5.7,
+        "end": 8.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 9.0,
+        "end": 11.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 11.8,
+        "end": 14.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 14.6,
+        "end": 17.2,
+        "layout": "crop",
+        "crop_x": 0.65
+      },
+      {
+        "start": 17.4,
+        "end": 19.6,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 19.8,
+        "end": 22.2,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 22.4,
+        "end": 24.6,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 24.8,
+        "end": 27.2,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 27.4,
+        "end": 29.8,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 30.0,
+        "end": 32.4,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ]
+  ]
+}

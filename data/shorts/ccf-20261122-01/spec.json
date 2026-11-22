@@ -1,0 +1,185 @@
+{
+  "short_id": "ccf-20261122-01",
+  "revision": 1,
+  "candidate_id": "commons-SpaceX-Crew-Dragon-Conducts-Unique-Flight-Test-dsg6WR4BWhw",
+  "lane": "aviation_naval",
+  "story_type": "pad abort test, capsule escapes from the launch pad",
+  "music_mood": "aviation",
+  "priority": 5,
+  "hook": "Eight engines fired at once and threw this capsule off the pad.",
+  "narration": [
+    "Eight rocket engines fired at once and threw this capsule off the launch pad.",
+    "This was SpaceX's Crew Dragon on May sixth, twenty fifteen, at Cape Canaveral in Florida.",
+    "There was no rocket under it. It sat on a specially built platform, and the escape itself was the test.",
+    "If a rocket ever fails on the pad, this is what gets the crew away. The capsule has to leave on its own, fast.",
+    "The engines fired for about six seconds, each one pushing with about fifteen thousand pounds of thrust.",
+    "That lifted it out over the Atlantic, where it dropped its trunk as planned.",
+    "[short pause] Then the parachutes opened."
+  ],
+  "outcome": "Crew Dragon parachuted safely into the ocean, and the escape system had worked.",
+  "location_card": {
+    "place": "Cape Canaveral, Florida",
+    "date": "May 6, 2015"
+  },
+  "keep_source_audio": true,
+  "title": "Crew capsule blasts off its own pad",
+  "description": "On May 6, 2015, SpaceX fired the eight SuperDraco engines on a Crew Dragon from a platform at Cape Canaveral, Florida, to prove a crew could escape a failing rocket on the pad. The capsule parachuted safely into the Atlantic.\n\nFootage: NASA Kennedy Space Center video, via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:SpaceX_Crew_Dragon_Conducts_Unique_Flight_Test_dsg6WR4BWhw.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #spacex #nasa #rocket",
+  "tags": [
+    "spacex",
+    "crew dragon",
+    "pad abort",
+    "launch escape",
+    "superdraco",
+    "nasa",
+    "cape canaveral",
+    "rocket",
+    "real footage"
+  ],
+  "question_comment": "Would you sit in a capsule knowing it might have to do this?",
+  "facts": [
+    {
+      "claim": "Eight SuperDraco engines fired together; capsule left a specially built platform at Cape Canaveral SLC-40 on May 6",
+      "source_quote": "SpaceX's Crew Dragon fired its eight Super Draco engines in unison at 9 a.m. Eastern, and left off a specially built platform at Cape Canaveral Air Force Station Space Launch Complex 40 on May 6."
+    },
+    {
+      "claim": "Engines fired about six seconds at about 15,000 pounds of thrust each",
+      "source_quote": "The engines fired for about six seconds, instantly producing about 15,000 pounds of thrust each and lifting the spacecraft over the Atlantic before jettisoning its trunk as planned and parachuting safely into the ocean."
+    },
+    {
+      "claim": "Successful demonstration of the abort system",
+      "source_quote": "billowing parachutes marked a successful demonstration Wednesday by SpaceX of its Crew Dragon spacecraft abort system"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 100.0,
+        "end": 102.6,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 102.8,
+        "end": 105.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      }
+    ],
+    [
+      {
+        "start": 9.5,
+        "end": 12.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 13.0,
+        "end": 15.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 17.6,
+        "end": 20.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 20.4,
+        "end": 23.0,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 23.2,
+        "end": 25.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 26.0,
+        "end": 28.6,
+        "layout": "crop",
+        "crop_x": 0.62
+      },
+      {
+        "start": 28.8,
+        "end": 31.4,
+        "layout": "crop",
+        "crop_x": 0.55
+      },
+      {
+        "start": 31.6,
+        "end": 34.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 34.4,
+        "end": 37.0,
+        "layout": "crop",
+        "crop_x": 0.45
+      },
+      {
+        "start": 37.2,
+        "end": 39.8,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 40.0,
+        "end": 42.6,
+        "layout": "crop",
+        "crop_x": 0.42
+      },
+      {
+        "start": 42.8,
+        "end": 45.4,
+        "layout": "crop",
+        "crop_x": 0.45
+      }
+    ],
+    [
+      {
+        "start": 54.2,
+        "end": 56.8,
+        "layout": "crop",
+        "crop_x": 0.58
+      },
+      {
+        "start": 57.0,
+        "end": 59.6,
+        "layout": "crop",
+        "crop_x": 0.58
+      }
+    ],
+    [
+      {
+        "start": 74.0,
+        "end": 76.6,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 76.8,
+        "end": 79.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 79.6,
+        "end": 82.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}

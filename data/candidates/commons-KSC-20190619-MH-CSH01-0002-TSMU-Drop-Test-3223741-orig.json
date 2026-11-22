@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-KSC-20190619-MH-CSH01-0002-TSMU-Drop-Test-3223741-orig",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:05:54Z",
   "duration": 52.46,
   "source_file": {
@@ -61,5 +61,6 @@
     43.84,
     47.09,
     50.34
-  ]
+  ],
+  "pass_reason": "Slow umbilical mechanism test inside a building; nothing big or dangerous on screen"
 }

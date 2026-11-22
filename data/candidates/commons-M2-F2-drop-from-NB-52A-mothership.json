@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-M2-F2-drop-from-NB-52A-mothership",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-22T01:26:17Z",
   "duration": 32.6,
   "source_file": {
@@ -55,5 +55,6 @@
     27.08,
     29.09,
     31.1
-  ]
+  ],
+  "used_by": "ccf-20261122-03"
 }

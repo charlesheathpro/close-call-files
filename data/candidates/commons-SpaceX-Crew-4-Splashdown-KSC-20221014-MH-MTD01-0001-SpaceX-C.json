@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SpaceX-Crew-4-Splashdown-KSC-20221014-MH-MTD01-0001-SpaceX-C",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:16Z",
   "duration": 37.0,
   "source_file": {
@@ -58,5 +58,6 @@
     30.8,
     33.08,
     35.36
-  ]
+  ],
+  "pass_reason": "Calm parachute descent, splashdowns saturated (Demo-2, Crew-9, Orion, Soyuz)"
 }
