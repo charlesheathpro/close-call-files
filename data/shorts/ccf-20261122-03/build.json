@@ -1,7 +1,417 @@
 {
   "short_id": "ccf-20261122-03",
-  "revision": 1,
-  "status": "error",
-  "built_at": "2026-11-22T08:58:18Z",
-  "error": "line 2: shots are 2.7, 6.1s even after extending, but the line needs 6.7s; give that line longer or more shots"
+  "revision": 2,
+  "status": "ok",
+  "built_at": "2026-11-22T09:06:32Z",
+  "duration": 24.65,
+  "source_resolution": "640x480",
+  "timeline": [
+    {
+      "text": "This plane has no wings, and it was just dropped from a B-52.",
+      "start": 0.05,
+      "end": 4.69,
+      "words": [
+        {
+          "w": "This",
+          "s": 0.05,
+          "e": 0.29
+        },
+        {
+          "w": "plane",
+          "s": 0.37,
+          "e": 0.61
+        },
+        {
+          "w": "has",
+          "s": 0.69,
+          "e": 0.93
+        },
+        {
+          "w": "no",
+          "s": 1.01,
+          "e": 1.17
+        },
+        {
+          "w": "wings,",
+          "s": 1.25,
+          "e": 1.97
+        },
+        {
+          "w": "and",
+          "s": 2.05,
+          "e": 2.13
+        },
+        {
+          "w": "it",
+          "s": 2.17,
+          "e": 2.25
+        },
+        {
+          "w": "was",
+          "s": 2.33,
+          "e": 2.45
+        },
+        {
+          "w": "just",
+          "s": 2.53,
+          "e": 2.77
+        },
+        {
+          "w": "dropped",
+          "s": 2.85,
+          "e": 3.09
+        },
+        {
+          "w": "from",
+          "s": 3.17,
+          "e": 3.25
+        },
+        {
+          "w": "a",
+          "s": 3.29,
+          "e": 3.37
+        },
+        {
+          "w": "B-52.",
+          "s": 3.41,
+          "e": 4.69
+        }
+      ]
+    },
+    {
+      "text": "It is NASA's M2-F2, over California in nineteen sixty six.",
+      "start": 4.77,
+      "end": 10.13,
+      "words": [
+        {
+          "w": "It",
+          "s": 4.77,
+          "e": 4.85
+        },
+        {
+          "w": "is",
+          "s": 4.93,
+          "e": 5.01
+        },
+        {
+          "w": "NASA's",
+          "s": 5.09,
+          "e": 5.73
+        },
+        {
+          "w": "M2-F2,",
+          "s": 5.81,
+          "e": 7.09
+        },
+        {
+          "w": "over",
+          "s": 7.17,
+          "e": 7.41
+        },
+        {
+          "w": "California",
+          "s": 7.77,
+          "e": 8.13
+        },
+        {
+          "w": "in",
+          "s": 8.21,
+          "e": 8.37
+        },
+        {
+          "w": "nineteen",
+          "s": 8.45,
+          "e": 8.77
+        },
+        {
+          "w": "sixty",
+          "s": 8.85,
+          "e": 9.17
+        },
+        {
+          "w": "six.",
+          "s": 9.25,
+          "e": 10.13
+        }
+      ]
+    },
+    {
+      "text": "Its body shape makes the lift. The same idea later helped shape the space shuttle.",
+      "start": 10.21,
+      "end": 15.25,
+      "words": [
+        {
+          "w": "Its",
+          "s": 10.21,
+          "e": 10.45
+        },
+        {
+          "w": "body",
+          "s": 10.61,
+          "e": 10.77
+        },
+        {
+          "w": "shape",
+          "s": 10.85,
+          "e": 11.09
+        },
+        {
+          "w": "makes",
+          "s": 11.17,
+          "e": 11.33
+        },
+        {
+          "w": "the",
+          "s": 11.41,
+          "e": 11.49
+        },
+        {
+          "w": "lift.",
+          "s": 11.49,
+          "e": 12.37
+        },
+        {
+          "w": "The",
+          "s": 12.45,
+          "e": 12.53
+        },
+        {
+          "w": "same",
+          "s": 12.65,
+          "e": 12.77
+        },
+        {
+          "w": "idea",
+          "s": 12.85,
+          "e": 13.25
+        },
+        {
+          "w": "later",
+          "s": 13.37,
+          "e": 13.49
+        },
+        {
+          "w": "helped",
+          "s": 13.57,
+          "e": 13.81
+        },
+        {
+          "w": "shape",
+          "s": 13.93,
+          "e": 14.05
+        },
+        {
+          "w": "the",
+          "s": 14.09,
+          "e": 14.17
+        },
+        {
+          "w": "space",
+          "s": 14.29,
+          "e": 14.45
+        },
+        {
+          "w": "shuttle.",
+          "s": 14.49,
+          "e": 15.25
+        }
+      ]
+    },
+    {
+      "text": "On its first flight, it fell away at forty five thousand feet.",
+      "start": 15.33,
+      "end": 19.09,
+      "words": [
+        {
+          "w": "On",
+          "s": 15.33,
+          "e": 15.41
+        },
+        {
+          "w": "its",
+          "s": 15.53,
+          "e": 15.65
+        },
+        {
+          "w": "first",
+          "s": 15.77,
+          "e": 15.89
+        },
+        {
+          "w": "flight,",
+          "s": 15.97,
+          "e": 16.45
+        },
+        {
+          "w": "it",
+          "s": 16.57,
+          "e": 16.69
+        },
+        {
+          "w": "fell",
+          "s": 16.77,
+          "e": 16.85
+        },
+        {
+          "w": "away",
+          "s": 16.93,
+          "e": 17.17
+        },
+        {
+          "w": "at",
+          "s": 17.25,
+          "e": 17.33
+        },
+        {
+          "w": "forty",
+          "s": 17.41,
+          "e": 17.61
+        },
+        {
+          "w": "five",
+          "s": 17.65,
+          "e": 17.81
+        },
+        {
+          "w": "thousand",
+          "s": 17.89,
+          "e": 18.21
+        },
+        {
+          "w": "feet.",
+          "s": 18.29,
+          "e": 19.09
+        }
+      ]
+    },
+    {
+      "text": "The M2-F2 glided all the way down and landed on the dry lakebed at Edwards.",
+      "start": 19.17,
+      "end": 24.45,
+      "words": [
+        {
+          "w": "The",
+          "s": 19.17,
+          "e": 19.25
+        },
+        {
+          "w": "M2-F2",
+          "s": 19.41,
+          "e": 20.37
+        },
+        {
+          "w": "glided",
+          "s": 20.53,
+          "e": 20.93
+        },
+        {
+          "w": "all",
+          "s": 21.01,
+          "e": 21.17
+        },
+        {
+          "w": "the",
+          "s": 21.25,
+          "e": 21.33
+        },
+        {
+          "w": "way",
+          "s": 21.33,
+          "e": 21.41
+        },
+        {
+          "w": "down",
+          "s": 21.49,
+          "e": 21.89
+        },
+        {
+          "w": "and",
+          "s": 22.05,
+          "e": 22.21
+        },
+        {
+          "w": "landed",
+          "s": 22.33,
+          "e": 22.53
+        },
+        {
+          "w": "on",
+          "s": 22.61,
+          "e": 22.69
+        },
+        {
+          "w": "the",
+          "s": 22.69,
+          "e": 22.77
+        },
+        {
+          "w": "dry",
+          "s": 22.89,
+          "e": 23.01
+        },
+        {
+          "w": "lakebed",
+          "s": 23.09,
+          "e": 23.49
+        },
+        {
+          "w": "at",
+          "s": 23.57,
+          "e": 23.65
+        },
+        {
+          "w": "Edwards.",
+          "s": 23.73,
+          "e": 24.45
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 24.67
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.016
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.0
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.4
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261122-03/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261122-03-r2.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261122-03/ccf-20261122-03.mp4"
 }
