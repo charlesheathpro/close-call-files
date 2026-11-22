@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-21T22:14:58Z",
+  "at": "2026-11-22T02:16:00Z",
   "healthy": true,
   "numbers": {
     "dropped": 96,
@@ -7,12 +7,12 @@
     "passed": 122,
     "needs_qa": 0,
     "needs_build": 0,
-    "scheduled_next_48h": 14,
+    "scheduled_next_48h": 12,
     "upcoming_by_mt_day": {
-      "2026-11-21": 3,
+      "2026-11-21": 1,
       "2026-11-22": 10,
       "2026-11-23": 1
     }
   },
-  "notes": "Nov 22 has 10 scheduled. Nov 23 gap (1) is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z; 122 passed Shorts are waiting, so upload runs fill it once the cap lifts and no editor pass is needed. Upload run 22:06Z, harvest 17:24Z (DVIDS blocked, Commons working), stats today, no build errors, no auth alerts. QA: passed 21-15 r4, dropped 21-16 (pre-flight CG animation)."
+  "notes": "Nov 21 and Nov 22 each have 10 scheduled. Nov 23 gap (1) is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z; 122 passed Shorts are waiting, so the next upload run fills it once the cap lifts and no editor pass is needed. Upload run 01:06Z, harvest 01:30Z (DVIDS still blocked, Commons working, 14 new candidates), stats Nov 21, no build errors, no auth alerts. QA: nothing in needs_qa."
 }
