@@ -1,0 +1,100 @@
+{
+ "asset_id": "nasa:FEELING LIKE AN ASTRONAUT_Mp4.mp4",
+ "source": "nasa",
+ "lane": "aviation_naval",
+ "matched_query": "incentive flight",
+ "title": "FEELING LIKE AN ASTRONAUT_Mp4",
+ "description": "Ever wondered what it's like to fly backseat in a NASA T-38? NASA photographer Josh Valcarcel takes you behind-the-scenes to show his perspective riding with NASA astronauts to NASA's Kennedy Space Center in Florida to check out Artemis I on the launch pad.",
+ "keywords": "Artemis, NASA, Launch, T38, Aviation, Space",
+ "date": "2022-09-06T00:00:00Z",
+ "branch": "NASA",
+ "unit_name": "NASA JSC",
+ "credit": "NASA JSC video",
+ "page_url": "https://images.nasa.gov/details/FEELING%20LIKE%20AN%20ASTRONAUT_Mp4.mp4",
+ "via": "the NASA Image and Video Library",
+ "license": "Public domain (NASA work, U.S. government)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "nasa-FEELING-LIKE-AN-ASTRONAUT-Mp4-mp4",
+ "status": "used",
+ "harvested_at": "2026-11-22T12:47:50Z",
+ "duration": 96.94,
+ "source_file": {
+  "src": "https://images-assets.nasa.gov/video/FEELING%20LIKE%20AN%20ASTRONAUT_Mp4.mp4/FEELING%20LIKE%20AN%20ASTRONAUT_Mp4.mp4~orig.mp4",
+  "width": 1920,
+  "height": 1080,
+  "duration": 96.930167
+ },
+ "transcript_source": "captions",
+ "transcript": [
+  {
+   "s": 1.0,
+   "e": 30.0,
+   "text": "[Music]"
+  }
+ ],
+ "scene_cuts": [
+  18.37,
+  21.6,
+  24.73,
+  28.0,
+  28.5,
+  28.67,
+  29.0,
+  29.5,
+  29.67,
+  30.0,
+  30.5,
+  31.17,
+  34.4,
+  40.73,
+  43.83,
+  47.1,
+  50.3,
+  56.63,
+  59.8,
+  62.97,
+  66.27,
+  69.43,
+  72.6,
+  75.67,
+  76.67,
+  79.03,
+  80.63,
+  82.23,
+  83.83,
+  85.43,
+  88.63
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   91.4
+  ],
+  "silence_ends": [
+   15.2,
+   97.0
+  ]
+ },
+ "sheet": "data/candidates/nasa-FEELING-LIKE-AN-ASTRONAUT-Mp4-mp4.jpg",
+ "sheet_times": [
+  3.01,
+  9.04,
+  15.07,
+  21.1,
+  27.12,
+  33.15,
+  39.18,
+  45.21,
+  51.23,
+  57.26,
+  63.29,
+  69.31,
+  75.34,
+  81.37,
+  87.4,
+  93.42
+ ],
+ "used_by": "ccf-20261122-10"
+}

@@ -1,85 +1,85 @@
 {
-  "asset_id": "video:771333",
-  "source": "dvids",
-  "lane": "aviation_naval",
-  "matched_query": "hand",
-  "title": "Flight Test Patriot Weapon System (FTP)-27 Video",
-  "description": "The Missile Defense Agency, U.S. Army Program Executive Office Missiles and Space, and U.S. Army Space and Missile Defense Command successfully conducted a test of the Patriot and Terminal High Altitude Area Defense (THAAD) weapon systems from White Sands Missile Range, New Mexico. The test, designated Flight Test Patriot Weapon System (FTP)-27, consisted of two events which took place on February 20, 2020 and October 1, 2020.",
-  "keywords": "",
-  "date": "10.01.2020",
-  "branch": "",
-  "unit_name": "Missile Defense Agency",
-  "credit": "Stacy Swanson Domangue",
-  "page_url": "https://www.dvidshub.net/video/771333/flight-test-patriot-weapon-system-ftp-27-video",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "location": {
-    "text": "US"
-  },
-  "time_start": 0.0,
-  "id": "dvids-video-771333",
-  "status": "passed_over",
-  "harvested_at": "2026-11-19T17:04:20Z",
-  "duration": 113.96,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2010/DOD_108044209/DOD_108044209-1024x576-1769k.mp4",
-    "width": 1024,
-    "height": 576
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    20.89,
-    28.56,
-    28.63,
-    28.66,
-    33.8,
-    38.67,
-    54.59,
-    55.59,
-    74.51,
-    75.51,
-    84.28,
-    85.29,
-    97.9,
-    102.87,
-    109.01
+ "asset_id": "video:771333",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "Flight Test Patriot Weapon System (FTP)-27 Video",
+ "description": "The Missile Defense Agency, U.S. Army Program Executive Office Missiles and Space, and U.S. Army Space and Missile Defense Command successfully conducted a test of the Patriot and Terminal High Altitude Area Defense (THAAD) weapon systems from White Sands Missile Range, New Mexico. The test, designated Flight Test Patriot Weapon System (FTP)-27, consisted of two events which took place on February 20, 2020 and October 1, 2020.",
+ "keywords": "",
+ "date": "10.01.2020",
+ "branch": "",
+ "unit_name": "Missile Defense Agency",
+ "credit": "Stacy Swanson Domangue",
+ "page_url": "https://www.dvidshub.net/video/771333/flight-test-patriot-weapon-system-ftp-27-video",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "location": {
+  "text": "US"
+ },
+ "time_start": 0.0,
+ "id": "dvids-video-771333",
+ "status": "passed_over",
+ "harvested_at": "2026-11-19T17:04:20Z",
+ "duration": 113.96,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2010/DOD_108044209/DOD_108044209-1024x576-1769k.mp4",
+  "width": 1024,
+  "height": 576
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  20.89,
+  28.56,
+  28.63,
+  28.66,
+  33.8,
+  38.67,
+  54.59,
+  55.59,
+  74.51,
+  75.51,
+  84.28,
+  85.29,
+  97.9,
+  102.87,
+  109.01
+ ],
+ "drama_score": 67,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   21.9,
+   33.8,
+   108.2,
+   108.8
   ],
-  "drama_score": 67,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      21.9,
-      33.8,
-      108.2,
-      108.8
-    ],
-    "silence_ends": [
-      21.9,
-      22.6,
-      102.9,
-      108.8,
-      114.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-771333.jpg",
-  "sheet_times": [
-    3.55,
-    10.64,
-    17.73,
-    24.82,
-    31.91,
-    39.0,
-    46.09,
-    53.19,
-    60.28,
-    67.37,
-    74.46,
-    81.55,
-    88.64,
-    95.73,
-    102.82,
-    109.92
-  ],
-  "pass_reason": "Patriot/THAAD test with a vague release; same family as ccf-20261119-27 today, revisit"
+  "silence_ends": [
+   21.9,
+   22.6,
+   102.9,
+   108.8,
+   114.0
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-771333.jpg",
+ "sheet_times": [
+  3.55,
+  10.64,
+  17.73,
+  24.82,
+  31.91,
+  39.0,
+  46.09,
+  53.19,
+  60.28,
+  67.37,
+  74.46,
+  81.55,
+  88.64,
+  95.73,
+  102.82,
+  109.92
+ ],
+ "pass_reason": "Title cards, vague release, intercept shown only as a text card; Patriot already ran (19-27)"
 }

@@ -1,60 +1,61 @@
 {
-  "asset_id": "commons:File:Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity (ipex-lunar-g-flight).webm",
-  "source": "commons",
-  "lane": "aviation_naval",
-  "matched_query": "X-15 flight",
-  "title": "Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity (ipex-lunar-g-flight)",
-  "description": "Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity.",
-  "keywords": "PD NASA, New Shepard, Uploaded with video2commons, Video display resolution 1920 x 1080, NASA videos in 2025, NASA Website files uploaded by OptimusPrimeBot",
-  "date": "2025-04-15",
-  "branch": "",
-  "unit_name": "NASA",
-  "credit": "NASA video",
-  "original_source": "ipex-lunar-g-flight",
-  "page_url": "https://commons.wikimedia.org/wiki/File:Video_collected_during_the_NS-29_flight_of_regolith_simulant_flowing_through_a_bucket_drum_in_earth_gravity_and_simulated_lunar_gravity_(ipex-lunar-g-flight).webm",
-  "via": "Wikimedia Commons",
-  "license": "Public domain (U.S. federal government work)",
-  "location": {},
-  "time_start": 0.0,
-  "id": "commons-Video-collected-during-the-NS-29-flight-of-regolith-simulant",
-  "status": "new",
-  "harvested_at": "2026-11-15T17:11:59Z",
-  "duration": 43.14,
-  "source_file": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Video_collected_during_the_NS-29_flight_of_regolith_simulant_flowing_through_a_bucket_drum_in_earth_gravity_and_simulated_lunar_gravity_%28ipex-lunar-g-flight%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "width": 1920,
-    "height": 1080,
-    "size": 12984938
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      43.2
-    ]
-  },
-  "sheet": "data/candidates/commons-Video-collected-during-the-NS-29-flight-of-regolith-simulant.jpg",
-  "sheet_times": [
-    1.33,
-    4.0,
-    6.66,
-    9.33,
-    11.99,
-    14.66,
-    17.32,
-    19.99,
-    22.65,
-    25.32,
-    27.98,
-    30.65,
-    33.31,
-    35.98,
-    38.65,
-    41.31
+ "asset_id": "commons:File:Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity (ipex-lunar-g-flight).webm",
+ "source": "commons",
+ "lane": "aviation_naval",
+ "matched_query": "X-15 flight",
+ "title": "Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity (ipex-lunar-g-flight)",
+ "description": "Video collected during the NS-29 flight of regolith simulant flowing through a bucket drum in earth gravity and simulated lunar gravity.",
+ "keywords": "PD NASA, New Shepard, Uploaded with video2commons, Video display resolution 1920 x 1080, NASA videos in 2025, NASA Website files uploaded by OptimusPrimeBot",
+ "date": "2025-04-15",
+ "branch": "",
+ "unit_name": "NASA",
+ "credit": "NASA video",
+ "original_source": "ipex-lunar-g-flight",
+ "page_url": "https://commons.wikimedia.org/wiki/File:Video_collected_during_the_NS-29_flight_of_regolith_simulant_flowing_through_a_bucket_drum_in_earth_gravity_and_simulated_lunar_gravity_(ipex-lunar-g-flight).webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "commons-Video-collected-during-the-NS-29-flight-of-regolith-simulant",
+ "status": "passed_over",
+ "harvested_at": "2026-11-15T17:11:59Z",
+ "duration": 43.14,
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Video_collected_during_the_NS-29_flight_of_regolith_simulant_flowing_through_a_bucket_drum_in_earth_gravity_and_simulated_lunar_gravity_%28ipex-lunar-g-flight%29.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1920,
+  "height": 1080,
+  "size": 12984938
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   43.2
   ]
+ },
+ "sheet": "data/candidates/commons-Video-collected-during-the-NS-29-flight-of-regolith-simulant.jpg",
+ "sheet_times": [
+  1.33,
+  4.0,
+  6.66,
+  9.33,
+  11.99,
+  14.66,
+  17.32,
+  19.99,
+  22.65,
+  25.32,
+  27.98,
+  30.65,
+  33.31,
+  35.98,
+  38.65,
+  41.31
+ ],
+ "pass_reason": "Lab experiment footage, nothing dramatic"
 }

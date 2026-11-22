@@ -1,59 +1,60 @@
 {
-  "asset_id": "commons:File:Artemis II Upper Stage Separation (cmasaw1 20260402015754 3).webm",
-  "source": "commons",
-  "lane": "aviation_naval",
-  "matched_query": "rocket stage separation",
-  "title": "Artemis II Upper Stage Separation (cmasaw1 20260402015754 3)",
-  "description": "cmasaw1_20260402015754_3 (April 1, 2026) - The upper stage – or interim cryogenic propulsion stage – of the SLS (Space Launch System) rocket separates from the Orion spacecraft after helping to deliver Orion to space on April 1, 2026, for the Artemis II mission. The upper stage was then used as a target for Orion to maneuver around in a demonstration of the spacecraft's ability to perform proximity operations.",
-  "keywords": "PD NASA, Files with closed captioning in English, Uploaded with video2commons, Video display resolution 3840 x 2160, NASA videos in 2026, Files from NASA with known IDs, NASA Library files uploaded by OptimusPrimeBot, Artemis 2 ICPS, Videos taken on 2026-04-01, Videos of Artemis 2 launch, Artemis 2 flight day 1, 4K NASA videos",
-  "date": "Taken on 1 April 2026",
-  "branch": "",
-  "unit_name": "NASA Johnson Space Center",
-  "credit": "NASA Johnson Space Center video",
-  "original_source": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: cmasaw1_20260402015754_3.",
-  "page_url": "https://commons.wikimedia.org/wiki/File:Artemis_II_Upper_Stage_Separation_(cmasaw1_20260402015754_3).webm",
-  "via": "Wikimedia Commons",
-  "license": "Public domain (U.S. federal government work)",
-  "location": {},
-  "time_start": 0.0,
-  "id": "commons-Artemis-II-Upper-Stage-Separation-cmasaw1-20260402015754-3",
-  "status": "new",
-  "harvested_at": "2026-11-21T05:18:23Z",
-  "duration": 20.98,
-  "source_file": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Artemis_II_Upper_Stage_Separation_%28cmasaw1_20260402015754_3%29.webm/Artemis_II_Upper_Stage_Separation_%28cmasaw1_20260402015754_3%29.webm.1080p.vp9.webm",
-    "width": 1920,
-    "height": 1080
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      21.0
-    ]
-  },
-  "sheet": "data/candidates/commons-Artemis-II-Upper-Stage-Separation-cmasaw1-20260402015754-3.jpg",
-  "sheet_times": [
-    0.64,
-    1.92,
-    3.2,
-    4.48,
-    5.76,
-    7.04,
-    8.32,
-    9.6,
-    10.88,
-    12.16,
-    13.44,
-    14.72,
-    16.0,
-    17.28,
-    18.56,
-    19.84
+ "asset_id": "commons:File:Artemis II Upper Stage Separation (cmasaw1 20260402015754 3).webm",
+ "source": "commons",
+ "lane": "aviation_naval",
+ "matched_query": "rocket stage separation",
+ "title": "Artemis II Upper Stage Separation (cmasaw1 20260402015754 3)",
+ "description": "cmasaw1_20260402015754_3 (April 1, 2026) - The upper stage – or interim cryogenic propulsion stage – of the SLS (Space Launch System) rocket separates from the Orion spacecraft after helping to deliver Orion to space on April 1, 2026, for the Artemis II mission. The upper stage was then used as a target for Orion to maneuver around in a demonstration of the spacecraft's ability to perform proximity operations.",
+ "keywords": "PD NASA, Files with closed captioning in English, Uploaded with video2commons, Video display resolution 3840 x 2160, NASA videos in 2026, Files from NASA with known IDs, NASA Library files uploaded by OptimusPrimeBot, Artemis 2 ICPS, Videos taken on 2026-04-01, Videos of Artemis 2 launch, Artemis 2 flight day 1, 4K NASA videos",
+ "date": "Taken on 1 April 2026",
+ "branch": "",
+ "unit_name": "NASA Johnson Space Center",
+ "credit": "NASA Johnson Space Center video",
+ "original_source": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: cmasaw1_20260402015754_3.",
+ "page_url": "https://commons.wikimedia.org/wiki/File:Artemis_II_Upper_Stage_Separation_(cmasaw1_20260402015754_3).webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "commons-Artemis-II-Upper-Stage-Separation-cmasaw1-20260402015754-3",
+ "status": "passed_over",
+ "harvested_at": "2026-11-21T05:18:23Z",
+ "duration": 20.98,
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Artemis_II_Upper_Stage_Separation_%28cmasaw1_20260402015754_3%29.webm/Artemis_II_Upper_Stage_Separation_%28cmasaw1_20260402015754_3%29.webm.1080p.vp9.webm",
+  "width": 1920,
+  "height": 1080
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   21.0
   ]
+ },
+ "sheet": "data/candidates/commons-Artemis-II-Upper-Stage-Separation-cmasaw1-20260402015754-3.jpg",
+ "sheet_times": [
+  0.64,
+  1.92,
+  3.2,
+  4.48,
+  5.76,
+  7.04,
+  8.32,
+  9.6,
+  10.88,
+  12.16,
+  13.44,
+  14.72,
+  16.0,
+  17.28,
+  18.56,
+  19.84
+ ],
+ "pass_reason": "21 s, goes dark after 8 s; Artemis II mission already covered"
 }

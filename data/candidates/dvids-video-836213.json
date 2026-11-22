@@ -1,67 +1,67 @@
 {
-  "asset_id": "video:836213",
-  "source": "dvids",
-  "lane": "aviation_naval",
-  "matched_query": "hand-harvest",
-  "title": "USS Dewey Fires Missile",
-  "description": "220324-N-TR141-1002 PHILIPPINE SEA (March 24, 2022) The Arleigh Burke-class guided-missile destroyer USS Dewey (DDG 105) launches a Standard Missile 2 (SM-2) Block 3A from the Mark 41 Vertical Launch System (VLS) during a live-fire exercise while conducting routine operations underway in the U.S. 7th Fleet area of responsibility. Dewey is assigned to Destroyer Squadron (DESRON) 15 and is underway supporting a free and open Indo-Pacific. CTF 71/DESRON 15 is the Navy’s largest forward-deployed DESRON and the U.S. 7th Fleet’s principal surface force. (U.S. Navy video by Mass Communication Specialist 1st Class Benjamin A. Lewis)",
-  "credit": "",
-  "page_url": "https://www.dvidshub.net/video/836213/uss-dewey-fires-missile",
-  "via": "DVIDS",
-  "license": "public domain",
-  "date": "03.24.2022",
-  "location_text": "PHILIPPINE SEA",
-  "id": "dvids-video-836213",
-  "status": "passed_over",
-  "harvested_at": "2026-11-20T10:09:08Z",
-  "duration": 28.962,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108880800/DOD_108880800.mp4",
-    "width": 1920,
-    "height": 1080
-  },
-  "scene_cuts": [
-    11.34
+ "asset_id": "video:836213",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "hand-harvest",
+ "title": "USS Dewey Fires Missile",
+ "description": "220324-N-TR141-1002 PHILIPPINE SEA (March 24, 2022) The Arleigh Burke-class guided-missile destroyer USS Dewey (DDG 105) launches a Standard Missile 2 (SM-2) Block 3A from the Mark 41 Vertical Launch System (VLS) during a live-fire exercise while conducting routine operations underway in the U.S. 7th Fleet area of responsibility. Dewey is assigned to Destroyer Squadron (DESRON) 15 and is underway supporting a free and open Indo-Pacific. CTF 71/DESRON 15 is the Navy’s largest forward-deployed DESRON and the U.S. 7th Fleet’s principal surface force. (U.S. Navy video by Mass Communication Specialist 1st Class Benjamin A. Lewis)",
+ "credit": "",
+ "page_url": "https://www.dvidshub.net/video/836213/uss-dewey-fires-missile",
+ "via": "DVIDS",
+ "license": "public domain",
+ "date": "03.24.2022",
+ "location_text": "PHILIPPINE SEA",
+ "id": "dvids-video-836213",
+ "status": "passed_over",
+ "harvested_at": "2026-11-20T10:09:08Z",
+ "duration": 28.962,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108880800/DOD_108880800.mp4",
+  "width": 1920,
+  "height": 1080
+ },
+ "scene_cuts": [
+  11.34
+ ],
+ "drama_score": 46,
+ "audio": {
+  "silence_starts": [
+   0.0,
+   2.2
   ],
-  "drama_score": 46,
-  "audio": {
-    "silence_starts": [
-      0.0,
-      2.2
-    ],
-    "silence_ends": [
-      2.2,
-      2.8
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-836213.jpg",
-  "sheet_times": [
-    0.59,
-    1.78,
-    2.96,
-    4.15,
-    5.34,
-    6.52,
-    7.71,
-    8.89,
-    10.08,
-    11.27,
-    12.45,
-    13.64,
-    14.82,
-    16.01,
-    17.2,
-    18.38,
-    19.57,
-    20.75,
-    21.94,
-    23.13,
-    24.31,
-    25.5,
-    26.68,
-    27.87
-  ],
-  "copyright_flags": [],
-  "transcript": [],
-  "pass_reason": "destroyer SM-2 launch, same story type as ccf-20261120-04 today"
+  "silence_ends": [
+   2.2,
+   2.8
+  ]
+ },
+ "sheet": "data/candidates/dvids-video-836213.jpg",
+ "sheet_times": [
+  0.59,
+  1.78,
+  2.96,
+  4.15,
+  5.34,
+  6.52,
+  7.71,
+  8.89,
+  10.08,
+  11.27,
+  12.45,
+  13.64,
+  14.82,
+  16.01,
+  17.2,
+  18.38,
+  19.57,
+  20.75,
+  21.94,
+  23.13,
+  24.31,
+  25.5,
+  26.68,
+  27.87
+ ],
+ "copyright_flags": [],
+ "transcript": [],
+ "pass_reason": "Third destroyer SM-2 launch alongside ccf-20261120-04 and ccf-20261122-09"
 }
