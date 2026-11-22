@@ -1,0 +1,206 @@
+{
+ "candidate_id": "nasa-NDTV001077-X-15-Documentary-Revised",
+ "lane": "aviation_naval",
+ "story_type": "rocket plane engine fire in flight, emergency lakebed landing, fuselage breaks on touchdown, historic color film",
+ "music_mood": "aviation",
+ "priority": 7,
+ "hook": "Engine fire, emergency landing, then the plane broke.",
+ "narration": [
+  "This rocket plane touched down smoothly, then its back broke.",
+  "It was the third flight of the X-15, with a straight climb planned to eighty thousand feet.",
+  "A B-52 bomber carried it up and let it drop.",
+  "Minutes later the radio call came: fire. The engine was shut down.",
+  "With no power, the pilot felt the plane out for damage and turned for Rosamond, an emergency landing area.",
+  "Dumping fuel in a steep, nose down glide still left heavy propellant on board, so the nose had to come in high.",
+  "[short pause] When the nose wheel slammed onto the lakebed, the fuselage cracked."
+ ],
+ "outcome": "The pilot was safe, and five weeks later the X-15, rejoined and strengthened, headed back to Edwards.",
+ "location_card": {
+  "place": "Rosamond Dry Lake, California",
+  "date": "1959"
+ },
+ "keep_source_audio": true,
+ "preview_ok": "Air-to-air shots of the X-15 against plain blue-green sky and desert; the plane is in frame in every shot, the flat background trips EMPTY.",
+ "title": "X-15 engine fire, then it broke in half",
+ "tags": [
+  "x-15",
+  "rocket plane",
+  "engine fire",
+  "emergency landing",
+  "scott crossfield",
+  "b-52",
+  "rosamond dry lake",
+  "nasa history",
+  "test pilot"
+ ],
+ "question_comment": "Would you have tried the lakebed landing or bailed out?",
+ "facts": [
+  {
+   "claim": "Third flight, planned straight climb to 80,000 feet",
+   "source_quote": "The intention of this flight is to make a straight climb to 80,000 feet, hitting Mach 2 at the peak."
+  },
+  {
+   "claim": "Fire call and shutdown",
+   "source_quote": "I've got fire, Scott, I'd shut down."
+  },
+  {
+   "claim": "Pilot felt out the plane and headed for Rosamond",
+   "source_quote": "as the pilot feels out the plane for damage and heads for Rosamond, an emergency landing area."
+  },
+  {
+   "claim": "Jettison in nose-down glide left more propellant; nose higher than usual; nose wheel slam broke it",
+   "source_quote": "but jettison in a nose-down emergency glide leaves more propellants, more weight, in the fuselage. Because of this increased weight, the nose of the plane had to be higher than usual during landing. Although the touchdown was smooth, the nose-up angle was beyond the design limits and the break occurred when the nose wheel slammed to the ground."
+  },
+  {
+   "claim": "Pilot safe; repaired and back five weeks later",
+   "source_quote": "The plane was on the ground, the pilot safe, but there were new problems."
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 822.6,
+    "end": 825.6,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 828.0,
+    "end": 831.0,
+    "layout": "crop",
+    "crop_x": 0.55
+   }
+  ],
+  [
+   {
+    "start": 628.0,
+    "end": 631.0,
+    "layout": "crop",
+    "crop_x": 0.6
+   },
+   {
+    "start": 636.0,
+    "end": 639.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 658.4,
+    "end": 661.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 662.0,
+    "end": 665.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 666.0,
+    "end": 669.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 686.3,
+    "end": 689.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 694.0,
+    "end": 697.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 702.0,
+    "end": 705.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 728.0,
+    "end": 731.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 740.0,
+    "end": 743.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   },
+   {
+    "start": 750.0,
+    "end": 753.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 756.0,
+    "end": 759.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   },
+   {
+    "start": 763.3,
+    "end": 766.3,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 767.0,
+    "end": 770.0,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ],
+  [
+   {
+    "start": 774.0,
+    "end": 777.6,
+    "layout": "fit",
+    "crop_x": 0.5
+   },
+   {
+    "start": 796.0,
+    "end": 799.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 803.0,
+    "end": 806.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 808.0,
+    "end": 811.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 818.6,
+    "end": 822.4,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ]
+ ],
+ "short_id": "ccf-20261122-13",
+ "revision": 1,
+ "description": "On the third flight of the X-15 rocket plane in 1959, an engine fire forced an emergency landing at Rosamond Dry Lake in California, and the fuselage broke when the nose wheel slammed down.\n\nFootage: NASA Armstrong Flight Research Center video, via NASA Image and Video Library: https://images.nasa.gov/details/NDTV001077-X-15_Documentary_Revised\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #x15 #aviation #nasa"
+}
