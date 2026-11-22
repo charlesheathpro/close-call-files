@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-793116",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:10:41Z",
   "duration": 66.8,
   "source_file": {
@@ -62,5 +62,6 @@
     55.94,
     60.08,
     64.23
-  ]
+  ],
+  "pass_reason": "night hoist camera washed out"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-78434",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:26:15Z",
   "duration": 34.93,
   "source_file": {
@@ -68,5 +68,6 @@
     29.68,
     31.58,
     33.48
-  ]
+  ],
+  "pass_reason": "green-tinted, distant, murky"
 }

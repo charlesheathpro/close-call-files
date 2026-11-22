@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-756183",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:27:41Z",
   "duration": 22.82,
   "source_file": {
@@ -66,5 +66,6 @@
     18.84,
     20.23,
     21.63
-  ]
+  ],
+  "pass_reason": "grainy FLIR of a small boat, calm"
 }
