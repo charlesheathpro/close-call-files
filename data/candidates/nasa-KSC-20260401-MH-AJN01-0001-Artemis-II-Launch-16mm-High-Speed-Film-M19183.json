@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260401-MH-AJN01-0001-Artemis-II-Launch-16mm-High-Speed-Film-M19183",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-05T01:16:46Z",
   "duration": 1104.27,
   "source_file": {
@@ -70,5 +70,6 @@
     1000.29,
     1069.27
   ],
-  "pass_reason": "held back: rocket Shorts already heavy in the queue and Artemis II liftoff already uploaded; reconsider when the queue thins"
+  "pass_reason": "held back: rocket Shorts already heavy in the queue and Artemis II liftoff already uploaded; reconsider when the queue thins",
+  "used_by": "ccf-20261121-18"
 }
