@@ -1,0 +1,12 @@
+{
+ "short_id": "ccf-20261122-11",
+ "revision": 2,
+ "verdict": "pass",
+ "at": "2026-11-22T14:27:52Z",
+ "score": 7,
+ "notes": "Rupture of a Moon rocket tank opens and closes the Short; r2 merged two context lines so the static build-up dropped from about 23 s to 14 s and the Short is now 30 s.",
+ "fixes": [
+  "Narration cut from 6 lines to 4",
+  "Static mid section trimmed"
+ ]
+}

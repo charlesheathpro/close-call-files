@@ -1,0 +1,13 @@
+{
+ "short_id": "ccf-20261122-13",
+ "revision": 2,
+ "verdict": "pass",
+ "at": "2026-11-22T14:27:52Z",
+ "score": 7,
+ "notes": "Engine fire, dead-stick landing and broken fuselage, all from the transcript; r2 opens on the broken X-15 instead of a dark crane shot and the outcome now plays over the factory repair instead of the wreck.",
+ "fixes": [
+  "Hook 815.2-818.4 + 828.0-831.0",
+  "Outcome 838.5-841.8 + 855.5-859.0",
+  "Preview EMPTY flags on L2-L6 lakebed glide shots are false positives: the X-15 is clearly in frame"
+ ]
+}
