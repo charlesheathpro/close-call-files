@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-760427",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:59:24Z",
   "duration": 34.13,
   "source_file": {
@@ -62,5 +62,6 @@
     28.38,
     30.48,
     32.58
-  ]
+  ],
+  "pass_reason": "night footage washed out"
 }

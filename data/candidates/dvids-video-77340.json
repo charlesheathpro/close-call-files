@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-77340",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:55:53Z",
   "duration": 60.24,
   "source_file": {
@@ -71,5 +71,6 @@
     50.41,
     54.14,
     57.87
-  ]
+  ],
+  "pass_reason": "patient walks onto helicopter, no danger"
 }

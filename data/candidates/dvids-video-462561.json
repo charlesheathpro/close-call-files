@@ -26,7 +26,7 @@
   "time_start": 4.09207,
   "aspect_ratio": "4:3",
   "id": "dvids-video-462561",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:06Z",
   "duration": 56.17,
   "source_file": {
@@ -123,5 +123,6 @@
     47.61,
     50.83,
     54.06
-  ]
+  ],
+  "pass_reason": "color-distorted hoist camera"
 }

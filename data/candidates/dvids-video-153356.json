@@ -26,7 +26,7 @@
   "time_start": 6.94027,
   "aspect_ratio": "4:3",
   "id": "dvids-video-153356",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:38:30Z",
   "duration": 372.12,
   "source_file": {
@@ -464,5 +464,6 @@
     314.64,
     337.43,
     360.22
-  ]
+  ],
+  "pass_reason": "murky FLIR with blurred overlays, calm cruise ship hoist"
 }

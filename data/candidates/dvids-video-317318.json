@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:42:10Z",
   "duration": 172.2,
   "source_file": {
@@ -130,5 +130,6 @@
     144.87,
     155.6,
     166.33
-  ]
+  ],
+  "pass_reason": "calm hoist camera over open water"
 }

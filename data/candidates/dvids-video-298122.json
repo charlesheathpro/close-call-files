@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-298122",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:06:40Z",
   "duration": 56.87,
   "source_file": {
@@ -68,5 +68,6 @@
     48.19,
     51.46,
     54.74
-  ]
+  ],
+  "pass_reason": "heavy color artifacts, another moving fishing boat hoist"
 }

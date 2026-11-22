@@ -26,7 +26,7 @@
   "time_start": 5.07173,
   "aspect_ratio": "16:9",
   "id": "dvids-video-121569",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-22T17:47:39Z",
   "duration": 52.25,
   "source_file": {
@@ -74,5 +74,6 @@
     44.45,
     47.37,
     50.29
-  ]
+  ],
+  "pass_reason": "first F-35C catapult shot is distant and fast, jet leaves frame in half a second; calm test with no peak"
 }
