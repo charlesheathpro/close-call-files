@@ -1,15 +1,15 @@
 {
   "short_id": "ccf-20261122-11",
-  "revision": 1,
+  "revision": 2,
   "status": "ok",
-  "built_at": "2026-11-22T12:58:46Z",
-  "duration": 36.17,
+  "built_at": "2026-11-22T14:24:38Z",
+  "duration": 29.77,
   "source_resolution": "1906x1080",
   "timeline": [
     {
       "text": "Engineers squeezed this rocket fuel tank until it ripped open.",
       "start": 0.05,
-      "end": 3.97,
+      "end": 4.13,
       "words": [
         {
           "w": "Engineers",
@@ -19,11 +19,11 @@
         {
           "w": "squeezed",
           "s": 0.77,
-          "e": 1.17
+          "e": 1.25
         },
         {
           "w": "this",
-          "s": 1.25,
+          "s": 1.33,
           "e": 1.41
         },
         {
@@ -44,29 +44,29 @@
         {
           "w": "until",
           "s": 2.45,
-          "e": 2.77
+          "e": 2.69
         },
         {
           "w": "it",
-          "s": 2.85,
+          "s": 2.77,
           "e": 2.93
         },
         {
           "w": "ripped",
-          "s": 3.09,
-          "e": 3.33
+          "s": 3.01,
+          "e": 3.25
         },
         {
           "w": "open.",
-          "s": 3.41,
-          "e": 3.97
+          "s": 3.33,
+          "e": 4.13
         }
       ]
     },
     {
-      "text": "It was a test version of the liquid hydrogen tank for NASA's Space Launch System, the rocket built for the Moon.",
+      "text": "It was a test tank for NASA's Moon rocket, loaded with nitrogen gas pressure and hydraulic force at Marshall Space Flight Center in Alabama.",
       "start": 4.21,
-      "end": 10.37,
+      "end": 12.93,
       "words": [
         {
           "w": "It",
@@ -89,469 +89,350 @@
           "e": 4.93
         },
         {
-          "w": "version",
-          "s": 5.01,
-          "e": 5.33
-        },
-        {
-          "w": "of",
-          "s": 5.37,
-          "e": 5.45
-        },
-        {
-          "w": "the",
-          "s": 5.49,
-          "e": 5.57
-        },
-        {
-          "w": "liquid",
-          "s": 5.65,
-          "e": 5.89
-        },
-        {
-          "w": "hydrogen",
-          "s": 5.97,
-          "e": 6.45
-        },
-        {
           "w": "tank",
-          "s": 6.53,
-          "e": 6.77
+          "s": 5.05,
+          "e": 5.17
         },
         {
           "w": "for",
-          "s": 6.85,
-          "e": 7.01
+          "s": 5.25,
+          "e": 5.41
         },
         {
           "w": "NASA's",
-          "s": 7.09,
-          "e": 7.49
+          "s": 5.517,
+          "e": 5.89
         },
         {
-          "w": "Space",
-          "s": 7.65,
-          "e": 7.81
+          "w": "Moon",
+          "s": 5.97,
+          "e": 6.05
         },
         {
-          "w": "Launch",
-          "s": 7.89,
-          "e": 8.13
-        },
-        {
-          "w": "System,",
-          "s": 8.33,
-          "e": 8.93
-        },
-        {
-          "w": "the",
-          "s": 9.01,
-          "e": 9.09
-        },
-        {
-          "w": "rocket",
-          "s": 9.17,
-          "e": 9.49
-        },
-        {
-          "w": "built",
-          "s": 9.57,
-          "e": 9.73
-        },
-        {
-          "w": "for",
-          "s": 9.81,
-          "e": 9.89
-        },
-        {
-          "w": "the",
-          "s": 9.93,
-          "e": 10.01
-        },
-        {
-          "w": "Moon.",
-          "s": 10.05,
-          "e": 10.37
-        }
-      ]
-    },
-    {
-      "text": "At Marshall Space Flight Center in Alabama, they loaded it with nitrogen gas pressure and hydraulic rams.",
-      "start": 11.01,
-      "end": 17.21,
-      "words": [
-        {
-          "w": "At",
-          "s": 11.01,
-          "e": 11.17
-        },
-        {
-          "w": "Marshall",
-          "s": 11.25,
-          "e": 11.57
-        },
-        {
-          "w": "Space",
-          "s": 11.65,
-          "e": 11.97
-        },
-        {
-          "w": "Flight",
-          "s": 12.09,
-          "e": 12.21
-        },
-        {
-          "w": "Center",
-          "s": 12.29,
-          "e": 12.53
-        },
-        {
-          "w": "in",
-          "s": 12.57,
-          "e": 12.65
-        },
-        {
-          "w": "Alabama,",
-          "s": 12.69,
-          "e": 13.57
-        },
-        {
-          "w": "they",
-          "s": 13.65,
-          "e": 13.73
+          "w": "rocket,",
+          "s": 6.13,
+          "e": 6.85
         },
         {
           "w": "loaded",
-          "s": 13.81,
-          "e": 14.05
-        },
-        {
-          "w": "it",
-          "s": 14.13,
-          "e": 14.21
+          "s": 7.01,
+          "e": 7.25
         },
         {
           "w": "with",
-          "s": 14.29,
-          "e": 14.37
+          "s": 7.33,
+          "e": 7.49
         },
         {
           "w": "nitrogen",
-          "s": 14.45,
-          "e": 14.93
+          "s": 7.61,
+          "e": 7.97
         },
         {
           "w": "gas",
-          "s": 15.01,
-          "e": 15.25
+          "s": 8.05,
+          "e": 8.29
         },
         {
           "w": "pressure",
-          "s": 15.33,
-          "e": 15.73
+          "s": 8.37,
+          "e": 8.85
         },
         {
           "w": "and",
-          "s": 15.81,
-          "e": 15.89
+          "s": 8.93,
+          "e": 9.01
         },
         {
           "w": "hydraulic",
-          "s": 15.97,
-          "e": 16.45
+          "s": 9.09,
+          "e": 9.57
         },
         {
-          "w": "rams.",
-          "s": 16.53,
-          "e": 17.21
+          "w": "force",
+          "s": 9.65,
+          "e": 10.21
+        },
+        {
+          "w": "at",
+          "s": 10.33,
+          "e": 10.45
+        },
+        {
+          "w": "Marshall",
+          "s": 10.53,
+          "e": 10.77
+        },
+        {
+          "w": "Space",
+          "s": 10.93,
+          "e": 11.17
+        },
+        {
+          "w": "Flight",
+          "s": 11.25,
+          "e": 11.41
+        },
+        {
+          "w": "Center",
+          "s": 11.57,
+          "e": 11.73
+        },
+        {
+          "w": "in",
+          "s": 11.81,
+          "e": 11.89
+        },
+        {
+          "w": "Alabama.",
+          "s": 12.13,
+          "e": 12.93
         }
       ]
     },
     {
-      "text": "In earlier tests it had already taken the forces of a Moon launch without a crack.",
-      "start": 17.49,
-      "end": 22.33,
+      "text": "It had already survived the forces of a Moon launch. This time they kept going.",
+      "start": 13.01,
+      "end": 18.61,
       "words": [
         {
-          "w": "In",
+          "w": "It",
+          "s": 13.01,
+          "e": 13.09
+        },
+        {
+          "w": "had",
+          "s": 13.17,
+          "e": 13.41
+        },
+        {
+          "w": "already",
+          "s": 13.65,
+          "e": 13.89
+        },
+        {
+          "w": "survived",
+          "s": 13.97,
+          "e": 14.29
+        },
+        {
+          "w": "the",
+          "s": 14.37,
+          "e": 14.45
+        },
+        {
+          "w": "forces",
+          "s": 14.53,
+          "e": 14.85
+        },
+        {
+          "w": "of",
+          "s": 14.89,
+          "e": 14.97
+        },
+        {
+          "w": "a",
+          "s": 15.01,
+          "e": 15.09
+        },
+        {
+          "w": "Moon",
+          "s": 15.17,
+          "e": 15.25
+        },
+        {
+          "w": "launch.",
+          "s": 15.33,
+          "e": 15.677
+        },
+        {
+          "w": "This",
+          "s": 16.65,
+          "e": 16.77
+        },
+        {
+          "w": "time",
+          "s": 16.93,
+          "e": 17.09
+        },
+        {
+          "w": "they",
+          "s": 17.33,
+          "e": 17.41
+        },
+        {
+          "w": "kept",
           "s": 17.49,
           "e": 17.65
         },
         {
-          "w": "earlier",
+          "w": "going.",
           "s": 17.73,
-          "e": 18.05
-        },
-        {
-          "w": "tests",
-          "s": 18.13,
           "e": 18.61
-        },
-        {
-          "w": "it",
-          "s": 18.69,
-          "e": 18.77
-        },
-        {
-          "w": "had",
-          "s": 18.85,
-          "e": 19.01
-        },
-        {
-          "w": "already",
-          "s": 19.25,
-          "e": 19.49
-        },
-        {
-          "w": "taken",
-          "s": 19.61,
-          "e": 19.73
-        },
-        {
-          "w": "the",
-          "s": 19.81,
-          "e": 19.89
-        },
-        {
-          "w": "forces",
-          "s": 20.09,
-          "e": 20.29
-        },
-        {
-          "w": "of",
-          "s": 20.33,
-          "e": 20.41
-        },
-        {
-          "w": "a",
-          "s": 20.45,
-          "e": 20.53
-        },
-        {
-          "w": "Moon",
-          "s": 20.61,
-          "e": 20.77
-        },
-        {
-          "w": "launch",
-          "s": 20.85,
-          "e": 21.09
-        },
-        {
-          "w": "without",
-          "s": 21.17,
-          "e": 21.41
-        },
-        {
-          "w": "a",
-          "s": 21.45,
-          "e": 21.53
-        },
-        {
-          "w": "crack.",
-          "s": 21.57,
-          "e": 22.33
-        }
-      ]
-    },
-    {
-      "text": "This time they did not stop.",
-      "start": 22.976,
-      "end": 25.09,
-      "words": [
-        {
-          "w": "This",
-          "s": 22.976,
-          "e": 23.056
-        },
-        {
-          "w": "time",
-          "s": 23.17,
-          "e": 23.33
-        },
-        {
-          "w": "they",
-          "s": 23.57,
-          "e": 23.65
-        },
-        {
-          "w": "did",
-          "s": 23.77,
-          "e": 23.89
-        },
-        {
-          "w": "not",
-          "s": 24.01,
-          "e": 24.13
-        },
-        {
-          "w": "stop.",
-          "s": 24.33,
-          "e": 25.09
         }
       ]
     },
     {
       "text": "Pieces of the tank wall flew out past the camera.",
-      "start": 25.29,
-      "end": 28.21,
+      "start": 18.81,
+      "end": 21.783,
       "words": [
         {
           "w": "Pieces",
-          "s": 25.29,
-          "e": 25.49
+          "s": 18.81,
+          "e": 19.01
         },
         {
           "w": "of",
-          "s": 25.53,
-          "e": 25.61
+          "s": 19.05,
+          "e": 19.13
         },
         {
           "w": "the",
-          "s": 25.65,
-          "e": 25.73
+          "s": 19.17,
+          "e": 19.25
         },
         {
           "w": "tank",
-          "s": 25.89,
-          "e": 26.05
+          "s": 19.41,
+          "e": 19.57
         },
         {
           "w": "wall",
-          "s": 26.21,
-          "e": 26.37
+          "s": 19.73,
+          "e": 19.89
         },
         {
           "w": "flew",
-          "s": 26.45,
-          "e": 26.61
+          "s": 19.93,
+          "e": 20.13
         },
         {
           "w": "out",
-          "s": 26.69,
-          "e": 26.85
+          "s": 20.21,
+          "e": 20.37
         },
         {
           "w": "past",
-          "s": 26.97,
-          "e": 27.09
+          "s": 20.49,
+          "e": 20.61
         },
         {
           "w": "the",
-          "s": 27.17,
-          "e": 27.25
+          "s": 20.69,
+          "e": 20.77
         },
         {
           "w": "camera.",
-          "s": 27.45,
-          "e": 28.21
+          "s": 21.25,
+          "e": 21.783
         }
       ]
     },
     {
       "text": "The tank held more than 260 percent of its expected flight loads before it buckled and ruptured, as engineers predicted.",
-      "start": 28.29,
-      "end": 35.97,
+      "start": 21.837,
+      "end": 29.57,
       "words": [
         {
           "w": "The",
-          "s": 28.29,
-          "e": 28.37
+          "s": 21.837,
+          "e": 21.917
         },
         {
           "w": "tank",
-          "s": 28.53,
-          "e": 28.69
+          "s": 22.05,
+          "e": 22.21
         },
         {
           "w": "held",
-          "s": 28.77,
-          "e": 28.93
+          "s": 22.33,
+          "e": 22.45
         },
         {
           "w": "more",
-          "s": 29.01,
-          "e": 29.09
+          "s": 22.53,
+          "e": 22.61
         },
         {
           "w": "than",
-          "s": 29.17,
-          "e": 29.41
+          "s": 22.73,
+          "e": 22.85
         },
         {
           "w": "260",
-          "s": 29.49,
-          "e": 30.37
+          "s": 22.93,
+          "e": 23.89
         },
         {
           "w": "percent",
-          "s": 30.45,
-          "e": 30.85
+          "s": 23.97,
+          "e": 24.37
         },
         {
           "w": "of",
-          "s": 30.93,
-          "e": 31.01
+          "s": 24.45,
+          "e": 24.53
         },
         {
           "w": "its",
-          "s": 31.09,
-          "e": 31.17
+          "s": 24.61,
+          "e": 24.69
         },
         {
           "w": "expected",
-          "s": 31.41,
-          "e": 31.65
+          "s": 24.97,
+          "e": 25.25
         },
         {
           "w": "flight",
-          "s": 31.73,
-          "e": 31.97
+          "s": 25.33,
+          "e": 25.57
         },
         {
           "w": "loads",
-          "s": 32.05,
-          "e": 32.61
+          "s": 25.89,
+          "e": 26.21
         },
         {
           "w": "before",
-          "s": 32.69,
-          "e": 32.93
+          "s": 26.29,
+          "e": 26.53
         },
         {
           "w": "it",
-          "s": 33.05,
-          "e": 33.17
+          "s": 26.65,
+          "e": 26.77
         },
         {
           "w": "buckled",
-          "s": 33.223,
-          "e": 33.49
+          "s": 26.823,
+          "e": 27.09
         },
         {
           "w": "and",
-          "s": 33.57,
-          "e": 33.65
+          "s": 27.17,
+          "e": 27.25
         },
         {
           "w": "ruptured,",
-          "s": 33.77,
-          "e": 34.45
+          "s": 27.37,
+          "e": 28.05
         },
         {
           "w": "as",
-          "s": 34.53,
-          "e": 34.61
+          "s": 28.13,
+          "e": 28.21
         },
         {
           "w": "engineers",
-          "s": 34.69,
-          "e": 35.17
+          "s": 28.29,
+          "e": 28.77
         },
         {
           "w": "predicted.",
-          "s": 35.41,
-          "e": 35.97
+          "s": 29.01,
+          "e": 29.57
         }
       ]
     }
@@ -563,7 +444,7 @@
     },
     "duration": {
       "ok": true,
-      "value": 36.17
+      "value": 29.77
     },
     "av_sync": {
       "ok": true,
@@ -575,7 +456,7 @@
     },
     "loudness": {
       "ok": true,
-      "value": -14.0
+      "value": -14.1
     },
     "true_peak": {
       "ok": true,
@@ -601,6 +482,6 @@
   },
   "failed_checks": [],
   "render_sheet": "data/shorts/ccf-20261122-11/render_sheet.jpg",
-  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261122-11-r1.mp4",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261122-11-r2.mp4",
   "local_path": "/home/runner/work/_temp/ccf/ccf-20261122-11/ccf-20261122-11.mp4"
 }
