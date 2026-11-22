@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261122-01",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "commons-SpaceX-Crew-Dragon-Conducts-Unique-Flight-Test-dsg6WR4BWhw",
   "lane": "aviation_naval",
   "story_type": "pad abort test, capsule escapes from the launch pad",
@@ -10,8 +10,7 @@
   "narration": [
     "Eight engines fired at once and threw this capsule off the pad.",
     "This was SpaceX's Crew Dragon on May sixth, twenty fifteen, at Cape Canaveral in Florida.",
-    "There was no rocket under it. It sat on a specially built platform, and the escape itself was the test.",
-    "If a rocket ever fails on the pad, this is what gets the crew away. The capsule has to leave on its own, fast.",
+    "There was no rocket under it. The escape itself was the test, the system built to pull a crew away from a failing rocket.",
     "The engines fired for about six seconds, each one pushing with about fifteen thousand pounds of thrust.",
     "That lifted it out over the Atlantic, where it dropped its trunk as planned.",
     "[short pause] Then the parachutes opened."
@@ -53,16 +52,16 @@
   "line_shots": [
     [
       {
-        "start": 97.6,
-        "end": 100.1,
+        "start": 26.0,
+        "end": 28.2,
         "layout": "crop",
-        "crop_x": 0.35
+        "crop_x": 0.62
       },
       {
-        "start": 100.2,
-        "end": 102.6,
+        "start": 28.4,
+        "end": 30.4,
         "layout": "crop",
-        "crop_x": 0.5
+        "crop_x": 0.55
       }
     ],
     [
@@ -73,8 +72,8 @@
         "crop_x": 0.5
       },
       {
-        "start": 13.0,
-        "end": 15.8,
+        "start": 14.2,
+        "end": 17.5,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -101,48 +100,34 @@
     ],
     [
       {
-        "start": 26.0,
-        "end": 28.6,
-        "layout": "crop",
-        "crop_x": 0.62
-      },
-      {
-        "start": 28.8,
-        "end": 31.4,
-        "layout": "crop",
-        "crop_x": 0.55
-      },
-      {
-        "start": 31.6,
-        "end": 34.2,
+        "start": 30.6,
+        "end": 33.0,
         "layout": "crop",
         "crop_x": 0.5
-      }
-    ],
-    [
+      },
       {
-        "start": 34.4,
-        "end": 37.0,
+        "start": 33.2,
+        "end": 35.4,
         "layout": "crop",
         "crop_x": 0.45
       },
       {
-        "start": 37.2,
-        "end": 39.8,
+        "start": 35.6,
+        "end": 37.6,
         "layout": "crop",
         "crop_x": 0.45
       }
     ],
     [
       {
-        "start": 40.0,
-        "end": 42.6,
+        "start": 37.8,
+        "end": 40.0,
         "layout": "crop",
         "crop_x": 0.42
       },
       {
-        "start": 42.8,
-        "end": 45.4,
+        "start": 40.2,
+        "end": 42.6,
         "layout": "crop",
         "crop_x": 0.45
       }
@@ -153,30 +138,24 @@
         "end": 56.8,
         "layout": "crop",
         "crop_x": 0.58
-      },
+      }
+    ],
+    [
       {
         "start": 57.0,
         "end": 59.6,
         "layout": "crop",
         "crop_x": 0.58
-      }
-    ],
-    [
+      },
       {
-        "start": 74.0,
-        "end": 76.6,
-        "layout": "fit",
+        "start": 75.0,
+        "end": 77.6,
+        "layout": "crop",
         "crop_x": 0.5
       },
       {
-        "start": 76.8,
-        "end": 79.4,
-        "layout": "fit",
-        "crop_x": 0.5
-      },
-      {
-        "start": 79.6,
-        "end": 82.2,
+        "start": 77.8,
+        "end": 80.4,
         "layout": "crop",
         "crop_x": 0.5
       }
