@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-USS-Olympia-fires-Harpoon-missile-at-the-ex-USS-Racine-durin",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:09:11Z",
   "duration": 45.04,
   "source_file": {
@@ -64,5 +64,6 @@
     37.58,
     40.36,
     43.14
-  ]
+  ],
+  "pass_reason": "only about 5 s of action (missile broaching), rest is empty sky through the periscope; hit never shown"
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss060m262491204-Expedition-60-Hurricane-Dorian-Flyover-09-06-19",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:41:24Z",
   "duration": 1343.07,
   "source_file": {
@@ -1049,5 +1049,6 @@
     1132.79,
     1216.7,
     1300.61
-  ]
+  ],
+  "pass_reason": "Dorian from the ISS already covered twice (ccf-20261030-09, ccf-20261114-85)"
 }

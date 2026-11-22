@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss060m262461429-Expedition-60-ISS-Hurricane-Dorian-Live-Views-2019-0903",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:38:34Z",
   "duration": 1677.33,
   "source_file": {
@@ -1931,5 +1931,6 @@
     1414.83,
     1519.63,
     1624.43
-  ]
+  ],
+  "pass_reason": "Dorian from the ISS already covered twice (ccf-20261030-09, ccf-20261114-85)"
 }
