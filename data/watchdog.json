@@ -1,6 +1,6 @@
 {
- "at": "2026-11-22T18:23:32Z",
+ "at": "2026-11-22T22:25:00Z",
  "healthy": true,
- "numbers": {"passed": 137, "needs_qa": 0, "uploaded": 215, "dropped": 101, "scheduled_next_48h": 7, "scheduled_today_mt": 10, "scheduled_tomorrow_mt": 1},
- "note": "Tomorrow has 1 scheduled, but 137 passed are waiting; the only limit is YouTube's daily upload cap, which resets 2026-11-22T19:09Z, and the next upload run fills the day. Not a supply gap, so no editor pass. Harvest (17:50Z, DVIDS blocked, NASA/Commons still producing), upload (17:37Z) and stats (today) runs all landed; no build errors."
+ "numbers": {"passed": 129, "needs_qa": 0, "uploaded": 225, "dropped": 102, "scheduled_next_48h": 14, "scheduled_today_mt": 10, "scheduled_tomorrow_mt": 10, "scheduled_nov24_mt": 1},
+ "note": "Today and tomorrow are full. Nov 24 has 1 so far; YouTube's daily upload cap resets 2026-11-23T19:24Z and the next upload run fills it from 129 passed. Upload (22:08Z), harvest (17:50Z, DVIDS blocked) and stats (today) runs all landed; no build errors or auth alerts."
 }
