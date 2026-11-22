@@ -1,16 +1,14 @@
 {
-  "at": "2026-11-22T10:40:04Z",
-  "healthy": true,
-  "numbers": {
-    "dropped": 99,
-    "uploaded": 215,
-    "passed": 131,
-    "scheduled_next_48h": 11,
-    "upcoming_by_mt_day": {
-      "2026-11-21": 10,
-      "2026-11-22": 10,
-      "2026-11-23": 1
-    }
-  },
-  "notes": "Nov 22 (MT) has 10 scheduled. The Nov 23 gap is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z, with about 130 passed Shorts waiting, so the next upload run after the cap lifts fills it; no editor pass needed. Upload runs landing every 3 h (one in progress), harvest 01:30Z (DVIDS API still blocked, Commons working), stats Nov 22, no repeated build errors, no auth alerts. QA: passed -02 r4, -03, -05, -06, -07 r2, -08; dropped -01 and -04. Commons file downloads returned 429 from this QA sandbox, so near-miss fixes were checked on the GitHub rebuilds instead of preview_shots."
+ "at": "2026-11-22T14:40:00Z",
+ "healthy": true,
+ "numbers": {
+  "passed": 131,
+  "needs_qa": 6,
+  "uploaded": 215,
+  "dropped": 99,
+  "scheduled_next_48h": 9,
+  "scheduled_today_mt": 10,
+  "scheduled_tomorrow_mt": 1
+ },
+ "note": "Tomorrow has 1 scheduled, but 131 passed are waiting; YouTube daily upload limit resets 2026-11-22T19:09Z and the next upload runs fill the day. Not a supply gap, no editor pass needed. Harvest, build, upload and stats runs all landed within window; no build errors."
 }
