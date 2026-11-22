@@ -5,7 +5,7 @@
   "story_type": "hurricane flood hoist: pararescueman rides the cable up with a toddler, kids and a woman flown to a dry parking lot",
   "music_mood": "rescue",
   "priority": 8,
-  "revision": 1,
+  "revision": 2,
   "hook": "He rose out of Harvey's floodwater holding a little girl.",
   "narration": [
     "A pararescueman rose out of Harvey's floodwater, holding this little girl.",
@@ -119,10 +119,10 @@
     ],
     [
       {
-        "start": 145.0,
-        "end": 148.0,
+        "start": 144.5,
+        "end": 147.5,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.6
       },
       {
         "start": 148.0,
@@ -153,16 +153,16 @@
     ],
     [
       {
-        "start": 188.0,
-        "end": 191.0,
+        "start": 191.6,
+        "end": 194.6,
         "layout": "crop",
         "crop_x": 0.55
       },
       {
-        "start": 193.0,
-        "end": 196.0,
+        "start": 194.6,
+        "end": 197.0,
         "layout": "crop",
-        "crop_x": 0.4
+        "crop_x": 0.5
       },
       {
         "start": 208.0,
