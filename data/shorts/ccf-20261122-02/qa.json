@@ -1,0 +1,12 @@
+{
+  "short_id": "ccf-20261122-02",
+  "revision": 4,
+  "verdict": "pass",
+  "at": "2026-11-22T10:40:04Z",
+  "score": 8,
+  "notes": "Opens on Discovery climbing on its plume, then the external tank camera view of the orbiter, booster burnout and separation. Every claim quoted from NASA; the tank-camera dropout frames are cut out in r4.",
+  "fixes": [
+    "open on the climbing shuttle (r2)",
+    "drop the 55 s tank-camera shot with digital dropouts, use 94.2 s instead (r4)"
+  ]
+}

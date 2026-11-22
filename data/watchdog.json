@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-22T06:34:41Z",
+  "at": "2026-11-22T10:40:04Z",
   "healthy": true,
   "numbers": {
-    "dropped": 97,
+    "dropped": 99,
     "uploaded": 215,
-    "passed": 125,
+    "passed": 131,
     "scheduled_next_48h": 11,
     "upcoming_by_mt_day": {
       "2026-11-21": 10,
@@ -12,5 +12,5 @@
       "2026-11-23": 1
     }
   },
-  "notes": "Nov 21 and Nov 22 (MT) have 10 scheduled each. The Nov 23 gap is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z; 125 passed Shorts are waiting, so the next upload run after the cap lifts fills it and no editor pass is needed. Upload run 02:37Z, harvest 01:30Z (DVIDS API still blocked, Commons working), stats Nov 22, no repeated build errors, no auth alerts. QA: passed -19, -20, -21 after fixes; dropped -18."
+  "notes": "Nov 22 (MT) has 10 scheduled. The Nov 23 gap is YouTube's uploadLimitExceeded cap until 2026-11-22T19:09Z, with about 130 passed Shorts waiting, so the next upload run after the cap lifts fills it; no editor pass needed. Upload runs landing every 3 h (one in progress), harvest 01:30Z (DVIDS API still blocked, Commons working), stats Nov 22, no repeated build errors, no auth alerts. QA: passed -02 r4, -03, -05, -06, -07 r2, -08; dropped -01 and -04. Commons file downloads returned 429 from this QA sandbox, so near-miss fixes were checked on the GitHub rebuilds instead of preview_shots."
 }
