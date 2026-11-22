@@ -1,6 +1,6 @@
 {
   "short_id": "ccf-20261122-02",
-  "revision": 2,
+  "revision": 3,
   "candidate_id": "commons-STS-114-launch-Jul26-2005",
   "lane": "aviation_naval",
   "story_type": "first shuttle launch after a disaster, onboard tank camera",
@@ -154,12 +154,12 @@
     [
       {
         "start": 55.0,
-        "end": 57.6,
+        "end": 56.6,
         "layout": "fit",
         "crop_x": 0.5
       },
       {
-        "start": 58.6,
+        "start": 58.7,
         "end": 61.2,
         "layout": "crop",
         "crop_x": 0.5
@@ -172,7 +172,7 @@
       },
       {
         "start": 91.4,
-        "end": 94.0,
+        "end": 94.4,
         "layout": "fit",
         "crop_x": 0.5
       }
