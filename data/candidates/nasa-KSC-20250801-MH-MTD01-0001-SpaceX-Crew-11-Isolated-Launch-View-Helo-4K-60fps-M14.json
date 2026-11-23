@@ -1,0 +1,63 @@
+{
+ "asset_id": "nasa:KSC-20250801-MH-MTD01-0001-SpaceX_Crew_11_Isolated_Launch_View_Helo_4K_60fps-M14833",
+ "source": "nasa",
+ "lane": "aviation_naval",
+ "matched_query": "hand",
+ "title": "NASA's SpaceX Crew-11 Isolated Launch View - Helicopter 4K 60fps",
+ "description": "NASA\u2019s coverage of the countdown and launch of the Crew-11 mission to the International Space Station. NASA astronauts Zena Cardman and Mike Fincke, JAXA astronaut Kimiya Yui and Roscosmos cosmonaut Oleg Platonov launched in a SpaceX Dragon spacecraft named Endeavour atop a Falcon 9 rocket to begin their long-duration stay aboard the orbiting laboratory.",
+ "keywords": "NASA, KSC, Kennedy Space Center, CCP, Commercial Crew Program, Crew-11, SpaceX, NASA astronaut, Zena Cardman, Mike Fincke, Falcon 9, Dragon, Endeavour, International Space Station, ISS, Roscosmos, cosmonaut, JAXA, Kimiya Yui",
+ "date": "2025-08-01T00:00:00Z",
+ "branch": "NASA",
+ "unit_name": "NASA KSC",
+ "credit": "NASA KSC video",
+ "page_url": "https://images.nasa.gov/details/KSC-20250801-MH-MTD01-0001-SpaceX_Crew_11_Isolated_Launch_View_Helo_4K_60fps-M14833",
+ "via": "the NASA Image and Video Library",
+ "license": "Public domain (NASA work, U.S. government)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "nasa-KSC-20250801-MH-MTD01-0001-SpaceX-Crew-11-Isolated-Launch-View-Helo-4K-60fps-M14",
+ "status": "used",
+ "harvested_at": "2026-11-23T01:53:21Z",
+ "duration": 49.87,
+ "source_file": {
+  "src": "https://images-assets.nasa.gov/video/KSC-20250801-MH-MTD01-0001-SpaceX_Crew_11_Isolated_Launch_View_Helo_4K_60fps-M14833/KSC-20250801-MH-MTD01-0001-SpaceX_Crew_11_Isolated_Launch_View_Helo_4K_60fps-M14833~large.mp4",
+  "width": 1920,
+  "height": 1012,
+  "duration": 49.866667
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  5.03,
+  7.03
+ ],
+ "drama_score": 43,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   49.9
+  ]
+ },
+ "sheet": "data/candidates/nasa-KSC-20250801-MH-MTD01-0001-SpaceX-Crew-11-Isolated-Launch-View-Helo-4K-60fps-M14.jpg",
+ "sheet_times": [
+  1.54,
+  4.63,
+  7.71,
+  10.8,
+  13.88,
+  16.97,
+  20.06,
+  23.14,
+  26.23,
+  29.31,
+  32.4,
+  35.48,
+  38.57,
+  41.65,
+  44.74,
+  47.82
+ ],
+ "used_by": "ccf-20261122-27"
+}
