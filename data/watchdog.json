@@ -1,16 +1,17 @@
 {
- "at": "2026-11-23T10:25:00Z",
+ "at": "2026-11-23T14:25:00Z",
  "healthy": false,
  "numbers": {
   "passed": 134,
   "needs_build": 0,
   "needs_qa": 0,
-  "build_failed": 10,
+  "build_failed": 18,
   "uploaded": 225,
   "dropped": 104,
+  "scheduled_next_48h": 9,
   "scheduled_nov23_mt": 10,
   "scheduled_nov24_mt": 1
  },
- "note": "Nothing to QA. Supply fine: 134 passed Shorts waiting (about 13 days). Nov 24 (MT) has 1 scheduled only because YouTube's daily upload cap holds uploads until 2026-11-23T19:24Z; the hourly upload schedule (watch loop 5.5 h) caught the reset on prior days and will fill Nov 24. Last upload run 03:58Z, stats 03:56Z, harvest Nov 22 17:50Z, builds landing. No editor pass: new specs cannot be voiced and the waiting queue covers the gap. Dashboard refreshed.",
- "needs_charles": "ElevenLabs quota is used up (0 credits left). Ten specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -04) failed to build with 401 quota_exceeded. Add credits or wait for the quota reset, then add those IDs to triggers/build-ids. Uploads are not at risk for about 13 days."
+ "note": "Nothing to QA. Supply fine: 134 passed Shorts waiting. Nov 24 (MT) has 1 scheduled because YouTube's daily upload cap holds uploads until 2026-11-23T19:24Z. Last upload run started 03:58Z and its 5.5 h watch has ended, so pushed triggers/upload to start a run that stays on watch past the 19:24Z reset and fills Nov 24. Harvest last ran Nov 22 17:42Z (within 30 h; today's scheduled run has not started yet), stats 12:04Z, builds landing. No editor pass: new specs cannot be voiced while ElevenLabs is out of credits, and the waiting queue covers about 13 days.",
+ "needs_charles": "ElevenLabs quota is used up (0 credits left). 18 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -12) failed to build with 401 quota_exceeded. Add credits or wait for the quota reset, then add those IDs to triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 13 days."
 }
