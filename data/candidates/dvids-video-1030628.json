@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1030628",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:21:44Z",
   "duration": 205.46,
   "source_file": {
@@ -99,5 +99,6 @@
     172.93,
     185.74,
     198.55
-  ]
+  ],
+  "pass_reason": "Same Cocoa flood mission as ccf-20261123-21 (1030537)"
 }
