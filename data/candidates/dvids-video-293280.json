@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-293280",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:35:05Z",
   "duration": 93.14,
   "source_file": {
@@ -68,5 +68,6 @@
     78.17,
     83.96,
     89.75
-  ]
+  ],
+  "pass_reason": "Grey murky hoist-cam throughout."
 }
