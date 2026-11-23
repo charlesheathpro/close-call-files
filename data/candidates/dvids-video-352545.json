@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-352545",
-  "status": "passed_over",
+  "status": "used",
   "harvested_at": "2026-11-06T16:51:13Z",
   "duration": 71.81,
   "source_file": {
@@ -71,5 +71,6 @@
     69.2
   ],
   "editor_note": "HOLD until about Nov 11: boat fire; ccf-20261107-04 (boat fire, raft) is queued",
-  "pass_reason": "boat fire repeats Nov 7 Short within 3 days; soft 480p FLIR"
+  "pass_reason": "boat fire repeats Nov 7 Short within 3 days; soft 480p FLIR",
+  "used_by": "ccf-20261123-19"
 }
