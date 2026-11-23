@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Orion-s-First-Flight-Test-on-NASA-TV",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:09:13Z",
   "duration": 30.94,
   "source_file": {
@@ -66,5 +66,6 @@
     25.68,
     27.58,
     29.48
-  ]
+  ],
+  "pass_reason": "NASA TV promo; EFT-1 already ran as ccf-20261114-91"
 }

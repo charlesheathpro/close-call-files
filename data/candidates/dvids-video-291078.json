@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-291078",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:21:31Z",
   "duration": 89.86,
   "source_file": {
@@ -69,5 +69,6 @@
     76.02,
     81.35,
     86.69
-  ]
+  ],
+  "pass_reason": "X-47B launch: duplicate of 291075/291077, static deck shots"
 }

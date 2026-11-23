@@ -26,7 +26,7 @@
   "time_start": 6.006,
   "aspect_ratio": "16:9",
   "id": "dvids-video-789730",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T17:40:14Z",
   "duration": 221.29,
   "source_file": {
@@ -93,5 +93,6 @@
     187.23,
     200.65,
     214.08
-  ]
+  ],
+  "pass_reason": "Bucket training over the Hudson River, no fire"
 }

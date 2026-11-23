@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Wild-Arctic-Summer",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:15:01Z",
   "duration": 80.02,
   "source_file": {
@@ -113,5 +113,6 @@
     67.09,
     72.06,
     77.03
-  ]
+  ],
+  "pass_reason": "Satellite time-lapse, nothing at Short scale"
 }

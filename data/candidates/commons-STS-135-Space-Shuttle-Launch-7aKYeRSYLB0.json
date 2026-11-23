@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-STS-135-Space-Shuttle-Launch-7aKYeRSYLB0",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:08:34Z",
   "duration": 153.18,
   "source_file": {
@@ -168,5 +168,6 @@
     128.82,
     138.36,
     147.91
-  ]
+  ],
+  "pass_reason": "Last shuttle launch already ran as ccf-20261116-01"
 }
