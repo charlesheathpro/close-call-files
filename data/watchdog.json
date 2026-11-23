@@ -1,6 +1,16 @@
 {
- "at": "2026-11-23T03:05:00Z",
- "healthy": true,
- "numbers": {"passed": 134, "needs_build": 1, "uploaded": 225, "dropped": 104, "scheduled_next_48h": 11, "scheduled_today_mt_nov22": 10, "scheduled_nov23_mt": 10, "scheduled_nov24_mt": 1},
- "note": "Nov 22 and Nov 23 (MT) have 10 each. Nov 24 has 1 because YouTube's daily upload cap (uploadLimitExceeded, resets 2026-11-23T19:24Z) holds uploads, not supply: 134 passed are waiting, so an editor pass would not help. The upload run after the reset fills Nov 24. Upload (02:31Z), harvest (Nov 22 17:50Z, DVIDS blocked) and stats (Nov 22) landed; the one build failure (ccf-20261122-24, line too short) was fixed in spec and rebuilt; no auth alerts."
+ "at": "2026-11-23T03:25:00Z",
+ "healthy": false,
+ "numbers": {
+  "passed": 134,
+  "needs_build": 1,
+  "uploaded": 225,
+  "dropped": 104,
+  "scheduled_next_48h": 11,
+  "scheduled_today_mt_nov22": 10,
+  "scheduled_nov23_mt": 10,
+  "scheduled_nov24_mt": 1
+ },
+ "note": "Nov 22 and Nov 23 (MT) have 10 each. Nov 24 has 1 because YouTube's daily upload cap (uploadLimitExceeded, resets 2026-11-23T19:24Z) holds uploads, not supply: 134 passed are waiting, so an editor pass would not help. The upload run after the reset fills Nov 24. Upload (02:31Z), harvest (Nov 22 17:50Z, DVIDS blocked) and stats (Nov 22) landed; the one build failure (ccf-20261122-24, line too short) was fixed in spec and rebuilt; no auth alerts.",
+ "needs_charles": "ElevenLabs quota is used up (256 of 168,649 credits left; 401 quota_exceeded on the ccf-20261122-25 r3 rebuild). New or edited specs cannot be voiced until the quota resets or the plan is raised. 134 passed Shorts are already built, about 13 days of supply, so uploads are not at risk."
 }
