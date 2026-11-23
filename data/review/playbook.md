@@ -1,39 +1,39 @@
-# Playbook (computed 2026-11-23T12:05:52Z from 195 Shorts older than 48 hours)
+# Playbook (computed 2026-11-23T19:27:36Z from 199 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.45, 1 Shorts)
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.45, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.44, 1 Shorts)
+- story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.44, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.44, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.43, 1 Shorts)
 - story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.38, 1 Shorts)
-- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.36, 1 Shorts)
-- story: countdown hold seconds before a launch (+0.36, 1 Shorts)
-- story: runaway boat with no one aboard (+0.36, 1 Shorts)
-- story: high-altitude jet in a pressure suit (+0.35, 1 Shorts)
+- story: sailboat aground against a rock wall in surf, boat crew tows it clear (+0.35, 1 Shorts)
+- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.34, 1 Shorts)
+- story: runaway boat with no one aboard (+0.34, 1 Shorts)
+- story: abandon ship, boat crew pickup (+0.33, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.55, 1 Shorts)
-- lane: hazards (-0.52, 4 Shorts)
-- story: historic rocket test stand implosion (-0.48, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
-- story: fishing boat on fire, five abandon ship into a life raft, good samaritan boat picks them up (-0.4, 1 Shorts)
-- story: security camera catches a tornado strike (-0.39, 1 Shorts)
+- story: dog hoist from sinking boat (-0.54, 1 Shorts)
+- lane: hazards (-0.49, 4 Shorts)
+- story: historic rocket test stand implosion (-0.46, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.44, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.42, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.39, 1 Shorts)
+- story: seven people off a sport fishing boat in ten-foot seas, life raft, helicopter hoists from the water (-0.37, 1 Shorts)
+- story: security camera catches a tornado strike (-0.37, 1 Shorts)
 
 ## Best Shorts
-- Engineer rides an F/A-18 through a loop: 38981 views, 91% watched
-- Parachuting to a sick sailor at sea: 46393 views, 80% watched
-- Flipped hull 11 miles out, 3 men on top: 47525 views, 81% watched
-- 17-year-old adrift at night, no paddle: 50215 views, 70% watched
-- 40,000 pound blasts next to a carrier: 8827 views, 101% watched
+- Parachuting to a sick sailor at sea: 46417 views, 80% watched
+- Engineer rides an F/A-18 through a loop: 39299 views, 91% watched
+- Flipped hull 11 miles out, 3 men on top: 47529 views, 81% watched
+- 17-year-old adrift at night, no paddle: 50216 views, 70% watched
+- Sailboat pinned against a rock wall: 46086 views, 68% watched
 
 ## Weakest Shorts
-- Florence: 67 people, 12 pets in one day: 130 views, 45% watched
-- Crab boat sank at night off Washington: 92 views, 45% watched
+- Florence: 67 people, 12 pets in one day: 131 views, 45% watched
+- Crab boat sank at night off Washington: 93 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 33 views, 64% watched
-- Saturn V test tower comes down: 58 views, 49% watched
+- Saturn V test tower comes down: 59 views, 49% watched
 - Dog hoisted from a sinking catamaran: 14 views, 62% watched
 
 ## QA rejections this week (do not repeat these)
@@ -52,7 +52,3 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261122-18: Calm blue-sky basket transfer with no visible danger; most of the 30 s is the same underside shot of the Jayhawk from a rain-spotted lens, and the 33 s source has nothing else to cut to. Dropped.
 - ccf-20261122-22: About 35 seconds of grey lunar surface through the LM window with nothing changing; the computer alarms are only narrated, never seen, and the last shot is a letterboxed quarantine room.
 - ccf-20261122-27: One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame.
-
-## Changed tonight
-- lane_mix {'rescue': 0.4, 'aviation_naval': 0.51, 'hazards': 0.1} -> {'rescue': 0.34, 'aviation_naval': 0.56, 'hazards': 0.1}
-- query weights for 72 searches
