@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-671456",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:50:08Z",
   "duration": 299.6,
   "source_file": {
@@ -85,5 +85,6 @@
     252.37,
     271.06,
     289.76
-  ]
+  ],
+  "pass_reason": "Routine troop transport flights."
 }

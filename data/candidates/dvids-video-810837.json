@@ -26,7 +26,7 @@
   "time_start": 3.31998,
   "aspect_ratio": "16:9",
   "id": "dvids-video-810837",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:54:31Z",
   "duration": 98.36,
   "source_file": {
@@ -75,5 +75,6 @@
     83.09,
     89.0,
     94.91
-  ]
+  ],
+  "pass_reason": "Patient care and stretcher scenes on the ground."
 }

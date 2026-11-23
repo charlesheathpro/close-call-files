@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-756370",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:54:53Z",
   "duration": 61.09,
   "source_file": {
@@ -66,5 +66,6 @@
     51.12,
     54.91,
     58.7
-  ]
+  ],
+  "pass_reason": "Distant grey FLIR of a boat, subject tiny."
 }

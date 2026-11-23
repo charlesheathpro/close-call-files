@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-987032",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T16:59:43Z",
   "duration": 58.3,
   "source_file": {
@@ -158,5 +158,6 @@
     48.77,
     52.38,
     55.99
-  ]
+  ],
+  "pass_reason": "Vertical promo with interview and maps; launches only a few seconds."
 }

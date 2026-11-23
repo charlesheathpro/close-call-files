@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-86019",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:03:57Z",
   "duration": 174.51,
   "source_file": {
@@ -300,5 +300,6 @@
     147.44,
     158.07,
     168.7
-  ]
+  ],
+  "pass_reason": "Static letterboxed hoist onto a ship deck, no visible danger."
 }

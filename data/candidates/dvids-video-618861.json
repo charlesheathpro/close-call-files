@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-618861",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:15:55Z",
   "duration": 446.12,
   "source_file": {
@@ -333,5 +333,6 @@
     375.99,
     403.85,
     431.7
-  ]
+  ],
+  "pass_reason": "Lab equipment testing feature."
 }

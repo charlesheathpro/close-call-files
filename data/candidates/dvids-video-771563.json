@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-771563",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-31T00:11:26Z",
   "duration": 783.19,
   "source_file": {
@@ -863,5 +863,6 @@
     660.39,
     709.31,
     758.23
-  ]
+  ],
+  "pass_reason": "Mostly mop-up and interviews, licensed-sounding music, no stated outcome."
 }
