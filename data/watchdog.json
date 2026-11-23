@@ -1,6 +1,6 @@
 {
- "at": "2026-11-22T22:25:00Z",
+ "at": "2026-11-23T03:05:00Z",
  "healthy": true,
- "numbers": {"passed": 129, "needs_qa": 0, "uploaded": 225, "dropped": 102, "scheduled_next_48h": 14, "scheduled_today_mt": 10, "scheduled_tomorrow_mt": 10, "scheduled_nov24_mt": 1},
- "note": "Today and tomorrow are full. Nov 24 has 1 so far; YouTube's daily upload cap resets 2026-11-23T19:24Z and the next upload run fills it from 129 passed. Upload (22:08Z), harvest (17:50Z, DVIDS blocked) and stats (today) runs all landed; no build errors or auth alerts."
+ "numbers": {"passed": 134, "needs_build": 1, "uploaded": 225, "dropped": 104, "scheduled_next_48h": 11, "scheduled_today_mt_nov22": 10, "scheduled_nov23_mt": 10, "scheduled_nov24_mt": 1},
+ "note": "Nov 22 and Nov 23 (MT) have 10 each. Nov 24 has 1 because YouTube's daily upload cap (uploadLimitExceeded, resets 2026-11-23T19:24Z) holds uploads, not supply: 134 passed are waiting, so an editor pass would not help. The upload run after the reset fills Nov 24. Upload (02:31Z), harvest (Nov 22 17:50Z, DVIDS blocked) and stats (Nov 22) landed; the one build failure (ccf-20261122-24, line too short) was fixed in spec and rebuilt; no auth alerts."
 }
