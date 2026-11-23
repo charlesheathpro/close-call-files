@@ -1,7 +1,452 @@
 {
   "short_id": "ccf-20261122-24",
-  "revision": 2,
-  "status": "error",
-  "built_at": "2026-11-23T02:00:53Z",
-  "error": "line 1: shots are 4.2s even after extending, but the line needs 4.6s; give that line longer or more shots"
+  "revision": 3,
+  "status": "ok",
+  "built_at": "2026-11-23T02:29:51Z",
+  "duration": 27.05,
+  "source_resolution": "1280x720",
+  "timeline": [
+    {
+      "text": "Seconds after liftoff, this rocket fell back and exploded.",
+      "start": 0.05,
+      "end": 4.25,
+      "words": [
+        {
+          "w": "Seconds",
+          "s": 0.05,
+          "e": 0.53
+        },
+        {
+          "w": "after",
+          "s": 0.61,
+          "e": 0.85
+        },
+        {
+          "w": "liftoff,",
+          "s": 0.93,
+          "e": 1.73
+        },
+        {
+          "w": "this",
+          "s": 1.81,
+          "e": 1.97
+        },
+        {
+          "w": "rocket",
+          "s": 2.05,
+          "e": 2.37
+        },
+        {
+          "w": "fell",
+          "s": 2.53,
+          "e": 2.77
+        },
+        {
+          "w": "back",
+          "s": 2.93,
+          "e": 3.09
+        },
+        {
+          "w": "and",
+          "s": 3.17,
+          "e": 3.25
+        },
+        {
+          "w": "exploded.",
+          "s": 3.33,
+          "e": 4.25
+        }
+      ]
+    },
+    {
+      "text": "It was an Atlas Centaur test flight at Cape Kennedy in March 1965.",
+      "start": 4.53,
+      "end": 9.73,
+      "words": [
+        {
+          "w": "It",
+          "s": 4.53,
+          "e": 4.61
+        },
+        {
+          "w": "was",
+          "s": 4.69,
+          "e": 4.85
+        },
+        {
+          "w": "an",
+          "s": 4.93,
+          "e": 5.01
+        },
+        {
+          "w": "Atlas",
+          "s": 5.09,
+          "e": 5.41
+        },
+        {
+          "w": "Centaur",
+          "s": 5.49,
+          "e": 5.89
+        },
+        {
+          "w": "test",
+          "s": 5.97,
+          "e": 6.21
+        },
+        {
+          "w": "flight",
+          "s": 6.29,
+          "e": 6.53
+        },
+        {
+          "w": "at",
+          "s": 6.61,
+          "e": 6.69
+        },
+        {
+          "w": "Cape",
+          "s": 6.77,
+          "e": 6.93
+        },
+        {
+          "w": "Kennedy",
+          "s": 7.01,
+          "e": 7.49
+        },
+        {
+          "w": "in",
+          "s": 7.57,
+          "e": 7.73
+        },
+        {
+          "w": "March",
+          "s": 7.81,
+          "e": 8.05
+        },
+        {
+          "w": "1965.",
+          "s": 8.13,
+          "e": 9.73
+        }
+      ]
+    },
+    {
+      "text": "A fuel valve failed, and it rose only a few feet.",
+      "start": 9.81,
+      "end": 13.25,
+      "words": [
+        {
+          "w": "A",
+          "s": 9.81,
+          "e": 9.89
+        },
+        {
+          "w": "fuel",
+          "s": 9.97,
+          "e": 10.21
+        },
+        {
+          "w": "valve",
+          "s": 10.29,
+          "e": 10.61
+        },
+        {
+          "w": "failed,",
+          "s": 10.69,
+          "e": 11.25
+        },
+        {
+          "w": "and",
+          "s": 11.29,
+          "e": 11.37
+        },
+        {
+          "w": "it",
+          "s": 11.37,
+          "e": 11.45
+        },
+        {
+          "w": "rose",
+          "s": 11.49,
+          "e": 11.73
+        },
+        {
+          "w": "only",
+          "s": 11.89,
+          "e": 12.05
+        },
+        {
+          "w": "a",
+          "s": 12.13,
+          "e": 12.21
+        },
+        {
+          "w": "few",
+          "s": 12.29,
+          "e": 12.37
+        },
+        {
+          "w": "feet.",
+          "s": 12.45,
+          "e": 13.25
+        }
+      ]
+    },
+    {
+      "text": "Atlas Centaur was built to launch Surveyor, a robot lander sent to find out whether the Moon's surface could hold up an Apollo spacecraft.",
+      "start": 13.33,
+      "end": 21.49,
+      "words": [
+        {
+          "w": "Atlas",
+          "s": 13.33,
+          "e": 13.65
+        },
+        {
+          "w": "Centaur",
+          "s": 13.73,
+          "e": 14.21
+        },
+        {
+          "w": "was",
+          "s": 14.33,
+          "e": 14.45
+        },
+        {
+          "w": "built",
+          "s": 14.53,
+          "e": 14.61
+        },
+        {
+          "w": "to",
+          "s": 14.69,
+          "e": 14.77
+        },
+        {
+          "w": "launch",
+          "s": 14.89,
+          "e": 15.01
+        },
+        {
+          "w": "Surveyor,",
+          "s": 15.09,
+          "e": 15.97
+        },
+        {
+          "w": "a",
+          "s": 16.05,
+          "e": 16.21
+        },
+        {
+          "w": "robot",
+          "s": 16.41,
+          "e": 16.61
+        },
+        {
+          "w": "lander",
+          "s": 16.69,
+          "e": 17.09
+        },
+        {
+          "w": "sent",
+          "s": 17.21,
+          "e": 17.33
+        },
+        {
+          "w": "to",
+          "s": 17.41,
+          "e": 17.49
+        },
+        {
+          "w": "find",
+          "s": 17.61,
+          "e": 17.73
+        },
+        {
+          "w": "out",
+          "s": 17.81,
+          "e": 17.97
+        },
+        {
+          "w": "whether",
+          "s": 18.09,
+          "e": 18.21
+        },
+        {
+          "w": "the",
+          "s": 18.29,
+          "e": 18.37
+        },
+        {
+          "w": "Moon's",
+          "s": 18.45,
+          "e": 18.69
+        },
+        {
+          "w": "surface",
+          "s": 18.93,
+          "e": 19.17
+        },
+        {
+          "w": "could",
+          "s": 19.25,
+          "e": 19.33
+        },
+        {
+          "w": "hold",
+          "s": 19.41,
+          "e": 19.57
+        },
+        {
+          "w": "up",
+          "s": 19.65,
+          "e": 19.73
+        },
+        {
+          "w": "an",
+          "s": 19.77,
+          "e": 19.85
+        },
+        {
+          "w": "Apollo",
+          "s": 20.01,
+          "e": 20.21
+        },
+        {
+          "w": "spacecraft.",
+          "s": 20.37,
+          "e": 21.49
+        }
+      ]
+    },
+    {
+      "text": "On a later flight every system worked perfectly, setting the stage for the Surveyor launch.",
+      "start": 21.57,
+      "end": 26.85,
+      "words": [
+        {
+          "w": "On",
+          "s": 21.57,
+          "e": 21.65
+        },
+        {
+          "w": "a",
+          "s": 21.73,
+          "e": 21.81
+        },
+        {
+          "w": "later",
+          "s": 21.97,
+          "e": 22.13
+        },
+        {
+          "w": "flight",
+          "s": 22.37,
+          "e": 22.61
+        },
+        {
+          "w": "every",
+          "s": 22.69,
+          "e": 22.93
+        },
+        {
+          "w": "system",
+          "s": 23.01,
+          "e": 23.33
+        },
+        {
+          "w": "worked",
+          "s": 23.45,
+          "e": 23.57
+        },
+        {
+          "w": "perfectly,",
+          "s": 23.65,
+          "e": 24.53
+        },
+        {
+          "w": "setting",
+          "s": 24.69,
+          "e": 24.93
+        },
+        {
+          "w": "the",
+          "s": 25.01,
+          "e": 25.09
+        },
+        {
+          "w": "stage",
+          "s": 25.29,
+          "e": 25.49
+        },
+        {
+          "w": "for",
+          "s": 25.53,
+          "e": 25.61
+        },
+        {
+          "w": "the",
+          "s": 25.65,
+          "e": 25.73
+        },
+        {
+          "w": "Surveyor",
+          "s": 25.73,
+          "e": 26.13
+        },
+        {
+          "w": "launch.",
+          "s": 26.21,
+          "e": 26.85
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "resolution": {
+      "ok": true,
+      "value": "1080x1920"
+    },
+    "duration": {
+      "ok": true,
+      "value": 27.07
+    },
+    "av_sync": {
+      "ok": true,
+      "value": 0.017
+    },
+    "fits_narration": {
+      "ok": true,
+      "value": 0.22
+    },
+    "loudness": {
+      "ok": true,
+      "value": -14.1
+    },
+    "true_peak": {
+      "ok": true,
+      "value": -2.3
+    },
+    "dead_air": {
+      "ok": true,
+      "value": []
+    },
+    "starts_talking": {
+      "ok": true,
+      "value": 0.05
+    },
+    "black_frames": {
+      "ok": true,
+      "value": []
+    },
+    "frozen_frames": {
+      "ok": true,
+      "warn": false,
+      "value": []
+    }
+  },
+  "failed_checks": [],
+  "render_sheet": "data/shorts/ccf-20261122-24/render_sheet.jpg",
+  "asset_url": "https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261122-24-r3.mp4",
+  "local_path": "/home/runner/work/_temp/ccf/ccf-20261122-24/ccf-20261122-24.mp4"
 }
