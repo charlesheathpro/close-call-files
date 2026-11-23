@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:1016434",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "avalanche",
+  "title": "Falcon Avalanche",
+  "description": "U.S. Army Paratroopers assigned to 2nd Brigade Combat Team, 82nd Airborne Division participate in multiple exercises including artillery live fires, and airborne operations during Falcon Avalanche on Fort Bragg, North Carolina, July 11-15, 2026. Falcon Avalanche is an annual exercise that validates the brigade’s deployment readiness and warfighting capabilities. (U.S. Army video by Sgt. Noe Cork)",
+  "keywords": "all-american, #falconbrigade, paratroopers, Airborne, 82nd  Airborne Division",
+  "date": "2026-07-15T00:00:00-04:00",
+  "date_published": "2026-07-28T02:50:19-04:00",
+  "branch": "Army",
+  "unit_name": "49th Public Affairs Detachment",
+  "credit": "Sgt. Noe Cork",
+  "category": "Video Productions",
+  "virin": "260715-A-UV759-3973",
+  "location": {
+    "city": "Fort Bragg",
+    "state": "North Carolina",
+    "country": "United States",
+    "state_abbreviation": "NC",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1016434/falcon-avalanche",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "4:3",
+  "id": "dvids-video-1016434",
+  "status": "new",
+  "harvested_at": "2026-11-23T18:25:07Z",
+  "duration": 19.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2607/DOD_111866082/DOD_111866082.mp4",
+    "width": 1080,
+    "height": 1920,
+    "bitrate": 0,
+    "size": 22187635
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    11.89,
+    12.64,
+    14.6
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      18.3
+    ],
+    "silence_ends": [
+      19.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1016434.jpg",
+  "sheet_times": [
+    0.58,
+    1.74,
+    2.9,
+    4.06,
+    5.22,
+    6.38,
+    7.54,
+    8.7,
+    9.86,
+    11.02,
+    12.18,
+    13.34,
+    14.5,
+    15.66,
+    16.82,
+    17.98
+  ]
+}
