@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-756906",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:54:49Z",
   "duration": 40.09,
   "source_file": {
@@ -69,5 +69,6 @@
     33.4,
     35.87,
     38.35
-  ]
+  ],
+  "pass_reason": "Mostly dark cabin interior after a few seconds of hoist."
 }

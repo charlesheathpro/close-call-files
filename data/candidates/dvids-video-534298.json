@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-534298",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:02:12Z",
   "duration": 61.01,
   "source_file": {
@@ -66,5 +66,6 @@
     51.06,
     54.84,
     58.62
-  ]
+  ],
+  "pass_reason": "Grey night IR, washed out."
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-808325",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:44:52Z",
   "duration": 120.64,
   "source_file": {
@@ -76,5 +76,6 @@
     101.37,
     108.88,
     116.39
-  ]
+  ],
+  "pass_reason": "Murky night water, then a static deck shot."
 }

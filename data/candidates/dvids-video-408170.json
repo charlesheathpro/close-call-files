@@ -26,7 +26,7 @@
   "time_start": 4.09207,
   "aspect_ratio": "4:3",
   "id": "dvids-video-408170",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:44:28Z",
   "duration": 113.17,
   "source_file": {
@@ -71,5 +71,6 @@
     95.71,
     102.49,
     109.28
-  ]
+  ],
+  "pass_reason": "Green artifact band across the frame for most of the clip."
 }

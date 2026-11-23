@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317026",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:00:21Z",
   "duration": 169.23,
   "source_file": {
@@ -319,5 +319,6 @@
     142.36,
     152.91,
     163.45
-  ]
+  ],
+  "pass_reason": "Fogged lens, murky throughout."
 }
