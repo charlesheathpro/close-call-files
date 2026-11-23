@@ -1,0 +1,233 @@
+{
+ "candidate_id": "nasa-KSC-20240625-MH-AJN01-0001-GOES-U-Isolated-Launch-and-Landing-Views-M7629-mov",
+ "lane": "aviation_naval",
+ "story_type": "heavy rocket side boosters separate, tumble back seen by long-range trackers, and land; onboard rocket camera at liftoff",
+ "music_mood": "aviation",
+ "priority": 7,
+ "hook": "Two rocket boosters fell back from the sky and landed.",
+ "narration": [
+  "These two rocket boosters fell back out of the sky and landed themselves.",
+  "This was a Falcon Heavy, launching NOAA's GOES-U weather satellite from the Kennedy Space Center.",
+  "All twenty seven engines powered it off the pad.",
+  "Then the two side boosters shut down and broke away from the center core.",
+  "They flipped around and started back toward the Cape.",
+  "Each one fires its engines twice more, a reentry burn and then a landing burn, braking hard like a car.",
+  "The flight team heard both sonic booms just before touchdown."
+ ],
+ "outcome": "Both side boosters touched down at Landing Zones one and two, and GOES-U flew on toward orbit.",
+ "location_card": {
+  "place": "Kennedy Space Center, Florida",
+  "date": "June 25, 2024"
+ },
+ "keep_source_audio": true,
+ "title": "Two boosters fall back and land",
+ "tags": [
+  "falcon heavy",
+  "booster landing",
+  "goes-u",
+  "noaa",
+  "rocket launch",
+  "sonic boom",
+  "kennedy space center",
+  "tracking camera"
+ ],
+ "question_comment": "Would you drive out to the Cape just to hear the sonic booms?",
+ "facts": [
+  {
+   "claim": "GOES-U is NOAA's weather satellite launched with NASA coverage",
+   "source_quote": "NASA provided live coverage the launch of the National Oceanic and Atmospheric Administration\u2019s (NOAA) GOES-U"
+  },
+  {
+   "claim": "27 engines",
+   "source_quote": "All 27 engines powerfully lifting"
+  },
+  {
+   "claim": "Side boosters shut off, center core continues",
+   "source_quote": "The side boosters are going to shut off while the center core will continue on."
+  },
+  {
+   "claim": "Boosters flipped and returned to the Cape",
+   "source_quote": "Essentially these boosters have flipped back and are returning on a path to the Cape here."
+  },
+  {
+   "claim": "Reentry burn and landing burn, like a car brake",
+   "source_quote": "A reentry burn and then a landing burn."
+  },
+  {
+   "claim": "Brake analogy",
+   "source_quote": "You can imagine this as a break on your car where it starts slowing the boosters back down very quickly."
+  },
+  {
+   "claim": "Sonic booms heard",
+   "source_quote": "Oh just heard the two sonic booms here in the room."
+  },
+  {
+   "claim": "Both landed at LZ-1 and LZ-2",
+   "source_quote": "We have successful landing of the two side boosters."
+  },
+  {
+   "claim": "Landing zones one and two",
+   "source_quote": "So again we have the two boosters that are going to be returning to the Cape here landing at landing zones one and two."
+  }
+ ],
+ "line_shots": [
+  [
+   {
+    "start": 2012.5,
+    "end": 2015.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 2062.0,
+    "end": 2064.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 273.0,
+    "end": 275.5,
+    "layout": "crop",
+    "crop_x": 0.55
+   },
+   {
+    "start": 285.0,
+    "end": 287.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 289.0,
+    "end": 291.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 2097.0,
+    "end": 2099.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 2101.0,
+    "end": 2103.5,
+    "layout": "crop",
+    "crop_x": 0.4
+   },
+   {
+    "start": 2105.0,
+    "end": 2107.5,
+    "layout": "crop",
+    "crop_x": 0.6
+   }
+  ],
+  [
+   {
+    "start": 1112.0,
+    "end": 1114.5,
+    "layout": "crop",
+    "crop_x": 0.7
+   },
+   {
+    "start": 1121.0,
+    "end": 1123.5,
+    "layout": "crop",
+    "crop_x": 0.6
+   },
+   {
+    "start": 1149.0,
+    "end": 1151.5,
+    "layout": "crop",
+    "crop_x": 0.3
+   }
+  ],
+  [
+   {
+    "start": 1144.0,
+    "end": 1146.5,
+    "layout": "crop",
+    "crop_x": 0.3
+   },
+   {
+    "start": 2020.0,
+    "end": 2022.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 2028.5,
+    "end": 2031.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 1020.0,
+    "end": 1022.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 1022.5,
+    "end": 1025.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 1025.0,
+    "end": 1027.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 2016.0,
+    "end": 2018.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 2056.5,
+    "end": 2059.0,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 1028.0,
+    "end": 1030.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   }
+  ],
+  [
+   {
+    "start": 1032.0,
+    "end": 1034.5,
+    "layout": "crop",
+    "crop_x": 0.5
+   },
+   {
+    "start": 2066.0,
+    "end": 2068.5,
+    "layout": "crop",
+    "crop_x": 0.45
+   },
+   {
+    "start": 2009.0,
+    "end": 2011.5,
+    "layout": "crop",
+    "crop_x": 0.45
+   }
+  ]
+ ],
+ "short_id": "ccf-20261122-23",
+ "revision": 1,
+ "description": "A Falcon Heavy launches NOAA's GOES-U weather satellite from Kennedy Space Center on June 25, 2024, and both side boosters fly back to land at Landing Zones 1 and 2, seen by NASA tracking cameras.\n\nFootage: NASA Kennedy Space Center video, via the NASA Image and Video Library: https://images.nasa.gov/details/KSC-20240625-MH-AJN01-0001-GOES_U_Isolated_Launch_and_Landing_Views-M7629.mov\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #falconheavy #rocketlaunch #nasa",
+ "preview_ok": "Tracked boosters against plain blue sky trip EMPTY; the booster fills the middle of the frame in each flagged shot. Separation shots use fit so the boosters beside the plume stay in frame. Separation shots are bright plumes against a dark high-altitude sky, which trips DARK; rocket and boosters are in frame."
+}
