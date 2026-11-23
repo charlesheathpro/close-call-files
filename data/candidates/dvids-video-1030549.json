@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:1030549",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "flood rescue",
+  "title": "Florida National Guard Soldiers Coordinate with Local Agencies to Assist Flood Victims",
+  "description": "Florida Army National Guard Soldiers with Bravo Battery, 1st Battalion, 265th Air Defense Artillery Regiment coordinate with Brevard County Special Operations (BCSO) personnel to conduct high-water rescue missions in response to flooding due to heavy rainfall in Cocoa, Florida, Nov. 20, 2026. (U.S. Army Video by Staff Sgt. Marc Morgenstern, 107th MPAD)",
+  "keywords": "Florida First",
+  "date": "2026-11-20T00:00:00-05:00",
+  "date_published": "2026-11-20T17:30:49-05:00",
+  "branch": "Army",
+  "unit_name": "107th Mobile Public Affairs Detachment",
+  "credit": "Sgt. Marc Morgenstern",
+  "category": "B-Roll",
+  "virin": "261120-Z-CV219-1002",
+  "location": {
+    "city": "Cocoa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1030549/florida-national-guard-soldiers-coordinate-with-local-agencies-assist-flood-victims",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1030549",
+  "status": "new",
+  "harvested_at": "2026-11-23T18:22:18Z",
+  "duration": 60.06,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163241/DOD_112163241.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 59332003
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.94,
+    40.44,
+    44.71,
+    55.05
+  ],
+  "drama_score": 75,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      55.1
+    ],
+    "silence_ends": [
+      10.0,
+      60.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1030549.jpg",
+  "sheet_times": [
+    1.86,
+    5.58,
+    9.31,
+    13.03,
+    16.75,
+    20.47,
+    24.2,
+    27.92,
+    31.64,
+    35.36,
+    39.09,
+    42.81,
+    46.53,
+    50.25,
+    53.98,
+    57.7
+  ]
+}

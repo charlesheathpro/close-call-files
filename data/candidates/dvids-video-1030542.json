@@ -1,0 +1,76 @@
+{
+  "asset_id": "video:1030542",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "flood rescue",
+  "title": "GoPro Footage from Vehicle of Heavy Flooding in Eastern Florida",
+  "description": "A GoPro mounted to a vehicle captured video while following Florida Army National Guard Soldiers with Bravo Battery, 1st Battalion, 265th Air Defense Artillery Regiment as they conducted high-water rescue missions in response to flooding due to heavy rainfall in Cocoa, Florida, Nov. 20, 2026. (U.S. Army Video by Staff Sgt. Marc Morgenstern, 107th MPAD)",
+  "keywords": "Florida First",
+  "date": "2026-11-20T00:00:00-05:00",
+  "date_published": "2026-11-20T17:37:15-05:00",
+  "branch": "Army",
+  "unit_name": "107th Mobile Public Affairs Detachment",
+  "credit": "Sgt. Marc Morgenstern",
+  "category": "B-Roll",
+  "virin": "261120-Z-CV219-1001",
+  "location": {
+    "city": "Cocoa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1030542/gopro-footage-vehicle-heavy-flooding-eastern-florida",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1030542",
+  "status": "new",
+  "harvested_at": "2026-11-23T18:22:10Z",
+  "duration": 183.77,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163167/DOD_112163167.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 210812993
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    9.94,
+    156.74,
+    178.78
+  ],
+  "drama_score": 77,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      178.8
+    ],
+    "silence_ends": [
+      10.0,
+      183.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1030542.jpg",
+  "sheet_times": [
+    5.73,
+    17.18,
+    28.64,
+    40.09,
+    51.54,
+    63.0,
+    74.45,
+    85.91,
+    97.36,
+    108.81,
+    120.27,
+    131.72,
+    143.18,
+    154.63,
+    166.09,
+    177.54
+  ]
+}

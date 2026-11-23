@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:1030537",
+  "source": "dvids",
+  "lane": "rescue",
+  "matched_query": "flood rescue",
+  "title": "Soldiers conduct high water rescue missions",
+  "description": "Florida Army National Guard Spc. Mark Perez and Sgt. Jason Rivera, assigned to Bravo Battery, 1st Battalion, 265th Air Defense Artillery Regiment, conduct high water rescue missions in Cocoa, Florida. The Soldiers evacuated local citizens impacted by severe flooding in the area.",
+  "keywords": "FLARNG, #nationalguard",
+  "date": "2026-11-20T00:00:00-05:00",
+  "date_published": "2026-11-20T11:03:54-05:00",
+  "branch": "Army",
+  "unit_name": "107th Mobile Public Affairs Detachment",
+  "credit": "1st Lt. Brandon Miles",
+  "category": "B-Roll",
+  "virin": "261120-A-SH206-7779",
+  "location": {
+    "city": "Cocoa",
+    "state": "Florida",
+    "country": "United States",
+    "state_abbreviation": "FL",
+    "country_abbreviation": "US"
+  },
+  "page_url": "https://www.dvidshub.net/video/1030537/soldiers-conduct-high-water-rescue-missions",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-1030537",
+  "status": "new",
+  "harvested_at": "2026-11-23T18:22:28Z",
+  "duration": 368.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163042/DOD_112163042-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 393107671
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    8.76,
+    29.24,
+    35.16,
+    46.71,
+    59.89,
+    73.07,
+    76.03,
+    101.81,
+    136.01,
+    157.37,
+    162.12,
+    206.87,
+    239.07,
+    309.98,
+    324.24,
+    339.59,
+    343.34,
+    344.93,
+    353.98,
+    363.86
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      368.8
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1030537.jpg",
+  "sheet_times": [
+    11.51,
+    34.53,
+    57.55,
+    80.57,
+    103.59,
+    126.61,
+    149.63,
+    172.65,
+    195.67,
+    218.69,
+    241.71,
+    264.73,
+    287.76,
+    310.78,
+    333.8,
+    356.82
+  ]
+}
