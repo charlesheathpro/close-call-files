@@ -1,0 +1,244 @@
+{
+  "short_id": "ccf-20261124-11",
+  "revision": 1,
+  "candidate_id": "commons-Apollo-14-Mission-to-Fra-Mauro",
+  "lane": "aviation_naval",
+  "story_type": "false abort signal before a moon landing, fixed by rewriting the lander's software in two hours, 1971",
+  "music_mood": "night",
+  "priority": 5,
+  "hook": "The lander kept signaling ABORT. The landing was two hours away.",
+  "narration": [
+    "Their lunar module kept signaling abort, and the Moon landing was coming up.",
+    "February 1971. Alan Shepard and Edgar Mitchell had just undocked Apollo 14's lander, Antares.",
+    "If that abort signal came during the landing burn, Antares would abort automatically, and the landing would be off.",
+    "Mission Control had two hours, the time of one lunar orbit, to find a solution.",
+    "Flight controller Dick Thorson traced it to a loose particle in the abort button.",
+    "One loose speck in a switch can fake a signal.",
+    "Working against time at MIT, a programmer reprogrammed the lander's computer to ignore the false signal.",
+    "The new program was checked in a simulator at Cape Kennedy, then sent up to the crew.",
+    "[short pause] Less than ten miles above the surface, they swept across the landing site."
+  ],
+  "outcome": "Antares landed at Fra Mauro, and Alan Shepard, America's first man in space, stepped onto the Moon.",
+  "location_card": {
+    "place": "Lunar orbit, Apollo 14",
+    "date": "Feb. 5, 1971"
+  },
+  "keep_source_audio": false,
+  "title": "Abort signal before a Moon landing",
+  "description": "Before Apollo 14's landing in February 1971, the lunar module Antares kept receiving a false abort signal from a loose particle in its abort button. A programmer at MIT rewrote the computer's instructions to ignore it within one orbit, and Alan Shepard and Edgar Mitchell landed at Fra Mauro. From the 1971 NASA film Apollo 14: Mission to Fra Mauro.\n\nFootage: NASA video (Apollo 14: Mission to Fra Mauro, 1971), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Apollo_14_-_Mission_to_Fra_Mauro.webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #apollo14 #nasa #spacehistory",
+  "tags": [
+    "apollo 14",
+    "alan shepard",
+    "edgar mitchell",
+    "moon landing",
+    "abort",
+    "nasa",
+    "space history",
+    "1971",
+    "real footage"
+  ],
+  "question_comment": "Would you trust a software patch written two hours before your landing?",
+  "facts": [
+    {
+      "claim": "Shepard and Mitchell undocked in Antares",
+      "source_quote": "Later that day, Shepard and Mitchell climbed into the lunar module Antares, and undocked, prior to descent."
+    },
+    {
+      "claim": "Erroneous abort",
+      "source_quote": "An erroneous abort was being signaled on-board Antares and in mission control."
+    },
+    {
+      "claim": "Would abort automatically",
+      "source_quote": "Should this occur during the landing burn, Antares would abort automatically, and the landing would be off."
+    },
+    {
+      "claim": "Two hours",
+      "source_quote": "The mission control team had two hours, the time of one lunar orbit to find a solution."
+    },
+    {
+      "claim": "Thorson, loose particle",
+      "source_quote": "Flight controller Dick Thorson diagnosed the trouble as a loose particle in the abort button."
+    },
+    {
+      "claim": "Reprogrammed at MIT",
+      "source_quote": "he reprogrammed the lunar module computer to ignore the fault signal."
+    },
+    {
+      "claim": "Simulator check, sent up",
+      "source_quote": "This new program was then checked out in a simulator at Cape Kennedy."
+    },
+    {
+      "claim": "Less than ten miles up",
+      "source_quote": "Less than ten miles above the lunar surface, Shepard and Mitchell swept across the landing site."
+    },
+    {
+      "claim": "Shepard stepped onto the Moon",
+      "source_quote": "Alan Shepard stepped onto the moon."
+    },
+    {
+      "claim": "First American in space",
+      "source_quote": "America's first man in space, Alan Shepard, rode the Mercury capsule,"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 364.6,
+        "end": 369.4,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 384.3,
+        "end": 387.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 348.0,
+        "end": 352.0,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 352.5,
+        "end": 357.0,
+        "layout": "crop",
+        "crop_x": 0.0
+      }
+    ],
+    [
+      {
+        "start": 390.3,
+        "end": 394.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 380.1,
+        "end": 384.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 376.6,
+        "end": 379.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 433.8,
+        "end": 437.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 387.6,
+        "end": 390.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 439.1,
+        "end": 441.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 448.3,
+        "end": 450.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 409.6,
+        "end": 411.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 412.1,
+        "end": 413.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 395.1,
+        "end": 398.7,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 400.6,
+        "end": 404.2,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ],
+    [
+      {
+        "start": 426.0,
+        "end": 429.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 429.9,
+        "end": 433.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 414.2,
+        "end": 418.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 418.3,
+        "end": 422.3,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 590.5,
+        "end": 594.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 594.2,
+        "end": 598.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 606.4,
+        "end": 610.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 619.4,
+        "end": 623.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ],
+  "preview_ok": "DARK flags are the lunar module lit against black space and EMPTY flags are the grey lunar surface through the window; both are what the lines describe."
+}
