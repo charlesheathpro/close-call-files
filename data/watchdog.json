@@ -1,8 +1,8 @@
 {
- "at": "2026-11-24T06:20:00Z",
+ "at": "2026-11-24T10:20:00Z",
  "healthy": false,
- "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 34, "uploaded": 235, "dropped": 104,
+ "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 39, "uploaded": 235, "dropped": 104,
   "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 1},
- "note": "Nothing to QA. 124 passed Shorts waiting (about 12 days). Nov 24 MT full. Nov 25 MT has 1 because YouTube's daily upload cap holds uploads until 2026-11-24T19:35Z; the 3-hourly upload runs fill it after the reset. Upload 02:33Z, harvest 22:06Z, stats Nov 23 landed. No editor pass: newest specs (23-27, 23-28) also failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced and the passed buffer covers supply.",
- "needs_charles": "ElevenLabs quota is used up (0 credits). 34 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 12 days."
+ "note": "Nothing to QA. 124 passed Shorts waiting (about 12 days). Nov 24 MT full; 10 a day held every day Nov 15 to 24. Nov 25 MT has 1 because YouTube's daily upload cap holds uploads until 2026-11-24T19:35Z; the 3-hourly upload runs fill it after the reset, before the 6 PM MT check. No editor pass: all 5 new specs from this morning (ccf-20261124-01 to -05) also failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced and the passed buffer covers supply.",
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 39 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -05) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 12 days."
 }
