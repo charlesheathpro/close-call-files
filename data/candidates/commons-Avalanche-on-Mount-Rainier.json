@@ -1,0 +1,61 @@
+{
+ "asset_id": "commons:File:Avalanche on Mount Rainier.webm",
+ "source": "commons",
+ "lane": "hazards",
+ "matched_query": "Videos of avalanches",
+ "title": "Avalanche on Mount Rainier",
+ "description": "Avalanche on Mount Rainier, Washington State, USA. Taken in 1973.",
+ "keywords": "PD-USGov-Interior-NPS, Videos of avalanches",
+ "date": "1973",
+ "branch": "",
+ "unit_name": "National Park Service",
+ "credit": "National Park Service video",
+ "original_source": "National Park Service",
+ "page_url": "https://commons.wikimedia.org/wiki/File:Avalanche_on_Mount_Rainier.webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work, PD-USGov-Interior-NPS)",
+ "location": {},
+ "id": "commons-Avalanche-on-Mount-Rainier",
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e0/Avalanche_on_Mount_Rainier.webm/Avalanche_on_Mount_Rainier.webm.1080p.vp9.webm",
+  "width": 1920,
+  "height": 1080
+ },
+ "status": "used",
+ "harvested_at": "2026-11-24T20:53:24Z",
+ "duration": 85.8,
+ "time_start": 0.0,
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  16.27,
+  31.82,
+  50.3,
+  52.68
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [],
+  "silence_ends": []
+ },
+ "sheet": "data/candidates/commons-Avalanche-on-Mount-Rainier.jpg",
+ "sheet_times": [
+  2.67,
+  8.0,
+  13.33,
+  18.66,
+  23.99,
+  29.32,
+  34.65,
+  39.98,
+  45.31,
+  50.65,
+  55.98,
+  61.31,
+  66.64,
+  71.97,
+  77.3,
+  82.63
+ ],
+ "used_by": "ccf-20261124-21"
+}

@@ -1,60 +1,61 @@
 {
-  "asset_id": "commons:File:U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ....webm",
-  "source": "commons",
-  "lane": "aviation_naval",
-  "matched_query": "sinking ship",
-  "title": "U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ...",
-  "description": "U.S. forces have struck or sunk to the bottom of the ocean more than 20 ships from the Iranian regime. Last night, CENTCOM added a Soleimani-class warship to the list. https (colon) // t (dot) co/KgW8cS726P",
-  "keywords": "PD US Government, License review needed (video), CC-PD-Mark, Uploaded with video2commons, Videos of 2026, IRIS FS313-03 Shahid Sayyad Shirazi (ship, 2024), PD-USGov missing SDC copyright status",
-  "date": "2026-03-04",
-  "branch": "",
-  "unit_name": "U.S. Central Command",
-  "credit": "U.S. Central Command video",
-  "original_source": "U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ... - Twitter",
-  "page_url": "https://commons.wikimedia.org/wiki/File:U.S._Central_Command_-_U.S._forces_have_struck_or_sunk_to_the_bottom_of_the_ocean_more_than_....webm",
-  "via": "Wikimedia Commons",
-  "license": "Public domain (U.S. federal government work)",
-  "location": {},
-  "time_start": 0.0,
-  "id": "commons-U-S-Central-Command-U-S-forces-have-struck-or-sunk-to-the-bo",
-  "status": "new",
-  "harvested_at": "2026-11-21T05:19:44Z",
-  "duration": 19.97,
-  "source_file": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/U.S._Central_Command_-_U.S._forces_have_struck_or_sunk_to_the_bottom_of_the_ocean_more_than_....webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "width": 1920,
-    "height": 1080,
-    "size": 2052387
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [],
-  "drama_score": 26,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      20.0
-    ]
-  },
-  "sheet": "data/candidates/commons-U-S-Central-Command-U-S-forces-have-struck-or-sunk-to-the-bo.jpg",
-  "sheet_times": [
-    0.61,
-    1.82,
-    3.04,
-    4.26,
-    5.47,
-    6.69,
-    7.91,
-    9.12,
-    10.34,
-    11.56,
-    12.77,
-    13.99,
-    15.21,
-    16.42,
-    17.64,
-    18.86
+ "asset_id": "commons:File:U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ....webm",
+ "source": "commons",
+ "lane": "aviation_naval",
+ "matched_query": "sinking ship",
+ "title": "U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ...",
+ "description": "U.S. forces have struck or sunk to the bottom of the ocean more than 20 ships from the Iranian regime. Last night, CENTCOM added a Soleimani-class warship to the list. https (colon) // t (dot) co/KgW8cS726P",
+ "keywords": "PD US Government, License review needed (video), CC-PD-Mark, Uploaded with video2commons, Videos of 2026, IRIS FS313-03 Shahid Sayyad Shirazi (ship, 2024), PD-USGov missing SDC copyright status",
+ "date": "2026-03-04",
+ "branch": "",
+ "unit_name": "U.S. Central Command",
+ "credit": "U.S. Central Command video",
+ "original_source": "U.S. Central Command - U.S. forces have struck or sunk to the bottom of the ocean more than ... - Twitter",
+ "page_url": "https://commons.wikimedia.org/wiki/File:U.S._Central_Command_-_U.S._forces_have_struck_or_sunk_to_the_bottom_of_the_ocean_more_than_....webm",
+ "via": "Wikimedia Commons",
+ "license": "Public domain (U.S. federal government work)",
+ "location": {},
+ "time_start": 0.0,
+ "id": "commons-U-S-Central-Command-U-S-forces-have-struck-or-sunk-to-the-bo",
+ "status": "passed_over",
+ "harvested_at": "2026-11-21T05:19:44Z",
+ "duration": 19.97,
+ "source_file": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/U.S._Central_Command_-_U.S._forces_have_struck_or_sunk_to_the_bottom_of_the_ocean_more_than_....webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "width": 1920,
+  "height": 1080,
+  "size": 2052387
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [],
+ "drama_score": 26,
+ "audio": {
+  "silence_starts": [
+   0.0
+  ],
+  "silence_ends": [
+   20.0
   ]
+ },
+ "sheet": "data/candidates/commons-U-S-Central-Command-U-S-forces-have-struck-or-sunk-to-the-bo.jpg",
+ "sheet_times": [
+  0.61,
+  1.82,
+  3.04,
+  4.26,
+  5.47,
+  6.69,
+  7.91,
+  9.12,
+  10.34,
+  11.56,
+  12.77,
+  13.99,
+  15.21,
+  16.42,
+  17.64,
+  18.86
+ ],
+ "pass_reason": "Combat strike on a crewed warship (possible casualties), 20 s social clip"
 }
