@@ -1,0 +1,136 @@
+{
+  "short_id": "ccf-20261124-05",
+  "revision": 1,
+  "candidate_id": "nasa-KSC-19651231-MH-NAS01-0001-1965-Year-End-Report-Cape-Launches-and-Support-Apollo",
+  "lane": "aviation_naval",
+  "story_type": "lunar probe sends pictures all the way down until it crashes into the moon",
+  "music_mood": "night",
+  "priority": 5,
+  "hook": "This camera kept filming until it slammed into the moon.",
+  "narration": [
+    "This camera kept sending pictures home until it slammed into the moon.",
+    "It was a NASA Ranger probe, launched from Cape Kennedy in 1965.",
+    "Its pictures had to prove the moon had ground smooth enough to land on.",
+    "Ranger never slowed down. It kept shooting and radioing pictures home as it fell.",
+    "In the final seconds, the frames came in from closer and closer."
+  ],
+  "outcome": "The world watched on television as Ranger approached and hit the moon.",
+  "location_card": {
+    "place": "Cape Kennedy, Florida",
+    "date": "1965"
+  },
+  "keep_source_audio": false,
+  "title": "Camera filmed until it hit the moon",
+  "description": "A NASA Ranger probe launched from Cape Kennedy in 1965 sent back pictures of the moon until impact, showing areas smooth enough for a landing. The world watched on television as it approached and hit the moon.\n\nFootage: NASA Kennedy Space Center video (1965 Year End Report), via the NASA Image and Video Library: https://images.nasa.gov/details/KSC-19651231-MH-NAS01-0001-1965_Year_End_Report_Cape_Launches_and_Support_Apollo_10_Apollo_7_Apollo_8-B_0016\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #moon #nasa #spacehistory",
+  "tags": [
+    "ranger",
+    "moon",
+    "nasa",
+    "space history",
+    "lunar impact",
+    "atlas agena",
+    "cape kennedy",
+    "real footage"
+  ],
+  "question_comment": "Would you have stayed up to watch a spacecraft crash into the moon live?",
+  "facts": [
+    {
+      "claim": "Ranger pictures proved areas smooth enough to land",
+      "source_quote": "The Ranger project completed that year, provided the pictures of the moon's surface that proved there are areas smooth enough for a landing."
+    },
+    {
+      "claim": "World watched on TV as it approached and hit the moon",
+      "source_quote": "The world saw on television what Ranger saw as it approached and hit the moon."
+    },
+    {
+      "claim": "Launch countdown",
+      "source_quote": "Mark, ignition."
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 574.0,
+        "end": 578.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 578.5,
+        "end": 580.8,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 543.7,
+        "end": 546.6,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 547.0,
+        "end": 551.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 551.4,
+        "end": 555.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 555.2,
+        "end": 559.5,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 564.0,
+        "end": 568.0,
+        "layout": "crop",
+        "crop_x": 0.5
+      },
+      {
+        "start": 568.0,
+        "end": 571.4,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 582.0,
+        "end": 586.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 586.2,
+        "end": 590.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 590.2,
+        "end": 594.6,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 571.6,
+        "end": 573.9,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ]
+  ]
+}
