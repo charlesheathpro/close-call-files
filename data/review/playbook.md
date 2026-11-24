@@ -1,33 +1,33 @@
-# Playbook (computed 2026-11-24T07:04:30Z from 204 Shorts older than 48 hours)
+# Playbook (computed 2026-11-24T13:29:01Z from 205 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.61, 1 Shorts)
+- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.6, 1 Shorts)
 - music: naval (+0.43, 7 Shorts)
 - story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.42, 1 Shorts)
 - story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.42, 1 Shorts)
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.41, 1 Shorts)
-- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.4, 1 Shorts)
-- story: countdown hold seconds before a launch (+0.39, 1 Shorts)
-- story: car carrier on fire far offshore, crew abandons ship in a lifeboat, picked up by a passing ship (+0.35, 1 Shorts)
+- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.39, 1 Shorts)
+- story: countdown hold seconds before a launch (+0.38, 1 Shorts)
+- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.36, 1 Shorts)
 
 ## Do less of
-- lane: hazards (-0.54, 4 Shorts)
+- lane: hazards (-0.53, 4 Shorts)
 - story: dog hoist from sinking boat (-0.52, 1 Shorts)
-- story: historic rocket test stand implosion (-0.48, 1 Shorts)
+- story: historic rocket test stand implosion (-0.47, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
-- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
-- flood or hurricane story (-0.4, 27 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.44, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.41, 1 Shorts)
+- story: security camera catches a tornado strike (-0.39, 1 Shorts)
+- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.39, 1 Shorts)
 
 ## Best Shorts
-- Raft in heavy seas, 40 miles out: 102698 views, 107% watched
-- Parachuting to a sick sailor at sea: 46491 views, 80% watched
-- Engineer rides an F/A-18 through a loop: 40185 views, 87% watched
+- Raft in heavy seas, 40 miles out: 105815 views, 107% watched
+- Parachuting to a sick sailor at sea: 46554 views, 80% watched
+- Engineer rides an F/A-18 through a loop: 40381 views, 87% watched
 - Flipped hull 11 miles out, 3 men on top: 47529 views, 81% watched
-- 40,000 pound blasts next to a carrier: 8950 views, 108% watched
+- 40,000 pound blasts next to a carrier: 8980 views, 108% watched
 
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 131 views, 45% watched
@@ -52,3 +52,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261122-18: Calm blue-sky basket transfer with no visible danger; most of the 30 s is the same underside shot of the Jayhawk from a rain-spotted lens, and the 33 s source has nothing else to cut to. Dropped.
 - ccf-20261122-22: About 35 seconds of grey lunar surface through the LM window with nothing changing; the computer alarms are only narrated, never seen, and the last shot is a letterboxed quarantine room.
 - ccf-20261122-27: One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame.
+
+## Changed tonight
+- lane_mix {'rescue': 0.34, 'aviation_naval': 0.56, 'hazards': 0.1} -> {'rescue': 0.29, 'aviation_naval': 0.62, 'hazards': 0.1}
+- query weights for 76 searches
