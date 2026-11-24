@@ -1,18 +1,8 @@
 {
- "at": "2026-11-23T22:20:00Z",
+ "at": "2026-11-24T02:20:00Z",
  "healthy": false,
- "numbers": {
-  "passed": 124,
-  "needs_build": 0,
-  "needs_qa": 0,
-  "build_failed": 30,
-  "uploaded": 235,
-  "dropped": 104,
-  "scheduled_next_48h": 14,
-  "scheduled_nov23_mt": 10,
-  "scheduled_nov24_mt": 10,
-  "scheduled_nov25_mt": 1
- },
- "note": "Nothing to QA. 124 passed Shorts waiting (about 12 days). Nov 24 MT is full (10). Nov 25 MT has 1 only because YouTube's daily upload cap (uploadLimitExceeded at 19:34Z) holds uploads until 2026-11-24T19:35Z; uploads run every 3 h and will fill Nov 25 after the reset, well before 6 PM MT. No trigger pushed. Upload 22:05Z, harvest 22:06Z, stats today all landed. No editor pass: 4 more specs (23-21 to 23-24) also failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced and the passed buffer covers supply. Control Room: summary, health and supply uploads were blocked by a permission check this run; pipeline, daily and shorts refreshed.",
- "needs_charles": "ElevenLabs quota is used up. 30 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -24) failed to build with 401 quota_exceeded. Add credits or wait for the quota reset, then add those IDs to triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 12 days."
+ "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 32, "uploaded": 235, "dropped": 104,
+  "scheduled_nov23_mt": 10, "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 1},
+ "note": "Nothing to QA. 124 passed Shorts waiting (about 12 days). Nov 24 MT full. Nov 25 MT has 1 because YouTube's daily upload cap holds uploads until 2026-11-24T19:35Z; the 3-hourly upload runs will fill it after the reset. Upload 23:35Z, harvest 22:06Z, stats today all landed. No editor pass: the two newest specs (23-25, 23-26) also failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced and the passed buffer covers supply.",
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 32 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -26) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 12 days."
 }
