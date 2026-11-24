@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-1030542",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:22:10Z",
   "duration": 183.77,
   "source_file": {
@@ -72,5 +72,6 @@
     154.63,
     166.09,
     177.54
-  ]
+  ],
+  "pass_reason": "same Nov. 20 Cocoa flood event as ccf-20261123-21"
 }

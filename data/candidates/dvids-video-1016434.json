@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-1016434",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:25:07Z",
   "duration": 19.06,
   "source_file": {
@@ -70,5 +70,6 @@
     15.66,
     16.82,
     17.98
-  ]
+  ],
+  "pass_reason": "19 s montage of an exercise, too short"
 }

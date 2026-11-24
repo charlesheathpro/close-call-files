@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Category-5-Erin-is-the-First-Atlantic-Hurricane-of-2025-NESD",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:50:44Z",
   "duration": 133.3,
   "source_file": {
@@ -54,5 +54,6 @@
     112.05,
     120.35,
     128.65
-  ]
+  ],
+  "pass_reason": "satellite loop of a storm from orbit; storm-from-space Shorts keep getting dropped"
 }

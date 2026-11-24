@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135004",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:37:06Z",
   "duration": 124.37,
   "source_file": {
@@ -206,5 +206,6 @@
     105.14,
     112.64,
     120.13
-  ]
+  ],
+  "pass_reason": "rifle range training, no visible blasts"
 }

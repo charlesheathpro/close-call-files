@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-977182",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:23:46Z",
   "duration": 135.07,
   "source_file": {
@@ -83,5 +83,6 @@
     113.54,
     121.95,
     130.36
-  ]
+  ],
+  "pass_reason": "simulated rescue with a dummy, calm"
 }
