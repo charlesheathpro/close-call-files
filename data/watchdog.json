@@ -1,7 +1,8 @@
 {
- "at": "2026-11-24T18:20:00Z",
+ "at": "2026-11-24T22:20:00Z",
  "healthy": false,
- "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 54, "uploaded": 235, "dropped": 104, "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 1, "scheduled_next_48h": 7},
- "note": "Nothing to QA. 124 passed Shorts waiting (about 12 days). Nov 25 MT has 1 because YouTube's daily upload cap holds uploads until 2026-11-24T19:35Z; the hourly upload runs fill it after the reset, before the 6 PM MT check. No editor pass: every new spec (now 54, through ccf-20261124-20) fails with ElevenLabs 401 quota_exceeded, so more specs cannot be voiced and the passed buffer covers supply. Upload (17:40Z), build, harvest (Nov 23 22:06Z) and stats runs all landed in the last 30 hours.",
- "needs_charles": "ElevenLabs quota is used up (0 credits). 54 specs (ccf-20261122-25 and -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -20) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build. Uploads are not at risk for about 12 days."
+ "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 55, "uploaded": 235, "dropped": 104, "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 1, "scheduled_next_48h": 4},
+ "note": "Nothing to QA. YouTube's daily cap lifted at 19:35Z but no upload run has started since the 12:54Z run finished at 18:10Z (GitHub skipped the hourly schedule), so Nov 25 MT still has 1 scheduled. Pushed triggers/upload to start one now. No editor pass: the 20:58Z build of ccf-20261124-21 still failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced; 124 passed Shorts cover about 12 days.",
+ "fixed": ["pushed triggers/upload"],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 55 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -21) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
