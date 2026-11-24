@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-599311",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:32:14Z",
   "duration": 83.14,
   "source_file": {
@@ -208,5 +208,6 @@
     69.72,
     74.89,
     80.05
-  ]
+  ],
+  "pass_reason": "static deck medevac, patient in litter close-up, no danger"
 }

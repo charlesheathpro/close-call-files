@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NHQ-2019-0322-NASA-ASTRONAUTS-WALK-IN-SPACE-OUTSIDE-THE-SPACE-STATION",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T18:10:13Z",
   "duration": 352.63,
   "source_file": {
@@ -165,5 +165,6 @@
     297.11,
     319.12,
     341.13
-  ]
+  ],
+  "pass_reason": "calm ISS TV-feed spacewalk, same type QA dropped Nov 16"
 }

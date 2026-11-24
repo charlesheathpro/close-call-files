@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-291804",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:29:15Z",
   "duration": 76.84,
   "source_file": {
@@ -92,5 +92,6 @@
     64.41,
     69.19,
     73.96
-  ]
+  ],
+  "pass_reason": "distant night IR specks, murky"
 }

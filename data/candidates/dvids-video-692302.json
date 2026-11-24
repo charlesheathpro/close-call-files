@@ -26,7 +26,7 @@
   "time_start": 2.002,
   "aspect_ratio": "16:9",
   "id": "dvids-video-692302",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:42:11Z",
   "duration": 37.82,
   "source_file": {
@@ -96,5 +96,6 @@
     31.8,
     34.01,
     36.22
-  ]
+  ],
+  "pass_reason": "small arms range, no danger"
 }

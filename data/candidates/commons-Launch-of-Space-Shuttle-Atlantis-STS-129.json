@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Launch-of-Space-Shuttle-Atlantis-STS-129",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:08:02Z",
   "duration": 630.34,
   "source_file": {
@@ -488,5 +488,6 @@
     531.43,
     570.8,
     610.16
-  ]
+  ],
+  "pass_reason": "routine shuttle launch, repeats STS-132 and STS-114 Shorts"
 }

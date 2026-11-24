@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Flight-of-Apollo-11-from-about-0-0-50-to-about-0-03-14-since",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:10:17Z",
   "duration": 209.42,
   "source_file": {
@@ -52,5 +52,6 @@
     176.27,
     189.33,
     202.39
-  ]
+  ],
+  "pass_reason": "continuation of the dropped Apollo 11 tracking shot (ccf-20261121-08), distant speck for long stretches"
 }

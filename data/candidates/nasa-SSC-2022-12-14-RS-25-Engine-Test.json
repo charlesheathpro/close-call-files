@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-SSC-2022-12-14-RS-25-Engine-Test",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-10-28T00:52:28Z",
   "duration": 239.1,
   "source_file": {
@@ -74,5 +74,6 @@
     201.32,
     216.23,
     231.14
-  ]
+  ],
+  "used_by": "ccf-20261123-28"
 }
