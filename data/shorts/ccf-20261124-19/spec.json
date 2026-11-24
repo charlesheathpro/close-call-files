@@ -1,0 +1,140 @@
+{
+  "short_id": "ccf-20261124-19",
+  "revision": 1,
+  "candidate_id": "commons-Legacy-of-Gemini-1967",
+  "lane": "aviation_naval",
+  "story_type": "docking target arrives with its shroud stuck half open, Gemini 9, 1967 program film",
+  "music_mood": "night",
+  "priority": 7,
+  "hook": "Their docking target showed up with its jaws hanging open.",
+  "narration": [
+    "Their docking target showed up in orbit with its jaws hanging open.",
+    "On Gemini 9, an Atlas rocket failed to put the first target, an Agena, into orbit, so a substitute was launched.",
+    "A shroud protects the docking end during launch and should split away in orbit. This one failed to separate.",
+    "[short pause] The astronauts quickly named it the angry alligator. Docking had to be canceled."
+  ],
+  "outcome": "The flight plan was revised on the spot, and the crew practiced rendezvous with the angry alligator two more times.",
+  "location_card": {
+    "place": "Earth orbit, Gemini 9",
+    "date": "1966"
+  },
+  "keep_source_audio": false,
+  "title": "Docking target had its jaws open",
+  "description": "On Gemini 9, a substitute docking target reached orbit with its launch shroud stuck half open, and the astronauts named it the angry alligator. Docking was canceled and the crew practiced rendezvous with it two more times. From the 1967 NASA film The Legacy of Gemini.\n\nFootage: NASA video (The Legacy of Gemini, 1967), via Wikimedia Commons: https://commons.wikimedia.org/wiki/File:Legacy_of_Gemini_(1967).webm\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #gemini #nasa #spacehistory",
+  "tags": [
+    "gemini 9",
+    "angry alligator",
+    "docking",
+    "rendezvous",
+    "gemini program",
+    "space history",
+    "1966",
+    "nasa",
+    "real footage"
+  ],
+  "question_comment": "What would you have named it?",
+  "facts": [
+    {
+      "claim": "Atlas failed to orbit the Agena",
+      "source_quote": "On Gemini 9, when an Atlas rocket failed to place the Agena into orbit,"
+    },
+    {
+      "claim": "Substitute target",
+      "source_quote": "a substitute docking target was launched."
+    },
+    {
+      "claim": "Shroud failed",
+      "source_quote": "Trouble developed on the new target when its shroud failed to separate,"
+    },
+    {
+      "claim": "Angry alligator",
+      "source_quote": "leaving what the astronauts quickly named the angry alligator."
+    },
+    {
+      "claim": "Docking canceled, plan revised",
+      "source_quote": "Although the docking maneuver had to be canceled, the flight plan was revised,"
+    },
+    {
+      "claim": "Two more rendezvous",
+      "source_quote": "so the astronauts could go on to practice rendezvous two more times,"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 776.0,
+        "end": 779.5,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 779.5,
+        "end": 783.0,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 679.0,
+        "end": 682.5,
+        "layout": "crop",
+        "crop_x": 0.3
+      },
+      {
+        "start": 686.0,
+        "end": 689.5,
+        "layout": "crop",
+        "crop_x": 0.25
+      },
+      {
+        "start": 690.0,
+        "end": 693.0,
+        "layout": "crop",
+        "crop_x": 0.3
+      }
+    ],
+    [
+      {
+        "start": 754.6,
+        "end": 757.4,
+        "layout": "fit",
+        "crop_x": 0.5
+      },
+      {
+        "start": 757.4,
+        "end": 760.2,
+        "layout": "fit",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 761.5,
+        "end": 765.0,
+        "layout": "crop",
+        "crop_x": 0.4
+      },
+      {
+        "start": 765.0,
+        "end": 767.2,
+        "layout": "crop",
+        "crop_x": 0.5
+      }
+    ],
+    [
+      {
+        "start": 768.0,
+        "end": 771.5,
+        "layout": "crop",
+        "crop_x": 0.6
+      },
+      {
+        "start": 771.5,
+        "end": 773.8,
+        "layout": "crop",
+        "crop_x": 0.6
+      }
+    ]
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "asset_id": "commons:File:STS-8 Mission Highlights.webm",
+  "source": "commons",
+  "lane": "aviation_naval",
+  "matched_query": "Videos of films from NASA",
+  "title": "STS-8 Mission Highlights",
+  "description": "STS-8_Mission_Highlights.webm",
+  "keywords": "PD NASA, Videos of films from NASA",
+  "date": "",
+  "branch": "",
+  "unit_name": "NASA",
+  "credit": "NASA video",
+  "original_source": "STS-8 Mission Highlights (NASA film)",
+  "page_url": "https://commons.wikimedia.org/wiki/File:STS-8_Mission_Highlights.webm",
+  "via": "Wikimedia Commons",
+  "license": "Public domain (U.S. federal government work)",
+  "location": {},
+  "id": "commons-STS-8-Mission-Highlights",
+  "status": "passed_over",
+  "harvested_at": "2026-11-24T17:12:46Z",
+  "duration": 76.22,
+  "time_start": 0.0,
+  "source_file": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/STS-8_Mission_Highlights.webm/STS-8_Mission_Highlights.webm.480p.vp9.webm",
+    "width": 854,
+    "height": 480
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 10.03,
+      "e": 14.03,
+      "text": "There's a vehicle on the pad, the night of the launch, unfortunately you can't see the lightning in the rain."
+    },
+    {
+      "s": 14.53,
+      "e": 22.03,
+      "text": "As we depart our quarters heading out to the pad, once again it doesn't show, but it was raining cats and dogs."
+    },
+    {
+      "s": 22.03,
+      "e": 28.03,
+      "text": "And I think each of us in the crew were not real confident that we were going to get off."
+    },
+    {
+      "s": 28.03,
+      "e": 32.03,
+      "text": "Here's a picture in the cockpit before liftoff that's looking over Richard's shoulder."
+    },
+    {
+      "s": 32.03,
+      "e": 37.03,
+      "text": "And we got off a little bit late, but we did get to go."
+    },
+    {
+      "s": 37.03,
+      "e": 48.03,
+      "text": "And the three main engines started just fine. We were running very smoothly when it was a little bit of vibration in the cockpit."
+    },
+    {
+      "s": 48.03,
+      "e": 52.03,
+      "text": "The SRB's lit off and it became very bright, as you can see right here."
+    },
+    {
+      "s": 52.03,
+      "e": 58.03,
+      "text": "It was just like day in the cockpit. And all during first stage we didn't need lights in the cockpit."
+    },
+    {
+      "s": 58.03,
+      "e": 60.03,
+      "text": "It was plenty bright."
+    },
+    {
+      "s": 61.03,
+      "e": 65.03,
+      "text": "The vibration was pretty much like other crews have explained in the cockpit."
+    },
+    {
+      "s": 65.03,
+      "e": 70.03,
+      "text": "When they were in first stage we were shaking around a little bit, but nothing you couldn't handle."
+    },
+    {
+      "s": 70.03,
+      "e": 76.03,
+      "text": "And from reports of people on the ground they got a pretty spectacular show."
+    }
+  ],
+  "scene_cuts": [
+    60.69,
+    64.03,
+    71.7
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      17.5,
+      32.3,
+      33.7,
+      42.0,
+      45.1,
+      45.8,
+      59.0,
+      60.4,
+      69.7,
+      71.1
+    ],
+    "silence_ends": [
+      10.3,
+      18.3,
+      33.0,
+      34.6,
+      42.7,
+      45.7,
+      46.6,
+      59.9,
+      61.1,
+      70.3,
+      72.2
+    ]
+  },
+  "sheet": "data/candidates/commons-STS-8-Mission-Highlights.jpg",
+  "sheet_times": [
+    2.37,
+    7.1,
+    11.83,
+    16.56,
+    21.3,
+    26.03,
+    30.76,
+    35.49,
+    40.23,
+    44.96,
+    49.69,
+    54.42,
+    59.15,
+    63.89,
+    68.62,
+    73.35
+  ],
+  "pass_reason": "Transcode came back 76 s of a 16 minute film; not usable until a full copy downloads."
+}
