@@ -1,0 +1,145 @@
+{
+  "short_id": "ccf-20261124-08",
+  "revision": 1,
+  "candidate_id": "nasa-Final-Out-CRF35",
+  "lane": "aviation_naval",
+  "story_type": "moon lander's own cameras film its engine plume blasting lunar dust during touchdown",
+  "music_mood": "night",
+  "priority": 4,
+  "hook": "Cameras under a lander, filming its engine hit the Moon.",
+  "narration": [
+    "Cameras under a lander, filming its rocket engine blast the surface of the Moon.",
+    "This is Firefly's Blue Ghost, coming down in March 2025 with ten NASA instruments aboard.",
+    "Four NASA cameras snapped eight pictures a second as it dropped from about twenty six meters.",
+    "With no air on the Moon, exhaust throws the dust outward at high speed.",
+    "[short pause] Below three meters, the dust swallowed the view."
+  ],
+  "outcome": "Blue Ghost landed successfully near Mons Latreille, in the Moon's Mare Crisium basin.",
+  "location_card": {
+    "place": "Mare Crisium, the Moon",
+    "date": "March 2, 2025"
+  },
+  "keep_source_audio": false,
+  "title": "Moon lander films its own touchdown",
+  "description": "NASA's SCALPSS cameras on Firefly Aerospace's Blue Ghost Mission 1 filmed the final descent as the engine plume hit the lunar surface. Blue Ghost landed on March 2, 2025, near Mons Latreille in Mare Crisium.\n\nFootage: NASA video (SCALPSS 1.1 cameras), via the NASA Image and Video Library: https://images.nasa.gov/details/Final_Out_CRF35\nPublic domain U.S. government footage. Close Call Files is independent and is not affiliated with or endorsed by the U.S. government, the Department of Defense or any military branch.\n\n#shorts #moon #nasa #space",
+  "tags": [
+    "blue ghost",
+    "moon landing",
+    "firefly aerospace",
+    "nasa",
+    "scalpss",
+    "lunar lander",
+    "clps",
+    "real footage"
+  ],
+  "question_comment": "Would you trust a robot to land you on the Moon by itself?",
+  "extra_sources": [
+    {
+      "url": "https://images.nasa.gov/details/jsc2025m000008_Firefly_Blue_Ghost_Mission_1_Lunar_Landing_250302",
+      "excerpt": "Firefly Aerospace’s Blue Ghost Mission 1, carrying 10 NASA science and technology instruments, successfully landed at 3:34 a.m. EST on Mar. 2, near a volcanic feature called Mons Latreille within Mare Crisium, a more than 300-mile-wide basin located in the northeast quadrant of the Moon’s near side."
+    }
+  ],
+  "facts": [
+    {
+      "claim": "Blue Ghost descent from SCALPSS cameras at 8 fps",
+      "source_quote": "a preliminary sequence of the Blue Ghost final descent and landing that NASA researchers stitched together from SCALPSS 1.1’s four short-focal-length cameras, which were capturing photos at 8 frames per second."
+    },
+    {
+      "claim": "Ten NASA instruments, landed Mar. 2 near Mons Latreille in Mare Crisium",
+      "source_quote": "carrying 10 NASA science and technology instruments, successfully landed at 3:34 a.m. EST on Mar. 2, near a volcanic feature called Mons Latreille within Mare Crisium"
+    }
+  ],
+  "line_shots": [
+    [
+      {
+        "start": 14.0,
+        "end": 17.5,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 17.5,
+        "end": 20.0,
+        "layout": "crop",
+        "crop_x": 1.0
+      }
+    ],
+    [
+      {
+        "start": 0.3,
+        "end": 3.5,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 3.5,
+        "end": 6.5,
+        "layout": "crop",
+        "crop_x": 1.0
+      }
+    ],
+    [
+      {
+        "start": 6.5,
+        "end": 9.5,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 9.5,
+        "end": 12.0,
+        "layout": "crop",
+        "crop_x": 1.0
+      }
+    ],
+    [
+      {
+        "start": 12.0,
+        "end": 14.0,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 20.0,
+        "end": 22.5,
+        "layout": "crop",
+        "crop_x": 0.0
+      }
+    ],
+    [
+      {
+        "start": 22.5,
+        "end": 25.5,
+        "layout": "crop",
+        "crop_x": 1.0
+      },
+      {
+        "start": 25.5,
+        "end": 28.0,
+        "layout": "crop",
+        "crop_x": 0.0
+      }
+    ],
+    [
+      {
+        "start": 28.0,
+        "end": 31.5,
+        "layout": "crop",
+        "crop_x": 1.0
+      },
+      {
+        "start": 31.5,
+        "end": 34.5,
+        "layout": "crop",
+        "crop_x": 0.0
+      },
+      {
+        "start": 34.5,
+        "end": 37.5,
+        "layout": "crop",
+        "crop_x": 1.0
+      }
+    ]
+  ],
+  "preview_ok": "Frames flagged EMPTY at 22.5 to 28 s are the lunar dust whiteout the line describes; each shot is one camera of a four-camera grid, so overlapping times show different views."
+}
