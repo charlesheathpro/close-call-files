@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-534723",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:40:32Z",
   "duration": 176.75,
   "source_file": {
@@ -74,5 +74,6 @@
     148.71,
     159.72,
     170.74
-  ]
+  ],
+  "pass_reason": "night NVG footage, heavy noise; head-injury medevac"
 }

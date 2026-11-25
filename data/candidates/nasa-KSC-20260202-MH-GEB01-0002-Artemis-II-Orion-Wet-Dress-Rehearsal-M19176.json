@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260202-MH-GEB01-0002-Artemis-II-Orion-Wet-Dress-Rehearsal-M19176",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:51:51Z",
   "duration": 56.4,
   "source_file": {
@@ -114,5 +114,6 @@
     47.17,
     50.66,
     54.15
-  ]
+  ],
+  "pass_reason": "static rocket on the pad, no outcome, Artemis II heavy in queue"
 }

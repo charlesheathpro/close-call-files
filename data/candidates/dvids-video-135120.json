@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135120",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:13:01Z",
   "duration": 131.26,
   "source_file": {
@@ -229,5 +229,6 @@
     110.96,
     118.88,
     126.8
-  ]
+  ],
+  "pass_reason": "routine live-fire training range, no turn or outcome"
 }

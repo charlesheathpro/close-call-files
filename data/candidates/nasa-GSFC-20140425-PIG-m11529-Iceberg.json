@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20140425-PIG-m11529-Iceberg",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:32:21Z",
   "duration": 86.34,
   "source_file": {
@@ -54,5 +54,6 @@
     72.42,
     77.79,
     83.15
-  ]
+  ],
+  "pass_reason": "slow satellite timelapse; Antarctic ice story ran Nov 14"
 }

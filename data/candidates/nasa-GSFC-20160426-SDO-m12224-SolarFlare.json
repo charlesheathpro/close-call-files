@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20160426-SDO-m12224-SolarFlare",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:23:21Z",
   "duration": 79.57,
   "source_file": {
@@ -69,5 +69,6 @@
     66.72,
     71.66,
     76.6
-  ]
+  ],
+  "pass_reason": "second solar Short in one day; distant full-disk views of a mid-level flare"
 }

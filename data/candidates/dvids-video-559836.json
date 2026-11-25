@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-559836",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:22:20Z",
   "duration": 20.74,
   "source_file": {
@@ -68,5 +68,6 @@
     17.07,
     18.34,
     19.6
-  ]
+  ],
+  "pass_reason": "21 s source, too short without repeats; F-35B ship landings already queued twice"
 }

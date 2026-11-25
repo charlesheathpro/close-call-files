@@ -26,7 +26,7 @@
   "time_start": 6.006,
   "aspect_ratio": "16:9",
   "id": "dvids-video-107016",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T18:17:17Z",
   "duration": 114.95,
   "source_file": {
@@ -321,5 +321,6 @@
     97.5,
     104.28,
     111.06
-  ]
+  ],
+  "pass_reason": "interview package on ice storm staffing"
 }

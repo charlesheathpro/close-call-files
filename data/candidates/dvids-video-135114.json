@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135114",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:14:49Z",
   "duration": 128.64,
   "source_file": {
@@ -230,5 +230,6 @@
     108.74,
     116.5,
     124.26
-  ]
+  ],
+  "pass_reason": "routine machine gun range, no turn or outcome"
 }

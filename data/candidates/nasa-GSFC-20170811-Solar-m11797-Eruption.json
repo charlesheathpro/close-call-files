@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20170811-Solar-m11797-Eruption",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-15T17:06:58Z",
   "duration": 107.4,
   "source_file": {
@@ -193,5 +193,6 @@
     90.2,
     96.88,
     103.56
-  ]
+  ],
+  "pass_reason": "second solar Short in one day; heavy annotation graphics and animation"
 }

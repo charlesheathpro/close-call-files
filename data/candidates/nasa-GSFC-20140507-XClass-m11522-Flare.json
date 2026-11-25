@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20140507-XClass-m11522-Flare",
-  "status": "new",
+  "status": "used",
   "harvested_at": "2026-11-12T00:44:50Z",
   "duration": 150.63,
   "source_file": {
@@ -237,5 +237,6 @@
     126.67,
     136.06,
     145.44
-  ]
+  ],
+  "used_by": "ccf-20261125-01"
 }

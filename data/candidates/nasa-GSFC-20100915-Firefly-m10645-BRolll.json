@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20100915-Firefly-m10645-BRolll",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-27T23:19:43Z",
   "duration": 45.82,
   "source_file": {
@@ -79,5 +79,6 @@
     38.24,
     41.07,
     43.91
-  ]
+  ],
+  "pass_reason": "cubesat b-roll, no event"
 }

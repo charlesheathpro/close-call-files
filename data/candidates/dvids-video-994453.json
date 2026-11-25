@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-994453",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-24T20:39:59Z",
   "duration": 86.75,
   "source_file": {
@@ -264,5 +264,6 @@
     72.78,
     78.17,
     83.56
-  ]
+  ],
+  "pass_reason": "WWII history interview with admirals, no event footage"
 }

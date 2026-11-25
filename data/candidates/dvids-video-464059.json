@@ -26,7 +26,7 @@
   "time_start": 4.09207,
   "aspect_ratio": "16:9",
   "id": "dvids-video-464059",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T18:22:23Z",
   "duration": 151.67,
   "source_file": {
@@ -373,5 +373,6 @@
     128.19,
     137.38,
     146.58
-  ]
+  ],
+  "pass_reason": "Iwo To story already used (ccf-20261122-20); interview-led"
 }

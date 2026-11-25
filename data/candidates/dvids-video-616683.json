@@ -26,7 +26,7 @@
   "time_start": 4.2042,
   "aspect_ratio": "16:9",
   "id": "dvids-video-616683",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-30T16:49:09Z",
   "duration": 22.36,
   "source_file": {
@@ -68,5 +68,6 @@
     19.1,
     20.2,
     21.31
-  ]
+  ],
+  "pass_reason": "22 s single drone takeoff, no fire on screen"
 }
