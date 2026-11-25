@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-996484",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-25T19:57:15Z",
   "duration": 196.08,
   "source_file": {
@@ -494,5 +494,6 @@
     165.02,
     177.24,
     189.47
-  ]
+  ],
+  "pass_reason": "ice pilot interview"
 }

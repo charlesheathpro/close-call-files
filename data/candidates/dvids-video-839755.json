@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-839755",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-25T19:54:59Z",
   "duration": 61.4,
   "source_file": {
@@ -70,5 +70,6 @@
     51.38,
     55.19,
     59.0
-  ]
+  ],
+  "pass_reason": "F-35B hangar bay move, no danger"
 }
