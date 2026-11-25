@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-597195",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T08:51:27Z",
   "duration": 23.53,
   "source_file": {
@@ -62,5 +62,6 @@
     19.43,
     20.87,
     22.31
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 3: 23 s of training bucket drops; too short and repeats 24-25 Black Hawk bucket drops."
 }
