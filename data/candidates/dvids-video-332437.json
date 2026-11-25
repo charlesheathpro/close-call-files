@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "16:9",
   "id": "dvids-video-332437",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-24T20:38:33Z",
   "duration": 134.23,
   "source_file": {
@@ -266,5 +266,6 @@
     113.46,
     121.57,
     129.68
-  ]
+  ],
+  "pass_reason": "Talking-head package about an avalanche team; no avalanche or blast on screen."
 }
