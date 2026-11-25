@@ -1,0 +1,78 @@
+{
+  "asset_id": "video:389472",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "Polar Star",
+  "title": "Cutter Polar Star Breaking Ice in Antarctica",
+  "description": "The Coast Guard Cutter Polar Star, a heavy icebreaker homeported in Seattle, breaks ice near the National Science Foundation's McMurdo Station, Antarctica, Jan. 13, 2015. Polar Star's crew is in Antarctica supporting Operation Deep Freeze 2015, part of the U.S. Antarctic Program, managed by the National Science Foundation. U.S. Coast Guard video by Petty Officer 1st Class George Degener.",
+  "keywords": "Underway, Deep Freeze, McMurdo, Polar Star, Deep-Freeze-2015, Coast Guard, Seattle, Antarctica",
+  "date": "2015-01-13T00:00:00-05:00",
+  "date_published": "2015-01-30T11:42:32-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Pacific Area",
+  "credit": "Petty Officer 1st Class George Degener",
+  "category": "B-Roll",
+  "virin": "150113-G-JL323-765",
+  "location": {
+    "city": "",
+    "state": "USPACOM",
+    "country": "At Sea",
+    "state_abbreviation": "USPACOM",
+    "country_abbreviation": "XS"
+  },
+  "page_url": "https://www.dvidshub.net/video/389472/cutter-polar-star-breaking-ice-antarctica",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 4.02533,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-389472",
+  "status": "new",
+  "harvested_at": "2026-11-25T19:56:24Z",
+  "duration": 31.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1501/DOD_102206823/DOD_102206823.mp4",
+    "width": 1280,
+    "height": 720,
+    "bitrate": 4824,
+    "size": 19021764
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.04,
+    4.04,
+    8.21,
+    13.81,
+    19.29,
+    24.72,
+    29.2
+  ],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      31.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-389472.jpg",
+  "sheet_times": [
+    4.87,
+    6.55,
+    8.24,
+    9.93,
+    11.61,
+    13.3,
+    14.98,
+    16.67,
+    18.35,
+    20.04,
+    21.73,
+    23.41,
+    25.1,
+    26.78,
+    28.47,
+    30.16
+  ]
+}
