@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-ARC-20141001-AAV3518-Conditions-that-Drive-Severe-Weather",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T08:53:06Z",
   "duration": 411.67,
   "source_file": {
@@ -793,5 +793,6 @@
     346.92,
     372.62,
     398.32
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

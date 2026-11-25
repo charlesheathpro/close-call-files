@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-12610-Webb-Moves-to-Johnson-Space-Center",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:11:13Z",
   "duration": 101.31,
   "source_file": {
@@ -219,5 +219,6 @@
     85.06,
     91.36,
     97.66
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

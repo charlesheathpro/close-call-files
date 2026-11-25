@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-MAF-20210429-PegasusCrew-FullLength-HD-FINAL",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:36:05Z",
   "duration": 124.24,
   "source_file": {
@@ -330,5 +330,6 @@
     104.41,
     112.14,
     119.88
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

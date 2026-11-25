@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20240710-Perseverance-Rover-Spots-an-Unusual-Rock-in-Ancient-River-Channel-M",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T08:35:50Z",
   "duration": 125.33,
   "source_file": {
@@ -354,5 +354,6 @@
     105.33,
     113.13,
     120.93
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

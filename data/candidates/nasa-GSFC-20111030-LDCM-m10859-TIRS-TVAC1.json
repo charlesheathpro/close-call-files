@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-GSFC-20111030-LDCM-m10859-TIRS-TVAC1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:37:31Z",
   "duration": 316.01,
   "source_file": {
@@ -320,5 +320,6 @@
     266.21,
     285.93,
     305.65
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

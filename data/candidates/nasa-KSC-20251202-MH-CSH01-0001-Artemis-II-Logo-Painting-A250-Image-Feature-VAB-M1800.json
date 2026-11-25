@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20251202-MH-CSH01-0001-Artemis-II-Logo-Painting-A250-Image-Feature-VAB-M1800",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-16T13:08:16Z",
   "duration": 111.0,
   "source_file": {
@@ -69,5 +69,6 @@
     93.23,
     100.14,
     107.05
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

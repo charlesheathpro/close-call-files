@@ -26,7 +26,7 @@
   "time_start": 4.1041,
   "aspect_ratio": "16:9",
   "id": "dvids-video-609319",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:53:25Z",
   "duration": 83.99,
   "source_file": {
@@ -177,5 +177,6 @@
     71.09,
     76.05,
     81.01
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

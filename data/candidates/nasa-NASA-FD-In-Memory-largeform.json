@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-NASA-FD-In-Memory-largeform",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:46:30Z",
   "duration": 222.1,
   "source_file": {
@@ -331,5 +331,6 @@
     186.97,
     200.82,
     214.67
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-jsc2019m000912-Lunar-Geology-from-Apollo-to-Artemis",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T01:06:33Z",
   "duration": 145.83,
   "source_file": {
@@ -537,5 +537,6 @@
     122.62,
     131.71,
     140.79
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

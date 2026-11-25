@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-KSC-20260219-MH-CSH01-0002-Artemis-II-Wet-Dress-Rehearsal-M19462-MP4",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:48:10Z",
   "duration": 401.63,
   "source_file": {
@@ -498,5 +498,6 @@
     338.46,
     363.53,
     388.6
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }

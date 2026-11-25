@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-JPL-20210107-M2020f-0001-Join-NASAs-Mission-to-Mars-Student-Challenge-1080",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:42:00Z",
   "duration": 60.05,
   "source_file": {
@@ -155,5 +155,6 @@
     50.25,
     53.97,
     57.69
-  ]
+  ],
+  "pass_reason": "Editor Nov 25 run 2, title and description review: not an event on screen (relief logistics, ceremony, interview, explainer, aftermath or facility b-roll)."
 }
