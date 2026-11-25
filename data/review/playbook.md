@@ -1,38 +1,38 @@
-# Playbook (computed 2026-11-24T19:04:01Z from 209 Shorts older than 48 hours)
+# Playbook (computed 2026-11-25T05:39:47Z from 214 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.59, 1 Shorts)
-- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.42, 1 Shorts)
+- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.62, 1 Shorts)
+- music: naval (+0.58, 9 Shorts)
 - story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.41, 1 Shorts)
-- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.41, 1 Shorts)
-- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.37, 1 Shorts)
-- story: countdown hold seconds before a launch (+0.36, 1 Shorts)
-- story: teen adrift alone on a kayak at night, infrared search, boat pickup (+0.36, 1 Shorts)
-- story: car carrier on fire far offshore, crew abandons ship in a lifeboat, picked up by a passing ship (+0.34, 1 Shorts)
+- story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.41, 1 Shorts)
+- story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.4, 1 Shorts)
+- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.39, 1 Shorts)
+- story: countdown hold seconds before a launch (+0.38, 1 Shorts)
+- story: tsunami ghost ship sunk by coast guard cutter gunfire (+0.38, 1 Shorts)
 
 ## Do less of
-- story: dog hoist from sinking boat (-0.51, 1 Shorts)
-- lane: hazards (-0.5, 4 Shorts)
-- story: historic rocket test stand implosion (-0.45, 1 Shorts)
-- story: missing boaters clinging to a capsized hull (-0.44, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.42, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.39, 1 Shorts)
-- story: security camera catches a tornado strike (-0.37, 1 Shorts)
-- story: plane ditches far offshore, eleven survivors in a life raft, rescue kit drop and basket hoists (-0.37, 1 Shorts)
+- lane: hazards (-0.55, 4 Shorts)
+- story: dog hoist from sinking boat (-0.52, 1 Shorts)
+- story: historic rocket test stand implosion (-0.48, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.46, 1 Shorts)
+- story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.43, 1 Shorts)
+- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.41, 1 Shorts)
+- flood or hurricane story (-0.41, 28 Shorts)
 
 ## Best Shorts
-- Raft in heavy seas, 40 miles out: 109236 views, 107% watched
-- Parachuting to a sick sailor at sea: 46582 views, 80% watched
-- Engineer rides an F/A-18 through a loop: 40718 views, 87% watched
+- Raft in heavy seas, 40 miles out: 118323 views, 104% watched
+- Parachuting to a sick sailor at sea: 46666 views, 79% watched
+- Engineer rides an F/A-18 through a loop: 41130 views, 84% watched
 - Flipped hull 11 miles out, 3 men on top: 47529 views, 81% watched
-- 40,000 pound blasts next to a carrier: 9006 views, 108% watched
+- 40,000 pound blasts next to a carrier: 9026 views, 105% watched
 
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 131 views, 45% watched
-- Crab boat sank at night off Washington: 93 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 33 views, 64% watched
+- Crab boat sank at night off Washington: 93 views, 45% watched
 - Saturn V test tower comes down: 59 views, 49% watched
 - Dog hoisted from a sinking catamaran: 14 views, 67% watched
 
