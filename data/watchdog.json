@@ -1,8 +1,8 @@
 {
- "at": "2026-11-24T22:20:00Z",
+ "at": "2026-11-25T02:20:00Z",
  "healthy": false,
- "numbers": {"passed": 124, "needs_build": 0, "needs_qa": 0, "build_failed": 55, "uploaded": 235, "dropped": 104, "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 1, "scheduled_next_48h": 4},
- "note": "Nothing to QA. YouTube's daily cap lifted at 19:35Z but no upload run has started since the 12:54Z run finished at 18:10Z (GitHub skipped the hourly schedule), so Nov 25 MT still has 1 scheduled. Pushed triggers/upload to start one now. No editor pass: the 20:58Z build of ccf-20261124-21 still failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced; 124 passed Shorts cover about 12 days.",
- "fixed": ["pushed triggers/upload"],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 55 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -21) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "numbers": {"passed": 114, "needs_build": 0, "needs_qa": 0, "build_failed": 57, "uploaded": 245, "dropped": 104, "scheduled_nov24_mt": 1, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 1, "scheduled_next_48h": 12},
+ "note": "Nothing to QA. Nov 25 MT is full (10). Nov 26 MT has 1; YouTube's daily upload cap is active until 2026-11-25T22:19Z, and 114 passed Shorts are waiting, so the first upload run after the reset fills it. Upload, harvest and stats runs all landed on time. No editor pass: ccf-20261124-21 to -23 also failed with ElevenLabs 401 quota_exceeded, so new specs cannot be voiced.",
+ "fixed": [],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 57 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -23) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
