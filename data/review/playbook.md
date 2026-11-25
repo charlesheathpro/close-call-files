@@ -1,33 +1,33 @@
-# Playbook (computed 2026-11-25T05:39:47Z from 214 Shorts older than 48 hours)
+# Playbook (computed 2026-11-25T12:27:11Z from 215 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
-- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.62, 1 Shorts)
-- music: naval (+0.58, 9 Shorts)
+- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.61, 1 Shorts)
+- music: naval (+0.44, 10 Shorts)
 - story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.41, 1 Shorts)
 - story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.41, 1 Shorts)
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.4, 1 Shorts)
-- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.39, 1 Shorts)
-- story: countdown hold seconds before a launch (+0.38, 1 Shorts)
+- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.38, 1 Shorts)
 - story: tsunami ghost ship sunk by coast guard cutter gunfire (+0.38, 1 Shorts)
+- story: countdown hold seconds before a launch (+0.37, 1 Shorts)
 
 ## Do less of
 - lane: hazards (-0.55, 4 Shorts)
 - story: dog hoist from sinking boat (-0.52, 1 Shorts)
 - story: historic rocket test stand implosion (-0.48, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.46, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.45, 1 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.43, 1 Shorts)
-- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.41, 1 Shorts)
-- flood or hurricane story (-0.41, 28 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.45, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
+- story: security camera catches a tornado strike (-0.4, 1 Shorts)
+- story: katrina rooftop hoist, man and boy pulled out through a roof (-0.4, 1 Shorts)
 
 ## Best Shorts
-- Raft in heavy seas, 40 miles out: 118323 views, 104% watched
-- Parachuting to a sick sailor at sea: 46666 views, 79% watched
-- Engineer rides an F/A-18 through a loop: 41130 views, 84% watched
+- Raft in heavy seas, 40 miles out: 121143 views, 104% watched
+- Parachuting to a sick sailor at sea: 46718 views, 79% watched
+- Engineer rides an F/A-18 through a loop: 41160 views, 84% watched
 - Flipped hull 11 miles out, 3 men on top: 47529 views, 81% watched
-- 40,000 pound blasts next to a carrier: 9026 views, 105% watched
+- 40,000 pound blasts next to a carrier: 9030 views, 105% watched
 
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 131 views, 45% watched
@@ -52,3 +52,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261122-18: Calm blue-sky basket transfer with no visible danger; most of the 30 s is the same underside shot of the Jayhawk from a rain-spotted lens, and the 33 s source has nothing else to cut to. Dropped.
 - ccf-20261122-22: About 35 seconds of grey lunar surface through the LM window with nothing changing; the computer alarms are only narrated, never seen, and the last shot is a letterboxed quarantine room.
 - ccf-20261122-27: One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame.
+
+## Changed tonight
+- lane_mix {'rescue': 0.29, 'aviation_naval': 0.62, 'hazards': 0.1} -> {'rescue': 0.24, 'aviation_naval': 0.66, 'hazards': 0.1}
+- query weights for 77 searches

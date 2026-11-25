@@ -1,16 +1,16 @@
 {
-  "at": "2026-11-25T05:39:47Z",
-  "mature": 214,
+  "at": "2026-11-25T12:27:11Z",
+  "mature": 215,
   "features": [
     {
       "feature": "story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line",
       "n": 1,
-      "effect": 0.62
+      "effect": 0.61
     },
     {
       "feature": "music: naval",
-      "n": 9,
-      "effect": 0.58
+      "n": 10,
+      "effect": 0.44
     },
     {
       "feature": "story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera",
@@ -30,11 +30,6 @@
     {
       "feature": "story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship",
       "n": 1,
-      "effect": 0.39
-    },
-    {
-      "feature": "story: countdown hold seconds before a launch",
-      "n": 1,
       "effect": 0.38
     },
     {
@@ -43,19 +38,14 @@
       "effect": 0.38
     },
     {
+      "feature": "story: countdown hold seconds before a launch",
+      "n": 1,
+      "effect": 0.37
+    },
+    {
       "feature": "story: teen adrift alone on a kayak at night, infrared search, boat pickup",
       "n": 1,
       "effect": 0.35
-    },
-    {
-      "feature": "story: runaway boat with no one aboard",
-      "n": 1,
-      "effect": 0.34
-    },
-    {
-      "feature": "story: sinking exercise filmed by cameras aboard the target ship",
-      "n": 1,
-      "effect": 0.34
     },
     {
       "feature": "story: high-altitude jet in a pressure suit",
@@ -68,14 +58,14 @@
       "effect": 0.33
     },
     {
-      "feature": "story: soldiers jump from a helicopter ramp into the ocean",
+      "feature": "story: runaway boat with no one aboard",
       "n": 1,
       "effect": 0.33
     },
     {
-      "feature": "lane: aviation_naval",
-      "n": 53,
-      "effect": 0.32
+      "feature": "story: sinking exercise filmed by cameras aboard the target ship",
+      "n": 1,
+      "effect": 0.33
     },
     {
       "feature": "story: car carrier on fire far offshore, crew abandons ship in a lifeboat, picked up by a passing ship",
@@ -83,7 +73,7 @@
       "effect": 0.32
     },
     {
-      "feature": "story: splashdown recovery",
+      "feature": "story: soldiers jump from a helicopter ramp into the ocean",
       "n": 1,
       "effect": 0.32
     },
@@ -93,12 +83,12 @@
       "effect": 0.31
     },
     {
-      "feature": "story: bunker-busting bomb test, fireball out of a tunnel, high-speed impact cameras",
+      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
       "n": 1,
       "effect": 0.31
     },
     {
-      "feature": "story: sailboat aground against a rock wall in surf, boat crew tows it clear",
+      "feature": "story: splashdown recovery",
       "n": 1,
       "effect": 0.31
     },
@@ -106,6 +96,11 @@
       "feature": "story: swimmer and basket lowered onto a moving tug far offshore",
       "n": 1,
       "effect": 0.31
+    },
+    {
+      "feature": "story: bunker-busting bomb test, fireball out of a tunnel, high-speed impact cameras",
+      "n": 1,
+      "effect": 0.3
     },
     {
       "feature": "story: cabin cruiser sinking stern first, cutter small boat pulls the boaters across",
@@ -128,6 +123,11 @@
       "effect": 0.29
     },
     {
+      "feature": "lane: aviation_naval",
+      "n": 54,
+      "effect": 0.28
+    },
+    {
       "feature": "story: divers stranded on a capsized hull, boat crew pickup",
       "n": 1,
       "effect": 0.28
@@ -146,11 +146,6 @@
       "feature": "story: four boaters on a capsized racing catamaran, rescue boat throws a line, swimmer hauled aboard",
       "n": 1,
       "effect": 0.26
-    },
-    {
-      "feature": "story: ballistic missile test launch from a submerged submarine, breaks the surface and climbs",
-      "n": 1,
-      "effect": 0.23
     },
     {
       "feature": "story: boat aground in breaking surf at night, tethered surface swimmer wades out and walks the boater ashore",
@@ -176,6 +171,11 @@
       "feature": "story: sailboat trapped in arctic ice, polar icebreaker tows it out",
       "n": 1,
       "effect": 0.23
+    },
+    {
+      "feature": "story: ballistic missile test launch from a submerged submarine, breaks the surface and climbs",
+      "n": 1,
+      "effect": 0.22
     },
     {
       "feature": "story: disabled shrimp trawler in breaking surf off a beach, four men hoisted by helicopter",
@@ -233,11 +233,6 @@
       "effect": 0.15
     },
     {
-      "feature": "story: helicopter hoist from a cargo ship in twenty-foot swells and gale winds",
-      "n": 1,
-      "effect": 0.15
-    },
-    {
       "feature": "story: overdue mariners adrift far offshore, aircraft drop survival kits, merchant ship pickup",
       "n": 1,
       "effect": 0.15
@@ -250,6 +245,11 @@
     {
       "feature": "spacecraft or test story",
       "n": 25,
+      "effect": 0.14
+    },
+    {
+      "feature": "story: helicopter hoist from a cargo ship in twenty-foot swells and gale winds",
+      "n": 1,
       "effect": 0.14
     },
     {
@@ -288,6 +288,11 @@
       "effect": 0.13
     },
     {
+      "feature": "music: sea",
+      "n": 76,
+      "effect": 0.12
+    },
+    {
       "feature": "story: aircraft carrier tests firefighting foam across its flight deck",
       "n": 1,
       "effect": 0.12
@@ -303,19 +308,19 @@
       "effect": 0.12
     },
     {
-      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
-      "n": 1,
-      "effect": 0.12
-    },
-    {
-      "feature": "music: sea",
-      "n": 76,
-      "effect": 0.11
-    },
-    {
       "feature": "story: rooftop hoist flood",
       "n": 1,
       "effect": 0.11
+    },
+    {
+      "feature": "story: schooner in 20-foot seas, swimmer and two helicopters",
+      "n": 1,
+      "effect": 0.11
+    },
+    {
+      "feature": "hook names a child",
+      "n": 18,
+      "effect": 0.1
     },
     {
       "feature": "story: fishermen abandon a drifting, powerless boat into cold open sea, helicopter hoists all three from the water",
@@ -328,11 +333,6 @@
       "effect": 0.1
     },
     {
-      "feature": "hook names a child",
-      "n": 18,
-      "effect": 0.09
-    },
-    {
       "feature": "story: boat fire rescue",
       "n": 1,
       "effect": 0.09
@@ -343,17 +343,17 @@
       "effect": 0.09
     },
     {
-      "feature": "story: hurricane hoist",
-      "n": 1,
-      "effect": 0.09
-    },
-    {
       "feature": "story: warship fire at the pier, helicopter bucket drops and tugs fight it for four days",
       "n": 1,
       "effect": 0.09
     },
     {
       "feature": "story: hoist off a famous ocean liner in the winter atlantic",
+      "n": 1,
+      "effect": 0.08
+    },
+    {
+      "feature": "story: hurricane hoist",
       "n": 1,
       "effect": 0.08
     },
@@ -378,11 +378,6 @@
       "effect": 0.06
     },
     {
-      "feature": "story: crewed splashdown",
-      "n": 1,
-      "effect": 0.05
-    },
-    {
       "feature": "story: first flight of a new crewed spacecraft",
       "n": 1,
       "effect": 0.05
@@ -398,9 +393,19 @@
       "effect": 0.05
     },
     {
+      "feature": "story: surfer stranded on rocks in breaking surf, swimmer lowered onto the rock, hoisted together",
+      "n": 1,
+      "effect": 0.05
+    },
+    {
       "feature": "story: trapped dog",
       "n": 1,
       "effect": 0.05
+    },
+    {
+      "feature": "story: crewed splashdown",
+      "n": 1,
+      "effect": 0.04
     },
     {
       "feature": "story: cruise ship medevac hoist",
@@ -418,14 +423,19 @@
       "effect": 0.04
     },
     {
+      "feature": "story: hurricane boat crew rescue with babies",
+      "n": 1,
+      "effect": 0.04
+    },
+    {
       "feature": "story: pararescue helmet camera, family hoisted off a flooded balcony one by one",
       "n": 1,
       "effect": 0.04
     },
     {
-      "feature": "story: surfer stranded on rocks in breaking surf, swimmer lowered onto the rock, hoisted together",
+      "feature": "story: boarding team jumps onto a moving narco semi-submersible, helmet cam",
       "n": 1,
-      "effect": 0.04
+      "effect": 0.03
     },
     {
       "feature": "story: flood hoist",
@@ -433,19 +443,9 @@
       "effect": 0.03
     },
     {
-      "feature": "story: hurricane boat crew rescue with babies",
-      "n": 1,
-      "effect": 0.03
-    },
-    {
       "feature": "story: sailboat sinking far offshore, ship rescues raft",
       "n": 1,
       "effect": 0.03
-    },
-    {
-      "feature": "story: boarding team jumps onto a moving narco semi-submersible, helmet cam",
-      "n": 1,
-      "effect": 0.02
     },
     {
       "feature": "story: cargo plane lands and takes off on a public highway",
@@ -525,7 +525,7 @@
     {
       "feature": "story: spacecraft touches an asteroid",
       "n": 1,
-      "effect": -0.0
+      "effect": 0.0
     },
     {
       "feature": "story: teens stranded on a navigation marker, swimmer tows them clear, basket hoist",
@@ -543,6 +543,11 @@
       "effect": -0.01
     },
     {
+      "feature": "story: hoist from water",
+      "n": 1,
+      "effect": -0.01
+    },
+    {
       "feature": "story: mountain hoist",
       "n": 2,
       "effect": -0.01
@@ -553,8 +558,13 @@
       "effect": -0.01
     },
     {
-      "feature": "length 30 to 45 s",
-      "n": 125,
+      "feature": "source: dvids",
+      "n": 174,
+      "effect": -0.02
+    },
+    {
+      "feature": "story: boat on fire, survivors paddle away in a small inflatable raft, helicopter airlift from the water",
+      "n": 1,
       "effect": -0.02
     },
     {
@@ -573,7 +583,7 @@
       "effect": -0.02
     },
     {
-      "feature": "story: hoist from water",
+      "feature": "story: flood rooftop family",
       "n": 1,
       "effect": -0.02
     },
@@ -581,6 +591,21 @@
       "feature": "story: man alone abandons a boat as it sinks bow up, swimmer and basket hoist",
       "n": 1,
       "effect": -0.02
+    },
+    {
+      "feature": "story: surf rescue under cliff",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
+      "feature": "story: swimmer swept onto a sea rock by a wave, rescue watercraft pickup in surf, helicopter hoist from open water",
+      "n": 1,
+      "effect": -0.02
+    },
+    {
+      "feature": "length 30 to 45 s",
+      "n": 126,
+      "effect": -0.03
     },
     {
       "feature": "story: boat fire evacuation",
@@ -593,17 +618,12 @@
       "effect": -0.03
     },
     {
-      "feature": "story: boat on fire, survivors paddle away in a small inflatable raft, helicopter airlift from the water",
-      "n": 1,
-      "effect": -0.03
-    },
-    {
       "feature": "story: boaters in the water far offshore after a shark attack, search plane spots them, boat crew and helicopter hoist",
       "n": 1,
       "effect": -0.03
     },
     {
-      "feature": "story: flood rooftop family",
+      "feature": "story: flood vehicle hoist",
       "n": 1,
       "effect": -0.03
     },
@@ -623,22 +643,17 @@
       "effect": -0.03
     },
     {
-      "feature": "story: surf rescue under cliff",
-      "n": 1,
-      "effect": -0.03
-    },
-    {
-      "feature": "story: swimmer swept onto a sea rock by a wave, rescue watercraft pickup in surf, helicopter hoist from open water",
-      "n": 1,
-      "effect": -0.03
-    },
-    {
       "feature": "story: ten people in the water beside a boat sinking bow up, rescue swimmer moves them to a good samaritan's cruiser",
       "n": 1,
       "effect": -0.03
     },
     {
-      "feature": "story: flood vehicle hoist",
+      "feature": "hook has a number",
+      "n": 147,
+      "effect": -0.04
+    },
+    {
+      "feature": "story: dog rescue hurricane",
       "n": 1,
       "effect": -0.04
     },
@@ -648,12 +663,12 @@
       "effect": -0.04
     },
     {
-      "feature": "story: crew capsule splashdown",
+      "feature": "story: shark bite far offshore, swimmer and litter hoist from a ship plowing through whitecaps (hoist cam)",
       "n": 1,
-      "effect": -0.05
+      "effect": -0.04
     },
     {
-      "feature": "story: dog rescue hurricane",
+      "feature": "story: crew capsule splashdown",
       "n": 1,
       "effect": -0.05
     },
@@ -668,11 +683,6 @@
       "effect": -0.05
     },
     {
-      "feature": "story: shark bite far offshore, swimmer and litter hoist from a ship plowing through whitecaps (hoist cam)",
-      "n": 1,
-      "effect": -0.05
-    },
-    {
       "feature": "story: spacewalk seen from a helmet camera",
       "n": 1,
       "effect": -0.05
@@ -683,13 +693,8 @@
       "effect": -0.05
     },
     {
-      "feature": "hook has a number",
-      "n": 147,
-      "effect": -0.06
-    },
-    {
-      "feature": "source: dvids",
-      "n": 174,
+      "feature": "story: aircraft emergency",
+      "n": 1,
       "effect": -0.06
     },
     {
@@ -743,7 +748,7 @@
       "effect": -0.07
     },
     {
-      "feature": "story: aircraft emergency",
+      "feature": "story: crevasse rescue on a glacier",
       "n": 1,
       "effect": -0.07
     },
@@ -763,12 +768,22 @@
       "effect": -0.07
     },
     {
-      "feature": "story: crevasse rescue on a glacier",
+      "feature": "story: capsized boat, people in water",
       "n": 1,
       "effect": -0.08
     },
     {
       "feature": "story: fisherman overboard in near-freezing water, crew pulls him back, litter hoist from a rolling boat",
+      "n": 1,
+      "effect": -0.08
+    },
+    {
+      "feature": "story: four boaters sitting on a capsized hull far offshore, swimmer and basket hoist",
+      "n": 1,
+      "effect": -0.08
+    },
+    {
+      "feature": "story: mother and daughter in the water after capsizing, basket hoist",
       "n": 1,
       "effect": -0.08
     },
@@ -783,7 +798,12 @@
       "effect": -0.09
     },
     {
-      "feature": "story: capsized boat, people in water",
+      "feature": "story: cliff rescue",
+      "n": 2,
+      "effect": -0.09
+    },
+    {
+      "feature": "story: coast guard k9 and handler ride a helicopter hoist to a moving boat (training)",
       "n": 1,
       "effect": -0.09
     },
@@ -793,17 +813,7 @@
       "effect": -0.09
     },
     {
-      "feature": "story: four boaters sitting on a capsized hull far offshore, swimmer and basket hoist",
-      "n": 1,
-      "effect": -0.09
-    },
-    {
       "feature": "story: hoist from surf",
-      "n": 1,
-      "effect": -0.09
-    },
-    {
-      "feature": "story: mother and daughter in the water after capsizing, basket hoist",
       "n": 1,
       "effect": -0.09
     },
@@ -818,29 +828,19 @@
       "effect": -0.09
     },
     {
-      "feature": "story: cliff rescue",
-      "n": 2,
-      "effect": -0.1
+      "feature": "story: sinking fishing boat off oregon, rescue swimmer alongside, helicopter rescues three",
+      "n": 1,
+      "effect": -0.09
     },
     {
-      "feature": "story: coast guard k9 and handler ride a helicopter hoist to a moving boat (training)",
-      "n": 1,
+      "feature": "music: rescue",
+      "n": 29,
       "effect": -0.1
     },
     {
       "feature": "story: fisherman overboard at night far offshore, crew recovers him, swimmer rides the hoist to a pitching deck",
       "n": 1,
       "effect": -0.1
-    },
-    {
-      "feature": "story: sinking fishing boat off oregon, rescue swimmer alongside, helicopter rescues three",
-      "n": 1,
-      "effect": -0.1
-    },
-    {
-      "feature": "music: rescue",
-      "n": 29,
-      "effect": -0.11
     },
     {
       "feature": "story: fishing boat sinks on camera with one man aboard, helicopter hoist",
@@ -878,9 +878,24 @@
       "effect": -0.13
     },
     {
+      "feature": "story: soyuz capsule landing on land",
+      "n": 1,
+      "effect": -0.13
+    },
+    {
       "feature": "story: spacecraft abort, drop and parachute tests",
       "n": 1,
       "effect": -0.13
+    },
+    {
+      "feature": "length 45 s or more",
+      "n": 34,
+      "effect": -0.14
+    },
+    {
+      "feature": "story: crewed moon rocket liftoff seen from a camera on the capsule",
+      "n": 1,
+      "effect": -0.14
     },
     {
       "feature": "story: lone injured hiker high on a mountain, rescue specialists lowered, hoist into a black hawk",
@@ -893,7 +908,7 @@
       "effect": -0.14
     },
     {
-      "feature": "story: soyuz capsule landing on land",
+      "feature": "story: sinking fishing boat",
       "n": 1,
       "effect": -0.14
     },
@@ -903,12 +918,17 @@
       "effect": -0.14
     },
     {
-      "feature": "length 45 s or more",
-      "n": 34,
+      "feature": "music: mountain",
+      "n": 16,
       "effect": -0.15
     },
     {
-      "feature": "story: crewed moon rocket liftoff seen from a camera on the capsule",
+      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
+      "n": 1,
+      "effect": -0.15
+    },
+    {
+      "feature": "story: flood hoist from rooftop",
       "n": 1,
       "effect": -0.15
     },
@@ -923,27 +943,12 @@
       "effect": -0.15
     },
     {
-      "feature": "story: sinking fishing boat",
+      "feature": "story: stranded on sea cliffs, jump to boat",
       "n": 1,
       "effect": -0.15
     },
     {
-      "feature": "music: mountain",
-      "n": 16,
-      "effect": -0.16
-    },
-    {
-      "feature": "story: boater in the water hauled in on a heaving line and dragged over the rail of a rescue boat",
-      "n": 1,
-      "effect": -0.16
-    },
-    {
       "feature": "story: crew trapped inside a capsized car carrier, pulled out through the hull",
-      "n": 1,
-      "effect": -0.16
-    },
-    {
-      "feature": "story: flood hoist from rooftop",
       "n": 1,
       "effect": -0.16
     },
@@ -958,7 +963,7 @@
       "effect": -0.16
     },
     {
-      "feature": "story: stranded on sea cliffs, jump to boat",
+      "feature": "story: three overdue boaters on top of a capsized hull, boat crew pickup",
       "n": 1,
       "effect": -0.16
     },
@@ -968,12 +973,17 @@
       "effect": -0.17
     },
     {
+      "feature": "story: floatplane crash on a mountainside, 11 survivors hoisted",
+      "n": 1,
+      "effect": -0.17
+    },
+    {
       "feature": "story: moon rocket launch, close-up slow motion",
       "n": 1,
       "effect": -0.17
     },
     {
-      "feature": "story: three overdue boaters on top of a capsized hull, boat crew pickup",
+      "feature": "story: two sailors in cold water after capsizing, basket hoist from the water",
       "n": 1,
       "effect": -0.17
     },
@@ -983,28 +993,18 @@
       "effect": -0.18
     },
     {
-      "feature": "story: floatplane crash on a mountainside, 11 survivors hoisted",
-      "n": 1,
-      "effect": -0.18
-    },
-    {
-      "feature": "story: two sailors in cold water after capsizing, basket hoist from the water",
-      "n": 1,
-      "effect": -0.18
-    },
-    {
-      "feature": "source: commons",
-      "n": 8,
-      "effect": -0.19
-    },
-    {
       "feature": "story: empty boat washes ashore, boater found in the surf by the jetties, swimmer and basket hoist",
       "n": 1,
-      "effect": -0.19
+      "effect": -0.18
     },
     {
       "feature": "story: sea turtle freed from fishing gear offshore",
       "n": 1,
+      "effect": -0.18
+    },
+    {
+      "feature": "lane: rescue",
+      "n": 157,
       "effect": -0.19
     },
     {
@@ -1013,7 +1013,17 @@
       "effect": -0.19
     },
     {
+      "feature": "story: elderly man swept from his car into a flooded river, guard rescuer rides the hoist into the current",
+      "n": 1,
+      "effect": -0.2
+    },
+    {
       "feature": "story: elderly sailor, sailboat aground in breaking waves",
+      "n": 1,
+      "effect": -0.2
+    },
+    {
+      "feature": "story: hiker trapped on a sheer sea cliff, swimmer lowered down the face, hoisted together",
       "n": 1,
       "effect": -0.2
     },
@@ -1023,24 +1033,9 @@
       "effect": -0.21
     },
     {
-      "feature": "story: elderly man swept from his car into a flooded river, guard rescuer rides the hoist into the current",
-      "n": 1,
-      "effect": -0.21
-    },
-    {
-      "feature": "story: hiker trapped on a sheer sea cliff, swimmer lowered down the face, hoisted together",
-      "n": 1,
-      "effect": -0.21
-    },
-    {
-      "feature": "lane: rescue",
-      "n": 157,
-      "effect": -0.22
-    },
-    {
       "feature": "story: cliff hoist",
       "n": 1,
-      "effect": -0.22
+      "effect": -0.21
     },
     {
       "feature": "story: wildfire rescue",
@@ -1053,24 +1048,29 @@
       "effect": -0.22
     },
     {
+      "feature": "story: capsized yacht hoist",
+      "n": 1,
+      "effect": -0.23
+    },
+    {
+      "feature": "story: hurricane swimmer rescue with dog",
+      "n": 1,
+      "effect": -0.23
+    },
+    {
+      "feature": "story: rocket engine test cut short",
+      "n": 1,
+      "effect": -0.23
+    },
+    {
       "feature": "story: sinking sailboat, boat crew",
       "n": 1,
       "effect": -0.23
     },
     {
-      "feature": "story: capsized yacht hoist",
+      "feature": "story: two rafters stranded in a whitewater river canyon, swimmer lowered twice, helicopter hoists",
       "n": 1,
-      "effect": -0.24
-    },
-    {
-      "feature": "story: hurricane swimmer rescue with dog",
-      "n": 1,
-      "effect": -0.24
-    },
-    {
-      "feature": "story: rocket engine test cut short",
-      "n": 1,
-      "effect": -0.24
+      "effect": -0.23
     },
     {
       "feature": "story: sailboat torn apart in a hurricane far offshore, cargo ship takes the crew off",
@@ -1078,34 +1078,44 @@
       "effect": -0.24
     },
     {
-      "feature": "story: two rafters stranded in a whitewater river canyon, swimmer lowered twice, helicopter hoists",
-      "n": 1,
-      "effect": -0.24
-    },
-    {
       "feature": "hook names an animal",
       "n": 17,
-      "effect": -0.28
+      "effect": -0.27
     },
     {
       "feature": "music: storm",
       "n": 31,
+      "effect": -0.27
+    },
+    {
+      "feature": "source: commons",
+      "n": 9,
       "effect": -0.28
+    },
+    {
+      "feature": "story: arresting cable parts during a carrier landing, plane rolls off the deck and flies away",
+      "n": 1,
+      "effect": -0.31
     },
     {
       "feature": "story: jet skier overboard in breaking surf at a rock jetty, swimmer carried over the waves to the beach on the hoist",
       "n": 1,
-      "effect": -0.32
+      "effect": -0.31
     },
     {
       "feature": "story: attic flood hoist",
       "n": 1,
-      "effect": -0.36
+      "effect": -0.35
     },
     {
       "feature": "story: vehicle trapped in breaking waves during a hurricane, swimmer and basket hoist",
       "n": 1,
-      "effect": -0.37
+      "effect": -0.36
+    },
+    {
+      "feature": "story: volcano eruption",
+      "n": 2,
+      "effect": -0.38
     },
     {
       "feature": "story: record-holding spy jet takeoff",
@@ -1113,9 +1123,14 @@
       "effect": -0.39
     },
     {
-      "feature": "story: volcano eruption",
-      "n": 2,
-      "effect": -0.39
+      "feature": "flood or hurricane story",
+      "n": 28,
+      "effect": -0.4
+    },
+    {
+      "feature": "story: katrina rooftop hoist, man and boy pulled out through a roof",
+      "n": 1,
+      "effect": -0.4
     },
     {
       "feature": "story: security camera catches a tornado strike",
@@ -1123,29 +1138,19 @@
       "effect": -0.4
     },
     {
-      "feature": "flood or hurricane story",
-      "n": 28,
-      "effect": -0.41
-    },
-    {
-      "feature": "story: katrina rooftop hoist, man and boy pulled out through a roof",
-      "n": 1,
-      "effect": -0.41
-    },
-    {
       "feature": "story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews",
       "n": 1,
-      "effect": -0.43
+      "effect": -0.42
+    },
+    {
+      "feature": "story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists",
+      "n": 1,
+      "effect": -0.45
     },
     {
       "feature": "story: missing boaters clinging to a capsized hull",
       "n": 1,
       "effect": -0.45
-    },
-    {
-      "feature": "story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists",
-      "n": 1,
-      "effect": -0.46
     },
     {
       "feature": "story: historic rocket test stand implosion",
@@ -1167,37 +1172,37 @@
     {
       "short_id": "ccf-20261119-10",
       "title": "Raft in heavy seas, 40 miles out",
-      "views": 118323.0,
+      "views": 121143.0,
       "ret": 104.5,
-      "score": 2.451
+      "score": 2.433
     },
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 46666.0,
+      "views": 46718.0,
       "ret": 78.73,
-      "score": 1.636
+      "score": 1.633
     },
     {
       "short_id": "ccf-20261115-53",
       "title": "Engineer rides an F/A-18 through a loop",
-      "views": 41130.0,
+      "views": 41160.0,
       "ret": 84.34,
-      "score": 1.632
+      "score": 1.624
     },
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
       "views": 47529.0,
       "ret": 80.89,
-      "score": 1.606
+      "score": 1.601
     },
     {
       "short_id": "ccf-20261119-06",
       "title": "40,000 pound blasts next to a carrier",
-      "views": 9026.0,
+      "views": 9030.0,
       "ret": 105.25,
-      "score": 1.556
+      "score": 1.529
     }
   ],
   "bottom": [
@@ -1206,42 +1211,42 @@
       "title": "Florence: 67 people, 12 pets in one day",
       "views": 131.0,
       "ret": 44.64,
-      "score": -1.695
+      "score": -1.668
     },
     {
       "short_id": "ccf-20261102-07",
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 33.0,
       "ret": 64.08,
-      "score": -1.81
+      "score": -1.8
     },
     {
       "short_id": "ccf-20261111-01",
       "title": "Crab boat sank at night off Washington",
       "views": 93.0,
       "ret": 44.7,
-      "score": -1.831
+      "score": -1.804
     },
     {
       "short_id": "ccf-20261108-24",
       "title": "Saturn V test tower comes down",
       "views": 59.0,
       "ret": 48.56,
-      "score": -1.927
+      "score": -1.903
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 14.0,
       "ret": 67.2,
-      "score": -2.071
+      "score": -2.064
     }
   ],
   "query_weights": {
     "rescue infant": 0.99,
     "Hurricane Florence rescue": 0.82,
     "rescues dog": 0.91,
-    "rescue": 1.01,
+    "rescue": 1.02,
     "rooftop rescue": 0.96,
     "Hurricane Helene rescue": 0.98,
     "Hurricane Milton rescue": 0.97,
@@ -1251,44 +1256,44 @@
     "Hurricane Ian rescue": 0.99,
     "flood rescue": 1.07,
     "flight deck fire": 1.03,
-    "crash landing": 0.88,
-    "lava flow": 0.83,
+    "crash landing": 0.89,
+    "lava flow": 0.84,
     "rescues family": 1.22,
     "launch abort": 1.12,
     "splashdown": 1.06,
     "FEMA urban search and rescue": 0.91,
-    "vessel fire": 1.19,
-    "sinking vessel": 0.92,
+    "vessel fire": 1.18,
+    "sinking vessel": 0.93,
     "lava USGS": 0.9,
     "wildfire": 0.89,
     "capsized vessel rescue": 0.73,
     "beach rescue": 1.12,
-    "car in water": 0.9,
-    "kayaker rescue": 0.98,
+    "car in water": 0.91,
+    "kayaker rescue": 0.99,
     "MH-65 rescue": 1.04,
     "Air Station Clearwater rescue": 0.89,
     "Air Station Traverse City rescue": 0.87,
     "Air Station Barbers Point rescue": 1.01,
     "hospital evacuation": 1.0,
     "MH-60 Jayhawk rescue": 0.94,
-    "Air Station Port Angeles rescue": 1.21,
+    "Air Station Port Angeles rescue": 1.2,
     "mountain rescue": 0.97,
     "rescue swimmer": 0.9,
     "parachute rescue": 1.19,
-    "hot fire test": 1.11,
+    "hot fire test": 1.1,
     "motor lifeboat surf": 0.97,
     "ejection": 0.99,
     "flight test": 0.81,
     "engine test fire": 0.86,
-    "survivors": 0.85,
+    "survivors": 0.86,
     "launch": 0.9,
-    "rocket landing": 0.91,
+    "rocket landing": 0.92,
     "NOAA hurricane hunter": 0.98,
     "rocket launch": 0.94,
     "test": 1.08,
     "aircrew rescues": 0.87,
     "ship heavy seas": 1.18,
-    "rescues": 1.04,
+    "rescues": 1.05,
     "hoist": 0.97,
     "tornado damage": 0.79,
     "hurricane rescue": 0.87,
@@ -1301,24 +1306,25 @@
     "editor targeted search": 0.99,
     "editor search": 1.02,
     "editor": 1.17,
-    "lightning": 1.2,
+    "lightning": 1.19,
     "SR-71": 0.79,
     "F-15 flight": 1.28,
     "spacewalk": 0.97,
-    "Hurricane Harvey rescue": 1.02,
+    "Hurricane Harvey rescue": 1.03,
     "ice rescue": 1.15,
     "manual": 0.91,
     "editor manual": 1.36,
     "editor web search": 1.27,
-    "editor nasa search (long video, added by hand)": 1.11,
+    "editor nasa search (long video, added by hand)": 1.1,
     "manual web search": 1.21,
     "hand-harvest": 1.06,
-    "hand": 1.31
+    "hand": 1.32,
+    "Navy flight deck": 0.83
   },
   "lane_scores": {
-    "rescue": -0.06,
+    "rescue": -0.05,
     "hazards": -0.54,
-    "aviation_naval": 0.24
+    "aviation_naval": 0.21
   },
   "qa_rejections_7d": [
     {
@@ -1382,6 +1388,9 @@
       "notes": "One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame."
     }
   ],
-  "config_changed_at": "2026-11-24T13:29:01Z",
-  "changed": []
+  "config_changed_at": "2026-11-25T12:27:11Z",
+  "changed": [
+    "lane_mix {'rescue': 0.29, 'aviation_naval': 0.62, 'hazards': 0.1} -> {'rescue': 0.24, 'aviation_naval': 0.66, 'hazards': 0.1}",
+    "query weights for 77 searches"
+  ]
 }
