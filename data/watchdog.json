@@ -1,8 +1,8 @@
 {
- "at": "2026-11-25T10:20:00Z",
+ "at": "2026-11-25T14:20:00Z",
  "healthy": false,
- "numbers": {"passed": 114, "needs_build": 0, "needs_qa": 0, "build_failed": 60, "held": 1, "uploaded": 245, "dropped": 104, "scheduled_nov24_mt": 10, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 1, "scheduled_next_48h": 11},
- "note": "Nothing to QA. Nov 24 and Nov 25 MT are full (10 each). Nov 26 MT has 1; YouTube's daily upload cap is active until 2026-11-25T22:19Z and upload run 45555087189 is on watch, so 114 passed Shorts fill Nov 26 after the reset. Build, harvest and stats runs landed on time. No editor pass: supply is ample and new specs cannot be voiced (ccf-20261125-01 also failed with ElevenLabs 401 quota_exceeded).",
+ "numbers": {"passed": 114, "needs_build": 0, "needs_qa": 0, "build_failed": 60, "held": 1, "uploaded": 245, "dropped": 104, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 1, "scheduled_next_48h": 9},
+ "note": "Nothing to QA. Nov 25 MT is full (10). Nov 26 MT has 1; YouTube's daily upload cap is active until 2026-11-25T22:19Z and the 114 passed Shorts fill Nov 26 after the reset (upload runs every 3 h, last landed 14:06Z). Harvest, build, upload and stats runs landed on time. No editor pass: 114 passed is ample, and new specs cannot be voiced (ElevenLabs 401 quota_exceeded, 0 credits).",
  "fixed": [],
  "needs_charles": "ElevenLabs quota is used up (0 credits). 60 specs (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -23, -25, -26, ccf-20261125-01) failed to build. Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
