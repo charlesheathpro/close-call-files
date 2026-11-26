@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-135606",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-05T01:33:11Z",
   "duration": 130.13,
   "source_file": {
@@ -260,5 +260,6 @@
     109.38,
     117.48,
     125.58
-  ]
+  ],
+  "pass_reason": "foggy field maneuver b-roll"
 }
