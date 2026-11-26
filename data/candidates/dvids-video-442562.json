@@ -1,76 +1,77 @@
 {
-  "asset_id": "video:442562",
-  "source": "dvids",
-  "lane": "aviation_naval",
-  "matched_query": "F-35B vertical landing",
-  "title": "VMFA-121 conducts a vertical landing FARP",
-  "description": "An F-35B Lightning II from Marine Fighter Attack Squadron (VMFA) 121 conducts a vertical landing at a Forward Arming and Refueling Point (FARP) aboard Marine Corps Base, Camp Pendleton, Calif., Dec. 10, 2015.  VMFA-121 marked another important milestone in the evolution of the aircraft conducting their first Close Air Support (CAS) missions in support of ground combat elements during exercise Steel Knight 16.",
-  "keywords": "Marine Corps Base Camp Pendleton, MCB Camp Pendleton, marine aircraft group 39, mag-39, 3d Marine Aircraft Wing, F-35B Lightning II, Vertical landing, mag-13, VMFA-121, Marine Fighter Attack Squadron 121, 3dMAW, Marine Aircraft Group 13, USMCCOMCAM, 3DMAW COMCAM, Steel Knight 16, 3MAWCOMCAM, Marines, Forward Arming and Refueling Point, FARP",
-  "date": "2015-12-10T00:00:00-05:00",
-  "date_published": "2015-12-14T20:56:26-05:00",
-  "branch": "Marines",
-  "unit_name": "Marine Corps Air Station Miramar",
-  "credit": "Lance Cpl. Jessica Lucio",
-  "category": "B-Roll",
-  "virin": "151210-M-UX416-001",
-  "location": {
-    "city": "Marine Corps Base, Camp Pendleton",
-    "state": "California",
-    "country": "United States",
-    "state_abbreviation": "CA",
-    "country_abbreviation": "US"
-  },
-  "page_url": "https://www.dvidshub.net/video/442562/vmfa-121-conducts-vertical-landing-farp",
-  "via": "DVIDS",
-  "license": "Public domain (U.S. government work)",
-  "time_start": 4.02533,
-  "aspect_ratio": "16:9",
-  "id": "dvids-video-442562",
-  "status": "new",
-  "harvested_at": "2026-11-23T18:26:11Z",
-  "duration": 141.97,
-  "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102950960/DOD_102950960.mp4",
-    "width": 1920,
-    "height": 1080,
-    "bitrate": 8957,
-    "size": 160913778
-  },
-  "transcript_source": "whisper",
-  "transcript": [],
-  "scene_cuts": [
-    4.0,
-    78.18,
-    103.67,
-    112.88,
-    136.6
+ "asset_id": "video:442562",
+ "source": "dvids",
+ "lane": "aviation_naval",
+ "matched_query": "F-35B vertical landing",
+ "title": "VMFA-121 conducts a vertical landing FARP",
+ "description": "An F-35B Lightning II from Marine Fighter Attack Squadron (VMFA) 121 conducts a vertical landing at a Forward Arming and Refueling Point (FARP) aboard Marine Corps Base, Camp Pendleton, Calif., Dec. 10, 2015.  VMFA-121 marked another important milestone in the evolution of the aircraft conducting their first Close Air Support (CAS) missions in support of ground combat elements during exercise Steel Knight 16.",
+ "keywords": "Marine Corps Base Camp Pendleton, MCB Camp Pendleton, marine aircraft group 39, mag-39, 3d Marine Aircraft Wing, F-35B Lightning II, Vertical landing, mag-13, VMFA-121, Marine Fighter Attack Squadron 121, 3dMAW, Marine Aircraft Group 13, USMCCOMCAM, 3DMAW COMCAM, Steel Knight 16, 3MAWCOMCAM, Marines, Forward Arming and Refueling Point, FARP",
+ "date": "2015-12-10T00:00:00-05:00",
+ "date_published": "2015-12-14T20:56:26-05:00",
+ "branch": "Marines",
+ "unit_name": "Marine Corps Air Station Miramar",
+ "credit": "Lance Cpl. Jessica Lucio",
+ "category": "B-Roll",
+ "virin": "151210-M-UX416-001",
+ "location": {
+  "city": "Marine Corps Base, Camp Pendleton",
+  "state": "California",
+  "country": "United States",
+  "state_abbreviation": "CA",
+  "country_abbreviation": "US"
+ },
+ "page_url": "https://www.dvidshub.net/video/442562/vmfa-121-conducts-vertical-landing-farp",
+ "via": "DVIDS",
+ "license": "Public domain (U.S. government work)",
+ "time_start": 4.02533,
+ "aspect_ratio": "16:9",
+ "id": "dvids-video-442562",
+ "status": "passed_over",
+ "harvested_at": "2026-11-23T18:26:11Z",
+ "duration": 141.97,
+ "source_file": {
+  "src": "https://d34w7g4gy10iej.cloudfront.net/video/1512/DOD_102950960/DOD_102950960.mp4",
+  "width": 1920,
+  "height": 1080,
+  "bitrate": 8957,
+  "size": 160913778
+ },
+ "transcript_source": "whisper",
+ "transcript": [],
+ "scene_cuts": [
+  4.0,
+  78.18,
+  103.67,
+  112.88,
+  136.6
+ ],
+ "drama_score": 100,
+ "audio": {
+  "silence_starts": [
+   0.0
   ],
-  "drama_score": 100,
-  "audio": {
-    "silence_starts": [
-      0.0
-    ],
-    "silence_ends": [
-      4.0
-    ]
-  },
-  "sheet": "data/candidates/dvids-video-442562.jpg",
-  "sheet_times": [
-    8.32,
-    16.91,
-    25.5,
-    34.09,
-    42.68,
-    51.27,
-    59.86,
-    68.45,
-    77.04,
-    85.63,
-    94.22,
-    102.81,
-    111.4,
-    119.99,
-    128.58,
-    137.17
+  "silence_ends": [
+   4.0
   ]
+ },
+ "sheet": "data/candidates/dvids-video-442562.jpg",
+ "sheet_times": [
+  8.32,
+  16.91,
+  25.5,
+  34.09,
+  42.68,
+  51.27,
+  59.86,
+  68.45,
+  77.04,
+  85.63,
+  94.22,
+  102.81,
+  111.4,
+  119.99,
+  128.58,
+  137.17
+ ],
+ "pass_reason": "F-35B vertical landing at sea already told in ccf-20261116-10 and ccf-20261123-22"
 }
