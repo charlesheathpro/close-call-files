@@ -2,31 +2,39 @@
   "asset_id": "video:994312",
   "source": "dvids",
   "lane": "aviation_naval",
-  "matched_query": "manual",
+  "matched_query": "Polar Star",
   "title": "USCGC Polar Star (WAGB 10) escorts motor vessel Stena Polaris through the ice-covered Ross Sea to McMurdo Station during Operation Deep Freeze 2026",
   "description": "USCGC Polar Star (WAGB 10) creates a channel in the Ross Sea for the motor vessel Stena Polaris to safely navigate through on its way to supply McMurdo Station in Antarctica amid Operation Deep Freeze 2026, Jan. 21, 2026. Operation Deep Freeze is one of the more challenging U.S. military peacetime missions due to the harsh environment in which it is conducted, and this year also commemorates the Polar Star’s 50th year of service. (U.S. Coast Guard video by Petty Officer 2nd Class Christopher Bokum)",
-  "keywords": "",
-  "date": "01.21.2026",
-  "branch": "",
-  "unit_name": "Petty Officer 2nd Class Christopher Bokum",
-  "credit": "Video by",
+  "keywords": "USCGC Polar Star, USCG PolarOps",
+  "date": "2026-01-21T00:00:00-05:00",
+  "date_published": "2026-01-29T13:50:46-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Pacific Area",
+  "credit": "Petty Officer 2nd Class Christopher Bokum",
   "category": "Video Productions",
+  "virin": "260121-G-FN033-7225",
   "location": {
-    "city": "Antarctica",
-    "raw": "ANTARCTICA"
+    "city": "",
+    "state": "",
+    "country": "Antarctica",
+    "state_abbreviation": null,
+    "country_abbreviation": "AQ"
   },
   "page_url": "https://www.dvidshub.net/video/994312/uscgc-polar-star-wagb-10-escorts-motor-vessel-stena-polaris-through-ice-covered-ross-sea-mcmurdo-station-during",
   "via": "DVIDS",
   "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
+  "aspect_ratio": "16:9",
   "id": "dvids-video-994312",
-  "status": "passed_over",
-  "harvested_at": "2026-11-19T01:37:25Z",
+  "status": "new",
+  "harvested_at": "2026-11-26T19:33:39Z",
   "duration": 134.47,
   "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111501376/DOD_111501376.mp4",
-    "width": 3840,
-    "height": 2160
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2601/DOD_111501376/DOD_111501376-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 140123915
   },
   "transcript_source": "whisper",
   "transcript": [],
@@ -61,6 +69,5 @@
     113.04,
     121.41,
     129.78
-  ],
-  "pass_reason": "second Polar Star icebreaking story; ccf-20261118-11 already tells it"
+  ]
 }

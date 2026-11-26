@@ -2,31 +2,39 @@
   "asset_id": "video:913139",
   "source": "dvids",
   "lane": "aviation_naval",
-  "matched_query": "manual",
+  "matched_query": "Polar Star",
   "title": "Coast Guard Cutter Polar Star (WAGB 10) break ice during Operation Deep Freeze 24",
   "description": "Coast Guard Cutter Polar Star (WAGB 10) breaks a channel through the fast ice for Operation Deep Freeze 2024 in McMurdo Sound, Jan 6, 2024. Operation Deep Freeze is a joint service, inter-agency support operation for the National Science Foundation, which manages the United States Antarctic Program. (U.S. Coast Guard video by Petty Officer 2nd Class Jeremy Burgess and Petty Officer 2nd Class Ryan Graves)",
-  "keywords": "",
-  "date": "01.06.2024",
-  "branch": "",
-  "unit_name": "Petty Officer 2nd Class Ryan Graves",
-  "credit": "U.S. Coast Guard video by Petty Officer 2nd Class Jeremy Burgess and Petty Officer 2nd Class Ryan Graves",
+  "keywords": "Icebreaking, Polar Star, Operation Deep Freeze, CoastGuardNewsWire, USCG PolarOps, ODF24",
+  "date": "2024-01-06T00:00:00-05:00",
+  "date_published": "2024-02-21T18:47:34-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Pacific Area",
+  "credit": "Petty Officer 2nd Class Ryan Graves",
   "category": "B-Roll",
+  "virin": "240106-G-IC479-1001",
   "location": {
-    "city": "Antarctica",
-    "raw": "ANTARCTICA"
+    "city": "",
+    "state": "",
+    "country": "Antarctica",
+    "state_abbreviation": null,
+    "country_abbreviation": "AQ"
   },
   "page_url": "https://www.dvidshub.net/video/913139/coast-guard-cutter-polar-star-wagb-10-break-ice-during-operation-deep-freeze-24",
   "via": "DVIDS",
   "license": "Public domain (U.S. government work)",
   "time_start": 0.0,
+  "aspect_ratio": "16:9",
   "id": "dvids-video-913139",
-  "status": "used",
-  "harvested_at": "2026-11-19T01:34:50Z",
+  "status": "new",
+  "harvested_at": "2026-11-26T19:33:33Z",
   "duration": 119.62,
   "source_file": {
-    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2402/DOD_110131480/DOD_110131480.mp4",
-    "width": 4096,
-    "height": 2160
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2402/DOD_110131480/DOD_110131480-1920x1080-9000k.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 54795937
   },
   "transcript_source": "whisper",
   "transcript": [],
@@ -35,7 +43,7 @@
     65.15,
     73.32
   ],
-  "drama_score": 43,
+  "drama_score": 46,
   "audio": {
     "silence_starts": [
       0.0
@@ -62,6 +70,5 @@
     100.51,
     107.95,
     115.4
-  ],
-  "used_by": "ccf-20261118-11"
+  ]
 }
