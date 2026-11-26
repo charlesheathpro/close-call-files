@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-STS-134-launch-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:08:37Z",
   "duration": 21.44,
   "source_file": {
@@ -60,5 +60,6 @@
     17.67,
     18.98,
     20.29
-  ]
+  ],
+  "pass_reason": "21 s routine launch angle with a one-line description; QA keeps rejecting no-danger launches"
 }

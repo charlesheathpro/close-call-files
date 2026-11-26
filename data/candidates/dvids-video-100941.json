@@ -26,7 +26,7 @@
   "time_start": 6.1061,
   "aspect_ratio": "16:9",
   "id": "dvids-video-100941",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:18:08Z",
   "duration": 74.11,
   "source_file": {
@@ -156,5 +156,6 @@
     63.06,
     67.28,
     71.5
-  ]
+  ],
+  "pass_reason": "staged exercise package with moulage casualties"
 }

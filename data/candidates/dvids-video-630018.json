@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-630018",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-24T20:38:17Z",
   "duration": 43.41,
   "source_file": {
@@ -77,5 +77,6 @@
     36.21,
     38.89,
     41.57
-  ]
+  ],
+  "pass_reason": "F-35B hover already ran as ccf-20261123-22"
 }

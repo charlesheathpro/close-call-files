@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-741672",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T17:01:41Z",
   "duration": 59.4,
   "source_file": {
@@ -76,5 +76,6 @@
     49.69,
     53.38,
     57.06
-  ]
+  ],
+  "pass_reason": "training reel with graphics overlays and picture-in-picture, no real event"
 }

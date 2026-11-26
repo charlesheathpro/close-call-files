@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Shuttle-Imaging-Radar-A-Launches-aboard-STS-2",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:08:58Z",
   "duration": 99.46,
   "source_file": {
@@ -113,5 +113,6 @@
     83.5,
     89.68,
     95.87
-  ]
+  ],
+  "pass_reason": "low-res 1981 footage with title cards, routine launch"
 }

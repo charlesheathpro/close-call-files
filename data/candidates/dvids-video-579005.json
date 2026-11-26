@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-579005",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:30:35Z",
   "duration": 137.47,
   "source_file": {
@@ -184,5 +184,6 @@
     115.57,
     124.13,
     132.69
-  ]
+  ],
+  "pass_reason": "ground rope-rigging b-roll, nothing dramatic"
 }

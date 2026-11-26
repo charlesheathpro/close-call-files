@@ -26,7 +26,7 @@
   "time_start": 4.0587,
   "aspect_ratio": "16:9",
   "id": "dvids-video-520543",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:40:24Z",
   "duration": 79.17,
   "source_file": {
@@ -172,5 +172,6 @@
     67.01,
     71.67,
     76.34
-  ]
+  ],
+  "pass_reason": "dark night FLIR, mostly black frames"
 }
