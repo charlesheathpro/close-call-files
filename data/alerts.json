@@ -283,5 +283,15 @@
     "at": "2026-11-25T22:50:11Z",
     "kind": "upload_limit",
     "message": "YouTube said uploadLimitExceeded after 0 uploads this run"
+  },
+  {
+    "at": "2026-11-26T23:05:22Z",
+    "kind": "upload_error",
+    "message": "ccf-20261117-29: 504 Server Error: Gateway Timeout for url: https://github.com/charlesheathpro/close-call-files/releases/download/renders/ccf-20261117-29-r1.mp4"
+  },
+  {
+    "at": "2026-11-26T23:05:24Z",
+    "kind": "upload_limit",
+    "message": "YouTube said uploadLimitExceeded after 0 uploads this run"
   }
 ]
