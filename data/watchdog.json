@@ -1,8 +1,8 @@
 {
- "at": "2026-11-26T06:20:00Z",
+ "at": "2026-11-26T10:22:00Z",
  "healthy": false,
- "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 62, "uploaded": 255, "dropped": 104, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1, "scheduled_next_48h": 11},
- "note": "Nothing to QA. Nov 26 MT is full (10). Nov 27 has 1 because YouTube's daily upload cap is active until 2026-11-26T22:36Z; 104 passed Shorts are waiting, so the hourly upload cron fills Nov 27 once the cap lifts. Harvest (Nov 25 20:00Z), upload (02:35Z) and stats runs are on time. No editor pass: supply of passed Shorts covers about 10 days, and new specs cannot be voiced (ElevenLabs 401 quota_exceeded on all 62 failed builds, latest 24-24 at 00:44Z).",
+ "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 63, "uploaded": 255, "dropped": 104, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1, "scheduled_next_48h": 11},
+ "note": "Nothing to QA. Nov 26 MT is full (10). Nov 27 has 1 because YouTube's daily upload cap is active until 2026-11-26T22:36Z; 104 passed Shorts are waiting and the upload workflow (run 131, in progress since 08:52Z) fills Nov 27 once the cap lifts. Harvest (Nov 25 20:00Z) and stats are on time. No editor pass: 104 passed Shorts cover about 10 days, and new specs cannot be voiced (ElevenLabs 401 quota_exceeded, now 63 failed builds incl. 26-01 at 09:03Z).",
  "fixed": [],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 62 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 63 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
