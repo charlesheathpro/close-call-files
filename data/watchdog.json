@@ -1,8 +1,8 @@
 {
- "at": "2026-11-25T22:20:00Z",
+ "at": "2026-11-26T02:20:00Z",
  "healthy": false,
- "numbers": {"passed": 114, "needs_build": 0, "needs_qa": 0, "build_failed": 61, "held": 1, "uploaded": 245, "dropped": 104, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 1, "scheduled_nov27_mt": 0, "scheduled_next_48h": 4},
- "note": "Nothing to QA. Nov 25 MT is full (10). Nov 26 MT has 1, Nov 27 has 0: the gap is YouTube's daily upload cap (lifted 22:19:51Z), not supply, with 114 passed Shorts waiting. Pushed triggers/upload after the cap lifted; the hourly :41 cron backs it up. Harvest (20:00Z), upload (20:33Z) and stats runs are on time. No editor pass: new specs cannot be voiced (ElevenLabs 401 quota_exceeded, now 61 builds blocked including ccf-20261125-02).",
- "fixed": ["triggered upload after the YouTube cap reset"],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 61 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -23, -25, -26, ccf-20261125-01, -02). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 62, "uploaded": 255, "dropped": 104, "scheduled_nov25_mt": 10, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1, "scheduled_next_48h": 12},
+ "note": "Nothing to QA. Nov 25 and Nov 26 MT are full (10 each). Nov 27 has 1: YouTube's daily upload cap is active until 2026-11-26T22:36Z, so the gap is the cap, not supply (104 passed Shorts waiting). The hourly upload cron fills Nov 27 once the cap lifts. Harvest (20:00Z), upload (01:05Z) and stats (18:09Z) runs are on time. No editor pass: new specs cannot be voiced (ElevenLabs 401 quota_exceeded, 62 builds blocked, including 24-24 Melissa eye).",
+ "fixed": [],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 62 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
