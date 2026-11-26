@@ -234,6 +234,5 @@
       }
     ]
   ],
-  "hold_reason": "Spec complete and validated, but preview_shots.py could not run: upload.wikimedia.org answered 429 to the editor sandbox. Next editor run that can download from Commons: run preview_shots, fix any WARN (EMPTY may misfire on white cloud), remove hold. Rechecked Nov 25 (run 2): original file, 1080p transcode and seek thumbnails all still 429 from the sandbox.",
-  "hold": true
+  "preview_ok": "L5 shot 2 at 104 s is the eyewall cloud face filling the frame, which is what line 5 describes; EMPTY misfires on white cloud."
 }
