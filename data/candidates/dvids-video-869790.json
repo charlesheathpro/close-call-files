@@ -1,0 +1,75 @@
+{
+  "asset_id": "video:869790",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "Polar Star",
+  "title": "Coast Guard Cutter Polar Star transits through ice during Operation Deep Freeze 2023",
+  "description": "Coast Guard Cutter Polar Star (WAGB 10) transits through pack ice in the Southern Ocean, Dec. 26, 2022. The Coast Guard Cutter Polar Star first arrived in the pack ice on Christmas Day. (U.S. Coast Guard video by Petty Officer 3rd Class Aidan Cooney)",
+  "keywords": "USCGC Polar Star, Polar Star, OperationDeepFreeze, USCG PolarOps, ODF23",
+  "date": "2022-12-28T00:00:00-05:00",
+  "date_published": "2022-12-30T13:40:02-05:00",
+  "branch": "Coast Guard",
+  "unit_name": "U.S. Coast Guard Pacific Area",
+  "credit": "Petty Officer 3rd Class Aidan Cooney",
+  "category": "B-Roll",
+  "virin": "221228-G-SL960-0010",
+  "location": {
+    "city": "",
+    "state": "",
+    "country": "Antarctica",
+    "state_abbreviation": null,
+    "country_abbreviation": "AQ"
+  },
+  "page_url": "https://www.dvidshub.net/video/869790/coast-guard-cutter-polar-star-transits-through-ice-during-operation-deep-freeze-2023",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "time_start": 0.0,
+  "aspect_ratio": "16:9",
+  "id": "dvids-video-869790",
+  "status": "new",
+  "harvested_at": "2026-11-26T17:04:46Z",
+  "duration": 81.5,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2212/DOD_109392930/DOD_109392930.mp4",
+    "width": 1920,
+    "height": 1080,
+    "bitrate": 0,
+    "size": 100547245
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    0.04,
+    44.92,
+    58.68,
+    68.94
+  ],
+  "drama_score": 64,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      81.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-869790.jpg",
+  "sheet_times": [
+    2.53,
+    7.59,
+    12.66,
+    17.72,
+    22.78,
+    27.84,
+    32.91,
+    37.97,
+    43.03,
+    48.09,
+    53.15,
+    58.22,
+    63.28,
+    68.34,
+    73.4,
+    78.47
+  ]
+}
