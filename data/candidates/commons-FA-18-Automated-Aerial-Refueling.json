@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-FA-18-Automated-Aerial-Refueling",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:28:56Z",
   "duration": 52.67,
   "source_file": {
@@ -60,5 +60,6 @@
     44.02,
     47.28,
     50.54
-  ]
+  ],
+  "pass_reason": "Phase I drogue data flight, no contact on screen, no danger, release gives no outcome"
 }
