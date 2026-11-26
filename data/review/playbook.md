@@ -1,38 +1,38 @@
-# Playbook (computed 2026-11-26T05:23:58Z from 224 Shorts older than 48 hours)
+# Playbook (computed 2026-11-26T12:08:43Z from 225 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
 ## Do more of
 - music: naval (+0.62, 12 Shorts)
-- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.62, 1 Shorts)
+- story: three fishermen in a life raft in heavy seas after their boat capsized, cutter crew throws a line (+0.61, 1 Shorts)
 - story: army engineers' demolition training ends in a record blast (+0.42, 1 Shorts)
 - story: nasa engineer rides the back seat of an f/a-18: afterburner takeoff, roll and loop, cockpit camera (+0.4, 1 Shorts)
 - story: pararescue team parachutes from an hc-130j into the open north pacific to reach a sick sailor (+0.4, 1 Shorts)
 - story: three men on a capsized hull in open water, life ring and line to a rescue boat (+0.4, 1 Shorts)
-- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.38, 1 Shorts)
+- story: aircraft carrier shock trials, 40,000-pound underwater blasts beside the ship (+0.37, 1 Shorts)
 - story: tsunami ghost ship sunk by coast guard cutter gunfire (+0.37, 1 Shorts)
 
 ## Do less of
-- lane: hazards (-0.57, 4 Shorts)
-- story: dog hoist from sinking boat (-0.53, 1 Shorts)
-- story: historic rocket test stand implosion (-0.49, 1 Shorts)
-- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.47, 1 Shorts)
+- lane: hazards (-0.56, 4 Shorts)
+- story: dog hoist from sinking boat (-0.52, 1 Shorts)
+- story: historic rocket test stand implosion (-0.48, 1 Shorts)
 - story: missing boaters clinging to a capsized hull (-0.46, 1 Shorts)
-- flood or hurricane story (-0.44, 29 Shorts)
-- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.43, 1 Shorts)
-- story: security camera catches a tornado strike (-0.41, 1 Shorts)
+- story: crab boat sinks at night, two men in a life raft, infrared, helicopter hoists (-0.46, 1 Shorts)
+- story: controlled demolition of collapsed bridge wreckage lying on a cargo ship's bow (-0.46, 1 Shorts)
+- story: hurricane flood day, kids, elders and dogs airlifted by helicopter crews (-0.42, 1 Shorts)
+- flood or hurricane story (-0.42, 29 Shorts)
 
 ## Best Shorts
-- Raft in heavy seas, 40 miles out: 136508 views, 104% watched
-- Biggest blast on an Army base in 10 years: 23639 views, 99% watched
-- Parachuting to a sick sailor at sea: 46923 views, 79% watched
-- Engineer rides an F/A-18 through a loop: 41228 views, 83% watched
-- Flipped hull 11 miles out, 3 men on top: 47529 views, 81% watched
+- Raft in heavy seas, 40 miles out: 141891 views, 103% watched
+- Biggest blast on an Army base in 10 years: 23822 views, 99% watched
+- Parachuting to a sick sailor at sea: 47136 views, 79% watched
+- Engineer rides an F/A-18 through a loop: 41246 views, 83% watched
+- Flipped hull 11 miles out, 3 men on top: 47530 views, 81% watched
 
 ## Weakest Shorts
-- Florence: 67 people, 12 pets in one day: 131 views, 45% watched
+- Crab boat sank at night off Washington: 95 views, 45% watched
 - Clinging to a flipped boat 12 miles out: 33 views, 64% watched
-- Crab boat sank at night off Washington: 93 views, 45% watched
+- Blasting a fallen bridge off a ship: 996 views, 0% watched
 - Saturn V test tower comes down: 59 views, 49% watched
 - Dog hoisted from a sinking catamaran: 14 views, 67% watched
 
@@ -52,3 +52,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261122-18: Calm blue-sky basket transfer with no visible danger; most of the 30 s is the same underside shot of the Jayhawk from a rain-spotted lens, and the 33 s source has nothing else to cut to. Dropped.
 - ccf-20261122-22: About 35 seconds of grey lunar surface through the LM window with nothing changing; the computer alarms are only narrated, never seen, and the last shot is a letterboxed quarantine room.
 - ccf-20261122-27: One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame.
+
+## Changed tonight
+- lane_mix {'rescue': 0.24, 'aviation_naval': 0.66, 'hazards': 0.1} -> {'rescue': 0.19, 'aviation_naval': 0.71, 'hazards': 0.1}
+- query weights for 80 searches
