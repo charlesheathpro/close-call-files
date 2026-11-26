@@ -1,8 +1,8 @@
 {
- "at": "2026-11-26T10:22:00Z",
+ "at": "2026-11-26T14:20:00Z",
  "healthy": false,
- "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 63, "uploaded": 255, "dropped": 104, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1, "scheduled_next_48h": 11},
- "note": "Nothing to QA. Nov 26 MT is full (10). Nov 27 has 1 because YouTube's daily upload cap is active until 2026-11-26T22:36Z; 104 passed Shorts are waiting and the upload workflow (run 131, in progress since 08:52Z) fills Nov 27 once the cap lifts. Harvest (Nov 25 20:00Z) and stats are on time. No editor pass: 104 passed Shorts cover about 10 days, and new specs cannot be voiced (ElevenLabs 401 quota_exceeded, now 63 failed builds incl. 26-01 at 09:03Z).",
+ "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 65, "uploaded": 255, "dropped": 104, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1, "scheduled_next_48h": 9},
+ "note": "Nothing to QA. Nov 26 MT is full (10). Nov 27 has 1 because YouTube's daily upload cap is active until 2026-11-26T22:36Z; 104 passed Shorts are waiting and the next upload run after the cap lifts fills Nov 27. Harvest (Nov 25 20:00Z), stats and upload runs are on time. No editor pass: 104 passed Shorts cover about 10 days, and new specs cannot be voiced (ElevenLabs 401 quota_exceeded on all 65 failed builds, latest 26-02 and 26-03).",
  "fixed": [],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 63 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 65 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01 to -03). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
