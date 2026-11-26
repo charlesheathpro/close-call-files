@@ -1,8 +1,8 @@
 {
- "at": "2026-11-26T18:25:00Z",
+ "at": "2026-11-26T22:58:00Z",
  "healthy": false,
- "numbers": {"passed": 104, "needs_build": 0, "needs_qa": 0, "build_failed": 69, "uploaded": 255, "dropped": 104, "scheduled_nov26_mt": 10, "scheduled_nov27_mt": 1},
- "note": "Nothing to QA. Nov 26 MT is full (10). Nov 27 has 1 because YouTube's daily upload cap is active until 2026-11-26T22:36Z; 104 passed Shorts (about 10 days) are waiting. The last upload run started 08:52Z and its 5.5 h watch ended before the cap lifts, and no scheduled upload run has started since, so this run pushed triggers/upload (its watch covers 22:36Z) to fill Nov 27. No editor pass: the passed queue covers the gap and new specs cannot be voiced (ElevenLabs 401 quota_exceeded on all 69 failed builds, latest 26-04 to 26-07). Harvest 16:59Z, stats 17:52Z, builds on time.",
- "fixed": ["pushed triggers/upload so an upload run is on watch when the YouTube cap lifts at 22:36Z"],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 69 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01 to -07). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "numbers": {"passed": 94, "needs_build": 0, "needs_qa": 0, "build_failed": 70, "uploaded": 265, "dropped": 104, "scheduled_next_48h": 14, "scheduled_nov27_mt": 10, "scheduled_nov28_mt": 1},
+ "note": "Nothing to QA. The YouTube daily cap lifted at 22:36Z and the on-watch upload run (started 18:16Z) uploaded 10 at 22:48Z, so Nov 27 MT is full. Nov 28 fills when the next 24 h window opens around 22:48Z Nov 27. 94 passed Shorts (about 9 days) are waiting, so no editor pass: supply is ample and new specs cannot be voiced while ElevenLabs is at 0 credits (70 builds failed with 401 quota_exceeded, newest ccf-20261126-08). Harvest 19:28Z, stats 17:52Z, builds on schedule.",
+ "fixed": [],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 70 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01 to -08). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
