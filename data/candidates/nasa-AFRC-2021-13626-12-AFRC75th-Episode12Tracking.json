@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2021-13626-12-AFRC75th-Episode12Tracking",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:56:11Z",
   "duration": 312.92,
   "source_file": {
@@ -618,5 +618,6 @@
     263.6,
     283.13,
     302.65
-  ]
+  ],
+  "pass_reason": "talking-head documentary"
 }

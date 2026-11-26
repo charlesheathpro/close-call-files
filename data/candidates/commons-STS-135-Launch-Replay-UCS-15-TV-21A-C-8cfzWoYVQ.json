@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-STS-135-Launch-Replay-UCS-15-TV-21A-C-8cfzWoYVQ",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:10:14Z",
   "duration": 65.42,
   "source_file": {
@@ -60,5 +60,6 @@
     54.77,
     58.83,
     62.89
-  ]
+  ],
+  "pass_reason": "last shuttle launch already covered (ccf-20261116-01)"
 }

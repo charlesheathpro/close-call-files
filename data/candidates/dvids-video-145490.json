@@ -26,7 +26,7 @@
   "time_start": 16.5499,
   "aspect_ratio": "4:3",
   "id": "dvids-video-145490",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:33:56Z",
   "duration": 476.94,
   "source_file": {
@@ -884,5 +884,6 @@
     404.59,
     433.33,
     462.07
-  ]
+  ],
+  "pass_reason": "motorcycle safety PSA interviews"
 }

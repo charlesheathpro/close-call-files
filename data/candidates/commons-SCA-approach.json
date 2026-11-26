@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-SCA-approach",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T16:28:22Z",
   "duration": 36.87,
   "source_file": {
@@ -60,5 +60,6 @@
     30.68,
     32.96,
     35.23
-  ]
+  ],
+  "pass_reason": "static mate-demate device shots"
 }

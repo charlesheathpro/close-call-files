@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2021-13626-6-AFRC75th-Episode6Autonomy",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:56:25Z",
   "duration": 670.14,
   "source_file": {
@@ -1611,5 +1611,6 @@
     565.01,
     606.86,
     648.72
-  ]
+  ],
+  "pass_reason": "talking-head documentary"
 }

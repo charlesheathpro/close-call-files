@@ -26,7 +26,7 @@
   "time_start": 4.33767,
   "aspect_ratio": "4:3",
   "id": "dvids-video-308263",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:51:33Z",
   "duration": 375.91,
   "source_file": {
@@ -162,5 +162,6 @@
     317.43,
     340.63,
     363.82
-  ]
+  ],
+  "pass_reason": "hoist-cam footage murky and washed out, rest is dark cabin interior"
 }

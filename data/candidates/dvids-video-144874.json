@@ -26,7 +26,7 @@
   "time_start": 4.07074,
   "aspect_ratio": "4:3",
   "id": "dvids-video-144874",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:41:58Z",
   "duration": 96.15,
   "source_file": {
@@ -68,5 +68,6 @@
     81.34,
     87.06,
     92.79
-  ]
+  ],
+  "pass_reason": "one hoist-operator angle for 60 seconds, deck far below, nothing changes"
 }

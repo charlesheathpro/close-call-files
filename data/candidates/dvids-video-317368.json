@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317368",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:42:59Z",
   "duration": 159.75,
   "source_file": {
@@ -223,5 +223,6 @@
     134.37,
     144.32,
     154.28
-  ]
+  ],
+  "pass_reason": "release is one line with no outcome detail, dark night hoist cam"
 }

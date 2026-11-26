@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2021-13626-8-AFRC75th-Episode8GreenTech",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:55:06Z",
   "duration": 466.35,
   "source_file": {
@@ -844,5 +844,6 @@
     393.06,
     422.17,
     451.29
-  ]
+  ],
+  "pass_reason": "talking-head documentary"
 }

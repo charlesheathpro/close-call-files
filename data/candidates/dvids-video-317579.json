@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317579",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T01:13:08Z",
   "duration": 107.21,
   "source_file": {
@@ -65,5 +65,6 @@
     90.03,
     96.7,
     103.37
-  ]
+  ],
+  "pass_reason": "same Enchantment of the Seas medevac as 144874, repetitive single angle"
 }

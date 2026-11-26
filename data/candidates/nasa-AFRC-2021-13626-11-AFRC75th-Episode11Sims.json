@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-AFRC-2021-13626-11-AFRC75th-Episode11Sims",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T00:55:58Z",
   "duration": 384.57,
   "source_file": {
@@ -759,5 +759,6 @@
     324.06,
     348.06,
     372.06
-  ]
+  ],
+  "pass_reason": "talking-head documentary"
 }

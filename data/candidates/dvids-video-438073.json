@@ -26,7 +26,7 @@
   "time_start": 4.72603,
   "aspect_ratio": "16:9",
   "id": "dvids-video-438073",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:16:16Z",
   "duration": 125.57,
   "source_file": {
@@ -279,5 +279,6 @@
     106.27,
     113.79,
     121.31
-  ]
+  ],
+  "pass_reason": "ejection seat lab interviews, no firing on screen"
 }

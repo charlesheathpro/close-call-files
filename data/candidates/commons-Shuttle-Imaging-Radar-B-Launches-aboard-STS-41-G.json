@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Shuttle-Imaging-Radar-B-Launches-aboard-STS-41-G",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:09:28Z",
   "duration": 113.11,
   "source_file": {
@@ -186,5 +186,6 @@
     95.02,
     102.05,
     109.09
-  ]
+  ],
+  "pass_reason": "mostly interviews and radar imagery"
 }

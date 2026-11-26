@@ -1,7 +1,7 @@
 {
   "id": "dvids-video-1026718",
   "asset_id": "video:1026718",
-  "status": "new",
+  "status": "passed_over",
   "lane": "aviation_naval",
   "matched_query": "aerial refueling",
   "harvested_at": "2026-10-27T15:51:33Z",
@@ -65,5 +65,6 @@
     112.92,
     121.29,
     129.65
-  ]
+  ],
+  "pass_reason": "calm flyover b-roll, pillarboxed"
 }

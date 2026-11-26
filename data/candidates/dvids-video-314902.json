@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314902",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:41:11Z",
   "duration": 151.63,
   "source_file": {
@@ -128,5 +128,6 @@
     127.51,
     136.96,
     146.4
-  ]
+  ],
+  "pass_reason": "whiteout hoist cam, mostly blank white, injured man face visible in litter"
 }

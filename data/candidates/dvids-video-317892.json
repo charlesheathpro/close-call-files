@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317892",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:08:21Z",
   "duration": 69.15,
   "source_file": {
@@ -70,5 +70,6 @@
     57.92,
     62.21,
     66.5
-  ]
+  ],
+  "pass_reason": "low-res FLIR, calm tanker and an injured man strapped in a litter, no visible danger"
 }

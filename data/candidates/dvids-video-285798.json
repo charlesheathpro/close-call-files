@@ -26,7 +26,7 @@
   "time_start": 5.2052,
   "aspect_ratio": "16:9",
   "id": "dvids-video-285798",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-23T22:03:05Z",
   "duration": 91.33,
   "source_file": {
@@ -80,5 +80,6 @@
     77.45,
     82.8,
     88.15
-  ]
+  ],
+  "pass_reason": "F-35B vertical landing already covered twice"
 }
