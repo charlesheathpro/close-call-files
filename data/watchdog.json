@@ -1,8 +1,8 @@
 {
- "at": "2026-11-26T22:58:00Z",
+ "at": "2026-11-27T02:17:00Z",
  "healthy": false,
- "numbers": {"passed": 94, "needs_build": 0, "needs_qa": 0, "build_failed": 70, "uploaded": 265, "dropped": 104, "scheduled_next_48h": 14, "scheduled_nov27_mt": 10, "scheduled_nov28_mt": 1},
- "note": "Nothing to QA. The YouTube daily cap lifted at 22:36Z and the on-watch upload run (started 18:16Z) uploaded 10 at 22:48Z, so Nov 27 MT is full. Nov 28 fills when the next 24 h window opens around 22:48Z Nov 27. 94 passed Shorts (about 9 days) are waiting, so no editor pass: supply is ample and new specs cannot be voiced while ElevenLabs is at 0 credits (70 builds failed with 401 quota_exceeded, newest ccf-20261126-08). Harvest 19:28Z, stats 17:52Z, builds on schedule.",
+ "numbers": {"passed": 94, "needs_build": 0, "needs_qa": 0, "build_failed": 77, "uploaded": 265, "dropped": 104, "scheduled_next_48h": 12, "scheduled_nov27_mt": 10, "scheduled_nov28_mt": 1},
+ "note": "Nothing to QA. Nov 27 MT is full (10). Nov 28 has 1 because YouTube's daily upload cap is active until about 22:49Z Nov 27 (data/upload_limit.json); the upload workflow runs every 3 h and fills Nov 28 once the cap lifts. 94 passed Shorts (about 9 days) are waiting, so no editor pass: supply is ample and new specs cannot be voiced while ElevenLabs is at 0 credits (77 builds failed with 401 quota_exceeded, newest ccf-20261126-15). One transient upload_error (504 fetching the ccf-20261117-29 render from GitHub releases at 23:05Z); not repeated. Harvest 19:37Z, stats and uploads landing on schedule. Control Room refreshed except summary.json (upload blocked this run; previous copy stays).",
  "fixed": [],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 70 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01 to -08). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 77 specs failed to build (ccf-20261122-25, -28 to -32, ccf-20261123-01 to -28, ccf-20261124-01 to -26, ccf-20261125-01, -02, ccf-20261126-01 to -15). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
