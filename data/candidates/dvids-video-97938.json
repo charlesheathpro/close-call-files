@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-97938",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:24Z",
   "duration": 121.25,
   "source_file": {
@@ -74,5 +74,6 @@
     101.88,
     109.43,
     116.97
-  ]
+  ],
+  "pass_reason": "Patient interior and hospital pad footage; medical scenes"
 }

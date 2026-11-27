@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Splashdown-Watch-NASA-s-Artemis-1-Orion-Sacecraft-Splashdown",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:06:31Z",
   "duration": 30.15,
   "source_file": {
@@ -80,5 +80,6 @@
     25.01,
     26.87,
     28.72
-  ]
+  ],
+  "pass_reason": "Artemis I splashdown already ran"
 }

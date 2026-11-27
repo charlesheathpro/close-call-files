@@ -26,7 +26,7 @@
   "time_start": 4.004,
   "aspect_ratio": "4:3",
   "id": "dvids-video-428858",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-08T16:54:14Z",
   "duration": 159.83,
   "source_file": {
@@ -67,5 +67,6 @@
     135.06,
     144.76,
     154.47
-  ]
+  ],
+  "pass_reason": "Seventh cruise ship hoist-cam (two more unbuilt in buffer); calm, interchangeable"
 }

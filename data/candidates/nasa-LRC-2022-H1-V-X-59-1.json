@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-LRC-2022-H1-V-X-59-1",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:17:29Z",
   "duration": 44.63,
   "source_file": {
@@ -60,5 +60,6 @@
     37.24,
     40.0,
     42.75
-  ]
+  ],
+  "pass_reason": "Static factory floor footage of X-59 parts"
 }

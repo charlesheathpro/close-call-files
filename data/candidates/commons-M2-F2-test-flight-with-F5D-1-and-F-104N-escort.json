@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-M2-F2-test-flight-with-F5D-1-and-F-104N-escort",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-22T01:26:21Z",
   "duration": 43.2,
   "source_file": {
@@ -56,5 +56,6 @@
     36.03,
     38.7,
     41.37
-  ]
+  ],
+  "pass_reason": "Same M2-F2 drop and lakebed landing as ccf-20261122-03"
 }

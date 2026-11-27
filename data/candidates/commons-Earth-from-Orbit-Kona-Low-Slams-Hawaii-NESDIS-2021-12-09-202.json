@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Earth-from-Orbit-Kona-Low-Slams-Hawaii-NESDIS-2021-12-09-202",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T08:38:31Z",
   "duration": 125.65,
   "source_file": {
@@ -78,5 +78,6 @@
     105.6,
     113.42,
     121.24
-  ]
+  ],
+  "pass_reason": "Satellite loops and data maps, nothing in the frame at Short scale"
 }

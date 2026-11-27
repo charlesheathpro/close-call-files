@@ -26,7 +26,7 @@
   "time_start": 2.002,
   "aspect_ratio": "4:3",
   "id": "dvids-video-314978",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-07T08:52:33Z",
   "duration": 130.17,
   "source_file": {
@@ -72,5 +72,6 @@
     109.72,
     117.7,
     125.68
-  ]
+  ],
+  "pass_reason": "Calm training b-roll, distant Dolphin over flat bay"
 }

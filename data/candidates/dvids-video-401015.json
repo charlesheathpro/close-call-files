@@ -26,7 +26,7 @@
   "time_start": 6.12743,
   "aspect_ratio": "16:9",
   "id": "dvids-video-401015",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:52:39Z",
   "duration": 120.21,
   "source_file": {
@@ -245,5 +245,6 @@
     101.97,
     109.06,
     116.16
-  ]
+  ],
+  "pass_reason": "Recruiting montage with interviews; no single event or outcome"
 }

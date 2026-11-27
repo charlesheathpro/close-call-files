@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-582153",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:50:09Z",
   "duration": 216.52,
   "source_file": {
@@ -64,5 +64,6 @@
     182.26,
     195.76,
     209.27
-  ]
+  ],
+  "pass_reason": "Same ship (Carnival Pride), same day and same crew as ccf-20261126-02; 720x480; would be interchangeable"
 }
