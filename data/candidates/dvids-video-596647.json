@@ -1,0 +1,119 @@
+{
+  "asset_id": "video:596647",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Air Force JTACs Call For First B 52 Drop In Morocco",
+  "description": "For the first time during African Lion, Air Force JTACs call for bomb drops from a B 52 bomber. US Army Video by SGT James Dansie.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/596647/air-force-jtacs-call-first-b-52-drop-morocco",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-596647",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T04:41:51Z",
+  "duration": 60.18,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1804/DOD_105567865/DOD_105567865-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 11.34,
+      "e": 15.58,
+      "text": "My name is Senior, I'm in Christian Miller. I'm here supporting the 2A SAWs in the United States Air Force."
+    },
+    {
+      "s": 15.58,
+      "e": 23.18,
+      "text": "This is a JTAC for African Line 2018. Today we are conducting live fire exercises with Air Force P-52s, Moroccan F-16s,"
+    },
+    {
+      "s": 23.18,
+      "e": 32.7,
+      "text": "and we have a Spanish mortar team behind me. We're all doing live fire. It's good training, good practice, just all that integration and interoperability for all the nations,"
+    },
+    {
+      "s": 32.7,
+      "e": 39.9,
+      "text": "just to see where we're at and what we can improve on. Coming here, being able to teach them something that's predominantly our craft"
+    },
+    {
+      "s": 39.9,
+      "e": 46.86,
+      "text": "and something that we're really good at, it helps us learn and become better as instructors and JTACs, having to teach someone else because you want to make sure you're"
+    },
+    {
+      "s": 46.86,
+      "e": 52.06,
+      "text": "squared away, across your keys and dot in your eyes, and it's also pretty rewarding being able to see them do it in action."
+    },
+    {
+      "s": 52.06,
+      "e": 54.78,
+      "text": "You know, teach them one day and then the next day they come out here and do it for real."
+    }
+  ],
+  "scene_cuts": [
+    0.13,
+    1.05,
+    1.84,
+    2.72,
+    3.17,
+    4.02,
+    5.24,
+    7.82,
+    12.45,
+    16.15,
+    18.23,
+    24.16,
+    25.26,
+    30.6,
+    34.83,
+    37.32,
+    38.15,
+    41.51,
+    45.75,
+    47.95,
+    49.9,
+    51.63,
+    54.45
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      58.9
+    ],
+    "silence_ends": [
+      60.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-596647.jpg",
+  "sheet_times": [
+    1.87,
+    5.6,
+    9.33,
+    13.06,
+    16.79,
+    20.52,
+    24.25,
+    27.98,
+    31.71,
+    35.44,
+    39.17,
+    42.9,
+    46.63,
+    50.36,
+    54.09,
+    57.82
+  ],
+  "pass_reason": "no bomb drop or impact on screen; mostly briefings"
+}

@@ -1,0 +1,74 @@
+{
+  "asset_id": "video:514215",
+  "source": "dvids",
+  "lane": "hazards",
+  "matched_query": "manual editor ingest",
+  "title": "Beale EOD detonates hung flare",
+  "description": "Airmen from 9th Civil Engineer Squadron Explosive Ordnance Disposal Flight conduct a controlled detonation of a hung flare at Kingsley Field in Klamath Falls, Oregon March 15, 2017.  The EOD flight responsed to a hung flare on an F-15 Eagle that failed to deploy yesterday during a training flight.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/514215/beale-eod-detonates-hung-flare",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-514215",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T04:41:06Z",
+  "duration": 142.12,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1703/DOD_104166345/DOD_104166345-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    3.47,
+    39.81,
+    45.65,
+    53.72,
+    60.23,
+    68.77,
+    87.35,
+    87.39,
+    112.55,
+    136.64
+  ],
+  "drama_score": 50,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      40.3,
+      44.4
+    ],
+    "silence_ends": [
+      3.5,
+      41.1,
+      45.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-514215.jpg",
+  "sheet_times": [
+    4.43,
+    13.28,
+    22.13,
+    30.98,
+    39.83,
+    48.68,
+    57.53,
+    66.39,
+    75.24,
+    84.09,
+    92.94,
+    101.79,
+    110.64,
+    119.49,
+    128.34,
+    137.2
+  ],
+  "pass_reason": "hung flare: calm prep footage, the detonation is a distant puff"
+}

@@ -1,0 +1,113 @@
+{
+  "asset_id": "video:1022342",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Short Range Air-Defense System Live-Fire Super Garuda Shield 26",
+  "description": "U.S. Army Soldiers from 1st Battalion, 501st Parachute Infantry Regiment, 2nd Mobile Brigade Combat Team (Airborne), 11th Airborne Division alongside Indonesian Air Defenders from the 10th Air Defense Artillery Battalion use the FIM-92 Stinger Man Portable Air Defense System and the Mistral-3 Short Range Air-Defense System to shoot down target drones at a live-fire training event during Super Garuda Shield 26 at Baturaja Combat Training Center, Indonesia, Sept. 9, 2026. Super Garuda Shield is an annual exercise between the Indonesian National Armed Forces and U.S. Military designed to strengthen bilateral interoperability, capabilities, and cooperation. (U.S. Army Video by Staff Sgt. Dylan Grace)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Army Video by Staff Sgt. Dylan Grace",
+  "page_url": "https://www.dvidshub.net/video/1022342/short-range-air-defense-system-live-fire-super-garuda-shield-26",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-1022342",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:05:40Z",
+  "duration": 166.43,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111963462/DOD_111963462.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 45.46,
+      "e": 75.31,
+      "text": "Super elevate get the tone get the tone you're in the range fans go for it when you're ready"
+    },
+    {
+      "s": 77.65,
+      "e": 92.96,
+      "text": "Super elevate"
+    },
+    {
+      "s": 94.72,
+      "e": 96.72,
+      "text": "Let's go ready"
+    },
+    {
+      "s": 97.56,
+      "e": 99.56,
+      "text": "Yep activate clear blue"
+    },
+    {
+      "s": 101.44,
+      "e": 103.04,
+      "text": "Tom"
+    },
+    {
+      "s": 103.04,
+      "e": 104.4,
+      "text": "Tom"
+    },
+    {
+      "s": 104.4,
+      "e": 106.74,
+      "text": "Uncage super elevate fire"
+    }
+  ],
+  "scene_cuts": [
+    9.39,
+    18.25,
+    36.54,
+    43.34,
+    51.58,
+    61.41,
+    96.21,
+    117.35,
+    137.09
+  ],
+  "drama_score": 70,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      7.7,
+      9.9,
+      10.8,
+      53.2
+    ],
+    "silence_ends": [
+      7.7,
+      9.9,
+      10.6,
+      11.5,
+      54.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-1022342.jpg",
+  "sheet_times": [
+    5.19,
+    15.56,
+    25.93,
+    36.3,
+    46.67,
+    57.04,
+    67.41,
+    77.78,
+    88.15,
+    98.52,
+    108.89,
+    119.26,
+    129.64,
+    140.01,
+    150.38,
+    160.75
+  ],
+  "pass_reason": "GoPro and distant shots, no visible hit"
+}

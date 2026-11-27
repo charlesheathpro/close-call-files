@@ -1,0 +1,136 @@
+{
+  "asset_id": "video:791331",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Fort Drum Soldiers train with explosive breaching",
+  "description": "Soldiers with Alpha Company, 41st Brigade Engineer Battalion, 2nd Brigade Combat Team, 10th Mountain Division (LI) train with explosive charges on Fort Drum, April 13, 2021. Soldiers use extreme caution to avoid shrapnel injuries during explosive breach training. (U.S. Army video by Pvt. Ethan Scofield)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Army video by Pvt. Ethan Scofield",
+  "page_url": "https://www.dvidshub.net/video/791331/fort-drum-soldiers-train-with-explosive-breaching",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-791331",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:00:37Z",
+  "duration": 55.85,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108292206/DOD_108292206-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.43,
+      "e": 4.91,
+      "text": "Today we're at an urban breaching demo range as long as we're doing ballistic"
+    },
+    {
+      "s": 4.91,
+      "e": 8.67,
+      "text": "breaching also within 26th shotgun. The biggest safety consideration is"
+    },
+    {
+      "s": 8.67,
+      "e": 11.71,
+      "text": "shrapnel flying back at you. You want to make sure that you're at the right"
+    },
+    {
+      "s": 11.71,
+      "e": 15.31,
+      "text": "degrees away from the door the right distance away. So you want to have"
+    },
+    {
+      "s": 15.31,
+      "e": 19.71,
+      "text": "security on the building whether that's support by fire overwatch that's away"
+    },
+    {
+      "s": 19.71,
+      "e": 23.79,
+      "text": "from you or you and your guys moving up to the door alone. You want to make sure"
+    },
+    {
+      "s": 23.79,
+      "e": 29.07,
+      "text": "that door always has a weapon on it. Whenever you get up to the door you'll"
+    },
+    {
+      "s": 29.15,
+      "e": 32.59,
+      "text": "call the breach man up when you're ready. He'll go and place the charge on the"
+    },
+    {
+      "s": 32.59,
+      "e": 37.79,
+      "text": "door if you're using demo. He'll spool the M21 or whatever initiating"
+    },
+    {
+      "s": 37.79,
+      "e": 41.55,
+      "text": "system you're using back. You'll get the correct distance away or"
+    },
+    {
+      "s": 41.55,
+      "e": 44.75,
+      "text": "whatever you feel comfortable with that's a safe distance"
+    },
+    {
+      "s": 44.75,
+      "e": 48.03,
+      "text": "and then it's basically on you you blow the charge and then once the charge is"
+    },
+    {
+      "s": 48.03,
+      "e": 51.39,
+      "text": "blown you go through the door."
+    }
+  ],
+  "scene_cuts": [
+    1.71,
+    10.62,
+    14.0,
+    17.29,
+    23.17,
+    24.96,
+    27.92,
+    33.42,
+    38.21,
+    38.92
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      54.8
+    ],
+    "silence_ends": [
+      55.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-791331.jpg",
+  "sheet_times": [
+    1.73,
+    5.19,
+    8.65,
+    12.11,
+    15.57,
+    19.03,
+    22.49,
+    25.95,
+    29.4,
+    32.86,
+    36.32,
+    39.78,
+    43.24,
+    46.7,
+    50.16,
+    53.62
+  ],
+  "pass_reason": "interviews and slates, breach barely visible"
+}

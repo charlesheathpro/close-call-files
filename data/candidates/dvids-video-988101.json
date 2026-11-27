@@ -1,0 +1,60 @@
+{
+  "asset_id": "video:988101",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "National Motor Lifeboat School Surfman Course 01-26",
+  "description": "November 23rd, 2025 Surf Training in Clatsop Spit. Surfman Class 01-26 filmed by drone.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/988101/national-motor-lifeboat-school-surfman-course-01-26",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-988101",
+  "status": "new",
+  "harvested_at": "2026-11-27T04:55:06Z",
+  "duration": 93.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2511/DOD_111406139/DOD_111406139.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    48.15
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      93.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-988101.jpg",
+  "sheet_times": [
+    2.92,
+    8.76,
+    14.59,
+    20.43,
+    26.27,
+    32.1,
+    37.94,
+    43.78,
+    49.62,
+    55.45,
+    61.29,
+    67.13,
+    72.96,
+    78.8,
+    84.64,
+    90.48
+  ]
+}

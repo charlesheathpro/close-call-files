@@ -1,0 +1,77 @@
+{
+  "asset_id": "video:883397",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Live Aircraft Fire Training at Night",
+  "description": "U.S. Marines with Headquarters and Headquarters Squadron and Marine Wing Support Squadron 217 Marine Corps Aircraft Rescue and Firefighting Specialists participate in a live aircraft fire training exercise on Marine Corps Air Station, New River, in Jacksonville, North Carolina, May 12, 2023.  Marine Corps firefighters conducted live aircraft fire training to build trust, teamwork and the ability to act in emergency situations.  (U.S. Marine Corps photo by Cpl. Zeta Johnson)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/883397/live-aircraft-fire-training-night",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-883397",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T04:52:26Z",
+  "duration": 133.53,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2305/DOD_109638006/DOD_109638006.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 3.38,
+      "e": 4.42,
+      "text": "Safety is local."
+    }
+  ],
+  "scene_cuts": [
+    6.97,
+    16.32,
+    27.59,
+    34.3,
+    44.41,
+    48.15,
+    53.29,
+    62.0,
+    70.47,
+    81.95,
+    89.59,
+    102.07,
+    107.41,
+    113.28,
+    117.72
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-883397.jpg",
+  "sheet_times": [
+    4.16,
+    12.47,
+    20.79,
+    29.1,
+    37.42,
+    45.73,
+    54.04,
+    62.36,
+    70.67,
+    78.99,
+    87.3,
+    95.62,
+    103.93,
+    112.25,
+    120.56,
+    128.88
+  ],
+  "pass_reason": "same story as 19-53 burning Osprey mockup"
+}

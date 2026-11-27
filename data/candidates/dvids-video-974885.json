@@ -1,0 +1,61 @@
+{
+  "asset_id": "video:974885",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Super Garuda Shield 25- U.S. Air Force Special Tactics Airmen HALO Jump",
+  "description": "U.S. Air Force Special Tactics operators conduct a High-Altitude, Low-Opening jump from a CASA C-295 aircraft into Baturaja, Indonesia, Aug. 24, 2025. Super Garuda Shield is an annual exercise between the Indonesian National Armed Forces and the U.S. military designed to strengthen bilateral interoperability, capabilities, and cooperation. (U.S. Army video by Spc. Justin Yarborough)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Army video by Spc. Justin Yarborough",
+  "page_url": "https://www.dvidshub.net/video/974885/super-garuda-shield-25-us-air-force-special-tactics-airmen-halo-jump",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-974885",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T04:57:44Z",
+  "duration": 67.07,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2508/DOD_111253653/DOD_111253653.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    16.35,
+    24.19,
+    33.33,
+    38.71,
+    57.12
+  ],
+  "drama_score": 87,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-974885.jpg",
+  "sheet_times": [
+    2.08,
+    6.24,
+    10.4,
+    14.56,
+    18.72,
+    22.88,
+    27.04,
+    31.2,
+    35.36,
+    39.52,
+    43.68,
+    47.85,
+    52.01,
+    56.17,
+    60.33,
+    64.49
+  ],
+  "pass_reason": "distant canopies in the sky, no danger"
+}

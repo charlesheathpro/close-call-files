@@ -1,0 +1,62 @@
+{
+  "asset_id": "video:937051",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "OPN Sheild 2024 US Stinger Live Fire Slow Motion and Full Speed",
+  "description": "U.S. Army soldiers with 173rd Airborne Brigade fire MANPADs on a fixed-wing aerial drone target during exercise Shield 24 Apr. 12 in Pula, Croatia. This annual event bolsters Croatian air defense capabilities against low and medium-altitude threats. Joined by international partners, including and the Polish, Slovenian, and French Armed Forces, the exercise emphasizes air defense tactics and live-fire engagements.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/937051/opn-sheild-2024-us-stinger-live-fire-slow-motion-and-full-speed",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-937051",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:02:28Z",
+  "duration": 47.46,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2409/DOD_110570190/DOD_110570190.mp4",
+    "width": 3840,
+    "height": 2160
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    24.15,
+    31.61
+  ],
+  "drama_score": 41,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      31.6
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-937051.jpg",
+  "sheet_times": [
+    1.47,
+    4.4,
+    7.34,
+    10.27,
+    13.21,
+    16.14,
+    19.08,
+    22.01,
+    24.95,
+    27.88,
+    30.82,
+    33.76,
+    36.69,
+    39.63,
+    42.56,
+    45.5
+  ],
+  "pass_reason": "Stinger launch with no outcome shown or stated; black gap mid clip"
+}

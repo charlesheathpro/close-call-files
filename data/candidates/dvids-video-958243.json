@@ -1,0 +1,69 @@
+{
+  "asset_id": "video:958243",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "60th FS conducts first live weapons drop since squadron reactivation",
+  "description": "A U.S. Air Force GBU-12 explodes after being dropped from an F-35A Lightning II assigned to the 33rd Fighter Wing at Camp Shelby, Miss., Oct. 25, 2023. These were the first live weapons delivered from a 60th Fighter Squadron aircraft in over 40 years. (U.S. Air Force photo by Senior Airman Abigail Duell)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/958243/60th-fs-conducts-first-live-weapons-drop-since-squadron-reactivation",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-958243",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:07:06Z",
+  "duration": 16.2,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2504/DOD_110915455/DOD_110915455.mp4",
+    "width": 1280,
+    "height": 720
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 0.5,
+      "e": 2.5,
+      "text": "Yeah, he dropped it, he was going to crank."
+    }
+  ],
+  "scene_cuts": [],
+  "drama_score": 36,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      2.0,
+      5.1
+    ],
+    "silence_ends": [
+      0.6,
+      3.3,
+      6.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-958243.jpg",
+  "sheet_times": [
+    0.49,
+    1.47,
+    2.45,
+    3.43,
+    4.42,
+    5.4,
+    6.38,
+    7.36,
+    8.34,
+    9.32,
+    10.3,
+    11.28,
+    12.27,
+    13.25,
+    14.23,
+    15.21
+  ],
+  "pass_reason": "16 s single explosion, too short"
+}

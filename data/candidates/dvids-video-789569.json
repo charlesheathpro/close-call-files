@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:789569",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Icemen Spark EOD snow mitigation",
+  "description": "U.S. Air Force airmen from the 354th Civil Engineer Squadron Explosive Ordnance Disposal (EOD) flight, the Iceman Spark Innovation team, Air Force Research Laboratory's innovation team, and other partners set off explosion from afar for the EOD snow mitigation test March 18, 2021 at Eielson Air Force Base, Alaska. The experiment tested the use of snow to mitigate the damaging effects of explosions in an arctic environment.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/789569/icemen-spark-eod-snow-mitigation",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-789569",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:08:06Z",
+  "duration": 26.99,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2104/DOD_108265764/DOD_108265764-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    10.97,
+    16.14,
+    17.02
+  ],
+  "drama_score": 96,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      26.1
+    ],
+    "silence_ends": [
+      1.0,
+      27.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-789569.jpg",
+  "sheet_times": [
+    0.83,
+    2.48,
+    4.14,
+    5.79,
+    7.45,
+    9.1,
+    10.76,
+    12.42,
+    14.07,
+    15.73,
+    17.38,
+    19.04,
+    20.69,
+    22.35,
+    24.0,
+    25.66
+  ],
+  "pass_reason": "blurry lens and smoke for half the clip"
+}

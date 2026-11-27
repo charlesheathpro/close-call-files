@@ -1,0 +1,66 @@
+{
+  "asset_id": "video:613584",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Air, Land, Sea Strikes Sink Decommissioned Ex-USS Racine during RIMPAC",
+  "description": "180712-O-N0842-9001 PACIFIC OCEAN (July 12, 2018) Live fire from aircraft, a submarine, and land assets participating in the Rim of the Pacific (RIMPAC) exercise sink the decommissioned ex-USS Racine (LST-1191) July 12 in the Pacific Ocean. Twenty-five nations, 45 ships, five submarines, about 200 aircraft and 25,000 personnel are participating in RIMPAC from June 27 - Aug. 2 in and around the Hawaiian Islands and Southern California.  The world's largest international maritime exercise, RIMPAC provides a unique training opportunity while fostering and sustaining cooperative relationships among participants critical to ensuring the safety of sea lanes and security of the world's oceans.  RIMPAC 2018 is the 26th exercise in the series that began in 1971.  (U.S. Navy video/Released)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Navy video/Released",
+  "page_url": "https://www.dvidshub.net/video/613584/air-land-sea-strikes-sink-decommissioned-ex-uss-racine-during-rimpac",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-613584",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T04:46:33Z",
+  "duration": 383.89,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1807/DOD_105827313/DOD_105827313-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.0,
+    281.48,
+    306.27,
+    320.15,
+    334.13,
+    383.85
+  ],
+  "drama_score": 91,
+  "audio": {
+    "silence_starts": [
+      0.0
+    ],
+    "silence_ends": [
+      383.9
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-613584.jpg",
+  "sheet_times": [
+    11.98,
+    35.94,
+    59.91,
+    83.87,
+    107.83,
+    131.79,
+    155.75,
+    179.72,
+    203.68,
+    227.64,
+    251.6,
+    275.56,
+    299.53,
+    323.49,
+    347.45,
+    371.41
+  ],
+  "pass_reason": "hazy distant 576p aerials; sinking exercises already saturated"
+}
