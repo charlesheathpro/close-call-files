@@ -1,0 +1,158 @@
+{
+  "asset_id": "video:457975",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "HSM-35 Missile Shoot Live-Fire Exercise",
+  "description": "An MH-60R Sea Hawk helicopter assigned to Helicopter Maritime Strike Squadron (HSM) 35 launches an AGM-114M Hellfire missile during a live-fire exercise off the coast of San Diego, April 5, 2016. HSM-35, the Navy’s first composite expeditionary helicopter squadron, flies the MH-60R and the MQ-8B Fire Scout unmanned aircraft system. (U.S. Navy Combat Camera video by Mass Communication Specialist 1st Class Benjamin A. Lewis/Released)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Navy Combat Camera video by Mass Communication Specialist 1st Class Benjamin A. Lewis/Released",
+  "page_url": "https://www.dvidshub.net/video/457975/hsm-35-missile-shoot-live-fire-exercise",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-457975",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:36:59Z",
+  "duration": 115.71,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1604/DOD_103188034/DOD_103188034-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [
+    {
+      "s": 19.28,
+      "e": 20.28,
+      "text": "Good morning."
+    },
+    {
+      "s": 20.28,
+      "e": 22.28,
+      "text": "Good morning, all right."
+    },
+    {
+      "s": 22.28,
+      "e": 24.28,
+      "text": "Go ahead and move the fourth cradle."
+    },
+    {
+      "s": 24.28,
+      "e": 33.9,
+      "text": "First, down three."
+    },
+    {
+      "s": 33.9,
+      "e": 39.77,
+      "text": "One, two, three."
+    },
+    {
+      "s": 39.77,
+      "e": 41.77,
+      "text": "Anderson, you go to the can."
+    },
+    {
+      "s": 41.77,
+      "e": 46.96,
+      "text": "Yep."
+    },
+    {
+      "s": 46.96,
+      "e": 58.05,
+      "text": "We're calling the enemy to shoot."
+    },
+    {
+      "s": 58.05,
+      "e": 59.05,
+      "text": "Push."
+    },
+    {
+      "s": 59.05,
+      "e": 63.15,
+      "text": "Ready for it."
+    },
+    {
+      "s": 63.15,
+      "e": 64.15,
+      "text": "All right."
+    },
+    {
+      "s": 64.15,
+      "e": 65.15,
+      "text": "We're loaded."
+    }
+  ],
+  "scene_cuts": [
+    4.57,
+    9.28,
+    18.92,
+    27.33,
+    33.1,
+    40.97,
+    50.45,
+    59.03,
+    64.2,
+    69.27,
+    74.17,
+    78.58,
+    86.25
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      9.3,
+      20.9,
+      25.7,
+      27.3,
+      28.2,
+      37.6,
+      38.4,
+      44.5,
+      49.3,
+      59.3,
+      60.4,
+      63.3
+    ],
+    "silence_ends": [
+      4.6,
+      19.4,
+      22.2,
+      27.3,
+      28.0,
+      30.9,
+      38.4,
+      39.6,
+      46.2,
+      50.4,
+      60.4,
+      63.1,
+      64.2
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-457975.jpg",
+  "sheet_times": [
+    3.6,
+    10.8,
+    18.0,
+    25.2,
+    32.4,
+    39.6,
+    46.8,
+    54.01,
+    61.21,
+    68.41,
+    75.61,
+    82.81,
+    90.01,
+    97.21,
+    104.41,
+    111.61
+  ],
+  "pass_reason": "arming and taxi b-roll, the launch is never close"
+}

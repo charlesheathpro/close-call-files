@@ -1,0 +1,67 @@
+{
+  "asset_id": "video:749843",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Spartan Soldiers from 2ABCT fire Victory TOW Missiles",
+  "description": "Spartan Soldiers from 2nd Armored Brigade Combat Team, 3rd Infantry Division, with safeguards in place and safety bubbles shoot M-220 Tube-launched, Optically tracked, Wire-guided missiles from Bradley Fighting Vehicles on Mielno Range, Drawsko Pomorskie Training Area, Poland April 24. The best firing squads from four of the seven battalions were presented the opportunity to shoot the TOW Missile after shooting best in their respective battalion's gunnery.(U.S. Army video by Staff Sgt. Brian K. Ragin Jr.)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Army video by Staff Sgt. Brian K. Ragin Jr.",
+  "page_url": "https://www.dvidshub.net/video/749843/spartan-soldiers-2abct-fire-victory-tow-missiles",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-749843",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:31:56Z",
+  "duration": 112.48,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2004/DOD_107790038/DOD_107790038-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    5.03,
+    10.0,
+    28.57,
+    48.83,
+    48.87
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      108.3
+    ],
+    "silence_ends": [
+      5.1,
+      112.5
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-749843.jpg",
+  "sheet_times": [
+    3.5,
+    10.5,
+    17.5,
+    24.49,
+    31.49,
+    38.49,
+    45.49,
+    52.49,
+    59.49,
+    66.49,
+    73.48,
+    80.48,
+    87.48,
+    94.48,
+    101.48,
+    108.48
+  ],
+  "pass_reason": "green thermal sight and title graphics, hits barely visible"
+}

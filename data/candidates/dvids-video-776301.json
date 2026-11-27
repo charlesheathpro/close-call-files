@@ -1,0 +1,65 @@
+{
+  "asset_id": "video:776301",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Reapers conduct live missile fire",
+  "description": "A U.S. Air Force F-15C Eagle assigned to the 493rd Fighter Squadron fires a special air training missile, NATM-9M, during a training exercise over the Atlantic Ocean, Dec. 8, 2020. The training followed a specific set of range procedures employing the munition against a drone to test and ensure combat readiness of aircrew and aircraft.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/776301/reapers-conduct-live-missile-fire",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-776301",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:36:39Z",
+  "duration": 54.72,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2012/DOD_108099583/DOD_108099583-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    2.05,
+    31.12,
+    52.68
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      52.7
+    ],
+    "silence_ends": [
+      2.1,
+      54.7
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-776301.jpg",
+  "sheet_times": [
+    1.69,
+    5.08,
+    8.47,
+    11.86,
+    15.25,
+    18.64,
+    22.03,
+    25.42,
+    28.8,
+    32.19,
+    35.58,
+    38.97,
+    42.36,
+    45.75,
+    49.14,
+    52.53
+  ],
+  "pass_reason": "pilot selfie camera, missile and drone are specks"
+}

@@ -1,0 +1,73 @@
+{
+  "asset_id": "video:834624",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "TOW Missile B-Roll",
+  "description": "U.S. Army Troopers assigned to 3d Cavalry Regiment conduct a live-fire exercise with a BGM-71 Tube-launched, Optically tracked, Wire-guided Missile System at Fort Hood Training Area, Fort Hood, Texas, Feb. 11, 2022.",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Department of Defense video",
+  "page_url": "https://www.dvidshub.net/video/834624/tow-missile-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-834624",
+  "status": "passed_over",
+  "harvested_at": "2026-11-27T05:32:33Z",
+  "duration": 96.83,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2203/DOD_108858476/DOD_108858476.mp4",
+    "width": 1920,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    90.33
+  ],
+  "drama_score": 68,
+  "audio": {
+    "silence_starts": [
+      1.4,
+      3.0,
+      4.9,
+      5.5,
+      15.5,
+      85.9,
+      89.2
+    ],
+    "silence_ends": [
+      3.0,
+      3.6,
+      5.5,
+      6.2,
+      16.2,
+      86.6,
+      90.3
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-834624.jpg",
+  "sheet_times": [
+    3.01,
+    9.03,
+    15.05,
+    21.07,
+    27.09,
+    33.11,
+    39.14,
+    45.16,
+    51.18,
+    57.2,
+    63.22,
+    69.24,
+    75.26,
+    81.28,
+    87.3,
+    93.32
+  ],
+  "pass_reason": "Stryker driving shots, launches and hits too distant"
+}
