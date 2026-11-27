@@ -26,7 +26,7 @@
   "time_start": 11.7784,
   "aspect_ratio": "4:3",
   "id": "dvids-video-132855",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-06T16:47:50Z",
   "duration": 273.11,
   "source_file": {
@@ -308,5 +308,6 @@
     231.85,
     248.16,
     264.46
-  ]
+  ],
+  "pass_reason": "720x480 training b-roll, patrols and standing, no visible action"
 }
