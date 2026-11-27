@@ -1,8 +1,8 @@
 {
- "at": "2026-11-27T10:25:00Z",
+ "at": "2026-11-27T14:20:00Z",
  "healthy": false,
- "numbers": {"passed": 94, "needs_build": 0, "needs_qa": 0, "build_failed": 84, "uploaded": 265, "dropped": 104, "scheduled_next_48h": 11, "scheduled_nov27_mt": 10, "scheduled_nov28_mt": 1},
- "note": "Nothing to QA. Nov 27 MT is full (10). Nov 28 has 1 because YouTube's daily upload cap is active until about 22:49Z Nov 27 (data/upload_limit.json); 94 passed Shorts (about 9 days) are waiting, so no editor pass: new specs cannot be voiced while ElevenLabs is at 0 credits (84 builds failed with 401 quota_exceeded, newest ccf-20261127-01). GitHub has not started the hourly upload cron since 02:23Z, so an upload run was triggered.",
- "fixed": ["pushed triggers/upload (no upload run since 02:23Z)"],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 84 specs failed to build (ccf-20261122-25 through ccf-20261127-01). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
+ "numbers": {"passed": 94, "needs_build": 0, "needs_qa": 0, "build_failed": 86, "uploaded": 265, "dropped": 104, "scheduled_next_48h": 9, "scheduled_nov27_mt": 10, "scheduled_nov28_mt": 1},
+ "note": "Nothing to QA. Nov 27 MT is full (10). Nov 28 has 1 because YouTube's daily upload cap is active until about 22:49Z Nov 27; the hourly upload cron is landing (14:03Z) and will fill Nov 28 from the 94 passed Shorts once the cap lifts. No editor pass: new specs cannot be voiced while ElevenLabs is at 0 credits (86 builds failed with 401 quota_exceeded, newest ccf-20261127-03).",
+ "fixed": [],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 86 specs failed to build (ccf-20261122-25 through ccf-20261127-03). Add credits or wait for the reset, then list those IDs in triggers/build-ids and run date > triggers/build."
 }
