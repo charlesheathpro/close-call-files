@@ -1,0 +1,91 @@
+{
+  "asset_id": "video:878950",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "A symphony of Hellfires",
+  "description": "Soldiers assigned to 16th Combat Aviation Brigade fire AGM-114 Hellfire missiles from AH-64E Apache helicopters at Yakima Training Center, Wash. on Jan. 24, 2023. This video has been stabilized using editing software.\n\nU.S. Army video by Capt. Kyle Abraham, 16th Combat Aviation Brigade",
+  "keywords": "",
+  "date": "2023-01-24",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Army video by Capt. Kyle Abraham, 16th Combat Aviation Brigade",
+  "page_url": "https://www.dvidshub.net/video/878950/symphony-hellfires",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {
+    "city": "Yakima Training Center",
+    "state": "Washington",
+    "country": "United States"
+  },
+  "time_start": 0.0,
+  "id": "dvids-video-878950",
+  "status": "used",
+  "harvested_at": "2026-11-27T00:59:50Z",
+  "duration": 59.03,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/2304/DOD_109561510/DOD_109561510.mp4",
+    "width": 1080,
+    "height": 1080
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    4.84,
+    8.61,
+    8.88,
+    13.18,
+    17.58,
+    19.85,
+    22.86,
+    28.43,
+    29.0,
+    32.07,
+    34.83,
+    37.77,
+    41.47,
+    41.88,
+    44.31,
+    44.94,
+    45.01,
+    47.58,
+    47.88,
+    50.18,
+    50.52,
+    51.45,
+    53.19
+  ],
+  "drama_score": 100,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      29.8,
+      58.1
+    ],
+    "silence_ends": [
+      5.3,
+      30.5,
+      59.0
+    ]
+  },
+  "sheet": "data/candidates/dvids-video-878950.jpg",
+  "sheet_times": [
+    1.83,
+    5.49,
+    9.14,
+    12.8,
+    16.46,
+    20.12,
+    23.78,
+    27.43,
+    31.09,
+    34.75,
+    38.41,
+    42.07,
+    45.72,
+    49.38,
+    53.04,
+    56.7
+  ],
+  "used_by": "ccf-20261126-11"
+}

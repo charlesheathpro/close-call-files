@@ -1,0 +1,63 @@
+{
+  "asset_id": "video:731052",
+  "source": "dvids",
+  "lane": "aviation_naval",
+  "matched_query": "manual editor ingest",
+  "title": "Wyoming C-130 Hercules Flares and Sunset B-Roll",
+  "description": "B-roll of the C-130 Hercules from the 153rd Airlift Wing, Wyoming Air National Guard, as it fires flares and rides into the sunset over Camp Guernsey Joint Training Center during a training mission on Sept. 24, 2019. The 153rd Airlift Wing's primary mission is to provide combat airlift to our state and nation. (U.S. Air National Guard video by Tech. Sgt. Jacqueline Marshall)",
+  "keywords": "",
+  "date": "",
+  "branch": "",
+  "unit_name": "",
+  "credit": "U.S. Air National Guard video by Tech. Sgt. Jacqueline Marshall",
+  "page_url": "https://www.dvidshub.net/video/731052/wyoming-c-130-hercules-flares-and-sunset-b-roll",
+  "via": "DVIDS",
+  "license": "Public domain (U.S. government work)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "dvids-video-731052",
+  "status": "used",
+  "harvested_at": "2026-11-27T00:51:38Z",
+  "duration": 319.21,
+  "source_file": {
+    "src": "https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107544702/DOD_107544702-1024x576-1769k.mp4",
+    "width": 1024,
+    "height": 576
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [
+    15.92,
+    125.08,
+    175.12,
+    197.12,
+    250.54,
+    311.46,
+    319.17
+  ],
+  "drama_score": 88,
+  "audio": {
+    "silence_starts": [],
+    "silence_ends": []
+  },
+  "sheet": "data/candidates/dvids-video-731052.jpg",
+  "sheet_times": [
+    9.96,
+    29.88,
+    49.8,
+    69.72,
+    89.64,
+    109.56,
+    129.48,
+    149.4,
+    169.31,
+    189.23,
+    209.15,
+    229.07,
+    248.99,
+    268.91,
+    288.83,
+    308.75
+  ],
+  "used_by": "ccf-20261126-10"
+}
