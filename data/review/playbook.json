@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-27T05:18:31Z",
+  "at": "2026-11-27T11:57:37Z",
   "mature": 234,
   "features": [
     {
@@ -168,17 +168,17 @@
       "effect": 0.25
     },
     {
+      "feature": "story: experimental jet first supersonic flight",
+      "n": 1,
+      "effect": 0.23
+    },
+    {
       "feature": "story: four boaters on a capsized racing catamaran, rescue boat throws a line, swimmer hauled aboard",
       "n": 1,
       "effect": 0.23
     },
     {
       "feature": "story: arresting cable parts during a carrier landing, plane rolls off the deck and flies away",
-      "n": 1,
-      "effect": 0.22
-    },
-    {
-      "feature": "story: experimental jet first supersonic flight",
       "n": 1,
       "effect": 0.22
     },
@@ -498,11 +498,6 @@
       "effect": 0.02
     },
     {
-      "feature": "story: sailboat sinking far offshore, ship rescues raft",
-      "n": 1,
-      "effect": 0.02
-    },
-    {
       "feature": "story: surf rescue",
       "n": 1,
       "effect": 0.02
@@ -529,6 +524,11 @@
     },
     {
       "feature": "story: rocket booster landing",
+      "n": 1,
+      "effect": 0.01
+    },
+    {
+      "feature": "story: sailboat sinking far offshore, ship rescues raft",
       "n": 1,
       "effect": 0.01
     },
@@ -833,11 +833,6 @@
       "effect": -0.07
     },
     {
-      "feature": "story: fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
-      "n": 1,
-      "effect": -0.08
-    },
-    {
       "feature": "story: four boaters sitting on a capsized hull far offshore, swimmer and basket hoist",
       "n": 1,
       "effect": -0.08
@@ -863,6 +858,11 @@
       "effect": -0.09
     },
     {
+      "feature": "story: fishing boat aground in breaking surf, swimmer on the bow, basket hoists to the beach",
+      "n": 1,
+      "effect": -0.09
+    },
+    {
       "feature": "story: hoist from surf",
       "n": 1,
       "effect": -0.09
@@ -876,11 +876,6 @@
       "feature": "story: rocket stage full-duration test fire, second attempt",
       "n": 1,
       "effect": -0.09
-    },
-    {
-      "feature": "music: night",
-      "n": 12,
-      "effect": -0.1
     },
     {
       "feature": "story: cliff rescue",
@@ -906,6 +901,11 @@
       "feature": "story: pad abort test",
       "n": 1,
       "effect": -0.1
+    },
+    {
+      "feature": "music: night",
+      "n": 12,
+      "effect": -0.11
     },
     {
       "feature": "source: commons",
@@ -1078,11 +1078,6 @@
       "effect": -0.17
     },
     {
-      "feature": "story: moon rocket launch, close-up slow motion",
-      "n": 1,
-      "effect": -0.17
-    },
-    {
       "feature": "story: sea turtle freed from fishing gear offshore",
       "n": 1,
       "effect": -0.17
@@ -1109,6 +1104,11 @@
     },
     {
       "feature": "story: hiker trapped on a sheer sea cliff, swimmer lowered down the face, hoisted together",
+      "n": 1,
+      "effect": -0.18
+    },
+    {
+      "feature": "story: moon rocket launch, close-up slow motion",
       "n": 1,
       "effect": -0.18
     },
@@ -1143,11 +1143,6 @@
       "effect": -0.21
     },
     {
-      "feature": "lane: rescue",
-      "n": 162,
-      "effect": -0.22
-    },
-    {
       "feature": "story: capsized yacht hoist",
       "n": 1,
       "effect": -0.22
@@ -1166,6 +1161,11 @@
       "feature": "story: wildfire rescue",
       "n": 1,
       "effect": -0.22
+    },
+    {
+      "feature": "lane: rescue",
+      "n": 162,
+      "effect": -0.23
     },
     {
       "feature": "music: storm",
@@ -1267,28 +1267,28 @@
     {
       "short_id": "ccf-20261119-10",
       "title": "Raft in heavy seas, 40 miles out",
-      "views": 159256.0,
+      "views": 160924.0,
       "ret": 101.83,
-      "score": 2.325
+      "score": 2.327
     },
     {
       "short_id": "ccf-20261114-22",
       "title": "Cars underwater, a man in the flood",
-      "views": 918.0,
+      "views": 919.0,
       "ret": 202.64,
       "score": 2.075
     },
     {
       "short_id": "ccf-20261117-26",
       "title": "Biggest blast on an Army base in 10 years",
-      "views": 23902.0,
+      "views": 23970.0,
       "ret": 90.46,
-      "score": 1.579
+      "score": 1.578
     },
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 47693.0,
+      "views": 47866.0,
       "ret": 78.56,
       "score": 1.556
     },
@@ -1306,7 +1306,7 @@
       "title": "Florence: 67 people, 12 pets in one day",
       "views": 131.0,
       "ret": 44.64,
-      "score": -1.617
+      "score": -1.616
     },
     {
       "short_id": "ccf-20261111-01",
@@ -1320,7 +1320,7 @@
       "title": "Clinging to a flipped boat 12 miles out",
       "views": 33.0,
       "ret": 64.08,
-      "score": -1.798
+      "score": -1.797
     },
     {
       "short_id": "ccf-20261108-24",
@@ -1487,6 +1487,9 @@
       "notes": "One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame."
     }
   ],
-  "config_changed_at": "2026-11-26T12:08:43Z",
-  "changed": []
+  "config_changed_at": "2026-11-27T11:57:37Z",
+  "changed": [
+    "lane_mix {'rescue': 0.19, 'aviation_naval': 0.71, 'hazards': 0.1} -> {'rescue': 0.15, 'aviation_naval': 0.75, 'hazards': 0.1}",
+    "query weights for 81 searches"
+  ]
 }
