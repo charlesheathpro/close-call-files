@@ -26,7 +26,7 @@
   "time_start": 4.07073,
   "aspect_ratio": "16:9",
   "id": "dvids-video-631754",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T20:41:02Z",
   "duration": 42.04,
   "source_file": {
@@ -158,5 +158,6 @@
     35.69,
     38.03,
     40.37
-  ]
+  ],
+  "pass_reason": "only about 10 s of firing, mostly interview and parked vehicle"
 }

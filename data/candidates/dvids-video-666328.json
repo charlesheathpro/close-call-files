@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-666328",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:46:14Z",
   "duration": 82.77,
   "source_file": {
@@ -70,5 +70,6 @@
     69.42,
     74.56,
     79.7
-  ]
+  ],
+  "pass_reason": "washed-out repetitive hoist cam; patient found unconscious (medical)"
 }

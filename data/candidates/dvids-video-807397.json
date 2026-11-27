@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-807397",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-02T09:59:26Z",
   "duration": 430.93,
   "source_file": {
@@ -83,5 +83,6 @@
     363.18,
     390.08,
     416.98
-  ]
+  ],
+  "pass_reason": "routine helicopter and sonobuoy training, no event or outcome"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.0587,
   "aspect_ratio": "16:9",
   "id": "dvids-video-368439",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:59:38Z",
   "duration": 269.65,
   "source_file": {
@@ -71,5 +71,6 @@
     227.73,
     244.3,
     260.87
-  ]
+  ],
+  "pass_reason": "distant training rappel, no real rescue"
 }

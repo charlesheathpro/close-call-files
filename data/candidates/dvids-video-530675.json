@@ -26,7 +26,7 @@
   "time_start": 3.82513,
   "aspect_ratio": "16:9",
   "id": "dvids-video-530675",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T17:46:33Z",
   "duration": 57.26,
   "source_file": {
@@ -68,5 +68,6 @@
     48.49,
     51.8,
     55.11
-  ]
+  ],
+  "pass_reason": "rotated hoist cam, near repeat of 26-03 cruise ship litter hoist off Alaska"
 }
