@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-547994",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T08:31:53Z",
   "duration": 103.0,
   "source_file": {
@@ -87,5 +87,6 @@
     86.49,
     92.89,
     99.3
-  ]
+  ],
+  "pass_reason": "Harvey flood search b-roll; release states no rescue or outcome"
 }
