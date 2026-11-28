@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-NASA-Marshall-Implodes-Historic-Test-Stands-MSFC-Demolition-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T17:10:21Z",
   "duration": 153.54,
   "source_file": {
@@ -80,5 +80,6 @@
     129.13,
     138.69,
     148.26
-  ]
+  ],
+  "pass_reason": "Same Jan. 10, 2026 Marshall test stand implosion as ccf-20261108-24 (playbook: do less of)."
 }
