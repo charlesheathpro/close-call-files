@@ -1,8 +1,8 @@
 {
- "at": "2026-11-28T14:20:00Z",
+ "at": "2026-11-28T18:20:00Z",
  "healthy": false,
- "numbers": {"passed": 84, "needs_build": 0, "needs_qa": 0, "build_failed": 88, "uploaded": 275, "dropped": 104, "scheduled_next_48h": 9, "scheduled_nov28_mt": 10, "scheduled_nov29_mt": 1},
- "note": "Nothing to QA. Nov 28 MT is full (10). Nov 29 has 1 because the YouTube daily upload cap runs until 2026-11-28T22:52Z; the upload cron fills Nov 29 from the 84 passed Shorts after that, before the 6 PM MT check. Upload runs landing (last 14:01Z), harvest 2026-11-27 19:33Z and stats on time. No editor pass: 84 passed is about 8 days of supply and new specs cannot be voiced (ccf-20261128-01 and -02 both failed on ElevenLabs quota).",
- "fixed": ["Control Room refreshed (all 6 datasets uploaded and repointed)"],
- "needs_charles": "ElevenLabs quota is used up (0 credits). 88 specs failed to build (ccf-20261122-25 through ccf-20261128-02). Add credits or wait for the monthly reset, then add the IDs to triggers/build-ids and push triggers/build."
+ "numbers": {"passed": 84, "needs_build": 0, "needs_qa": 0, "build_failed": 96, "uploaded": 275, "dropped": 104, "scheduled_next_48h": 7, "scheduled_nov28_mt": 10, "scheduled_nov29_mt": 1},
+ "note": "Nothing to QA. Nov 28 MT full (10). Nov 29 has 1 because the YouTube daily upload cap runs until 2026-11-28T22:52Z; the upload cron fills Nov 29 from the 84 passed Shorts after that, before the 6 PM MT check. Upload (17:32Z), harvest (18:12Z) and stats landing on time. No editor pass: 84 passed is about 8 days of supply and new specs cannot be voiced (ccf-20261128-03 to -10 also failed on ElevenLabs quota).",
+ "fixed": ["dashboard data regenerated; Control Room upload was blocked by a permission check this run"],
+ "needs_charles": "ElevenLabs quota is used up (0 credits). 96 specs failed to build (ccf-20261122-25 through ccf-20261128-10). Add credits or wait for the monthly reset, then add the IDs to triggers/build-ids and push triggers/build."
 }
