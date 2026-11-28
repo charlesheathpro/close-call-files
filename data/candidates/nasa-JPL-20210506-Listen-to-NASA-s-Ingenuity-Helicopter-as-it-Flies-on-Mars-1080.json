@@ -1,0 +1,62 @@
+{
+  "asset_id": "nasa:JPL-20210506-Listen to NASA’s Ingenuity Helicopter as it Flies on Mars-1080",
+  "source": "nasa",
+  "lane": "aviation_naval",
+  "matched_query": "editor manual",
+  "title": "NASA’s Perseverance Rover Hears Ingenuity Mars Helicopter in Fligh",
+  "description": "On April 30, 2021, NASA’s Perseverance rover made history as the first spacecraft to record sounds from another spacecraft on another planet. During Ingenuity’s fourth flight, a microphone included with the SuperCam instrument aboard Perseverance captured the humming sound of the blades and the din of wind. The audio is recorded in mono. Scientists made it easier to hear by isolating the 84 hertz helicopter blade sound, reducing the frequencies below 80 hertz and above 90 hertz, and increasing the volume of the remaining signal. Some frequencies were clipped to bring out the helicopter’s hum, which is loudest when the helicopter passes through the field of view of the camera. NASA’s Ingenuity Mars Helicopter became the first aircraft in history to make a powered, controlled flight on another planet on April 19, 2021.    Perseverance touched down at Octavia E. Butler Landing with Ingenuity attached to its belly on Feb. 18, 2021. The helicopter was deployed to the surface of Jezero Crater on April 3.  For more information on this flight, visit the Ingenuity blog: https://mars.nasa.gov/technology/helicopter/status/297/ingenuity-completes-its-fourth-flight/  More information on the Ingenuity experiment is at: https://go.nasa.gov/ingenuity   Credit: NASA/JPL-Caltech/ASU/MSSS/LANL/CNES/CNRS/ISAE-SUPAERO",
+  "keywords": "NASA, Jet Propulsion Laboratory, JPL, Mars 2020, Mars, helicopter, rover, rovers, testing, life on Mars, Red Planet, exploration, robots, robotic exploration, tech, technology, robotics, engineering, space, science, Mars exploration, Perseverance, astrobiology, driving, Ingenuity, drone, drones on other planets, flying, flight, Jezero Crater, rotorcraft, technology demonstration, mars helicopter, tech demo, fourth flight, challenge, flight four, Wright Brothers Field, Octavia E. Butler, 4th flight, sound, sound from another planet, spacecraft, history, audio, space sounds",
+  "date": "2021-05-07T00:00:00Z",
+  "branch": "NASA",
+  "unit_name": "NASA JPL",
+  "credit": "NASA JPL video",
+  "page_url": "https://images.nasa.gov/details/JPL-20210506-Listen%20to%20NASA%E2%80%99s%20Ingenuity%20Helicopter%20as%20it%20Flies%20on%20Mars-1080",
+  "via": "the NASA Image and Video Library",
+  "license": "Public domain (NASA work, U.S. government)",
+  "location": {},
+  "time_start": 0.0,
+  "id": "nasa-JPL-20210506-Listen-to-NASA-s-Ingenuity-Helicopter-as-it-Flies-on-Mars-1080",
+  "status": "passed_over",
+  "harvested_at": "2026-11-28T04:45:24Z",
+  "duration": 164.88,
+  "source_file": {
+    "src": "https://images-assets.nasa.gov/video/JPL-20210506-Listen%20to%20NASA%E2%80%99s%20Ingenuity%20Helicopter%20as%20it%20Flies%20on%20Mars-1080/JPL-20210506-Listen%20to%20NASA%E2%80%99s%20Ingenuity%20Helicopter%20as%20it%20Flies%20on%20Mars-1080~orig.mp4",
+    "width": 1920,
+    "height": 1080,
+    "duration": 164.864708
+  },
+  "transcript_source": "whisper",
+  "transcript": [],
+  "scene_cuts": [],
+  "drama_score": 17,
+  "audio": {
+    "silence_starts": [
+      0.0,
+      152.9
+    ],
+    "silence_ends": [
+      5.1,
+      164.9
+    ]
+  },
+  "sheet": "data/candidates/nasa-JPL-20210506-Listen-to-NASA-s-Ingenuity-Helicopter-as-it-Flies-on-Mars-1080.jpg",
+  "sheet_times": [
+    5.14,
+    15.41,
+    25.69,
+    35.96,
+    46.23,
+    56.51,
+    66.78,
+    77.06,
+    87.33,
+    97.6,
+    107.88,
+    118.15,
+    128.43,
+    138.7,
+    148.97,
+    159.25
+  ],
+  "pass_reason": "Credit includes non-federal partners (ASU, MSSS, CNES, LANL); helicopter is a speck in one static view"
+}
