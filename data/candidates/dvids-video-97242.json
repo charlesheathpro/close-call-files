@@ -26,7 +26,7 @@
   "time_start": 4.03737,
   "aspect_ratio": "4:3",
   "id": "dvids-video-97242",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:38:19Z",
   "duration": 128.93,
   "source_file": {
@@ -73,5 +73,6 @@
     108.99,
     116.77,
     124.54
-  ]
+  ],
+  "pass_reason": "routine HH-60 deck landing in calm seas"
 }

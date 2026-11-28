@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-936318",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:55:00Z",
   "duration": 609.04,
   "source_file": {
@@ -251,5 +251,6 @@
     513.46,
     551.49,
     589.52
-  ]
+  ],
+  "pass_reason": "USAR exercise, 10 min of drill footage, no danger"
 }

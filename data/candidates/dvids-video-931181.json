@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "16:9",
   "id": "dvids-video-931181",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-11T00:35:47Z",
   "duration": 59.54,
   "source_file": {
@@ -177,5 +177,6 @@
     49.82,
     53.51,
     57.2
-  ]
+  ],
+  "pass_reason": "Rescue Flag exercise, routine training"
 }
