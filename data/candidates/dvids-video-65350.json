@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-65350",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-10T16:37:11Z",
   "duration": 68.21,
   "source_file": {
@@ -127,5 +127,6 @@
     57.13,
     61.36,
     65.59
-  ]
+  ],
+  "pass_reason": "same event as dvids-video-314408, used by ccf-20261128-09"
 }
