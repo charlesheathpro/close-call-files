@@ -1,4 +1,4 @@
-# Playbook (computed 2026-11-28T04:55:57Z from 244 Shorts older than 48 hours)
+# Playbook (computed 2026-11-28T11:32:29Z from 244 Shorts older than 48 hours)
 
 Written every night by pipeline/learn.py from the channel's own numbers. Positive effect means Shorts with that feature beat the channel average (score mixes views, average percent watched and subscribers per 1,000 views).
 
@@ -23,11 +23,11 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - story: volcano eruption (-0.39, 2 Shorts)
 
 ## Best Shorts
-- Raft in heavy seas, 40 miles out: 165875 views, 101% watched
-- Biggest blast on an Army base in 10 years: 24059 views, 90% watched
-- Parachuting to a sick sailor at sea: 48197 views, 78% watched
+- Raft in heavy seas, 40 miles out: 166942 views, 101% watched
+- Biggest blast on an Army base in 10 years: 24078 views, 90% watched
+- Parachuting to a sick sailor at sea: 48279 views, 78% watched
 - Flipped hull 11 miles out, 3 men on top: 47530 views, 81% watched
-- Engineer rides an F/A-18 through a loop: 41302 views, 83% watched
+- Engineer rides an F/A-18 through a loop: 41310 views, 83% watched
 
 ## Weakest Shorts
 - Florence: 67 people, 12 pets in one day: 131 views, 45% watched
@@ -48,3 +48,7 @@ Written every night by pipeline/learn.py from the channel's own numbers. Positiv
 - ccf-20261122-18: Calm blue-sky basket transfer with no visible danger; most of the 30 s is the same underside shot of the Jayhawk from a rain-spotted lens, and the 33 s source has nothing else to cut to. Dropped.
 - ccf-20261122-22: About 35 seconds of grey lunar surface through the LM window with nothing changing; the computer alarms are only narrated, never seen, and the last shot is a letterboxed quarantine room.
 - ccf-20261122-27: One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame.
+
+## Changed tonight
+- lane_mix {'rescue': 0.15, 'aviation_naval': 0.75, 'hazards': 0.1} -> {'rescue': 0.11, 'aviation_naval': 0.79, 'hazards': 0.1}
+- query weights for 86 searches

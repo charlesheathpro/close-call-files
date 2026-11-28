@@ -1,5 +1,5 @@
 {
-  "at": "2026-11-28T04:55:57Z",
+  "at": "2026-11-28T11:32:29Z",
   "mature": 244,
   "features": [
     {
@@ -63,6 +63,11 @@
       "effect": 0.34
     },
     {
+      "feature": "story: tsunami surge tearing through a harbor, seen from a coast guard helicopter",
+      "n": 1,
+      "effect": 0.33
+    },
+    {
       "feature": "story: launch abort test",
       "n": 1,
       "effect": 0.32
@@ -74,11 +79,6 @@
     },
     {
       "feature": "story: sinking exercise filmed by cameras aboard the target ship",
-      "n": 1,
-      "effect": 0.32
-    },
-    {
-      "feature": "story: tsunami surge tearing through a harbor, seen from a coast guard helicopter",
       "n": 1,
       "effect": 0.32
     },
@@ -128,16 +128,6 @@
       "effect": 0.29
     },
     {
-      "feature": "story: capsized boat, people in the water",
-      "n": 1,
-      "effect": 0.29
-    },
-    {
-      "feature": "story: heavy-lift helicopter sling-loads a stranded 11,800-pound buoy off a beach",
-      "n": 1,
-      "effect": 0.29
-    },
-    {
       "feature": "story: swimmer and basket lowered onto a moving tug far offshore",
       "n": 1,
       "effect": 0.29
@@ -148,7 +138,17 @@
       "effect": 0.29
     },
     {
+      "feature": "story: capsized boat, people in the water",
+      "n": 1,
+      "effect": 0.28
+    },
+    {
       "feature": "story: freefall jump out of an airplane into a lake",
+      "n": 1,
+      "effect": 0.28
+    },
+    {
+      "feature": "story: heavy-lift helicopter sling-loads a stranded 11,800-pound buoy off a beach",
       "n": 1,
       "effect": 0.28
     },
@@ -493,11 +493,6 @@
       "effect": 0.04
     },
     {
-      "feature": "story: boarding team jumps onto a moving narco semi-submersible, helmet cam",
-      "n": 1,
-      "effect": 0.03
-    },
-    {
       "feature": "story: cruise ship medevac hoist",
       "n": 1,
       "effect": 0.03
@@ -516,6 +511,11 @@
       "feature": "story: hurricane boat crew rescue with babies",
       "n": 1,
       "effect": 0.03
+    },
+    {
+      "feature": "story: boarding team jumps onto a moving narco semi-submersible, helmet cam",
+      "n": 1,
+      "effect": 0.02
     },
     {
       "feature": "story: disabled gambling ship in heavy seas, basket hoist",
@@ -1317,37 +1317,37 @@
     {
       "short_id": "ccf-20261119-10",
       "title": "Raft in heavy seas, 40 miles out",
-      "views": 165875.0,
+      "views": 166942.0,
       "ret": 101.29999999999998,
-      "score": 2.436
+      "score": 2.437
     },
     {
       "short_id": "ccf-20261117-26",
       "title": "Biggest blast on an Army base in 10 years",
-      "views": 24059.0,
-      "ret": 89.71,
+      "views": 24078.0,
+      "ret": 89.75,
       "score": 1.627
     },
     {
       "short_id": "ccf-20261115-27",
       "title": "Parachuting to a sick sailor at sea",
-      "views": 48197.0,
+      "views": 48279.0,
       "ret": 78.27,
-      "score": 1.589
+      "score": 1.588
     },
     {
       "short_id": "ccf-20261107-62",
       "title": "Flipped hull 11 miles out, 3 men on top",
       "views": 47530.0,
       "ret": 80.89,
-      "score": 1.56
+      "score": 1.559
     },
     {
       "short_id": "ccf-20261115-53",
       "title": "Engineer rides an F/A-18 through a loop",
-      "views": 41302.0,
+      "views": 41310.0,
       "ret": 83.05,
-      "score": 1.556
+      "score": 1.555
     }
   ],
   "bottom": [
@@ -1377,14 +1377,14 @@
       "title": "Saturn V test tower comes down",
       "views": 59.0,
       "ret": 48.56,
-      "score": -1.911
+      "score": -1.91
     },
     {
       "short_id": "ccf-20261101-07",
       "title": "Dog hoisted from a sinking catamaran",
       "views": 14.0,
       "ret": 67.2,
-      "score": -2.075
+      "score": -2.074
     }
   ],
   "query_weights": {
@@ -1526,6 +1526,9 @@
       "notes": "One continuous helicopter shot of a normal, uneventful launch for the whole Short; no danger, no turn, and the rocket is small in the frame."
     }
   ],
-  "config_changed_at": "2026-11-27T11:57:37Z",
-  "changed": []
+  "config_changed_at": "2026-11-28T11:32:29Z",
+  "changed": [
+    "lane_mix {'rescue': 0.15, 'aviation_naval': 0.75, 'hazards': 0.1} -> {'rescue': 0.11, 'aviation_naval': 0.79, 'hazards': 0.1}",
+    "query weights for 86 searches"
+  ]
 }
