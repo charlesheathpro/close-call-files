@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-359948",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:55:36Z",
   "duration": 88.68,
   "source_file": {
@@ -127,5 +127,6 @@
     75.03,
     80.29,
     85.55
-  ]
+  ],
+  "pass_reason": "washed-out FLIR deck view, no sea action"
 }

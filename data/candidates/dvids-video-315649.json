@@ -26,7 +26,7 @@
   "time_start": 17.5509,
   "aspect_ratio": "4:3",
   "id": "dvids-video-315649",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:57:45Z",
   "duration": 17.69,
   "source_file": {
@@ -54,5 +54,6 @@
     ]
   },
   "sheet": "data/candidates/dvids-video-315649.jpg",
-  "sheet_times": null
+  "sheet_times": null,
+  "pass_reason": "duplicate of ccf-20261117-05"
 }

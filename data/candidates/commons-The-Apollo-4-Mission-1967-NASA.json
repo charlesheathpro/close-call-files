@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-The-Apollo-4-Mission-1967-NASA",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-21T05:16:06Z",
   "duration": 741.54,
   "source_file": {
@@ -811,5 +811,6 @@
     625.25,
     671.57,
     717.88
-  ]
+  ],
+  "pass_reason": "duplicate of ccf-20261121-06"
 }

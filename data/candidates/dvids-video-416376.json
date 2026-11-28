@@ -26,7 +26,7 @@
   "time_start": 4.02533,
   "aspect_ratio": "4:3",
   "id": "dvids-video-416376",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:35:21Z",
   "duration": 101.99,
   "source_file": {
@@ -197,5 +197,6 @@
     86.26,
     92.36,
     98.45
-  ]
+  ],
+  "pass_reason": "static top-down litter close-ups of a patient"
 }

@@ -26,7 +26,7 @@
   "time_start": 4.359,
   "aspect_ratio": "4:3",
   "id": "dvids-video-464893",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T20:51:14Z",
   "duration": 149.33,
   "source_file": {
@@ -394,5 +394,6 @@
     126.26,
     135.29,
     144.32
-  ]
+  ],
+  "pass_reason": "cabin fisheye only"
 }

@@ -26,7 +26,7 @@
   "time_start": 0.0,
   "aspect_ratio": "4:3",
   "id": "dvids-video-317241",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T08:56:34Z",
   "duration": 212.0,
   "source_file": {
@@ -77,5 +77,6 @@
     178.45,
     191.67,
     204.89
-  ]
+  ],
+  "pass_reason": "duplicate of ccf-20261123-05 (Intrepid hoist)"
 }

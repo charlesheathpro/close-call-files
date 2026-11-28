@@ -26,7 +26,7 @@
   "time_start": 2.26893,
   "aspect_ratio": "4:3",
   "id": "dvids-video-79684",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-09T09:05:35Z",
   "duration": 100.37,
   "source_file": {
@@ -79,5 +79,6 @@
     84.62,
     90.72,
     96.82
-  ]
+  ],
+  "pass_reason": "mostly title cards and ambulance transfer"
 }
