@@ -16,7 +16,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "nasa-iss060m262481254-Hurricane-Dorian-Live-Views-Sept-5-2019-0905",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-10-28T00:43:05Z",
   "duration": 1054.63,
   "source_file": {
@@ -2697,5 +2697,6 @@
     889.42,
     955.31,
     1021.19
-  ]
+  ],
+  "pass_reason": "slow single ISS view, same kind dropped as 20261030-09"
 }

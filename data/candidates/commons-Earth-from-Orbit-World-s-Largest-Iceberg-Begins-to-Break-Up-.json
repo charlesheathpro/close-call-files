@@ -17,7 +17,7 @@
   "location": {},
   "time_start": 0.0,
   "id": "commons-Earth-from-Orbit-World-s-Largest-Iceberg-Begins-to-Break-Up-",
-  "status": "new",
+  "status": "passed_over",
   "harvested_at": "2026-11-12T08:33:33Z",
   "duration": 96.6,
   "source_file": {
@@ -61,5 +61,6 @@
     81.08,
     87.09,
     93.1
-  ]
+  ],
+  "pass_reason": "mostly false-color satellite stills, no danger"
 }
